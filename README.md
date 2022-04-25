@@ -1,6 +1,6 @@
 # Digital Scriptorium data
 
-Repository for CSVs of enriched DS data.
+Repository for CSVs DS data.
 
 New files should be called: `DATE-name.csv`, where `DATE` is the date the file was created in `YYYY-MM-DD` format and `name` is a one-word description, like `jhu`, `combined`, `upenn`, etc.
 
