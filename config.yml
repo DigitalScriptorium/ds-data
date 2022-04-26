@@ -1,0 +1,91 @@
+---
+- :qid: Q814779
+  :name: Beinecke Rare Book & Manuscript Library
+  :directory: beinecke
+- :qid: Q995265
+  :name: Bryn Mawr College
+  :directory: brynmawr
+- :qid: Q63969940
+  :name: Burke Library at Union Theological Seminary
+  :directory: burke
+- :qid: Q5146808
+  :name: The College of Physicians of Philadelphia
+  :directory: cpp
+- :qid: Q30257935
+  :name: Conception Abbey and Seminary
+  :directory: conception
+- :qid: Q1093910
+  :name: City College of New York
+  :directory: ccny
+- :qid: Q5021042
+  :name: State of California
+  :directory: csl
+- :qid: Q49088
+  :name: Columbia University
+  :directory: columbia
+- :qid: Q49115
+  :name: Cornell University
+  :directory: cornell
+- :qid: Q3087288
+  :name: Free Library of Philadelphia
+  :directory: flp
+- :qid: Q1501676
+  :name: General Theological Seminary
+  :directory: gts
+- :qid: Q5174002
+  :name: Grolier Club
+  :directory: grolier
+- :qid: Q13371
+  :name: Harvard University
+  :directory: harvard
+- :qid: Q1400558
+  :name: Huntington Library, Art Museum, and Botanical Gardens
+  :directory: huntington
+- :qid: Q1079140
+  :name: Indiana University, Bloomington
+  :directory: indiana
+- :qid: Q52413
+  :name: University of Kansas
+  :directory: kansas
+- :qid: Q1976985
+  :name: Nelson-Atkins Museum of Art
+  :directory: nelsonatkins
+- :qid: Q49210
+  :name: New York University
+  :directory: nyu
+- :qid: Q510324
+  :name: Philadelphia Museum of Art
+  :directory: pma
+- :qid: Q21578
+  :name: Princeton University
+  :directory: princeton
+- :qid: Q20745482
+  :name: Providence Public Library
+  :directory: providence
+- :qid: Q499451
+  :name: Rutgers, The State University of New Jersey
+  :directory: rutgers
+- :qid: Q5090408
+  :name: Science History Institute
+  :directory: shi
+- :qid: Q1378320
+  :name: Swarthmore College
+  :directory: swarthmore
+- :qid: Q168756
+  :name: University of California, Berkeley
+  :directory: ucb
+- :qid: Q579968
+  :name: University of Missouri
+  :directory: missouri
+- :qid: Q766145
+  :name: University of Oregon
+  :directory: oregon
+- :qid: Q49117
+  :name: University of Pennsylvania
+  :directory: penn
+- :qid: Q49205
+  :name: Wellesley College
+  :directory: wellesley
+- :qid: Q49112
+  :name: Yale University
+  :directory: yale
