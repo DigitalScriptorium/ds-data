@@ -4,15 +4,21 @@
 require 'optparse'
 require 'csv'
 require 'yaml'
+require 'logger'
 
 
+OUT_DIR              = File.expand_path '../member-data', __FILE__
 QID_DEFAULT         = 'holding_institution'
 AS_RECORDED_DEFAULT = 'holding_institution_as_recorded'
 DEFAULT_CONFIG      = File.expand_path '../config.yml', __FILE__
+
 options             = {
   qid:         QID_DEFAULT,
   as_recorded: AS_RECORDED_DEFAULT,
 }
+
+logger = Logger.new STDOUT
+logger.level = Logger::INFO
 
 def validate_csv csv, options
   errors = []
@@ -126,6 +132,11 @@ ARGV.options do |opts|
     options[:as_recorded] = as_recorded
   end
 
+  c_msg = %Q{Overwrite existing CSVs}
+  opts.on '-c', '--clobber', c_msg do |clobber|
+    options[:clobber] = clobber
+  end
+
   opts.parse!
 end
 
@@ -134,6 +145,49 @@ abort "Cannot find find config file #{DEFAULT_CONFIG}" unless File.exist? DEFAUL
 config = YAML.load_file DEFAULT_CONFIG
 csv = ARGV.shift
 
+
+abort "Please provide a CSV file" unless csv
+abort "Cannot find CSV file: '#{csv}'" unless File.exist? csv
+
+
+qid_col = options[:qid]
+name_col = options[:as_recorded]
+
 validate_config config
 validate_csv csv, options
 check_config config, csv, options
+
+CSV_NAME_PATTERN = %r{(\d{4}-\d{2}-\d{3})(.*)\.csv}
+csv =~ CSV_NAME_PATTERN
+file_date = $1
+file_detail = $2
+out_base = "#{file_date}#{file_detail}"
+out_base = File.basename(csv, '.csv') if out_base.strip.empty?
+
+header = CSV.readlines(csv).first
+lines_by_qid = {}
+CSV.foreach csv, headers: true do |row|
+  qid = row[qid_col]
+  (lines_by_qid[qid] ||= []) << row
+end
+
+config.each do |inst|
+  next unless lines_by_qid.include? inst[:qid]
+  dir          = inst[:directory]
+  inst_out_dir = File.join OUT_DIR, dir
+  out_file     = File.join inst_out_dir, "#{out_base}-#{dir}.csv"
+  Dir.mkdir inst_out_dir unless Dir.exist? inst_out_dir
+  if File.exist? out_file
+    if options[:clobber]
+      logger.warn { "Overwriting existing file: #{out_file}" }
+    else
+      logger.warn { "File exists; skipping: #{out_file}"}
+      next
+    end
+  end
+  CSV.open out_file, 'wb' do |csv|
+    csv << header
+    lines_by_qid[inst[:qid]].each { |row| csv << row }
+  end
+  logger.info { "Wrote: #{out_file}" }
+end
