@@ -59,13 +59,14 @@ The workflow is as follows.
 
 A. Terms reconciliations
 
-- Term extraction: All terms (names, places, genres, etc.) are extracted from the new data.
+- Term extraction: All terms (names, places, genres, etc.) are extracted from
+  the new data.
 
-The list contains all terms from the data, but previously reconciled terms
-will be accompanied by their URIs/identifiers.
+The lists will contain all terms from the new data, but previously reconciled
+terms will be accompanied by their URIs/identifiers.
 
 - Reconciliation: New terms (those not previously reconciled) are reconciled
-  and added to the appropriated CSVs in the `terms` folder (`places.csv`,
+  and added to the appropriate CSVs in the `terms` folder (`places.csv`,
   `names.csv`, etc.)
 
 B. Import CSV preparation
@@ -82,4 +83,4 @@ C. Data import
 
 - Data import and CSV updat: The file `import/batch-<DATE>/clean-recon.csv` is
   imported into DS, and the output CSV with DS IDs is added to
-  `import/batch-<DATE>` as `importe.csv`.
+  `import/batch-<DATE>` as `imported.csv`.
