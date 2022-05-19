@@ -36,11 +36,15 @@ Directory structure:
 .
 |-- import
 |   |-- batch-20220223
+|   |   |-- README.md
 |   |   |-- base.csv
-|   |   |-- clean-recon.csv
+|   |   |-- clean.csv
 |   |   `-- imported.csv
 |   `-- batch-20220505
-|       `-- base.csv
+|       |-- README.md
+|       |-- base.csv
+|       |-- clean.csv
+|       `-- imported.csv
 `-- terms
     |-- genres.csv
     |-- names.csv
@@ -51,36 +55,31 @@ Directory structure:
 
 The workflow is as follows.
 
-- Doug receives a set of raw data.
+- A new set of raw data (CSV, MARC XML) is received.
 
 A. Terms reconciliations
 
-- Update terms CSVs from source: Doug produces new versions of the `terms`
-  CSVs.
+- Term extraction: All terms (names, places, genres, etc.) are extracted from the new data.
 
-The process is additive. Each new version of a list (like `genres.csv`) will
-add terms not in its previous version, keeping all the existing terrms. No
-terms should be removed from a list.
+The list contains all terms from the data, but previously reconciled terms
+will be accompanied by their URIs/identifiers.
 
-- Reconcile and update terms CSVs: L.P. perfoms reconciliation on each new
-  `terms` list, and updates each file in this repo: `terms/genres.csv`,
-  `terms/names.csv`. etc.
-
-This process neither adds nor subtracts rows from the CSVs, only adds values
-to the authority columns.
+- Reconciliation: New terms (those not previously reconciled) are reconciled
+  and added to the appropriated CSVs in the `terms` folder (`places.csv`,
+  `names.csv`, etc.)
 
 B. Import CSV preparation
 
-- Extract to `base` import CSV: Using new raw data and updated `terms` CSVs,
-  Doug creates a new `base.csv` in the folder `import/batch-<DATE>`.
+- Extraction of import CSV: Using new raw data and updated `terms` CSVs, a new
+  `base.csv` is generated and added to the folder `import/batch-<DATE>`.
 
-- Clean and complete recon: Using the `base.csv`, L.P. peforms data cleaning
-  and reconciliation on language and material columns; performs any other
-  cleaning needed, and adds a file `clean-recon.csv` to `import/batch-<DATE>`.
+- Cleaning and reconciliation: The `base.csv` is processed in OpenRefine for
+  reconciliation of language and material columns; any other needed cleaning is
+  preformed, and the result is added as `clean.csv` to
+  `import/batch-<DATE>`.
 
-C. Import data
+C. Data import
 
-- Perform immport and update CSV: Using the file
-  `import/batch-<DATE>/clean-recon.csv`, Doug adds/updates the records in DS,
-  which produces an update CSV with DS IDs. This sheet is added to
+- Data import and CSV updat: The file `import/batch-<DATE>/clean-recon.csv` is
+  imported into DS, and the output CSV with DS IDs is added to
   `import/batch-<DATE>` as `importe.csv`.
