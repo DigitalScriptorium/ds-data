@@ -57,6 +57,61 @@ forth.
    e.g., `2022-06-13-combined-imported.csv`.
 7. Add notes about the import to the README.
 
+## Proposed alternate workflow
+
+```
+.
+|-- import
+|   |-- batch-20220223
+|   |   |-- README.md
+|   |   |-- base.csv
+|   |   |-- clean.csv
+|   |   `-- imported.csv
+|   `-- batch-20220505
+|       |-- README.md
+|       |-- base.csv
+|       |-- clean.csv
+|       `-- imported.csv
+`-- terms
+    |-- genres.csv
+    |-- names.csv
+    |-- places.csv
+    |-- subjects-named.csv
+    `-- subjects.csv
+```
+
+The workflow is as follows.
+
+- A new set of raw data (CSV, MARC XML) is received.
+
+A. Terms reconciliations
+
+- Term extraction: All terms (names, places, genres, etc.) are extracted from
+  the new data.
+
+The lists will contain all terms from the new data, but previously reconciled
+terms will be accompanied by their URIs/identifiers.
+
+- Reconciliation: New terms (those not previously reconciled) are reconciled
+  and added to the appropriate CSVs in the `terms` folder (`places.csv`,
+  `names.csv`, etc.)
+
+B. Import CSV preparation
+
+- Extraction of import CSV: Using new raw data and updated `terms` CSVs, a new
+  `base.csv` is generated and added to the folder `import/batch-<DATE>`.
+
+- Cleaning and reconciliation: The `base.csv` is processed in OpenRefine for
+  reconciliation of language and material columns; any other needed cleaning is
+  preformed, and the result is added as `clean.csv` to
+  `import/batch-<DATE>`.
+
+C. Data import
+
+- Data import and CSV updat: The file `import/batch-<DATE>/clean-recon.csv` is
+  imported into DS, and the output CSV with DS IDs is added to
+  `import/batch-<DATE>` as `imported.csv`.
+
 ## Splitting files
 
 CSVs in the workflow directory should be split into institution-specific
