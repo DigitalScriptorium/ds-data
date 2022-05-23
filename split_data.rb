@@ -7,7 +7,7 @@ require 'yaml'
 require 'logger'
 
 LOGGER = Logger.new STDOUT
-LOGGER.level = (Logger::DEBUG || ENV['DS_LOGLEVEL'])
+LOGGER.level = (ENV['DS_LOGLEVEL'] || Logger::DEBUG)
 
 OUT_DIR              = File.expand_path '../member-data', __FILE__
 QID_DEFAULT         = 'holding_institution'
@@ -115,7 +115,13 @@ def validate_config config
 end
 
 ARGV.options do |opts|
-  opts.banner = "Usage: #{File.basename __FILE__} [OPTIONS] CSV_TO_SPLIT"
+  opts.banner = <<~EOF
+Usage: #{File.basename __FILE__} [OPTIONS] CSV_TO_SPLIT
+
+Split CSV_TO_SPLIT by institution QIDs and put into institution folders in
+'member-data'.
+
+EOF
 
   q_msg = %Q{Institution QID column; default: #{QID_DEFAULT}  }
   opts.on '-q', '--qid-column COLUMN', q_msg do |qid|
@@ -134,6 +140,23 @@ ARGV.options do |opts|
 
   opts.on '--verbose', 'Be verbose' do |verbose|
     options[:verbose] = verbose
+  end
+
+  opts.on('-h', '--help', 'Prints this help') do
+    puts opts
+    puts <<~EOF
+
+Institution folders are defined in 'config.yml'.
+
+Validation confirms that:
+
+1. The `config.yml` file has no duplicates
+2. The CSV has institution QID and 'as recorded' columns
+3. All rows in the CSV have institution QIDs
+4. All the QIDs in the CSV are in `config.yml`
+
+EOF
+    exit
   end
 
   opts.parse!
