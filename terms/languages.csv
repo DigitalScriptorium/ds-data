@@ -21,7 +21,7 @@ Catalan|Latin,,Latin|Catalan,Q397|Q7026
 Chiefly Ottoman Turkish with Persian and Arabic vocabulary and headings in Arabic.,ota|ara|per,Persian|Arabic|Ottoman Turkish,Q9168|Q13955|Q36730
 Dutch,,Dutch,Q7411
 East Middle Dutch,,Middle Dutch,Q178806
-English,,EnglishEnglish,engQ1860
+English,,English,Q1860
 English; Latin|Latin,,English|Latin,Q1860|Q397
 French,,French,Q150
 French; Latin,,French|Latin,Q150|Q397
@@ -55,8 +55,8 @@ Italian.,ita,Italian,Q652
 Italian|Italian,,Italian,Q652
 Italian|Latin; Italian,,Italian|Latin,Q652|Q397
 Language: Latin. Cover flyleaf and rear board contain notes written in Italian.,|lat,Italian|Latin,Q652|Q397
-Latin,lat,LatinLatin,latQ397
-Latin,,LatinLatin,latQ397
+Latin,lat,Latin,Q397
+Latin,,Latin,Q397
 Latin (f. 1r-5r) and Italian with rubrics in Latin (f. 5v-20r).,lat|ita,Italian|Latin,Q652|Q397
 "Latin, with a few poems in Italian (f. 106r-108v).",lat|ita,Italian|Latin,Q652|Q397
 "Latin, with a few words in Spanish (f. 7r).",lat|spa,Latin|Spanish,Q397|Q1321
