@@ -1,0 +1,147 @@
+language_as_recorded;language_code;authorized_label;structured_value
+Anglo-Norman;xno;Anglo-Norman;Q35214
+Anglo-Saxon;;Old English;Q42365
+"Anglo-Saxon; Latin";;Old English|Latin;Q42365|Q397
+Arabic;"ara;eng";Arabic;Q13955
+Arabic;ara;Arabic;Q13955
+Arabic and Persian;"ara;per";Persian|Arabic;Q9168|Q13955
+Arabic headwords, Ottoman definitions;"ara;ota";Arabic|Ottoman Turkish;Q13955|Q36730
+Arabic text with Persian marginalia;"ara;per";Persian|Arabic;Q9168|Q13955
+Arabic with 13 pages in Ottoman Turkish;"ara;ota";Arabic|Ottoman Turkish;Q13955|Q36730
+Arabic with a few statements in Persian;"ara;per";Persian|Arabic;Q9168|Q13955
+Arabic with some Ottoman Turkish;"ara;ota";Arabic|Ottoman Turkish;Q13955|Q36730
+Arabic with some Persian marginalia;"ara;per";Persian|Arabic;Q9168|Q13955
+Arabic with some marginalia in Persian;"ara;per";Persian|Arabic;Q9168|Q13955
+Arabic with some notes in Persian;ara;Persian|Arabic;Q9168|Q13955
+Arabic with translation in Persian;"ara;per";Persian|Arabic;Q9168|Q13955
+Arabic, with colophon in Arabic and Ottoman Turkish (in Arabic script, f. 8v);ara;Arabic|Ottoman Turkish;Q13955|Q36730
+"Arabic; some notes in Persian";"ara;per";Persian|Arabic;Q9168|Q13955
+Armenian;;Armenian;Q8785
+Catalan;;Catalan;Q7026
+Chiefly Ottoman Turkish with Persian and Arabic vocabulary and headings in Arabic;"ota;ara;per";Persian|Arabic|Ottoman Turkish;Q9168|Q13955|Q36730
+Dutch;;Dutch;Q7411
+East Middle Dutch;;Middle Dutch;Q178806
+English;;English;Q1860
+"English; Latin";;English|Latin;Q1860|Q397
+French;;French;Q150
+"French; Latin";;French|Latin;Q150|Q397
+German;ger;German;Q188
+German;;German;Q188
+"German; Latin";;German|Latin;Q188|Q397
+Greek;;Greek;Q9129
+Hebrew;heb;Hebrew;Q9288
+"Hebrew; Aramaic";;Hebrew|Aramaic;Q9288|Q28602
+"Hebrew; Latin";;Hebrew|Latin;Q9288|Q397
+In Danish;dan;Danish;Q9035
+In Dutch;dut;Dutch;Q7411
+In Flemish;lat;Flemish;Q34147
+In German;eng;German;Q188
+In Icelandic;ice;Icelandic;Q294
+In Italian;ita;Italian;Q652
+In Latin;dut;Latin;Q397
+In Latin;eng;Latin;Q397
+In Latin;lat;Latin;Q397
+In Latin (highly abbreviated);lat;Latin;Q397
+In Middle French;frm;Middle French;Q1473289
+In Old Norse;non;Old Norse;Q35505
+In Persian;per;Persian;Q9168
+"In Persian; written in a professional nastaʻlīq script in black ink; ʻunwān and illustrations in colors and gold ; text rubricated";per;Persian;Q9168
+In Sanskrit;san;Sanskrit;Q11059
+Italian;;Italian;Q652
+Italian;ita;Italian;Q652
+Italian and Latin;"ita;lat";Italian|Latin;Q652|Q397
+Italian with a short section in Latin (f. 49r-49v);"ita;lat";Italian|Latin;Q652|Q397
+"Italian; Latin";;Italian|Latin;Q652|Q397
+Language: Latin. Cover flyleaf and rear board contain notes written in Italian;lat;Italian|Latin;Q652|Q397
+Latin;lat;Latin;Q397
+Latin;;Latin;Q397
+Latin (f. 1r-5r) and Italian with rubrics in Latin (f. 5v-20r);"lat;ita";Italian|Latin;Q652|Q397
+Latin, with a few poems in Italian (f. 106r-108v);"lat;ita";Italian|Latin;Q652|Q397
+Latin, with a few words in Spanish (f. 7r);"lat;spa";Latin|Spanish;Q397|Q1321
+Latin, with one section (f. 267r-272r) and some recipes, notes, and names in Italian;lat;Italian|Latin;Q652|Q397
+Latin, with several items in Italian;"lat;ita";Italian|Latin;Q652|Q397
+Latin, with some French translations in the first conjugation table (f. 8r-9r);"lat;fre";Latin|French;Q397|Q150
+"Latin; Anglo-Norman";;Latin|Anglo-Norman;Q397|Q35214
+"Latin; Anglo-Norman; Middle French (ca. 1400-1600)";"lat;xno;frm";Anglo-Norman|Middle French|Latin;Q35214|Q1473289|Q397
+"Latin; Dutch";;Latin|Dutch;Q397|Q7411
+"Latin; English";"lat;eng";English|Latin;Q1860|Q397
+"Latin; English";;English|Latin;Q1860|Q397
+"Latin; French";;French|Latin;Q150|Q397
+"Latin; German";;German|Latin;Q188|Q397
+"Latin; Greek";;Latin|Greek;Q397|Q9129
+"Latin; Italian";"lat;ita";Italian|Latin;Q652|Q397
+"Latin; Italian";;Italian|Latin;Q652|Q397
+"Latin; Middle English";;Latin|Middle English;Q397|Q36395
+"Latin; Middle French (ca. 1400-1600)";"lat;frm";Middle French|Latin;Q1473289|Q397
+"Latin; Occitan";;Latin|Occitan;Q397|Q14185
+"Latin; Old High German";;Latin|Old High German;Q397|Q35218
+Middle English;"eng;enm";Middle English;Q36395
+Middle English;enm;Middle English;Q36395
+Middle English;;Middle English;Q36395
+Middle French;frm;Middle French;Q1473289
+"Middle French (ca. 1400-1600); Latin";"frm;lat";Middle French|Latin;Q1473289|Q397
+Middle French and Latin;frm;Middle French|Latin;Q1473289|Q397
+Middle French, with some sections in Latin (f. 77r-81v, 85v-87r, 93r-98r, 137v, 141r);"frm;lat";Middle French|Latin;Q1473289|Q397
+Middle High German (ca. 1050-1500);gmh;Middle High German;Q837985
+Middle High German, with some Latin;"gmh;lat";Middle High German|Latin;Q837985|Q397
+No linguistic content, Not applicable;zxx;no linguistic content;Q22282939
+Old French (842-ca. 1400);fro;Old French;Q35222
+Ottoman Turkish;ota;Ottoman Turkish;Q36730
+Ottoman Turkish and Persian;"ota;per";Persian|Ottoman Turkish;Q9168|Q36730
+Ottoman Turkish and Persian with some Arabic quotations and headings;"ota;per;ara";Persian|Arabic|Ottoman Turkish;Q9168|Q13955|Q36730
+"Ottoman with translations from Arabic; inserts in Persian laid in";"ota;ara";Persian|Arabic|Ottoman Turkish;Q9168|Q13955|Q36730
+Persian;per;Persian;Q9168
+Persian translations and commentary with Arabic source-text;per;Persian|Arabic;Q9168|Q13955
+Persian with Arabic source-text;"per;ara";Persian|Arabic;Q9168|Q13955
+Persian with Arabic source-text;per;Persian|Arabic;Q9168|Q13955
+"Persian with source-text in Arabic; some glosses and notes in Chinese";"per;chi";Persian|Arabic|Chinese;Q9168|Q13955|Q7850
+Persian with two pages in Arabic (f. 1v-2r);per;Persian|Arabic;Q9168|Q13955
+Persian with two pages in Arabic (f. 23r/v);per;Persian|Arabic;Q9168|Q13955
+Spanish;spa;Spanish;Q1321
+Spanish;;Spanish;Q1321
+Tashelhit / Shilha;ber;Shilha;Q34152
+Text in Latin;lat;Latin;Q397
+Text in Old French;fro;Old French;Q35222
+[English];;English;Q1860
+[Latin];;Latin;Q397
+ara;ara;Arabic;Q13955
+ber;ber;Berber;Q25448
+chi;chi;Chinese;Q7850
+dan;dan;Danish;Q9035
+dut;dut;Dutch;Q7411
+eng;eng;English;Q1860
+"eng;dut;gre;lat";"eng;dut;gre;lat";English|Dutch|Greek|Latin;Q1860|Q7411|Q9129|Q397
+"eng;fre";"eng;fre";English|French;Q1860|Q150
+"eng;fre;ger;lat";"eng;fre;ger;lat";English|French|German|Latin;Q1860|Q150|Q188|Q397
+"eng;fre;gre;heb;lat";"eng;fre;gre;heb;lat";English|French|Greek|Hebrew|Latin;Q1860|Q150|Q9129|Q9288|Q397
+"eng;gre;lat";"eng;gre;lat";English|Greek|Latin;Q1860|Q9129|Q397
+"eng;ita";"eng;ita";English|Italian;Q1860|Q652
+"eng;ita;lat";"eng;ita;lat";English|Italian|Latin;Q1860|Q652|Q397
+"eng;lat";"eng;lat";English|Latin;Q1860|Q397
+"eng;lat;spa";"eng;lat;spa";English|Latin|Spanish;Q1860|Q397|Q1321
+"eng;spa";"eng;spa";English|Spanish;Q1860|Q1321
+enm;enm;Middle English;Q36395
+fre;fre;French;Q150
+frm;frm;Middle French;Q1473289
+"frm;lat";"frm;lat";Middle French|Latin;Q1473289|Q397
+fro;fro;Old French;Q35222
+ger;ger;German;Q188
+gmh;gmh;Middle High German;Q837985
+gre;gre;Greek;Q9129
+heb;heb;Hebrew;Q9288
+ice;ice;Icelandic;Q294
+ita;ita;Italian;Q652
+lat;lat;Latin;Q397
+"lat;eng";"lat;eng";Latin|English;Q397|Q1860
+"lat;frm";"lat;frm";Latin|Middle French;Q397|Q1473289
+"lat;ita";"lat;ita";Latin|Italian;Q397|Q652
+"lat;xno;frm";"lat;xno;frm";Latin|Anglo-Norman|Middle French;Q397|Q35214|Q1473289
+non;non;Old Norse;Q35505
+ota;ota;Ottoman Turkish;Q36730
+per;per;Persian;Q9168
+san;san;Sanskrit;Q11059
+spa;spa;Spanish;Q1321
+und;und;undetermined language;Q22282914
+"und;eng";"und;eng";undetermined language|English;Q22282914|Q1860
+xno;xno;Anglo-Norman;Q35214
+zxx;zxx;no linguistic content;Q22282939
