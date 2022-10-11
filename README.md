@@ -1,10 +1,52 @@
 # Digital Scriptorium data
 
-Repository for CSVs DS data.
+This repository for for CSVs of DS data at various stages of extraction, transformation, and enrichment.
 
-New files should be called: `DATE-name.csv`, where `DATE` is the date the file was created in `YYYY-MM-DD` format and `name` is a description, like `jhu`, `combined`, `upenn`, etc.
+## File naming conventions
 
-Directory structure:
+New files should be called: `DATE-name.csv`, where `DATE` is the date the file was created in `YYYYMMDD` format and `name` is a description, like `jhu`, `combined`, `upenn`, etc. When more than one descriptor is applied, descriptors are separated by a dash, such as in `20220920-language-combined-enriched`. In addition, when `element` is provided in the instructions, it is a descrption of the metadata element, field, or type of data, such as in `languages.csv`, `named-subjects-unreconciled.csv`, or `20220705-places-combined-enriched.csv`. 
+
+## Data management workflow for current and previous reconciled data
+
+### Uploading extracted data:
+
+1. Navigate to `member-data` directory.
+2. Click on `Add File` button and click `Upload files` from context menu.
+3. Drag and drop or click to add files to be uploaded.
+4. Commit changes directly to main branch.
+
+### Uploading full reconciled "batch" files:
+
+1. Navigate to `ds-data/terms/batch` directory.
+2. Click on `Add File` button and click `Upload files` from context menu (file to be uploaded should be 'DATE-element-combined-enriched.csv`).
+3. Drag and drop or click to add files to be uploaded.
+4. Commit changes directly to main branch.
+
+### Updating reconciled "term" values to be used in Wikibase import:
+
+#### Archiving previous reconciled data
+
+1. Navigate to `ds-data/terms/reconciled` directory.
+2. Click on `element.csv` file to be updated.
+3. Edit file by changing file path from `ds-data/terms/reconciled/element.csv` to `ds-data/terms/archived/DATE-element.csv`, where `DATE` is the date the terms were originally extracted.
+4. Commit changes directly to main branch.
+
+#### Uploading new reconciled data
+
+5. Navigate to `ds-data/terms/reconciled` directory.
+6. Click on `Add File` button and click `Upload files` from context menu (file to be uploaded should be 'element.csv`).
+7. Drag and drop or click to add files to be uploaded.
+8. Commit changes directly to main branch.
+
+### Updating unreconciled values for documentation
+
+1. Navigate to `ds-data/terms/unreconciled` directory.
+2. Click on `element-unreconciled.csv` file to be updated.
+3. Edit file by changing file path from `ds-data/terms/unreconciled/element-unreconciled.csv` to `ds-data/terms/unreconciled/archived/DATE-element-unreconciled.csv`, where `DATE` is the date the terms were originally extracted.
+4. Commit changes directly to main branch.
+
+
+## Directory structure:
 
 ```text
 .
