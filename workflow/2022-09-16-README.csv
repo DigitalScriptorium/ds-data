@@ -1,0 +1,39 @@
+# Prototype data 2022-09-16
+
+Prototype data from new reconciliation workflow. Ingest scripts draw names,
+places, terms, etc. from files in `/terms`.
+
+## List of institutions
+
+- Q1079140, Indiana University, Bloomington
+- Q1093910, City College of New York
+- Q1501676, General Theological Seminary
+- Q168756, University of California, Berkeley
+- Q1976985, Nelson-Atkins Museum of Art
+- Q20745482, Providence Public Library
+- Q21578, Princeton University
+- Q30257935, Conception Abbey and Seminary
+- Q3087288, Free Library of Philadelphia
+- Q49088, Columbia University
+- Q49115, NIC
+- Q49117, University of Pennsylvania
+- Q49205, Wellesley College
+- Q49210, New York University
+- Q499451, Rutgers, The State University of New Jersey
+- Q5021042, State of California
+- Q5174002, Grolier Club
+- Q52413, University of Kansas
+- Q63969940, Burke, Columbia University.
+- Q766145, University of Oregon
+
+## Extraction notes
+
+Add notes here.
+
+## Enrichment notes
+
+Add notes here.
+
+## Import notes
+
+Add notes here.
