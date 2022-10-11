@@ -1,6 +1,6 @@
 # Digital Scriptorium data
 
-This repository for for CSVs of DS data at various stages of extraction, transformation, and enrichment.
+This repository is for CSVs of DS data at various stages of extraction, transformation, and enrichment.
 
 ## File naming conventions
 
