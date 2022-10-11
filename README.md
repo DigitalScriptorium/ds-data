@@ -18,7 +18,7 @@ New files should be called: `DATE-name.csv`, where `DATE` is the date the file w
 ### Uploading full reconciled "batch" files:
 
 1. Navigate to `ds-data/terms/batch` directory.
-2. Click on `Add File` button and click `Upload files` from context menu (file to be uploaded should be 'DATE-element-combined-enriched.csv`).
+2. Click on `Add File` button and click `Upload files` from context menu (file to be uploaded should be `DATE-element-combined-enriched.csv`).
 3. Drag and drop or `choose your files` to be uploaded.
 4. `Commit changes` directly to main branch.
 
