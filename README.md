@@ -38,7 +38,7 @@ New files should be called: `DATE-name.csv`, where `DATE` is the date the file w
 7. Drag and drop or click to add files to be uploaded.
 8. Commit changes directly to main branch.
 
-### Updating unreconciled values for documentation
+### Updating unreconciled values for documentation:
 
 1. Navigate to `ds-data/terms/unreconciled` directory.
 2. Click on `element-unreconciled.csv` file to be updated.
