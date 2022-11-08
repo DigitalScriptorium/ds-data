@@ -22,29 +22,13 @@ New files should be called: `DATE-name.csv`, where `DATE` is the date the file w
 3. Drag and drop or `choose your files` to be uploaded.
 4. `Commit changes` directly to main branch.
 
-### Updating reconciled "term" values to be used in Wikibase import:
-
-#### Archiving previous reconciled data
-
-1. Navigate to `ds-data/terms/reconciled` directory.
-2. Click on `element.csv` file to be updated.
-3. Edit file by changing file path from `ds-data/terms/reconciled/element.csv` to `ds-data/terms/archived/DATE-element.csv`, where `DATE` is the date the terms were originally extracted.
-4. `Commit changes` directly to main branch.
+### Updating reconciled "term" values to be used in Wikibase import and unreconciled data for documentation:
 
 #### Uploading new reconciled data
 
-5. Navigate to `ds-data/terms/reconciled` directory.
-6. Click on `Add File` button and click `Upload files` from context menu (file to be uploaded should be 'element.csv`).
-7. Drag and drop or `choose your files` to be uploaded.
-8. `Commit changes` directly to main branch.
-
-### Updating unreconciled values for documentation:
-
-#### Archiving previous unreconciled data
-
-1. Navigate to `ds-data/terms/unreconciled` directory.
-2. Click on `element-unreconciled.csv` file to be updated.
-3. Edit file by changing file path from `ds-data/terms/unreconciled/element-unreconciled.csv` to `ds-data/terms/unreconciled/archived/DATE-element-unreconciled.csv`, where `DATE` is the date the terms were originally extracted.
+1. Navigate to `ds-data/terms/reconciled` directory.
+2. Click on `Add File` button and click `Upload files` from context menu (file to be uploaded should be 'element.csv`).
+3. Drag and drop or `choose your files` to be uploaded.
 4. `Commit changes` directly to main branch.
 
 #### Uploading new unreconciled data
@@ -53,6 +37,22 @@ New files should be called: `DATE-name.csv`, where `DATE` is the date the file w
 6. Click on `Add File` button and click `Upload files` from context menu (file to be uploaded should be 'element-unreconciled.csv`).
 7. Drag and drop or `choose your files` to be uploaded.
 8. `Commit changes` directly to main branch.
+
+### Updating archived data:
+
+#### Archiving reconciled data
+
+1. Navigate to `ds-data/terms/archived` directory.
+2. Click on `Add File` button and click `Upload files` from context menu (file to be uploaded should be 'DATE-element.csv`).
+3. Drag and drop or `choose your files` to be uploaded.
+4. `Commit changes` directly to main branch.
+
+#### Archiving unreconciled data
+
+1. Navigate to `ds-data/terms/unreconciled/archived` directory.
+2. Click on `Add File` button and click `Upload files` from context menu (file to be uploaded should be 'DATE-element-unreconciled.csv`).
+3. Drag and drop or `choose your files` to be uploaded.
+4. `Commit changes` directly to main branch.
 
 
 ## Directory structure:
