@@ -42,7 +42,7 @@ New files should be called: `DATE-name.csv`, where `DATE` is the date the file w
 
 #### Archiving reconciled data
 
-1. Navigate to `ds-data/terms/archived` directory.
+1. Navigate to `ds-data/terms/reconciled/archived` directory.
 2. Click on `Add File` button and click `Upload files` from context menu (file to be uploaded should be 'DATE-element.csv`).
 3. Drag and drop or `choose your files` to be uploaded.
 4. `Commit changes` directly to main branch.
