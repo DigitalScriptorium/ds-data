@@ -1,0 +1,1116 @@
+{
+    "items": [
+        {
+            "old_qid": "Q1",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Manuscript"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "A manuscript"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "old_qid": "Q2",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "DS 2.0 Record"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "A DS 2.0 metadata record"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "old_qid": "Q3",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Uniform Title (Authority File)"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Conventional or preferred title, often used for untitled works"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "old_qid": "Q5",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Genre (Authority File)"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "old_qid": "Q6",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Subject (Authority File)"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "old_qid": "Q7",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Place (Authority File)"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "old_qid": "Q8",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Language (Authority File)"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "old_qid": "Q9",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Material (Authority File)"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "old_qid": "Q10",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Century (Authority File)"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "old_qid": "Q11",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Datable"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "The manuscript is dated or datable"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "old_qid": "Q12",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Non-datable"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "The manuscript is not datable"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "old_qid": "Q13",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Actor (Name Authority)"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "old_qid": "Q15",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Role (Authority File)"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Role of an actor related to a manuscript"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "old_qid": "Q16",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Holding"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Holding of a manuscript in an organization etc."
+                }
+            },
+            "claims": {}
+        },
+        {
+            "old_qid": "Q17",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Current"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "The manuscript holding is current"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "old_qid": "Q18",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Personal (Name Authority)"
+                }
+            },
+            "descriptions": [],
+            "claims": {
+                "subclass of": [
+                    "Actor (Name Authority)"
+                ]
+            }
+        },
+        {
+            "old_qid": "Q19",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Corporate (Name Authority)"
+                }
+            },
+            "descriptions": [],
+            "claims": {
+                "subclass of": [
+                    "Actor (Name Authority)"
+                ]
+            }
+        },
+        {
+            "old_qid": "Q20",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Non-Current"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "The described holding is not current"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "old_qid": "Q18",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Personal (Name Authority)"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "old_qid": "Q99999",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Term (Authority File)"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        }
+    ],
+    "properties": [
+        {
+            "datatype": "string",
+            "old_id": "P1",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "DS ID"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Digital Scriptorium 2.0 identifier"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "wikibase-item",
+            "old_id": "P2",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "manuscript holding"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Holding of a manuscript"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "string",
+            "old_id": "P3",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "title as recorded"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Title as given in the source metadata record"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "time",
+            "old_id": "P4",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "date last updated"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Timestamp of last DS record update"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "time",
+            "old_id": "P5",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "date added"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Timestamp of DS record creation"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "string",
+            "old_id": "P6",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "genre as recorded"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Description of what the manuscript is (esp. useful for liturgical books)"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "wikibase-item",
+            "old_id": "P7",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "described manuscript"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "The described physical manuscript"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "string",
+            "old_id": "P8",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "subject as recorded"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "What the works/texts in the manuscript are about"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "string",
+            "old_id": "P9",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "production place as recorded"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Location where the manuscript was produced"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "string",
+            "old_id": "P10",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "language as recorded"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Language in which the text of the manuscript is written"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "wikibase-item",
+            "old_id": "P11",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "material in authority file"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Physical medium of manuscript (parchment, paper, etc.)"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "string",
+            "old_id": "P12",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "physical description"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Description of binding; dimensions of manuscript; number of folios; decoration information"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "string",
+            "old_id": "P13",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "acknowledgements"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Acknowledgements for 3rd party catalogers"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "string",
+            "old_id": "P14",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "production date as recorded"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Date when the manuscript was produced"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "wikibase-item",
+            "old_id": "P15",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "dated"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Is the manuscript dated or datable"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "string",
+            "old_id": "P16",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "note"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Miscellaneous note"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "string",
+            "old_id": "P17",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "associated name as recorded"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Associated actor, such as author, artist, or scribe"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "wikibase-item",
+            "old_id": "P18",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "uniform title in authority file"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "datatype": "external-id",
+            "old_id": "P20",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "external identifier"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "A local identifier for the entity in an external system"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "wikibase-item",
+            "old_id": "P21",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "genre in authority file"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "datatype": "wikibase-item",
+            "old_id": "P22",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "subject in authority file"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "datatype": "wikibase-item",
+            "old_id": "P23",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "place in authority file"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "datatype": "wikibase-item",
+            "old_id": "P24",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "language in authority file"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "datatype": "time",
+            "old_id": "P25",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "century in authority file"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "datatype": "wikibase-item",
+            "old_id": "P26",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "production century in authority file"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "datatype": "external-id",
+            "old_id": "P27",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "AAT ID"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "An Art & Architecture Thesaurus (AAT) resource URI"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "time",
+            "old_id": "P28",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "earliest date"
+                }
+            },
+            "descriptions": [],
+            "claims": {
+                "equivalent property": [
+                    "http://www.wikidata.org/entity/P1319"
+                ]
+            }
+        },
+        {
+            "datatype": "time",
+            "old_id": "P29",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "latest date"
+                }
+            },
+            "descriptions": [],
+            "claims": {
+                "equivalent property": [
+                    "http://www.wikidata.org/entity/P1326"
+                ]
+            }
+        },
+        {
+            "datatype": "url",
+            "old_id": "P30",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "equivalent property"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "equivalent property in other ontologies (use in statements on properties, use property URI)"
+                }
+            },
+            "claims": {
+                "equivalent property": [
+                    "http://www.wikidata.org/entity/P1628",
+                    "http://www.w3.org/2002/07/owl#equivalentProperty"
+                ]
+            }
+        },
+        {
+            "datatype": "wikibase-item",
+            "old_id": "P31",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "name in authority file"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "datatype": "wikibase-item",
+            "old_id": "P32",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "place"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "A place related to an actor"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "wikibase-item",
+            "old_id": "P34",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "role in authority file"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Actor role"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "wikibase-item",
+            "old_id": "P35",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "holding institution"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "datatype": "external-id",
+            "old_id": "P36",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Institutional ID"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "datatype": "wikibase-item",
+            "old_id": "P37",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "holding status"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "The status of the holding (current or non-current)"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "time",
+            "old_id": "P38",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "start time"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "time an item begins to exist or a statement starts being valid"
+                }
+            },
+            "claims": {
+                "equivalent property": [
+                    "http://www.wikidata.org/entity/P580"
+                ]
+            }
+        },
+        {
+            "datatype": "time",
+            "old_id": "P39",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "end time"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "time an item ceases to exist or a statement stops being valid"
+                }
+            },
+            "claims": {
+                "equivalent property": [
+                    "http://www.wikidata.org/entity/P582"
+                ]
+            }
+        },
+        {
+            "datatype": "url",
+            "old_id": "P40",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "link to institutional record"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "datatype": "string",
+            "old_id": "P41",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "shelfmark"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "datatype": "wikibase-item",
+            "old_id": "P42",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "instance of"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "that class of which this subject is a particular example and member"
+                }
+            },
+            "claims": {
+                "equivalent property": [
+                    "http://www.wikidata.org/entity/P31",
+                    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+                ]
+            }
+        },
+        {
+            "datatype": "url",
+            "old_id": "P43",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "IIIF manifest"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "JSON-LD formatted document URL reference described by the IIIF Presentation API"
+                }
+            },
+            "claims": {
+                "equivalent property": [
+                    "https://www.wikidata.org/wiki/Property:P6108"
+                ]
+            }
+        },
+        {
+            "datatype": "external-id",
+            "old_id": "P44",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "VIAF ID"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "identifier for the Virtual International Authority File database [format: up to 22 digits]"
+                }
+            },
+            "claims": {
+                "equivalent property": [
+                    "https://www.wikidata.org/wiki/Property:P214"
+                ],
+                "formatter URL": [
+                    "https://viaf.org/viaf/$1/"
+                ]
+            }
+        },
+        {
+            "datatype": "string",
+            "old_id": "P45",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "formatter URL"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "web page URL; URI template from which \"$1\" can be automatically replaced with the effective property value on items."
+                }
+            },
+            "claims": {
+                "equivalent property": [
+                    "http://www.wikidata.org/entity/P1630"
+                ]
+            }
+        },
+        {
+            "datatype": "string",
+            "old_id": "P46",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "material as recorded"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Manuscript material as given on the source metadata record"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "string",
+            "old_id": "P47",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "holding institution as recorded"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Name of the holding institution in the source metadata record"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "external-id",
+            "old_id": "P48",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Wikidata QID"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Wikidata item identifier"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "url",
+            "old_id": "P49",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "External URI"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "External URI describing the same entity"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "string",
+            "old_id": "P50",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "in original script"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Name/title in original script"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "string",
+            "old_id": "P51",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "uniform title as recorded"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "Uniform title as recorded in the source metadata record"
+                }
+            },
+            "claims": {}
+        },
+        {
+            "datatype": "wikibase-item",
+            "old_id": "P9999",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "term in authority file"
+                }
+            },
+            "descriptions": [],
+            "claims": {}
+        },
+        {
+            "datatype": "wikibase-item",
+            "old_id": "P9999",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "subclass of"
+                }
+            },
+            "descriptions": {
+                "en": {
+                    "language": "en",
+                    "value": "this item is a subclass (subset) of that item; all instances of these items are instances of those items"
+                }
+            },
+            "claims": {
+                "equivalent property": [
+                    "http://www.wikidata.org/entity/P279"
+                ]
+            }
+        }
+    ]
+}

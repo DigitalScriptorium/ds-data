@@ -1,0 +1,89 @@
+{
+    "properties": [
+        "DS ID",
+        "manuscript holding",
+        "described manuscript",
+
+        "holding institution",
+        "holding institution as recorded",
+        "holding status",
+        "Institutional ID",
+        "shelfmark",
+        "link to institutional record",
+
+        "title as recorded",
+        "uniform title in authority file",
+        "uniform title as recorded",
+        "in original script",
+
+        "associated name as recorded",
+        "role in authority file",
+        "instance of",
+        "name in authority file",
+
+        "genre as recorded",
+        "subject as recorded",
+        "genre in authority file",
+        "subject in authority file",
+        "term in authority file",
+
+        "language as recorded",
+        "language in authority file",
+
+        "production date as recorded",
+        "production century in authority file",
+        "century in authority file",
+        "dated",
+
+        "production place as recorded",
+        "place in authority file",
+
+        "physical description",
+        "material as recorded",
+        "material in authority file",
+
+        "note",
+        "acknowledgements",
+
+        "date added",
+        "date last updated",
+
+        "latest date",
+        "earliest date",
+        "place",
+        "start time",
+        "end time",
+        "external identifier",
+        "AAT ID",
+        "IIIF manifest",
+        "Wikidata QID",
+        "VIAF ID",
+        "External URI",
+        "equivalent property",
+        "formatter URL",
+        "subclass of"
+    ],
+    "items": [
+        "Manuscript",
+        "Holding",
+        "DS 2.0 Record",
+
+        "Current",
+        "Non-Current",
+
+        "Uniform Title (Authority File)",
+        "Actor (Name Authority)",
+        "Personal (Name Authority)",
+        "Corporate (Name Authority)",
+        "Role (Authority File)",
+        "Genre (Authority File)",
+        "Subject (Authority File)",
+        "Term (Authority File)",
+        "Language (Authority File)",
+        "Century (Authority File)",
+        "Datable",
+        "Non-datable",
+        "Place (Authority File)",
+        "Material (Authority File)"
+    ]
+}
