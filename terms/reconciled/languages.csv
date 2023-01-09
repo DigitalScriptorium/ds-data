@@ -66,7 +66,7 @@ eng;lat,eng;lat,English|Latin,Q1860|Q397
 eng;lat;spa,eng;lat;spa,English|Latin|Spanish,Q1860|Q397|Q1321
 eng;spa,eng;spa,English|Spanish,Q1860|Q1321
 English,,English,Q1860
-English (Northern dialect),,Northern English,Q1321639
+English (Northern dialect),,English|Northern English,Q1860|Q1321639
 "English, with a few words in Latin",eng;lat,English|Latin,Q1860|Q397
 "English, with a fragment from a document in Latin (f. 76-78)",eng;lat,English|Latin,Q1860|Q397
 "English, with many works translated from Latin and retaining Latin titles",eng,English|Latin|Latin,Q1860|Q397|Q397
@@ -96,7 +96,7 @@ Ge'ez (Ethopic),,Ge'ez,Q35667
 ger,ger,German,Q188
 German,,German,Q188
 German,ger,German,Q188
-German (Middle High German),,Middle High German,Q837985
+German (Middle High German),,German|Middle High German,Q188|Q837985
 German with Latin calendar and colophon,gmh;lat,German|Latin,Q188|Q397
 "German, with chapter and closing rubrics in Latin",ger;lat,German|Latin,Q188|Q397
 "German, with Latin and Hebrew",ger;lat;heb,German|Latin|Hebrew,Q188|Q397|Q9288
@@ -190,8 +190,8 @@ ita,ita,Italian,Q652
 Italian,,Italian,Q652
 Italian,ita,Italian,Q652
 Italian,eng,Italian,Q652
-Italian (Venetian dialect),,Italian,Q652
-"Italian (Venetian dialect), with three recipes in Latin (f. 17r)",ita;lat,Italian|Latin,Q652|Q397
+Italian (Venetian dialect),,Italian|Venetian,Q652|Q32724
+"Italian (Venetian dialect), with three recipes in Latin (f. 17r)",ita;lat,Italian|Venetian|Latin,Q652|Q32724|Q397
 Italian and Latin,ita;lat,Italian|Latin,Q652|Q397
 Italian and Latin,lat;ita,Italian|Latin,Q652|Q397
 "Italian and Latin, with two documents in French",ita;lat;fre,Italian|Latin|French,Q652|Q397|Q150
@@ -482,7 +482,7 @@ sla,sla,Slavic,Q23526
 spa,spa,Spanish,Q1321
 Spanish,,Spanish,Q1321
 Spanish,spa,Spanish,Q1321
-Spanish (Valencian dialect),,Valencian,Q32641
+Spanish (Valencian dialect),,Spanish|Valencian,Q1321|Q32641
 "Spanish, with heading in Latin",spa,Spanish|Latin,Q1321|Q397
 "Spanish, with some Latin",spa;lat,Spanish|Latin,Q1321|Q397
 Spanish; Latin,,Spanish|Latin,Q1321|Q397
