@@ -1,15 +1,37 @@
 name_as_recorded,role,name_agr,source_authority_uri,instance_of,authorized_label,structured_value
+Agostino Squara,other,,,human,Agostino Squara,Q117321169
+Antonio Barbarigo,other,,,human,Antonio Barbarigo,Q91909669
+Baldo Michele,other,,,human,Baldo Michele,Q117321240
+Francesco Rato,other,,,human,Francesco Rato,Q117321180
+Gabriele Barbarigo,other,,,human,Gabriele Barbarigo,Q117321220
+"Gabriele Barbarigo, son of Antonio Barbarigo",other,,,human,Gabriele Barbarigo,Q117321220
+Giacomo Michele,other,,,human,Giacomo Michele,Q117321234
+"Giacomo Zeno, bishop of Padua",other,,,human,Jacopo Zeno,Q26265689
+Gian Francesco de Priolis,other,,,human,Gian Francesco de Priolis,Q117321248
+Giovanni Antonio Contarini,other,,,human,Giovanni Antonio Contarini,Q117324100
+Jean Bourdichon?,artist,,,human,Jean Bourdichon,Q348333
+"Jean Fouquet, in the style of",artist,,,human,Jean Fouquet,Q311398
+John Haykyn,other,,,human,John Haykyn,Q117324129
+Lucrezia Pio,other,,,human,Lucrezia Pio Sforza,Q117324182
+"Luigi Loredano, son of Giovanni Loredano",other,,,human,Luigi Loredano,Q117324162
+Pietro Michele,other,,,human,Pietro Michele,Q117324190
+"Saint Restituta, in litany",other,,,human,Restituta,Q1407613
+sons of Bartolomeo Michele,other,,,human,Bartolomeo Michele,Q117324301
+sons of Giacomo Michele,other,,,human,Giacomo Michele,Q117321234
+"Stephen and Alice Cheryton, of Chastleton",other,,,human;human,Stephen Cheryton;Alice Cheryton,Q117401229;Q117401302
+"Thomas Flecher, of Chastleton",other,,,human,Thomas Flecher,Q117324231
+"Thomas Heneage, Thomas Alward, Anne Boleyn.",other,,,human;human;human,Thomas Heneage;Thomas Alward;Anne Boleyn,Q18529221;Q117401655;Q80823
+"Vyncent, Richard, vicar of Wolford",other,,,human,Richard Vyncent,Q117324262
+William Nichol,other,,,human,William Nichol,Q117324284
+"Yngram, William",other,,,human,William Yngram,Q117338069
 """1756 Ex libris Presbiteri Joseph Marie Sormani"" (inscription on flyleaf ); H. C. (Harley) Drayton (1901-1966), bought at Sotheby’s, 29 January 1951, lot 13; his sale, Sotheby’s, 12 December 1967, lot 63; re-sold at Christie’s, 28 June 1972, lot 8; Ruth E. Adomeit (1910-1996), bequeathed by her to the Lilly Library.",former owner,,,human;human;human,Joseph Marie Sormani;Harold Drayton;Ruth E. Adomeit,Q116771083;Q18761974;Q7382958
 """as a souvenir of the happy days with which I have begun my life in New York"" (letter enclosed), with Poor’s leather booklabel; his sale, New York, 17 November 1908, lot 799, to Morris; Walter T. Wallace (1866-1922), with his armorial bookplate; his sale, New York, 22 March 1920, lot 229, to C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Walter Thomas Wallace;Coella Lindsay Ricketts,Q116784946;Q116771179
 "a Fridenreich, Georgius Rudolpus",former owner,,,human,Georgius Rudolpus a Fridenreich,Q114242475
 "A member of the Bernardi family of Florence, with their arms on fol. 1r (Rietstap 1884, I, p. 179), flanked by the initials ‘C’ and ‘B’; L. S. Olschki, Bulletin mensuel 51 (January 1905), no. 1291;",former owner,,,organization;organization,Bernardi;Leo S. Olschki Editore,Q116771106;Q3229594
-"A member of the Bernardi family of Florence, with their arms on fol. 1r (Rietstap 1884, I, p. 179), flanked by the initials ‘C’ and ‘B’; L. S. Olschki, Bulletin mensuel 51 (January 1905), no. 1291; Ellis of Bond Street, their cat. 1919, at £63;",former owner,,,organization,Bernardi,Q117463427
 A Minister of the Church of England,author,,,human,Josiah Woodward,Q6290669
-" the inscription of 1321 is on fol. 2r); Dr Leander van Ess (1772-1847), of Darmstadt, his no. 36 (label on spine); Sir Thomas Phillipps (1792-1872), bought with the van Ess library in 1824, his MS 421; bought in 1955 by George A. Poole from Messrs. W. H. Robinson, who had acquired the residue of the Phillipps library in 1945-46; acquired by the Lilly Library with the Poole Collection in 1958.",,,,human;human;human,Johann Heinrich van Ess;Thomas Phillipps;George Amos Poole,Q1810643;Q2147709;Q64683625
 "A. Rosenthal, cat. 1 (1939), no. 21; Reichner cat. 2 (1940), no. 113; Lathrop Harper, cat. 3 (1953), no. 72; George A. Poole, bought from Harper in 1955, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,human;organization,"George Amos Poole;Lathrop C. Harper, Inc.",Q64683625;Q116785327
 Ælfric,author,,,human,Ælfric of Eynsham,Q271377
 "Étienne de Loypeau, bishop of Luçon 1388-1407; Louis d’Harcourt, patriarch of Jerusalem and bishop of Bayeux 1460-79, who on 12 April 1474 gave it to the cathedral of Bayeux; recorded in the inventory of the cathedral treasury in 1476, ""Premièrement, ung excellent missel, portant tout l’office pontifical . . . (Delisle 1887, p. 434);",former owner,,,human;human;organization,Étienne de Loypeau;Louis d’Harcourt;Bayeux Cathedral,Q116811686;Q3263358;Q1636244
-"Étienne de Loypeau, bishop of Luçon 1388-1407; Louis d’Harcourt, patriarch of Jerusalem and bishop of Bayeux 1460-79, who on 12 April 1474 gave it to the cathedral of Bayeux; recorded in the inventory of the cathedral treasury in 1476, ""Premièrement, ung excellent missel, portant tout l’office pontifical . . . (Delisle 1887, p. 434);",former owner,,,human;human,Étienne de Loypeau;Louis d’Harcourt,Q116811686;Q3263358
 "Abbadia San Salvatore (Siena, Italy)",author,,http://id.loc.gov/authorities/names/nr87000182,organization,Abbadia San Salvatore,Q91096
 "Abbey, J. R. 1896-1969",former owner,,http://id.loc.gov/authorities/names/nr94014439,human,John Roland Abbey,Q6255470
 Abbot von Heselwang,former owner,,,human,Abbot von Heselwang,Q114242549
@@ -27,7 +49,6 @@ Abū al-Ḥasan Sa'ad,scribe,,,human,Abū al-Ḥasan Sa'ad,Q116235219
 "Accademia platonica (Florence, Italy)",author,,http://id.loc.gov/authorities/names/n85068842,organization,Platonic Academy,Q4579791
 Acciaiuoli family,author,,,human,Acciaioli family,Q339067
 "According to a sixteenth-century Latin poem formerly pasted inside the manuscript’s upper cover, the volume was transferred in 1504 from the Benedictine abbey of St. Peter in Salzburg, to the Cistercian abbey of Raitenhaslach, Bavaria (founded 1143, suppressed in 1803);",former owner,,,organization;organization,St Peter's Archabbey Salzburg;Raitenhaslach Cistercian Abbey,Q675735;Q1775833
-"According to a sixteenth-century Latin poem formerly pasted inside the manuscript’s upper cover, the volume was transferred in 1504 from the Benedictine abbey of St. Peter in Salzburg, to the Cistercian abbey of Raitenhaslach, Bavaria (founded 1143, suppressed in 1803); the Benedictine abbey of Seitenstetten, Lower Austria (founded 1112, still functioning);",former owner,,,organization;organization;organization,St Peter's Archabbey Salzburg;Raitenhaslach Cistercian Abbey;Seitenstetten Abbey,Q675735;Q1775833;Q385745
 Accursius of Parma,author,,,human,Accursius Parmensis,Q104884907
 "Accursius, glossator",other,,,human,Accursius,Q339824
 Acquired by David Eugene Smith (1860-1944) in 1936.,former owner,,,human,David Eugene Smith,Q1174369
@@ -75,7 +96,6 @@ Aesop.,author,,,human,Aesop,Q43423
 Agostino Dati,author,,,human,Agostino Dati,Q5659931
 "Agostino della Scarperia, d. 1340.",author,,,human,Agostino da Scarperia,Q3606836
 Agostino della Scarperia.,author,,,human,Agostino da Scarperia,Q3606836
-Agostino Squara,other,,,human,Agostino Squara,Q117321169
 Agostino Staccoli,author,,,human,Agostino Staccoli,Q45535876
 "Agricola, recipient of letter",other,,,human,Agricola,Q3606863
 Aḥmad al-Mudarris,former owner,احمد المدرس،,,human,Aḥmad al-Mudarris,Q114242427
@@ -146,7 +166,6 @@ Alfonso X of Castile,author,,,human,Alfonso X of Castile and Leon,Q47595
 Alfonso X of Castille,author,,,human,Alfonso X of Castile and Leon,Q47595
 "Alfonso X, the Learned, King of Castile and León",author,,,human,Alfonso X of Castile and Leon,Q47595
 Alfraganus,author,,,human,Ahmad ibn Muhammad ibn Kathīr al-Farghānī,Q336550
-"Alfred Higgins, F.S.A. (d. 1903; bought in May 1903: he died in October), with his signature and booklabel; his sale, Sotheby’s, 2 May 1904, lot 228; Michael Tomkinson (1841-1921); his sale, Sotheby’s, 3 April 1922, lot 878, to Quaritch; C. L. Ricketts, bought in 1923; acquired by the Lilly Library with the Ricketts Collection in 1961.",,,,human;human;human,Alfred Higgins;Michael Tomkinson;Coella Lindsay Ricketts,Q116809261;Q18811090;Q116771179
 "Alfred Morrison (1821-1897), his by 1882; his sale, Sotheby’s, 10 December 1917, lot 500; C. L. Ricketts, bought from P. M. Barnard, cat. 122 (1921), no. 245; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Alfred Morrison;Coella Lindsay Ricketts,Q17328807;Q116771179
 "Alguadez, Meir ben Solomon, active 1390-1410",author,,http://id.loc.gov/authorities/names/nb2007009872,human,Meir ben Solomon Alguadez,Q111981544
 "al-Ḥājj ʻAbd al-Qādir ibn al-Sayyid ʻAbd Allāh al-Asṭawānī, active 1846",former owner,الحاج عبد القادر بن السيد عبد الله الاسطواني، active 1846،,,human,al-Ḥājj ʻAbd al-Qādir ibn al-Sayyid ʻAbd Allāh al-Asṭawānī,Q116649271
@@ -163,7 +182,6 @@ Alkindi,author,,,human,Al-Kindi,Q179759
 "Almost certainly acquired in fall, 1930, from Dr. Erich Junkelmann of Munich. Earlier (pre-1956?) call number: C[abinet] 28, F[older] 3.",former owner,,,human,Erich Junkelmann,Q30104528
 "Almost certainly acquired in fall, 1930, from Dr. Erich Junkelmann of Munich. Earlier (pre-1956?) call number: Cabinet 28, Folder 3.",former owner,,,human,Erich Junkelmann,Q30104528
 "Almost certainly from the Cistercian abbey of Pontigny, and probably from the Volumine uno, Decreta Gratiani no. 153 in the late twelfth century catalogue of Pontigny, no. 100 in the early seventeenth-century catalogue, no. 235 in the catalogue of 1778, no. 7 in the catalogue of 1791,",former owner,,,organization,Pontigny Abbey,Q591296
-"Almost certainly from the Cistercian abbey of Pontigny, and probably from the Volumine uno, Decreta Gratiani no. 153 in the late twelfth century catalogue of Pontigny, no. 100 in the early seventeenth-century catalogue, no. 235 in the catalogue of 1778, no. 7 in the catalogue of 1791, and finally no. 73 in the list prepared after the sequestration of Pontigny at the French Revolution,",former owner,,,organization,Pontigny Abbey,Q591296
 Alphonsus,author,,,human,Alphonsus Joseph Maria van Engelen,Q102219546
 Alphonsus de Spina,author,,,human,Alphonso de Spina,Q372817
 Alphonsus of Burgos,author,,,human,Abner of Burgos,Q322560
@@ -190,10 +208,8 @@ Anacreon.,author,,,human,Anacreon,Q213484
 "Anastasius Sinaita, Saint fl. 640-700.",author,,,human,Anastasius Sinaita,Q473291
 Anaximenes of Lampsacus,author,,,human,Anaximenes of Lampsacus,Q221787
 Ancona (Italy). Anziani,author,,,organization,Palazzo degli Anziani,Q3891178
-"and 829 of the remaining manuscripts for 16,000 lire to the Rev. Walter Sneyd (1809-1888); Sneyd’s sale, Sotheby’s, 16 December 1903, lot 805; Leighton cat. 1908, no. 5793; sale at Sotheby’s, 16 May 1955, lot 108; George A. Poole, bought from Lawrence Witten in 1956, and acquired by the Lilly Library with the Poole Collection in 1958.",,,,human;human;human,Walter Sneyd;Laurence Claiborne Witten II;George Amos Poole,Q62619661;Q6500535;Q64683625
 "and finally no. 73 in the list prepared after the sequestration of Pontigny at the French Revolution, described there as in-folio atlantico, elegans et completus dismembered probably in Auxerre in the early nineteenth century; John William Bradley (1830-1916), who gave it to C. L. Ricketts in 1913; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,John William Bradley;Coella Lindsay Ricketts,Q52148380;Q116771179
 "and in 1578 great-granddaughter, Catharina ven den Steen (wife of Jan de Langue, secretary of Brielle), all recorded inside the upper cover; A. D. Schinkel (1784-1864), of The Hague, printer; his sale, The Hague, 21 November 1864, lot 3; William Bragge (1823–1884); probably no. 54 in Burlington Fine Arts Club 1874, p. 11, lent by Bragge; his sale, Sotheby’s, 7 June 1876, lot 221, to Ellis;",former owner,,,human;human,Adrianus David Schinkel;William Bragge,Q55901559;Q15453218
-"and in 1578 great-granddaughter, Catharina ven den Steen (wife of Jan de Langue, secretary of Brielle), all recorded inside the upper cover; A. D. Schinkel (1784-1864), of The Hague, printer; his sale, The Hague, 21 November 1864, lot 3; William Bragge (1823–1884); probably no. 54 in Burlington Fine Arts Club 1874, p. 11, lent by Bragge;",,,,human;human;human,Catharina ven den Steen;Adrianus David Schinkel;William Bragge,Q117843635;Q55901559;Q15453218
 "and pagination in arabic numerals during the revision under Angéline de Lossy, abbess 1755-96;sold with the Beaupré manuscripts in 1797; John Ruskin (1819-1900), who owned six volumes from two sets of choirbooks from Beaupré and removed the present leaves himself;",former owner,,,human,John Ruskin,Q179126
 Andrés de Escobar,author,,,human,Andreas de Escobar,Q2849009
 Andrea Alciati,author,,,human,Andrea Alciato,Q464471
@@ -240,7 +256,6 @@ Antoninus of Florence,author,,,human,Antoninus of Florence,Q773822
 "Antoninus Saint, Archbishop of Florence 1389-1459.",author,,,human,Antoninus of Florence,Q773822
 "Antoninus, Saint, Archbishop of Florence, 1389-1459",author,,http://viaf.org/viaf/89209643,human,Antoninus of Florence,Q773822
 "Antoninus, Saint, Archbishop of Florence, 1389-1459",author,,http://id.loc.gov/authorities/names/n86859662,human,Antoninus of Florence,Q773822
-Antonio Barbarigo,other,,,human,Antonio Barbarigo,Q91909669
 Antonio da Tempo,author,,,human,Antonio da Tempo,Q3620368
 "Antonio di Domenice, di Ciacco",author,,,human,Antonio di Domenice di Ciacco,Q116235870
 "Antonio di Girolamo (1479–1556),",artist,,,human,Antonio di Girolamo di Ugolino,Q117324369
@@ -260,7 +275,6 @@ Apicio,author,,,human,Apicius,Q114982
 Apicius,author,,http://id.loc.gov/authorities/names/n84238685,human,Marcus Gavius Apicius,Q117841
 Apollonius of Tyana.,author,,,human,Apollonius of Tyana,Q297040
 "Apparently Otto F. Ege (1888-1951); Ruth E. Adomeit (1910-1996), bequeathed by her to the Lilly Library.",former owner,,,human;human,Otto Ege;Ruth E. Adomeit,Q7109575;Q7382958
-"apparently returned; A. Rosenthal, cat. 1 (1939), no. 21; Reichner cat. 2 (1940), no. 113; Lathrop Harper, cat. 3 (1953), no. 72; George A. Poole, bought from Harper in 1955, and acquired by the Lilly Library with the Poole Collection in 1958.",,,,organization;human,"Lathrop C. Harper, Inc.;George Amos Poole",Q116785327;Q64683625
 "Appleby, Thomas, 16th century",former owner,,,human,Thomas Appleby,Q116235879
 "Aqsarāʼī, Muḥammad ibn Muḥammad, active 14th century",author,اقسرائي، محمد بن محمد، active 14th century,http://id.loc.gov/authorities/names/nr2001006661,human,Muḥammad ibn Muḥammad Aqsarāʼī,Q116235892
 Aquiles Estaço,author,,,human,Achilles Statius,Q4673751
@@ -359,7 +373,6 @@ Bagnano family,author,,,organization,Bagnano family,Q116730914
 "Baier, Johann David",former owner,,,human,Johann David Baier,Q55674108
 "Baillie-Weaver, Harold, -1926",former owner,,,human,Harold Baillie Weaver,Q18821788
 "Balbi, Jacobus",author,,,human,Jacobus Balbi,Q116250637
-Baldo Michele,other,,,human,Baldo Michele,Q117321240
 Baldo Michele,other,,,human,Baldo Michele,Q117321240
 "Baldovinetti, Giovanni",former owner,,,human,Giovanni Baldovinetti,Q116065836
 Baldus de Ubaldis,author,,,human,Baldus de Ubaldis,Q504929
@@ -594,7 +607,6 @@ Borgia (Family : active 14th century-18th century),author,,http://id.loc.gov/aut
 "bought from there by the bookseller Herbert Reichner (1899-1971), of Stockbridge, Mass., who sold it to the Lilly Library in 1960.",former owner,,,human,Herbert Reichner,Q27229630
 Bought in 1909 by C. L. Ricketts from Tregaskis; acquired by the Lilly Library with the Ricketts Collection in 1961.,former owner,,,human;human,Coella Lindsay Ricketts;James Tregaskis,Q116771179;Q94138739
 "bought probably from Sylvestre and sold, perhaps through Teschener, to Sir Thomas Phillipps (1792-1872), his MS 3735 (Ex Bibliotheca M. Allard; Phillipps sale, Sotheby’s, 23 March 1895, lot 918; Harold Baillie Weaver (d. 1926); his sale, Christie’s, 29 March 1898, lot 483; Laurence Hodson (1864-1933), with his booklabel in Kelmscott type; his sale, Sotheby’s, 5 December 1906, lot 504;",former owner,,,human;human;human,Thomas Phillipps;Harold Baillie Weaver;Laurence William Hodson,Q2147709;Q18821788;Q116378155
-"bought probably from Sylvestre and sold, perhaps through Teschener, to Sir Thomas Phillipps (1792-1872), his MS 3735 (Ex Bibliotheca M. Allard; Phillipps sale, Sotheby’s, 23 March 1895, lot 918; Harold Baillie Weaver (d. 1926); his sale, Christie’s, 29 March 1898, lot 483; Laurence Hodson (1864-1933), with his booklabel in Kelmscott type;",,,,human;human;human,Thomas Phillipps;Harold Baillie Weaver;Laurence William Hodson,Q2147709;Q18821788;Q116378155
 "Boult, Thomas",former owner,,,human,Thomas Boult,Q113817671
 "Bourelier, Claude",former owner,,,human,Claude Bourelier,Q113817696
 "Bourelier, Françoise",former owner,,,human,Françoise Bourelier,Q113817723
@@ -643,8 +655,6 @@ Burg Kreuzenstein (Austria),former owner,,,organization,Burg Kreuzenstein,Q66964
 "but rejected from the collection before it was catalogued; Rudolf Busch, of Mainz; his sale, Baer, Frankfurt, 4 April 1921, lot 273; sold again among ""other properties"" at Sotheby’s, 7 February 1923, lot 568, to Quaritch; C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Rudolf Busch;Coella Lindsay Ricketts,Q20812628;Q116771179
 "Butlar, John",former owner,,,human,John Butlar,Q116269857
 "Butler, Charles",former owner,,,human,Charles Butler,Q76094211
-"by 1870 acquired by Karl Anton, Fürst von Hohenzollern- Sigmaringen (1811-1885, prime minister of Prussia 1858-62) for the court library at Sigmaringen; bought from there by the bookseller Herbert Reichner (1899-1971), of Stockbridge, Mass., who sold it to the Lilly Library in 1960.",,,,human;human,"Prince Karl Anton, Prince of Hohenzollern;Herbert Reichner",Q58012;Q27229630
-"by descent to their daughter Bridget, who in 1633 married George Starkey (d. 1679); and to Bridget’s daughter Elizabeth, who in 1690 married Richard Sanders (d. 1723) all of whom appear in the genealogical notes added in the margins of fols. 103v-109v; sale at Sotheby’s, 6 August 1878, lot 1440 (among ‘other properties’), to Quaritch (his General Catalogue, 1880, no. 8575; cat. 332, 1880, no. 41;",,,,human,Bridget Hunt,Q116790444
 "C. L. Ricketts (bought in 1925 from Joseph Baer & Co., Frankfurt), and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;organization,Coella Lindsay Ricketts;Joseph Baer & Co.,Q116771179;Q83552608
 "C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human,Coella Lindsay Ricketts,Q116771179
 "C. L. Ricketts, bought from Barroux, 1930 (with a second fragment, see below); acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human,Coella Lindsay Ricketts,Q116771179
@@ -702,7 +712,6 @@ Cassiodorus,author,,,human,Cassiodorus,Q192365
 "Castellesi, Adriano b. ca. 1461.",author,,,human,Adriano Castellesi,Q775146
 Castello del Vivaro (Italy),author,,,organization,Castello del Vivaro,Q116710170
 Castino (Italy),author,,,organization,Castino,Q19920
-"Catalogue of a Private Library, Containing an Exceedingly Valuable Collection of Fine-Art and Illustrated Books, Illuminated Manuscripts, Original Drawings, &c, &c [identified in the Grolier Club copy as being the library of E. Tasker], Leavitt, New York, 3 March 1880, lot 620; C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",,,,human,Coella Lindsay Ricketts,Q116771179
 "Catalogue of a Private Library, Containing an Exceedingly Valuable Collection of Fine-Art and Illustrated Books, Illuminated Manuscripts, Original Drawings, &c, &c identified in the Grolier Club copy as being the library of E. Tasker, Leavitt, New York, 3 March 1880, lot 620; C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Alexander Smets;Coella Lindsay Ricketts,Q111543701;Q116771179
 Caterina Vigri,author,,,human,Catherine of Bologna,Q455252
 "Cathédrale Saint-Jean-Baptiste (Lyon, France)",former owner,,http://id.loc.gov/authorities/names/n50046743,organization,Lyon Cathedral,Q1521
@@ -750,7 +759,6 @@ Charles V Holy Roman Emperor 1500-1558.,author,,,human,"Charles V, Holy Roman Em
 "Charles V, Holy Roman Emperor, 1500-1558",author,,http://id.loc.gov/authorities/names/n79112289,human,"Charles V, Holy Roman Emperor",Q32500
 "Charles VII, King of France, 1403-1461",author,,http://id.loc.gov/authorities/names/n50036472,human,Charles VII of France,Q133372
 "Charles VIII, King of France, 1470-1498",author,,http://id.loc.gov/authorities/names/n82158482,human,Charles VIII of France,Q134452
-"Charles William Dyson Perrins (1864-1958), with his bookplate and ticket, with numbers ‘36’ and ‘62’; his sale, Sotheby’s, 9 December 1958, lot 18, to Breslauer; his cat. 92 (1960), no. 12; Lathrop C. Harper Inc., and acquired by the Lilly Library with the Harper stock, given by Mrs. Juana Mendel in November 1967.",,,,human;organization;human,"Charles William Dyson Perrins;Lathrop C. Harper, Inc.;Juana Mendel",Q5083550;Q116785327;Q116869123
 "Chasles, M. 1793-1880",former owner,,http://id.loc.gov/authorities/names/n86860104,human,Michel Chasles,Q318067
 "Chastellain, Georges, 1405?-1475",author,,http://id.loc.gov/authorities/names/n81090775,human,Georges Chastellain,Q957427
 "Chastellar, Gregory de",author,,,human,Gregory de Chastellar,Q116272265
@@ -785,7 +793,7 @@ Cicero (Quintus Tullius Cicero),author,,,human,Quintus Tullius Cicero,Q316054
 "Cicero, Marcus Tullius.",author,,https://viaf.org/viaf/78769600,human,Cicero,Q1541
 Cicero? (Quintus Tullius Cicero),author,,,human,Quintus Tullius Cicero,Q316054
 "Ciruelo, Pedro 1470-1560.",author,,,human,Pedro Ciruelo,Q3374120
-"Cistercian abbey of Cambron, north of Mons, Hainault (now in Belgium), founded c. 1148; doubtless the Gilebertus . . . Super Epistolas Paulirecorded at Cambron in 1641 and the gillebertus Super epistolas Sti Pauli Completerecorded at Cambron in 1782 (Sanderus 1641, I, p. 355; Planke 1938, p. 55, no. 168);",former owner,,,organization,Abbaye de Cambron,Q948743
+"Cistercian abbey of Cambron, north of Mons, Hainault (now in Belgium), founded c. 1148; doubtless the Gilebertus . . . Super Epistolas Paulirecorded at Cambron in 1641 and the gillebertus Super epistolas Sti Pauli Completerecorded at Cambron in 1782 (Sanderus 1641, I, p. 355; Planke 1938, p. 55, no. 168);",former owner,,,organization,Cambron Abbey,Q948743
 "Cistercian abbey of Villers-en-Brabant, founded from Clairvaux in 1146 and suppressed in 1796; doubtless from the Quarta pars Gregorialis et sermo quidam sancti Bernardilisted in the Villers library catalogue of 1309 (Derolez 2001, p. 219, no.164); part of a group of 20 manuscripts from Villers bought in Brussels c. 1823 by Sir Thomas Phillipps (1792-1872);",former owner,,,organization;human,Villers Abbey;Thomas Phillipps,Q1493708;Q2147709
 Cistercians,author,,http://id.loc.gov/authorities/names/n81025943,organization,Cistercians,Q166861
 Cistercians.,author,,,organization,Cistercians,Q166861
@@ -812,7 +820,6 @@ Clement VI,author,,,human,Clement VI,Q170863
 Clement VIII,author,,,human,Clement VIII,Q170395
 Cleomedes,author,,,human,Cleomedes,Q31278
 "Cnipius, Johannes, -1586",author,,http://id.loc.gov/authorities/names/no2006044348,human,Johannes Cnipius,Q20752901
-"Coat of arms in the lower margin of f. 13: or, 2 bezants gules, a bend gules, 1 bezant azur, and in chief azur, 3 fleur de lys or. On the front pastedown, an armorial bookplate, ""Ex libris M. A. Principis Burghesii"" with the Borghese arms. On f. i, the accession number of the American Academy, ""49086""",former owner,,,human,Marcantonio V Borghese,Q3845422
 "Cockerell, Sidney C.",former owner,,,human,Sydney Cockerell,Q966843
 "Cockerell, Sydney Carlyle, Sir, 1867-1962",former owner,,,human,Sydney Cockerell,Q966843
 "Cofradía del Señor Sant Pedro martyr (Palencia, Spain)",author,,,organization,Confraternity of St. Peter martyr (Palencia),Q116731023
@@ -838,7 +845,6 @@ Conrad of Werden,scribe,,,human,Conrad of Werden,Q117338246
 Conradus de Solto,author,,,human,Conradus de Solto,Q116270240
 Consejo de Inquisición (Spain),author,,http://id.loc.gov/authorities/names/n83046831,organization,Grand Inquisitor of Spain,Q24349070
 "consigned, with one of the Alunno pattern-books, to Sotheby’s, 25 June 1867, among ""other properties"" added to the sale of Sir Thomas Gage (who did not own this manuscript, despite what is generally said), lot 457, £52. 10s. to Ellis; Quaritch, General Catalogue, 1868, p. 1080; William H. Crawford (1812-1888), of Lakelands, Blackrock, Cork, with his bookplate inside lower cover;",former owner,,,organization;human,Bernard Quaritch Ltd;William Horatio Crawford,Q65034936;Q84471454
-"consigned, with one of the Alunno pattern-books, to Sotheby’s, 25 June 1867, among ""other properties"" added to the sale of Sir Thomas Gage (who did not own this manuscript, despite what is generally said), lot 457, £52. 10s.to Ellis; Quaritch, General Catalogue, 1868, p. 1080; William H. Crawford (1812-1888), of Lakelands, Blackrock, Cork, with his bookplate inside lower cover;",,,,human,William Horatio Crawford,Q84471454
 Constantine the African,author,,,human,Constantine the African,Q468641
 "Contarini, Gasparo, 1483-1542",author,,http://id.loc.gov/authorities/names/n88095633,human,Gasparo Contarini,Q728931
 "Contarinus, Magister",author,,,human,Magister Contarinus,Q116323409
@@ -846,7 +852,6 @@ conte della Trinita,former owner,,,human,Ludovico Costa,Q1874021
 Convent of San Paolo,former owner,,,organization,Convento di San Paolo,Q18486849
 "Cooke, Robert, -1592",author,,http://id.loc.gov/authorities/names/no89014196,human,Robert Cooke,Q116074334
 "Cooper, Martin J",former owner,,,human,Martin J. Cooper,Q113818464
-"Copied for Sion Abby in Switzerland; the see was originally located in Octodurum, now called Marigny/Martinach, and later moved to Sion (or Sitten in the German spelling of the name).",former owner,,,organization,Mount Zion Abbey,Q819287
 "Copied for Sion Abby in Switzerland; the see was originally located in Octodurum, now called Marigny/Martinach, and later moved to Sion (or Sitten in the German spelling of the name). On f. 247v, in the lower margin, in pencil, ""Joannes Aloysius Brochman acceptus anno 1749, mansit usque ad 1757"" (below feast of Agatha; perhaps that being the date of him having been accepted or having left).",former owner,,,organization,Mount Zion Abbey,Q819287
 Coptic Church,author,,http://id.loc.gov/authorities/names/n79107736,organization,Coptic Orthodox Church,Q198998
 "Corbolinus of Pistoia, close to",scribe,,,human,Corbolinus of Pistoia,Q117338335
@@ -932,7 +937,6 @@ Demetrios Chalcondyles,author,,,human,Dimitrios Chalkokondyles,Q983661
 Demosthenes,author,,,human,Demosthenes,Q117253
 Demosthenes.,author,,,human,Demosthenes,Q117253
 "D'esclavonie, Georges.",author,,,human,George de Esclavonie,Q23721072
-"described there as in-folio atlantico, elegans et completus dismembered probably in Auxerre in the early nineteenth century; John William Bradley (1830-1916), who gave it to C. L. Ricketts in 1913; acquired by the Lilly Library with the Ricketts Collection in 1961.",,,,human;human,John William Bradley;Coella Lindsay Ricketts,Q52148380;Q116771179
 "Dessauer, M. 1842-1895",former owner,,http://id.loc.gov/authorities/names/nr96042753,human,Moritz Dessauer,Q904363
 "Dethick, Gilbert, Sir.",author,,,human,Gilbert Dethick,Q5560882
 Detti family,author,,,organization,Detti family,Q116706577
@@ -1009,7 +1013,7 @@ Durand of Huesca.,author,,,human,Durand of Huesca,Q3041516
 Eadmer,author,,,human,Eadmer,Q725614
 "Earl Bertram Ashburnham, 1840-1913",former owner,,,human,"Bertram Ashburnham, 5th Earl of Ashburnham",Q19894272
 "Earl Thomas Philip De Grey, 1781-1859.",former owner,,,human,"Thomas de Grey, 2nd Earl de Grey",Q337676
-"Earls of Hopetown, at Hopetown House, West Lothian, Scotland, and by descent to John Hope 860-1908, seventh earl, succeeded in 1873, created marquess of Linlithgow in 1902, first Governor General of Australia); his sale, Sotheby’s, 25 February 1889, lot 499, to Ridler; George Dunn (1865-1912); his sale, Sotheby’s, 11 February 1913, lot 535,",former owner,,,human;human,"John Hope, 1st Marquess of Linlithgow;George Dunn",Q335178;Q112841325
+"Earls of Hopetown, at Hopetown House, West Lothian, Scotland, and by descent to John Hope 860-1908, seventh earl, succeeded in 1873, created marquess of Linlithgow in 1902, first Governor General of Australia); his sale, Sotheby’s, 25 February 1889, lot 499, to Ridler; George Dunn (1865-1912); his sale, Sotheby’s, 11 February 1913, lot 535,",former owner,,,human;human;human,"Coella Lindsay Ricketts;John Hope, 1st Marquess of Linlithgow;George Dunn",Q116771179;Q335178;Q112841325
 "Easson, Henry, Reverend",former owner,,,human,Henry Easson,Q113818938
 "Eaton, Peter",former owner,,,human,Peter Eaton,Q113819016
 Eberhard of Béthune,author,,,human,Eberhard of Béthune,Q5331803
@@ -1050,7 +1054,6 @@ Epiphanius Scholasticus.,author,,,human,Epiphanius Scholasticus,Q710039
 "Erasmus, Desiderius 1466?-1536",author,,,human,Erasmus,Q43499
 "Ercole d'Este, duke of Ferrara, Modena, Reggio Emilia",author,,,human,"Ercole I d'Este, Duke of Ferrara",Q1348708
 "Ereilter, S",former owner,,,human,S. Ereilter,Q116326394
-"Ernst F. Detterer (1888-1947); bought from Detterer’s estate in 1948 by George A. Poole, and acquired by the Lilly Library with the Poole Collection in 1958.",,,,human;human,Ernst F. Detterer;George Amos Poole,Q5394976;Q64683625
 "Ernst, Archduke of Austria, 1553-1595",author,,http://id.loc.gov/authorities/names/n85160667,human,Archduke Ernest of Austria,Q327156
 "Erzurūmī, Ibrāhīm ibn ʻUthmān ḥaqqī, d. 1781",author,,,human,İbrahim Hakkı Erzurumi,Q2729985
 "Escobar, Andrés de, -approximately 1431",author,,http://id.loc.gov/authorities/names/no2005046107,human,Andreas de Escobar,Q2849009
@@ -1156,7 +1159,6 @@ Florus of Lyon,author,,,human,Florus of Lyon,Q3074346
 "Foscarari, Egidio, -1289",author,,http://id.loc.gov/authorities/names/no2006063291,human,Egidio Foscarari,Q41569530
 "Foscarini, Lodovico",author,,,human,Lodovico Foscarini,Q116327224
 "Found and acquired probably in the region of Rome by George N. Olcott (1869-1912), American classicist in Rome; given by his widow to the American Academy in Rome by 1927; sold by the Academy through B. l. Ullman to George A. Poole in 1951, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,human;human,George N. Olcott;George Amos Poole,Q18912535;Q64683625
-"Found and first published by Anton Birlinger (1834-1891, of Bonn) who describes it as having been in the possession of Karl Strauven (d. 1886), notary in Düsseldorf;",former owner,,,human;human,Anton Birlinger;Karl Leopold Strauven,Q588335;Q11028150
 "Found and first published by Anton Birlinger (1834-1891, of Bonn) who describes it as having been in the possession of Karl Strauven (d. 1886), notary in Düsseldorf; by 1870 acquired by Karl Anton, Fürst von Hohenzollern- Sigmaringen (1811-1885, prime minister of Prussia 1858-62) for the court library at Sigmaringen;",former owner,,,human;human;human,"Anton Birlinger;Karl Leopold Strauven;Prince Karl Anton, Prince of Hohenzollern",Q588335;Q11028150;Q58012
 "Four ownership notes on the front pastedown and front flyleaf recto: Mus__?___ Guichardin of Saint-Symphorien-le-Châtel, 1632; Jean Guichardin __?___ of Saint-Symphorien-le-Châtel, 1668; the Rev. J. M. Neale of Sackville College, 1858, who gave it to J. F. Young in 1864.",former owner,,,human,John Mason Neale,Q246018
 "Fowle, Nicolas",former owner,,,human,Nicolas Fowle,Q116327461
@@ -1179,7 +1181,6 @@ Francesco Giuntini,author,,,human,Francesco Giuntini,Q3080974
 Francesco Lignamine,author,,,human,Francesco de Lignamine,Q3750856
 Francesco Malacarne,author,,,human,Francesco Malacarne,Q65953117
 Francesco Petrarca,author,,,human,Petrarch,Q1401
-Francesco Rato,other,,,human,Francesco Rato,Q117321180
 "Francesco, Ghilo di",author,,,human,Ghilo di Francesco,Q116327741
 "Franchières, Jean de ca. 1400-1488.",author,,,human,Jean de Franchières,Q3175407
 "Franchini, Giuseppe, 1915-",former owner,,http://id.loc.gov/authorities/names/nr2001009952,human,Giuseppe Franchini,Q116327599
@@ -1214,14 +1215,12 @@ Friderici de Schennis,former owner,,,human,Hans Friedrich Emanuel Schennis,Q2470
 "From a solicitor's office in Halifax; acquired, from a clerk who came to America ca. 1900, by Frederick W. Gnichtel (1860-1950); his gift in 1915.",former owner,,,human,Frederick W. Gnichtel,Q116860314
 From the Astor collection.,former owner,,,human,Astor family,Q661575
 "From the chapel of Compagnia della Vergine Maria in Cento; Ernst F. Detterer (1888-1947), bought in 1913 from J. Lewine; bought from Detterer’s estate in 1948 by George A. Poole, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,organization,"Compagnia della Vergine Maria (Cento, Italy)",Q116785169
-"From the codex made for Leonello d'Este. Brought to Wales as war booty by 1813, already in a damaged state, by the Rolls family, later enobled as Barons Llangattock, of The Hendre, Monmouth (Llangattock sale, London, Christie's, 8 December 1958, lot 190);",former owner,,,human;organization,"Leonello d'Este, Marquis of Ferrara;Baron Llangattock",Q1379797;Q4862572
 "from the collection of specimen leaves formed by Messrs. W. H. Robinson, who bought the residue of the Phillipps library in 1945-46, sold by them to George A. Poole in 1947, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,human;organization,George Amos Poole;William H. Robinson Ltd.,Q116786331;Q64683625
 "from the collection of specimen leaves formed by Messrs. W. H. Robinson, who bought the residue of the Phillipps library in 1945-6, sold by them to George A. Poole in 1947, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,organization;human,William H. Robinson Ltd.;George Amos Poole,Q116786331;Q64683625
 "from the collection of specimen leaves formed by Messrs. W.H. Robinson, who bought the residue of the Phillipps library in 1945-46, sold by them to George A. Poole in 1947, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,human,George Amos Poole,Q64683625
 "From the collection of the Abate Matteo Luigi Canonici (1727-1806), purchased in 1835 by Rev. Walter Sneyd (1810?-1888); his sale, London, 1903, n. 344 to Quaritch; given to the Grolier Club in 1912 by Archer M. Huntington (Grolier member, 1894-1955).",former owner,,,human;human;organization;human,Matteo Luigi Canonici;Walter Sneyd;Bernard Quaritch Ltd;Archer Milton Huntington,Q55226394;Q62619661;Q65034936;Q4785964
 From the leaves of Otto F. Ege (1888-1951).,former owner,,,human,Otto Ege,Q7109575
 "From the Missal of Cardinal Antoniotto Pallavicini (1442-1507), who gave it to the Sistine Chapel, in the Vatican, where it was recorded in 1714; probably looted during the French occupation of Rome in 1798; the abate Luigi-Celotti (c. 1768-c. 1846), who probably cut it up;",former owner,,,human;organization;human,Antonio Pallavicini Gentili;Sistine Chapel;Luigi Celotti,Q2345146;Q2943;Q113774991
-"From volume III of the Antiphoner made for the prioress of the Cistercian nunnery of Beaupré (founded 1228, suppressed 1796), at Grimminge, east of Brussels and north of Cambron;",former owner,,,organization,Cistercian Abbey of Beaupré,Q2698735
 "From volume III of the Antiphoner made for the prioress of the Cistercian nunnery of Beaupré (founded 1228, suppressed 1796), at Grimminge, east of Brussels and north of Cambron; gothic foliation in roman numerals added during the revision of the text under Jacquemine Hendricx, abbess of Beaupré 1473-1500,",former owner,,,organization;human,Cistercian Abbey of Beaupré;Jacquemine Hendricx,Q2698735;Q116785243
 "Frost, H. Harvey",former owner,,,human,Henry Harvey Frost,Q63158037
 Fucecchio (Italy). Podestà,author,,,organization,Fucecchio,Q82699
@@ -1233,8 +1232,6 @@ Fucecchio (Italy). Podestà,author,,,organization,Fucecchio,Q82699
 Fulgentius of Ruspa,author,,,human,Fulgentius of Ruspe,Q380089
 Fulgentius Ruspensis (Claudius Gordianus Fulgentius),author,,,human,Fulgentius of Ruspe,Q380089
 "Fuller, A. W. F",former owner,,,human,A. W. F. Fuller,Q4648509
-Gabriele Barbarigo,other,,,human,Gabriele Barbarigo,Q117321220
-"Gabriele Barbarigo, son of Antonio Barbarigo",other,,,human,Gabriele Barbarigo,Q117321220
 Gabriele Cesano,author,,,human,Gabriele Cesano,Q3756567
 "Gabuzzi, conte",author,,,human,Conte Gabuzzi,Q116378063
 Gaetanus de Thienis,author,,,human,Gaëtan de Tiène,Q3099938
@@ -1269,7 +1266,6 @@ Geffrey Whitney,author,,,human,Geoffrey Whitney,Q5534971
 "Geigy-Hagenbach, Karl",former owner,,,human,Carl Alphons Geigy-Hagenbach,Q55843904
 "Gellius, Aulus.",author,,,human,Aulus Gellius,Q294800
 "Gendreau, Georges",former owner,,,human,Georges Gendreau,Q116328168
-"General Catalogue VIII, 1884, no. 17397; and cat. 369, 1886, no. 35668); Henry Yates Thompson (1838-1928), bought from Quaritch, 14 March 1895, with his bookplate, his no. 29; his sale, Sotheby’s, 23 March 1920, lot 43, to Tregaskis (his cat. 850, 1922, no. 17, and cat. 871, 1923, no. 15); C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",,,,human;human,Henry Yates Thompson;Coella Lindsay Ricketts,Q2044609;Q116771179
 Generale consilium partis Guelforum,author,,,organization,General council of Guelfs,Q116731239
 Gentien Hervet,author,,,human,Gentian Hervetus,Q3100865
 "Gentilis Fulginas, -1348",author,,http://id.loc.gov/authorities/names/n86839021,human,Gentile da Foligno,Q524048
@@ -1285,7 +1281,6 @@ George A. Plimpton (1855-1936).,former owner,,,human,George Arthur Plimpton,Q553
 "George A. Poole, bought from H. P. Kraus, cat. 75 (1955), no. 19, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,human;organization,George Amos Poole;H. P. Kraus (firm),Q64683625;Q113864096
 George Atherton Aitken (1860-1917).,former owner,,,human,George Atherton Aitken,Q15930536
 George Bruce collection; given to the Grolier Club in July 1894 by David Wolfe Bruce.,former owner,,,human;human,George Bruce;David Wolfe Bruce,Q2757147;Q116598092
-"George Dunn (1865-1912), with his booklabel, bought in March 1900, probably from Sydney Cockerell (to judge from Dunn’s pencil note ""S.C.C.""); Dunn sale, Sotheby’s, 11 February 1913, lot 356, to Young; bought the following day by C. L. Ricketts, and acquired by the Lilly Library with the Ricketts collection in 1961.",,,,human;human;human,George Dunn;Sydney Cockerell;Coella Lindsay Ricketts,Q112841325;Q966843;Q116771179
 "George Dunn, 1864-1912",former owner,,,human,George Dunn,Q112841325
 George Hermonymus Spartanus,author,,,human,George Hermonymus,Q3077328
 George of Trebizond,author,,,human,George of Trebizond,Q533514
@@ -1320,8 +1315,6 @@ Gervase Markham,author,,,human,Gervase Markham,Q456590
 "Ghinucci, Girolamo d. 1451.",author,,,human,Girolamo Ghinucci,Q2261543
 "Giacomini Tebalducci Malespini, Lorenzo, -1599",author,,http://id.loc.gov/authorities/names/n90605575,human,Lorenzo Giacomini,Q19413034
 Giacomo Michele,other,,,human,Giacomo Michele,Q117321234
-"Giacomo Zeno, bishop of Padua",other,,,human,Jacopo Zeno,Q26265689
-Gian Francesco de Priolis,other,,,human,Gian Francesco de Priolis,Q117321248
 Gift in 1975 of Dr. Martin Picker (1929-2005). Earlier call number: Ac. 2834.,former owner,,,human,Martin Picker,Q75709832
 "Gift in January 1898 by Samuel Putnam Avery,",former owner,,,human,Samuel Putnam Avery,Q3819081
 Gift in January 1898 by Samuel Putnam Avery.,former owner,,,human,Samuel Putnam Avery,Q3819081
@@ -1344,7 +1337,6 @@ Giordano Ruffo,author,,,human,Giordano Ruffo,Q3106874
 Giordano Ruffo -1256,author,,,human,Giordano Ruffo,Q3106874
 Giorgio d'Alemagna,artist,,,human,Giorgio d'Alemagna,Q3106916
 Giorgio Valla,author,,,human,Giorgio Valla,Q112365523
-Giovanni Antonio Contarini,other,,,human,Giovanni Antonio Contarini,Q117324100
 Giovanni Antonio Flaminio (Giovanni Antonius Flaminio),author,,,human,Giovanni Antonio Flaminio,Q17284944
 Giovanni Antonio Porcelli Pandoni,author,,,human,Porcellio,Q12270006
 Giovanni Antonio Porcelli Pandoni?,author,,,human,Porcellio,Q12270006
@@ -1376,7 +1368,6 @@ Girolamo Angeriano,author,,,human,Girolamo Angeriano,Q3768890
 Girolamo Benivieni,author,,,human,Girolamo Benivieni,Q328117
 Girolamo Savonarola,author,,,human,Girolamo Savonarola,Q164823
 "Giulantonio di Acquaviva, duke of Atri 1464-81, or possibly his young son, Andrea Matteo Acquaviva (1458-1529), with their arms on fol. 1r; Gilhofer and Ranschburg, cat. 265 (1936), no. 12a; evidently confiscated by the Nazis, with the purple stamp of the Zentralstelle für Denkmalschutz dated 26.III.37 inside the lower cover; apparently returned;",former owner,,,human;human;organization,"Giulio Antonio Acquaviva;Andrea Matteo Acquaviva;Gilhofer & Ranschburg, Vienna",;Q2317813;Q3615841;Q1524334
-"Giulantonio di Acquaviva, duke of Atri 1464-81, or possibly his young son, Andrea Matteo Acquaviva (1458-1529), with their arms on fol. 1r; Gilhofer and Ranschburg, cat. 265 (1936), no. 12a; evidently confiscated by the Nazis, with the purple stamp of the Zentralstelle für Denkmalschutz dated 26.III.37 inside the lower cover;",former owner,,,human;human,Giulantonio Acquaviva;Andrea Matteo Acquaviva,Q108433426;Q3615841
 Giuliano d'Antonio da Prato,scribe,,,human,Giuliano d'Antonio da Prato,Q117448251
 "Giulio Lucio Mancini, recipient of letter",other,,,human,Giulio Lucio Mancini,Q117448256
 Giulio Santoro,author,,,human,Giulio Santoro,Q111588480
@@ -1385,7 +1376,6 @@ Giuseppe Biondo,author,,,human,Giuseppe Biondo,Q113863979
 "Giustiniani, Bernardo 1408-1489.",author,,,human,Bernardo Giustiniani,Q21543813
 Giusto de' Conti,author,,,human,Giusto de' Conti,Q3771771
 "Given by Rudolf, priest of Lindau, to a monastery, doubtless the Premonstratensian imperial abbey of Weissenau (founded in 1145, suppressed in 1803), where it was by the time of the eighteenth-century inscription on fol. 1r, Bibliothecę Weissenaw probably one of the two twelfth- to thirteenth-century Psalter commentaries noted by M. Gerbert on his visit to Weissenau in 1760 (Lehmann 1918, p. 408)",former owner,,,organization,Weissenau Abbey,Q458074
-"Given by Rudolf, priest of Lindau, to a monastery, doubtless the Premonstratensian imperial abbey of Weissenau (founded in 1145, suppressed in 1803), where it was by the time of the eighteenth-century inscription on fol. 1r, Bibliothecę Weissenaw probably one of the two twelfth- to thirteenth-century Psalter commentaries noted by M. Gerbert on his visit to Weissenau in 1760 (Lehmann 1918, p. 408);",former owner,,,organization,Weissenau Abbey,Q458074
 "Given to C. L. Ricketts in 1913 by Dr. B. L. Riese, of Chicago; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,B. L. Riese;Coella Lindsay Ricketts,Q116786322;Q116771179
 Given to the Grolier Club in 1931 by Charles Bain Hoyt.,former owner,,,human,Charles B. Hoyt,Q78162371
 "Gladstone, W. E. 1809-1898",former owner,,,human,William Ewart Gladstone,Q160852
@@ -1413,7 +1403,6 @@ Gonzalo Fernández de Oviedo y Valdés,author,,,human,Gonzalo Fernández de Ovie
 "Gostling, Miss",former owner,,,human,Miss Gostling,Q114406921
 "Gostling, William Kennedy",former owner,,,human,William Gostling,Q75264995
 "Gostling, William, 1696-1777",former owner,,,human,William Gostling,Q15994466
-"gothic foliation in roman numerals added during the revision of the text under Jacquemine Hendricx, abbess of Beaupré 1473-1500, and pagination in arabic numerals during the revision under Angéline de Lossy, abbess 1755-96; sold with the Beaupré manuscripts in 1797; John Ruskin (1819-1900), who owned six volumes from two sets of choirbooks from Beaupré and removed the present leaves himself;",,,,human;human;human,Jacquemine Hendricx;Angéline de Lossy;John Ruskin,Q116785243;Q117536482;Q179126
 "Gougy, Lucien",former owner,,,human,Lucien Gougy,Q89484729
 "Goussen, Andrea",author,,,human,Andrea Goussen,Q116378030
 "Gower, John 1325?-1408.",author,,,human,John Gower,Q365133
@@ -1562,7 +1551,7 @@ Heinrich von Sankt Gallen.,author,,,human,Heinrich von St. Gallen,Q1599683
 "Helm, Franz, approximately 1500-1567",author,,http://id.loc.gov/authorities/names/nr2002017652,human,Franz Helm,Q15994218
 "Hendrik Herp, O.F.M.",author,,,human,Hendrik Herp,Q473002
 "Henri, Duc de Rohan",author,,,human,Henri II de Rohan,Q701048
-"Henri-Auguste Brölemann (1775-1869), of Lyons, and by descent to his grandson Arthur Brölemann (1826-1904) and his great-granddaughter Madame Etienne Mallet; her sale, Sotheby’s, 5 May 1926, lot 161, to Permain; Otto F. Ege (1888-1951), who cut it up.",,,,human;human;human;human,Henri Auguste Brölemann;Arthur Brölemann;Etienne Mallet;Otto Ege,Q116785149;Q116785153;Q33270281;Q7109575
+"Henri-Auguste Brölemann (1775-1869), of Lyons, and by descent to his grandson Arthur Brölemann (1826-1904) and his great-granddaughter Madame Etienne Mallet; her sale, Sotheby’s, 5 May 1926, lot 161, to Permain; Otto F. Ege (1888-1951), who cut it up.",former owner,,,human;human;human,Henri Auguste Brölemann;Arthur Brölemann;Otto Ege,Q116785149;Q116785153;Q7109575
 Henricus Kalkar,author,,,human,Henry of Kalkar,Q85894
 Henricus Suso,author,,,human,Henry Suso,Q303435
 Henry Bohic,author,,,human,Henri Bohic,Q3130702
@@ -1614,14 +1603,10 @@ Hippocrates,author,,,human,Hippocrates,Q5264
 Hippocrates.,author,,,human,Hippocrates,Q5264
 "Hirschel, Solomon, 1761-1842",former owner,,http://id.loc.gov/authorities/names/n83220162,human,Solomon Hirschell,Q2299213
 "his cat. 92 (1960), no. 12; Lathrop C. Harper Inc., and acquired by the Lilly Library with the Harper stock, given by Mrs. Juana Mendel in November 1967.",former owner,,,organization;human,"Lathrop C. Harper, Inc.;Juana Mendel",Q116785327;Q116869123
-"his sale, Anderson, New York, 29 March 1916, lot 743, to Gabriel Wells; bought by C. L. Ricketts in 1924 from the estate of the bookseller George D. Smith (d. 1920), and acquired by the Lilly Library with the Ricketts Collection in 1961.",,,,human;human;human,Gabriel Wells;George D. Smith;Coella Lindsay Ricketts,Q17627120;Q116594130;Q116771179
 "his sale, Christie’s, 23 March 1954, lot 32;George A. Poole, bought from Lathrop Harper, cat. 2 (1956), no. 7, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,organization;human,"Lathrop C. Harper, Inc.;George Amos Poole",Q116785327;Q64683625
 "his sale, Christie’s, 26 May 1825, part of lot 48; perhaps William Young Ottley (1771-1836); perhaps part of lot 204 in his sale, Sotheby’s, 11 May 1838; C. L. Ricketts, bought from Tregaskis; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human;human,William Young Ottley;James Tregaskis;Coella Lindsay Ricketts,Q8020693;Q94138739;Q116771179
-"his sale, Sotheby’s, 12 March 1891, lot 1666; Henry Walton Lawrence; his sale, Sotheby’s, 15 December 1892, lot 235, to Robson; C. L. Ricketts, bought from Robson, cat. 96 (1915), no. 219; acquired by the Lilly Library with the Ricketts Collection in 1961.",,,,human;human,Henry Walton Lawrence;Coella Lindsay Ricketts,Q117536626;Q116771179
 "his sale, Sotheby’s, 12 March 1891, lot 3248; Robert Hoe (1839-1909), of New York, with his leather booklabel, his by 1892, when it was exhibited at the Grolier Club; his sale, Anderson, New York, 24 April 1911, lot 2182, to G. D. Smith, for C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Robert Hoe III;Coella Lindsay Ricketts,Q3663034;Q116771179
 "his sale, Sotheby’s, 2 May 1904, lot 228; Michael Tomkinson (1841-1921); his sale, Sotheby’s, 3 April 1922, lot 878, to Quaritch; C. L. Ricketts, bought in 1923; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;organization;human,Michael Tomkinson;Bernard Quaritch Ltd;Coella Lindsay Ricketts,Q18811090;Q65034936;Q116771179
-"his sale, Sotheby’s, 5 December 1906, lot 504; Maggs cat. 246 (1909), no. 820; Sotheby’s, 21 July 1913, lot 1077; Maggs cat. 380 (1919), no. 1699, and cat. 542 (1930), no. 46; Edward Duff Balken, of Pittsburg, PA, with his bookplate; George A. Poole (bought from H. P. Kraus, cat. 75, 1955, no. 5), and acquired by the Lilly Library with the Poole Collection in 1958.",,,,human;human,Edward Duff Balken;George Amos Poole,Q112300686;Q64683625
-"his sale, Sotheby’s, 7 June 1876, lot 221, to Ellis; Col. Eustace Balfour (1854-1911, younger brother of Lord Balfour, prime minister 1902-05); sale at Sotheby’s, 28 July 1919, lot 99a; C. L. Ricketts, bought from Voynich in 1921; acquired by the Lilly Library with the Ricketts Collection in 1961.",,,,human;human;human,Eustace Balfour;Wilfrid Voynich;Coella Lindsay Ricketts,Q17308766;Q336453;Q116771179
 "Hoccleve, Thomas 1370?-1450?",author,,,human,Thomas Hoccleve,Q1227741
 "Hodossy, Imre",former owner,,,human,Imre Hodossy,Q73712054
 "Hodson, Laurence W., 1864-1933",former owner,,http://id.loc.gov/authorities/names/no2017159255,human,Laurence William Hodson,Q116378155
@@ -1719,12 +1704,11 @@ Ignatios the Deacon,author,,,human,Ignatios the Deacon,Q3148188
 "Īrawānī, Qāsim",former owner,ايرواني، قاسم,,human,Qāsim al-Īrawānī,Q114242446
 "İbrahim Efendi, 1589-1654",author,ابراهيم افندى، 1589-1654,,human,Ibrahim Efendi,Q6073533
 Ildibrandinus,author,,,human,Ildibrandinus,Q116417464
-"Illuminated for Marie d’Avaugour, duchesse de Montbazon (1610-1657), daughter of Claude d’Avaugour, comte de Vertus, and wife of Hercule de Rohan, duc de Montbazon (1568-1654), governor of Paris, with their arms on the title and elsewhere;",former owner,,,human;human,"Marie de Bretagne d’Avaugour;Hercule de Rohan, Duke of Montbazon",Q1152648;Q673298
+"Illuminated for Marie d’Avaugour, duchesse de Montbazon (1610-1657), daughter of Claude d’Avaugour, comte de Vertus, and wife of Hercule de Rohan, duc de Montbazon (1568-1654), governor of Paris, with their arms on the title and elsewhere;",former owner,,,human,Marie de Bretagne d'Avaugour,Q2116911
 "Ilyās ibn Khamzah ʻAlī Niyat ʻAlī ibn Khamzah, active 1484",scribe,"الياس بن خمزه علي نيت علي بن خمزه, d",,human,Ilyās ibn Khamzah ʻAlī Niyat ʻAlī ibn Khamzah,Q116417213
 Immanuel ben Jacob Bonfils,author,,,human,Immanuel Bonfils,Q354517
 "In an envelope with the manuscript, the remains of the bookplate of George John Warren Vernon (1803-1866), fifth Baron Veron; CSL accession number 22953.",former owner,,,human,"George Venables-Vernon, 5th Baron Vernon",Q5545476
 "In the lower margin of the recto, a note, s. XV, in anglicana script: Iste liber pertinet thome <?>, referring to the book in which this leaf served as pastedown. This collection of English binding fragments was given to NYU by Homer Lewis Bartlett (1858-1940), who graduated in 1884 from NYU with a degree in Science and Civil Engineering;|",former owner,,,human,Homer Lewis Bartlett,Q116850379
-"In the lower margin of the recto, a note, s. XV, in anglicana script: Iste liber pertinet thome <?>, referring to the book in which this leaf served as pastedown. This collection of English binding fragments was given to NYU by Homer Lewis Bartlett (1858-1940), who graduated in 1884 from NYU with a degree in Science and Civil Engineering;",former owner,,,human,Homer Lewis Bartlett,Q116850379
 "Ingilby, William Henry, Sir, 1874-1952",former owner,,,human,"Sir William Henry Ingilby, 4th Bt.",Q75298662
 Ink stamp of Roy G. Fitzgerald (1875-1962); sold at Parke-Bernet (6 November 1963)?; acquired in 1991 from P. Pirages.,former owner,,,human;organization,Roy G. Fitzgerald;Phillip J. Pirages Fine Books & Manuscripts,Q7372827;Q116790542
 Innocent III,author,,,human,Innocent III,Q128076
@@ -1733,7 +1717,6 @@ Innocent IV,author,,,human,Innocent IV,Q160609
 Innocent V Pope ca. 1224-1276.,author,,,human,Innocent V,Q170871
 Innocent VIII,author,,,human,Innocent VIII,Q161351
 "Inscribed at foot of fol. 1r, Sum Liber Johannis Hunt ex dono Mariae Lussher 1.5.8.5i doubtless John Hunt (c. 1560-1612), of Gaydon, Staffordshire, etc., given to him in 1585 by Mary Lusher (c. 1564-1634, daughter of Nicholas Lusher, of Shooland in Putterham, Surrey), whom he had married in 1582; by descent to their daughter Bridget, who in 1633 married George Starkey (d. 1679);",former owner,,,human;human;human,Mary Lusher;John Hunt;Bridget Hunt,Q116790415;Q116790408;Q116790444;
-"Inscribed at foot of fol. 1r, Sum Liber Johannis Hunt ex dono Mariae Lussher 1.5.8.5i doubtless John Hunt (c. 1560-1612), of Gaydon, Staffordshire, etc., given to him in 1585 by Mary Lusher (c. 1564-1634, daughter of Nicholas Lusher, of Shooland in Putterham, Surrey), whom he had married in 1582;",former owner,,,human;human,John Hunt;Mary Lusher,Q6240444;Q116790415
 "Inside front cover: Ex bibliotheca Com. Eq. Fabricii Orsini Rilli di Poppi. N. 263 in a Sotheby sale, ca. 1890 (according to De Ricci); Adolph Sutro (1830-1898), mayor of San Francisco.",former owner,,,human;human,Fabrizio Rilli Orsini;Adolph Sutro,Q87706284;Q214461
 Ioannes Dokeianos,author,,,human,John ‎Dokeianos‏,Q95795900
 Iohannes Andreae,author,,,human,Johannes Valentinus Andreae,Q60854
@@ -1824,14 +1807,12 @@ Jans Enikel,author,,,human,Jans der Enikel,Q689252
 "Jawharī, Ismāʻīl ibn Ḥammād, -1003",author,جوهري، اسماعيل بن حماد، -1003؟,http://id.loc.gov/authorities/names/n82085863,human,Ismail ibn Hammad al-Jawhari,Q403498
 "Jazūlī, Muḥammad ibn Sulaymān, 1404-1465",author,جزولي، محمد بن سليمان، -1465,,human,Muhammad al-Jazuli,Q1775944
 "Jazūlī, Muḥammad ibn Sulaymān, -1465",author,جزولي، محمد بن سليمان، -1465,,human,Muhammad al-Jazuli,Q1775944
-Jean Bourdichon?,artist,,,human,Jean Bourdichon,Q348333
 Jean Calvin,author,,,human,John Calvin,Q37577
 Jean de Blois,author,,,human,John I of Blois-Châtillon,Q2478500
 Jean de Fe'camp,author,,,human,John of Fécamp,Q3175409
 Jean de Lignières,author,,http://viaf.org/viaf/275520118,human,Jean de Lignières,Q108732963
 Jean de Meun,author,,,human,Jean de Meun,Q544925
 Jean de Meun d. 1305?,author,,,human,Jean de Meun,Q544925
-"Jean Fouquet, in the style of",artist,,,human,Jean Fouquet,Q311398
 Jean Foy-Vaillant,author,,,human,Jean Foy-Vaillant,Q3172080
 Jean Froissart,author,,,human,Jean Froissart,Q315000
 Jean Gerson,author,,,human,Jean Gerson,Q281179
@@ -1907,7 +1888,6 @@ Johannes von Kastl,author,,,human,Johannes von Kastl,Q1564527
 "Johannes, von Kastl, active 15th century",author,,http://id.loc.gov/authorities/names/no2003000642,human,Johannes von Kastl,Q1564527
 "Johanutti, Angelus, de Montegranario",scribe,,,human,Angelus Johanutti de Montegranario,Q116419108
 John,author,,,human,John the Evangelist,Q328804
-"John Boykett Jarman (d. 1864, aged 82); his sale, Sotheby’s, 13 June 1864, lot 78; Cecil Dunn Gardner; his sale, Sotheby’s, 21 June 1880, lot 823, to Ellis; William H. Crawford (1812-1888), of Lakelands, Blackrock, Cork, with his bookplate;",former owner,,,human;human;human,John Boykett Jarman;Cecil Dunn Gardner;William Horatio Crawford,Q94297523;Q64337080;Q84471454
 "John Boykett Jarman (d. 1864, aged 82); his sale, Sotheby’s, 13 June 1864, lot 78; Cecil Dunn Gardner; his sale, Sotheby’s, 21 June 1880, lot 823, to Ellis; William H. Crawford (1812-1888), of Lakelands, Blackrock, Cork, with his bookplate; his sale, Sotheby’s, 12 March 1891, lot 1666;",former owner,,,human;human;human,John Boykett Jarman;Cecil Dunn Gardner;William Horatio Crawford,Q94297523;Q64337080;Q84471454
 John Capgrave,author,,,human,John Capgrave,Q1357237
 John Cassian,author,,,human,John Cassian,Q313795
@@ -1922,7 +1902,6 @@ John Felton,author,,,human,John Felton,Q114242450
 "John Frederick Lewis, Philadephia.",former owner,,,human,John Frederick Lewis,Q78163033
 John Gower,author,,,human,John Gower,Q365133
 John Hardyng,author,,,human,John Hardyng,Q6237760
-John Haykyn,other,,,human,John Haykyn,Q117324129
 "John Henry Nash. Previous call numbers MAR 12, 2MS BV247 K8.",former owner,,,human,John Henry Nash,Q47458947
 John Hus?,author,,,human,Jan Hus,Q43977
 John III Ghistelles,other,,,human,"John III, Lord of Ghistelles and Ingelmunster",Q117352015
@@ -2140,7 +2119,6 @@ Lucan 39-65.,author,,,human,Lucan,Q188646
 Lucian,author,,,human,Lucian of Samosata,Q177847
 Lucian of Samosata.,author,,,human,Lucian of Samosata,Q177847
 Lucius Annaeus Seneca ca. 4 B.C.-65 A.D.,author,,,human,Seneca,Q2054
-Lucrezia Pio,other,,,human,Lucrezia Pio Sforza,Q117324182
 "Ludowic von Harthausen, later 19th century owner",other,,,human,Ludowic von Harthausen,Q117321264
 "Ludwig IV, Emperor of Germany",author,,,human,Louis IV of Bavaria,Q57161
 "Ludwig, Irene",former owner,,,human,Irene Ludwig,Q1672539
@@ -2151,7 +2129,6 @@ Luigi Arrigoni,former owner,,,human,Luigi Arrigoni,Q16798855
 Luigi de Fano,other,,,human,Luigi de Fano,Q117352067
 Luigi di Palazuoli,other,,,human,Luigi di Palazuoli,Q117352075
 Luigi di Piero Guicciardini,author,,,human,Piero di Luigi Guicciardini,Q3903393
-"Luigi Loredano, son of Giovanni Loredano",other,,,human,Luigi Loredano,Q117324162
 Luigi Tansillo,author,,,human,Luigi Tansillo,Q707853
 Luis de Granada 1504-1588.,author,,,human,Luis de Granada,Q608713
 Luke,author,,,human,Luke the Evangelist,Q128538
@@ -2208,7 +2185,6 @@ Mannheimer Hofbibliothek,former owner,,,organization,Mannheimer Hofbibliothek,Q4
 Manuel Moschopoulos,author,,,human,Manuel Moschopoulos,Q650448
 Manuscript purchased in Madrid by a former owner (per label); gift in 1959 of Mrs. Monica Franklyn of central New Jersey.,former owner,,,human,Monica Franklyn,Q116860359
 "Manuzio, Paolo 1512-1574.",author,,,human,Paulus Manutius,Q941151
-"many manuscripts from Weissenau were appropriated by the last abbot, Bonaventura Brem (1755-1818), who retired to Schloss Liebenau, whence they were bought c. 1842 by Georg von Waldburg-Zeil, S.J. [1823-1866), for the Jesuit College at Fribourg-en-Suisse, but were dispersed in 1854 before the presentation had been made; bound in London, c. 1860;",,,,human;human,Bonaventura Brem;Georg von Waldburg-Zeil,Q892116;Q1504200
 "Marano, Nicolaus de",author,,,human,Nicolaus de Marano,Q116460029
 Marbod,author,,,human,Marbodius of Rennes,Q654307
 "Marcaldi, Francesco, active 16th century",scribe,,http://id.loc.gov/authorities/names/no2009086989,human,Francesco Marcaldi,Q116453021
@@ -2397,7 +2373,6 @@ Naevius,author,,,human,Gnaeus Naevius,Q212667
 "Nābulusī, ʻAbd al-Ghanī ibn Ismāʻīl, 1641-1731",author,,http://id.loc.gov/authorities/names/n83198301,human,Abd al-Ghani al-Nabulsi,Q4164547
 "Naldi, Naldo 1439-ca. 1520.",author,,,human,Naldo Naldi,Q12901157
 "Name scribbled on the leaf, s. XVI (?): James <?>. This collection of English binding fragments was given to NYU by Homer Lewis Bartlett (1858-1940), who graduated in 1884 from NYU with a degree in Science and Civil Engineering; he married Clarice Sherman Noble in 1892; they had five children; by 1902, he was second vice-president of the Eastern District Savings Bank.",former owner,,,human,Homer Lewis Bartlett,Q116850379
-"Name scribbled on the leaf, s. XVI (?): James <?>. This collection of English binding fragments was given to NYU by Homer Lewis Bartlett (1858-1940), who graduated in 1884 from NYU with a degree in Science and Civil Engineering; he married Clarice Sherman Noble in 1892;",former owner,,,human,Homer Lewis Bartlett,Q116850379
 Naples (Kingdom). Sacro regio consiglio,author,,http://id.loc.gov/authorities/names/n84007219,organization,Sacro Regio Consiglio,Q3944697
 Naples (Kingdom). Sovereign (1458-1494 : Ferdinand I),author,,,human,Ferdinand I of Naples,Q437838
 "Nardi Galatheo, Giovan Theseo de",author,,,human,Giovan Theseo de Nardi Galatheo,Q116486782
@@ -2474,9 +2449,7 @@ Old number ‘849’ on verso; C. L. Ricketts; acquired by the Lilly Library wit
 "On back flyleaf, ""Emptus est iste liber pro septem florenis anno domini M CCCC lxx per Iohannem abbatem,"" of St. Mang, O.S.B. in Füssen; at secularization, the library went to the Oettingen-Wallerstein collection. Owned by Norman H. Strouse.",former owner,,,organization;organization;human,St. Mang's Abbey;Oettingen-Wallerstein library;Norman H. Strouse,Q1527304;Q2015319;Q56000538
 "On f. 1, illegilbe even under ultra-violet light due to stain, ""Iste liber est monachorum <?> deputatus monasterii <sancte Marie ?> <?>."" On f. i verso in a modern Italian hand, ""14.6.13"" written over ""A.42000."" Adolph Sutro (1830-1898), mayor of S. F.",former owner,,,human,Adolph Sutro,Q214461
 "On f. 1, upside down on the verso, and referring to the book in which this leaf served as a pastedown, s. XV: ""Est Liber Thome Sallys ?,"" ""amen"" ?; a small round face. This collection of English binding fragments was given to NYU by Homer Lewis Bartlett (1858-1940), who graduated in 1884 from NYU with a degree in Science and Civil Engineering",former owner,,,human,Homer Lewis Bartlett,Q116850379
-"On f. 1, upside down on the verso, and referring to the book in which this leaf served as a pastedown, s. XV: ""Est Liber Thome Sallys [?],"" ""amen"" [?]; a small round face. This collection of English binding fragments was given to NYU by Homer Lewis Bartlett (1858-1940), who graduated in 1884 from NYU with a degree in Science and Civil Engineering; he married Clarice Sherman Noble in 1892;",former owner,,,human,Homer Lewis Bartlett,Q116850379
 "On f. 121, rubric for St. John the Baptist ""patroni ordinis nostri et ecclesie huius""; Carthusians of Buxheim; in the sale of Hugo, Graf von Waldbott-Bassenheim (Munich, 20 September 1883, lot 2533); Adolph Sutro (1830-1898), mayor of San Francisco.",former owner,,,organization;human;human,Buxheim Charterhouse;Hugo Philipp Waldbott-Bassenheim;Adolph Sutro,Q460224;Q1682028;Q214461
-"On f. 247v, in the lower margin, in pencil, ""Joannes Aloysius Brochman acceptus anno 1749, mansit usque ad 1757"" (below feast of Agatha; perhaps that being the date of him having been accepted or having left). On the front pastedown, as sticker reading, ""Purchased from the fund bequeathed to the Seminary by Eugene Augustus Hoffman, D.D., Dean, 1879-1902.""",,,,human;human,Joannes Aloysius Brochman;Eugene Augustus Hoffman,Q116734411;Q5407045
 "On ff. 105v, 109v-141v, in margins, notes of the Floriani family, 1591-1702, in areas near Bologna (S. Martino in Argile, S. Lorenzo del Castello di Budrio, Dozza; Budrio); Adolph Sutro (1830-1898), mayor of San Francisco.",former owner,,,organization;human,Floriani family;Adolph Sutro,Q116522686;Q214461
 "On front pastedown, pressmark, ""a.37""; bookplate of Victor Albert George Child-Villiers (1845-1915), Earl of Jersey, Osterley Park; clipping from Sotheby's, lot 56; Adolph Sutro (1830-1898), mayor of San Francisco.",former owner,,,human;human,"Victor Child Villiers, 7th Earl of Jersey;Adolph Sutro",Q336737;Q214461
 "On the front pastedown, as sticker reading, ""Purchased from the fund bequeathed to the Seminary by Eugene Augustus Hoffman, D.D., Dean, 1879-1902.""",former owner,,,human,Joannes Aloysius Brochman,Q116734411
@@ -2583,7 +2556,6 @@ Peregrinus de Oppeln,author,,,human,Peregrine of Opole,Q474691
 "Peres, Gonzalo, de Cartagena",author,,,human,Gonzalo Peres de Cartagena,Q116519725
 Perfecto Corazini,author,,,human,Perfecto Corazini,Q114242542
 "Pergola, Paolo della, -1455",author,,http://id.loc.gov/authorities/names/n88198578,human,Paul of Pergula,Q2050459
-"Perhaps from an institutional library in Chartres dispersed at the French Revolution; Pierre Gélis-Didot (b. 1853), his sale, Paris, Belin-Drouot, 12 April 1897, lot 3; Cecil Mallaby Firth (1878-1931), Egyptologist, with his bookplate;",former owner,,,human;human,Pierre Gélis-Didot;Cecil Mallaby Firth,Q106675850;Q1052325
 "Perhaps from an institutional library in Chartres dispersed at the French Revolution; Pierre Gélis-Didot (b. 1853), his sale, Paris, Belin-Drouot, 12 April 1897, lot 3; Cecil Mallaby Firth (1878-1931), Egyptologist, with his bookplate; George Dunn (1865-1912), with his booklabel, bought in March 1900, probably from Sydney Cockerell (to judge from Dunn’s pencil note ""S.C.C."");",former owner,,,human;human;human,P. Gélis-Didot;Cecil Mallaby Firth;George Dunn,Q106675850;Q1052325;Q112841325
 "Perhaps from the Dominican church of San Jacopo di Ripoli, Florence; Cortlandt Field Bishop (1870-1935); his sale, New York, Anderson, 12 April 1915, lot 293; C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,organization;human;human,San Jacopo di Ripoli;Cortlandt F. Bishop;Coella Lindsay Ricketts,Q3670746;Q5173352;Q116771179
 "Perhaps Michel d’Ailly, sixth duc de Chaulnes (1714-1769, but not identifiable in his sale catalogue, Paris, 19 March 1770 and following days); probably George Watson Taylor (1771-1841), M. P. and owner of plantations in Jamaica, whose sale, Evans, 20 March 1823, included as lot 463, a fifteenth-century illuminated manuscript of Caesar and Suetonius, on vellum;",former owner,,,human;human,Michel Ferdinand d'Albert d'Ailly;George Watson-Taylor,Q3309624;Q16741855
@@ -2709,13 +2681,11 @@ Pierre de la Cypede,author,,,human,Pierre de La Cépède,Q105742067
 Pierre de Peckham d. 1293.,author,,,human,Peter of Peckham,Q18880169
 Pierre Grègoire,author,,,human,Pierre Grégoire,Q3385354
 Pierre Mathieu,author,,,human,Pierre Mathieu,Q114242545
-"Pieter Bondam (1727-1800), of the University of Utrecht, with his extensive notes; perhaps his sale, Utrecht, 1 October 1800; Sir Thomas Sharpe Powell (1849-1927); his sale, Sotheby’s, 16 December 1929, lot 766;",former owner,,,human;human,Pieter Bondam;Thomas Sharpe Powell,Q2074033;Q116809554
 "Pieter Bondam (1727-1800), of the University of Utrecht, with his extensive notes; perhaps his sale, Utrecht, 1 October 1800; Sir Thomas Sharpe Powell (1849-1927); his sale, Sotheby’s, 16 December 1929, lot 766; William G. Kelso, New York, bought from Lathrop Harper, 1930, with his notes inside front cover, dated June 1932;",former owner,,,human;human;human;organization,"Pieter Bondam;Thomas Sharpe Powell;William G. Kelso;Lathrop C. Harper, Inc.",Q2074033;Q116809554;Q116809568;Q116785327
 Pietro Cavallini,author,,,human,Pietro Cavallini,Q316009
 Pietro da Tussignano,author,,,human,Pietro da Tossignano,Q55226828
 Pietro de' Crescenzi c.1233-c.1320,author,,,human,Pietro de' Crescenzi,Q1933377
 Pietro Gravina,author,,,human,Pietro Gravina,Q1080488
-Pietro Michele,other,,,human,Pietro Michele,Q117324190
 Pietro Paolo Vergerio,author,,,human,Pier Paolo Vergerio,Q668134
 Pietro Pomponazzi,author,,,human,Pietro Pomponazzi,Q318787
 "Pigafetta, Antonio ca. 1480-ca. 1534.",author,,,human,Antonio Pigafetta,Q310922
@@ -2768,7 +2738,7 @@ Possidius,author,,,human,Possidius of Calama,Q718003
 "Poulin, George",former owner,,,human,Skinner Poulin,Q940008
 Praepositanus de Cremona,author,,,human,Praepositinus,Q7237544
 "Premonstratensian abbey of Steinfeld, near Cologne, founded in 1130 and suppressed in 1802, with the contemporary inscription and curse against theft on fol. 1r, liber ecclesie sancte marie de steinfelt Si quis abstulerit anathema sit amen and the late medieval inscription on fol. 158v, Liber Ecclesie Sancte marie virginis in steinfelt(the last two words in slightly paler ink);",former owner,,,organization,Steinfeld Abbey,Q883617
-"Premonstratensian abbey of Tongerloo, province of Antwerp, Belgium, founded in 1128 and suppressed in 1796; Sir Thomas Phillipps (1792-1872), no number but probably from his acquisitions in Belgium in the early 1820s;",former owner,,,organization;human,Tongerlo Abbey;Thomas Phillipps,Q334329;Q2147709
+"Premonstratensian abbey of Tongerloo, province of Antwerp, Belgium, founded in 1128 and suppressed in 1796; Sir Thomas Phillipps (1792-1872), no number but probably from his acquisitions in Belgium in the early 1820s;",former owner,,,human;organization,Thomas Phillipps;Tongerlo Abbey,Q2147709;Q334329
 Presbiter Johannes de Bononia,scribe,,,human,Johannes de Bononia,Q117351969
 "Price in English pounds on the recto, suggesting that the leaf may have been a gift to Conception Abbey from Dr. Charles D. Humberd (1876-1966) of Bernard, Missouri (buried in West Union, Indiana).",former owner,,,human,Charles D. Humberd,Q116379117
 Prince Baldassare Boncompagni (1821-1894).,former owner,,,human,Baldassarre Boncompagni,Q680832
@@ -2778,11 +2748,9 @@ Priscian,author,,,human,Priscian,Q356433
 Priscian fl. ca. 500-530.,author,,,human,Priscian,Q356433
 "Priscian, active approximately 500-530",author,,http://id.loc.gov/authorities/names/n82249198,human,Priscian,Q356433
 "Priscian, adaptation and translation of #tInstitutiones grammaticae#",other,,,human,Priscian,Q356433
-"probably Edward Stanley (1799-1869), fourteenth earl of Derby, Prime Minister, with the Derby bookplate, and by descent to the eighteenth earl (1918-1994); his sale, Christie’s, 23 March 1954, lot 32; George A. Poole, bought from Lathrop Harper, cat. 2 (1956), no. 7, and acquired by the Lilly Library with the Poole Collection in 1958.",,,,human;human,"Edward Smith-Stanley, 14th Earl of Derby;George Amos Poole",Q237829;Q64683625
 "Probably from the cathedral of Lodi, about 20 miles south-east of Milan, Lombardy (see below); C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,organization;human,Lodi Cathedral;Coella Lindsay Ricketts,Q3045557;Q116771179
 "probably Laurence Hilliard (d. 1887, aged 32), Ruskin’s secretary, who was given many manuscript specimens by Ruskin; sale by his heirs, Sotheby’s, 28 April 1913, part of lot 508; C. L. Ricketts, bought from Tregaskis, 1922; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human;human,Laurence Hilliard;James Tregaskis;Coella Lindsay Ricketts,Q116785270;Q94138739;Q116771179
 "Probably Marcantonio Morosini (c. 1435-1509), of Venice, with the Morosini arms on fol. 4r; Matteo Luigi Canonici (1727-1805), Venetian Jesuit; by descent to his brother, Guiseppe Canonici (d. 1807), and to Giovanni Perissinotti and Girolamo Cardina, who sold over 3000 of Canonici’s manuscripts to the Bodleian Library in Oxford in 1817 and 829 of the remaining manuscripts for 16,000 lire|",former owner,,,human;human;human;human;human;organization,Marcantonio Morosini;Matteo Luigi Canonici;Giuseppe Canonici;Giovanni Perissinotti;Girolamo Cardina;Bodleian Library,Q61480782;Q55226394;Q116809670;Q116809679;Q116809685;Q82133
-"Probably Marcantonio Morosini (c. 1435-1509), of Venice, with the Morosini arms on fol. 4r; Matteo Luigi Canonici (1727-1805), Venetian Jesuit; by descent to his brother, Guiseppe Canonici (d. 1807), and to Giovanni Perissinotti and Girolamo Cardina, who sold over 3000 of Canonici’s manuscripts to the Bodleian Library in Oxford in 1817",former owner,,,human;human;human;human;human;organization,Marcantonio Morosini;Matteo Luigi Canonici;Giuseppe Canonici;Giovanni Perissinotti;Girolamo Cardina;Bodleian Library,Q61480782;Q55226394;Q116809670;Q116809679;Q116809685;Q82133
 "probably not lot 106 in the Savile sale, Sotheby’s, 6 February 1861 (as suggested by de Ricci); Sir Thomas Brooke (1830-1908), by 1891; his sale, Sotheby’s, 24 November 1913, lot 13; bought from W. M. Voynich in January 1917 by C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human;human,"Sir Thomas Brooke, 1st Baronet;Wilfrid Voynich;Coella Lindsay Ricketts",Q33389639;Q336453;Q116771179
 "Probably the Benedictine monastery of San Domenico in Sora (see below); Ernst F. Detterer (1888-1947), bought in July 1931 from Emil Hirsch, bookseller in Munich; bought from Detterer’s estate in 1948 by George A. Poole, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,organization;human;human;organization,Abbazia di San Domenico;Ernst F. Detterer;George Amos Poole;Antiquariat Emil Hirsch,Q3603214;Q5394976;Q64683625;Q116809892
 Procopius.,author,,,human,Procopius,Q186153
@@ -2856,7 +2824,6 @@ Purchased by Karen Gould (1946-2012) from William Linehan Autographs on 26 July 
 "Purchased by Linda Ehrsam Voigts from Philip Pirages, and given by her in 2012 to the Karen Gould Collection of the Nelson Atkins Museum of Art.",former owner,,,human;organization;human,Karen L. Gould;Phillip J. Pirages Fine Books & Manuscripts;Linda Ehrsam Voigts,Q6369801;Q116790542;Q66985346
 Purchased from Bernard M. Rosenthal in 1975,former owner,,,human,Bernard M. Rosenthal,Q94805275
 "Purchased from Richard Linenthal, London, 2014, from the Karen Gould Collection Fund.",former owner,,,human;human,Karen L. Gould;Richard Linenthal,Q6369801;Q116850155
-"purchased in 1958 by Goodspeed's of Boston and dismantled by them. This leaf purchased by AAR Trustee, Robert S. Pirie from Goodspeeds and donated by him to the American Academy (a second leaf, purchased at the same time, was a gift of Mr. Pirie to the Abbot of Meteora in Greece).",,,,organization,Goodspeed's Book Shop,Q114419595
 "Purchased in Europe by Prof. John A. Anderson (1893-1976); his gift prior to 1952, else donation in 1956 of Mrs. Anderson. Previous manuscript call number: FBX2080.A2 13--.",former owner,,,human,John Anderson,Q3296918
 "Purchased with Karen Gould Collection fund from Richard Linenthal, London, 2014 for Karen Gould Collection, Nelson-Atkins Museum.",former owner,,,human;human,Karen L. Gould;Richard Linenthal,Q6369801;Q116850155
 "Qāḍīʹzādah, Mūsá ibn Muḥammad, -approximately 1436",author,"قاضي‌زاده، موسى بن محمد, -approximately 1436",,human,Qāḍī Zāda al-Rūmī,Q1386256
@@ -2869,7 +2836,7 @@ Purchased from Bernard M. Rosenthal in 1975,former owner,,,human,Bernard M. Rose
 "Qarabāghī, Muḥammad ibn ʻAlī, -1535 or 1536",author,,http://id.loc.gov/authorities/names/no2006104905,human,Muḥammad ibn ʻAlī Qarabāghī,Q114242406
 "Qasṭallānī, Aḥmad ibn Muḥammad, 1447 or 1448-1517 or 1518",author,قسطلاني، احمد بن محمد، 1447 أو 1448-1517 أو 1518,,human,Al-Qastallani,Q2829271
 "Quaritch, Bernard",former owner,,,human,Bernard Quaritch,Q119818
-"Quaritch, cat. 211 (January 1902), no. 24, and cat. 290 (June 1910), no. 448; bought by C. L. Ricketts from W. M. Voynich, January 1917, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,organization;human;human,Bernard Quaritch Ltd;Coella Lindsay Ricketts;Wilfrid Voynich,Q65034936;Q116771179;Q336453
+"Quaritch, cat. 211 (January 1902), no. 24, and cat. 290 (June 1910), no. 448; bought by C. L. Ricketts from W. M. Voynich, January 1917, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Coella Lindsay Ricketts;Wilfrid Voynich,Q116771179;Q336453
 "Quaritch, Handlist of Books offered for Sale by Bernard Quaritch Ltd., of 11 Grafton Street, London, W.1, whose representative, Mr. F. S. Ferguson, will have them on view at the Vanderbilt Hotel, Park Avenue, New York, towards the end of February, 1923, and for some weeks thereafter, 1923, no. 26; bought by C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,organization;human;human,Bernard Quaritch Ltd;Frederic Sutherland Ferguson;Coella Lindsay Ricketts,Q65034936;Q5497139;Q116771179
 "Quawden, Francis",former owner,,,human,Francis Quawden,Q116571199
 "Qūnawī, ʻAlī",author,,,human,"Qūnawī, ʻAlī",Q114407047
@@ -3026,7 +2993,6 @@ Saint Antoninus of Florence,other,,,human,Antoninus of Florence,Q773822
 "Saint Antoninus, Archbishop of Florence",author,,,human,Antoninus of Florence,Q773822
 Saint Bassanio,other,,,human,Saint Bassian,Q1289858
 "Saint Dominic [of Foligno (d. 1031)], in litany",other,,,human,Dominic of Sora,Q1238073
-"Saint Restituta, in litany",other,,,human,Restituta,Q1407613
 Saint-Bénigne of Dijon,former owner,,,human,Benignus of Dijon,Q652797
 Saint-Benoît-sur-Loire (Abbey),former owner,,,organization,Fleury Abbey,Q956741
 Saint-Benoît-sur-Loire (Abbey),former owner,,http://id.loc.gov/authorities/names/n83019607,organization,Fleury Abbey,Q956741
@@ -3132,7 +3098,7 @@ Sigebert of Gembloux (?),author,,,human,Sigebert of Gembloux,Q670819
 Sigebert of Gembloux ca. 1030-1112.,author,,,human,Sigebert of Gembloux,Q670819
 "Sigismund, Holy Roman Emperor, 1368-1437",author,,http://id.loc.gov/authorities/names/n50058841,human,Sigismund,Q57124
 "Signature Ann MoneyIon fol. 84r, probably eighteenth-century; George C. Thomas (1839-1909), banker and picture collector; his sale, Philadelphia, 18 November 1924, lot 205; C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human;human,Ann Moneylon;George C. Thomas;Coella Lindsay Ricketts,Q117485493;Q76520101;Q116771179
-"signature on fols. 1r and 58v, ""De monchaulx"", early sixteenth century (perhaps related to Gilles Moncheaulx, who signed Arras, Bibliothèque municipale, ms 728, in 1565); bound in Ghent by François Duquesne (1830-1902); given to the Lilly Library by Mrs. Thelma Sansberry, 1984.",,,,human;human,Emile François Duquesne;Thelma Sansberry,Q115828731;Q116785053
+"signature on fols. 1r and 58v, ""De monchaulx"", early sixteenth century (perhaps related to Gilles Moncheaulx, who signed Arras, Bibliothèque municipale, ms 728, in 1565); bound in Ghent by François Duquesne (1830-1902); given to the Lilly Library by Mrs. Thelma Sansberry, 1984.",former owner,,,human,Thelma Sansberry,Q116785053
 "Silius Italicus, Tiberius Catius.",author,,,human,Silius Italicus,Q316123
 Simeon Monachus.,author,,,human,Symeon of Durham,Q940417
 Simon de Cremona,author,,,human,Simon of Cremona,Q16205160
@@ -3148,7 +3114,6 @@ Sir John Mandeville,author,,,human,John Mandeville,Q24766
 Sir Richard Sakevylle,former owner,,,human,Richard Sackville,Q6087831
 Sir Thomas Littleton,author,,,human,Thomas de Littleton,Q7795482
 Sir Thomas Phillipps (1792-1872) (MS 9292),former owner,,,human,Thomas Phillipps,Q2147709
-"Sir Thomas Phillipps (1792-1872), bought from Payne, his MS 4194; doubtless Messrs. W. H. Robinson, who bought the residue of the Phillipps library in 1945-46; George A. Poole (bought from Lawrence Witten, 1955), and acquired by the Lilly Library with the Poole Collection in 1958.",,,,human;human,Thomas Phillipps;George Amos Poole,Q2147709;Q64683625
 "Sir Thomas Phillipps (1792-1872), bought with the van Ess library in 1824, his MS 409, with his stencilled crest; his sale, Sotheby’s, 9 June 1910, lot 660, to Edwards; bought by C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Thomas Phillipps;Coella Lindsay Ricketts,Q2147709;Q116771179
 "Sir Thomas Phillipps (1792-1872), his n. 5861",former owner,,,human,Thomas Phillipps,Q2147709
 "Sir Thomas Phillipps (1792-1872), his n. 9677",former owner,,,human,Thomas Phillipps,Q2147709
@@ -3159,7 +3124,7 @@ Sir Thomas Smith,author,,,human,Thomas Smith,Q3525572
 Sir Thomas Wilford,author,,,human,Sir Thomas Wilford,Q76329039
 "Siṭrābī, Yāsīn ibn ʻAbd al-Wahhāb",former owner,سطرابي، ياسين بن عبد الوهاب،,,human,Yāsīn ibn ʻAbd al-Wahhāb al-Siṭrābī,Q116619697
 "Six, Jan, 1857-1926",former owner,,http://id.loc.gov/authorities/names/n84186701,human,Jan Six VII,Q1663394
-"Sixteenth-century calligraphic signature W: Newmanat end; Ralph Palmer (1684-1752), first earl Verney, of Little Chelsea, near London, with his armorial bookplate and partially-erased inscription Bibliotheca Palmeriana, Londini, 1747 by descent to Sotheby’s, 12 November 1919, lot 187;",former owner,,,human,"Ralph Verney, 1st Earl Verney",Q7288196
+"Sixteenth-century calligraphic signature W: Newmanat end; Ralph Palmer (1684-1752), first earl Verney, of Little Chelsea, near London, with his armorial bookplate and partially-erased inscription Bibliotheca Palmeriana, Londini, 1747 by descent to Sotheby’s, 12 November 1919, lot 187;",former owner,,,human,Ralph Palmer,Q116869249
 Sixtus IV,author,,,human,Sixtus IV,Q163514
 "Sixtus V, Pope, 1520-1590",author,,http://id.loc.gov/authorities/names/n80049584,human,Sixtus V,Q133350
 "Smith, David Eugene, 1860-1944",former owner,,,human,David Eugene Smith,Q1174369
@@ -3173,12 +3138,9 @@ Societas Sanctae Annae,author,,,organization,"Society of Saint Anne (Malogoszcz,
 "Sohoni, Pushkar",former owner,,,human,Pushkar Sohoni,Q42666530
 "Sold at Sotheby’s, 8 July 1974, lot 93; Eric Sexton (1902-1980), with his bookplate; his sale, Christie’s, New York, 22 May 1981, lot 9; Laurence Witten cat. 18 (1983), no. 48; Ruth E. Adomeit (1910-1996), bequeathed by her to the Lilly Library.",former owner,,,human;human,Eric Hyde Lord Sexton;Ruth E. Adomeit,Q116869281;Q7382958
 "Sold by Leo S. Olschki (Florence), 1907",former owner,,,organization,Leo S. Olschki Editore,Q3229594
-"sold by the monks in about 1926, probably to Jacques Rosenthal of Munich, and taken apart, the leaves with miniatures being dispersed by Maggs; this leaf, Maggs cat. 512 (1928), no. 291; C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",,,,organization;human,Jacques Rosenthal;Coella Lindsay Ricketts,Q114667678;Q116771179
 Solinus,author,,,human,Gaius Julius Solinus,Q520487
 "Solinus, C. Julius 3rd cent?",author,,,human,Gaius Julius Solinus,Q520487
 "Somerset, Charles Seymour, Duke of, 1662-1748",former owner,,http://id.loc.gov/authorities/names/n85311388,human,"Charles Seymour, 6th Duke of Somerset",Q1066062
-sons of Bartolomeo Michele,other,,,human,Bartolomeo Michele,Q117324301
-sons of Giacomo Michele,other,,,human,Giacomo Michele,Q117321234
 "Soranzo, Giacomo, 1686-1761",former owner,,http://id.loc.gov/authorities/names/no2014076087,human,Giacomo Soranzo,Q110215161
 "Sotheby, John, -1807",former owner,,http://id.loc.gov/authorities/names/nr2007004070,human,John Sotheby,Q6258515
 "Southeby's, 28 May 1934, lot 100, and then Dawson of Los Angeles?; Otto F. Ege (1888-1951); acquired (as gift from class of 1936?) by Rutgers' Douglass Library; transfer in 1997. Earlier call number (Douglass Library): ND3395.T2. Related leaf: Columbia University, Rare Book and Manuscript Library Med/Ren Frag. 4.",former owner,,,human;organization,Otto Ege;Dawson's Book Shop,Q7109575;Q55609180
@@ -3211,7 +3173,6 @@ Stefano Tegliacci,author,,,human,Stefan Teglatije,Q64779125
 "Steitz, Georg Eduard, 1810-1879",former owner,,http://id.loc.gov/authorities/names/no2014137364,human,Georg Eduard Steitz,Q17123313
 Stephanus Hugoneti,author,,,human,Stephanus Hugoneti,Q116619871
 Stephanus Marcilleti,author,,,human,Stefano Marcilleti,Q41616923
-"Stephen and Alice Cheryton, of Chastleton",other,,,human;human,Stephen Cheryton;Alice Cheryton,Q117401229;Q117401302
 Stephen Langton,author,,,human,Stephen Langton,Q465329
 Stephen Langton (Stephanus Langton),author,,,human,Stephen Langton,Q465329
 Stephen Whitney Phoenix (1839-1881).,former owner,,,human,S. Whitney Phoenix,Q94355904
@@ -3271,19 +3232,16 @@ Terence.,author,,,human,Terence,Q172048
 "Testa, Giovanni di Urbano Piccolomini del",author,,,human,Giovanni di Urbano Piccolomini del Testa,Q116619969
 Teutonic Knights,author,,http://id.loc.gov/authorities/names/n50068830,human,knight of the Teutonic Order,Q96651577
 Thaddeus de Parma,author,,,human,Thaddeus of Parma,Q2408399
-"the abate Luigi Celotti (c. 1768-c. 1846), of Venice; Celotti sale, Sotheby’s, 14 March 1825, lot 51; shelved as' VI. H.e.6', Prince Augustus Frederick, duke of Sussex (1773-1843), with his bookplate; his sale, Evans, 31 July 1844, lot 109;",,,,human;human,"Luigi Celotti;Prince Augustus Frederick, Duke of Sussex",Q113774991;Q375467
 "the abate Luigi Celotti (c. 1768-c. 1846), of Venice;Celotti sale, Sotheby’s, 14 March 1825, lot 51; shelved as' VI. H.e.6', Prince Augustus Frederick, duke of Sussex (1773-1843), with his bookplate; his sale, Evans, 31 July 1844, lot 109; probably Edward Stanley (1799-1869), fourteenth earl of Derby, Prime Minister, with the Derby bookplate, and by descent to the eighteenth earl (1918-1994);",former owner,,,human;human;human;human,"Luigi Celotti;Prince Augustus Frederick, Duke of Sussex;Edward Smith-Stanley, 14th Earl of Derby;John Stanley, 18th Earl of Derby",Q113774991;Q375467;Q237829;Q5345407
 "The abbey of Saint Maximin in Treir (founded c. 500, supressed 1802); Fritz Rörig (1882-1952), of Berlin, bought in Keil (where he taught 1923-35); bought from his widow in 1953 by H.P. Kraus and sold by him in January 1954 to George A. Poole; acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,organization;human;human,St. Maximin's Abbey;Fritz Rörig;George Amos Poole,Q118786;Q1468108;Q64683625
 "The Abbey of St-Vaast in Arras; Sir Thomas Phillips (1792-1872), part of his MS 22229; from the collection of specimen leaves formed by Messrs. W.H. Robinson, who bought the residue of the Phillips Library in 1945-46, sold by them to George A. Poole in 1947, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,organization;human,Abbey of St. Vaast;George Amos Poole,Q334220;Q64683625
 "the abbey was suppressed in 1789 and the monks finally left in 1797; at least 34 manuscripts from Cambron were bought c. 1823 from P. J. De Mat (d. 1828), bookseller in Brussels, by Sir Thomas Phillipps (1792-1872), his MSS 333-62 and 4765-68, together with an unknown number of fragments;",former owner,,,human;human,P. J. De Mat;Thomas Phillipps,Q79406248;Q2147709
-"The arms on fol. 1r are flanked by the initials ‘A’ and ‘M’, similar to but not precisely identical with those of Marin, of Genoa, and Marini, of Naples; Payne and Foss, their cat. May 1825, no. 83;",former owner,,,organization,Payne and Foss,Q113847193
 "The arms on fol. 1r are flanked by the initials ‘A’ and ‘M’, similar to but not precisely identical with those of Marin, of Genoa, and Marini, of Naples; Payne and Foss, their cat. May 1825, no. 83; Sir Thomas Phillipps (1792-1872), bought from Payne, his MS 4194;",former owner,,,human,Thomas Phillipps,Q2147709
 "The Augustinian nunnery of Sankt Maria Magdalena, Hildesheim, founded 1224 and suppressed at the Reformation; sale by Karl & Faber, Munich, 25 June 1963, lot 4; acquired by the Lilly Library from Lathrop Harper, New York, 1968.",former owner,,,organization;organization,"Sankt Maria Magdalena, Hildesheim;Lathrop C. Harper, Inc.",Q28976541;Q116785327
-"the Benedictine abbey of Seitenstetten, Lower Austria (founded 1112, still functioning); sold by the monks in about 1926, probably to Jacques Rosenthal of Munich, and taken apart, the leaves with miniatures being dispersed by Maggs; this leaf, Maggs cat. 512 (1928), no. 291; C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,organization;organization;organization;human,Seitenstetten Abbey;Jacques Rosenthal;Maggs Bros Ltd;Coella Lindsay Ricketts,Q385745;Q114667678;Q15067374;Q116771179
-"The Cistercian abbey of Hautecombe, diocese of Geneva, suppressed in 1792; acquired in or after 1796 by Giacinto della Torre, P.S.A. (1747-1814), canon and later archbishop of Turin 1805-14, who gave it to the biblioteca del Semainario metropolitano, Turin, the library was dispersed c. 1954;",former owner,,,organization;human;organization,Hautecombe Abbey;Giacinto della Torre;Biblioteca del Seminario Arcivescovile,Q63524;Q3105018;Q113093144
+"the Benedictine abbey of Seitenstetten, Lower Austria (founded 1112, still functioning); sold by the monks in about 1926, probably to Jacques Rosenthal of Munich, and taken apart, the leaves with miniatures being dispersed by Maggs; this leaf, Maggs cat. 512 (1928), no. 291; C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,organization;organization;human,Seitenstetten Abbey;Jacques Rosenthal;Coella Lindsay Ricketts,Q385745;Q114667678;Q116771179
+"The Cistercian abbey of Hautecombe, diocese of Geneva, suppressed in 1792; acquired in or after 1796 by Giacinto della Torre, P.S.A. (1747-1814), canon and later archbishop of Turin 1805-14, who gave it to the biblioteca del Semainario metropolitano, Turin, the library was dispersed c. 1954;",former owner,,,organization;human,Hautecombe Abbey;Giacinto della Torre,Q63524;Q3105018
 "The dean of Lu""kirch; Carthusians of Buxheim (cf. note on f. i verso), with ""N. 175"" in ink on f. 1 and on the spine; ""386"" also on the spine; Hugo, Graf von Waldbott-Basenheim (Munich, 20 Sept. 1883, lot 2616); Adolph Sutro (1830-1898), mayor of S. F.",former owner,,,human;organization;human;human,Dean of Lukirch;Buxheim Charterhouse;Hugo Philipp Waldbott-Bassenheim;Adolph Sutro,Q116523957;Q460224;Q1682028;Q214461
-"The Dominican convent of Poissy, on the Seine, near Paris, probably there by c. 1360 and certainly at Poissy by the late fifteenth century; Tregaskis cat. 466 (June 1900), no. 489, cat. 472 (September 1900), no. 601, and cat. 479 (December 1900), no. 623;",former owner,,,organization;organization,Prieuré Saint-Louis de Poissy;James & Mary Lee Tregaskis (Firm),Q2212562;Q114242604
-"The Dominican convent of Sankt Katharina in Nuremberg (founded 1296, suppressed 1803), with their contemporary inscription inside the upper cover, ""das puch gehort in das Closter zu Sant kath[ar]ein prediger orden in Nure[n]berg"" (see below); Alexander Augustus Smets (1795-1862), of Savannah, GA, bought in February 1839 (signature on fol. 1r); his sale, Leavitt, New York, 25 May 1868, lot 1461;",former owner,,,organization;human,Katharinenkirche;Alexander Smets,Q1736108;Q111543701
+"The Dominican convent of Poissy, on the Seine, near Paris, probably there by c. 1360 and certainly at Poissy by the late fifteenth century; Tregaskis cat. 466 (June 1900), no. 489, cat. 472 (September 1900), no. 601, and cat. 479 (December 1900), no. 623;",former owner,,,organization;organization,Abbey of St. Louis de Poissy;James & Mary Lee Tregaskis (Firm),Q116869022;Q114242604
 "The Dominican convent of Sankt Katharina in Nuremberg (founded 1296, suppressed 1803), with their contemporary inscription inside the upper cover, ""das puch gehort in das Closter zu Sant katharein prediger orden in Nurenberg"" (see below); Alexander Augustus Smets (1795-1862), of Savannah, GA, bought in February 1839 (signature on fol. 1r); his sale, Leavitt, New York, 25 May 1868, lot 1461;",former owner,,,organization,Katharinenkirche,Q1736108
 "The ducal library of Arenberg, Brussels, probably acquired by Duc Engelbert-Auguste d'Arenberg (1824-1875); one of two leaves sold by the tenth duke, Engelbert-Charles d'Arenberg (1899-1974), Hauswedell, Hamburg, Auktion 52-53, April 1953, lot 7a; bought in February 1954 by George A. Poole from W.H. Schab, New York dealer, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,human;human;human,"Engelbert, 8th Duke of Arenberg;Engelbert Charles, 10th Duke of Arenberg;George Amos Poole",Q72247;Q75384302;Q64683625
 "The Earl of Hopetoun sale (London, 1889, n. 402) to Matthews. Given to the Grolier Club in 1905 by Daniel B. Fearing.",former owner,,,human;human,"John Hope, 1st Marquess of Linlithgow;Daniel B. Fearing",Q335178;Q76009758
@@ -3291,7 +3249,6 @@ Thaddeus de Parma,author,,,human,Thaddeus of Parma,Q2408399
 "The name ""Arrivabene"" scribbled several times on fol. 100r in a hand of c. 1500, perhaps Giovanni Pietro Arrivabene (1439-1504), humanist and bibliophile, bishop of Urbino, or a member of his family; perhaps from the Benedictine island monastery of San Giorgio Maggiore, in the Venetian Lagoon;",former owner,,,human;organization,Giampietro Arrivabene;San Giorgio Monastery,Q3762550;Q3320338
 "The Olivetan abbey of Santi Angelo e Nicolò in Villanova Sillaro, near Lodi; C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,organization;human,Santi Michele Arcangelo e Nicola Vescovo church;Coella Lindsay Ricketts,Q55816152;Q116771179
 the present two leaves were bought by George A. Poole in 1954 from C.A. Stonehill; acquired by the Lilly Library with the Poole Collection in 1958.,former owner,,,human;human,Charles Archibald Stonehill;George Amos Poole,Q116869308;Q64683625
-"The Scuola di Purificatione della Vergine Maria e di Sancto Zenobio, in Florence (founded 1427, closed c. 1802); Charles Fairfax-Murray (1849-1919), with his booklabel;",former owner,,,organization;human,Compagnia della Purificazione di Maria e di San Zanobi;Charles Fairfax-Murray,Q109376779;Q12062202
 "The Scuola di Purificatione della Vergine Maria e di Sancto Zenobio, in Florence (founded 1427, closed c. 1802); Charles Fairfax-Murray (1849-1919), with his booklabel; Charles William Dyson Perrins (1864-1958), with his bookplate and ticket, with numbers ‘36’ and ‘62’; his sale, Sotheby’s, 9 December 1958, lot 18, to Breslauer;",former owner,,,organization;human;human,Compagnia della Purificazione di Maria e di San Zanobi;Charles Fairfax Murray;Charles William Dyson Perrins,Q109376779;Q12062202;Q5083550
 "The verso of f. 1 (the leaf with the red letter C) bears note in a s. XVIII hand: ""Mr. John Higges's Diary 1720-1727."" Directly above this is a later note that reads: ""I bought this Diary at a sale of <?> Percy's MSS and sold it to a descendant of Higgi.""",former owner,,,human,John Higges,Q116850596
 "Theobaldus, Episcopus",author,,http://id.loc.gov/authorities/names/nr96002889,human,Theobaldus Episcopus,Q61482423
@@ -3303,7 +3260,6 @@ Theodorus Gaza,author,,,human,Theodoros Gaza,Q287485
 Theodulf of Orleans,author,,,human,Theodulf of Orléans,Q534814
 Theramo de Jacobus,author,,,human,Jacobus de Theramo,Q112372992
 "This collection of English binding fragments was given to NYU by Homer Lewis Bartlett (1858-1940), who graduated in 1884 from NYU with a degree in Science and Civil Engineering; he married Clarice Sherman Noble in 1892; they had five children",former owner,,,human,Homer Lewis Bartlett,Q116850379
-"This collection of English binding fragments was given to NYU by Homer Lewis Bartlett (1858-1940), who graduated in 1884 from NYU with a degree in Science and Civil Engineering; he married Clarice Sherman Noble in 1892; they had five children;",former owner,,,human,Homer Lewis Bartlett,Q116850379
 "This collection of English binding fragments was given to NYU by Homer Lewis Bartlett (1858-1940), who graduated in 1884 from NYU with a degree in Science and Civil Engineering; he married Clarice Sherman Noble in 1892; they had five children; by 1902, he was second vice-president of the Eastern District Savings Bank.",former owner,,,human,Homer Lewis Bartlett,Q116850379
 "This collection of English binding fragments was given to NYU in 1884 by Homer L. Bartlett (b. 1858), who graduated in that year from NYU with a degree in Science and Civil Engineering; by 1902, he was second vice-president of the Eastern District Savings Bank.",former owner,,,human,Homer Lewis Bartlett,Q116850379
 Thomas a Kempis,author,,,human,Thomas à Kempis,Q220976
@@ -3316,8 +3272,6 @@ Thomas Aquinas?,author,,,human,Thomas Aquinas,Q9438
 Thomas Bradwardine,author,,,human,Thomas Bradwardine,Q461116
 "Thomas Chauncey, obit.",other,,,human,Thomas Chauncey,Q117351877
 Thomas de Cantimpré ca. 1200-ca. 1272,author,,,human,Thomas of Cantimpré,Q572799
-"Thomas Flecher, of Chastleton",other,,,human,Thomas Flecher,Q117324231
-"Thomas Heneage, Thomas Alward, Anne Boleyn.",other,,,human;human;human,Thomas Heneage;Thomas Alward;Anne Boleyn,Q18529221;Q117401655;Q80823
 Thomas Hoccleve,author,,,human,Thomas Hoccleve,Q1227741
 "Thomas Lye, vicar of Magna Wolford",other,,,human,Thomas Lye,Q18734943
 Thomas of Cantimpré,author,,,human,Thomas of Cantimpré,Q572799
@@ -3326,7 +3280,6 @@ Thomas of Celano,author,,,human,Thomas of Celano,Q354523
 Thomas of Hibernia,author,,,human,Thomas de Hibernia,Q7795478
 Thomas of Ireland ca. 1265-ca. 1329.,author,,,human,Thomas of Ireland,Q7795517
 "Thomas Thorpe, cat. II (1823), no. 5745, and cat. III (1824), no. 16518;",former owner,,,human,Thomas Thorpe,Q94353688
-"Thomas Thorpe, cat. II (1823), no. 5745, and cat. III (1824), no. 16518; Sir Thomas Phillipps (1792–1872), bought from Thorpe, his MS 2665; his sale, Sotheby’s, 10 June 1896, lot 1182 (it was at one time in the library of the Duc de Chaulnes), unsold, re-offered 5 June 1899, lot 1107;",,,,human,Thomas Phillipps,Q2147709
 Thomas Upton,other,,,human,Thomas Upton,Q110332904
 "Thomas, Aquinas, Saint, 1225?-1274",author,,http://id.loc.gov/authorities/names/n78095790,human,Thomas Aquinas,Q9438
 "Thomas, de Cantimpré, approximately 1200-approximately 1270",author,,,human,Thomas of Cantimpré,Q572799
@@ -3337,7 +3290,6 @@ Thomas Upton,other,,,human,Thomas Upton,Q110332904
 "Thoresby, Ralph, 1658-1725",former owner,,,human,Ralph Thoresby,Q7288161
 "Thorpe, Thomas, 1791-1851",former owner,,,human,Thomas Thorpe,Q94353688
 "Thouvin, sieur du Bouillon, lawyer, of Lassay, Maine (central France), 1717 (inscription on flyleaf signed ‘Thibault’), and by descent to Madame Villatte à Lassay; the Rev. Walter Sneyd (1809-1888), who also owned no. 78 above; his sale, Sotheby’s, 16 December 1903, lot 383; Charles William Dyson Perrins (1864–1958), who also owned no. 61 above, with his bookplate,",former owner,,,human;human;human;human,"Thoumin, sieur Du Bouillon;Walter Sneyd;Charles William Dyson Perrins",Q116869180;Q62619661;Q5083550
-"Thouvin, sieur du Bouillon, lawyer, of Lassay, Maine (central France), 1717 (inscription on flyleaf signed ‘Thibault’), and by descent to Madame Villatte à Lassay; the Rev. Walter Sneyd (1809-1888), who also owned no. 78 above; his sale, Sotheby’s, 16 December 1903, lot 383;Charles William Dyson Perrins (1864–1958), who also owned no. 61 above, with his bookplate,",former owner,,,human;human;human,"Thoumin, sieur Du Bouillon;Walter Sneyd;Charles William Dyson Perrins",Q116869180;Q62619661;Q5083550
 "Ṭūsī, Naṣīr al-Dīn Muḥammad ibn Muḥammad, 1201-1274",author,طوسي، نصير الدين محمد بن محمد، 1201-1274,,human,Nasir al-Din al-Tusi,Q302835
 "Ṭūsī, Naṣīr al-Dīn Muḥammad ibn Muḥammad, 1201-1274",author,طوسي، نصير الدين محمد بن محمد، 1201-1274,http://id.loc.gov/authorities/names/n82136884,human,Nasir al-Din al-Tusi,Q302835
 "Ṭūsī, Naṣīr al-Dīn Muḥammad ibn Muḥammad, 1201-1274",former owner,طوسي، نصير الدين محمد بن محمد، 1201-1274،,http://id.loc.gov/authorities/names/n82136884,human,Nasir al-Din al-Tusi,Q302835
@@ -3345,7 +3297,7 @@ Tibullus,author,,,human,Tibullus,Q109598
 Tibullus.,author,,,human,Tibullus,Q109598
 "Tiptoft Master, in the style of. The illumination is close to that of the Paduan painter of the 1460s known as the Tiptoft Master",artist,,,human,Tiptoft Master,Q117463943
 "to Gabriel Wells; bought by C. L. Ricketts in 1924 from the estate of the bookseller George D. Smith (d. 1920), and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human;human,Gabriel Wells;George D. Smith;Coella Lindsay Ricketts,Q17627120;Q116594130;Q116771179
-"to Maggs (their cat. 308, 1913, no. 76, and cat. 341, 1914, no. 235); Herschel V. Jones (1861-1928), of Minneapolis, MN; his sale, Anderson, New York, 29 January 1919, lot 1069a, to Martini, with his collation note; bought by C. L. Ricketts from Martini, cat. 15 (1919), no. 10a, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,organization;human;human,Maggs Bros Ltd;Herschel V. Jones;Coella Lindsay Ricketts,Q15067374;Q15485383;Q116771179
+"to Maggs (their cat. 308, 1913, no. 76, and cat. 341, 1914, no. 235); Herschel V. Jones (1861-1928), of Minneapolis, MN; his sale, Anderson, New York, 29 January 1919, lot 1069a, to Martini, with his collation note; bought by C. L. Ricketts from Martini, cat. 15 (1919), no. 10a, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,organization;human,Maggs Bros Ltd;Herschel V. Jones,Q15067374;Q15485383
 "to the Rev. Walter Sneyd (1809-1888); Sneyd’s sale, Sotheby’s, 16 December 1903, lot 805; Leighton cat. 1908, no. 5793; sale at Sotheby’s, 16 May 1955, lot 108; George A. Poole, bought from Lawrence Witten in 1956, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,human;human;human,Walter Sneyd;Laurence Claiborne Witten II;George Amos Poole,Q62619661;Q6500535;Q64683625
 "Todd, Albert May, 1850-1931",former owner,,http://id.loc.gov/authorities/names/n95016564,human,Albert M. Todd,Q2638433
 "Todd, James Henthorn, 1805-1869",former owner,,http://id.loc.gov/authorities/names/n83148177,human,James Henthorn Todd,Q6135937
@@ -3473,7 +3425,6 @@ Viscount Lymington,former owner,,,human,"John Wallop, Viscount Lymington",Q62628
 "Vollbehr, Otto H. F. 1869-1946",former owner,,http://id.loc.gov/authorities/names/n89103791,human,Otto Vollbehr,Q23906104
 "Volpe, Galuccio Trevisono",author,,,human,Galuccio Trevisono Volpe,Q116650301
 "Voynich, Wilfred Michael, 1865-1930",former owner,,http://id.loc.gov/authorities/names/n88244649,human,Wilfrid Voynich,Q336453
-"Vyncent, Richard, vicar of Wolford",other,,,human,Richard Vyncent,Q117324262
 W. H. Crain,former owner,,,human,William H. Crain,Q2579042
 Wace,author,,,human,Wace,Q5382
 "Waghenaer, Lucas Janszoon 1534 or 5-1606.",author,,,human,Lucas Janszoon Waghenaer,Q938869
@@ -3509,20 +3460,17 @@ Wigand Gerstenberger,author,,,human,Wigand Gerstenberg,Q2569735
 Willem Gilliszoon van Wissekerke (Guilelmus Aegidii de Zelandia),author,,,human,Willem Gilliszoon,Q41569797
 "Willem Vrelant, similar to",artist,,,human,Willem Vrelant,Q363720
 William Bagshaw,author,,,human,William Bagshaw,Q8004926
-"William Bragge (1823-1884); his sale, Sotheby’s, 7 June 1876, lot 237, to Quaritch (his cat. 31, June 1876, no. 87); John Ruskin (1819-1900), inscribed by him to Lawrence Hilliard, Brantwood, 25 January 1881; William K. Bixby (1857-1931);",former owner,,,human;human;human;human,William Bragge;John Ruskin;Lawrence Hilliard;William Keeney Bixby,Q15453218;Q179126;Q98594645;Q24900668
 "William Bragge (1823-1884); his sale, Sotheby’s, 7 June 1876, lot 237, to Quaritch (his cat. 31, June 1876, no. 87); John Ruskin (1819-1900), inscribed by him to Lawrence Hilliard, Brantwood, 25 January 1881; William K. Bixby (1857-1931); his sale, Anderson, New York, 29 March 1916, lot 743,",former owner,,,human;organization;human;human,William Bragge;Bernard Quaritch Ltd;John Ruskin;William Keeney Bixby,Q8020693;Q6255944;Q179126;Q24900668
 William de Brailes,artist,,,human,William de Brailes,Q8020766
 William de Montibus,author,,,human,William de Montibus,Q18535021
 William de Rothwell,author,,,human,William Rothwell,Q115182672
 William Durandus,author,,,human,Guillaume Durand,Q2329414
 William Durantis,author,,,human,Guillaume Durand,Q2329414
-"William G. Kelso, New York, bought from Lathrop Harper, 1930, with his notes inside front cover, dated June 1932; Sir Percival Victor David (1892-1964), of Friar Park, Henley, by 1938; W. E. D. Allen (1901-1973), of Cappagh, Co. Waterford; acquired by the Lilly Library with his collection in 1976.",,,,human;human;human,"William G. Kelso;Sir Percival David, 2nd Baronet;William Edward David Allen",Q116809568;Q7528445;Q15491084
 "William Harris Arnold (1854-1924), with his bookplate; his sale, Anderson, New York, 10 November 1924, lot 601; C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,William Harris Arnold;Coella Lindsay Ricketts,Q109854300;Q116771179
 William Heytesbury,author,,,human,William of Heytesbury,Q1856133
 William Langland,author,,,human,William Langland,Q467672
 William Lichfield,author,,,human,William Lichefeld,Q18593613
 William Lyndwood,author,,,human,William Lyndwood,Q8014815
-William Nichol,other,,,human,William Nichol,Q117324284
 William of Conches (Guilelmus de Conchis),author,,,human,William of Conches,Q615260
 William of Heytesbury,author,,,human,William of Heytesbury,Q1856133
 William of Heytesbury?,author,,,human,William of Heytesbury,Q1856133
@@ -3559,11 +3507,9 @@ Wolfram von Eschenbach 12th cent.,author,,,human,Wolfram von Eschenbach,Q18821
 "Wright, John",former owner,,,human,John Wright,Q114242488
 "Written by Iodocus Grebel at Lucerne in 1617. Front pastedown bears a note in pencil: ""bought at Lucerne 21 June 1884;"" and a book seller or dealer description labeled ""110."" Given to GTS by Guild of Scholars in 1948, per typed card and bookplate.",former owner,,,human,Iodocus Grebel,Q116958813
 "Written for Giovanni Colonna (1456-1508) or a member of his family (see below); William Bragge 1823-1884); probably no. 63 in Burlington Fine Arts Club 1874, p. 13, lent by Bragge; his sale, Sotheby’s, 7 June 1876, lot 474; Quaritch cat. 31 (June 1876), no. 171, and Quaritch, General Catalogue (1877), no.18381;",former owner,,,human;human;organization,Giovanni Colonna;William Bragge;Bernard Quaritch Ltd,Q1402326;Q15453218;Q65034936
-"Written in 1491 (dated on fol. 148r) probably for Margaretha van Cleyburg (d. 1537), wife and later widow of Boudewijn Willemszoon van Drenckwaert (c. 1468-1496), bailiff and steward of Voorne; and by descent to her daughter, Catherina van Drenckwaert (wife of Jan Pauwelszoon van der Dycke), granddaughter, Margareta van der Dycke (wife of Jan van den Steen, burgomaster of Bergen-op-Zoom),",former owner,,,human;human;human;human,Margaretha van Cleyburg;Boudewijn Willemszoon van Drenckwaert;Catherina van Drenckwaert;Margareta van der Dycke,Q116811727;Q117485607;Q116811750;Q117843622
+"Written in 1491 (dated on fol. 148r) probably for Margaretha van Cleyburg (d. 1537), wife and later widow of Boudewijn Willemszoon van Drenckwaert (c. 1468-1496), bailiff and steward of Voorne; and by descent to her daughter, Catherina van Drenckwaert (wife of Jan Pauwelszoon van der Dycke), granddaughter, Margareta van der Dycke (wife of Jan van den Steen, burgomaster of Bergen-op-Zoom),",former owner,,,human;human,Margaretha van Cleyburg;Catherina van Drenckwaert,Q116811727;Q116811750
 "Written in 1505 for Giovanni Pietro Visconti (1478-1515), provost of Milan cathedral (see below); Oliver Rogers Barrett (1873-1950), Chicago attorney, who gave it to C. L. Ricketts in 1918; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human;human,Giovanni Pietro Visconti;Oliver R. Barrett;Coella Lindsay Ricketts,Q116811697;Q7087782;Q116771179
-"Written in Flanders in the second quarter of the fifteenth century. A clipping accompanying the book from the GTS(?) Bulletin June 1968 says that Dr. John Plummer of the Pierpont Morgan Library identified the book as being from the School of the Master of the Golden Scrolls, active in Belgium, probably Bruges in the decade 1420-30,",former owner,,,organization,Masters of the Gold Scrolls,Q23888760
 "Written in Flanders in the third quarter of the fifteenth century for use in England. Early ownership by the family whose coat of arms appears on f. 23v, possibly the Barons Lovell as reported by the HMC and De Ricci; owned later by the Bowntyene family, possibly specifically Johane Bowntyene in the early sixteenth century, as reported by De Ricci",former owner,,,organization;human,Baron Lovel;Johane Bowntyene,Q4862578;Q116958831
-"Written in Flanders in the third quarter of the fifteenth century for use in England. Early ownership by the family whose coat of arms appears on f. 23v, possibly the Barons Lovell as reported by the HMC and De Ricci; owned later by the Bowntyene family, possibly specifically Johane Bowntyene in the early sixteenth century, as reported by De Ricci;",former owner,,,human,Johane Bowntyene,Q116958831
 "Written in France (possibly northern?) s. XIV (early in the century according to De Ricci). Obtained by General Theological Seminary in 1912 from Joseph (Giuseppe) Martini (1870-1944), as reported by De Ricci.",former owner,,,human,Giuseppe Martini,Q98834332
 "Written in the third quarter of the fifteenth century in France for use in England. Apparently in the hands of English Protestants at some point in the s. XVI#^2# (see notes on calendar). Obtained by General Theological Seminary from P.M. Barnard, as reported by De Ricci.",former owner,,,human,Percy Mordaunt Barnard,Q94925072
 "Wylie, Theodore W. J. 1818-1897",former owner,,,human,Theodore William John Wylie,Q114298229
@@ -3571,7 +3517,6 @@ Xenophon,author,,,human,Xenophon,Q129772
 Xenophon.,author,,,human,Xenophon,Q129772
 "Yāfiʻī, ʻAbd Allāh ibn Asʻad, -1367",author,يافعي، عبد الله بن أسعد، و. 1367,http://id.loc.gov/authorities/names/n85155742,human,Abdullah bin Asaad Al-Yafi'i,Q12223451
 "Yngram, Emmote",other,,,human,Emmote Yngram,Q117351849
-"Yngram, William",other,,,human,William Yngram,Q117338069
 Ysidorus,scribe,,,human,Isidorus,Q11714977
 "Zabarella, Francesco 1360-1417.",author,,,human,Francesco Zabarella,Q1338205
 "Zacchi, Gaspare.",author,,,human,Gaspare Zacchi,Q115182617
