@@ -1,19 +1,5 @@
 place_as_recorded,authorized_label,structured_value
 ?,undetermined,http://vocab.getty.edu/tgn/7544559
-[Benelux countries] :,Low Countries,http://vocab.getty.edu/tgn/7029439
-[Central Europe] :,Central Europe,http://vocab.getty.edu/tgn/4003755
-"[Central Europe],",Central Europe,http://vocab.getty.edu/tgn/4003755
-[England] :,England,http://vocab.getty.edu/tgn/7002445
-[France] :,France,http://vocab.getty.edu/tgn/1000070
-[France]:,France,http://vocab.getty.edu/tgn/1000070
-[Germany] :,Germany,http://vocab.getty.edu/tgn/7000084
-[Germany]:,Germany,http://vocab.getty.edu/tgn/7000084
-[Italy] :,Italy,http://vocab.getty.edu/tgn/1000080
-"[Italy],",Italy,http://vocab.getty.edu/tgn/1000080
-[Italy]:,Italy,http://vocab.getty.edu/tgn/1000080
-[Netherlands] :,Netherlands,http://vocab.getty.edu/tgn/7016845
-"[Rome, Italy],",Rome|Italy,http://vocab.getty.edu/tgn/7000874|http://vocab.getty.edu/tgn/1000080
-[Spain]:,Spain,http://vocab.getty.edu/tgn/1000095
 "16th century., Netherlands",Netherlands,http://vocab.getty.edu/tgn/7016845
 Aachen,Aachen,http://vocab.getty.edu/tgn/7004799
 Afghanistan,Afghanistan,http://vocab.getty.edu/tgn/7016612
@@ -934,7 +920,6 @@ Various locations,various locations,http://vocab.getty.edu/tgn/8698129
 Various places,various locations,http://vocab.getty.edu/tgn/8698129
 "Veneto?, Italy",Veneto|Italy,http://vocab.getty.edu/tgn/7002997|http://vocab.getty.edu/tgn/1000080
 Venice,Venice,http://vocab.getty.edu/tgn/7018159
-Venice :,Venice,http://vocab.getty.edu/tgn/7018159
 "Venice or Ferrara?, Italy",Venice|Ferrara|Italy,http://vocab.getty.edu/tgn/7018159|http://vocab.getty.edu/tgn/7004264|http://vocab.getty.edu/tgn/1000080
 "Venice?, Italy",Venice|Italy,http://vocab.getty.edu/tgn/7018159|http://vocab.getty.edu/tgn/1000080
 Verona,Verona,http://vocab.getty.edu/tgn/7003262

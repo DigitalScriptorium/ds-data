@@ -84,9 +84,6 @@ French,fre,French,Q150
 French,frm,French,Q150
 French and German,fre;ger,French|German,Q150|Q188
 French and Latin,,French|Latin,Q150|Q397
-"French, Middle (ca. 1300-1600), Latin.",,Middle French|Latin,Q1473289|Q397
-"French, Middle (ca.1300-1600).",,Middle French,Q1473289
-"French, Old (ca. 842-1300)",,Old French,Q35222
 "French, with citations and margin notes in Latin",fre;lat,French|Latin,Q150|Q397
 French; English; Italian; Latin; Spanish,,French|English|Italian|Latin|Spanish,Q150|Q1860|Q652|Q397|Q1321
 French; German,,French|German,Q150|Q188
@@ -198,7 +195,6 @@ Italian (Venetian dialect),,Italian|Venetian,Q652|Q32724
 Italian and Latin,ita;lat,Italian|Latin,Q652|Q397
 Italian and Latin,lat;ita,Italian|Latin,Q652|Q397
 "Italian and Latin, with two documents in French",ita;lat;fre,Italian|Latin|French,Q652|Q397|Q150
-Italian and Latin.,,Italian|Latin,Q652|Q397
 Italian and Spanish,ita;spa,Italian|Spanish,Q652|Q1321
 Italian with a short section in Latin (f. 49r-49v),ita;lat,Italian|Latin,Q652|Q397
 "Italian, in the Northeastern (Venetian?) vernacular",ita,Italian|Venetian,Q652|Q32724
@@ -210,7 +206,6 @@ Italian with a short section in Latin (f. 49r-49v),ita;lat,Italian|Latin,Q652|Q3
 "Italian, Latin",,Italian|Latin,Q652|Q397
 "Italian, Latin, and Spanish",ita;lat;spa,Italian|Latin|Spanish,Q652|Q397|Q1321
 "Italian, Latin, Spanish",,Italian|Latin|Spanish,Q652|Q397|Q1321
-"Italian, Latin.",,Italian|Latin,Q652|Q397
 "Italian, probably Tuscan, with some prayers in Latin",ita;lat,Italian|Tuscan|Latin,Q652|Q1990745|Q397
 "Italian, some of the letters are in Spanish",ita;spa,Italian|Spanish,Q652|Q1321
 "Italian, with a few copies in Latin and Spanish",ita;lat;spa,Italian|Latin|Spanish,Q652|Q397|Q1321
@@ -233,11 +228,9 @@ Italian with a short section in Latin (f. 49r-49v),ita;lat,Italian|Latin,Q652|Q3
 "Italian, with some Latin",ita;lat,Italian|Latin,Q652|Q397
 "Italian, with some Latin, most frequently for the openings and closings of documents",ita;lat,Italian|Latin,Q652|Q397
 "Italian, with three documents in Latin (f.7-8 and f.37)",ita;lat,Italian|Latin,Q652|Q397
-Italian.,,Italian,Q652
 Italian; English,,Italian|English,Q652|Q1860
 Italian; French,,Italian|French,Q652|Q150
 Italian; Latin,,Italian|Latin,Q652|Q397
-Italian; Latin.,,Italian|Latin,Q652|Q397
 Italian; Latin; Hebrew (some notes),,Italian|Latin|Hebrew,Q652|Q397|Q9288
 Italian; Latin; Spanish,,Italian|Latin|Spanish,Q652|Q397|Q1321
 Italian; mottoes or epitaphs in Latin,ita;lat,Italian|Latin,Q652|Q397
@@ -284,7 +277,6 @@ Latin with some rubrics in Middle English,lat;enm,Latin|Middle English,Q397|Q363
 Latin with Spanish notes at the end,lat;spa,Latin|Spanish,Q397|Q1321
 "Latin, except for one document in Italian",lat;ita,Latin|Italian,Q397|Q652
 "Latin, French",,Latin|French,Q397|Q150
-"Latin, French; later annotations in Italian",,Latin|French|Italian,Q397|Q150|Q652
 "Latin, German",,Latin|German,Q397|Q188
 "Latin, Italian",,Latin|Italian,Q397|Q652
 "Latin, Middle French, and some words in Middle English (f. 214v)",lat;frm;enm,Latin|Middle French|Middle English,Q397|Q1473289|Q36395
@@ -350,8 +342,6 @@ Latin with Spanish notes at the end,lat;spa,Latin|Spanish,Q397|Q1321
 "Latin, with weekday devotions in Italian (f. 129-133)",lat;ita,Latin|Italian,Q397|Q652
 "Latin, with words and names in Ancient Greek and Hebrew",lat;grc;heb,Latin|Ancient Greek|Hebrew,Q397|Q35497|Q9288
 "Latin, with words transcribed from Arabic",lat,Latin|Arabic,Q397|Q13955
-Latin.,,Latin,Q397
-Latin; accompanying materials in Latin and Italian.,,Latin|Latin|Italian,Q397|Q397|Q652
 Latin; Anglo-Norman,,Latin|Anglo-Norman,Q397|Q35214
 Latin; Anglo-Norman French,,Latin|Anglo-Norman,Q397|Q35214
 Latin; Anglo-Norman; Middle English,,Latin|Anglo-Norman|Middle English,Q397|Q35214|Q36395
@@ -372,13 +362,11 @@ Latin; Flemish,,Latin|Flemish,Q397|Q34147
 Latin; French,,Latin|French,Q397|Q150
 Latin; French (calendar and rubrics),,Latin|French,Q397|Q150
 "Latin; French (calendar, prayers ff. 156r-165v, and rubrics)",,Latin|French,Q397|Q150
-Latin; French.,,Latin|French,Q397|Q150
 Latin; French; Dutch,,Latin|French|Dutch,Q397|Q150|Q7411
 Latin; French; English,,Latin|French|English,Q397|Q150|Q1860
 Latin; French; Italian,,Latin|French|Italian,Q397|Q150|Q652
 Latin; French; Middle English,,Latin|French|Middle English,Q397|Q150|Q36395
 Latin; German,,Latin|German,Q397|Q188
-Latin; German.,,Latin|German,Q397|Q188
 Latin; German; French,,Latin|German|French,Q397|Q188|Q150
 Latin; German; French; English,,Latin|German|French|English,Q397|Q188|Q150|Q1860
 Latin; Greek,,Latin|Greek,Q397|Q9129
@@ -391,13 +379,11 @@ Latin; Hebrew; Greek,,Latin|Hebrew|Greek,Q397|Q9288|Q9129
 Latin; Icelandic,,Latin|Icelandic,Q397|Q294
 Latin; Italian,,Latin|Italian,Q397|Q652
 Latin; Italian,lat;ita,Latin|Italian,Q397|Q652
-Latin; Italian.,,Latin|Italian,Q397|Q652
 Latin; Italian; French; Greek,,Latin|Italian|French|Greek,Q397|Q652|Q150|Q9129
 Latin; Italian; French; Greek; Hebrew,,Latin|Italian|French|Greek|Hebrew,Q397|Q652|Q150|Q9129|Q9288
 Latin; Italian; French; Spanish,,Latin|Italian|French|Spanish,Q397|Q652|Q150|Q1321
 Latin; Italian; Spanish,,Latin|Italian|Spanish,Q397|Q652|Q1321
 Latin; Law French,,Latin|Law French,Q397|Q2044323
-Latin; Law French; Anglicana.,,Latin|Law French,Q397|Q2044323
 Latin; Law French; Middle English,,Latin|Law French|Middle English,Q397|Q2044323|Q36395
 Latin; Low German,,Latin|Low German,Q397|Q25433
 Latin; Middle English,,Latin|Middle English,Q397|Q36395
@@ -420,7 +406,6 @@ Middle English and Latin,enm;lat,Middle English|Latin,Q36395|Q397
 "Middle English, Latin",,Middle English|Latin,Q36395|Q397
 "Middle English, passages in Latin",enm;lat,Middle English|Latin,Q36395|Q397
 "Middle English, with some Latin notations",enm,Middle English|Latin,Q36395|Q397
-Middle English.,,Middle English,Q36395
 Middle English; Latin,,Middle English|Latin,Q36395|Q397
 Middle English; Latin; French,,Middle English|Latin|French,Q36395|Q397|Q150
 Middle English; some works in Latin,enm;lat,Middle English|Latin,Q36395|Q397
