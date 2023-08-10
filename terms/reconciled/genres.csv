@@ -1,4 +1,17 @@
 genre_as_recorded,vocabulary,source_authority_uri,authorized_label,structured_value
+Annotations (Provenance),rbprov,,Annotations,http://id.loc.gov/vocabulary/rbmscv/cv00102
+Chronologies,lcgft,,Chronologies,http://id.worldcat.org/fast/1423901
+"Manuscripts, Church Slavic--19th century",local,,"Manuscripts, Church Slavic|Nineteenth century",http://id.worldcat.org/fast/1008312|http://id.worldcat.org/fast/1037841
+"Manuscripts, Judeo-Arabic--15th century",,,"Manuscripts, Judeo-Arabic|Fifteenth century",http://id.worldcat.org/fast/1008384|http://id.worldcat.org/fast/923962
+"Manuscripts, Samaritan--15th century",,,"Manuscripts, Samaritan|Fifteenth century",http://id.worldcat.org/fast/1008481|http://id.worldcat.org/fast/923962
+Stamps (Provenance),rbprov,,Stamps,http://id.loc.gov/vocabulary/rbmscv/cv00142
+accounts,aat,,accounts,http://vocab.getty.edu/aat/300145802
+books of hours,aat,,books of hours,http://vocab.getty.edu/aat/300026457
+devotional calendars,aat,,devotional calendars,http://vocab.getty.edu/aat/300026750
+drawings (visual works),aat,,drawings (visual works),http://vocab.getty.edu/aat/300033973
+histories,aat,,histories (literary works),http://vocab.getty.edu/aat/300026358
+illuminations (painting),aat,,illuminations (paintings),http://vocab.getty.edu/aat/300264522
+volvelles,aat,,volvelles,http://vocab.getty.edu/aat/300247651
 Abridgements,aat,,abridgements,http://vocab.getty.edu/aat/300202489
 Abridgments,fast,,Abridgments,http://id.worldcat.org/fast/1726571
 Abridgments,lcgft,,Abridgments,http://id.worldcat.org/fast/1726571
