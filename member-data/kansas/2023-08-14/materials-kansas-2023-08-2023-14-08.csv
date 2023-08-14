@@ -1,0 +1,31 @@
+material_as_recorded,authorized_label,structured_value
+"[""""]","",""
+"[""Paper""]",paper,http://vocab.getty.edu/aat/300014109
+"[""paper""]",paper,http://vocab.getty.edu/aat/300014109
+"[""paper and parchment""]",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851
+"[""paper and parchment, illuminations""]","",""
+"[""paper, charts""]","",""
+"[""paper, illuminations""]",paper,http://vocab.getty.edu/aat/300014109
+"[""paper, illuminations, maps, charts""]","",""
+"[""paper, orn: initial with crude profile""]","",""
+"[""paper, parchment""]","",""
+"[""paper, slight pen-work ornament""]","",""
+"[""parchment""]",parchment,http://vocab.getty.edu/aat/300011851
+"[""parchment, decorated initials""]","",""
+"[""parchment, decorated initials, music (neumes)""]","",""
+"[""parchment, illuminated""]","",""
+"[""parchment, illuminated, miniatures""]","",""
+"[""parchment, illuminations""]","",""
+"[""parchment, illuminations, frontispiece, coat of arms""]","",""
+"[""parchment, illuminations, genealogical tables""]","",""
+"[""parchment, illuminations, portraits, coat of arms""]","",""
+"[""parchment, illuminations, portraits, genealogical tables""]","",""
+"[""parchment, illustrations""]",parchment,http://vocab.getty.edu/aat/300011851
+"[""parchment, initials""]","",""
+"[""parchment, music (diastematic neumes)""]","",""
+"[""parchment, orn initial""]","",""
+"[""parchment, orn, decorated initials""]","",""
+"[""parchment, orn, illustrations""]","",""
+"[""parchment, orn, initial""]","",""
+"[""parchment, orn: drawing: eagle""]","",""
+"[""parchment, ornamented initial, penwork""]","",""
