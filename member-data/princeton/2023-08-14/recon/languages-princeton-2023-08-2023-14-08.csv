@@ -1,0 +1,58 @@
+language_as_recorded,language_code,authorized_label,structured_value
+"","","",""
+;cop,;cop,"",""
+;d,|d,"",""
+;dut,;dut,"",""
+;eng,;eng,"",""
+;frm;ita,;frm;ita,"",""
+;ger,;ger,"",""
+;grc,;grc,"",""
+;ita;gre,;ita;gre,"",""
+;lat,;lat,"",""
+Arabic,"",Arabic,Q13955
+Catalan,"",Catalan,Q7026
+English,"",English,Q1860
+Greek,;grc,Greek,Q9129
+Greek,;gre,Greek,Q9129
+Greek,"",Greek,Q9129
+Hebrew,"",Hebrew,Q9288
+Hebrew and Aramaic,;heb;arc,Hebrew;Aramaic,Q9288;Q28602
+In English and Marquesan,"",English;Marquesan,Q1860;Q33781
+In Latin,"",Latin,Q397
+In Middle English and Latin,;enm;lat,Middle English;Latin,Q36395;Q397
+Italian,"",Italian,Q652
+Latin,"",Latin,Q397
+Latin,;lat,Latin,Q397
+Latin and French,;lat;fre,Latin;French,Q397;Q150
+Latin and Italian,;lat;ita,Latin;Italian,Q397;Q652
+Ottoman Turkish,;ota,Ottoman Turkish,Q36730
+Ottoman Turkish and Arabic,;ota;ara,Ottoman Turkish;Arabic,Q36730;Q13955
+Persian,"",Persian,Q9168
+Persian and Arabic,;ara;per,Persian;Arabic,Q9168;Q13955
+Text in Greek,"",Greek,Q9129
+Text in Hebrew and Aramaic,"",Hebrew;Aramaic,Q9288;Q28602
+Text in K'iche' and Spanish,;myn;spa,K’iche’;Spanish,Q36494;Q1321
+Text in K'iche' and Spanish,;mynspa,K’iche’;Spanish,Q36494;Q1321
+Text in Korean,"",Korean,Q9176
+Text in Middle English and Latin,;enm;lat,Middle English;Latin,Q36395;Q397
+Text in Yucatec with some Spanish,;myn;spa,Yucatec Maya;Spanish,Q13354;Q1321
+ara,ara,Arabic,Q13955
+arc,arc,"",""
+cop,cop,Coptic,Q36155
+dut,dut,Dutch,Q7411
+eng,eng,English,Q1860
+enm,enm,Middle English,Q36395
+fre,fre,French,Q150
+frm,frm,Middle French,Q1473289
+ger,ger,German,Q188
+grc,grc,Ancient Greek,Q35497
+gre,gre,Greek,Q9129
+heb,heb,Hebrew,Q9288
+ita,ita,Italian,Q652
+lat,lat,Latin,Q397
+myn,myn,"",""
+mynspa,mynspa,"",""
+ota,ota,Ottoman Turkish,Q36730
+per,per,Persian,Q9168
+spa,spa,Spanish,Q1321
+|d,|d,"",""
