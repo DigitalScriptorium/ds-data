@@ -1,36 +1,21 @@
 place_as_recorded,authorized_label,structured_value
-?,undetermined,http://vocab.getty.edu/tgn/7544559
 [Austria] :,Austria,http://vocab.getty.edu/tgn/1000062
-[Benelux countries] :,Low Countries,http://vocab.getty.edu/tgn/7029439
 "[Bologna, Italy] :",Bologna;Italy,http://vocab.getty.edu/tgn/7004847;http://vocab.getty.edu/tgn/1000080
 "[Burgos?, Spain],",Burgos;Spain,http://vocab.getty.edu/tgn/7007510;http://vocab.getty.edu/tgn/1000095
-"[Central Europe],",Central Europe,http://vocab.getty.edu/tgn/4003755
-[Central Europe] :,Central Europe,http://vocab.getty.edu/tgn/4003755
 [England] ;,England,http://vocab.getty.edu/tgn/7002445
-[England] :,England,http://vocab.getty.edu/tgn/7002445
 "[Ethiopia],",Ethiopia,http://vocab.getty.edu/tgn/7000489
 "[Florence, Italy?] ;",Florence;Italy,http://vocab.getty.edu/tgn/7000457;http://vocab.getty.edu/tgn/1000080
 "[Florence, Italy] :",Florence;Italy,http://vocab.getty.edu/tgn/7000457;http://vocab.getty.edu/tgn/1000080
 "[France,",France,http://vocab.getty.edu/tgn/1000070
-[France]:,France,http://vocab.getty.edu/tgn/1000070
-[France] :,France,http://vocab.getty.edu/tgn/1000070
 [France or Italy] :,France;Italy,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/1000080
 "[Genoa, Italy] :",Genoa;Italy,http://vocab.getty.edu/tgn/7008546;http://vocab.getty.edu/tgn/1000080
-[Germany]:,Germany,http://vocab.getty.edu/tgn/7000084
-[Germany] :,Germany,http://vocab.getty.edu/tgn/7000084
-"[Italy],",Italy,http://vocab.getty.edu/tgn/1000080
-[Italy]:,Italy,http://vocab.getty.edu/tgn/1000080
-[Italy] :,Italy,http://vocab.getty.edu/tgn/1000080
 [Korea] :,Korea,http://vocab.getty.edu/tgn/7059230
 "[Lincolnshire, England] :",Lincolnshire;England,http://vocab.getty.edu/tgn/7008157;http://vocab.getty.edu/tgn/7002445
 "[Lisbon, Portugal] :",Lisbon;Portugal,http://vocab.getty.edu/tgn/7010978;http://vocab.getty.edu/tgn/1000090
 "[Morimondo, Italy],",Morimondo;Italy,http://vocab.getty.edu/tgn/4007527;http://vocab.getty.edu/tgn/1000080
 "[Morimondo, Italy] :",Morimondo;Italy,http://vocab.getty.edu/tgn/4007527;http://vocab.getty.edu/tgn/1000080
-[Netherlands] :,Netherlands,http://vocab.getty.edu/tgn/7016845
 "[Picady, France] :",Picardy;France,http://vocab.getty.edu/tgn/7002890;http://vocab.getty.edu/tgn/1000070
 "[Piombino?, Italy] :",Piombino;Italy,http://vocab.getty.edu/tgn/7006194;http://vocab.getty.edu/tgn/1000080
-"[Rome, Italy],",Rome;Italy,http://vocab.getty.edu/tgn/7000874;http://vocab.getty.edu/tgn/1000080
-[Spain]:,Spain,http://vocab.getty.edu/tgn/1000095
 [Spain] :,Spain,http://vocab.getty.edu/tgn/1000095
 "[Spain or Italy],",Spain;Italy,http://vocab.getty.edu/tgn/1000095;http://vocab.getty.edu/tgn/1000080
 "[St. Albans, England] :",England,http://vocab.getty.edu/tgn/7002445
@@ -38,10 +23,27 @@ place_as_recorded,authorized_label,structured_value
 "[Suffolk, England] :",Suffolk;England,http://vocab.getty.edu/tgn/7008185;http://vocab.getty.edu/tgn/7002445
 "[Turkey?],",Turkey,http://vocab.getty.edu/tgn/1000144
 "[Venice, Italy] :",Venice;Italy,http://vocab.getty.edu/tgn/7018159;http://vocab.getty.edu/tgn/1000080
-1608-1849,,
+"Ashybuen, Ancrum, Roxburghshire,",Ancrum;Roxburghshire,http://vocab.getty.edu/tgn/1050378;http://vocab.getty.edu/tgn/7448522
+Athēnēsin :,Athens,http://vocab.getty.edu/tgn/7001393
+Dimashq ;,Damascus,http://vocab.getty.edu/tgn/7002261
+"Istanbul,",Istanbul,http://vocab.getty.edu/tgn/7002473
+"Lingholme, Keswick.",Keswick,http://vocab.getty.edu/tgn/7010161
+?,undetermined,http://vocab.getty.edu/tgn/7544559
+[Benelux countries] :,Low Countries,http://vocab.getty.edu/tgn/7029439
+"[Central Europe],",Central Europe,http://vocab.getty.edu/tgn/4003755
+[Central Europe] :,Central Europe,http://vocab.getty.edu/tgn/4003755
+[England] :,England,http://vocab.getty.edu/tgn/7002445
+[France]:,France,http://vocab.getty.edu/tgn/1000070
+[France] :,France,http://vocab.getty.edu/tgn/1000070
+[Germany]:,Germany,http://vocab.getty.edu/tgn/7000084
+[Germany] :,Germany,http://vocab.getty.edu/tgn/7000084
+"[Italy],",Italy,http://vocab.getty.edu/tgn/1000080
+[Italy]:,Italy,http://vocab.getty.edu/tgn/1000080
+[Italy] :,Italy,http://vocab.getty.edu/tgn/1000080
+[Netherlands] :,Netherlands,http://vocab.getty.edu/tgn/7016845
+"[Rome, Italy],",Rome;Italy,http://vocab.getty.edu/tgn/7000874;http://vocab.getty.edu/tgn/1000080
+[Spain]:,Spain,http://vocab.getty.edu/tgn/1000095
 "16th century., Netherlands",Netherlands,http://vocab.getty.edu/tgn/7016845
-1849-1850,,
-1968-1970,,
 Aachen,Aachen,http://vocab.getty.edu/tgn/7004799
 Afghanistan,Afghanistan,http://vocab.getty.edu/tgn/7016612
 Aleppo,Aleppo,http://vocab.getty.edu/tgn/7002252
@@ -57,10 +59,6 @@ Arles,Arles,http://vocab.getty.edu/tgn/7008775
 Armenia,Armenia,http://vocab.getty.edu/tgn/7006651
 "Arras, France",Arras;France,http://vocab.getty.edu/tgn/7008468;http://vocab.getty.edu/tgn/1000070
 Arroya,Castile-Leon,http://vocab.getty.edu/tgn/7001158
-"Ashybuen, Ancrum, Roxburghshire",Ancrum;Roxburghshire,http://vocab.getty.edu/tgn/1050378;http://vocab.getty.edu/tgn/7448522
-"Ashybuen, Ancrum, Roxburghshire,",Ancrum;Roxburghshire,http://vocab.getty.edu/tgn/1050378;http://vocab.getty.edu/tgn/7448522
-Athēnēsin,Athens,http://vocab.getty.edu/tgn/7001393
-Athēnēsin :,Athens,http://vocab.getty.edu/tgn/7001393
 Augsburg,Augsburg,http://vocab.getty.edu/tgn/7004324
 Austria,Austria,http://vocab.getty.edu/tgn/1000062
 "Austria, Austria",Austria,http://vocab.getty.edu/tgn/1000062
@@ -148,7 +146,6 @@ Brescia,Brescia,http://vocab.getty.edu/tgn/7005764
 "Bressanone, Italy",Bressanone;Italy,http://vocab.getty.edu/tgn/7005433;http://vocab.getty.edu/tgn/1000080
 "Bruges?, Belgium",Bruges;Belgium,http://vocab.getty.edu/tgn/7007867;http://vocab.getty.edu/tgn/1000063
 "Buchau, Germany",Buchau;Germany,http://vocab.getty.edu/tgn/7201751;http://vocab.getty.edu/tgn/7000084
-"Burgos?, Spain",Burgos;Spain,http://vocab.getty.edu/tgn/7007510;http://vocab.getty.edu/tgn/1000095
 Burgundy (France),Burgundy;France,http://vocab.getty.edu/tgn/7029372;http://vocab.getty.edu/tgn/1000070
 "Burgundy (France), Burgundy or the Imperial Court",Burgundy;France,http://vocab.getty.edu/tgn/7029372;http://vocab.getty.edu/tgn/1000070
 "Burgundy (France), Flanders",Burgundy;France;Flanders,http://vocab.getty.edu/tgn/7029372;http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7024097
@@ -161,7 +158,6 @@ Burma,Myanmar,http://vocab.getty.edu/tgn/1000108
 "Byzantine Empire; Italy, Constantinople or southern Italy",Byzantine Empire;Italy;Istanbul;Southern Italy,http://vocab.getty.edu/tgn/7024407;http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7002473;http://vocab.getty.edu/tgn/4005365
 Byzantium,Istanbul,http://vocab.getty.edu/tgn/7002473
 Byzantium?,Istanbul,http://vocab.getty.edu/tgn/7002473
-ca. 1700,,
 Cairo,Cairo,http://vocab.getty.edu/tgn/7001215
 Cancon,Cancon,http://vocab.getty.edu/tgn/1032406
 "Cappadocia (Turkey); Palestine, Eastern Mediterreanean (Cappadocia or Palestine)",Cappadocia;Turkey;Palestine;Eastern Mediterreanean,http://vocab.getty.edu/tgn/6003016;http://vocab.getty.edu/tgn/1000144;http://vocab.getty.edu/tgn/7004540;http://vocab.getty.edu/tgn/7593196
@@ -171,14 +167,12 @@ Catalonia,Catalonia,http://vocab.getty.edu/tgn/7030216
 Catania,Catania,http://vocab.getty.edu/tgn/7003947
 "Central America, Central America",Central America,http://vocab.getty.edu/tgn/7016739
 China,China,http://vocab.getty.edu/tgn/1000111
-circa 1830,,
 "Città di Castello, Italy",Città di Castello;Italy,http://vocab.getty.edu/tgn/7005039;http://vocab.getty.edu/tgn/1000080
 Città di Castello (Italy),Città di Castello;Italy,http://vocab.getty.edu/tgn/7005039;http://vocab.getty.edu/tgn/1000080
 Cologne,Cologne,http://vocab.getty.edu/tgn/7004446
 Cologne?,Cologne,http://vocab.getty.edu/tgn/7004446
 "Cologne?, Germany",Cologne;Germany,http://vocab.getty.edu/tgn/7004446;http://vocab.getty.edu/tgn/7000084
 Constantinople,Istanbul,http://vocab.getty.edu/tgn/7002473
-Copenhagen,Copenhagen,http://vocab.getty.edu/tgn/7003474
 "Crema?, Italy",Crema;Italy,http://vocab.getty.edu/tgn/7005874;http://vocab.getty.edu/tgn/1000080
 Cremona,Cremona,http://vocab.getty.edu/tgn/7005868
 Cremona (?),Cremona,http://vocab.getty.edu/tgn/7005868
@@ -201,8 +195,6 @@ Denmark,Denmark,http://vocab.getty.edu/tgn/1000066
 Denmark; Sweden,Denmark;Sweden,http://vocab.getty.edu/tgn/1000066;http://vocab.getty.edu/tgn/1000097
 Denmark (?),Denmark,http://vocab.getty.edu/tgn/1000066
 "Dijon, Burgundy, France",Dijon;Burgundy;France,http://vocab.getty.edu/tgn/7008224;http://vocab.getty.edu/tgn/7029372;http://vocab.getty.edu/tgn/1000070
-Dimashq,Damascus,http://vocab.getty.edu/tgn/7002261
-Dimashq ;,Damascus,http://vocab.getty.edu/tgn/7002261
 "Diocese of Treviso, Montello, Italy",Treviso;Volpago del Montello;Italy,http://vocab.getty.edu/tgn/7002996;http://vocab.getty.edu/tgn/1047496;http://vocab.getty.edu/tgn/1000080
 Douai,Douai,http://vocab.getty.edu/tgn/7008458
 Drayton or Chacombe,Drayton;Chacombe,http://vocab.getty.edu/tgn/7031272;http://vocab.getty.edu/tgn/7030792
@@ -304,7 +296,6 @@ Flanders ?,Flanders,http://vocab.getty.edu/tgn/7024097
 Flanders or France,Flanders;France,http://vocab.getty.edu/tgn/7024097;http://vocab.getty.edu/tgn/1000070
 Florence,Florence,http://vocab.getty.edu/tgn/7000457
 "Florence, Italy",Florence;Italy,http://vocab.getty.edu/tgn/7000457;http://vocab.getty.edu/tgn/1000080
-"Florence, Italy?",Florence;Italy,http://vocab.getty.edu/tgn/7000457;http://vocab.getty.edu/tgn/1000080
 "Florence?, Italy",Florence;Italy,http://vocab.getty.edu/tgn/7000457;http://vocab.getty.edu/tgn/1000080
 France,France,http://vocab.getty.edu/tgn/1000070
 "France, Aix-en-Provence",France;Aix-en-Provence,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7010786
@@ -449,7 +440,6 @@ France or Italy,France;Italy,http://vocab.getty.edu/tgn/1000070;http://vocab.get
 France or Spain,France;Spain,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/1000095
 Friuli,Friuli,http://vocab.getty.edu/tgn/7008895
 Genoa,Genoa,http://vocab.getty.edu/tgn/7008546
-"Genoa, Italy",Genoa;Italy,http://vocab.getty.edu/tgn/7008546;http://vocab.getty.edu/tgn/1000080
 "German, Germany",Germany,http://vocab.getty.edu/tgn/7000084
 Germany,Germany,http://vocab.getty.edu/tgn/7000084
 "Germany, Alsace",Germany;Alsace,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/7024265
@@ -583,8 +573,6 @@ Iran,Iran,http://vocab.getty.edu/tgn/7000231
 Iran?,Iran,http://vocab.getty.edu/tgn/7000231
 Ireland,Ireland,http://vocab.getty.edu/tgn/1000078
 "Iṣfahān?, Iran",Isfahan;Iran,http://vocab.getty.edu/tgn/7017459;http://vocab.getty.edu/tgn/7000231
-Istanbul,Istanbul,http://vocab.getty.edu/tgn/7002473
-"Istanbul,",Istanbul,http://vocab.getty.edu/tgn/7002473
 Italy,Italy,http://vocab.getty.edu/tgn/1000080
 "Italy, 1502-ca. 1599",Italy,http://vocab.getty.edu/tgn/1000080
 "Italy, Bologna",Italy;Bologna,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7004847
@@ -797,7 +785,6 @@ Italy or Germany,Italy;Germany,http://vocab.getty.edu/tgn/1000080;http://vocab.g
 Italy or S. France,Italy;Southern France,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/4004037
 Japan,Japan,http://vocab.getty.edu/tgn/1000120
 "Kestenholtz that is, Châtenois, France",Châtenois;France,http://vocab.getty.edu/tgn/1032520;http://vocab.getty.edu/tgn/1000070
-Korea,Korea,http://vocab.getty.edu/tgn/7059230
 Kraków and Malogoszcz,Cracow;Świętokrzyskie Voivodeship,http://vocab.getty.edu/tgn/7007652;http://vocab.getty.edu/tgn/7024129
 "Lambach?, Austria",Lambach;Austria,http://vocab.getty.edu/tgn/7003278;http://vocab.getty.edu/tgn/1000062
 "Laon?, France",Laon;France,http://vocab.getty.edu/tgn/7010220;http://vocab.getty.edu/tgn/1000070
@@ -806,10 +793,6 @@ Leipzig,Leipzig,http://vocab.getty.edu/tgn/7017167
 Leipzig or Erfurt,Leipzig;Erfurt,http://vocab.getty.edu/tgn/7017167;http://vocab.getty.edu/tgn/7024031
 Levington,Levington,http://vocab.getty.edu/tgn/7463262
 "Liège, Belgium",Liege;Belgium,http://vocab.getty.edu/tgn/7007945;http://vocab.getty.edu/tgn/1000063
-"Lincolnshire, England",Lincolnshire;England,http://vocab.getty.edu/tgn/7008157;http://vocab.getty.edu/tgn/7002445
-"Lingholme, Keswick",Keswick,http://vocab.getty.edu/tgn/7010161
-"Lingholme, Keswick.",Keswick,http://vocab.getty.edu/tgn/7010161
-"Lisbon, Portugal",Lisbon;Portugal,http://vocab.getty.edu/tgn/7010978;http://vocab.getty.edu/tgn/1000090
 Livorno (Italy),Livorno;Italy,http://vocab.getty.edu/tgn/7006074;http://vocab.getty.edu/tgn/1000080
 Lombardy,Lombardy,http://vocab.getty.edu/tgn/7003237
 London,London,http://vocab.getty.edu/tgn/7011781
@@ -846,13 +829,10 @@ Montalboddo,Ostra,http://vocab.getty.edu/tgn/7007555
 Montedoglio,Montedoglio,http://vocab.getty.edu/tgn/4007415
 Monterubbiano,Monterubbiano,http://vocab.getty.edu/tgn/1045558
 Moravia,Moravia,http://vocab.getty.edu/tgn/7006467
-"Morimondo, Italy",Morimondo;Italy,http://vocab.getty.edu/tgn/4007527;http://vocab.getty.edu/tgn/1000080
 Morocco,Morocco,http://vocab.getty.edu/tgn/1000179
-Moscow,Moscow,http://vocab.getty.edu/tgn/7012974
 "Mosul?, Iraq",Al-Mawṣil;Iraq,http://vocab.getty.edu/tgn/7002471;http://vocab.getty.edu/tgn/1000118
 Mt. Sinai; Constantinople,"Mūsá, Jabal;Istanbul",http://vocab.getty.edu/tgn/7001247;http://vocab.getty.edu/tgn/7002473
 Munich,Munich,http://vocab.getty.edu/tgn/7004333
-n.p,,
 N.pl.,undetermined,http://vocab.getty.edu/tgn/7544559
 N. pl.,undetermined,http://vocab.getty.edu/tgn/7544559
 Naples,Naples,http://vocab.getty.edu/tgn/7004474
@@ -888,7 +868,6 @@ Northern Europe,Northern Europe,http://vocab.getty.edu/tgn/4003757
 Northern France,Northern France,http://vocab.getty.edu/tgn/4004036
 Northern Italy,Northern Italy,http://vocab.getty.edu/tgn/4005363
 Northern Italy or Austria,Northern Italy;Austria,http://vocab.getty.edu/tgn/4005363;http://vocab.getty.edu/tgn/1000062
-Northwest Germany,Germany,http://vocab.getty.edu/tgn/7000084
 Nuremberg,Nuremberg,http://vocab.getty.edu/tgn/7004334
 "Nuremberg?, Germany",Nuremberg;Germany,http://vocab.getty.edu/tgn/7004334;http://vocab.getty.edu/tgn/7000084
 Ottoman Empire,Ottoman Empire,http://vocab.getty.edu/tgn/7024412
@@ -906,29 +885,22 @@ Passau,Passau,http://vocab.getty.edu/tgn/7004407
 Persia,Persia,http://vocab.getty.edu/tgn/7024079
 Peru,Peru,http://vocab.getty.edu/tgn/1000056
 Perugia,Perugia,http://vocab.getty.edu/tgn/7000526
-Philippines,Philippines,http://vocab.getty.edu/tgn/1000135
 Piacenza,Piacenza,http://vocab.getty.edu/tgn/7004939
-"Picady, France",Picardy;France,http://vocab.getty.edu/tgn/7002890;http://vocab.getty.edu/tgn/1000070
 "Pieve de Cadore, Italy",Pieve di Cadore;Italy,http://vocab.getty.edu/tgn/7003332;http://vocab.getty.edu/tgn/1000080
 Pinerolo,Pinerolo,http://vocab.getty.edu/tgn/7005728
-"Piombino?, Italy",Piombino;Italy,http://vocab.getty.edu/tgn/7006194;http://vocab.getty.edu/tgn/1000080
 Piran,Piran,http://vocab.getty.edu/tgn/7012980
 Pisa,Pisa,http://vocab.getty.edu/tgn/7006082
-Place not identified,undetermined,http://vocab.getty.edu/tgn/7544559
 Place of production unknown,undetermined,http://vocab.getty.edu/tgn/7544559
 Poland,Poland,http://vocab.getty.edu/tgn/7006366
 "Poland, Bohemia",Poland;Bohemia,http://vocab.getty.edu/tgn/7006366;http://vocab.getty.edu/tgn/7006470
 Poland (?),Poland,http://vocab.getty.edu/tgn/7006366
 Pontigny,Pontigny,http://vocab.getty.edu/tgn/7008254
 "Pontigny?, France",Pontigny;France,http://vocab.getty.edu/tgn/7008254;http://vocab.getty.edu/tgn/1000070
-"Portland, Oregon",Portland;Oregon,http://vocab.getty.edu/tgn/7014273;http://vocab.getty.edu/tgn/7007708
 Portugal,Portugal,http://vocab.getty.edu/tgn/1000090
 "Portugal, Portugal (?)",Portugal,http://vocab.getty.edu/tgn/1000090
 Portugal?,Portugal,http://vocab.getty.edu/tgn/1000090
 Prague,Prague,http://vocab.getty.edu/tgn/7006464
 "Prichudie, Estonia",Estonia,http://vocab.getty.edu/tgn/7006540
-"Princeton, N.J.",Princeton;New Jersey,http://vocab.getty.edu/tgn/7016190;http://vocab.getty.edu/tgn/7007565
-"Princeton, N.J.?",Princeton;New Jersey,http://vocab.getty.edu/tgn/7016190;http://vocab.getty.edu/tgn/7007565
 Provence or Spain,Provence;Spain,http://vocab.getty.edu/tgn/7012209;http://vocab.getty.edu/tgn/1000095
 Regensburg,Regensburg,http://vocab.getty.edu/tgn/7013496
 Reggio Emilia,Reggio nell'Emilia,http://vocab.getty.edu/tgn/7005020
@@ -1010,11 +982,8 @@ Spain or Portugal,Spain;Portugal,http://vocab.getty.edu/tgn/1000095;http://vocab
 Spain or Portugal ?,Spain;Portugal,http://vocab.getty.edu/tgn/1000095;http://vocab.getty.edu/tgn/1000090
 Spain or southern France,Spain;Southern France,http://vocab.getty.edu/tgn/1000095;http://vocab.getty.edu/tgn/4004037
 Sri Lanka,Sri Lanka,http://vocab.getty.edu/tgn/1000110
-"St. Albans, England",England,http://vocab.getty.edu/tgn/7002445
-"St. Albans?, England",England,http://vocab.getty.edu/tgn/7002445
 "St. Dié, France",Saint-Dié;France,http://vocab.getty.edu/tgn/7009618;http://vocab.getty.edu/tgn/1000070
 Stagno,Stagno,http://vocab.getty.edu/tgn/7038830
-"Suffolk, England",Suffolk;England,http://vocab.getty.edu/tgn/7008185;http://vocab.getty.edu/tgn/7002445
 "Swabia (Germany), Swabia",Swabia;Germany,http://vocab.getty.edu/tgn/7017048;http://vocab.getty.edu/tgn/7000084
 Switzerland,Switzerland,http://vocab.getty.edu/tgn/7011731
 "Switzerland, Graubuenden ?",Switzerland;Canton Grisons,http://vocab.getty.edu/tgn/7011731;http://vocab.getty.edu/tgn/7003748
@@ -1077,4 +1046,3 @@ xx,undetermined,http://vocab.getty.edu/tgn/7544559
 Yemen,Yemen,http://vocab.getty.edu/tgn/7000261
 "Yugoslavia, Yugoslavia",Yugoslavia,http://vocab.getty.edu/tgn/8713918
 Zaragoza,Zaragoza,http://vocab.getty.edu/tgn/7008813
-,undetermined,http://vocab.getty.edu/tgn/7544559
