@@ -1,36 +1,31 @@
 material_as_recorded,authorized_label,structured_value
-?,undetermined,http://vocab.getty.edu/aat/300379012
-"[""""]",undetermined,"http://vocab.getty.edu/aat/300379012
-"
+[],undetermined,http://vocab.getty.edu/aat/300379012
 "[""Chancery 2° paper""]",paper,http://vocab.getty.edu/aat/300014109
 "[""on cloth""]",cloth,http://vocab.getty.edu/aat/300162391
-"[""paper, charts""]",paper,http://vocab.getty.edu/aat/300014109
+"[""papyrus""]",papyrus,http://vocab.getty.edu/aat/300014127
+"[""parchment, ill""]",parchment,http://vocab.getty.edu/aat/300011851
+"[""parchment, illustration""]",parchment,http://vocab.getty.edu/aat/300011851
+"[""parchment, illustrations, maps""]",parchment,http://vocab.getty.edu/aat/300011851
+?,undetermined,http://vocab.getty.edu/aat/300379012
 "[""paper, color, illustrations""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, colored illustrations""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, color illustrations, coats of arms""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, color illustrations, music""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, color illustrations""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, illumination""]",paper,http://vocab.getty.edu/aat/300014109
-"[""paper, illuminations, maps, charts""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, illuminations""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, illustrated""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, illustrations, illuminations""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, illustrations, music""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, illustrations""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, music""]",paper,http://vocab.getty.edu/aat/300014109
-"[""paper, orn: initial with crude profile""]",paper,http://vocab.getty.edu/aat/300014109
-"[""paper, parchment""]",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851
 "[""paper, seals""]",paper,http://vocab.getty.edu/aat/300014109
-"[""paper, slight pen-work ornament""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, tables""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper.""]",paper,http://vocab.getty.edu/aat/300014109
-"[""Paper""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper and parchment, color illustrations""]",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851
-"[""paper and parchment, illuminations""]",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851
 "[""paper and parchment""]",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851
 "[""paper illustrations""]",paper,http://vocab.getty.edu/aat/300014109
-"[""papyrus""]",papyrus,http://vocab.getty.edu/aat/300014127
 "[""parchment, coats of arms""]",parchment,http://vocab.getty.edu/aat/300011851
 "[""parchment, color""]",parchment,http://vocab.getty.edu/aat/300011851
 "[""parchment, colored illustration""]",parchment,http://vocab.getty.edu/aat/300011851
@@ -38,30 +33,10 @@ material_as_recorded,authorized_label,structured_value
 "[""parchment, color illustrations, maps""]",parchment,http://vocab.getty.edu/aat/300011851
 "[""parchment, color illustrations, music""]",parchment,http://vocab.getty.edu/aat/300011851
 "[""parchment, color illustrations""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""parchment, decorated initials, music (neumes)""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""parchment, decorated initials""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""parchment, ill""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""parchment, illuminated, miniatures""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""parchment, illuminated""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""parchment, illuminations, frontispiece, coat of arms""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""parchment, illuminations, genealogical tables""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""parchment, illuminations, portraits, coat of arms""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""parchment, illuminations, portraits, genealogical tables""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""parchment, illuminations""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""parchment, illustration""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""parchment, illustrations, maps""]",parchment,http://vocab.getty.edu/aat/300011851
 "[""parchment, illustrations, music""]",parchment,http://vocab.getty.edu/aat/300011851
 "[""parchment, illustrations""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""parchment, initials""]",parchment,http://vocab.getty.edu/aat/300011851
 "[""parchment, music, illustrations""]",parchment,http://vocab.getty.edu/aat/300011851
 "[""parchment, music""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""parchment, music (diastematic neumes)""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""parchment, orn, decorated initials""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""parchment, orn, illustrations""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""parchment, orn, initial""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""parchment, orn: drawing: eagle""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""parchment, ornamented initial, penwork""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""parchment, orn initial""]",parchment,http://vocab.getty.edu/aat/300011851
 "[""parchment, paper""]",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109
 "[""parchment""]",parchment,http://vocab.getty.edu/aat/300011851
 "[""parchment (9 paper)""]",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109
@@ -70,7 +45,6 @@ material_as_recorded,authorized_label,structured_value
 "[""parchment and paper, illustrations""]",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109
 "[""parchment and paper""]",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109
 "[""wove paper""]",paper,http://vocab.getty.edu/aat/300014109
-[],undetermined,http://vocab.getty.edu/aat/300379012
 Chancery 2° paper;,paper,http://vocab.getty.edu/aat/300014109
 "European laid paper, illuminations",paper,http://vocab.getty.edu/aat/300014109
 fine vellum,parchment,http://vocab.getty.edu/aat/300011851
