@@ -715,7 +715,6 @@ Bought in 1909 by C. L. Ricketts from Tregaskis; acquired by the Lilly Library w
 "Bouter, Samuell",former owner,,,human,Samuell Bouter,Q116269834
 "Bovet, Honore.",author,,,human,Honoré Bonet,Q570021
 "Bowyer, Robert d. 1622.",author,,,human,Robert Bowyer,Q7342256
-"Bracciolini, Giovan Battista,‏ ‎ 1440-1470",author,,,human,Giovan Battista Bracciolini,Q3766057
 "Bracciolini, Giovan Battista, 1440-1470.",associated name,,,human,Giovan Battista Bracciolini,Q3766057
 "Bracciolini, Giovan Battista,  1440-1470.",author,,,human,Giovan Battista Bracciolini,Q3766057
 "Bracciolini, Poggio, 1380-1459.",associated name,,,human,Poggio Bracciolini,Q318254
@@ -2649,7 +2648,7 @@ Marbod,author,,,human,Marbodius of Rennes,Q654307
 Marco Mantova Benavides,author,,,human,Marco Mantova Benavides,Q3846244
 Marco Polo,author,,,human,Marco Polo,Q6101
 Marcus Junianus Justinus,author,,,human,Justin,Q210853
-Marcus Ulpius Julianus,author,,,human,Marcus Ulpius Julianus,Q121956495
+Marcus Ulpius Julianus,author,,,human,Ulpius Julianus,Q96362628
 Marcus Valerius Probus c. 20/30-105 AD,author,,,human,Marcus Valerius Probus,Q722683
 "Marghīnānī, ʻAlī ibn Abī Bakr, -1196 or 1197",author,"مرغيناني، علي بن أبي بکر, -1196 أو 1197",http://id.loc.gov/authorities/names/n84145508,human,Burhan al-Din al-Marghinani,Q4998760
 "Marghīnānī, ʻAlī ibn Abī Bakr, -1196 or 1197",author,,,human,Burhan al-Din al-Marghinani,Q4998760
@@ -2881,7 +2880,7 @@ Naples (Kingdom). Sovereign (1458-1494 : Ferdinand I),author,,,human,Ferdinand I
 "Nardi Galatheo, Giovan Theseo de",author,,,human,Giovan Theseo de Nardi Galatheo,Q116486782
 "Nasafī, ʻAbd Allāh ibn Aḥmad, -1310",author,نسفي، عبد الله بن احمد، -1310,,human,ʿAbdallāh Ibn-Aḥmad Nasafī,Q12223449
 Natalis Gaver,author,,,human,Nadal Gàver,Q11938317
-Nene,author,,,human,Nene,Q121957090
+Nene,author,,,organization,Nenê de Vila Matilde,Q10287372
 "Nepos, Cornelius.",author,,,human,Cornelius Nepos,Q109594
 "Nevill, Robert, 1404-1457",former owner,,,human,Robert Neville,Q6013428
 "Newcastle, Henry Pelham-Clinton, Duke of, 1864-1928",former owner,,http://id.loc.gov/authorities/names/n2021069476,human,"Henry Pelham-Clinton, 7th Duke of Newcastle",Q4348371
@@ -3187,7 +3186,7 @@ Philip Sidney,author,,,human,Philip Sidney,Q315509
 "Phillipps, Thomas, Sir, 1792-1872",former owner,,,human,Thomas Phillipps,Q2147709
 "Phillipps MS 29506 (the ‘9’ written over ‘0’, as in item 21 above); from the collection of specimen leaves formed by Messrs. W. H. Robinson, who bought the residue of the Phillipps library in 1945-46, sold by them to George A. Poole in 1947, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,organization;human,William H. Robinson Ltd.;George Amos Poole,Q116786331;Q64683625
 "Phillipps MS 29507 (the ‘9’ written over ‘0’, as in Lilly Poole 39); from the collection of specimen leaves formed by Messrs. W. H. Robinson, who bought the residue of the Phillipps library in 1945-46, sold by them to George A. Poole in 947, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,organization;human,William H. Robinson Ltd.;George Amos Poole,Q116786331;Q64683625
-Phillips,other,,,human,Thomas Phillipps,Q2147709
+Phillips,other,,,human,Thomas Phillips,Q7793148
 "Phillips, Thomas, Sir, 1792-1872",former owner,,,human,Thomas Phillipps,Q2147709
 Philo of Alexandria,author,,,human,Philo of Alexandria,Q189597
 Philo of Byblos.,author,,,human,Philo of Byblos,Q504771
@@ -3283,7 +3282,6 @@ Poggio Bracciolini,author,,,human,Poggio Bracciolini,Q318254
 "Poliziano, Angelo, 1454-1494",author,,,human,Poliziano,Q250414
 Polyaenus.,author,,,human,Polyaenus,Q537755
 "Pompeius Trogus, extracted author",other,,,human,Gnaeus Pompeius Trogus,Q316119
-"‎Ponchier‏, Étienne‏,‎ 1446-1524","author,",,,human,Étienne de Poncher,Q3592337
 "Ponchier, Étienne, 1446-1524",author,,,human,Étienne de Poncher,Q3592337
 "Pontano, Giovanni Gioviano 1429-1503.",author,,,human,Iovianus Pontanus,Q714946
 Pontificio Collegio germanico ungarico,former owner,,http://id.loc.gov/authorities/names/n84024887,organization,Collegium Germanicum et Hungaricum,Q868294
@@ -3773,7 +3771,7 @@ Sir Thomas Littleton,author,,,human,Thomas de Littleton,Q7795482
 "Sir Thomas Phillipps (1792-1872), his n. 5861",former owner,,,human,Thomas Phillipps,Q2147709
 "Sir Thomas Phillipps (1792-1872), his n. 9677",former owner,,,human,Thomas Phillipps,Q2147709
 Sir Thomas Phillipps (1792-1872) (MS 9292),former owner,,,human,Thomas Phillipps,Q2147709
-"Sir Thomas Phillips (1792-1872), part of his MS 22254; bought by Tregaskis at the Phillips sale, Sotheby's, 25 April 1911, lot 391; Tregaskis cat. 706 (1911), no. 17, and cat. 720 (1912), no 36; bought by C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Thomas Phillipps;Coella Lindsay Ricketts,Q2147709;Q116771179
+"Sir Thomas Phillips (1792-1872), part of his MS 22254; bought by Tregaskis at the Phillips sale, Sotheby's, 25 April 1911, lot 391; Tregaskis cat. 706 (1911), no. 17, and cat. 720 (1912), no 36; bought by C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Thomas Phillipps;Coella Lindsay Ricketts,Q7793148;Q116771179
 Sir Thomas Smith,author,,,human,Thomas Smith,Q3525572
 Sir Thomas Wilford,author,,,human,Sir Thomas Wilford,Q76329039
 "Siṭrābī, Yāsīn ibn ʻAbd al-Wahhāb",former owner,سطرابي، ياسين بن عبد الوهاب،,,human,Yāsīn ibn ʻAbd al-Wahhāb al-Siṭrābī,Q116619697
@@ -3845,7 +3843,7 @@ Stefano Tegliacci,author,,,human,Stefan Teglatije,Q64779125
 "Stegmüller, Heinrich",author,,,human,Heinrich Stegmüller,Q1598934
 "Steitz, Georg Eduard, 1810-1879",former owner,,http://id.loc.gov/authorities/names/no2014137364,human,Georg Eduard Steitz,Q17123313
 "Steitz, Georg Eduard, 1810-1879",former owner,,,human,Georg Eduard Steitz,Q17123313
-"St Emmeram, Regensburg, a Benedictine monastery founded in 739 and suppressed in 1802; Sir Thomas Phillips (1792-1872), his MS 6924, bought from the London bookseller Thomas Thorpe, c.1832; Messrs. W.H. Robinson, who bought the residue of the Phillips library in 1945-46; sold by them to George A. Poole in 1947, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,organization;human;human,St. Emmeram;Thomas Phillipps;George Amos Poole,Q19309358;Q2147709;Q64683625
+"St Emmeram, Regensburg, a Benedictine monastery founded in 739 and suppressed in 1802; Sir Thomas Phillips (1792-1872), his MS 6924, bought from the London bookseller Thomas Thorpe, c.1832; Messrs. W.H. Robinson, who bought the residue of the Phillips library in 1945-46; sold by them to George A. Poole in 1947, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,organization;human;human,St. Emmeram;Thomas Phillips;George Amos Poole,Q19309358;Q7793148;Q64683625
 "Stephanus, de Vilars, active twelfth century",associated name,,,human,Stephanus de Vilars,Q120442585
 Stephanus Hugoneti,author,,,human,Stephanus Hugoneti,Q116619871
 Stephanus Marcilleti,author,,,human,Stefano Marcilleti,Q41616923
@@ -4051,7 +4049,7 @@ Uguccione da Pisa,author,,,human,Huguccio,Q4002974
 "Uguccione da Pisa, Bishop of Ferrara d. 1210.",author,,,human,Huguccio,Q4002974
 Uguccioni family,author,,,organization,Uguccioni family,Q116710057
 "Ugurgieri, Perna degli",associated name,,,human,Perna degli Ugurgieri,Q120442588
-Ulpius Portensi,other,,,human,Ulpius Portensi,Q121956709
+Ulpius Portensi,other,,,human,Ulpius Julianus,Q4003092
 Ulrich Richental,author,,,human,Ulrich of Richenthal,Q111865
 "Ungelter, Theodoricus",scribe,,,human,Theodoric Ungelter,Q114242493
 "Università de' mercanti (Florence, Italy)",author,,,organization,Uffizio della mercanzia of Florence,Q116709749
@@ -4213,7 +4211,7 @@ Willem Gilliszoon van Wissekerke (Guilelmus Aegidii de Zelandia),author,,,human,
 "William, of Saint-Thierry, Abbot of Saint-Thierry, approximately 1085-1148?",author,,http://viaf.org/viaf/5724165,human,William of St-Thierry,Q1628129
 William Bagshaw,author,,,human,William Bagshaw,Q8004926
 "William Bragge (1823-1884); his sale, Sotheby’s, 7 June 1876, lot 237, to Quaritch (his cat. 31, June 1876, no. 87); John Ruskin (1819-1900), inscribed by him to Lawrence Hilliard, Brantwood, 25 January 1881; William K. Bixby (1857-1931);",former owner,,,human;human;human;human,William Bragge;John Ruskin;Lawrence Hilliard;William Keeney Bixby,Q15453218;Q179126;Q98594645;Q24900668
-"William Bragge (1823-1884); his sale, Sotheby’s, 7 June 1876, lot 237, to Quaritch (his cat. 31, June 1876, no. 87); John Ruskin (1819-1900), inscribed by him to Lawrence Hilliard, Brantwood, 25 January 1881; William K. Bixby (1857-1931); his sale, Anderson, New York, 29 March 1916, lot 743,",former owner,,,human;organization;human;human,William Bragge;Bernard Quaritch Ltd;John Ruskin;William Keeney Bixby,Q15453218;Q65034936;Q179126;Q24900668
+"William Bragge (1823-1884); his sale, Sotheby’s, 7 June 1876, lot 237, to Quaritch (his cat. 31, June 1876, no. 87); John Ruskin (1819-1900), inscribed by him to Lawrence Hilliard, Brantwood, 25 January 1881; William K. Bixby (1857-1931); his sale, Anderson, New York, 29 March 1916, lot 743,",former owner,,,human;organization;human;human,William Bragge;Bernard Quaritch Ltd;John Ruskin;William Keeney Bixby,Q8020693;Q6255944;Q179126;Q24900668
 William de Brailes,artist,,,human,William de Brailes,Q8020766
 William de Montibus,author,,,human,William de Montibus,Q18535021
 William de Rothwell,author,,,human,William Rothwell,Q115182672
