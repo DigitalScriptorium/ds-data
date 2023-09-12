@@ -2,7 +2,6 @@ material_as_recorded,authorized_label,structured_value
 ?,undetermined,http://vocab.getty.edu/aat/300379012
 "[""""]",undetermined,http://vocab.getty.edu/aat/300379012
 "[""Chancery 2° paper""]",paper,http://vocab.getty.edu/aat/300014109
-"[""fine vellum""]",parchment,http://vocab.getty.edu/aat/300011851
 "[""on cloth""]",cloth,http://vocab.getty.edu/aat/300162391
 "[""paper, charts""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, color, illustrations""]",paper,http://vocab.getty.edu/aat/300014109
@@ -14,10 +13,8 @@ material_as_recorded,authorized_label,structured_value
 "[""paper, illuminations, maps, charts""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, illuminations""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, illustrated""]",paper,http://vocab.getty.edu/aat/300014109
-"[""paper, illustration""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, illustrations, illuminations""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, illustrations, music""]",paper,http://vocab.getty.edu/aat/300014109
-"[""paper, illustrations ; 202 x 142 (135-155 x 67-85) mm. bound to 201 x 138 mm""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, illustrations""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, music""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, orn: initial with crude profile""]",paper,http://vocab.getty.edu/aat/300014109
@@ -25,15 +22,6 @@ material_as_recorded,authorized_label,structured_value
 "[""paper, seals""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, slight pen-work ornament""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper, tables""]",paper,http://vocab.getty.edu/aat/300014109
-"[""paper ; 180 x 135 (123-135 x 86-105) mm""]",paper,http://vocab.getty.edu/aat/300014109
-"[""paper ; 201 x 140 (160 x 95) mm. bound to 202 x 140 mm""]",paper,http://vocab.getty.edu/aat/300014109
-"[""paper ; 205 x 145 (150-160 x 90) mm. bound to 204 x 152 mm""]",paper,http://vocab.getty.edu/aat/300014109
-"[""paper ; 209 x 152 (163 x 115) mm. bound to 207 x 153 mm""]",paper,http://vocab.getty.edu/aat/300014109
-"[""paper ; 210 x 152 (140 x 90) mm. bound to 208 x 160 mm""]",paper,http://vocab.getty.edu/aat/300014109
-"[""paper ; 210 x 154 (150-170 x 92-120) mm bound to 214 x 155 mm""]",paper,http://vocab.getty.edu/aat/300014109
-"[""paper ; 213 x 149 (138 x 60) mm. bound to 210 x 147 mm""]",paper,http://vocab.getty.edu/aat/300014109
-"[""paper ; 216 x 159 (155 x 90) mm. bound to 214 x 167 mm""]",paper,http://vocab.getty.edu/aat/300014109
-"[""paper ; 220 x 162 (195 x 125) mm. bound to 220 x 160 mm""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper.""]",paper,http://vocab.getty.edu/aat/300014109
 "[""Paper""]",paper,http://vocab.getty.edu/aat/300014109
 "[""paper""]",paper,http://vocab.getty.edu/aat/300014109
@@ -80,10 +68,6 @@ material_as_recorded,authorized_label,structured_value
 "[""parchment and paper, color illustrations""]",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109
 "[""parchment and paper, illustrations""]",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109
 "[""parchment and paper""]",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109
-"[""rag paper""]",paper,http://vocab.getty.edu/aat/300014109
-"[""vellulm""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""vellum, ink, manuscript, music""]",parchment,http://vocab.getty.edu/aat/300011851
-"[""vellum""]",parchment,http://vocab.getty.edu/aat/300011851
 "[""wove paper""]",paper,http://vocab.getty.edu/aat/300014109
 [],undetermined,http://vocab.getty.edu/aat/300379012
 Chancery 2° paper;,paper,http://vocab.getty.edu/aat/300014109

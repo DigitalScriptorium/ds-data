@@ -1,8 +1,4 @@
 language_as_recorded,language_code,authorized_label,structured_value
-;ara,;ara,Arabic,Q13955
-;ara;ota,;ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730
-;ara;ota;per,;ara;ota;per,Arabic;Ottoman Turkish;Persian,Q13955;Q36730;Q9168
-;ara;per,;ara;per,Arabic;Persian,Q13955;Q9168
 ;cop,;cop,Coptic,Q36155
 ;dut,;dut,Dutch,Q7411
 ;eng,;eng,English,Q1860
@@ -29,16 +25,13 @@ ara,ara,Arabic,Q13955
 Arabic,,Arabic,Q13955
 Arabic,ara;eng,Arabic,Q13955
 Arabic,ara,Arabic,Q13955
-"Arabic, Persian and Ottoman Turkish",;ara;per;ota,Arabic;Persian;Ottoman Turkish,Q13955;Q9168;Q36730
 "Arabic, with colophon in Arabic and Ottoman Turkish (in Arabic script, f. 8v)",ara,Arabic;Ottoman Turkish,Q13955;Q36730
 "Arabic, with commentary in Ottoman Turkish",ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730
 "Arabic, with some Persian",ara;per,Arabic;Persian,Q13955;Q9168
 Arabic;,,Arabic,Q13955
 Arabic; Persian,,Arabic;Persian,Q13955;Q9168
 Arabic; some notes in Persian,ara;per,Arabic;Persian,Q13955;Q9168
-Arabic and Ottoman Turkish,;ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730
 Arabic and Persian,ara;per,Arabic;Persian,Q13955;Q9168
-Arabic and Turkish,;ara;ota,Arabic;Turkish,Q13955;Q256
 "Arabic headwords, Ottoman definitions",ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730
 Arabic text with Persian marginalia,ara;per,Arabic;Persian,Q13955;Q9168
 Arabic with 13 pages in Ottoman Turkish,ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730
@@ -168,11 +161,6 @@ Hebrew and Aramaic.,,Hebrew;Aramaic,Q9288;Q28602
 Hebrew and Latin,heb;lat,Hebrew;Latin,Q9288;Q397
 ice,ice,Icelandic,Q294
 Icelandic,,Icelandic,Q294
-In Arabic,,Arabic,Q13955
-In Arabic,ara,Arabic,Q13955
-"In Arabic, Persian, Ottoman Turkish, and Greek",;ara;per;gre;ota,Arabic;Persian;Ottoman Turkish;Greek,Q13955;Q9168;Q36730;Q9129
-"In Arabic, some notes in Persian",;ara;per,Arabic;Persian,Q13955;Q9168
-In Arabic with some fawāʼid in Persian,;ara;per,Arabic;Persian,Q13955;Q9168
 In Catalan,cat,Catalan,Q7026
 "In Coptic, with a few marginal notations of later date in Arabic and German",cop;ara;ger,Coptic;Arabic;German,Q36155;Q13955;Q188
 In Danish,dan,Danish,Q9035
@@ -188,7 +176,6 @@ In German,ger,German,Q188
 "In German, with Latin phrase",ger;lat,German;Latin,Q188;Q397
 In Greek,grc,Greek,Q9129
 In Hebrew,heb,Hebrew,Q9288
-In Hebrew with Aramaic translation,heb;arc,Hebrew;Aramaic,Q9288;Q28602
 In Icelandic,ice,Icelandic,Q294
 In Italian,ita,Italian,Q652
 "In Italian, Latin, and Spanish",ita;lat;spa,Italian;Latin;Spanish,Q652;Q397;Q1321
@@ -224,7 +211,6 @@ In Latin (highly abbreviated),lat,Latin,Q397
 In Latin and Italian,lat;ita,Latin;Italian,Q397;Q652
 In Latin and Middle French,lat;frm,Latin;Middle French,Q397;Q1473289
 In Latin with extensive rubrics in German,lat;ger,Latin;German,Q397;Q188
-In Middle Dutch,dut,Middle Dutch,Q178806
 In Middle English,enm,Middle English,Q36395
 In Middle English and Latin,;enm;lat,Middle English;Latin,Q36395;Q397
 In Middle English and Latin.,,Middle English;Latin,Q36395;Q397
@@ -492,7 +478,6 @@ Middle English,eng;enm,Middle English,Q36395
 "Middle English, with some Latin notations",enm,Middle English;Latin,Q36395;Q397
 Middle English; Latin,,Middle English;Latin,Q36395;Q397
 Middle English; Latin; French,,Middle English;Latin;French,Q36395;Q397;Q150
-Middle English; prefatory matter in Latin,;enm;lat,Middle English;Latin,Q36395;Q397
 Middle English; some works in Latin,enm;lat,Middle English;Latin,Q36395;Q397
 Middle English.,,Middle English,Q36395
 Middle English and Latin,enm;lat,Middle English;Latin,Q36395;Q397
@@ -601,10 +586,6 @@ Text in Middle English and Latin.,,Middle English;Latin,Q36395;Q397
 Text in Old French,fro,Old French,Q35222
 Text in Yucatec with some Spanish,;myn;spa,Yucatec Maya;Spanish,Q13354;Q1321
 Text in Yucatec with some Spanish.,,Yucatec Maya;Spanish,Q13354;Q1321
-Translated from the Persian,;ara,Persian,Q9168
-Turkish in Arabic script,;ota,Turkish;Arabic,Q256;Q13955
-Turkish in Arabic script,,Turkish;Arabic,Q256;Q13955
-"Turkish in Arabic script, Persian and Arabic",;ota;per;ara,Turkish;Arabic;Persian;Arabic,Q256;Q13955;Q9168;Q13955
 und,und,undetermined language,Q22282914
 und;eng,und;eng,undetermined language;English,Q22282914;Q1860
 Unidentified Cipher,,undetermined language,Q22282914
