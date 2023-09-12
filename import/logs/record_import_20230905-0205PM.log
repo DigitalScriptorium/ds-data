@@ -1,0 +1,1060 @@
+bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2023-09-05 14:05:37,821 - ds.auth_cache - INFO - Reading authority for Standard Title (Q6)
+2023-09-05 14:05:39,570 - ds.auth_cache - INFO - Reading authority for Personal (Name Authority) (Q8)
+2023-09-05 14:05:41,702 - ds.auth_cache - INFO - Reading authority for Corporate (Name Authority) (Q9)
+2023-09-05 14:05:42,550 - ds.auth_cache - INFO - Reading authority for Role (Authority File) (Q10)
+2023-09-05 14:05:43,202 - ds.auth_cache - INFO - Reading authority for Term (Authority File) (Q11)
+2023-09-05 14:05:45,463 - ds.auth_cache - INFO - Reading authority for Language (Authority File) (Q12)
+2023-09-05 14:05:46,186 - ds.auth_cache - INFO - Reading authority for Century (Authority File) (Q13)
+2023-09-05 14:05:46,936 - ds.auth_cache - INFO - Reading authority for Place (Authority File) (Q16)
+2023-09-05 14:05:47,773 - ds.auth_cache - INFO - Reading authority for Material (Authority File) (Q17)
+2023-09-05 14:05:48,430 - ds.auth_cache - INFO - Reading authority for Standard Title (Q6)
+2023-09-05 14:05:49,779 - __main__ - INFO - Data import initialized for data/ds-data/member-data/kansas/2023-08-14/kansas-import-2023-09-01.csv.
+2023-09-05 14:05:50,140 - ds.dsimport_reader - INFO - Done reading 238 manuscripts from CSV
+2023-09-05 14:05:50,140 - __main__ - INFO - Completed reading input file data/ds-data/member-data/kansas/2023-08-14/kansas-import-2023-09-01.csv.
+2023-09-05 14:05:50,790 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C25'], ['2616666'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2616666']
+2023-09-05 14:05:54,547 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6164)
+2023-09-05 14:05:56,787 - ds.dsimport - INFO - Using existing DS ID DS1102 given for manuscript
+2023-09-05 14:05:57,136 - ds.dsimport - INFO - Updated existing DS 2.0 record Psalterium abreviatum et varii tractatus. (Q6166)
+2023-09-05 14:05:57,781 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS B15'], ['2954523'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2954523']
+2023-09-05 14:05:58,412 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6167)
+2023-09-05 14:06:00,677 - ds.dsimport - INFO - Using existing DS ID DS1103 given for manuscript
+2023-09-05 14:06:01,112 - ds.dsimport - INFO - Updated existing DS 2.0 record Ordinatio totius officii divini secundum usum monasterii Beatae Mariae de Balgentiaco. (Q6169)
+2023-09-05 14:06:01,763 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS A10'], ['2954526'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2954526']
+2023-09-05 14:06:02,510 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6170)
+2023-09-05 14:06:03,453 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00600', 'label': 'Wooden bindings', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:06:03,453 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00600', 'label': 'Wooden bindings', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:06:04,889 - ds.dsimport - INFO - Using existing DS ID DS1104 given for manuscript
+2023-09-05 14:06:05,598 - ds.dsimport - INFO - Updated existing DS 2.0 record Book of hours, (Q6172)
+2023-09-05 14:06:06,246 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS A28'], ['2954833'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2954833']
+2023-09-05 14:06:06,908 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6173)
+2023-09-05 14:06:08,918 - ds.dsimport - INFO - Using existing DS ID DS1105 given for manuscript
+2023-09-05 14:06:09,326 - ds.dsimport - INFO - Updated existing DS 2.0 record Leaf from a book of hours, calendar for November (Q6175)
+2023-09-05 14:06:09,974 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS A6'], ['2954834'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2954834']
+2023-09-05 14:06:10,606 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6176)
+2023-09-05 14:06:11,530 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv01764', 'label': 'Printed waste', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:06:11,530 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv01764', 'label': 'Printed waste', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:06:12,911 - ds.dsimport - INFO - Using existing DS ID DS1106 given for manuscript
+2023-09-05 14:06:13,593 - ds.dsimport - INFO - Updated existing DS 2.0 record Book of hours, (Q6178)
+2023-09-05 14:06:14,238 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E91'], ['2954836'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2954836']
+2023-09-05 14:06:14,853 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6179)
+2023-09-05 14:06:16,884 - ds.dsimport - INFO - Using existing DS ID DS1107 given for manuscript
+2023-09-05 14:06:17,512 - ds.dsimport - INFO - Updated existing DS 2.0 record Priorista fiorentino dal 1282-1466. (Q6181)
+2023-09-05 14:06:18,157 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E69'], ['2954842'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2954842']
+2023-09-05 14:06:18,824 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6182)
+2023-09-05 14:06:20,799 - ds.dsimport - INFO - Using existing DS ID DS1108 given for manuscript
+2023-09-05 14:06:21,416 - ds.dsimport - INFO - Updated existing DS 2.0 record Le anime de quelli defuncti liquali āno facti relicti alla Venerabile cōpagnia del Confalone de Roma (Q6184)
+2023-09-05 14:06:22,055 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS A17'], ['2955124'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2955124']
+2023-09-05 14:06:22,808 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6185)
+2023-09-05 14:06:23,797 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1423792', 'label': 'Quotations', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:06:23,798 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1423792', 'label': 'Quotations', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:06:25,126 - ds.dsimport - INFO - Using existing DS ID DS1109 given for manuscript
+2023-09-05 14:06:25,811 - ds.dsimport - INFO - Updated existing DS 2.0 record Collections of excerpts, including Liber scintillarum by Defensor of Ligugé (Q6187)
+2023-09-05 14:06:26,454 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS A7'], ['2955129'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2955129']
+2023-09-05 14:06:27,229 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6188)
+2023-09-05 14:06:30,429 - ds.dsimport - INFO - Using existing DS ID DS1110 given for manuscript
+2023-09-05 14:06:30,925 - ds.dsimport - INFO - Updated existing DS 2.0 record Prediche sul nome di Gesu / (Q6190)
+2023-09-05 14:06:31,569 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS A20'], ['2955133'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2955133']
+2023-09-05 14:06:32,386 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6191)
+2023-09-05 14:06:34,335 - ds.dsimport - INFO - Using existing DS ID DS1111 given for manuscript
+2023-09-05 14:06:34,793 - ds.dsimport - INFO - Updated existing DS 2.0 record Instructions on how to use a breviary (Q6193)
+2023-09-05 14:06:35,440 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS A18'], ['2955140'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2955140']
+2023-09-05 14:06:36,313 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6194)
+2023-09-05 14:06:37,407 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00600', 'label': 'Wooden bindings', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:06:37,407 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00600', 'label': 'Wooden bindings', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:06:38,746 - ds.dsimport - INFO - Using existing DS ID DS1112 given for manuscript
+2023-09-05 14:06:39,247 - ds.dsimport - INFO - Updated existing DS 2.0 record La reigle et status des monasteres de vierges de lordre Sainct Benoist reformees au diocese de Paris / (Q6196)
+2023-09-05 14:06:39,898 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS A30'], ['2955142'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2955142']
+2023-09-05 14:06:40,613 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6197)
+2023-09-05 14:06:42,718 - ds.dsimport - INFO - Using existing DS ID DS1113 given for manuscript
+2023-09-05 14:06:43,129 - ds.dsimport - INFO - Updated existing DS 2.0 record Exercise book on Latin grammar and arithmetic (Q6199)
+2023-09-05 14:06:43,778 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS A35'], ['2955145'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2955145']
+2023-09-05 14:06:44,417 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6200)
+2023-09-05 14:06:46,402 - ds.dsimport - INFO - Using existing DS ID DS1114 given for manuscript
+2023-09-05 14:06:46,833 - ds.dsimport - INFO - Updated existing DS 2.0 record La regola de frati minori in volgare and other Italian religious works, including the Laudi of Jacopone da Todi. (Q6202)
+2023-09-05 14:06:47,476 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS A15'], ['2955275'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2955275']
+2023-09-05 14:06:48,115 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6203)
+2023-09-05 14:06:50,075 - ds.dsimport - INFO - Using existing DS ID DS1115 given for manuscript
+2023-09-05 14:06:50,601 - ds.dsimport - INFO - Updated existing DS 2.0 record Trattato de'sette vitii capitali cioè de peccati mortali. (Q6205)
+2023-09-05 14:06:51,245 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS A19'], ['2955284'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2955284']
+2023-09-05 14:06:51,912 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6206)
+2023-09-05 14:06:52,933 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1423792', 'label': 'Quotations', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:06:52,933 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1423792', 'label': 'Quotations', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:06:55,190 - ds.dsimport - INFO - Using existing DS ID DS1116 given for manuscript
+2023-09-05 14:06:55,630 - ds.dsimport - INFO - Updated existing DS 2.0 record Liber scintillarum, De virtutibus et vitiis, and other collections of excerpts and religious tracts / (Q6208)
+2023-09-05 14:06:56,280 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS B17'], ['2955434'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2955434']
+2023-09-05 14:06:56,942 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6209)
+2023-09-05 14:06:57,929 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00226', 'label': 'Provenance labels', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:06:57,929 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00226', 'label': 'Provenance labels', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:06:59,259 - ds.dsimport - INFO - Using existing DS ID DS1117 given for manuscript
+2023-09-05 14:06:59,856 - ds.dsimport - INFO - Updated existing DS 2.0 record Hagiographical accounts of Saint Vitus, Saint Modestus and Saint Crescentia (Q6211)
+2023-09-05 14:07:00,507 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS B19'], ['2955435'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2955435']
+2023-09-05 14:07:01,205 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6212)
+2023-09-05 14:07:03,134 - ds.dsimport - INFO - Using existing DS ID DS1118 given for manuscript
+2023-09-05 14:07:03,727 - ds.dsimport - INFO - Updated existing DS 2.0 record Laudes, sermones, miracula, exempla, etc. de Beata Maria Virgine. (Q6214)
+2023-09-05 14:07:04,372 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS B20'], ['2955436'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2955436']
+2023-09-05 14:07:05,188 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6215)
+2023-09-05 14:07:07,251 - ds.dsimport - INFO - Using existing DS ID DS1119 given for manuscript
+2023-09-05 14:07:07,610 - ds.dsimport - INFO - Updated existing DS 2.0 record Vita del beato S. Giovanni Battista Libro della stultizia ovvero della spirituale battaglia. (Q6217)
+2023-09-05 14:07:08,256 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS B21'], ['2955437'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2955437']
+2023-09-05 14:07:08,909 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6218)
+2023-09-05 14:07:10,915 - ds.dsimport - INFO - Using existing DS ID DS1120 given for manuscript
+2023-09-05 14:07:11,348 - ds.dsimport - INFO - Updated existing DS 2.0 record Itinerary, Naples-Paris-Sermoneta (Q6220)
+2023-09-05 14:07:11,992 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS B45'], ['2955452'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2955452']
+2023-09-05 14:07:12,631 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6221)
+2023-09-05 14:07:14,772 - ds.dsimport - INFO - Using existing DS ID DS1121 given for manuscript
+2023-09-05 14:07:15,109 - ds.dsimport - INFO - Updated existing DS 2.0 record Observationes in regularum ordinis Sancti Dominici. (Q6223)
+2023-09-05 14:07:15,758 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS B44'], ['2955470'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2955470']
+2023-09-05 14:07:16,419 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6224)
+2023-09-05 14:07:18,499 - ds.dsimport - INFO - Using existing DS ID DS1122 given for manuscript
+2023-09-05 14:07:18,814 - ds.dsimport - INFO - Updated existing DS 2.0 record Sermones quadragesimales. (Q6226)
+2023-09-05 14:07:19,455 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS B61'], ['2955481'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2955481']
+2023-09-05 14:07:20,120 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6227)
+2023-09-05 14:07:22,822 - ds.dsimport - INFO - Using existing DS ID DS1123 given for manuscript
+2023-09-05 14:07:23,238 - ds.dsimport - INFO - Updated existing DS 2.0 record Registrum brevium and other legal texts, (Q6229)
+2023-09-05 14:07:23,892 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS J4:1'], ['2955964'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2955964']
+2023-09-05 14:07:24,530 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6230)
+2023-09-05 14:07:26,606 - ds.dsimport - INFO - Using existing DS ID DS1124 given for manuscript
+2023-09-05 14:07:26,934 - ds.dsimport - INFO - Updated existing DS 2.0 record Antiphonari (Q6232)
+2023-09-05 14:07:27,581 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS J5:1'], ['2955965'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2955965']
+2023-09-05 14:07:28,220 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6233)
+2023-09-05 14:07:30,275 - ds.dsimport - INFO - Using existing DS ID DS1125 given for manuscript
+2023-09-05 14:07:30,695 - ds.dsimport - INFO - Updated existing DS 2.0 record Antiphonary. (Q6235)
+2023-09-05 14:07:31,342 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS J6:3:A5'], ['2955967'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2955967']
+2023-09-05 14:07:32,006 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6236)
+2023-09-05 14:07:33,936 - ds.dsimport - INFO - Using existing DS ID DS1126 given for manuscript
+2023-09-05 14:07:34,351 - ds.dsimport - INFO - Updated existing DS 2.0 record Leaf containing the first Sunday after Pentecost. (Q6238)
+2023-09-05 14:07:34,996 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS J6:1:1'], ['2955968'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2955968']
+2023-09-05 14:07:35,707 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6239)
+2023-09-05 14:07:37,718 - ds.dsimport - INFO - Using existing DS ID DS1127 given for manuscript
+2023-09-05 14:07:38,154 - ds.dsimport - INFO - Updated existing DS 2.0 record Leaf from large choir-book beginning "Jubilate Deo". (Q6241)
+2023-09-05 14:07:38,807 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS B110'], ['2956178'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2956178']
+2023-09-05 14:07:39,459 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6242)
+2023-09-05 14:07:42,823 - ds.dsimport - INFO - Using existing DS ID DS1128 given for manuscript
+2023-09-05 14:07:43,227 - ds.dsimport - INFO - Updated existing DS 2.0 record Sermones et miscellanea. (Q6244)
+2023-09-05 14:07:43,866 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS B63'], ['2956193'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2956193']
+2023-09-05 14:07:44,513 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6245)
+2023-09-05 14:07:46,499 - ds.dsimport - INFO - Using existing DS ID DS1129 given for manuscript
+2023-09-05 14:07:46,851 - ds.dsimport - INFO - Updated existing DS 2.0 record Sermones de vitiis et de penitentia. (Q6247)
+2023-09-05 14:07:47,499 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS B74'], ['2956199'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2956199']
+2023-09-05 14:07:48,333 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6248)
+2023-09-05 14:07:50,394 - ds.dsimport - INFO - Using existing DS ID DS1130 given for manuscript
+2023-09-05 14:07:50,727 - ds.dsimport - INFO - Updated existing DS 2.0 record Spirto gentil magnanimo et sublime ... (Q6250)
+2023-09-05 14:07:51,372 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS B92'], ['2956227'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2956227']
+2023-09-05 14:07:52,024 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6251)
+2023-09-05 14:07:53,006 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00665', 'label': 'Raised bands', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:07:53,006 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00665', 'label': 'Raised bands', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:07:54,462 - ds.dsimport - INFO - Using existing DS ID DS1131 given for manuscript
+2023-09-05 14:07:54,929 - ds.dsimport - INFO - Updated existing DS 2.0 record Compendium theologicae veritatis / (Q6253)
+2023-09-05 14:07:55,577 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E263'], ['2956353'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2956353']
+2023-09-05 14:07:56,235 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6254)
+2023-09-05 14:07:57,210 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00600', 'label': 'Wooden bindings', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:07:57,210 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00600', 'label': 'Wooden bindings', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:07:58,538 - ds.dsimport - INFO - Using existing DS ID DS1132 given for manuscript
+2023-09-05 14:07:59,101 - ds.dsimport - INFO - Updated existing DS 2.0 record Super Matheum cum tabula in fine / (Q6256)
+2023-09-05 14:07:59,746 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS G18'], ['2956366'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2956366']
+2023-09-05 14:08:00,416 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6257)
+2023-09-05 14:08:02,341 - ds.dsimport - INFO - Using existing DS ID DS1133 given for manuscript
+2023-09-05 14:08:02,658 - ds.dsimport - INFO - Updated existing DS 2.0 record Quaestionum canonisticarum collectio Aragonensis. (Q6259)
+2023-09-05 14:08:03,303 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS G50'], ['2956368'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2956368']
+2023-09-05 14:08:04,024 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6260)
+2023-09-05 14:08:06,201 - ds.dsimport - INFO - Using existing DS ID DS1134 given for manuscript
+2023-09-05 14:08:06,626 - ds.dsimport - INFO - Updated existing DS 2.0 record Steinhardt Antiphonary. (Q6262)
+2023-09-05 14:08:07,281 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C91'], ['2956536'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2956536']
+2023-09-05 14:08:07,937 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6263)
+2023-09-05 14:08:09,047 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00226', 'label': 'Provenance labels', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:08:09,047 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00226', 'label': 'Provenance labels', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:08:10,378 - ds.dsimport - INFO - Using existing DS ID DS1135 given for manuscript
+2023-09-05 14:08:10,847 - ds.dsimport - INFO - Updated existing DS 2.0 record Homilies on the Gospels by St Gregory the Great and commentaries on the passion of Christ by Herman Appeldorn (Q6265)
+2023-09-05 14:08:11,492 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C92'], ['2956537'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2956537']
+2023-09-05 14:08:12,114 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6266)
+2023-09-05 14:08:14,037 - ds.dsimport - INFO - Using existing DS ID DS1136 given for manuscript
+2023-09-05 14:08:14,433 - ds.dsimport - INFO - Updated existing DS 2.0 record Leaf from Kalendar for September-October. (Q6268)
+2023-09-05 14:08:15,084 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C105'], ['2956553'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2956553']
+2023-09-05 14:08:15,945 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6269)
+2023-09-05 14:08:17,920 - ds.dsimport - INFO - Using existing DS ID DS1137 given for manuscript
+2023-09-05 14:08:18,340 - ds.dsimport - INFO - Updated existing DS 2.0 record Book of the Gospels, incomplete (Q6271)
+2023-09-05 14:08:18,984 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E58'], ['2956666'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2956666']
+2023-09-05 14:08:19,728 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6272)
+2023-09-05 14:08:22,441 - ds.dsimport - INFO - Using existing DS ID DS1138 given for manuscript
+2023-09-05 14:08:22,752 - ds.dsimport - INFO - Updated existing DS 2.0 record Compendium sensus litteralis totius Sacrae Scripturae. (Q6274)
+2023-09-05 14:08:23,397 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C24'], ['2956687'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2956687']
+2023-09-05 14:08:24,010 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6275)
+2023-09-05 14:08:25,993 - ds.dsimport - INFO - Using existing DS ID DS1139 given for manuscript
+2023-09-05 14:08:26,624 - ds.dsimport - INFO - Updated existing DS 2.0 record A collection of Italian lyric poetry; primarily Petrarch's Canzoniere. (Q6277)
+2023-09-05 14:08:27,271 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C26'], ['2956696'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2956696']
+2023-09-05 14:08:27,920 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6278)
+2023-09-05 14:08:29,905 - ds.dsimport - INFO - Using existing DS ID DS1140 given for manuscript
+2023-09-05 14:08:30,331 - ds.dsimport - INFO - Updated existing DS 2.0 record De resuscitatione Christi (Q6280)
+2023-09-05 14:08:30,975 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C27'], ['2958440'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2958440']
+2023-09-05 14:08:31,622 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6281)
+2023-09-05 14:08:33,680 - ds.dsimport - INFO - Using existing DS ID DS1141 given for manuscript
+2023-09-05 14:08:34,022 - ds.dsimport - INFO - Updated existing DS 2.0 record Villacucca cartulary. (Q6283)
+2023-09-05 14:08:34,671 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS A16'], ['2958458'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2958458']
+2023-09-05 14:08:35,400 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6284)
+2023-09-05 14:08:37,578 - ds.dsimport - INFO - Using existing DS ID DS1142 given for manuscript
+2023-09-05 14:08:38,065 - ds.dsimport - INFO - Updated existing DS 2.0 record Book of hours, (Q6286)
+2023-09-05 14:08:38,716 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C198'], ['2959511'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959511']
+2023-09-05 14:08:39,420 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6287)
+2023-09-05 14:08:41,390 - ds.dsimport - INFO - Using existing DS ID DS1143 given for manuscript
+2023-09-05 14:08:41,813 - ds.dsimport - INFO - Updated existing DS 2.0 record Compendium moralitatum ; Abiciendum est peccatum quia nidus est dyaboli / (Q6289)
+2023-09-05 14:08:42,460 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C196'], ['2959513'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959513']
+2023-09-05 14:08:43,303 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6290)
+2023-09-05 14:08:45,325 - ds.dsimport - INFO - Using existing DS ID DS1144 given for manuscript
+2023-09-05 14:08:45,648 - ds.dsimport - INFO - Updated existing DS 2.0 record List of salutations (Q6292)
+2023-09-05 14:08:46,295 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C195'], ['2959516'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959516']
+2023-09-05 14:08:46,929 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6293)
+2023-09-05 14:08:49,800 - ds.dsimport - INFO - Using existing DS ID DS1145 given for manuscript
+2023-09-05 14:08:50,252 - ds.dsimport - INFO - Updated existing DS 2.0 record Librum aurore / (Q6295)
+2023-09-05 14:08:50,894 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C46'], ['2959519'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959519']
+2023-09-05 14:08:51,537 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6296)
+2023-09-05 14:08:53,497 - ds.dsimport - INFO - Using existing DS ID DS1146 given for manuscript
+2023-09-05 14:08:53,929 - ds.dsimport - INFO - Updated existing DS 2.0 record Two treatises on the nobility by Werner Rolevinck and Jean Gerson, and selected passages from Poggio Bracciolini's Invectivae (Q6298)
+2023-09-05 14:08:54,581 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C49'], ['2959522'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959522']
+2023-09-05 14:08:55,228 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6299)
+2023-09-05 14:08:57,211 - ds.dsimport - INFO - Using existing DS ID DS1147 given for manuscript
+2023-09-05 14:08:57,624 - ds.dsimport - INFO - Updated existing DS 2.0 record Sententiae / (Q6301)
+2023-09-05 14:08:58,268 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C54'], ['2959526'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959526']
+2023-09-05 14:08:59,034 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6302)
+2023-09-05 14:09:00,037 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00600', 'label': 'Wooden bindings', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:09:00,038 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00600', 'label': 'Wooden bindings', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:09:00,367 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00226', 'label': 'Provenance labels', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:09:00,367 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00226', 'label': 'Provenance labels', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:09:01,687 - ds.dsimport - INFO - Using existing DS ID DS1148 given for manuscript
+2023-09-05 14:09:02,254 - ds.dsimport - INFO - Updated existing DS 2.0 record Liber beati Ysidori episcopi qui appelatur sumum bonum (Q6304)
+2023-09-05 14:09:02,901 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C56'], ['2959528'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959528']
+2023-09-05 14:09:03,531 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6305)
+2023-09-05 14:09:05,506 - ds.dsimport - INFO - Using existing DS ID DS1149 given for manuscript
+2023-09-05 14:09:05,819 - ds.dsimport - INFO - Updated existing DS 2.0 record Medical recipes, (Q6307)
+2023-09-05 14:09:06,470 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C57'], ['2959530'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959530']
+2023-09-05 14:09:07,131 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6308)
+2023-09-05 14:09:09,109 - ds.dsimport - INFO - Using existing DS ID DS1150 given for manuscript
+2023-09-05 14:09:09,538 - ds.dsimport - INFO - Updated existing DS 2.0 record Libro dil transito e de li dignissimi miracoli del glorioso e excelente doctore Misser Sancto Jeronimo. (Q6310)
+2023-09-05 14:09:10,192 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C58'], ['2959531'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959531']
+2023-09-05 14:09:10,937 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6311)
+2023-09-05 14:09:12,981 - ds.dsimport - INFO - Using existing DS ID DS1151 given for manuscript
+2023-09-05 14:09:13,407 - ds.dsimport - INFO - Updated existing DS 2.0 record Epistola beati Eusebii discipuli ... de morte gloriosissimi Jheronimi doctoris eximii. (Q6313)
+2023-09-05 14:09:14,051 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C61'], ['2959535'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959535']
+2023-09-05 14:09:14,720 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6314)
+2023-09-05 14:09:15,656 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://w3id.org/lob/concept/5640', 'label': 'témoin', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:09:15,657 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://w3id.org/lob/concept/5640', 'label': 'témoin', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:09:15,985 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/811449', 'label': 'Apologetics', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:09:15,985 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/811449', 'label': 'Apologetics', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:09:17,294 - ds.dsimport - INFO - Using existing DS ID DS1152 given for manuscript
+2023-09-05 14:09:17,755 - ds.dsimport - INFO - Updated existing DS 2.0 record Divinae institutiones, incomplete / (Q6316)
+2023-09-05 14:09:18,406 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C62'], ['2959536'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959536']
+2023-09-05 14:09:19,017 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6317)
+2023-09-05 14:09:20,949 - ds.dsimport - INFO - Using existing DS ID DS1153 given for manuscript
+2023-09-05 14:09:21,433 - ds.dsimport - INFO - Updated existing DS 2.0 record Tractatus super Cantica Canticorum. Expositio super Psalumum XXVIII (Q6319)
+2023-09-05 14:09:22,078 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C64'], ['2959538'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959538']
+2023-09-05 14:09:22,720 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6320)
+2023-09-05 14:09:23,688 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00600', 'label': 'Wooden bindings', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:09:23,688 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00600', 'label': 'Wooden bindings', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:09:24,015 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00226', 'label': 'Provenance labels', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:09:24,015 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00226', 'label': 'Provenance labels', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:09:25,471 - ds.dsimport - INFO - Using existing DS ID DS1154 given for manuscript
+2023-09-05 14:09:25,947 - ds.dsimport - INFO - Updated existing DS 2.0 record Dieta salutis (Q6322)
+2023-09-05 14:09:26,590 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C65'], ['2959539'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959539']
+2023-09-05 14:09:27,221 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6323)
+2023-09-05 14:09:36,071 - ds.dsimport - INFO - Using existing DS ID DS1155 given for manuscript
+2023-09-05 14:09:36,555 - ds.dsimport - INFO - Updated existing DS 2.0 record Collection of religious and theological treatises (Q6325)
+2023-09-05 14:09:37,197 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C66'], ['2959543'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959543']
+2023-09-05 14:09:37,935 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6326)
+2023-09-05 14:09:42,080 - ds.dsimport - INFO - Using existing DS ID DS1156 given for manuscript
+2023-09-05 14:09:42,546 - ds.dsimport - INFO - Updated existing DS 2.0 record La mistica theolozia dellamore divino (Q6328)
+2023-09-05 14:09:43,193 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C67'], ['2959544'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959544']
+2023-09-05 14:09:44,040 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6329)
+2023-09-05 14:09:46,045 - ds.dsimport - INFO - Using existing DS ID DS1157 given for manuscript
+2023-09-05 14:09:46,403 - ds.dsimport - INFO - Updated existing DS 2.0 record Von Warsagen auss vil puechern in Kurtz begriffen (Q6331)
+2023-09-05 14:09:47,053 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C68'], ['2959547'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959547']
+2023-09-05 14:09:47,712 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6332)
+2023-09-05 14:09:48,747 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00449', 'label': 'Brocade bindings', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:09:48,747 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00449', 'label': 'Brocade bindings', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:09:49,077 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1159810', 'label': 'Twentieth century', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:09:49,077 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1159810', 'label': 'Twentieth century', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:09:49,408 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/891415', 'label': 'Despotism', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:09:49,408 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/891415', 'label': 'Despotism', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:09:50,721 - ds.dsimport - INFO - Using existing DS ID DS1158 given for manuscript
+2023-09-05 14:09:51,193 - ds.dsimport - INFO - Updated existing DS 2.0 record De vita tirannica / (Q6334)
+2023-09-05 14:09:51,837 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C69'], ['2959548'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959548']
+2023-09-05 14:09:52,541 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6335)
+2023-09-05 14:09:54,497 - ds.dsimport - INFO - Using existing DS ID DS1159 given for manuscript
+2023-09-05 14:09:54,840 - ds.dsimport - INFO - Updated existing DS 2.0 record Commentarium Biblicum, (Q6337)
+2023-09-05 14:09:55,485 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C70'], ['2959549'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959549']
+2023-09-05 14:09:56,243 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6338)
+2023-09-05 14:09:58,207 - ds.dsimport - INFO - Using existing DS ID DS1160 given for manuscript
+2023-09-05 14:09:58,627 - ds.dsimport - INFO - Updated existing DS 2.0 record Quid sit annus solaris (Q6340)
+2023-09-05 14:09:59,274 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C71'], ['2959550'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959550']
+2023-09-05 14:09:59,925 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6341)
+2023-09-05 14:10:02,011 - ds.dsimport - INFO - Using existing DS ID DS1161 given for manuscript
+2023-09-05 14:10:02,497 - ds.dsimport - INFO - Updated existing DS 2.0 record Barzizza and other works (Q6343)
+2023-09-05 14:10:03,143 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C82'], ['2959588'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959588']
+2023-09-05 14:10:03,797 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6344)
+2023-09-05 14:10:05,727 - ds.dsimport - INFO - Using existing DS ID DS1162 given for manuscript
+2023-09-05 14:10:06,152 - ds.dsimport - INFO - Updated existing DS 2.0 record Sermones. (Q6346)
+2023-09-05 14:10:06,797 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C90'], ['2959601'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959601']
+2023-09-05 14:10:07,531 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6347)
+2023-09-05 14:10:09,496 - ds.dsimport - INFO - Using existing DS ID DS1163 given for manuscript
+2023-09-05 14:10:09,929 - ds.dsimport - INFO - Updated existing DS 2.0 record Del risco cioe iÌƒmensa letitia de la gloriosa nostra donÌƒa: alma verzene Maria. ComaÌƒdameÌƒte X versified. Articoli ... de la fide versified. (Q6349)
+2023-09-05 14:10:10,578 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C126'], ['2959603'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959603']
+2023-09-05 14:10:11,244 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6350)
+2023-09-05 14:10:14,088 - ds.dsimport - INFO - Using existing DS ID DS1164 given for manuscript
+2023-09-05 14:10:14,539 - ds.dsimport - INFO - Updated existing DS 2.0 record Latin treatises on religious matters. (Q6352)
+2023-09-05 14:10:15,184 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C131'], ['2959848'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959848']
+2023-09-05 14:10:15,896 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6353)
+2023-09-05 14:10:17,804 - ds.dsimport - INFO - Using existing DS ID DS1165 given for manuscript
+2023-09-05 14:10:18,244 - ds.dsimport - INFO - Updated existing DS 2.0 record Regula, with Latin commentary. (Q6355)
+2023-09-05 14:10:18,882 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C143'], ['2959860'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959860']
+2023-09-05 14:10:19,629 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6356)
+2023-09-05 14:10:21,591 - ds.dsimport - INFO - Using existing DS ID DS1166 given for manuscript
+2023-09-05 14:10:22,045 - ds.dsimport - INFO - Updated existing DS 2.0 record Collection of religious and theological treatises / (Q6358)
+2023-09-05 14:10:22,688 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C145'], ['2959862'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959862']
+2023-09-05 14:10:23,324 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6359)
+2023-09-05 14:10:25,393 - ds.dsimport - INFO - Using existing DS ID DS1167 given for manuscript
+2023-09-05 14:10:26,042 - ds.dsimport - INFO - Updated existing DS 2.0 record Sermoni alli soi frati heremitani (Q6361)
+2023-09-05 14:10:26,687 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C147'], ['2959864'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959864']
+2023-09-05 14:10:27,402 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6362)
+2023-09-05 14:10:29,339 - ds.dsimport - INFO - Using existing DS ID DS1168 given for manuscript
+2023-09-05 14:10:29,729 - ds.dsimport - INFO - Updated existing DS 2.0 record Decretals and other fragments / (Q6364)
+2023-09-05 14:10:30,374 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C158'], ['2959873'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959873']
+2023-09-05 14:10:31,119 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6365)
+2023-09-05 14:10:33,042 - ds.dsimport - INFO - Using existing DS ID DS1169 given for manuscript
+2023-09-05 14:10:33,408 - ds.dsimport - INFO - Updated existing DS 2.0 record A collection of mediaeval devotional works in Italian (Q6367)
+2023-09-05 14:10:34,049 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C160'], ['2959876'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959876']
+2023-09-05 14:10:34,711 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6368)
+2023-09-05 14:10:36,758 - ds.dsimport - INFO - Using existing DS ID DS1170 given for manuscript
+2023-09-05 14:10:37,330 - ds.dsimport - INFO - Updated existing DS 2.0 record Quadragesimale Rothimata / (Q6370)
+2023-09-05 14:10:37,978 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C164'], ['2959879'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959879']
+2023-09-05 14:10:38,641 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6371)
+2023-09-05 14:10:40,686 - ds.dsimport - INFO - Using existing DS ID DS1171 given for manuscript
+2023-09-05 14:10:41,228 - ds.dsimport - INFO - Updated existing DS 2.0 record Malogranatus and other texts. (Q6373)
+2023-09-05 14:10:41,875 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C277'], ['2959962'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959962']
+2023-09-05 14:10:42,733 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6374)
+2023-09-05 14:10:50,224 - ds.dsimport - INFO - Using existing DS ID DS1172 given for manuscript
+2023-09-05 14:10:50,713 - ds.dsimport - INFO - Updated existing DS 2.0 record Epistolae / (Q6376)
+2023-09-05 14:10:51,359 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C278'], ['2959963'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959963']
+2023-09-05 14:10:52,029 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6377)
+2023-09-05 14:10:53,996 - ds.dsimport - INFO - Using existing DS ID DS1173 given for manuscript
+2023-09-05 14:10:54,511 - ds.dsimport - INFO - Updated existing DS 2.0 record Sermones de mortuis secundum evangelia dominicalia / (Q6379)
+2023-09-05 14:10:55,154 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C283'], ['2959970'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2959970']
+2023-09-05 14:10:55,812 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6380)
+2023-09-05 14:10:57,905 - ds.dsimport - INFO - Using existing DS ID DS1174 given for manuscript
+2023-09-05 14:10:58,428 - ds.dsimport - INFO - Updated existing DS 2.0 record Opusculum de formandis epistolis (incomplete) (Q6382)
+2023-09-05 14:10:59,078 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C189'], ['2960364'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2960364']
+2023-09-05 14:10:59,726 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6383)
+2023-09-05 14:11:00,720 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1920060', 'label': 'Chants', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:11:00,720 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1920060', 'label': 'Chants', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:11:01,050 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/992193', 'label': 'Language and languages--Philosophy', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:11:01,051 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/992193', 'label': 'Language and languages--Philosophy', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:11:02,428 - ds.dsimport - INFO - Using existing DS ID DS1175 given for manuscript
+2023-09-05 14:11:02,867 - ds.dsimport - INFO - Updated existing DS 2.0 record Collection of works by Aristotle and commentaries on Aristotle's works (Q6385)
+2023-09-05 14:11:03,513 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS J6:2'], ['2960396'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2960396']
+2023-09-05 14:11:04,151 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6386)
+2023-09-05 14:11:06,140 - ds.dsimport - INFO - Using existing DS ID DS1176 given for manuscript
+2023-09-05 14:11:06,553 - ds.dsimport - INFO - Updated existing DS 2.0 record A Heu Glossary (Q6388)
+2023-09-05 14:11:07,200 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS J6:3:A1'], ['2960397'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2960397']
+2023-09-05 14:11:07,926 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6389)
+2023-09-05 14:11:09,985 - ds.dsimport - INFO - Using existing DS ID DS1177 given for manuscript
+2023-09-05 14:11:10,330 - ds.dsimport - INFO - Updated existing DS 2.0 record Leaf containing Ecclesiastes xii, 16 to xvi, 22. (Q6391)
+2023-09-05 14:11:10,978 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C210'], ['2960444'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2960444']
+2023-09-05 14:11:11,623 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6392)
+2023-09-05 14:11:13,542 - ds.dsimport - INFO - Using existing DS ID DS1178 given for manuscript
+2023-09-05 14:11:13,918 - ds.dsimport - INFO - Updated existing DS 2.0 record Commentaries on Aristotle: on the Physica, De generatione et corruptione, De celo et mundo, De anima. (Q6394)
+2023-09-05 14:11:14,565 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS B22'], ['2960451'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2960451']
+2023-09-05 14:11:15,226 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6395)
+2023-09-05 14:11:17,199 - ds.dsimport - INFO - Using existing DS ID DS1179 given for manuscript
+2023-09-05 14:11:17,634 - ds.dsimport - INFO - Updated existing DS 2.0 record Lilium medicinae, extract (Q6397)
+2023-09-05 14:11:18,277 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS B18'], ['2961259'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2961259']
+2023-09-05 14:11:19,022 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6398)
+2023-09-05 14:11:21,094 - ds.dsimport - INFO - Using existing DS ID DS1180 given for manuscript
+2023-09-05 14:11:21,537 - ds.dsimport - INFO - Updated existing DS 2.0 record Abbreviatio Summae Guillelmi Altissiodorensis / (Q6400)
+2023-09-05 14:11:22,186 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS B16'], ['2961261'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2961261']
+2023-09-05 14:11:22,810 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6401)
+2023-09-05 14:11:24,855 - ds.dsimport - INFO - Using existing DS ID DS1181 given for manuscript
+2023-09-05 14:11:25,288 - ds.dsimport - INFO - Updated existing DS 2.0 record De miseria humane conditionis, and 20 other tracts or poems. (Q6403)
+2023-09-05 14:11:25,931 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS B91'], ['2961264'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2961264']
+2023-09-05 14:11:26,594 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6404)
+2023-09-05 14:11:28,536 - ds.dsimport - INFO - Using existing DS ID DS1182 given for manuscript
+2023-09-05 14:11:28,943 - ds.dsimport - INFO - Updated existing DS 2.0 record La scientia chiamata Arismetrica. (Q6406)
+2023-09-05 14:11:29,587 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C18'], ['2961302'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2961302']
+2023-09-05 14:11:30,229 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6407)
+2023-09-05 14:11:32,273 - ds.dsimport - INFO - Using existing DS ID DS1183 given for manuscript
+2023-09-05 14:11:32,740 - ds.dsimport - INFO - Updated existing DS 2.0 record The voyages and travels of Sir John Mandeville / (Q6409)
+2023-09-05 14:11:33,387 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C19'], ['2961303'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2961303']
+2023-09-05 14:11:34,015 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6410)
+2023-09-05 14:11:36,026 - ds.dsimport - INFO - Using existing DS ID DS1184 given for manuscript
+2023-09-05 14:11:36,661 - ds.dsimport - INFO - Updated existing DS 2.0 record Itinerarius. (Q6412)
+2023-09-05 14:11:37,305 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C20'], ['2961304'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2961304']
+2023-09-05 14:11:37,929 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6413)
+2023-09-05 14:11:39,885 - ds.dsimport - INFO - Using existing DS ID DS1185 given for manuscript
+2023-09-05 14:11:40,426 - ds.dsimport - INFO - Updated existing DS 2.0 record Itinerarius. (Q6415)
+2023-09-05 14:11:41,075 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS B90'], ['2961305'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2961305']
+2023-09-05 14:11:41,738 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6416)
+2023-09-05 14:11:43,799 - ds.dsimport - INFO - Using existing DS ID DS1186 given for manuscript
+2023-09-05 14:11:44,259 - ds.dsimport - INFO - Updated existing DS 2.0 record Chronicle of popes and emperors (Q6418)
+2023-09-05 14:11:44,906 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS B89'], ['2961832'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2961832']
+2023-09-05 14:11:45,531 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6419)
+2023-09-05 14:11:47,610 - ds.dsimport - INFO - Using existing DS ID DS1187 given for manuscript
+2023-09-05 14:11:48,030 - ds.dsimport - INFO - Updated existing DS 2.0 record Rime. (Q6421)
+2023-09-05 14:11:48,676 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C212'], ['2961868'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2961868']
+2023-09-05 14:11:49,332 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6422)
+2023-09-05 14:11:50,308 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/550433', 'label': 'Catholic Church. Archdiocese of Lyon (France)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:11:50,308 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/550433', 'label': 'Catholic Church. Archdiocese of Lyon (France)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:11:51,631 - ds.dsimport - INFO - Using existing DS ID DS1188 given for manuscript
+2023-09-05 14:11:52,115 - ds.dsimport - INFO - Updated existing DS 2.0 record Collection of documents from Abbaye Saint-Sulpice-en-Bugey, mostly relating to the foundation of Abbaye de Chassagne-en-Bresse (Q6424)
+2023-09-05 14:11:52,758 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS G1'], ['2962539'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2962539']
+2023-09-05 14:11:53,533 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6425)
+2023-09-05 14:11:54,524 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00140', 'label': 'Devices (Provenance)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:11:54,524 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00140', 'label': 'Devices (Provenance)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:11:55,851 - ds.dsimport - INFO - Using existing DS ID DS1189 given for manuscript
+2023-09-05 14:11:56,408 - ds.dsimport - INFO - Updated existing DS 2.0 record Aureli Augustini beatissimi de civitate Dei (Q6427)
+2023-09-05 14:11:57,049 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS J4:2'], ['2962543'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2962543']
+2023-09-05 14:11:57,724 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6428)
+2023-09-05 14:11:59,836 - ds.dsimport - INFO - Using existing DS ID DS1190 given for manuscript
+2023-09-05 14:12:00,250 - ds.dsimport - INFO - Updated existing DS 2.0 record Steinhardt Gradual. (Q6430)
+2023-09-05 14:12:00,897 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS J6:1:2'], ['2962545'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2962545']
+2023-09-05 14:12:01,529 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6431)
+2023-09-05 14:12:03,539 - ds.dsimport - INFO - Using existing DS ID DS1191 given for manuscript
+2023-09-05 14:12:03,929 - ds.dsimport - INFO - Updated existing DS 2.0 record Fragments written in alternate Hebrew and Aramaic. (Q6433)
+2023-09-05 14:12:04,576 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS J6:3:A2'], ['2962547'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2962547']
+2023-09-05 14:12:05,213 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6434)
+2023-09-05 14:12:07,189 - ds.dsimport - INFO - Using existing DS ID DS1192 given for manuscript
+2023-09-05 14:12:07,621 - ds.dsimport - INFO - Updated existing DS 2.0 record Beneventan fragment 3. Apocrypha. (Q6436)
+2023-09-05 14:12:08,267 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS J6:3:A4'], ['2962567'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2962567']
+2023-09-05 14:12:09,134 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6437)
+2023-09-05 14:12:11,207 - ds.dsimport - INFO - Using existing DS ID DS1193 given for manuscript
+2023-09-05 14:12:11,635 - ds.dsimport - INFO - Updated existing DS 2.0 record In Johannis Evangelium tractatus : homilies 51-52. (Q6439)
+2023-09-05 14:12:12,277 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E36'], ['2962578'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2962578']
+2023-09-05 14:12:12,928 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6440)
+2023-09-05 14:12:13,888 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00600', 'label': 'Wooden bindings', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:12:13,888 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00600', 'label': 'Wooden bindings', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:12:14,217 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1357235', 'label': 'Regula (Augustine, of Hippo, Saint)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:12:14,217 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1357235', 'label': 'Regula (Augustine, of Hippo, Saint)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:12:15,573 - ds.dsimport - INFO - Using existing DS ID DS1194 given for manuscript
+2023-09-05 14:12:16,131 - ds.dsimport - INFO - Updated existing DS 2.0 record Rule of St. Augustine / (Q6442)
+2023-09-05 14:12:16,770 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E126 item 1'], ['2962628'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2962628']
+2023-09-05 14:12:17,436 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6443)
+2023-09-05 14:12:19,410 - ds.dsimport - INFO - Using existing DS ID DS1195 given for manuscript
+2023-09-05 14:12:19,712 - ds.dsimport - INFO - Updated existing DS 2.0 record Abridged Latin translation of the Nichomachean ethics and some commentaries on Aristotle. (Q6445)
+2023-09-05 14:12:20,359 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E232'], ['2962653'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2962653']
+2023-09-05 14:12:21,122 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6446)
+2023-09-05 14:12:23,718 - ds.dsimport - INFO - Using existing DS ID DS1196 given for manuscript
+2023-09-05 14:12:24,138 - ds.dsimport - INFO - Updated existing DS 2.0 record Opera omnia. (Q6448)
+2023-09-05 14:12:24,785 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['Pryce MS P4'], ['2962660'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2962660']
+2023-09-05 14:12:25,410 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6449)
+2023-09-05 14:12:27,421 - ds.dsimport - INFO - Using existing DS ID DS1197 given for manuscript
+2023-09-05 14:12:28,101 - ds.dsimport - INFO - Updated existing DS 2.0 record La sfera / (Q6451)
+2023-09-05 14:12:28,748 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E15'], ['2962679'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2962679']
+2023-09-05 14:12:29,411 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6452)
+2023-09-05 14:12:31,349 - ds.dsimport - INFO - Using existing DS ID DS1198 given for manuscript
+2023-09-05 14:12:31,829 - ds.dsimport - INFO - Updated existing DS 2.0 record Reisen durch das gelobte Land (Q6454)
+2023-09-05 14:12:32,475 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS J6:3:B1'], ['2962733'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2962733']
+2023-09-05 14:12:33,189 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6455)
+2023-09-05 14:12:35,145 - ds.dsimport - INFO - Using existing DS ID DS1199 given for manuscript
+2023-09-05 14:12:35,595 - ds.dsimport - INFO - Updated existing DS 2.0 record A collection of uncatalogued leaves. (Q6457)
+2023-09-05 14:12:36,253 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E35'], ['2962985'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2962985']
+2023-09-05 14:12:37,008 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6458)
+2023-09-05 14:12:37,957 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00600', 'label': 'Wooden bindings', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:12:37,958 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00600', 'label': 'Wooden bindings', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:12:39,312 - ds.dsimport - INFO - Using existing DS ID DS1200 given for manuscript
+2023-09-05 14:12:39,744 - ds.dsimport - INFO - Updated existing DS 2.0 record De contractibus mercatorum and other legal and theological texts / (Q6460)
+2023-09-05 14:12:40,405 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E18'], ['2962986'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2962986']
+2023-09-05 14:12:41,357 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6461)
+2023-09-05 14:12:42,410 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/811449', 'label': 'Apologetics', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:12:42,411 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/811449', 'label': 'Apologetics', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:12:43,854 - ds.dsimport - INFO - Using existing DS ID DS1201 given for manuscript
+2023-09-05 14:12:44,333 - ds.dsimport - INFO - Updated existing DS 2.0 record Divinae institutiones; De ira Dei; De opificio Dei / (Q6463)
+2023-09-05 14:12:44,973 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E16'], ['2962993'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2962993']
+2023-09-05 14:12:45,640 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6464)
+2023-09-05 14:12:47,743 - ds.dsimport - INFO - Using existing DS ID DS1202 given for manuscript
+2023-09-05 14:12:48,156 - ds.dsimport - INFO - Updated existing DS 2.0 record Itinerarium (Q6466)
+2023-09-05 14:12:48,802 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E12'], ['2962999'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2962999']
+2023-09-05 14:12:49,411 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6467)
+2023-09-05 14:12:51,336 - ds.dsimport - INFO - Using existing DS ID DS1203 given for manuscript
+2023-09-05 14:12:51,733 - ds.dsimport - INFO - Updated existing DS 2.0 record Epistulae ad lucilium (Q6469)
+2023-09-05 14:12:52,378 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E34'], ['2963006'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2963006']
+2023-09-05 14:12:53,048 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6470)
+2023-09-05 14:12:55,103 - ds.dsimport - INFO - Using existing DS ID DS1204 given for manuscript
+2023-09-05 14:12:55,490 - ds.dsimport - INFO - Updated existing DS 2.0 record Summarium totius Biblie distinctum per libros et capitula (Q6472)
+2023-09-05 14:12:56,140 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E71'], ['2963020'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2963020']
+2023-09-05 14:12:56,800 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6473)
+2023-09-05 14:12:57,830 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00226', 'label': 'Provenance labels', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:12:57,831 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00226', 'label': 'Provenance labels', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:12:58,158 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1159810', 'label': 'Twentieth century', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:12:58,159 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1159810', 'label': 'Twentieth century', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:12:59,471 - ds.dsimport - INFO - Using existing DS ID DS1205 given for manuscript
+2023-09-05 14:12:59,936 - ds.dsimport - INFO - Updated existing DS 2.0 record Virgilii Aeneidos (Q6475)
+2023-09-05 14:13:00,582 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E22'], ['2963025'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2963025']
+2023-09-05 14:13:01,244 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6476)
+2023-09-05 14:13:03,215 - ds.dsimport - INFO - Using existing DS ID DS1206 given for manuscript
+2023-09-05 14:13:03,717 - ds.dsimport - INFO - Updated existing DS 2.0 record Lectionary, incomplete (Q6478)
+2023-09-05 14:13:04,364 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E89'], ['2963146'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2963146']
+2023-09-05 14:13:05,098 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6479)
+2023-09-05 14:13:07,110 - ds.dsimport - INFO - Using existing DS ID DS1207 given for manuscript
+2023-09-05 14:13:07,436 - ds.dsimport - INFO - Updated existing DS 2.0 record Notarial formulae. (Q6481)
+2023-09-05 14:13:08,080 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E17'], ['2963163'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2963163']
+2023-09-05 14:13:08,852 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6482)
+2023-09-05 14:13:10,838 - ds.dsimport - INFO - Using existing DS ID DS1208 given for manuscript
+2023-09-05 14:13:11,266 - ds.dsimport - INFO - Updated existing DS 2.0 record Cicero Rhetorica (Q6484)
+2023-09-05 14:13:11,919 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E77'], ['2963231'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2963231']
+2023-09-05 14:13:12,542 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6485)
+2023-09-05 14:13:14,490 - ds.dsimport - INFO - Using existing DS ID DS1209 given for manuscript
+2023-09-05 14:13:14,919 - ds.dsimport - INFO - Updated existing DS 2.0 record Liber excusationum in causis criminalibus. (Q6487)
+2023-09-05 14:13:15,566 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E256'], ['2963300'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2963300']
+2023-09-05 14:13:16,270 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6488)
+2023-09-05 14:13:18,979 - ds.dsimport - INFO - Using existing DS ID DS1210 given for manuscript
+2023-09-05 14:13:19,424 - ds.dsimport - INFO - Updated existing DS 2.0 record Hippiatria, (Q6490)
+2023-09-05 14:13:20,068 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D84'], ['2963311'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2963311']
+2023-09-05 14:13:20,821 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6491)
+2023-09-05 14:13:22,807 - ds.dsimport - INFO - Using existing DS ID DS1211 given for manuscript
+2023-09-05 14:13:23,237 - ds.dsimport - INFO - Updated existing DS 2.0 record Sermones de sanctis (Q6493)
+2023-09-05 14:13:23,884 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C236'], ['2963883'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2963883']
+2023-09-05 14:13:24,521 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6494)
+2023-09-05 14:13:27,188 - ds.dsimport - INFO - Using existing DS ID DS1212 given for manuscript
+2023-09-05 14:13:27,528 - ds.dsimport - INFO - Updated existing DS 2.0 record Tractatus juris, (Q6496)
+2023-09-05 14:13:28,171 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C243'], ['2963897'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2963897']
+2023-09-05 14:13:28,819 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6497)
+2023-09-05 14:13:30,881 - ds.dsimport - INFO - Using existing DS ID DS1213 given for manuscript
+2023-09-05 14:13:31,212 - ds.dsimport - INFO - Updated existing DS 2.0 record Tessoro. (Q6499)
+2023-09-05 14:13:31,855 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C246'], ['2963901'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2963901']
+2023-09-05 14:13:32,654 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6500)
+2023-09-05 14:13:34,585 - ds.dsimport - INFO - Using existing DS ID DS1214 given for manuscript
+2023-09-05 14:13:35,062 - ds.dsimport - INFO - Updated existing DS 2.0 record A collection of devotional tracts. (Q6502)
+2023-09-05 14:13:35,710 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C247'], ['2963902'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2963902']
+2023-09-05 14:13:36,352 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6503)
+2023-09-05 14:13:37,338 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00140', 'label': 'Devices (Provenance)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:13:37,338 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00140', 'label': 'Devices (Provenance)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:13:37,667 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00226', 'label': 'Provenance labels', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:13:37,667 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00226', 'label': 'Provenance labels', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:13:39,018 - ds.dsimport - INFO - Using existing DS ID DS1215 given for manuscript
+2023-09-05 14:13:39,451 - ds.dsimport - INFO - Updated existing DS 2.0 record Dominici Capranici Card. Vita ad Card. Papien / (Q6505)
+2023-09-05 14:13:40,094 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C251'], ['2963910'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2963910']
+2023-09-05 14:13:40,847 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6506)
+2023-09-05 14:13:42,800 - ds.dsimport - INFO - Using existing DS ID DS1216 given for manuscript
+2023-09-05 14:13:43,332 - ds.dsimport - INFO - Updated existing DS 2.0 record Regulae grammaticales. (Q6508)
+2023-09-05 14:13:43,977 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C260'], ['2963914'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2963914']
+2023-09-05 14:13:44,845 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6509)
+2023-09-05 14:13:45,947 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1911455', 'label': 'Alfonso II, King of Naples, 1448-1495', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:13:45,947 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1911455', 'label': 'Alfonso II, King of Naples, 1448-1495', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:13:47,393 - ds.dsimport - INFO - Using existing DS ID DS1217 given for manuscript
+2023-09-05 14:13:47,825 - ds.dsimport - INFO - Updated existing DS 2.0 record Vita del Re Alfonso d'Aragona, Re di Napoli. (Q6511)
+2023-09-05 14:13:48,473 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C264'], ['2963915'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2963915']
+2023-09-05 14:13:49,124 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6512)
+2023-09-05 14:13:52,456 - ds.dsimport - INFO - Using existing DS ID DS1218 given for manuscript
+2023-09-05 14:13:52,908 - ds.dsimport - INFO - Updated existing DS 2.0 record De notariis et tabellionibus. (Q6514)
+2023-09-05 14:13:53,556 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D2'], ['2964321'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2964321']
+2023-09-05 14:13:54,212 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6515)
+2023-09-05 14:13:55,154 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00226', 'label': 'Provenance labels', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:13:55,154 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00226', 'label': 'Provenance labels', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:13:59,498 - ds.dsimport - INFO - Using existing DS ID DS1219 given for manuscript
+2023-09-05 14:14:00,021 - ds.dsimport - INFO - Updated existing DS 2.0 record Epigrammata / (Q6517)
+2023-09-05 14:14:00,665 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D3'], ['2964324'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2964324']
+2023-09-05 14:14:01,310 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6518)
+2023-09-05 14:14:04,003 - ds.dsimport - INFO - Using existing DS ID DS1220 given for manuscript
+2023-09-05 14:14:04,466 - ds.dsimport - INFO - Updated existing DS 2.0 record Expositio beati Ambrosii archiepiscopi Mediolanensis civitatis super psalmum (Q6520)
+2023-09-05 14:14:05,110 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D9'], ['2964346'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2964346']
+2023-09-05 14:14:05,832 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6521)
+2023-09-05 14:14:07,796 - ds.dsimport - INFO - Using existing DS ID DS1221 given for manuscript
+2023-09-05 14:14:08,244 - ds.dsimport - INFO - Updated existing DS 2.0 record Initiales literae ex liturgiae voluminibus depromptae caenobitarum curis calamo atque minio exornatae ad instaurandam Italam picturam priusquam torculi tiipografici exortae (Q6523)
+2023-09-05 14:14:08,894 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D13'], ['2964387'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2964387']
+2023-09-05 14:14:09,698 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6524)
+2023-09-05 14:14:11,631 - ds.dsimport - INFO - Using existing DS ID DS1222 given for manuscript
+2023-09-05 14:14:12,135 - ds.dsimport - INFO - Updated existing DS 2.0 record Collection of biographies of illustrious men (Q6526)
+2023-09-05 14:14:12,781 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D14'], ['2964390'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2964390']
+2023-09-05 14:14:13,431 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6527)
+2023-09-05 14:14:15,426 - ds.dsimport - INFO - Using existing DS ID DS1223 given for manuscript
+2023-09-05 14:14:15,836 - ds.dsimport - INFO - Updated existing DS 2.0 record Lexicon (Manuscript Kenneth Spencer Research Library. MS D14) (Q6529)
+2023-09-05 14:14:16,480 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D31'], ['2964491'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2964491']
+2023-09-05 14:14:17,118 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6530)
+2023-09-05 14:14:19,046 - ds.dsimport - INFO - Using existing DS ID DS1224 given for manuscript
+2023-09-05 14:14:19,498 - ds.dsimport - INFO - Updated existing DS 2.0 record Sermons of Barnardine Ochine of Sena ... Christopher Hegendorff, and John Oecolampadius (Q6532)
+2023-09-05 14:14:20,142 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D34'], ['2964495'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2964495']
+2023-09-05 14:14:20,944 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6533)
+2023-09-05 14:14:23,000 - ds.dsimport - INFO - Using existing DS ID DS1225 given for manuscript
+2023-09-05 14:14:23,334 - ds.dsimport - INFO - Updated existing DS 2.0 record Expositio missae (Manuscript Kenneth Spencer Research Library. MS D34) (Q6535)
+2023-09-05 14:14:23,981 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D35'], ['2964496'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2964496']
+2023-09-05 14:14:24,621 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6536)
+2023-09-05 14:14:27,270 - ds.dsimport - INFO - Using existing DS ID DS1226 given for manuscript
+2023-09-05 14:14:27,734 - ds.dsimport - INFO - Updated existing DS 2.0 record Cronaca di Venezia. (Q6538)
+2023-09-05 14:14:28,380 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D37'], ['2964499'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2964499']
+2023-09-05 14:14:29,030 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6539)
+2023-09-05 14:14:29,999 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1904773', 'label': 'Spirituality--Christianity', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:14:29,999 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1904773', 'label': 'Spirituality--Christianity', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:14:40,296 - ds.dsimport - INFO - Using existing DS ID DS1227 given for manuscript
+2023-09-05 14:14:40,758 - ds.dsimport - INFO - Updated existing DS 2.0 record Liber meditationum sive orationum / (Q6541)
+2023-09-05 14:14:41,407 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D40'], ['2964500'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2964500']
+2023-09-05 14:14:42,045 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6542)
+2023-09-05 14:14:44,019 - ds.dsimport - INFO - Using existing DS ID DS1228 given for manuscript
+2023-09-05 14:14:44,616 - ds.dsimport - INFO - Updated existing DS 2.0 record Gospel of Matthew, incomplete (Q6544)
+2023-09-05 14:14:45,259 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D38'], ['2964502'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2964502']
+2023-09-05 14:14:46,490 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6545)
+2023-09-05 14:14:47,438 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/888613', 'label': 'Death', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:14:47,438 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/888613', 'label': 'Death', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:14:48,748 - ds.dsimport - INFO - Using existing DS ID DS1229 given for manuscript
+2023-09-05 14:14:49,218 - ds.dsimport - INFO - Updated existing DS 2.0 record Tractatus optimus de arte bene moriendi (Q6547)
+2023-09-05 14:14:49,873 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D39'], ['2964503'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2964503']
+2023-09-05 14:14:50,554 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6548)
+2023-09-05 14:14:53,184 - ds.dsimport - INFO - Using existing DS ID DS1230 given for manuscript
+2023-09-05 14:14:53,644 - ds.dsimport - INFO - Updated existing DS 2.0 record Annuntiatio Sacri Jubilaei instantis anni centesimi, et declaratio quod prosequenda illius plenissima indulgentia a christifidelibus fieri debeat (Q6550)
+2023-09-05 14:14:54,290 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D63'], ['2964547'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2964547']
+2023-09-05 14:14:54,940 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6551)
+2023-09-05 14:14:57,648 - ds.dsimport - INFO - Using existing DS ID DS1231 given for manuscript
+2023-09-05 14:14:58,257 - ds.dsimport - INFO - Updated existing DS 2.0 record In canticum canticorum. (Q6553)
+2023-09-05 14:14:58,901 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D66'], ['2964769'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2964769']
+2023-09-05 14:14:59,532 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6554)
+2023-09-05 14:15:01,518 - ds.dsimport - INFO - Using existing DS ID DS1232 given for manuscript
+2023-09-05 14:15:01,899 - ds.dsimport - INFO - Updated existing DS 2.0 record Protocol-book B. (Q6556)
+2023-09-05 14:15:02,542 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D113'], ['2964992'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2964992']
+2023-09-05 14:15:03,330 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6557)
+2023-09-05 14:15:05,964 - ds.dsimport - INFO - Using existing DS ID DS1233 given for manuscript
+2023-09-05 14:15:06,541 - ds.dsimport - INFO - Updated existing DS 2.0 record Arezzo Laude. (Q6559)
+2023-09-05 14:15:07,188 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS P368'], ['2985994'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2985994']
+2023-09-05 14:15:07,916 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6560)
+2023-09-05 14:15:10,204 - ds.dsimport - INFO - Using existing DS ID DS1234 given for manuscript
+2023-09-05 14:15:10,532 - ds.dsimport - INFO - Updated existing DS 2.0 record Tractatus de veneno spirituali. (Q6562)
+2023-09-05 14:15:11,178 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['Pryce MS C2'], ['2987943'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2987943']
+2023-09-05 14:15:11,837 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6563)
+2023-09-05 14:15:13,915 - ds.dsimport - INFO - Using existing DS ID DS1235 given for manuscript
+2023-09-05 14:15:14,224 - ds.dsimport - INFO - Updated existing DS 2.0 record Legend of the Cross. (Q6565)
+2023-09-05 14:15:14,869 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS Pryce C2 item 2'], ['2987944'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2987944']
+2023-09-05 14:15:15,518 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6566)
+2023-09-05 14:15:17,469 - ds.dsimport - INFO - Using existing DS ID DS1236 given for manuscript
+2023-09-05 14:15:17,856 - ds.dsimport - INFO - Updated existing DS 2.0 record De uno confessore. (Q6568)
+2023-09-05 14:15:18,500 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS P474'], ['2987995'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2987995']
+2023-09-05 14:15:19,152 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6569)
+2023-09-05 14:15:21,214 - ds.dsimport - INFO - Using existing DS ID DS1237 given for manuscript
+2023-09-05 14:15:21,648 - ds.dsimport - INFO - Updated existing DS 2.0 record Consilium. (Q6571)
+2023-09-05 14:15:22,293 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS P489'], ['2988012'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2988012']
+2023-09-05 14:15:22,927 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6572)
+2023-09-05 14:15:24,891 - ds.dsimport - INFO - Using existing DS ID DS1238 given for manuscript
+2023-09-05 14:15:25,315 - ds.dsimport - INFO - Updated existing DS 2.0 record De medicina equorum. (Q6574)
+2023-09-05 14:15:25,963 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS P493:1'], ['2988487'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2988487']
+2023-09-05 14:15:26,618 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6575)
+2023-09-05 14:15:28,583 - ds.dsimport - INFO - Using existing DS ID DS1239 given for manuscript
+2023-09-05 14:15:29,017 - ds.dsimport - INFO - Updated existing DS 2.0 record "A viro prudente..." (Q6577)
+2023-09-05 14:15:29,684 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS P541'], ['2989138'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2989138']
+2023-09-05 14:15:30,323 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6578)
+2023-09-05 14:15:32,412 - ds.dsimport - INFO - Using existing DS ID DS1240 given for manuscript
+2023-09-05 14:15:32,749 - ds.dsimport - INFO - Updated existing DS 2.0 record Receipt against sickness that comes of cold (Q6580)
+2023-09-05 14:15:33,391 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS P571'], ['2989567'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2989567']
+2023-09-05 14:15:34,120 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6581)
+2023-09-05 14:15:36,114 - ds.dsimport - INFO - Using existing DS ID DS1241 given for manuscript
+2023-09-05 14:15:36,426 - ds.dsimport - INFO - Updated existing DS 2.0 record Regulae parvorum gramalicales (Q6583)
+2023-09-05 14:15:37,073 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS P579'], ['2989582'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2989582']
+2023-09-05 14:15:38,117 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6584)
+2023-09-05 14:15:40,092 - ds.dsimport - INFO - Using existing DS ID DS1242 given for manuscript
+2023-09-05 14:15:40,419 - ds.dsimport - INFO - Updated existing DS 2.0 record Chronicle fragments (Fragment Kenneth Spencer Research Library. MS P579) (Q6586)
+2023-09-05 14:15:41,064 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C299'], ['2990668'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2990668']
+2023-09-05 14:15:41,758 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6587)
+2023-09-05 14:15:42,721 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://w3id.org/lob/concept/1522', 'label': 'primary tackets', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:15:42,721 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://w3id.org/lob/concept/1522', 'label': 'primary tackets', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:15:43,052 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/303344', 'label': 'Tresham family', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:15:43,052 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/303344', 'label': 'Tresham family', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:15:44,511 - ds.dsimport - INFO - Using existing DS ID DS1243 given for manuscript
+2023-09-05 14:15:45,013 - ds.dsimport - INFO - Updated existing DS 2.0 record Treatise on conveyancing (Q6589)
+2023-09-05 14:15:45,672 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 09:02.2'], ['2998920'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2998920']
+2023-09-05 14:15:46,429 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6590)
+2023-09-05 14:15:48,398 - ds.dsimport - INFO - Using existing DS ID DS1244 given for manuscript
+2023-09-05 14:15:48,820 - ds.dsimport - INFO - Updated existing DS 2.0 record Secrets and collects for the Proper of Saints, 9-4 Kalends of September. (Q6592)
+2023-09-05 14:15:49,465 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 09:02.1'], ['2998921'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2998921']
+2023-09-05 14:15:50,112 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6593)
+2023-09-05 14:15:52,107 - ds.dsimport - INFO - Using existing DS ID DS1245 given for manuscript
+2023-09-05 14:15:52,537 - ds.dsimport - INFO - Updated existing DS 2.0 record Service book. (Q6595)
+2023-09-05 14:15:53,181 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 09:02.3'], ['2998922'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2998922']
+2023-09-05 14:15:53,898 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6596)
+2023-09-05 14:15:55,918 - ds.dsimport - INFO - Using existing DS ID DS1246 given for manuscript
+2023-09-05 14:15:56,392 - ds.dsimport - INFO - Updated existing DS 2.0 record Leaf from a book of hours (Q6598)
+2023-09-05 14:15:57,044 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 09:02.4'], ['2999055'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2999055']
+2023-09-05 14:15:57,748 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6599)
+2023-09-05 14:15:59,718 - ds.dsimport - INFO - Using existing DS ID DS1247 given for manuscript
+2023-09-05 14:16:00,122 - ds.dsimport - INFO - Updated existing DS 2.0 record Leaf from a book of hours containing Psalms 44 (45) and 45 (46) (Q6601)
+2023-09-05 14:16:00,769 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 09:02.5'], ['2999058'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2999058']
+2023-09-05 14:16:01,432 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6602)
+2023-09-05 14:16:03,414 - ds.dsimport - INFO - Using existing DS ID DS1248 given for manuscript
+2023-09-05 14:16:03,841 - ds.dsimport - INFO - Updated existing DS 2.0 record Leaf from a book of hours containing a miniature of the Crucifixion (Q6604)
+2023-09-05 14:16:04,483 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 09:02.6'], ['2999072'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2999072']
+2023-09-05 14:16:05,118 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6605)
+2023-09-05 14:16:07,393 - ds.dsimport - INFO - Using existing DS ID DS1249 given for manuscript
+2023-09-05 14:16:07,830 - ds.dsimport - INFO - Updated existing DS 2.0 record Leaf from a book of hours containing the fifteen joys of Mary (Doulce dame de misericorde) (Q6607)
+2023-09-05 14:16:08,478 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 09:02.7'], ['2999073'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2999073']
+2023-09-05 14:16:09,386 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6608)
+2023-09-05 14:16:11,336 - ds.dsimport - INFO - Using existing DS ID DS1250 given for manuscript
+2023-09-05 14:16:11,730 - ds.dsimport - INFO - Updated existing DS 2.0 record Leaf of a litany. (Q6610)
+2023-09-05 14:16:12,373 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 09:02.8'], ['2999074'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2999074']
+2023-09-05 14:16:13,155 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6611)
+2023-09-05 14:16:15,141 - ds.dsimport - INFO - Using existing DS ID DS1251 given for manuscript
+2023-09-05 14:16:15,453 - ds.dsimport - INFO - Updated existing DS 2.0 record Leaf containing Psalm 141 leaf 10 to Psalm 143 leaf 8. (Q6613)
+2023-09-05 14:16:16,106 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 09:02.9'], ['2999075'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2999075']
+2023-09-05 14:16:16,733 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6614)
+2023-09-05 14:16:18,782 - ds.dsimport - INFO - Using existing DS ID DS1252 given for manuscript
+2023-09-05 14:16:19,208 - ds.dsimport - INFO - Updated existing DS 2.0 record Leaf from a Book of Hours. (Q6616)
+2023-09-05 14:16:20,197 - ds.dsimport - WARNING - Using existing holding record: 'Q6593'
+2023-09-05 14:16:20,859 - ds.dsimport - WARNING - Using existing manuscript: Q6594
+2023-09-05 14:16:22,829 - ds.dsimport - INFO - Updated existing DS 2.0 record Leaf from a book of hours (Q6595)
+2023-09-05 14:16:23,805 - ds.dsimport - WARNING - Using existing holding record: 'Q6590'
+2023-09-05 14:16:24,473 - ds.dsimport - WARNING - Using existing manuscript: Q6591
+2023-09-05 14:16:26,134 - ds.dsimport - INFO - Updated existing DS 2.0 record Vocabularius rerum. (Q6592)
+2023-09-05 14:16:27,125 - ds.dsimport - WARNING - Using existing holding record: 'Q6590'
+2023-09-05 14:16:27,786 - ds.dsimport - WARNING - Using existing manuscript: Q6591
+2023-09-05 14:16:29,548 - ds.dsimport - INFO - Updated existing DS 2.0 record Liber glossarum, (Q6592)
+2023-09-05 14:16:30,534 - ds.dsimport - WARNING - Using existing holding record: 'Q6590'
+2023-09-05 14:16:31,201 - ds.dsimport - WARNING - Using existing manuscript: Q6591
+2023-09-05 14:16:32,939 - ds.dsimport - INFO - Updated existing DS 2.0 record Service-book. (Q6592)
+2023-09-05 14:16:33,934 - ds.dsimport - WARNING - Using existing holding record: 'Q6590'
+2023-09-05 14:16:34,730 - ds.dsimport - WARNING - Using existing manuscript: Q6591
+2023-09-05 14:16:37,131 - ds.dsimport - INFO - Updated existing DS 2.0 record Service-book. (Q6592)
+2023-09-05 14:16:38,139 - ds.dsimport - WARNING - Using existing holding record: 'Q6590'
+2023-09-05 14:16:38,805 - ds.dsimport - WARNING - Using existing manuscript: Q6591
+2023-09-05 14:16:40,655 - ds.dsimport - INFO - Updated existing DS 2.0 record Service-book. (Q6592)
+2023-09-05 14:16:41,648 - ds.dsimport - WARNING - Using existing holding record: 'Q6590'
+2023-09-05 14:16:42,317 - ds.dsimport - WARNING - Using existing manuscript: Q6591
+2023-09-05 14:16:44,041 - ds.dsimport - INFO - Updated existing DS 2.0 record Leaf apparently from a harmony of the Gospels. (Q6592)
+2023-09-05 14:16:45,049 - ds.dsimport - WARNING - Using existing holding record: 'Q6596'
+2023-09-05 14:16:45,703 - ds.dsimport - WARNING - Using existing manuscript: Q6597
+2023-09-05 14:16:47,456 - ds.dsimport - INFO - Updated existing DS 2.0 record Vita Sancti Eudecii. (Q6598)
+2023-09-05 14:16:48,448 - ds.dsimport - WARNING - Using existing holding record: 'Q6596'
+2023-09-05 14:16:49,117 - ds.dsimport - WARNING - Using existing manuscript: Q6597
+2023-09-05 14:16:49,118 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1728849', 'label': 'Families', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:16:49,118 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1728849', 'label': 'Families', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:16:52,138 - ds.dsimport - INFO - Updated existing DS 2.0 record Compendium historiae in genealogia Christi, incomplete / (Q6598)
+2023-09-05 14:16:53,141 - ds.dsimport - WARNING - Using existing holding record: 'Q6596'
+2023-09-05 14:16:53,804 - ds.dsimport - WARNING - Using existing manuscript: Q6597
+2023-09-05 14:16:55,546 - ds.dsimport - INFO - Updated existing DS 2.0 record Leaf containing the service of the first Tuesday in Lent. Missal. (Q6598)
+2023-09-05 14:16:56,537 - ds.dsimport - WARNING - Using existing holding record: 'Q6596'
+2023-09-05 14:16:57,470 - ds.dsimport - WARNING - Using existing manuscript: Q6597
+2023-09-05 14:16:59,847 - ds.dsimport - INFO - Updated existing DS 2.0 record Latin fragment "gaudio". (Q6598)
+2023-09-05 14:17:00,836 - ds.dsimport - WARNING - Using existing holding record: 'Q6593'
+2023-09-05 14:17:01,502 - ds.dsimport - WARNING - Using existing manuscript: Q6594
+2023-09-05 14:17:03,457 - ds.dsimport - INFO - Updated existing DS 2.0 record Gospel of John, incomplete (Q6595)
+2023-09-05 14:17:04,101 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9:02:13'], ['2999113'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2999113']
+2023-09-05 14:17:04,760 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6617)
+2023-09-05 14:17:06,752 - ds.dsimport - INFO - Using existing DS ID DS1265 given for manuscript
+2023-09-05 14:17:07,137 - ds.dsimport - INFO - Updated existing DS 2.0 record One leaf of a 13th century Latin Bible. (Q6619)
+2023-09-05 14:17:08,340 - ds.dsimport - WARNING - Using existing holding record: 'Q6593'
+2023-09-05 14:17:09,019 - ds.dsimport - WARNING - Using existing manuscript: Q6594
+2023-09-05 14:17:10,838 - ds.dsimport - INFO - Updated existing DS 2.0 record Pantheon. (Q6595)
+2023-09-05 14:17:11,480 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9:02:15'], ['2999116'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER2999116']
+2023-09-05 14:17:12,123 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6620)
+2023-09-05 14:17:14,092 - ds.dsimport - INFO - Using existing DS ID DS1267 given for manuscript
+2023-09-05 14:17:14,526 - ds.dsimport - INFO - Updated existing DS 2.0 record Panormia. (Q6622)
+2023-09-05 14:17:15,170 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D131'], ['3010157'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER3010157']
+2023-09-05 14:17:15,967 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6623)
+2023-09-05 14:17:17,913 - ds.dsimport - INFO - Using existing DS ID DS1268 given for manuscript
+2023-09-05 14:17:18,403 - ds.dsimport - INFO - Updated existing DS 2.0 record Sportula fragmentorum / (Q6625)
+2023-09-05 14:17:19,045 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D132'], ['3010162'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER3010162']
+2023-09-05 14:17:20,645 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6626)
+2023-09-05 14:17:23,283 - ds.dsimport - INFO - Using existing DS ID DS1269 given for manuscript
+2023-09-05 14:17:23,735 - ds.dsimport - INFO - Updated existing DS 2.0 record Capitoli e ordinamenti 1354. (Q6628)
+2023-09-05 14:17:24,382 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D133'], ['3010164'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER3010164']
+2023-09-05 14:17:25,042 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6629)
+2023-09-05 14:17:28,015 - ds.dsimport - INFO - Using existing DS ID DS1270 given for manuscript
+2023-09-05 14:17:28,428 - ds.dsimport - INFO - Updated existing DS 2.0 record Capitoli e ordinamenti 1422. (Q6631)
+2023-09-05 14:17:29,070 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D134'], ['3010166'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER3010166']
+2023-09-05 14:17:29,788 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6632)
+2023-09-05 14:17:31,889 - ds.dsimport - INFO - Using existing DS ID DS1271 given for manuscript
+2023-09-05 14:17:32,243 - ds.dsimport - INFO - Updated existing DS 2.0 record Sermones dominicales (Q6634)
+2023-09-05 14:17:32,888 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS D199'], ['3010332'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER3010332']
+2023-09-05 14:17:33,554 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6635)
+2023-09-05 14:17:35,512 - ds.dsimport - INFO - Using existing DS ID DS1272 given for manuscript
+2023-09-05 14:17:35,842 - ds.dsimport - INFO - Updated existing DS 2.0 record Canon law collection. (Q6637)
+2023-09-05 14:17:36,488 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['Pryce MS J1'], ['9499113'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9499113']
+2023-09-05 14:17:37,153 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6638)
+2023-09-05 14:17:38,120 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1163331', 'label': 'Uther Pendragon (Legendary character)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:17:38,120 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1163331', 'label': 'Uther Pendragon (Legendary character)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:17:39,483 - ds.dsimport - INFO - Using existing DS ID DS1273 given for manuscript
+2023-09-05 14:17:39,924 - ds.dsimport - INFO - Updated existing DS 2.0 record Genealogical roll chronicle from Lucius Septimius Severus to Uther Pendragon, incomplete (Q6640)
+2023-09-05 14:17:40,576 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E20'], ['9572366'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9572366']
+2023-09-05 14:17:41,230 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6641)
+2023-09-05 14:17:42,299 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00665', 'label': 'Raised bands', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:17:42,299 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://id.loc.gov/vocabulary/rbmscv/cv00665', 'label': 'Raised bands', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:17:47,204 - ds.dsimport - INFO - Using existing DS ID DS1274 given for manuscript
+2023-09-05 14:17:47,668 - ds.dsimport - INFO - Updated existing DS 2.0 record Bucolica; Georgica; Aeneis / (Q6643)
+2023-09-05 14:17:48,346 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C318'], ['9719743'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9719743']
+2023-09-05 14:17:49,117 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6644)
+2023-09-05 14:17:51,134 - ds.dsimport - INFO - Using existing DS ID DS1275 given for manuscript
+2023-09-05 14:17:51,559 - ds.dsimport - INFO - Updated existing DS 2.0 record Le livre de bonnes meurs / (Q6646)
+2023-09-05 14:17:52,207 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS E282'], ['9719744'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9719744']
+2023-09-05 14:17:52,832 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6647)
+2023-09-05 14:17:54,128 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://w3id.org/lob/concept/1522', 'label': 'primary tackets', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:17:54,128 - ds.authorities - WARNING - Expected cached item for item with ids: {'wd_qid': None, 'external_uri': 'http://w3id.org/lob/concept/1522', 'label': 'primary tackets', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-05 14:17:55,581 - ds.dsimport - INFO - Using existing DS ID DS1276 given for manuscript
+2023-09-05 14:17:56,149 - ds.dsimport - INFO - Updated existing DS 2.0 record Historia destructionis Troiae and other works on the fall of Troy / (Q6649)
+2023-09-05 14:17:56,793 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS Q80:10'], ['9852351'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852351']
+2023-09-05 14:17:57,438 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6650)
+2023-09-05 14:17:59,531 - ds.dsimport - INFO - Using existing DS ID DS1277 given for manuscript
+2023-09-05 14:17:59,938 - ds.dsimport - INFO - Updated existing DS 2.0 record Confirmation (Q6652)
+2023-09-05 14:18:00,596 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS Q80:11'], ['9852352'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852352']
+2023-09-05 14:18:01,229 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6653)
+2023-09-05 14:18:03,223 - ds.dsimport - INFO - Using existing DS ID DS1278 given for manuscript
+2023-09-05 14:18:03,644 - ds.dsimport - INFO - Updated existing DS 2.0 record Confirmation of grants (Q6655)
+2023-09-05 14:18:04,295 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS Q80:12'], ['9852353'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852353']
+2023-09-05 14:18:04,996 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6656)
+2023-09-05 14:18:06,936 - ds.dsimport - INFO - Using existing DS ID DS1279 given for manuscript
+2023-09-05 14:18:07,336 - ds.dsimport - INFO - Updated existing DS 2.0 record Deed of exchange (Q6658)
+2023-09-05 14:18:07,978 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS Q80:13'], ['9852354'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852354']
+2023-09-05 14:18:08,629 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6659)
+2023-09-05 14:18:10,693 - ds.dsimport - INFO - Using existing DS ID DS1280 given for manuscript
+2023-09-05 14:18:11,054 - ds.dsimport - INFO - Updated existing DS 2.0 record Quit claim (Q6661)
+2023-09-05 14:18:11,696 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS Q80:14'], ['9852355'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852355']
+2023-09-05 14:18:12,320 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6662)
+2023-09-05 14:18:14,333 - ds.dsimport - INFO - Using existing DS ID DS1281 given for manuscript
+2023-09-05 14:18:14,751 - ds.dsimport - INFO - Updated existing DS 2.0 record Grant in frankalmoigne (Q6664)
+2023-09-05 14:18:15,401 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS Q80:15'], ['9852356'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852356']
+2023-09-05 14:18:16,043 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6665)
+2023-09-05 14:18:18,030 - ds.dsimport - INFO - Using existing DS ID DS1282 given for manuscript
+2023-09-05 14:18:18,361 - ds.dsimport - INFO - Updated existing DS 2.0 record Quit claim (Q6667)
+2023-09-05 14:18:19,006 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS Q80:2'], ['9852357'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852357']
+2023-09-05 14:18:19,635 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6668)
+2023-09-05 14:18:21,796 - ds.dsimport - INFO - Using existing DS ID DS1283 given for manuscript
+2023-09-05 14:18:22,126 - ds.dsimport - INFO - Updated existing DS 2.0 record Confirmation of sale (Q6670)
+2023-09-05 14:18:22,769 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS Q80:7'], ['9852358'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852358']
+2023-09-05 14:18:23,548 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6671)
+2023-09-05 14:18:25,206 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': None, 'wd_qid': 'Q67198306', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-05 14:18:25,206 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'dsname_id': None, 'wd_qid': 'Q67198306', 'aliases': None, 'label': 'Abraham Faber', 'instance_of': 'human'})
+2023-09-05 14:18:25,877 - ds.authorities - WARNING - No actor found for actor_ids: '{'ds_id': None, 'wd_qid': 'Q67198306', 'auth_class_qid': 'Q8', 'item_id': None}'
+2023-09-05 14:18:26,202 - ds.dsimport - INFO - Using existing DS ID DS1284 given for manuscript
+2023-09-05 14:18:26,527 - ds.dsimport - INFO - Updated existing DS 2.0 record Grant (Q6673)
+2023-09-05 14:18:27,170 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS Q80:8'], ['9852359'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852359']
+2023-09-05 14:18:27,813 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6674)
+2023-09-05 14:18:29,479 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': None, 'wd_qid': 'Q120442558', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-05 14:18:29,479 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'dsname_id': None, 'wd_qid': 'Q120442558', 'aliases': None, 'label': 'Daffyd ap Philip', 'instance_of': 'human'})
+2023-09-05 14:18:30,155 - ds.authorities - WARNING - No actor found for actor_ids: '{'ds_id': None, 'wd_qid': 'Q120442558', 'auth_class_qid': 'Q8', 'item_id': None}'
+2023-09-05 14:18:30,476 - ds.dsimport - INFO - Using existing DS ID DS1285 given for manuscript
+2023-09-05 14:18:30,813 - ds.dsimport - INFO - Updated existing DS 2.0 record Grant in frankalmoigne (Q6676)
+2023-09-05 14:18:31,468 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS Q80:9'], ['9852360'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852360']
+2023-09-05 14:18:32,106 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6677)
+2023-09-05 14:18:34,240 - ds.dsimport - INFO - Using existing DS ID DS1286 given for manuscript
+2023-09-05 14:18:34,648 - ds.dsimport - INFO - Updated existing DS 2.0 record Grant (Q6679)
+2023-09-05 14:18:35,332 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 220C:1'], ['9852361'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852361']
+2023-09-05 14:18:36,049 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6680)
+2023-09-05 14:18:38,097 - ds.dsimport - INFO - Using existing DS ID DS1287 given for manuscript
+2023-09-05 14:18:38,442 - ds.dsimport - INFO - Updated existing DS 2.0 record Transfer of goods (Q6682)
+2023-09-05 14:18:39,084 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A1'], ['9852362'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852362']
+2023-09-05 14:18:39,742 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6683)
+2023-09-05 14:18:41,708 - ds.dsimport - INFO - Using existing DS ID DS1288 given for manuscript
+2023-09-05 14:18:42,043 - ds.dsimport - INFO - Updated existing DS 2.0 record Homeliae in Evangelia (Q6685)
+2023-09-05 14:18:42,691 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A11'], ['9852363'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852363']
+2023-09-05 14:18:43,318 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6686)
+2023-09-05 14:18:45,381 - ds.dsimport - INFO - Using existing DS ID DS1289 given for manuscript
+2023-09-05 14:18:45,731 - ds.dsimport - INFO - Updated existing DS 2.0 record Glossary encyclopedia (Q6688)
+2023-09-05 14:18:46,377 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A12'], ['9852364'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852364']
+2023-09-05 14:18:47,116 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6689)
+2023-09-05 14:18:48,765 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': None, 'wd_qid': 'Q190089', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-05 14:18:48,766 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'dsname_id': None, 'wd_qid': 'Q190089', 'aliases': None, 'label': 'Duns Scotus', 'instance_of': 'human'})
+2023-09-05 14:18:49,436 - ds.authorities - WARNING - No actor found for actor_ids: '{'ds_id': None, 'wd_qid': 'Q190089', 'auth_class_qid': 'Q8', 'item_id': None}'
+2023-09-05 14:18:49,760 - ds.dsimport - INFO - Using existing DS ID DS1290 given for manuscript
+2023-09-05 14:18:50,116 - ds.dsimport - INFO - Updated existing DS 2.0 record Quaestiones quodlibetales (Q6691)
+2023-09-05 14:18:50,759 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A13'], ['9852365'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852365']
+2023-09-05 14:18:51,419 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6692)
+2023-09-05 14:18:53,383 - ds.dsimport - INFO - Using existing DS ID DS1291 given for manuscript
+2023-09-05 14:18:53,731 - ds.dsimport - INFO - Updated existing DS 2.0 record Bible, N.T., Gospel of Matthew, glossed (Q6694)
+2023-09-05 14:18:54,387 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A17'], ['9852366'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852366']
+2023-09-05 14:18:55,105 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6695)
+2023-09-05 14:18:57,100 - ds.dsimport - INFO - Using existing DS ID DS1292 given for manuscript
+2023-09-05 14:18:57,534 - ds.dsimport - INFO - Updated existing DS 2.0 record Sermon material (Q6697)
+2023-09-05 14:18:58,179 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A18'], ['9852367'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852367']
+2023-09-05 14:18:59,007 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6698)
+2023-09-05 14:19:00,991 - ds.dsimport - INFO - Using existing DS ID DS1293 given for manuscript
+2023-09-05 14:19:01,339 - ds.dsimport - INFO - Updated existing DS 2.0 record Philosophical text (Q6700)
+2023-09-05 14:19:01,985 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A2'], ['9852368'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852368']
+2023-09-05 14:19:02,630 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6701)
+2023-09-05 14:19:04,620 - ds.dsimport - INFO - Using existing DS ID DS1294 given for manuscript
+2023-09-05 14:19:04,959 - ds.dsimport - INFO - Updated existing DS 2.0 record Lectionary of Epistle and Gospel readings (Q6703)
+2023-09-05 14:19:05,605 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS Q37:1'], ['9852369'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852369']
+2023-09-05 14:19:06,247 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6704)
+2023-09-05 14:19:08,209 - ds.dsimport - INFO - Using existing DS ID DS1295 given for manuscript
+2023-09-05 14:19:08,620 - ds.dsimport - INFO - Updated existing DS 2.0 record On buying and selling (Q6706)
+2023-09-05 14:19:09,264 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A22'], ['9852370'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852370']
+2023-09-05 14:19:09,925 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6707)
+2023-09-05 14:19:11,658 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': None, 'wd_qid': 'Q188344', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-05 14:19:11,658 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'dsname_id': None, 'wd_qid': 'Q188344', 'aliases': None, 'label': 'Geoffrey of Monmouth', 'instance_of': 'human'})
+2023-09-05 14:19:12,462 - ds.authorities - WARNING - No actor found for actor_ids: '{'ds_id': None, 'wd_qid': 'Q188344', 'auth_class_qid': 'Q8', 'item_id': None}'
+2023-09-05 14:19:12,785 - ds.dsimport - INFO - Using existing DS ID DS1296 given for manuscript
+2023-09-05 14:19:13,149 - ds.dsimport - INFO - Updated existing DS 2.0 record Historia Regum Britanniae (Q6709)
+2023-09-05 14:19:13,795 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A3'], ['9852371'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852371']
+2023-09-05 14:19:14,430 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6710)
+2023-09-05 14:19:16,400 - ds.dsimport - INFO - Using existing DS ID DS1297 given for manuscript
+2023-09-05 14:19:16,811 - ds.dsimport - INFO - Updated existing DS 2.0 record Sacramentary (Q6712)
+2023-09-05 14:19:17,467 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A4'], ['9852372'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852372']
+2023-09-05 14:19:18,146 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6713)
+2023-09-05 14:19:20,177 - ds.dsimport - INFO - Using existing DS ID DS1298 given for manuscript
+2023-09-05 14:19:20,656 - ds.dsimport - INFO - Updated existing DS 2.0 record Hexaemeron (Q6715)
+2023-09-05 14:19:21,299 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A5'], ['9852373'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852373']
+2023-09-05 14:19:21,936 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6716)
+2023-09-05 14:19:23,973 - ds.dsimport - INFO - Using existing DS ID DS1299 given for manuscript
+2023-09-05 14:19:24,363 - ds.dsimport - INFO - Updated existing DS 2.0 record Canon law summa (Q6718)
+2023-09-05 14:19:25,024 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A6'], ['9852374'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852374']
+2023-09-05 14:19:25,647 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6719)
+2023-09-05 14:19:27,604 - ds.dsimport - INFO - Using existing DS ID DS1300 given for manuscript
+2023-09-05 14:19:27,926 - ds.dsimport - INFO - Updated existing DS 2.0 record Breviary (Q6721)
+2023-09-05 14:19:28,575 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A7'], ['9852375'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852375']
+2023-09-05 14:19:29,225 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6722)
+2023-09-05 14:19:31,285 - ds.dsimport - INFO - Using existing DS ID DS1301 given for manuscript
+2023-09-05 14:19:31,632 - ds.dsimport - INFO - Updated existing DS 2.0 record Fragment of a homily written in the late 13th century. (Q6724)
+2023-09-05 14:19:32,282 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:B1'], ['9852376'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852376']
+2023-09-05 14:19:32,916 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6725)
+2023-09-05 14:19:34,929 - ds.dsimport - INFO - Using existing DS ID DS1302 given for manuscript
+2023-09-05 14:19:35,427 - ds.dsimport - INFO - Updated existing DS 2.0 record Tabula Ethicorum Aristotelis (Q6727)
+2023-09-05 14:19:36,091 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:B10'], ['9852377'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852377']
+2023-09-05 14:19:36,857 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6728)
+2023-09-05 14:19:39,508 - ds.dsimport - INFO - Using existing DS ID DS1303 given for manuscript
+2023-09-05 14:19:39,933 - ds.dsimport - INFO - Updated existing DS 2.0 record Commentary on the Pauline Epistles (Q6730)
+2023-09-05 14:19:40,588 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:B7'], ['9852378'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852378']
+2023-09-05 14:19:41,232 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6731)
+2023-09-05 14:19:43,291 - ds.dsimport - INFO - Using existing DS ID DS1304 given for manuscript
+2023-09-05 14:19:43,629 - ds.dsimport - INFO - Updated existing DS 2.0 record Dominica IIII verso (Q6733)
+2023-09-05 14:19:44,272 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:C1'], ['9852379'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852379']
+2023-09-05 14:19:44,915 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6734)
+2023-09-05 14:19:46,952 - ds.dsimport - INFO - Using existing DS ID DS1305 given for manuscript
+2023-09-05 14:19:47,336 - ds.dsimport - INFO - Updated existing DS 2.0 record Lectionary of the gospels (Q6736)
+2023-09-05 14:19:47,995 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS C21'], ['9852380'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852380']
+2023-09-05 14:19:48,633 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6737)
+2023-09-05 14:19:51,375 - ds.dsimport - INFO - Using existing DS ID DS1306 given for manuscript
+2023-09-05 14:19:51,842 - ds.dsimport - INFO - Updated existing DS 2.0 record Chur Psalter (Q6739)
+2023-09-05 14:19:52,490 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS J6:3:B2'], ['9852381'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852381']
+2023-09-05 14:19:53,115 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6740)
+2023-09-05 14:19:55,091 - ds.dsimport - INFO - Using existing DS ID DS1307 given for manuscript
+2023-09-05 14:19:55,651 - ds.dsimport - INFO - Updated existing DS 2.0 record Bible, N. T., Acts of the Apostles (Q6742)
+2023-09-05 14:19:56,295 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS J6:3:B3'], ['9852382'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852382']
+2023-09-05 14:19:56,927 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6743)
+2023-09-05 14:19:59,001 - ds.dsimport - INFO - Using existing DS ID DS1308 given for manuscript
+2023-09-05 14:19:59,427 - ds.dsimport - INFO - Updated existing DS 2.0 record Moralia in Job (Q6745)
+2023-09-05 14:20:00,076 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS J6:3:B4'], ['9852383'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9852383']
+2023-09-05 14:20:00,747 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6746)
+2023-09-05 14:20:02,903 - ds.dsimport - INFO - Using existing DS ID DS1309 given for manuscript
+2023-09-05 14:20:03,536 - ds.dsimport - INFO - Updated existing DS 2.0 record Liber sententiarum (Q6748)
+2023-09-05 14:20:04,182 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 18E:1'], ['9854107'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854107']
+2023-09-05 14:20:04,835 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6749)
+2023-09-05 14:20:06,963 - ds.dsimport - INFO - Using existing DS ID DS1310 given for manuscript
+2023-09-05 14:20:07,399 - ds.dsimport - INFO - Updated existing DS 2.0 record Book of hours (Q6751)
+2023-09-05 14:20:08,064 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS Q80:1'], ['9854108'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854108']
+2023-09-05 14:20:08,704 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6752)
+2023-09-05 14:20:10,644 - ds.dsimport - INFO - Using existing DS ID DS1311 given for manuscript
+2023-09-05 14:20:10,961 - ds.dsimport - INFO - Updated existing DS 2.0 record Grant in frankalmoigne of land and building material for sustaining 4 monks who will sing masses for the souls of Henry II, his sons, and de Burgh (Q6754)
+2023-09-05 14:20:11,610 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS Q80:3'], ['9854109'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854109']
+2023-09-05 14:20:12,232 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6755)
+2023-09-05 14:20:14,145 - ds.dsimport - INFO - Using existing DS ID DS1312 given for manuscript
+2023-09-05 14:20:14,617 - ds.dsimport - INFO - Updated existing DS 2.0 record Grant in frankalmoigne of the tithes from all his assarts in his forest of Grosmont for the good of his soul and that of his wife (Q6757)
+2023-09-05 14:20:15,263 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS Q80:4'], ['9854110'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854110']
+2023-09-05 14:20:16,129 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6758)
+2023-09-05 14:20:18,031 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': None, 'wd_qid': 'Q113864323', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-05 14:20:18,032 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'dsname_id': None, 'wd_qid': 'Q113864323', 'aliases': None, 'label': 'Henry Hakesalt', 'instance_of': 'human'})
+2023-09-05 14:20:18,700 - ds.authorities - WARNING - No actor found for actor_ids: '{'ds_id': None, 'wd_qid': 'Q113864323', 'auth_class_qid': 'Q8', 'item_id': None}'
+2023-09-05 14:20:19,021 - ds.dsimport - INFO - Using existing DS ID DS1313 given for manuscript
+2023-09-05 14:20:19,358 - ds.dsimport - INFO - Updated existing DS 2.0 record Grant in frankalmoigne, three acres of land from Grosmont for no return. (Q6760)
+2023-09-05 14:20:19,999 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS Q80:5'], ['9854111'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854111']
+2023-09-05 14:20:20,626 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6761)
+2023-09-05 14:20:22,284 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': None, 'wd_qid': 'Q113864323', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-05 14:20:22,284 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'dsname_id': None, 'wd_qid': 'Q113864323', 'aliases': None, 'label': 'Henry Hakesalt', 'instance_of': 'human'})
+2023-09-05 14:20:22,954 - ds.authorities - WARNING - No actor found for actor_ids: '{'ds_id': None, 'wd_qid': 'Q113864323', 'auth_class_qid': 'Q8', 'item_id': None}'
+2023-09-05 14:20:23,275 - ds.dsimport - INFO - Using existing DS ID DS1314 given for manuscript
+2023-09-05 14:20:23,618 - ds.dsimport - INFO - Updated existing DS 2.0 record Grant in frankalmoigne, six acres in Grosmont. (Q6763)
+2023-09-05 14:20:24,273 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS Q80:6'], ['9854112'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854112']
+2023-09-05 14:20:24,916 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6764)
+2023-09-05 14:20:26,649 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': None, 'wd_qid': 'Q113864323', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-05 14:20:26,649 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'dsname_id': None, 'wd_qid': 'Q113864323', 'aliases': None, 'label': 'Henry Hakesalt', 'instance_of': 'human'})
+2023-09-05 14:20:27,311 - ds.authorities - WARNING - No actor found for actor_ids: '{'ds_id': None, 'wd_qid': 'Q113864323', 'auth_class_qid': 'Q8', 'item_id': None}'
+2023-09-05 14:20:27,636 - ds.dsimport - INFO - Using existing DS ID DS1315 given for manuscript
+2023-09-05 14:20:28,004 - ds.dsimport - INFO - Updated existing DS 2.0 record Grant in frankalmoigne, six acres in Grosmont for no return. (Q6766)
+2023-09-05 14:20:28,645 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A10'], ['9854113'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854113']
+2023-09-05 14:20:29,355 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6767)
+2023-09-05 14:20:31,290 - ds.dsimport - INFO - Using existing DS ID DS1316 given for manuscript
+2023-09-05 14:20:31,635 - ds.dsimport - INFO - Updated existing DS 2.0 record Glossary, (Q6769)
+2023-09-05 14:20:32,287 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A14'], ['9854114'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854114']
+2023-09-05 14:20:32,932 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6770)
+2023-09-05 14:20:34,891 - ds.dsimport - INFO - Using existing DS ID DS1317 given for manuscript
+2023-09-05 14:20:35,225 - ds.dsimport - INFO - Updated existing DS 2.0 record Theological material, (Q6772)
+2023-09-05 14:20:35,876 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A15'], ['9854115'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854115']
+2023-09-05 14:20:36,547 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6773)
+2023-09-05 14:20:38,535 - ds.dsimport - INFO - Using existing DS ID DS1318 given for manuscript
+2023-09-05 14:20:39,092 - ds.dsimport - INFO - Updated existing DS 2.0 record Book of hours (Q6775)
+2023-09-05 14:20:39,733 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A16'], ['9854116'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854116']
+2023-09-05 14:20:40,450 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6776)
+2023-09-05 14:20:42,562 - ds.dsimport - INFO - Using existing DS ID DS1319 given for manuscript
+2023-09-05 14:20:42,920 - ds.dsimport - INFO - Updated existing DS 2.0 record Pontifical, (Q6778)
+2023-09-05 14:20:43,579 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A19'], ['9854117'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854117']
+2023-09-05 14:20:44,289 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6779)
+2023-09-05 14:20:46,960 - ds.dsimport - INFO - Using existing DS ID DS1320 given for manuscript
+2023-09-05 14:20:47,318 - ds.dsimport - INFO - Updated existing DS 2.0 record Glossary, (Q6781)
+2023-09-05 14:20:47,978 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A21'], ['9854118'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854118']
+2023-09-05 14:20:48,636 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6782)
+2023-09-05 14:20:50,595 - ds.dsimport - INFO - Using existing DS ID DS1321 given for manuscript
+2023-09-05 14:20:50,948 - ds.dsimport - INFO - Updated existing DS 2.0 record Sermons (Manuscript Kenneth Spencer Research Library. MS 9/1:A21) (Q6784)
+2023-09-05 14:20:51,593 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A23'], ['9854119'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854119']
+2023-09-05 14:20:52,253 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6785)
+2023-09-05 14:20:54,371 - ds.dsimport - INFO - Using existing DS ID DS1322 given for manuscript
+2023-09-05 14:20:54,752 - ds.dsimport - INFO - Updated existing DS 2.0 record Theological material, (Q6787)
+2023-09-05 14:20:55,399 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A24'], ['9854120'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854120']
+2023-09-05 14:20:56,251 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6788)
+2023-09-05 14:20:58,286 - ds.dsimport - INFO - Using existing DS ID DS1323 given for manuscript
+2023-09-05 14:20:58,734 - ds.dsimport - INFO - Updated existing DS 2.0 record Missal, (Q6790)
+2023-09-05 14:20:59,375 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A8'], ['9854121'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854121']
+2023-09-05 14:21:00,024 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6791)
+2023-09-05 14:21:02,026 - ds.dsimport - INFO - Using existing DS ID DS1324 given for manuscript
+2023-09-05 14:21:02,360 - ds.dsimport - INFO - Updated existing DS 2.0 record Bible (Q6793)
+2023-09-05 14:21:03,013 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:A9'], ['9854122'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854122']
+2023-09-05 14:21:03,637 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6794)
+2023-09-05 14:21:06,383 - ds.dsimport - INFO - Using existing DS ID DS1325 given for manuscript
+2023-09-05 14:21:06,822 - ds.dsimport - INFO - Updated existing DS 2.0 record Sermons, (Q6796)
+2023-09-05 14:21:07,474 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:B3'], ['9854123'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854123']
+2023-09-05 14:21:08,117 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6797)
+2023-09-05 14:21:10,053 - ds.dsimport - INFO - Using existing DS ID DS1326 given for manuscript
+2023-09-05 14:21:10,620 - ds.dsimport - INFO - Updated existing DS 2.0 record Missal, (Q6799)
+2023-09-05 14:21:11,263 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:B4'], ['9854124'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854124']
+2023-09-05 14:21:11,944 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6800)
+2023-09-05 14:21:13,909 - ds.dsimport - INFO - Using existing DS ID DS1327 given for manuscript
+2023-09-05 14:21:14,320 - ds.dsimport - INFO - Updated existing DS 2.0 record Missal, (Q6802)
+2023-09-05 14:21:14,965 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:B5'], ['9854125'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854125']
+2023-09-05 14:21:15,632 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6803)
+2023-09-05 14:21:17,783 - ds.dsimport - INFO - Using existing DS ID DS1328 given for manuscript
+2023-09-05 14:21:18,311 - ds.dsimport - INFO - Updated existing DS 2.0 record Missal, (Q6805)
+2023-09-05 14:21:18,958 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:B9'], ['9854126'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854126']
+2023-09-05 14:21:19,603 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6806)
+2023-09-05 14:21:21,604 - ds.dsimport - INFO - Using existing DS ID DS1329 given for manuscript
+2023-09-05 14:21:21,926 - ds.dsimport - INFO - Updated existing DS 2.0 record Sermons (Manuscript Kenneth Spencer Research Library. MS 9/1:B9) (Q6808)
+2023-09-05 14:21:22,570 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:C3'], ['9854127'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854127']
+2023-09-05 14:21:23,216 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6809)
+2023-09-05 14:21:25,143 - ds.dsimport - INFO - Using existing DS ID DS1330 given for manuscript
+2023-09-05 14:21:25,555 - ds.dsimport - INFO - Updated existing DS 2.0 record Missal, (Q6811)
+2023-09-05 14:21:26,198 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:C4'], ['9854128'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854128']
+2023-09-05 14:21:26,842 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6812)
+2023-09-05 14:21:28,900 - ds.dsimport - INFO - Using existing DS ID DS1331 given for manuscript
+2023-09-05 14:21:29,334 - ds.dsimport - INFO - Updated existing DS 2.0 record Book of hours (Manuscript Kenneth Spencer Research Library. MS 9/1:C4) (Q6814)
+2023-09-05 14:21:29,983 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['Pryce MS P2A:1'], ['9854129'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854129']
+2023-09-05 14:21:30,633 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6815)
+2023-09-05 14:21:33,341 - ds.dsimport - INFO - Using existing DS ID DS1332 given for manuscript
+2023-09-05 14:21:33,740 - ds.dsimport - INFO - Updated existing DS 2.0 record Glossary, (Q6817)
+2023-09-05 14:21:34,391 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:B2'], ['9854130'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854130']
+2023-09-05 14:21:35,037 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6818)
+2023-09-05 14:21:37,028 - ds.dsimport - INFO - Using existing DS ID DS1333 given for manuscript
+2023-09-05 14:21:37,353 - ds.dsimport - INFO - Updated existing DS 2.0 record Scholastic work (Fragment Kenneth Spencer Research Libary. MS 9/1:B2) (Q6820)
+2023-09-05 14:21:37,996 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/2:28'], ['9854131'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9854131']
+2023-09-05 14:21:38,628 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6821)
+2023-09-05 14:21:40,750 - ds.dsimport - INFO - Using existing DS ID DS1334 given for manuscript
+2023-09-05 14:21:41,139 - ds.dsimport - INFO - Updated existing DS 2.0 record Pontifical (Fragment Kenneth Spencer Research Library. MS 9/2:28) (Q6823)
+2023-09-05 14:21:41,782 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS Q95'], ['9855073'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9855073']
+2023-09-05 14:21:42,426 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6824)
+2023-09-05 14:21:44,093 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': None, 'wd_qid': 'Q120442570', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-05 14:21:44,094 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'dsname_id': None, 'wd_qid': 'Q120442570', 'aliases': None, 'label': 'Kenneth J. "Bud" Jennings', 'instance_of': 'human'})
+2023-09-05 14:21:44,767 - ds.authorities - WARNING - No actor found for actor_ids: '{'ds_id': None, 'wd_qid': 'Q120442570', 'auth_class_qid': 'Q8', 'item_id': None}'
+2023-09-05 14:21:45,090 - ds.dsimport - INFO - Using existing DS ID DS1335 given for manuscript
+2023-09-05 14:21:45,717 - ds.dsimport - INFO - Updated existing DS 2.0 record Leaf containing psalms 136 (137), 137 (138), 138 (139) (Q6826)
+2023-09-05 14:21:46,367 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS Qa38'], ['9855074'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9855074']
+2023-09-05 14:21:47,247 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6827)
+2023-09-05 14:21:48,881 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': None, 'wd_qid': 'Q120442570', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-05 14:21:48,881 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'dsname_id': None, 'wd_qid': 'Q120442570', 'aliases': None, 'label': 'Kenneth J. "Bud" Jennings', 'instance_of': 'human'})
+2023-09-05 14:21:49,542 - ds.authorities - WARNING - No actor found for actor_ids: '{'ds_id': None, 'wd_qid': 'Q120442570', 'auth_class_qid': 'Q8', 'item_id': None}'
+2023-09-05 14:21:49,861 - ds.dsimport - INFO - Using existing DS ID DS1336 given for manuscript
+2023-09-05 14:21:50,413 - ds.dsimport - INFO - Updated existing DS 2.0 record Leaf containing "Splendor paternae gloriae" / Ambrose of Milan (Q6829)
+2023-09-05 14:21:51,060 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS R29'], ['9855075'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9855075']
+2023-09-05 14:21:51,736 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6830)
+2023-09-05 14:21:53,756 - ds.dsimport - INFO - Using existing DS ID DS1337 given for manuscript
+2023-09-05 14:21:54,229 - ds.dsimport - INFO - Updated existing DS 2.0 record Leaf from an antiphonary (Manuscript Kenneth Spencer Research Library. MS R29) (Q6832)
+2023-09-05 14:21:54,875 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS J6:3:A3'], ['9855107'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9855107']
+2023-09-05 14:21:55,600 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6833)
+2023-09-05 14:21:57,809 - ds.dsimport - INFO - Using existing DS ID DS1338 given for manuscript
+2023-09-05 14:21:58,145 - ds.dsimport - INFO - Updated existing DS 2.0 record Corpus juris civilis. Digesta. Digestum vetus. Prooemium, leaf 1. (Q6835)
+2023-09-05 14:21:58,791 - ds.dsimport - INFO - Creating new holding record for Q52413, University of Kansas, ['MS 9/1:B6'], ['9913304'], ['https://kuprimo.hosted.exlibrisgroup.com/permalink/f/1n9tuvc/KU_VOYAGER9913304']
+2023-09-05 14:21:59,452 - ds.holdings - INFO - Updated existing holding University of Kansas (Q6836)
+2023-09-05 14:22:01,431 - ds.dsimport - INFO - Using existing DS ID DS1339 given for manuscript
+2023-09-05 14:22:01,835 - ds.dsimport - INFO - Updated existing DS 2.0 record Documents concernant les ... Tronchiennes et autre .... (Q6838)
