@@ -1,0 +1,649 @@
+bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2023-09-14 15:15:11,469 - ds.auth_cache - INFO - Reading authority for Material (Authority File) (Q17)
+2023-09-14 15:15:12,515 - __main__ - INFO - Completed reading input file external_authorities/materials.csv.
+2023-09-14 15:15:12,516 - __main__ - INFO - Authority file creation completed for external_authorities/materials.csv.
+2023-09-14 15:15:12,842 - ds.auth_cache - INFO - Reading authority for Role (Authority File) (Q10)
+2023-09-14 15:15:13,542 - __main__ - INFO - Completed reading input file external_authorities/roles.csv.
+2023-09-14 15:15:13,542 - __main__ - INFO - Authority file creation completed for external_authorities/roles.csv.
+2023-09-14 15:15:13,870 - ds.auth_cache - INFO - Reading authority for Century (Authority File) (Q13)
+2023-09-14 15:15:14,659 - __main__ - INFO - Completed reading input file external_authorities/centuries.csv.
+2023-09-14 15:15:14,660 - __main__ - INFO - Authority file creation completed for external_authorities/centuries.csv.
+2023-09-14 15:15:14,994 - ds.auth_cache - INFO - Reading authority for Term (Authority File) (Q11)
+2023-09-14 15:15:18,589 - __main__ - INFO - Reading authorities for subject_label, subject
+2023-09-14 15:15:18,590 - ds.dsimport_reader - INFO - Read input: data/ds-data/member-data/penn/penn-import-2023-08-01-0801-0900.csv
+2023-09-14 15:15:18,597 - __main__ - INFO - Reading authorities for genre_label, genre
+2023-09-14 15:15:18,597 - ds.dsimport_reader - INFO - Read input: data/ds-data/member-data/penn/penn-import-2023-08-01-0801-0900.csv
+2023-09-14 15:15:18,604 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1084326', 'label': 'Purgatory', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+/usr/local/lib/python3.10/site-packages/wikibaseintegrator/wbi_functions.py:390: UserWarning: Warning: No distinct value properties found
+Please set P2302 and Q21502410 in your Wikibase or set `core_props` manually.
+Continuing with no core_props
+  warn("Warning: No distinct value properties found\n" +
+2023-09-14 15:15:21,536 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1312398', 'label': 'Germany--Wittenberg (Saxony-Anhalt)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:22,021 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/aat/300026671', 'label': 'speeches (documents)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:22,420 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/819774', 'label': 'Astronomy, Greek', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:22,743 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/29176', 'label': 'Thomas, Aquinas, Saint, 1225?-1274', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:23,051 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1206081', 'label': 'France--Burgundy', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:23,413 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/39095', 'label': 'Domitian, Emperor of Rome, 51-96', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:23,747 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/29884', 'label': 'Origen', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:24,093 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1204564', 'label': 'Italy--Città di Castello', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:24,425 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1710979', 'label': 'German poetry--Middle High German', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:24,737 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/aat/300191065', 'label': 'romances (medieval narratives)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:25,052 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/936221', 'label': 'Funeral orations', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:25,361 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/892012', 'label': 'Devotional exercises', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:25,700 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1094260', 'label': 'Religious poetry, Latin', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:26,047 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1362775', 'label': 'Eunuchus (Terence)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:26,417 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/914160', 'label': 'Epigrams, Latin (Medieval and modern)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:26,745 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/aat/300152044', 'label': 'bulls (papal records)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:27,223 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/993125', 'label': 'Latin language', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:27,556 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/aat/300027483', 'label': 'account books', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:27,862 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1907139', 'label': 'Persecution--Early church', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:28,157 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/aat/300253001', 'label': 'aphorisms', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:28,508 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/963781', 'label': 'Humorous poetry, German', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:29,010 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1099925', 'label': 'Romances, Latin (Medieval and modern)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:29,329 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/902025', 'label': 'Economic policy', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:29,627 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/955449', 'label': 'Heresy', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:29,916 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1025544', 'label': 'Monochord', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:30,228 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1817708', 'label': 'Eusebius, of Caesarea, Bishop of Caesarea, approximately 260-approximately 340', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:30,539 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/804195', 'label': 'Albigenses', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:31,348 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/847092', 'label': 'Cardinal virtues', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:31,751 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/390937', 'label': 'Strozzi, Nanni, 1376-1427', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:32,051 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1804362', 'label': 'Ambrose, Saint, Bishop of Milan, -397', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:32,414 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/846126', 'label': 'Canticles', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:32,725 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1356139', 'label': 'Ten commandments', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:33,024 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/968330', 'label': 'In Coena Domini bulls', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:33,337 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/924349', 'label': 'Finance', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:33,617 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/980657', 'label': 'Italian letters', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:33,924 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/aat/300027093', 'label': 'commonplace books', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:34,215 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/864014', 'label': 'Clergy', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:34,518 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1045995', 'label': 'Ontology', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:34,907 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1133750', 'label': 'Stoics', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:35,318 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1213826', 'label': 'France--Douai', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:35,673 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/860965', 'label': 'Church vestments', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:36,023 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/aat/300026459', 'label': 'breviaries', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:36,332 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1039553', 'label': 'Notaries', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:36,622 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1023668', 'label': 'Misogyny', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:36,961 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/19214', 'label': 'Alexius, Saint', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:37,292 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/102718', 'label': 'Charles VIII, King of France, 1470-1498', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:37,619 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/845942', 'label': 'Canonists', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:37,929 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/993329', 'label': 'Latin letters, Medieval and modern', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:38,228 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/860699', 'label': 'Church finance', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:38,528 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1952022', 'label': 'Rodríguez, Sebastián, 1896-1968', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:38,819 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/721102', 'label': 'Ordre de Saint-Michel', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:39,246 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1225559', 'label': 'Italy--Genoa', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:39,602 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1129386', 'label': 'Speeches, addresses, etc., Latin', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:39,955 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/54638', 'label': 'Charles, Duke of Burgundy, 1433-1477', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:40,313 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/aat/300026877', 'label': 'correspondence', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:40,646 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1357161', 'label': 'Andria (Terence)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:40,930 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1134169', 'label': 'Storytelling', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:41,235 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/aat/300027895', 'label': 'ordinances', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:41,517 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1205450', 'label': 'Spain--Santo Domingo de la Calzada', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:41,828 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1356362', 'label': 'Poetics (Aristotle)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:42,207 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/964430', 'label': 'Hussites', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:42,645 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1362786', 'label': 'De institutione musica (Boethius)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:42,956 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/37785', 'label': 'Terence', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:43,251 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1426484', 'label': 'Rhetoric, Ancient--Study and teaching', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:43,611 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/993678', 'label': 'Law', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:43,951 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/955514', 'label': 'Hermetic philosophers', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:44,251 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/975769', 'label': 'Intellectual life', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:44,630 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/16713', 'label': 'Philip, Duke of Burgundy, 1396-1467', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:44,957 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/993385', 'label': 'Latin poetry, Medieval and modern', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:45,243 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1204970', 'label': 'Spain--Palencia', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:45,542 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1157294', 'label': 'Trojan War', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:45,843 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1355957', 'label': '69-96', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:46,148 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1355909', 'label': '30 B.C.-68 A.D.', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:46,552 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1210888', 'label': 'France--Franche-Comté', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:46,956 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1355906', 'label': '30-600', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:47,254 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/359832', 'label': 'Zeno, Carlo, 1334-1418', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:47,537 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1206078', 'label': 'France--Metz', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:47,825 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/35600', 'label': 'Socrates', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:48,125 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1223900', 'label': 'France--Burgundy (County)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:48,523 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/43382', 'label': 'Charles V, Holy Roman Emperor, 1500-1558', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:48,827 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1096044', 'label': 'Resurrection', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:49,135 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/993349', 'label': 'Latin literature, Medieval and modern', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:49,447 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1355154', 'label': 'Transfiguration of Jesus Christ', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:49,727 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1211700', 'label': 'Mexico', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:50,056 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/361181', 'label': 'Hertford, Katherine Seymour, Countess of, 1540-1568', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:50,359 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1208452', 'label': 'Italy--Forlì', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:50,652 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1204299', 'label': 'Italy--Perugia', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:50,939 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1156341', 'label': 'Trials (Heresy)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:51,225 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/aat/300026477', 'label': 'psalters (books)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:51,522 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1025265', 'label': 'Money', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:51,824 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1056817', 'label': 'Penance', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:52,119 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/220162', 'label': 'Flavian family', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:52,425 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/988194', 'label': 'Knowledge, Theory of', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:52,729 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1039575', 'label': 'Notaries (Canon law)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:53,034 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1360028', 'label': 'Encheiridion harmonikēs (Nicomachus, of Gerasa)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:53,424 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/796098', 'label': 'Acrostics', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:53,756 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/913799', 'label': 'Epic poetry', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:54,330 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/13189', 'label': 'Francis I, King of France, 1494-1547', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:54,711 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1204896', 'label': 'Italy--Umbria', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:55,057 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1351993', 'label': 'Baptism of Jesus Christ', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:55,351 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/899880', 'label': 'Dutch poetry', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:55,635 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/aat/300027473', 'label': 'financial records', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:55,931 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/aat/300027433', 'label': 'bylaws (administrative records)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:56,209 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/958268', 'label': 'History--Prophecies', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:56,510 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1025055', 'label': 'Monarchy', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:56,815 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1126654', 'label': 'Sonnets, Italian', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:57,134 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/993213', 'label': 'Latin language--Orthography and spelling', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:57,450 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1355633', 'label': '1589-1789', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:57,745 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1805773', 'label': 'Aurispa, Giovanni, approximately 1376-1459', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:58,026 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1312353', 'label': 'Germany--Mainz (Rhineland-Palatinate)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:58,311 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/941930', 'label': 'German poetry', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:58,624 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1021435', 'label': 'Military religious orders', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:58,939 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1058354', 'label': 'Persecution', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:59,254 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/982359', 'label': 'Jesuit drama, Latin (Medieval and modern)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:59,543 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1047396', 'label': 'Orders of knighthood and chivalry', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:15:59,840 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/827229', 'label': 'Baptism', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:16:00,114 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/543163', 'label': 'Universität Wittenberg', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:16:00,407 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/967190', 'label': 'Illegitimacy', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:16:00,719 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1202897', 'label': 'Italy--Aquileia', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:16:01,020 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1017156', 'label': 'Mercy', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:16:01,345 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/988113', 'label': 'Knights and knighthood', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:16:01,626 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1754933', 'label': 'Cooking, English', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:16:01,940 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1207323', 'label': 'Italy--Monselice', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:16:02,216 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1156713', 'label': 'Trigonometry', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:16:02,537 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/aat/300264591', 'label': 'maxims', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:16:02,833 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/29864', 'label': 'Apollonius, of Tyana', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:16:03,124 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1354440', 'label': 'Resurrection of Jesus Christ', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:16:03,458 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/970762', 'label': 'Indulgences (Canon law)', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:16:03,791 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/996699', 'label': 'Letter writing', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:16:04,102 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/959009', 'label': 'Holy Spirit', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:16:05,028 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://id.worldcat.org/fast/1108803', 'label': 'Science, Medieval', 'external_identifier': None, 'auth_class_qid': 'Q11'}
+2023-09-14 15:16:05,428 - __main__ - INFO - Authority file creation completed for term (Q11), 352 items
+2023-09-14 15:16:05,765 - ds.auth_cache - INFO - Reading authority for Place (Authority File) (Q16)
+2023-09-14 15:16:06,643 - __main__ - INFO - Reading authorities for production_place_label, production_place
+2023-09-14 15:16:06,643 - ds.dsimport_reader - INFO - Read input: data/ds-data/member-data/penn/penn-import-2023-08-01-0801-0900.csv
+2023-09-14 15:16:06,649 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/tgn/7008231', 'label': 'Palencia', 'external_identifier': None, 'auth_class_qid': 'Q16'}
+/usr/local/lib/python3.10/site-packages/wikibaseintegrator/wbi_functions.py:390: UserWarning: Warning: No distinct value properties found
+Please set P2302 and Q21502410 in your Wikibase or set `core_props` manually.
+Continuing with no core_props
+  warn("Warning: No distinct value properties found\n" +
+2023-09-14 15:16:08,340 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/tgn/7008458', 'label': 'Douai', 'external_identifier': None, 'auth_class_qid': 'Q16'}
+2023-09-14 15:16:08,614 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/tgn/1032406', 'label': 'Cancon', 'external_identifier': None, 'auth_class_qid': 'Q16'}
+2023-09-14 15:16:08,947 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/tgn/4007415', 'label': 'Montedoglio', 'external_identifier': None, 'auth_class_qid': 'Q16'}
+2023-09-14 15:16:09,330 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/tgn/7005039', 'label': 'Città di Castello', 'external_identifier': None, 'auth_class_qid': 'Q16'}
+2023-09-14 15:16:09,617 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/tgn/7029372', 'label': 'Burgundy', 'external_identifier': None, 'auth_class_qid': 'Q16'}
+2023-09-14 15:16:09,915 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/tgn/7005874', 'label': 'Crema', 'external_identifier': None, 'auth_class_qid': 'Q16'}
+2023-09-14 15:16:10,227 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/tgn/7002443', 'label': 'Wales', 'external_identifier': None, 'auth_class_qid': 'Q16'}
+2023-09-14 15:16:10,562 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': 'http://vocab.getty.edu/tgn/7008546', 'label': 'Genoa', 'external_identifier': None, 'auth_class_qid': 'Q16'}
+2023-09-14 15:16:10,916 - __main__ - INFO - Authority file creation completed for place (Q16), 34 items
+2023-09-14 15:16:11,248 - ds.auth_cache - INFO - Reading authority for Language (Authority File) (Q12)
+2023-09-14 15:16:11,965 - __main__ - INFO - Reading authorities for language_label, language
+2023-09-14 15:16:11,965 - ds.dsimport_reader - INFO - Read input: data/ds-data/member-data/penn/penn-import-2023-08-01-0801-0900.csv
+2023-09-14 15:16:11,971 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': 'Q241243', 'external_uri': None, 'label': 'Provençal', 'external_identifier': None, 'auth_class_qid': 'Q12'}
+/usr/local/lib/python3.10/site-packages/wikibaseintegrator/wbi_functions.py:390: UserWarning: Warning: No distinct value properties found
+Please set P2302 and Q21502410 in your Wikibase or set `core_props` manually.
+Continuing with no core_props
+  warn("Warning: No distinct value properties found\n" +
+2023-09-14 15:16:13,231 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': 'Q707007', 'external_uri': None, 'label': 'Rhine Franconian', 'external_identifier': None, 'auth_class_qid': 'Q12'}
+2023-09-14 15:16:13,548 - __main__ - INFO - Authority file creation completed for lang (Q12), 14 items
+2023-09-14 15:16:13,883 - ds.auth_cache - INFO - Reading authority for Standard Title (Q6)
+2023-09-14 15:16:15,457 - ds.auth_cache - INFO - Reading authority for Standard Title (Q6)
+2023-09-14 15:16:17,057 - __main__ - INFO - Reading authorities for standard_title, None
+2023-09-14 15:16:17,058 - ds.dsimport_reader - INFO - Read input: data/ds-data/member-data/penn/penn-import-2023-08-01-0801-0900.csv
+2023-09-14 15:16:17,064 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Disputations on metaphysics', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+/usr/local/lib/python3.10/site-packages/wikibaseintegrator/wbi_functions.py:390: UserWarning: Warning: No distinct value properties found
+Please set P2302 and Q21502410 in your Wikibase or set `core_props` manually.
+Continuing with no core_props
+  warn("Warning: No distinct value properties found\n" +
+2023-09-14 15:16:18,691 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Roman de Troie', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:18,998 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Proceedings', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:19,303 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Johannis tostii clarissimorum witebergensium professorum descriptio', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:19,617 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Treatise on the seven deadly sins', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:19,940 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'De improbatione concentricorum et epicyclorum', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:20,202 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Grammatica latina', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:20,524 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Liber de amore et dilectione dei et proximi et aliarum rerum et de forma vitae', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:20,806 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Financial recommendations', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:21,142 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Regulae', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:21,549 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Die Klag vom Wolf am Hage', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:21,836 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Chrestomathy of latin authors', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:22,113 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Titus Flavius et alii opera tragica', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:22,521 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Liber de homine', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:22,813 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'De educatione liberorum et eorum claris moribus', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:23,125 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Commentary on Eunuch', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:23,431 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Capitoli, esentioni, et privilegii', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:23,730 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'De sacramentis', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:24,005 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Disputations on de anima', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:24,344 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Commonplace book', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:24,604 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Dictionary', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:24,927 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Recipe book', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:25,207 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Processo contra Ysabel Rodriguez', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:25,516 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Erotopaegnion', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:25,838 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Pupilla oculi', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:26,117 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'La regla y constituciones de la cofradia y congregacion y cofrades', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:26,407 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Aeneid', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:26,718 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Alphabetum malarum mulierum', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:27,025 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Book of Sydrac', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:27,334 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'De astronomia', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:27,602 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Commentarius cum quaestionibus in universam Aristotelis philosophiam naturalem', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:27,897 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'De misericordia', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:28,209 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Verse chronicle', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:28,509 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Liber bellorum domini', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:28,824 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Commentary on Analytica', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:29,111 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'De vita Caesarum', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:29,712 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Aurora', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:30,413 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Common book', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:30,717 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Collection of poetry', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:31,018 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Commentary on Andria', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:31,304 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Organon', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:31,610 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'La declaracion de tous les haulx fais et glorieuses aventures du duc Phelippe', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:31,900 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Monocordium', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:32,205 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Paschale carmen', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:32,521 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Commentary on Nichomachean Ethics', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:32,800 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Orthographia', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:33,102 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Vitae episcoporum et patriarcharum aquileiensium', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:33,426 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Ad statutum positum sub rubrica de contractibus cum minoribus', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:33,726 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Accounts', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:34,004 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Roman de la rose', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:34,291 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Rationale divinorum officiorum', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:34,611 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Disputations on physics', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:35,015 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Decameron', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:35,316 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'De republica Veneta', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:35,812 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': "Commentary on Aristotle's Metaphysics", 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:36,415 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Epistulae ad Lucilium', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:36,743 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Historia gestorum Alexandri pueri magni', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:37,047 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'De accidentibus animae rationalis', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:37,317 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Blancandin', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:37,610 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Chant book', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:38,050 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'De amore et dilectione dei', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:38,340 - ds.authorities - WARNING - No cached item_data for item_ids: {'wd_qid': None, 'external_uri': None, 'label': 'Summa logicae', 'external_identifier': None, 'auth_class_qid': 'Q6'}
+2023-09-14 15:16:38,633 - __main__ - INFO - Authority file creation completed for title (Q6), 91 items
+2023-09-14 15:16:38,978 - ds.auth_cache - INFO - Reading authority for Personal (Name Authority) (Q8)
+2023-09-14 15:16:41,501 - ds.auth_cache - INFO - Reading authority for Corporate (Name Authority) (Q9)
+2023-09-14 15:16:42,586 - ds.dsimport_reader - INFO - Done reading 100 manuscripts from CSV
+2023-09-14 15:16:42,589 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q1540582', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:42,589 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Hans von Bruneck', 'wd_qid': 'Q1540582', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:42,589 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Hans von Bruneck', 'wd_qid': 'Q1540582', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:42,589 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Hans von Bruneck', 'wd_qid': 'Q1540582', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:16:45,411 - ds.authorities - INFO - Created actor Hans von Bruneck (Q7865)
+2023-09-14 15:16:45,411 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q53021555', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:45,411 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Ernest Stroehlin', 'wd_qid': 'Q53021555', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:45,411 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Ernest Stroehlin', 'wd_qid': 'Q53021555', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:45,411 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Ernest Stroehlin', 'wd_qid': 'Q53021555', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:16:46,015 - ds.authorities - INFO - Created actor Ernest Stroehlin (Q7866)
+2023-09-14 15:16:46,015 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q538564', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:46,015 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Coelius Sedulius', 'wd_qid': 'Q538564', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:46,015 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Coelius Sedulius', 'wd_qid': 'Q538564', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:46,015 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Coelius Sedulius', 'wd_qid': 'Q538564', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:16:46,629 - ds.authorities - INFO - Created actor Coelius Sedulius (Q7867)
+2023-09-14 15:16:46,629 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q2329414', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:46,629 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Guillaume Durand', 'wd_qid': 'Q2329414', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:46,629 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Guillaume Durand', 'wd_qid': 'Q2329414', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:46,629 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Guillaume Durand', 'wd_qid': 'Q2329414', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:16:47,252 - ds.authorities - INFO - Created actor Guillaume Durand (Q7868)
+2023-09-14 15:16:47,252 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116452817', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:47,252 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Charles Kothen', 'wd_qid': 'Q116452817', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:47,252 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Charles Kothen', 'wd_qid': 'Q116452817', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:47,252 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Charles Kothen', 'wd_qid': 'Q116452817', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:16:48,024 - ds.authorities - INFO - Created actor Charles Kothen (Q7869)
+2023-09-14 15:16:48,025 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116447053', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:48,025 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Michel de Léon', 'wd_qid': 'Q116447053', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:48,025 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Michel de Léon', 'wd_qid': 'Q116447053', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:48,025 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Michel de Léon', 'wd_qid': 'Q116447053', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:16:48,652 - ds.authorities - INFO - Created actor Michel de Léon (Q7870)
+2023-09-14 15:16:48,652 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q556117', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:48,652 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Petrus Riga', 'wd_qid': 'Q556117', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:48,652 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Petrus Riga', 'wd_qid': 'Q556117', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:48,652 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Petrus Riga', 'wd_qid': 'Q556117', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:16:49,639 - ds.authorities - INFO - Created actor Petrus Riga (Q6085)
+2023-09-14 15:16:49,639 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q1372875', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:49,639 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Maffeo Vegio', 'wd_qid': 'Q1372875', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:49,639 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Maffeo Vegio', 'wd_qid': 'Q1372875', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:49,639 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Maffeo Vegio', 'wd_qid': 'Q1372875', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:16:50,309 - ds.authorities - INFO - Created actor Maffeo Vegio (Q7871)
+2023-09-14 15:16:50,309 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116649908', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:50,309 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Johannes Wigg', 'wd_qid': 'Q116649908', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:50,309 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Johannes Wigg', 'wd_qid': 'Q116649908', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:50,309 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Johannes Wigg', 'wd_qid': 'Q116649908', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:16:50,912 - ds.authorities - INFO - Created actor Johannes Wigg (Q7872)
+2023-09-14 15:16:50,912 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q1663394', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:50,912 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Jan Six VII', 'wd_qid': 'Q1663394', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:50,912 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Jan Six VII', 'wd_qid': 'Q1663394', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:50,912 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Jan Six VII', 'wd_qid': 'Q1663394', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:16:51,538 - ds.authorities - INFO - Created actor Jan Six VII (Q7873)
+2023-09-14 15:16:51,538 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q18530204', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:51,539 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'John Burgh', 'wd_qid': 'Q18530204', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:51,539 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'John Burgh', 'wd_qid': 'Q18530204', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:51,539 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'John Burgh', 'wd_qid': 'Q18530204', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:16:52,323 - ds.authorities - INFO - Created actor John Burgh (Q7874)
+2023-09-14 15:16:52,323 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116572519', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:52,324 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Hugh Roberts', 'wd_qid': 'Q116572519', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:52,324 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Hugh Roberts', 'wd_qid': 'Q116572519', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:52,324 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Hugh Roberts', 'wd_qid': 'Q116572519', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:16:52,947 - ds.authorities - INFO - Created actor Hugh Roberts (Q7875)
+2023-09-14 15:16:52,947 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116172294', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:52,947 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Hurleston, Charles', 'wd_qid': 'Q116172294', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:52,947 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Hurleston, Charles', 'wd_qid': 'Q116172294', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:52,947 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Hurleston, Charles', 'wd_qid': 'Q116172294', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:16:53,700 - ds.authorities - INFO - Created actor Hurleston, Charles (Q7876)
+2023-09-14 15:16:53,700 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116447015', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:53,700 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Thomon Simon Jones', 'wd_qid': 'Q116447015', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:53,700 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Thomon Simon Jones', 'wd_qid': 'Q116447015', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:53,700 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Thomon Simon Jones', 'wd_qid': 'Q116447015', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:16:54,323 - ds.authorities - INFO - Created actor Thomon Simon Jones (Q7877)
+2023-09-14 15:16:54,323 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q15507845', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:54,324 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Ernst Schultze', 'wd_qid': 'Q15507845', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:54,324 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Ernst Schultze', 'wd_qid': 'Q15507845', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:54,324 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Ernst Schultze', 'wd_qid': 'Q15507845', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:16:54,999 - ds.authorities - INFO - Created actor Ernst Schultze (Q7878)
+2023-09-14 15:16:55,000 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116250783', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:55,000 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'John Thomas Beer', 'wd_qid': 'Q116250783', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:55,000 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'John Thomas Beer', 'wd_qid': 'Q116250783', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:55,000 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'John Thomas Beer', 'wd_qid': 'Q116250783', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:16:55,744 - ds.authorities - INFO - Created actor John Thomas Beer (Q7879)
+2023-09-14 15:16:55,744 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q104146944', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:55,744 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'William of Paris', 'wd_qid': 'Q104146944', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:55,744 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'William of Paris', 'wd_qid': 'Q104146944', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:55,744 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'William of Paris', 'wd_qid': 'Q104146944', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:16:56,512 - ds.authorities - INFO - Created actor William of Paris (Q7880)
+2023-09-14 15:16:56,512 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q544092', 'auth_class_qid': 'Q9', 'item_id': None}
+2023-09-14 15:16:56,512 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Order of Saint Michael', 'wd_qid': 'Q544092', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()})
+2023-09-14 15:16:56,512 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Order of Saint Michael', 'wd_qid': 'Q544092', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()}
+2023-09-14 15:16:56,512 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Order of Saint Michael', 'wd_qid': 'Q544092', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()}'
+2023-09-14 15:16:57,111 - ds.authorities - INFO - Created actor Order of Saint Michael (Q7881)
+2023-09-14 15:16:57,111 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116322997', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:57,111 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Laurentius Cynthius', 'wd_qid': 'Q116322997', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:57,111 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Laurentius Cynthius', 'wd_qid': 'Q116322997', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:57,111 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Laurentius Cynthius', 'wd_qid': 'Q116322997', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:16:57,726 - ds.authorities - INFO - Created actor Laurentius Cynthius (Q7882)
+2023-09-14 15:16:57,726 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116453232', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:57,727 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Pedro de Manozca', 'wd_qid': 'Q116453232', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:57,727 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Pedro de Manozca', 'wd_qid': 'Q116453232', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:57,727 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Pedro de Manozca', 'wd_qid': 'Q116453232', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:16:58,342 - ds.authorities - INFO - Created actor Pedro de Manozca (Q7883)
+2023-09-14 15:16:58,342 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q978389', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:58,342 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Vicente Riva Palacio', 'wd_qid': 'Q978389', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:58,342 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Vicente Riva Palacio', 'wd_qid': 'Q978389', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:58,342 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Vicente Riva Palacio', 'wd_qid': 'Q978389', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:16:59,014 - ds.authorities - INFO - Created actor Vicente Riva Palacio (Q7884)
+2023-09-14 15:16:59,014 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q87450169', 'auth_class_qid': 'Q9', 'item_id': None}
+2023-09-14 15:16:59,014 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Podestà of Perugia', 'wd_qid': 'Q87450169', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()})
+2023-09-14 15:16:59,014 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Podestà of Perugia', 'wd_qid': 'Q87450169', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()}
+2023-09-14 15:16:59,014 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Podestà of Perugia', 'wd_qid': 'Q87450169', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()}'
+2023-09-14 15:16:59,612 - ds.authorities - INFO - Created actor Podestà of Perugia (Q7885)
+2023-09-14 15:16:59,612 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116181638', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:16:59,612 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Johannes de Novara', 'wd_qid': 'Q116181638', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:16:59,612 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Johannes de Novara', 'wd_qid': 'Q116181638', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:16:59,612 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Johannes de Novara', 'wd_qid': 'Q116181638', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:00,230 - ds.authorities - INFO - Created actor Johannes de Novara (Q7886)
+2023-09-14 15:17:00,230 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q18619001', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:00,230 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Esther Bradford Aresty', 'wd_qid': 'Q18619001', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:00,230 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Esther Bradford Aresty', 'wd_qid': 'Q18619001', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:00,230 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Esther Bradford Aresty', 'wd_qid': 'Q18619001', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:00,909 - ds.authorities - INFO - Created actor Esther Bradford Aresty (Q7887)
+2023-09-14 15:17:00,909 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q43936', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:00,910 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'William of Ockham', 'wd_qid': 'Q43936', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:00,910 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'William of Ockham', 'wd_qid': 'Q43936', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:00,910 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'William of Ockham', 'wd_qid': 'Q43936', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:01,598 - ds.authorities - INFO - Created actor William of Ockham (Q7888)
+2023-09-14 15:17:01,598 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q288111', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:01,598 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Jabir ibn Aflah', 'wd_qid': 'Q288111', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:01,598 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Jabir ibn Aflah', 'wd_qid': 'Q288111', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:01,598 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Jabir ibn Aflah', 'wd_qid': 'Q288111', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:02,223 - ds.authorities - INFO - Created actor Jabir ibn Aflah (Q7889)
+2023-09-14 15:17:02,223 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q336901', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:02,223 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Antonio Cánovas del Castillo', 'wd_qid': 'Q336901', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:02,223 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Antonio Cánovas del Castillo', 'wd_qid': 'Q336901', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:02,223 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Antonio Cánovas del Castillo', 'wd_qid': 'Q336901', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:02,914 - ds.authorities - INFO - Created actor Antonio Cánovas del Castillo (Q7890)
+2023-09-14 15:17:02,915 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q71997', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:02,915 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Henry of Langenstein', 'wd_qid': 'Q71997', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:02,915 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Henry of Langenstein', 'wd_qid': 'Q71997', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:02,915 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Henry of Langenstein', 'wd_qid': 'Q71997', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:03,542 - ds.authorities - INFO - Created actor Henry of Langenstein (Q7891)
+2023-09-14 15:17:03,542 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q193660', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:03,543 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Ramon Llull', 'wd_qid': 'Q193660', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:03,543 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Ramon Llull', 'wd_qid': 'Q193660', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:03,543 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Ramon Llull', 'wd_qid': 'Q193660', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:04,204 - ds.authorities - INFO - Created actor Ramon Llull (Q7892)
+2023-09-14 15:17:04,204 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116041094', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:04,204 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Julius de Cardelinis', 'wd_qid': 'Q116041094', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:04,204 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Julius de Cardelinis', 'wd_qid': 'Q116041094', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:04,204 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Julius de Cardelinis', 'wd_qid': 'Q116041094', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:04,816 - ds.authorities - INFO - Created actor Julius de Cardelinis (Q7893)
+2023-09-14 15:17:04,817 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q112279956', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:04,817 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Dean Putnam Lockwood', 'wd_qid': 'Q112279956', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:04,817 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Dean Putnam Lockwood', 'wd_qid': 'Q112279956', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:04,817 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Dean Putnam Lockwood', 'wd_qid': 'Q112279956', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:05,516 - ds.authorities - INFO - Created actor Dean Putnam Lockwood (Q7894)
+2023-09-14 15:17:05,516 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q64020626', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:05,516 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'William H. Allen', 'wd_qid': 'Q64020626', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:05,516 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'William H. Allen', 'wd_qid': 'Q64020626', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:05,516 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'William H. Allen', 'wd_qid': 'Q64020626', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:06,112 - ds.authorities - INFO - Created actor William H. Allen (Q7895)
+2023-09-14 15:17:06,113 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q21207681', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:06,113 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Lancino Curti', 'wd_qid': 'Q21207681', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:06,113 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Lancino Curti', 'wd_qid': 'Q21207681', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:06,113 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Lancino Curti', 'wd_qid': 'Q21207681', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:06,748 - ds.authorities - INFO - Created actor Lancino Curti (Q7896)
+2023-09-14 15:17:06,749 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q6227148', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:06,749 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'John Cornelius', 'wd_qid': 'Q6227148', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:06,749 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'John Cornelius', 'wd_qid': 'Q6227148', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:06,749 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'John Cornelius', 'wd_qid': 'Q6227148', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:07,439 - ds.authorities - INFO - Created actor John Cornelius (Q7897)
+2023-09-14 15:17:07,439 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q3768890', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:07,439 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Girolamo Angeriano', 'wd_qid': 'Q3768890', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:07,439 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Girolamo Angeriano', 'wd_qid': 'Q3768890', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:07,440 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Girolamo Angeriano', 'wd_qid': 'Q3768890', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:08,038 - ds.authorities - INFO - Created actor Girolamo Angeriano (Q7898)
+2023-09-14 15:17:08,038 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q94853112', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:08,038 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Ernst Schulz', 'wd_qid': 'Q94853112', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:08,038 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Ernst Schulz', 'wd_qid': 'Q94853112', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:08,038 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Ernst Schulz', 'wd_qid': 'Q94853112', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:08,650 - ds.authorities - INFO - Created actor Ernst Schulz (Q7899)
+2023-09-14 15:17:08,650 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q2081053', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:08,650 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Peter Paludanus', 'wd_qid': 'Q2081053', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:08,650 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Peter Paludanus', 'wd_qid': 'Q2081053', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:08,650 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Peter Paludanus', 'wd_qid': 'Q2081053', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:09,316 - ds.authorities - INFO - Created actor Peter Paludanus (Q7900)
+2023-09-14 15:17:09,316 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116573043', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:09,316 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Rolandus de Monte', 'wd_qid': 'Q116573043', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:09,316 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Rolandus de Monte', 'wd_qid': 'Q116573043', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:09,316 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Rolandus de Monte', 'wd_qid': 'Q116573043', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:09,913 - ds.authorities - INFO - Created actor Rolandus de Monte (Q7901)
+2023-09-14 15:17:09,914 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q12270006', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:09,914 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Porcellio', 'wd_qid': 'Q12270006', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:09,914 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Porcellio', 'wd_qid': 'Q12270006', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:09,914 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Porcellio', 'wd_qid': 'Q12270006', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:10,515 - ds.authorities - INFO - Created actor Porcellio (Q7902)
+2023-09-14 15:17:10,515 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116487091', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:10,515 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'D. Andreas Parisino', 'wd_qid': 'Q116487091', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:10,515 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'D. Andreas Parisino', 'wd_qid': 'Q116487091', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:10,515 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'D. Andreas Parisino', 'wd_qid': 'Q116487091', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:11,209 - ds.authorities - INFO - Created actor D. Andreas Parisino (Q7903)
+2023-09-14 15:17:11,210 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q47876566', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:11,210 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'William Harrison Woodward', 'wd_qid': 'Q47876566', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:11,210 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'William Harrison Woodward', 'wd_qid': 'Q47876566', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:11,210 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'William Harrison Woodward', 'wd_qid': 'Q47876566', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:11,824 - ds.authorities - INFO - Created actor William Harrison Woodward (Q7904)
+2023-09-14 15:17:11,825 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q10335', 'auth_class_qid': 'Q9', 'item_id': None}
+2023-09-14 15:17:11,825 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Valperga', 'wd_qid': 'Q10335', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()})
+2023-09-14 15:17:11,825 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Valperga', 'wd_qid': 'Q10335', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()}
+2023-09-14 15:17:11,825 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Valperga', 'wd_qid': 'Q10335', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()}'
+2023-09-14 15:17:12,439 - ds.authorities - INFO - Created actor Valperga (Q7905)
+2023-09-14 15:17:12,439 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q3191022', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:12,440 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Jérôme Pichon', 'wd_qid': 'Q3191022', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:12,440 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Jérôme Pichon', 'wd_qid': 'Q3191022', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:12,440 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Jérôme Pichon', 'wd_qid': 'Q3191022', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:13,026 - ds.authorities - INFO - Created actor Jérôme Pichon (Q7906)
+2023-09-14 15:17:13,026 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116073956', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:13,026 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Giovanni da Bologna', 'wd_qid': 'Q116073956', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:13,026 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Giovanni da Bologna', 'wd_qid': 'Q116073956', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:13,026 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Giovanni da Bologna', 'wd_qid': 'Q116073956', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:13,652 - ds.authorities - INFO - Created actor Giovanni da Bologna (Q7907)
+2023-09-14 15:17:13,652 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116709427', 'auth_class_qid': 'Q9', 'item_id': None}
+2023-09-14 15:17:13,652 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Tartaleoni family', 'wd_qid': 'Q116709427', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()})
+2023-09-14 15:17:13,652 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Tartaleoni family', 'wd_qid': 'Q116709427', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()}
+2023-09-14 15:17:13,652 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Tartaleoni family', 'wd_qid': 'Q116709427', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()}'
+2023-09-14 15:17:14,259 - ds.authorities - INFO - Created actor Tartaleoni family (Q7908)
+2023-09-14 15:17:14,259 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q3107315', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:14,259 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Giovanni Pietro da Cemmo', 'wd_qid': 'Q3107315', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:14,259 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Giovanni Pietro da Cemmo', 'wd_qid': 'Q3107315', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:14,259 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Giovanni Pietro da Cemmo', 'wd_qid': 'Q3107315', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:14,939 - ds.authorities - INFO - Created actor Giovanni Pietro da Cemmo (Q7909)
+2023-09-14 15:17:14,939 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116418841', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:14,939 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Joannes Angelus de Crema', 'wd_qid': 'Q116418841', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:14,939 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Joannes Angelus de Crema', 'wd_qid': 'Q116418841', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:14,939 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Joannes Angelus de Crema', 'wd_qid': 'Q116418841', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:15,609 - ds.authorities - INFO - Created actor Joannes Angelus de Crema (Q7910)
+2023-09-14 15:17:15,609 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q56708246', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:15,610 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Federico Patetta', 'wd_qid': 'Q56708246', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:15,610 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Federico Patetta', 'wd_qid': 'Q56708246', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:15,610 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Federico Patetta', 'wd_qid': 'Q56708246', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:16,218 - ds.authorities - INFO - Created actor Federico Patetta (Q7911)
+2023-09-14 15:17:16,218 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116730964', 'auth_class_qid': 'Q9', 'item_id': None}
+2023-09-14 15:17:16,218 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Cattanei family', 'wd_qid': 'Q116730964', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()})
+2023-09-14 15:17:16,218 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Cattanei family', 'wd_qid': 'Q116730964', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()}
+2023-09-14 15:17:16,218 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Cattanei family', 'wd_qid': 'Q116730964', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()}'
+2023-09-14 15:17:16,901 - ds.authorities - INFO - Created actor Cattanei family (Q7912)
+2023-09-14 15:17:16,902 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116272203', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:16,902 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Silvester Cattaneus', 'wd_qid': 'Q116272203', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:16,902 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Silvester Cattaneus', 'wd_qid': 'Q116272203', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:16,902 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Silvester Cattaneus', 'wd_qid': 'Q116272203', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:17,518 - ds.authorities - INFO - Created actor Silvester Cattaneus (Q7913)
+2023-09-14 15:17:17,518 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q728931', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:17,518 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Gasparo Contarini', 'wd_qid': 'Q728931', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:17,518 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Gasparo Contarini', 'wd_qid': 'Q728931', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:17,518 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Gasparo Contarini', 'wd_qid': 'Q728931', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:18,136 - ds.authorities - INFO - Created actor Gasparo Contarini (Q7914)
+2023-09-14 15:17:18,136 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116324831', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:18,136 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Jacobus Dinetus', 'wd_qid': 'Q116324831', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:18,136 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Jacobus Dinetus', 'wd_qid': 'Q116324831', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:18,136 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Jacobus Dinetus', 'wd_qid': 'Q116324831', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:18,814 - ds.authorities - INFO - Created actor Jacobus Dinetus (Q7915)
+2023-09-14 15:17:18,814 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q55194375', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:18,814 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Peter Schmieher', 'wd_qid': 'Q55194375', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:18,814 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Peter Schmieher', 'wd_qid': 'Q55194375', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:18,814 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Peter Schmieher', 'wd_qid': 'Q55194375', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:19,427 - ds.authorities - INFO - Created actor Peter Schmieher (Q7916)
+2023-09-14 15:17:19,427 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116731023', 'auth_class_qid': 'Q9', 'item_id': None}
+2023-09-14 15:17:19,427 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Confraternity of St. Peter martyr (Palencia)', 'wd_qid': 'Q116731023', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()})
+2023-09-14 15:17:19,428 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Confraternity of St. Peter martyr (Palencia)', 'wd_qid': 'Q116731023', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()}
+2023-09-14 15:17:19,428 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Confraternity of St. Peter martyr (Palencia)', 'wd_qid': 'Q116731023', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()}'
+2023-09-14 15:17:20,027 - ds.authorities - INFO - Created actor Confraternity of St. Peter martyr (Palencia) (Q7917)
+2023-09-14 15:17:20,027 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q544959', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:20,027 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Guillaume de Lorris', 'wd_qid': 'Q544959', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:20,027 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Guillaume de Lorris', 'wd_qid': 'Q544959', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:20,027 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Guillaume de Lorris', 'wd_qid': 'Q544959', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:20,699 - ds.authorities - INFO - Created actor Guillaume de Lorris (Q7918)
+2023-09-14 15:17:20,699 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q1398', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:20,699 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Virgil', 'wd_qid': 'Q1398', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:20,699 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Virgil', 'wd_qid': 'Q1398', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:20,699 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Virgil', 'wd_qid': 'Q1398', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:21,838 - ds.authorities - INFO - Created actor Virgil (Q6128)
+2023-09-14 15:17:21,838 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q1158739', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:21,838 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Louis César de La Baume Le Blanc', 'wd_qid': 'Q1158739', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:21,838 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Louis César de La Baume Le Blanc', 'wd_qid': 'Q1158739', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:21,838 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Louis César de La Baume Le Blanc', 'wd_qid': 'Q1158739', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:22,548 - ds.authorities - INFO - Created actor Louis César de La Baume Le Blanc (Q7919)
+2023-09-14 15:17:22,548 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q89484729', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:22,548 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Lucien Gougy', 'wd_qid': 'Q89484729', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:22,548 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Lucien Gougy', 'wd_qid': 'Q89484729', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:22,548 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Lucien Gougy', 'wd_qid': 'Q89484729', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:23,157 - ds.authorities - INFO - Created actor Lucien Gougy (Q7920)
+2023-09-14 15:17:23,157 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q47194649', 'auth_class_qid': 'Q9', 'item_id': None}
+2023-09-14 15:17:23,157 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Roman Catholic Archdiocese of Mainz', 'wd_qid': 'Q47194649', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()})
+2023-09-14 15:17:23,157 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Roman Catholic Archdiocese of Mainz', 'wd_qid': 'Q47194649', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()}
+2023-09-14 15:17:23,157 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Roman Catholic Archdiocese of Mainz', 'wd_qid': 'Q47194649', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()}'
+2023-09-14 15:17:23,790 - ds.authorities - INFO - Created actor Roman Catholic Archdiocese of Mainz (Q7921)
+2023-09-14 15:17:23,790 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116619826', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:23,790 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Sidrac', 'wd_qid': 'Q116619826', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:23,790 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Sidrac', 'wd_qid': 'Q116619826', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:23,790 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Sidrac', 'wd_qid': 'Q116619826', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:24,426 - ds.authorities - INFO - Created actor Sidrac (Q7922)
+2023-09-14 15:17:24,426 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116620020', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:24,426 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Johannes Tostius', 'wd_qid': 'Q116620020', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:24,426 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Johannes Tostius', 'wd_qid': 'Q116620020', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:24,426 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Johannes Tostius', 'wd_qid': 'Q116620020', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:25,037 - ds.authorities - INFO - Created actor Johannes Tostius (Q7923)
+2023-09-14 15:17:25,037 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q2054', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:25,037 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Seneca', 'wd_qid': 'Q2054', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:25,037 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Seneca', 'wd_qid': 'Q2054', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:25,037 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Seneca', 'wd_qid': 'Q2054', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:26,028 - ds.authorities - INFO - Created actor Seneca (Q6126)
+2023-09-14 15:17:26,028 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q61482423', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:26,028 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Theobaldus Episcopus', 'wd_qid': 'Q61482423', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:26,028 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Theobaldus Episcopus', 'wd_qid': 'Q61482423', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:26,028 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Theobaldus Episcopus', 'wd_qid': 'Q61482423', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:26,625 - ds.authorities - INFO - Created actor Theobaldus Episcopus (Q7924)
+2023-09-14 15:17:26,626 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116520092', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:26,626 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Petrus de Luno', 'wd_qid': 'Q116520092', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:26,626 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Petrus de Luno', 'wd_qid': 'Q116520092', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:26,626 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Petrus de Luno', 'wd_qid': 'Q116520092', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:27,224 - ds.authorities - INFO - Created actor Petrus de Luno (Q7925)
+2023-09-14 15:17:27,224 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q4502479', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:27,224 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Richard Heber', 'wd_qid': 'Q4502479', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:27,224 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Richard Heber', 'wd_qid': 'Q4502479', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:27,224 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Richard Heber', 'wd_qid': 'Q4502479', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:28,218 - ds.authorities - INFO - Created actor Richard Heber (Q6134)
+2023-09-14 15:17:28,218 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q59527928', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:28,218 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Bernardino Stefonio', 'wd_qid': 'Q59527928', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:28,218 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Bernardino Stefonio', 'wd_qid': 'Q59527928', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:28,218 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Bernardino Stefonio', 'wd_qid': 'Q59527928', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:28,809 - ds.authorities - INFO - Created actor Bernardino Stefonio (Q7926)
+2023-09-14 15:17:28,809 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116235905', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:28,809 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Ardillonius', 'wd_qid': 'Q116235905', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:28,809 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Ardillonius', 'wd_qid': 'Q116235905', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:28,809 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Ardillonius', 'wd_qid': 'Q116235905', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:29,507 - ds.authorities - INFO - Created actor Ardillonius (Q7927)
+2023-09-14 15:17:29,508 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q75399420', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:29,508 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Francis Colman', 'wd_qid': 'Q75399420', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:29,508 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Francis Colman', 'wd_qid': 'Q75399420', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:29,508 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Francis Colman', 'wd_qid': 'Q75399420', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:30,124 - ds.authorities - INFO - Created actor Francis Colman (Q7928)
+2023-09-14 15:17:30,125 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q318067', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:30,125 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Michel Chasles', 'wd_qid': 'Q318067', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:30,125 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Michel Chasles', 'wd_qid': 'Q318067', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:30,125 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Michel Chasles', 'wd_qid': 'Q318067', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:30,735 - ds.authorities - INFO - Created actor Michel Chasles (Q7929)
+2023-09-14 15:17:30,735 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116694909', 'auth_class_qid': 'Q9', 'item_id': None}
+2023-09-14 15:17:30,735 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': "Malvezzi de' Medici", 'wd_qid': 'Q116694909', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()})
+2023-09-14 15:17:30,735 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': "Malvezzi de' Medici", 'wd_qid': 'Q116694909', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()}
+2023-09-14 15:17:30,735 - ds.authorities - INFO - Actor not found; creating actor: '{'label': "Malvezzi de' Medici", 'wd_qid': 'Q116694909', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()}'
+2023-09-14 15:17:31,334 - ds.authorities - INFO - Created actor Malvezzi de' Medici (Q7930)
+2023-09-14 15:17:31,334 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q1741177', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:31,334 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Nicolas de Neufville, seigneur de Villeroy', 'wd_qid': 'Q1741177', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:31,334 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Nicolas de Neufville, seigneur de Villeroy', 'wd_qid': 'Q1741177', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:31,334 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Nicolas de Neufville, seigneur de Villeroy', 'wd_qid': 'Q1741177', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:31,939 - ds.authorities - INFO - Created actor Nicolas de Neufville, seigneur de Villeroy (Q7931)
+2023-09-14 15:17:31,939 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q6258515', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:31,940 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'John Sotheby', 'wd_qid': 'Q6258515', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:31,940 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'John Sotheby', 'wd_qid': 'Q6258515', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:31,940 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'John Sotheby', 'wd_qid': 'Q6258515', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:32,548 - ds.authorities - INFO - Created actor John Sotheby (Q7932)
+2023-09-14 15:17:32,548 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q435578', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:32,548 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Benoît de Sainte-Maure', 'wd_qid': 'Q435578', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:32,548 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Benoît de Sainte-Maure', 'wd_qid': 'Q435578', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:32,548 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Benoît de Sainte-Maure', 'wd_qid': 'Q435578', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:33,191 - ds.authorities - INFO - Created actor Benoît de Sainte-Maure (Q7933)
+2023-09-14 15:17:33,191 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q3607762', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:33,191 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Alan Noel Latimer Munby', 'wd_qid': 'Q3607762', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:33,192 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Alan Noel Latimer Munby', 'wd_qid': 'Q3607762', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:33,192 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Alan Noel Latimer Munby', 'wd_qid': 'Q3607762', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:33,814 - ds.authorities - INFO - Created actor Alan Noel Latimer Munby (Q7934)
+2023-09-14 15:17:33,814 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116250186', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:33,814 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Guillaume de Salins', 'wd_qid': 'Q116250186', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:33,814 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Guillaume de Salins', 'wd_qid': 'Q116250186', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:33,814 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Guillaume de Salins', 'wd_qid': 'Q116250186', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:34,445 - ds.authorities - INFO - Created actor Guillaume de Salins (Q7935)
+2023-09-14 15:17:34,445 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q11904655', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:34,445 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Al-Mubashshir ibn Fātik', 'wd_qid': 'Q11904655', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:34,445 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Al-Mubashshir ibn Fātik', 'wd_qid': 'Q11904655', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:34,445 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Al-Mubashshir ibn Fātik', 'wd_qid': 'Q11904655', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:35,211 - ds.authorities - INFO - Created actor Al-Mubashshir ibn Fātik (Q7936)
+2023-09-14 15:17:35,211 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q116377214', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:35,211 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Jullien Gervais', 'wd_qid': 'Q116377214', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:35,211 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Jullien Gervais', 'wd_qid': 'Q116377214', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:35,211 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Jullien Gervais', 'wd_qid': 'Q116377214', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:35,862 - ds.authorities - INFO - Created actor Jullien Gervais (Q7937)
+2023-09-14 15:17:35,862 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q957427', 'auth_class_qid': 'Q8', 'item_id': None}
+2023-09-14 15:17:35,862 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Georges Chastellain', 'wd_qid': 'Q957427', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()})
+2023-09-14 15:17:35,862 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Georges Chastellain', 'wd_qid': 'Q957427', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}
+2023-09-14 15:17:35,862 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Georges Chastellain', 'wd_qid': 'Q957427', 'instance_of': 'human', 'ds_id': '', 'auth_class_qid': 'Q8', 'aliases': set()}'
+2023-09-14 15:17:36,614 - ds.authorities - INFO - Created actor Georges Chastellain (Q7938)
+2023-09-14 15:17:36,615 - ds.authorities - WARNING - No cached item_data for item_ids: {'ds_id': '', 'wd_qid': 'Q1063738', 'auth_class_qid': 'Q9', 'item_id': None}
+2023-09-14 15:17:36,615 - ds.authorities - INFO - Actor not found in cache; checking Wikibase ({'label': 'Cancon', 'wd_qid': 'Q1063738', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()})
+2023-09-14 15:17:36,615 - ds.authorities - WARNING - Skipping WB fetch; No actor found for actor data: {'label': 'Cancon', 'wd_qid': 'Q1063738', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()}
+2023-09-14 15:17:36,615 - ds.authorities - INFO - Actor not found; creating actor: '{'label': 'Cancon', 'wd_qid': 'Q1063738', 'instance_of': 'corporate', 'ds_id': '', 'auth_class_qid': 'Q9', 'aliases': set()}'
+2023-09-14 15:17:37,240 - ds.authorities - INFO - Created actor Cancon (Q7939)
+INFO: Sleeping for 10 seconds to allow the wdqs udpater to catch up
