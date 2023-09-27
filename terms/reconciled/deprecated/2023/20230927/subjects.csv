@@ -1,16 +1,4 @@
 subject_as_recorded,subfield_codes,vocab,source_authority_uri,authorized_label,structured_value
-10th century,,openn-keywords,,Tenth century,http://id.worldcat.org/fast/1147737
-11th century,,openn-keywords,,Eleventh century,http://id.worldcat.org/fast/908096
-12th century,,openn-keywords,,Twelfth century,http://id.worldcat.org/fast/1159791
-13th century,,openn-keywords,,Thirteenth century,http://id.worldcat.org/fast/1150138
-14th century,,openn-keywords,,Fourteenth century,http://id.worldcat.org/fast/933420
-15th century,,openn-keywords,,Fifteenth century,http://id.worldcat.org/fast/923962
-16th century,,openn-keywords,,Sixteenth century,http://id.worldcat.org/fast/1119851
-17th century,,openn-keywords,,Seventeenth century,http://id.worldcat.org/fast/1113663
-18th century,,openn-keywords,,Eighteenth century,http://id.worldcat.org/fast/904058
-19th century,,openn-keywords,,Nineteenth century,http://id.worldcat.org/fast/1037841
-20th century,,openn-keywords,,Twentieth century,http://id.worldcat.org/fast/1159810
-9th century,,openn-keywords,,Ninth century,http://id.worldcat.org/fast/1037854
 Abbasids.,a,fast,(OCoLC)fst00794211,Abbasids,http://id.worldcat.org/fast/794211
 Abbasids--Poetry--Early works to 1800.,a--v--v,0,,Abbasids;Poetry;Early works,http://id.worldcat.org/fast/794211;http://id.worldcat.org/fast/1423828;http://id.worldcat.org/fast/1411636
 Abbots.,a,fast,http://id.worldcat.org/fast/794221,Abbots,http://id.worldcat.org/fast/794221
@@ -57,7 +45,6 @@ Alcoholism--Religious aspects--Islam.,a--x--x,fast,(OCoLC)fst00804537,Alcoholism
 Alcoholism--Religious aspects--Islam--Early works to 1800.,a--x--x--v,0,(uri) http://id.loc.gov/authorities/subjects/sh85003292,Alcoholism--Religious aspects;Islam;Early works,http://id.worldcat.org/fast/804530;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636
 Algebra.,a,fast,http://id.worldcat.org/fast/804885,Algebra,http://id.worldcat.org/fast/804885
 Algebra--Early works to 1800.,a--v,0,http://id.loc.gov/authorities/subjects/sh2007100984,Algebra;Early works,http://id.worldcat.org/fast/804885;http://id.worldcat.org/fast/1411636
-Allegory,,openn-keywords,,Allegory,http://id.worldcat.org/fast/805516
 Allersberg (Germany),a,0,http://id.loc.gov/authorities/names/n78042928,Germany--Allersberg,http://id.worldcat.org/fast/1203587
 Almucantar--Early works to 1800.,a--v,0,,Almucantar;Early works,http://id.worldcat.org/fast/805884;http://id.worldcat.org/fast/1411636
 Alphabets.,a,fast,http://id.worldcat.org/fast/805974,Alphabets,http://id.worldcat.org/fast/805974
@@ -87,7 +74,6 @@ Animals.,a,fast,(OCoLC)fst00809468,Animals,http://id.worldcat.org/fast/809468
 Animals--Early works to 1800.,a--v,0,(uri) http://id.loc.gov/authorities/subjects/sh85005249,Animals;Early works,http://id.worldcat.org/fast/809468;http://id.worldcat.org/fast/1411636
 Animals--Religious aspects--Islam--Early works to 1800.,a--x--x--v,0,,Animals--Religious aspects;Islam;Early works,http://id.worldcat.org/fast/809526;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636
 Annecy (France)--History.,a--x,0,,France--Annecy;History,http://id.worldcat.org/fast/1208990;http://id.worldcat.org/fast/958235
-Annotated,,openn-keywords,,annotations,http://vocab.getty.edu/aat/300026100
 Antichrist.,a,fast,http://id.worldcat.org/fast/810461,Antichrist,http://id.worldcat.org/fast/810461
 Antichrist--Early works to 1800.,a--v,0,,Antichrist;Early works,http://id.worldcat.org/fast/810461;http://id.worldcat.org/fast/1411636
 Antichrist--Islam.,a--x,fast,(OCoLC)fst02020216,Antichrist--Islam,http://id.worldcat.org/fast/2020216
@@ -97,7 +83,6 @@ Antiphonaries.,a,fast,http://id.worldcat.org/fast/810657,Antiphonaries,http://id
 Antiphonaries--Manuscripts.,a--x,0,,Antiphonaries--Manuscripts,http://id.worldcat.org/fast/810659
 Antiphonaries--Specimens.,a--v,0,,Antiphonaries;Specimens,http://id.worldcat.org/fast/810657;http://id.worldcat.org/fast/1423861
 Antiphonaries--Texts--Early works to 1800.,a--v--v,0,,Antiphonaries;Texts;Early works,http://id.worldcat.org/fast/810657;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636
-Antiphonary,,openn-keywords,,Antiphonaries,http://id.worldcat.org/fast/810657
 Antiphons (Music),a,fast,http://id.worldcat.org/fast/810660,Antiphons (Music),http://id.worldcat.org/fast/810660
 Antiphons (Music)--Early works to 1800.,a--v,0,,Antiphons (Music);Early works,http://id.worldcat.org/fast/810660;http://id.worldcat.org/fast/1411636
 Antiquities.,a,fast,(OCoLC)fst00810745,Antiquities,http://id.worldcat.org/fast/810745
@@ -227,8 +212,6 @@ Arles (France)--History.,a--x,0,,France--Arles;History,http://id.worldcat.org/fa
 Armagnac (France),a,0,http://id.loc.gov/authorities/names/n81007172,France--Armagnac,http://id.worldcat.org/fast/1211502
 Armenia.,a,fast,http://id.worldcat.org/fast/1206470,Armenia,http://id.worldcat.org/fast/1206470
 "Armenia--History--Turkic Mongol Domination, 1045-1522.",a--x--y,0,http://id.loc.gov/authorities/subjects/sh85007271,Armenia;History;Turkic Mongol Domination (Armenia : 1045-1522),http://id.worldcat.org/fast/1206470;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1907635
-Armenian,,openn-keywords,,Armenian (ancient culture or style),http://vocab.getty.edu/aat/300254935
-Armorial,,openn-keywords,,armorials (reference sources),http://vocab.getty.edu/aat/300255028
 Art--Forgeries.,a--x,0,http://id.loc.gov/authorities/subjects/sh85007484,Art--Forgeries,http://id.worldcat.org/fast/815252
 Art--Forgeries.,a--x,fast,http://id.worldcat.org/fast/815252,Art--Forgeries,http://id.worldcat.org/fast/815252
 Artillery.,a,fast,http://id.worldcat.org/fast/817490,Artillery,http://id.worldcat.org/fast/817490
@@ -270,7 +253,6 @@ Astronomy--Tables.,a--x,fast,http://id.worldcat.org/fast/819745,Astronomy--Table
 Austria.,a,fast,http://id.worldcat.org/fast/1204901,Austria,http://id.worldcat.org/fast/1204901
 Austria--History--1519-1740.,a--x--y,0,http://id.loc.gov/authorities/subjects/sh85009694,Austria;History,http://id.worldcat.org/fast/1204901;http://id.worldcat.org/fast/958235
 Austria--Lambach (Upper Austria),a--z,fast,http://id.worldcat.org/fast/1319007,Austria--Lambach (Upper Austria),http://id.worldcat.org/fast/1319007
-Austrian,,openn-keywords,,Austrian,http://vocab.getty.edu/aat/300111153
 Austria--Vienna.,a--z,fast,http://id.worldcat.org/fast/1204516,Austria--Vienna,http://id.worldcat.org/fast/1204516
 "Authors, Arab.",a,fast,(OCoLC)fst00821793,"Authors, Arab",http://id.worldcat.org/fast/821793
 "Authors, Arab--Biography--Early works to 1800.",a--v--v,0,,"Authors, Arab--Biography;Biographies;Early works",http://id.worldcat.org/fast/821794;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636
@@ -307,17 +289,12 @@ Bathhouses.,a,fast,(OCoLC)fst00828691,Bathhouses,http://id.worldcat.org/fast/828
 Bathhouses--Early works to 1800.,a--v,0,(uri) http://id.loc.gov/authorities/subjects/sh93000235,Bathhouses;Early works,http://id.worldcat.org/fast/828691;http://id.worldcat.org/fast/1411636
 "Baths, Turkish--Early works to 1800.",a--v,0,,"Baths, Turkish;Early works",http://id.worldcat.org/fast/828755;http://id.worldcat.org/fast/1411636
 Bavaria (Germany)--History--Sources.,a--x--v,0,,Germany--Bavaria;History;Sources,http://id.worldcat.org/fast/1211843;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1423900
-Belgium,,openn-keywords,,Belgium,http://id.worldcat.org/fast/1210278
 Belgium--Liège.,a--z,fast,http://id.worldcat.org/fast/1207176,Belgium--Liège,http://id.worldcat.org/fast/1207176
 Benedictine monasteries.,a,fast,http://id.worldcat.org/fast/830310,Benedictine monasteries,http://id.worldcat.org/fast/830310
 Benedictine monasteries--France--Early works to 1800.,a--z--v,0,,Benedictine monasteries;France;Early works,http://id.worldcat.org/fast/830310;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1411636
 Benedictine monasteries--Italy.,a--z,0,,Benedictine monasteries;Italy,http://id.worldcat.org/fast/830310;http://id.worldcat.org/fast/1204565
-Bible,,openn-keywords,,Bible,http://id.worldcat.org/fast/1356024
-Bible -- Commentaries,,openn-subjects,https://lccn.loc.gov/sh85013597,Bible;Commentaries,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1423723
 "Bible stories, Arabic.",a,fast,(OCoLC)fst00831270,"Bible stories, Arabic",http://id.worldcat.org/fast/831270
 "Bible stories, Arabic--Early works to 1800.",a--v,0,,"Bible stories, Arabic;Early works",http://id.worldcat.org/fast/831270;http://id.worldcat.org/fast/1411636
-Biblical,,openn-keywords,,biblical,http://vocab.getty.edu/aat/300263186
-Binding,,openn-keywords,,binding (textile material),http://vocab.getty.edu/aat/300421867
 Biography.,a,fast,http://id.worldcat.org/fast/832149,Biographies,http://id.worldcat.org/fast/1919896
 Biography--Early works to 1800.,a--v,0,,Biographies;Early works,http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636
 Birth of a person.,a,fast,(OCoLC)fst01185270,Birth of a person,http://id.worldcat.org/fast/1185270
@@ -334,13 +311,11 @@ Bishops--Temporal power--Early works to 1800.,a--x--v,0,,Bishops--Temporal power
 Blois (France : County)--History.,a--x,0,,France--Blois (County);History,http://id.worldcat.org/fast/1335052;http://id.worldcat.org/fast/958235
 Bohemia (Czech Republic)--Church history.,a--x,0,http://id.loc.gov/authorities/subjects/sh85015304,Czech Republic--Bohemia;Church history,http://id.worldcat.org/fast/1243096;http://id.worldcat.org/fast/1411629
 Bologna (Italy),a,0,http://id.loc.gov/authorities/names/n79021394,Italy--Bologna,http://id.worldcat.org/fast/1204551
-Book of Hours,,openn-keywords,,Books of hours,http://id.worldcat.org/fast/836484
 Books and reading.,a,fast,http://id.worldcat.org/fast/836454,Books and reading,http://id.worldcat.org/fast/836454
 Books and reading--History--16th century.,a--x--y,0,,Books and reading;History;Sixteenth century,http://id.worldcat.org/fast/836454;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1119851
 Booksellers and bookselling.,a,fast,http://id.worldcat.org/fast/836492,Booksellers and bookselling,http://id.worldcat.org/fast/836492
 Booksellers and bookselling--Early works to 1800.,a--v,0,,Booksellers and bookselling;Early works,http://id.worldcat.org/fast/836492;http://id.worldcat.org/fast/1411636
 Booksellers and bookselling--Italy.,a--z,0,,Booksellers and bookselling;Italy,http://id.worldcat.org/fast/836492;http://id.worldcat.org/fast/1204565
-Books of hours,,openn-subjects,http://id.loc.gov/authorities/subjects/sh85062530.html,Books of hours,http://id.worldcat.org/fast/836484
 Books of hours.,a,fast,(OCoLC)fst00836484,Books of hours,http://id.worldcat.org/fast/836484
 Books of hours--France--Early works to 1800.,a--z--v,0,,Books of hours;France;Early works,http://id.worldcat.org/fast/836484;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1411636
 Books of hours--Germany.,a--z,0,,Books of hours;Germany,http://id.worldcat.org/fast/836484;http://id.worldcat.org/fast/1210272
@@ -362,7 +337,6 @@ Brescia (Italy)--Politics and government.,a--x,0,,Italy--Brescia;Politics and go
 Breviaries.,a,fast,http://id.worldcat.org/fast/838495,Breviaries,http://id.worldcat.org/fast/838495
 Breviaries--Specimens.,a--v,0,,Breviaries;Specimens,http://id.worldcat.org/fast/838495;http://id.worldcat.org/fast/1423861
 Breviaries--Texts--Early works to 1800.,a--v--v,0,,Breviaries;Texts;Early works,http://id.worldcat.org/fast/838495;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636
-Breviary,,openn-keywords,,Breviaries,http://id.worldcat.org/fast/838495
 Bridles.,a,fast,http://id.worldcat.org/fast/838967,Bridles,http://id.worldcat.org/fast/838967
 Bridles--Early works to 1800.,a--v,0,,Bridles;Early works,http://id.worldcat.org/fast/838967;http://id.worldcat.org/fast/1411636
 British.,a,fast,http://id.worldcat.org/fast/839044,British,http://id.worldcat.org/fast/839044
@@ -382,7 +356,6 @@ Burgundy (County)--History--14th century.,a--x--y,0,,France--Burgundy (County);H
 Business ethics--Early works to 1800.,a--v,0,,Business ethics;Early works,http://id.worldcat.org/fast/842675;http://id.worldcat.org/fast/1411636
 Business mathematics.,a,fast,http://id.worldcat.org/fast/842780,Business mathematics,http://id.worldcat.org/fast/842780
 Business mathematics--Early works to 1800.,a--v,0,,Business mathematics;Early works,http://id.worldcat.org/fast/842780;http://id.worldcat.org/fast/1411636
-Byzantine,,openn-keywords,,Byzantine (culture and style),http://vocab.getty.edu/aat/300020669
 Byzantine Empire.,a,fast,http://id.worldcat.org/fast/1209292,Byzantine Empire,http://id.worldcat.org/fast/1209292
 Byzantine Empire--History.,a--x,0,http://id.loc.gov/authorities/subjects/sh85018483,Byzantine Empire;History,http://id.worldcat.org/fast/1209292;http://id.worldcat.org/fast/958235
 Byzantine literature.,a,0,http://id.loc.gov/authorities/subjects/sh85018527,Byzantine literature,http://id.worldcat.org/fast/843235
@@ -417,7 +390,6 @@ Capranica (Italy),a,0,http://id.loc.gov/authorities/names/n00005729,Italy--Capra
 Cardinals--Biography--Early works to 1800.,a--x--v,0,,Cardinals--Biography;Biographies;Early works,http://id.worldcat.org/fast/847098;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636
 Cardinal virtues.,a,fast,http://id.worldcat.org/fast/847092,Cardinal virtues,http://id.worldcat.org/fast/847092
 Cardinal virtues--Early works to 1800.,a--v,0,,Cardinal virtues;Early works,http://id.worldcat.org/fast/847092;http://id.worldcat.org/fast/1411636
-Caroline minuscule,,openn-keywords,,Caroline minuscule,http://vocab.getty.edu/aat/300195207
 Cartularies.,a,fast,http://id.worldcat.org/fast/848097,Cartularies,http://id.worldcat.org/fast/848097
 Cartularies.,a,0,,Cartularies,http://id.worldcat.org/fast/848097
 Cartularies--Specimens.,a--v,0,,Cartularies;Specimens,http://id.worldcat.org/fast/848097;http://id.worldcat.org/fast/1423861
@@ -441,7 +413,6 @@ Categories (Philosophy)--Early works to 1800.,a--v,0,,Categories (Philosophy);Ea
 Cesena (Italy)--History.,a--x,0,,Italy--Cesena;History,http://id.worldcat.org/fast/1205413;http://id.worldcat.org/fast/958235
 Chansons arabes.,a,6,,"Songs, Arabic",http://id.worldcat.org/fast/1126251
 "Charitable uses, trusts, and foundations (Islamic law)--Early works to 1800.",a--v,0,,"Charitable uses, trusts, and foundations (Islamic law);Early works",http://id.worldcat.org/fast/852398;http://id.worldcat.org/fast/1411636
-Charter,,openn-keywords,,Charters,http://id.worldcat.org/fast/852538
 Charters.,a,fast,http://id.worldcat.org/fast/852538,Charters,http://id.worldcat.org/fast/852538
 Charters--Specimens.,a--v,0,,Charters;Specimens,http://id.worldcat.org/fast/852538;http://id.worldcat.org/fast/1423861
 "Châtenois (Bas-Rhin, France)--History--Sources.",a--x--v,0,,France--Châtenois (Bas-Rhin);History;Sources,http://id.worldcat.org/fast/1312521;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1423900
@@ -460,7 +431,6 @@ Children.,a,fast,http://id.worldcat.org/fast/854835,Children,http://id.worldcat.
 Chiusi (Italy)--History--16th century.,a--x--y,0,,Italy--Chiusi;History;Sixteenth century,http://id.worldcat.org/fast/1220427;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1119851
 Chivalry.,a,fast,http://id.worldcat.org/fast/858006,Chivalry,http://id.worldcat.org/fast/858006
 Chivalry--Early works to 1800.,a--v,0,http://id.loc.gov/authorities/subjects/sh2009119374,Chivalry;Early works,http://id.worldcat.org/fast/858006;http://id.worldcat.org/fast/1411636
-Christian,,openn-keywords,,Christianity,http://id.worldcat.org/fast/859599
 Christian ethics.,a,fast,http://id.worldcat.org/fast/859107,Christian ethics,http://id.worldcat.org/fast/859107
 Christian ethics--Early works to 1800.,a--v,0,http://id.loc.gov/authorities/subjects/sh2008100649,Christian ethics;Early works,http://id.worldcat.org/fast/859107;http://id.worldcat.org/fast/1411636
 "Christian ethics--History--Middle Ages, 600-1500.",a--x--y,0,http://id.loc.gov/authorities/subjects/sh85025088,Christian ethics;History;500-1500,http://id.worldcat.org/fast/859107;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1355938
@@ -516,6 +486,7 @@ Christian pilgrims and pilgrimages--Europe--Early works to 1800.,a--z--x,0,,Chri
 Christian poetry.,a,fast,http://id.worldcat.org/fast/859372,Christian poetry,http://id.worldcat.org/fast/859372
 Christian poetry--Early works to 1800.,a--v,0,,Christian poetry;Early works,http://id.worldcat.org/fast/859372;http://id.worldcat.org/fast/1411636
 Christian saints.,a,fast,(OCoLC)fst00859491,Christian saints,http://id.worldcat.org/fast/859491
+Christian saints.,a,fast,(OCoLC)fst00859491,Christian saints,http://id.worldcat.org/fast/859491
 Christian saints--Biography.,a--x,fast,http://id.worldcat.org/fast/859493,Christian saints--Biography,http://id.worldcat.org/fast/859493
 Christian saints--Biography--Early works to 1800.,a--v--v,0,http://id.loc.gov/authorities/subjects/sh2009119519,Christian saints--Biography;Biographies;Early works,http://id.worldcat.org/fast/859493;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636
 Christian saints--Cult.,a--x,fast,http://id.worldcat.org/fast/859498,Christian saints--Cult,http://id.worldcat.org/fast/859498
@@ -524,6 +495,7 @@ Christian saints--Early works to 1800.,a--v,0,,Christian saints;Early works,http
 Christian saints in literature.,a,fast,http://id.worldcat.org/fast/859514,Christian saints in literature,http://id.worldcat.org/fast/859514
 Christian saints in literature.,a,0,http://id.loc.gov/authorities/subjects/sh94003361,Christian saints in literature,http://id.worldcat.org/fast/859514
 Christian saints in literature--Early works to 1800.,a--v,0,,Christian saints in literature;Early works,http://id.worldcat.org/fast/859514;http://id.worldcat.org/fast/1411636
+Christian saints--Italy--Biography--Early works to 1800.,a--z--v--v,0,,Christian saints;Italy;Biographies;Early works,http://id.worldcat.org/fast/859491;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636
 Christian saints--Italy--Biography--Early works to 1800.,a--z--v--v,0,,Christian saints;Italy;Biographies;Early works,http://id.worldcat.org/fast/859491;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636
 Christian saints--Prayers and devotions.,a--v,0,http://id.loc.gov/authorities/subjects/sh85025182,Christian saints--Prayers and devotions,http://id.worldcat.org/fast/1199164
 Christian saints--Prayers and devotions.,a--x,fast,http://id.worldcat.org/fast/1199164,Christian saints--Prayers and devotions,http://id.worldcat.org/fast/1199164
@@ -536,10 +508,8 @@ Christian women--Conduct of life.,a--x,0,http://id.loc.gov/authorities/subjects/
 Christian women--Conduct of life--Early works to 1800.,a--x--v,0,,Christian women--Conduct of life;Conduct of life;Early works,http://id.worldcat.org/fast/859569;http://id.worldcat.org/fast/874563;http://id.worldcat.org/fast/1411636
 Christian women saints--Biography.,a--x,fast,http://id.worldcat.org/fast/1424887,Christian women saints--Biography,http://id.worldcat.org/fast/1424887
 Christian women saints--Biography--Early works 1800.,a--v--y,0,,Christian women saints--Biography;Biographies,http://id.worldcat.org/fast/1424887;http://id.worldcat.org/fast/1919896
-Chronicle,,openn-keywords,,chronicles,http://vocab.getty.edu/aat/300026361
 Chronology.,a,fast,http://id.worldcat.org/fast/860197,Chronologies,http://id.worldcat.org/fast/1423901
 Chronology--Italy.,a--z,0,,Chronologies;Italy,http://id.worldcat.org/fast/1423901;http://id.worldcat.org/fast/1204565
-Church Fathers,,openn-keywords,,Fathers of the church,http://id.worldcat.org/fast/921916
 Church finance.,a,fast,http://id.worldcat.org/fast/860699,Church finance,http://id.worldcat.org/fast/860699
 Church finance--France--Douai--Early works to 1800.,a--z--z--v,0,,Church finance;France--Douai;Early works,http://id.worldcat.org/fast/860699;http://id.worldcat.org/fast/1213826;http://id.worldcat.org/fast/1411636
 Church finance--History.,a--x,0,http://id.loc.gov/authorities/subjects/sh85025608,Church finance;History,http://id.worldcat.org/fast/860699;http://id.worldcat.org/fast/958235
@@ -608,15 +578,12 @@ Clothing and dress--Religious aspects--Islam--Early works to 1800.,a--x--x--v,0,
 Coffee (Islamic law),a,fast,(OCoLC)fst01744237,Coffee (Islamic law),http://id.worldcat.org/fast/1744237
 Coffee (Islamic law)--Early works to 1800.,a--v,0,(uri) http://id.loc.gov/authorities/subjects/sh2007009554,Coffee (Islamic law);Early works,http://id.worldcat.org/fast/1744237;http://id.worldcat.org/fast/1411636
 Coffee--Poetry--Early works to 1800.,a--v--v,0,,Coffee;Poetry;Early works,http://id.worldcat.org/fast/866301;http://id.worldcat.org/fast/1423828;http://id.worldcat.org/fast/1411636
-Collection of Sermons,,openn-keywords,,Sermons,http://id.worldcat.org/fast/1113216
 Colle di Val d'Elsa (Italy)--History--14th century.,a--x--y,0,,Italy--Colle di Val d'Elsa;History;Fourteenth century,http://id.worldcat.org/fast/1229951;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/933420
 Cologne (Germany)--Church history.,a--x,0,,Germany--Cologne;Church history,http://id.worldcat.org/fast/1208521;http://id.worldcat.org/fast/1411629
 Colonies.,a,fast,http://id.worldcat.org/fast/868456,Colonies,http://id.worldcat.org/fast/868456
-Colophon,,openn-keywords,,Colophons,http://id.worldcat.org/fast/868495
 Colors.,a,fast,http://id.worldcat.org/fast/868751,Colors,http://id.worldcat.org/fast/868751
 Colors--Early works to 1800.,a--v,0,,Colors;Early works,http://id.worldcat.org/fast/868751;http://id.worldcat.org/fast/1411636
 Command of troops.,a,fast,(OCoLC)fst00869220,Command of troops,http://id.worldcat.org/fast/869220
-Commentary,,openn-keywords,,Commentaries,http://id.worldcat.org/fast/1423723
 Commerce.,a,fast,http://id.worldcat.org/fast/869279,Commerce,http://id.worldcat.org/fast/869279
 Commerce--Early works to 1800.,a--v,0,http://id.loc.gov/authorities/subjects/sh2008101241,Commerce;Early works,http://id.worldcat.org/fast/869279;http://id.worldcat.org/fast/1411636
 Commercial courts.,a,fast,http://id.worldcat.org/fast/869460,Commercial courts,http://id.worldcat.org/fast/869460
@@ -668,7 +635,6 @@ Conveyancing--Early works to 1800.,a--v,0,,Conveyancing;Early works,http://id.wo
 "Cooking, English--Early works to 1800.",a--v,0,http://id.loc.gov/authorities/subjects/sh2008101719,"Cooking, English;Early works",http://id.worldcat.org/fast/1754933;http://id.worldcat.org/fast/1411636
 Cooking.,a,fast,http://id.worldcat.org/fast/1754966,Cooking,http://id.worldcat.org/fast/1754966
 Cooking--Early works to 1800.,a--v,0,http://id.loc.gov/authorities/subjects/sh2008101718,Cooking;Early works,http://id.worldcat.org/fast/1754966;http://id.worldcat.org/fast/1411636
-Coptic,,openn-keywords,,Coptic (culture or style),http://vocab.getty.edu/aat/300020449
 Corrèze (France : Department)--History--Economic aspects.,a--x--x,0,,France--Corrèze (Department);History,http://id.worldcat.org/fast/1714272;http://id.worldcat.org/fast/958235
 Corrèze (France : Department)--History--Social aspects.,a--x--x,0,,France--Corrèze (Department);History;Social aspects,http://id.worldcat.org/fast/1714272;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1354981
 Corrèze (France : Department)--History--Sources.,a--x--v,0,,France--Corrèze (Department);History;Sources,http://id.worldcat.org/fast/1714272;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1423900
@@ -722,11 +688,8 @@ Cyprus--Description and travel.,a--x,0,http://id.loc.gov/authorities/subjects/sh
 "Cyprus--History--Turkish Conquest, 1570-1571.",a--x--y,0,http://id.loc.gov/authorities/subjects/sh87002777,Cyprus;History;Turkish Conquest of Cyprus (Cyprus : 1570-1571),http://id.worldcat.org/fast/1205213;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1355175
 "Cyprus--History--Turkish rule, 1571-1878.",a--x--y,0,http://id.loc.gov/authorities/subjects/sh87004675,Cyprus;History;1571-1878,http://id.worldcat.org/fast/1205213;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1355617
 "Cyprus--History--Venetian rule, 1474-1570.",a--x--y,0,http://id.loc.gov/authorities/subjects/sh91004079,Cyprus;History;1474-1570,http://id.worldcat.org/fast/1205213;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1355553
-Czech,,openn-keywords,,Czech (culture or style),http://vocab.getty.edu/aat/300111166
-Czech Republic,,openn-keywords,,Czech Republic,http://id.worldcat.org/fast/1256743
 Czech Republic--Bohemia.,a--z,fast,http://id.worldcat.org/fast/1243096,Czech Republic--Bohemia,http://id.worldcat.org/fast/1243096
 Dalmatia (Croatia)--Early works to 1800.,a--v,0,,Croatia--Dalmatia;Early works,http://id.worldcat.org/fast/1232252;http://id.worldcat.org/fast/1411636
-Damage,,openn-keywords,,damage (condition),http://vocab.getty.edu/aat/300068940
 Damages (Islamic law)--Early works to 1800.,a--v,0,,Damages (Islamic law);Early works,http://id.worldcat.org/fast/887278;http://id.worldcat.org/fast/1411636
 Damascus (Syria)--Description and travel--Early works to 1800.,a--x--v,0,,Syria--Damascus;Voyages and travels;Early works,http://id.worldcat.org/fast/1207112;http://id.worldcat.org/fast/1169308;http://id.worldcat.org/fast/1411636
 Damascus (Syria)--History--Early works to 1800.,a--x--v,0,,Syria--Damascus;History;Early works,http://id.worldcat.org/fast/1207112;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636
@@ -751,7 +714,6 @@ Debt--Italy--Siena.,a--z--z,0,,Debt;Italy--Siena,http://id.worldcat.org/fast/888
 Derbyshire (England)--History.,a--x,0,,England--Derbyshire;History,http://id.worldcat.org/fast/1202650;http://id.worldcat.org/fast/958235
 Despotism--Early works to 1800.,a--v,0,,Despotism;Early works,http://id.worldcat.org/fast/891415;http://id.worldcat.org/fast/1411636
 Devon (England)--History.,a--x,0,,England--Devon;History,http://id.worldcat.org/fast/1206047;http://id.worldcat.org/fast/958235
-Devotion,,openn-keywords,,Prayers and devotions,http://id.worldcat.org/fast/1423909
 Devotional exercises.,a,fast,http://id.worldcat.org/fast/892012,Devotional exercises,http://id.worldcat.org/fast/892012
 Devotional exercises.,a,0,http://id.loc.gov/authorities/subjects/sh85037397,Devotional exercises,http://id.worldcat.org/fast/892012
 "Devotional literature, English (Middle)",a,0,http://id.loc.gov/authorities/subjects/sh89005456,"Devotional literature, English (Middle)",http://id.worldcat.org/fast/892024
@@ -772,11 +734,9 @@ Devotional literature--Early works to 1800.,a--v,0,http://id.loc.gov/authorities
 "Devotional poetry, Arabic--Early works to 1800.",a--v,0,(uri) http://id.loc.gov/authorities/subjects/sh98003813,"Devotional poetry, Arabic;Early works",http://id.worldcat.org/fast/892054;http://id.worldcat.org/fast/1411636
 Dhimmis (Islamic law),a,fast,(OCoLC)fst01797956,Dhimmis (Islamic law),http://id.worldcat.org/fast/1797956
 Dhimmis (Islamic law)--Early works to 1800.,a--v,0,(uri) http://id.loc.gov/authorities/subjects/sh85037446,Dhimmis (Islamic law);Early works,http://id.worldcat.org/fast/1797956;http://id.worldcat.org/fast/1411636
-Diagrams,,openn-keywords,,"Charts, diagrams, etc.",http://id.worldcat.org/fast/852545
 Dialectic.,a,fast,(OCoLC)fst00892462,Dialectic,http://id.worldcat.org/fast/892462
 Dialectic--Early works to 1800.,a--v,0,,Dialectic;Early works,http://id.worldcat.org/fast/892462;http://id.worldcat.org/fast/1411636
 Dictators as authors--Early works to 1800.,a--v,0,,Dictators as authors;Early works,http://id.worldcat.org/fast/1986296;http://id.worldcat.org/fast/1411636
-Dictionary,,openn-keywords,,Dictionaries,http://id.worldcat.org/fast/1423826
 "Didactic literature, German.",a,0,http://id.loc.gov/authorities/subjects/sh85037728,"Didactic literature, German",http://id.worldcat.org/fast/892958
 "Didactic literature, German.",a,fast,http://id.worldcat.org/fast/892958,"Didactic literature, German",http://id.worldcat.org/fast/892958
 Didactic literature--Early works to 1800.,a--v,0,,Didactic literature;Early works,http://id.worldcat.org/fast/892936;http://id.worldcat.org/fast/1411636
@@ -799,7 +759,6 @@ Divine office (Music),a,fast,http://id.worldcat.org/fast/895764,Divine office (M
 Divorce (Islamic law),a,fast,(OCoLC)fst00895870,Divorce (Islamic law),http://id.worldcat.org/fast/895870
 Divorce (Islamic law)--Early works to 1800.,a--v,0,(uri) http://id.loc.gov/authorities/subjects/sh85038630,Divorce (Islamic law);Early works,http://id.worldcat.org/fast/895870;http://id.worldcat.org/fast/1411636
 Divorce (Islamic law)--Early works to 1800.,a--v,0,,Divorce (Islamic law);Early works,http://id.worldcat.org/fast/895870;http://id.worldcat.org/fast/1411636
-Document,,openn-keywords,,documents (object genre),http://vocab.getty.edu/aat/300026030
 Dominican sisters.,a,fast,http://id.worldcat.org/fast/896774,Dominican sisters,http://id.worldcat.org/fast/896774
 Dominican sisters.,a,0,http://id.loc.gov/authorities/subjects/sh89004458,Dominican sisters,http://id.worldcat.org/fast/896774
 Dowry.,a,fast,http://id.worldcat.org/fast/897264,Dowry,http://id.worldcat.org/fast/897264
@@ -807,14 +766,12 @@ Dowry.,a,0,http://id.loc.gov/authorities/subjects/sh85039237,Dowry,http://id.wor
 Dowry--France--Sources.,a--z--v,0,,Dowry;France;Sources,http://id.worldcat.org/fast/897264;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1423900
 Dowry--Italy.,a--z,0,,Dowry;Italy,http://id.worldcat.org/fast/897264;http://id.worldcat.org/fast/1204565
 Dowry--Spain.,a--z,0,,Dowry;Spain,http://id.worldcat.org/fast/897264;http://id.worldcat.org/fast/1204303
-Drawing,,openn-keywords,,Drawing,http://id.worldcat.org/fast/897725
 "Drayton (Oxfordshire, England)--History.",a--x,0,,England--Drayton (Oxfordshire);History,http://id.worldcat.org/fast/1329394;http://id.worldcat.org/fast/958235
 Drenthe (Netherlands)--Early works to 1800.,a--v,0,,Netherlands--Drenthe;Early works,http://id.worldcat.org/fast/1205603;http://id.worldcat.org/fast/1411636
 Drug abuse--Religious aspects--Islam.,a--x--x,fast,(OCoLC)fst00898560,Drug abuse--Religious aspects--Islam,http://id.worldcat.org/fast/898560
 Drug abuse--Religious aspects--Islam--Early works to 1800.,a--x--x--v,0,(uri) http://id.loc.gov/authorities/subjects/sh85039675,Drug abuse--Religious aspects;Islam;Early works,http://id.worldcat.org/fast/898553;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636
 Druzes.,a,fast,(OCoLC)fst00899110,Druzes,http://id.worldcat.org/fast/899110
 Druzes--Sacred books.,a--v,0,,Druzes;Sacred books,http://id.worldcat.org/fast/899110;http://id.worldcat.org/fast/1423905
-Dutch,,openn-keywords,,Dutch (culture or style),http://vocab.getty.edu/aat/300111175
 Dutch poetry.,a,fast,http://id.worldcat.org/fast/899880,Dutch poetry,http://id.worldcat.org/fast/899880
 Dutch poetry--Early works to 1800.,a--v,0,,Dutch poetry;Early works,http://id.worldcat.org/fast/899880;http://id.worldcat.org/fast/1411636
 Dyes and dyeing.,a,fast,http://id.worldcat.org/fast/900233,Dyes and dyeing,http://id.worldcat.org/fast/900233
@@ -842,7 +799,6 @@ Education of princes--Early works to 1800.,a--v,0,http://id.loc.gov/authorities/
 Education of princes--Islamic Empire--16th century--Early works to 1800.,a--z--y--v,0,,Education of princes;Islamic Empire;Sixteenth century;Early works,http://id.worldcat.org/fast/902875;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1119851;http://id.worldcat.org/fast/1411636
 Education of princes--Islamic Empire--Early works to 1800.,a--z--v,0,,Education of princes;Islamic Empire;Early works,http://id.worldcat.org/fast/902875;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636
 Education--Poetry--Early works to 1800.,a--v--v,0,,Education;Poetry;Early works,http://id.worldcat.org/fast/902499;http://id.worldcat.org/fast/1423828;http://id.worldcat.org/fast/1411636
-Egypt,,openn-keywords,,Egypt,http://id.worldcat.org/fast/1208755
 Egypt.,a,fast,(OCoLC)fst01208755--(uri) http://id.worldcat.org/fast/fst01208755,Egypt,http://id.worldcat.org/fast/1208755
 Egypt.,a,fast,(OCoLC)fst01208755,Egypt,http://id.worldcat.org/fast/1208755
 Egypt--Cairo.,a--z,fast,(OCoLC)fst01205204,Egypt--Cairo,http://id.worldcat.org/fast/1205204
@@ -889,7 +845,6 @@ England--Lancashire.,a--z,fast,http://id.worldcat.org/fast/1204978,England--Lanc
 England--Nottinghamshire.,a--z,fast,http://id.worldcat.org/fast/1206866,England--Nottinghamshire,http://id.worldcat.org/fast/1206866
 England--Suffolk.,a--z,fast,http://id.worldcat.org/fast/1212535,England--Suffolk,http://id.worldcat.org/fast/1212535
 England--Warwickshire.,a--z,fast,http://id.worldcat.org/fast/1212375,England--Warwickshire,http://id.worldcat.org/fast/1212375
-English,,openn-keywords,,English (culture or style),http://vocab.getty.edu/aat/300111178
 English literature.,a,fast,http://id.worldcat.org/fast/911989,English literature,http://id.worldcat.org/fast/911989
 English literature--16th century.,a--y,0,,English literature;Sixteenth century,http://id.worldcat.org/fast/911989;http://id.worldcat.org/fast/1119851
 "English literature--Middle English, 1100-1500.",a--y,0,http://id.loc.gov/authorities/subjects/sh85043778,English literature--Middle English,http://id.worldcat.org/fast/1710961
@@ -976,11 +931,9 @@ Finance.,a,fast,http://id.worldcat.org/fast/924349,Finance,http://id.worldcat.or
 Finance (Islamic law)--Early works to 1800.,a--v,0,,Finance (Islamic law);Early works,http://id.worldcat.org/fast/924432;http://id.worldcat.org/fast/1411636
 Finance--Italy--Early works to 1800.,a--z--v,0,,Finance;Italy;Early works,http://id.worldcat.org/fast/924349;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1411636
 Finance--Spain--Early works to 1800.,a--z--v,0,,Finance;Spain;Early works,http://id.worldcat.org/fast/924349;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/1411636
-Financial records,,openn-keywords,,financial records,http://vocab.getty.edu/aat/300027473
 Fireworks.,a,fast,http://id.worldcat.org/fast/1198494,Fireworks,http://id.worldcat.org/fast/1198494
 Fireworks--Early works to 1800.,a--v,0,,Fireworks;Early works,http://id.worldcat.org/fast/1198494;http://id.worldcat.org/fast/1411636
 Flanders.,a,0,http://id.loc.gov/authorities/subjects/sh85048993,Europe--Flanders,http://id.worldcat.org/fast/1245991
-Flemish,,openn-keywords,,Flemish (culture or style),http://vocab.getty.edu/aat/300111184
 Florence (Italy),a,0,http://id.loc.gov/authorities/names/n79027120,Italy--Florence,http://id.worldcat.org/fast/1204699
 Florence (Italy)--Church history.,a--x,0,http://id.loc.gov/authorities/subjects/sh2008115036,Italy--Florence;Church history,http://id.worldcat.org/fast/1204699;http://id.worldcat.org/fast/1411629
 Florence (Italy)--Commerce.,a--x,0,,Italy--Florence;Commerce,http://id.worldcat.org/fast/1204699;http://id.worldcat.org/fast/869279
@@ -1020,7 +973,6 @@ Four elements (Philosophy),a,fast,http://id.worldcat.org/fast/933376,Four elemen
 Four elements (Philosophy)--Early works to 1800.,a--v,0,,Four elements (Philosophy);Early works,http://id.worldcat.org/fast/933376;http://id.worldcat.org/fast/1411636
 Four temperaments in art.,a,0,http://id.loc.gov/authorities/subjects/sh2001003072,Four temperaments in art,http://id.worldcat.org/fast/933383
 Four temperaments in art.,a,fast,http://id.worldcat.org/fast/933383,Four temperaments in art,http://id.worldcat.org/fast/933383
-Fragment,,openn-keywords,,fragments (object portions),http://vocab.getty.edu/aat/300117130
 France.,a,fast,http://id.worldcat.org/fast/1204289,France,http://id.worldcat.org/fast/1204289
 France--Alsace.,a--z,fast,http://id.worldcat.org/fast/1211525,France--Alsace,http://id.worldcat.org/fast/1211525
 France--Description and travel--Early works to 1800.,a--x--v,0,,France;Voyages and travels;Early works,http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1169308;http://id.worldcat.org/fast/1411636
@@ -1055,7 +1007,6 @@ Franciscans--Italy.,a--z,0,,Franciscans;Italy,http://id.worldcat.org/fast/530004
 Free will and determinism--Religious aspects--Islam.,a--x--x,fast,(OCoLC)fst00933979,Free will and determinism--Religious aspects--Islam,http://id.worldcat.org/fast/933979
 Free will and determinism--Religious aspects--Islam--Early works to 1800.,a--x--x--v,0,(uri) http://id.loc.gov/authorities/subjects/sh85051686,Free will and determinism--Religious aspects;Islam;Early works,http://id.worldcat.org/fast/933973;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636
 Free will and determinism--Religious aspects--Islam--Early works to 1800.,a--x--x--v,0,,Free will and determinism--Religious aspects;Islam;Early works,http://id.worldcat.org/fast/933973;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636
-French,,openn-keywords,,French (culture or style),http://vocab.getty.edu/aat/300111188
 French poetry.,a,fast,http://id.worldcat.org/fast/934799,French poetry,http://id.worldcat.org/fast/934799
 French poetry.,a,0,http://id.loc.gov/authorities/subjects/sh85051892,French poetry,http://id.worldcat.org/fast/934799
 French poetry--16th century.,a--y,0,http://id.loc.gov/authorities/subjects/sh85051894,French poetry;Sixteenth century,http://id.worldcat.org/fast/934799;http://id.worldcat.org/fast/1119851
@@ -1092,7 +1043,6 @@ Geography--Early works to 1800.,a--v,0,http://id.loc.gov/authorities/subjects/sh
 Geography--Early works to 1800.,a--v,0,,Geography;Early works,http://id.worldcat.org/fast/940469;http://id.worldcat.org/fast/1411636
 Geometry.,a,fast,http://id.worldcat.org/fast/940864,Geometry,http://id.worldcat.org/fast/940864
 Geometry--Early works to 1800.,a--v,0,http://id.loc.gov/authorities/subjects/sh85054134,Geometry;Early works,http://id.worldcat.org/fast/940864;http://id.worldcat.org/fast/1411636
-German,,openn-keywords,,"German (culture, style, period)",http://vocab.getty.edu/aat/300111192
 Germanic peoples.,a,fast,http://id.worldcat.org/fast/942049,Germanic peoples,http://id.worldcat.org/fast/942049
 Germanic peoples--History--Early works to 1800.,a--x--v,0,,Germanic peoples;History;Early works,http://id.worldcat.org/fast/942049;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636
 German language.,a,fast,http://id.worldcat.org/fast/941408,German language,http://id.worldcat.org/fast/941408
@@ -1112,8 +1062,6 @@ Germany--Nuremberg.,a--z,fast,http://id.worldcat.org/fast/1207726,Germany--Nurem
 Gifts.,a,fast,http://id.worldcat.org/fast/942628,Gifts,http://id.worldcat.org/fast/942628
 Gifts--France--History--14th century.,a--z--x--y,0,,Gifts;France;History;Fourteenth century,http://id.worldcat.org/fast/942628;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/933420
 Glastonbury (England)--Church history--Early works to 1800.,a--x--v,0,,England--Glastonbury;Church history;Early works,http://id.worldcat.org/fast/1210183;http://id.worldcat.org/fast/1411629;http://id.worldcat.org/fast/1411636
-Gloss,,openn-keywords,,glosses (annotations),http://vocab.getty.edu/aat/300211708
-Glossary,,openn-keywords,,"Glossaries, vocabularies, etc.",http://id.worldcat.org/fast/1423786
 God.,a,fast,http://id.worldcat.org/fast/944037,God,http://id.worldcat.org/fast/944037
 God (Islam),a,fast,(OCoLC)fst00944142,God (Islam),http://id.worldcat.org/fast/944142
 God (Islam)--Doctrines--Early works to 1800.,a--x--v,0,,God (Islam);Early works,http://id.worldcat.org/fast/944142;http://id.worldcat.org/fast/1411636
@@ -1136,17 +1084,11 @@ God--Worship and love--Early works to 1800.,a--x--v,0,,God--Worship and love;Ear
 God--Wrath.,a--x,0,,God--Wrath,http://id.worldcat.org/fast/944131
 Gold.,a,fast,http://id.worldcat.org/fast/944368,Gold,http://id.worldcat.org/fast/944368
 Gold--Early works to 1800.,a--v,0,,Gold;Early works,http://id.worldcat.org/fast/944368;http://id.worldcat.org/fast/1411636
-Gospel Lectionary,,openn-keywords,,Evangeliaries,http://id.worldcat.org/fast/916991
-Gospels,,openn-keywords,,Bible. Gospels,http://id.worldcat.org/fast/1808065
-Gothic,,openn-keywords,,Gothic (Medieval),http://vocab.getty.edu/aat/300020775
-Gothic book hand,,openn-keywords,,textura (Gothic script),http://vocab.getty.edu/aat/300202638
-Gradual,,openn-keywords,,Graduals (Liturgical books),http://id.worldcat.org/fast/945809
 Graduals (Chants),a,fast,http://id.worldcat.org/fast/1761754,Graduals (Chants),http://id.worldcat.org/fast/1761754
 Graduals (Chants)--Specimens.,a--v,0,,Graduals (Chants);Specimens,http://id.worldcat.org/fast/1761754;http://id.worldcat.org/fast/1423861
 Graduals (Liturgical books),a,fast,http://id.worldcat.org/fast/945809,Graduals (Liturgical books),http://id.worldcat.org/fast/945809
 Graduals (Liturgical books),a,0,,Graduals (Liturgical books),http://id.worldcat.org/fast/945809
 Graduals (Liturgical books)--Specimens.,a--v,0,,Graduals (Liturgical books);Specimens,http://id.worldcat.org/fast/945809;http://id.worldcat.org/fast/1423861
-Grammar,,openn-keywords,,"Grammar, Comparative and general",http://id.worldcat.org/fast/946126
 Grammarians.,a,fast,(OCoLC)fst00946284,Grammarians,http://id.worldcat.org/fast/946284
 Grammarians--Arab countries--Biography--Early works to 1800.,a--z--v--v,0,,Grammarians;Arab countries;Biographies;Early works,http://id.worldcat.org/fast/946284;http://id.worldcat.org/fast/1240128;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636
 Gratitude--Religious aspects--Islam.,a--x--x,fast,(OCoLC)fst00946838,Gratitude--Religious aspects--Islam,http://id.worldcat.org/fast/946838
@@ -1162,7 +1104,6 @@ Great Britain--Politics and government--1399-1485.,a--x--y,0,http://id.loc.gov/a
 Great Britain--Relations--Ireland.,a--x--z,0,,Great Britain;International relations;Ireland,http://id.worldcat.org/fast/1204623;http://id.worldcat.org/fast/977053;http://id.worldcat.org/fast/1205427
 Greece.,a,fast,http://id.worldcat.org/fast/1208380,Greece,http://id.worldcat.org/fast/1208380
 Greece--History--1453-1821.,a--x--y,0,http://id.loc.gov/authorities/subjects/sh85057094,Greece;History,http://id.worldcat.org/fast/1208380;http://id.worldcat.org/fast/958235
-Greek,,openn-keywords,,Ancient Greek (culture or style),http://vocab.getty.edu/aat/300020072
 Greek language--Grammar.,a--x,fast,http://id.worldcat.org/fast/947212,Greek language--Grammar,http://id.worldcat.org/fast/947212
 Greek language--Grammar--Early works to 1500.,a--x--v,0,http://id.loc.gov/authorities/subjects/sh88002562,Greek language--Grammar;Early works,http://id.worldcat.org/fast/947212;http://id.worldcat.org/fast/1411636
 Greek literature.,a,fast,http://id.worldcat.org/fast/947441,Greek literature,http://id.worldcat.org/fast/947441
@@ -1252,7 +1193,6 @@ Hermetic philosophers.,a,0,http://id.loc.gov/authorities/subjects/sh85060408,Her
 High Holidays--Liturgy.,a--x,fast,http://id.worldcat.org/fast/955993,High Holidays--Liturgy,http://id.worldcat.org/fast/955993
 High Holidays--Liturgy--Texts.,a--x--v,0,http://id.loc.gov/authorities/subjects/sh2008121567,High Holidays--Liturgy;Liturgics;Texts,http://id.worldcat.org/fast/955993;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705
 Ḥimyar (Yemen)--Kings and rulers--Poetry--Early works to 1800.,a--x--v--v,0,,Yemen (Republic)--Ḥimyar;Kings and rulers;Poetry;Early works,http://id.worldcat.org/fast/1879898;http://id.worldcat.org/fast/987694;http://id.worldcat.org/fast/1423828;http://id.worldcat.org/fast/1411636
-Historiated initial,,openn-keywords,,Historiated initials,http://id.worldcat.org/fast/957716
 Historical geography.,a,fast,(OCoLC)fst00958122,Historical geography,http://id.worldcat.org/fast/958122
 "History, Ancient--Early works to 1800.",a--v,0,,"History, Ancient;Early works",http://id.worldcat.org/fast/958352;http://id.worldcat.org/fast/1411636
 History.,a,fast,http://id.worldcat.org/fast/958235,History,http://id.worldcat.org/fast/958235
@@ -1308,7 +1248,6 @@ Human anatomy--Early works to 1800.,a--v,0,http://id.loc.gov/authorities/subject
 Humanism.,a,fast,http://id.worldcat.org/fast/963520,Humanism,http://id.worldcat.org/fast/963520
 Humanism--Germany.,a--z,0,,Humanism;Germany,http://id.worldcat.org/fast/963520;http://id.worldcat.org/fast/1210272
 Humanism--Italy.,a--z,0,http://id.loc.gov/authorities/subjects/sh2008122098,Humanism;Italy,http://id.worldcat.org/fast/963520;http://id.worldcat.org/fast/1204565
-Humanistic,,openn-keywords,,humanistic scripts,http://vocab.getty.edu/aat/300210204
 Human reproduction.,a,fast,http://id.worldcat.org/fast/963221,Human reproduction,http://id.worldcat.org/fast/963221
 Human reproduction--Early works to 1800.,a--v,0,,Human reproduction;Early works,http://id.worldcat.org/fast/963221;http://id.worldcat.org/fast/1411636
 "Humorous poetry, German.",a,fast,http://id.worldcat.org/fast/963781,"Humorous poetry, German",http://id.worldcat.org/fast/963781
@@ -1324,7 +1263,6 @@ Hydrostatics.,a,fast,http://id.worldcat.org/fast/965280,Hydrostatics,http://id.w
 Hydrostatics--Early works to 1800.,a--v,0,,Hydrostatics;Early works,http://id.worldcat.org/fast/965280;http://id.worldcat.org/fast/1411636
 Hygiene.,a,fast,http://id.worldcat.org/fast/965349,Hygiene,http://id.worldcat.org/fast/965349
 Hygiene--Early works to 1800.,a--v,0,http://id.loc.gov/authorities/subjects/sh2008105525,Hygiene;Early works,http://id.worldcat.org/fast/965349;http://id.worldcat.org/fast/1411636
-Hymnal,,openn-keywords,,Hymnals,http://id.worldcat.org/fast/1920189
 "Hymns, Ethiopic.",a,fast,http://id.worldcat.org/fast/965555,"Hymns, Ethiopic",http://id.worldcat.org/fast/965555
 "Hymns, Ethiopic.",a,0,http://id.loc.gov/authorities/subjects/sh2002005883,"Hymns, Ethiopic",http://id.worldcat.org/fast/965555
 "Hymns, Latin.",a,fast,http://id.worldcat.org/fast/965595,"Hymns, Latin",http://id.worldcat.org/fast/965595
@@ -1333,13 +1271,11 @@ Hymnal,,openn-keywords,,Hymnals,http://id.worldcat.org/fast/1920189
 Hypothesis.,a,fast,http://id.worldcat.org/fast/966093,Hypothesis,http://id.worldcat.org/fast/966093
 Illegitimacy.,a,fast,http://id.worldcat.org/fast/967190,Illegitimacy,http://id.worldcat.org/fast/967190
 Illegitimacy--Italy.,a--z,0,,Illegitimacy;Italy,http://id.worldcat.org/fast/967190;http://id.worldcat.org/fast/1204565
-Illumination,,openn-keywords,,illuminations (paintings),http://vocab.getty.edu/aat/300264522
 "Illumination of books and manuscripts, Flemish.",a,fast,http://id.worldcat.org/fast/967288,"Illumination of books and manuscripts, Flemish",http://id.worldcat.org/fast/967288
 "Illumination of books and manuscripts, Flemish--Specimens.",a--v,0,,"Illumination of books and manuscripts, Flemish;Specimens",http://id.worldcat.org/fast/967288;http://id.worldcat.org/fast/1423861
 "Illumination of books and manuscripts, French.",a,fast,http://id.worldcat.org/fast/967289,"Illumination of books and manuscripts, French",http://id.worldcat.org/fast/967289
 "Illumination of books and manuscripts, French--Specimens.",a--v,0,,"Illumination of books and manuscripts, French;Specimens",http://id.worldcat.org/fast/967289;http://id.worldcat.org/fast/1423861
 "Illumination of books and manuscripts, Gothic.",a,fast,http://id.worldcat.org/fast/967296,"Illumination of books and manuscripts, Gothic",http://id.worldcat.org/fast/967296
-"Illumination of books and manuscripts, Gothic--France",,openn-subjects,http://id.loc.gov/authorities/subjects/sh2008123011.html,"Illumination of books and manuscripts, Gothic;France",http://id.worldcat.org/fast/967296;http://id.worldcat.org/fast/1204289
 "Illumination of books and manuscripts, Gothic--Specimens.",a--v,0,,"Illumination of books and manuscripts, Gothic;Specimens",http://id.worldcat.org/fast/967296;http://id.worldcat.org/fast/1423861
 Illumination of books and manuscripts.,a,fast,http://id.worldcat.org/fast/967235,Illumination of books and manuscripts,http://id.worldcat.org/fast/967235
 Illumination of books and manuscripts--Early works to 1800.,a--x,0,,Illumination of books and manuscripts;Early works,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1411636
@@ -1348,7 +1284,6 @@ Illumination of books and manuscripts--Specimens.,a--v,0,http://id.loc.gov/autho
 Illumination of books and manuscripts--Specimens.,a--v,0,,Illumination of books and manuscripts;Specimens,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1423861
 Illumination of books and manuscripts--Technique.,a--x,fast,http://id.worldcat.org/fast/967242,Illumination of books and manuscripts--Technique,http://id.worldcat.org/fast/967242
 Illumination of books and manuscripts--Technique.,a--x,0,http://id.loc.gov/authorities/subjects/sh2009126730,Illumination of books and manuscripts--Technique,http://id.worldcat.org/fast/967242
-Illustration,,openn-keywords,,illustrations (layout features),http://vocab.getty.edu/aat/300015578
 Immortalité--Ouvrages avant 1800.,a--v,6,,Immortality;Early works,http://id.worldcat.org/fast/967853;http://id.worldcat.org/fast/1411636
 Immortality.,a,fast,(OCoLC)fst00967853,Immortality,http://id.worldcat.org/fast/967853
 Immortality--Christianity--Early works to 1800.,a--x--v,0,,Immortality--Christianity;Christianity;Early works,http://id.worldcat.org/fast/1766792;http://id.worldcat.org/fast/859599;http://id.worldcat.org/fast/1411636
@@ -1363,7 +1298,6 @@ Indulgences (Canon law),a,fast,http://id.worldcat.org/fast/970762,Indulgences (C
 Indulgences (Canon law),a,0,http://id.loc.gov/authorities/subjects/sh85065814,Indulgences (Canon law),http://id.worldcat.org/fast/970762
 Indulgences--Early works to 1800.,a--v,0,,Indulgences;Early works,http://id.worldcat.org/fast/970759;http://id.worldcat.org/fast/1411636
 Ingolstadt (Germany)--History--Sources.,a--x--v,0,,Germany--Ingolstadt;History;Sources,http://id.worldcat.org/fast/1210321;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1423900
-Inhabited initial,,openn-keywords,,inhabited initials,http://vocab.getty.edu/aat/300198398
 Inheritance and succession.,a,fast,http://id.worldcat.org/fast/973371,Inheritance and succession,http://id.worldcat.org/fast/973371
 Inheritance and succession (Canon law),a,0,http://id.loc.gov/authorities/subjects/sh85066378,Inheritance and succession (Canon law),http://id.worldcat.org/fast/973392
 Inheritance and succession (Canon law),a,fast,http://id.worldcat.org/fast/973392,Inheritance and succession (Canon law),http://id.worldcat.org/fast/973392
@@ -1392,7 +1326,6 @@ Inquisition--Spain--Early works to 1800.,a--z--v,0,,Inquisition;Spain;Early work
 Inquisition--Spain--Palencia--Early works to 1800.,a--z--z--v,0,,Inquisition;Spain--Palencia;Early works,http://id.worldcat.org/fast/973796;http://id.worldcat.org/fast/1204970;http://id.worldcat.org/fast/1411636
 Inquisition--Spain--Toledo.,a--z--z,0,,Inquisition;Spain--Toledo,http://id.worldcat.org/fast/973796;http://id.worldcat.org/fast/1204571
 Inquisition--Spain--Valencia.,a--z--z,0,,Inquisition;Spain--Valencia,http://id.worldcat.org/fast/973796;http://id.worldcat.org/fast/1204165
-Instructional materials,,openn-keywords,,Teaching--Aids and devices,http://id.worldcat.org/fast/1144567
 Interdict (Canon law),a,0,http://id.loc.gov/authorities/subjects/sh85067225,Interdict (Canon law),http://id.worldcat.org/fast/976115
 Interdict (Canon law),a,fast,http://id.worldcat.org/fast/976115,Interdict (Canon law),http://id.worldcat.org/fast/976115
 Interfaith relations.,a,fast,(OCoLC)fst01353343,Interfaith relations,http://id.worldcat.org/fast/1353343
@@ -1432,7 +1365,6 @@ Islam--Egypt--Early works to 1800.,a--z--v,0,,Islam;Egypt;Early works,http://id.
 Islam--Ethiopia--Early works to 1800.,a--z--v,0,(uri) http://id.loc.gov/authorities/subjects/sh85068390,Islam;Ethiopia;Early works,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1205830;http://id.worldcat.org/fast/1411636
 Islam--Éthiopie--Ouvrages avant 1800.,a--z--v,6,,Islam;Ethiopia;Early works,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1205830;http://id.worldcat.org/fast/1411636
 "Islam--History--Handbooks, manuals, etc.--Early works to 1800.",a--x--v--v,0,,Islam;History;Handbooks and manuals;Early works,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1423877;http://id.worldcat.org/fast/1411636
-Islamic,,openn-keywords,,Islamic (culture or style),http://vocab.getty.edu/aat/300380013
 Islamic astrology.,a,fast,http://id.worldcat.org/fast/979912,Islamic astrology,http://id.worldcat.org/fast/979912
 Islamic astrology--Early works to 1800.,a--v,0,,Islamic astrology;Early works,http://id.worldcat.org/fast/979912;http://id.worldcat.org/fast/1411636
 Islamic calendar.,a,0,http://id.loc.gov/authorities/subjects/sh85018837,Islamic calendar,http://id.worldcat.org/fast/1730291
@@ -1512,7 +1444,6 @@ Islam--Terminology--Early works to 1800.,a--x--v,0,,Islam--Terminology;Terminolo
 Islam--Turkey--Customs and practices--Early works to 1800.,a--z--x--v,0,,Islam;Turkey;Manners and customs;Early works,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1208963;http://id.worldcat.org/fast/1007815;http://id.worldcat.org/fast/1411636
 Israel--Acre.,a--z,fast,(OCoLC)fst01207296,Israel--Acre,http://id.worldcat.org/fast/1207296
 "Istanbul (Turkey)--History--Siege, 1453.",a--x--y,0,http://id.loc.gov/authorities/subjects/sh85068752,"Turkey--Istanbul;History;Siege of Istanbul (Istanbul, Turkey : 1453)",http://id.worldcat.org/fast/1204833;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1354811
-Italian,,openn-keywords,,Italian (culture or style),http://vocab.getty.edu/aat/300111198
 Italian drama.,a,fast,http://id.worldcat.org/fast/980456,Italian drama,http://id.worldcat.org/fast/980456
 Italian drama--Early works to 1800.,a--v,0,,Italian drama;Early works,http://id.worldcat.org/fast/980456;http://id.worldcat.org/fast/1411636
 Italian language--Composition and exercises--Early works to 1800.,a--x--v,0,,Italian language--Composition and exercises;Early works,http://id.worldcat.org/fast/1425689;http://id.worldcat.org/fast/1411636
@@ -1576,7 +1507,6 @@ Italy--Urbino.,a--z,fast,http://id.worldcat.org/fast/1204497,Italy--Urbino,http:
 Italy--Venice.,a--z,fast,http://id.worldcat.org/fast/1204473,Italy--Venice,http://id.worldcat.org/fast/1204473
 Italy--Verona.,a--z,fast,http://id.worldcat.org/fast/1204568,Italy--Verona,http://id.worldcat.org/fast/1204568
 Italy--Vicenza.,a--z,fast,http://id.worldcat.org/fast/1204960,Italy--Vicenza,http://id.worldcat.org/fast/1204960
-"Jerome, Saint, -419 or 420",,openn-subjects,http://viaf.org/viaf/95147024,"Jerome, Saint, -419 or 420",http://id.worldcat.org/fast/1827079
 Jerusalem--Description and travel.,a--x,0,http://id.loc.gov/authorities/subjects/sh88002640,Middle East--Jerusalem;Voyages and travels,http://id.worldcat.org/fast/1216276;http://id.worldcat.org/fast/1169308
 Jerusalem--Description and travel--Early works to 1800.,a--x--v,0,http://id.loc.gov/authorities/subjects/sh2008115665--(uri) http://id.loc.gov/authorities/subjects/sh2008115665,Middle East--Jerusalem;Voyages and travels;Early works,http://id.worldcat.org/fast/1216276;http://id.worldcat.org/fast/1169308;http://id.worldcat.org/fast/1411636
 Jerusalem--History.,a--x,0,http://id.loc.gov/authorities/subjects/sh85069905,Middle East--Jerusalem;History,http://id.worldcat.org/fast/1216276;http://id.worldcat.org/fast/958235
@@ -1585,7 +1515,6 @@ Jerusalem--History--Prophecies.,a--x--x,0,,Middle East--Jerusalem;History--Proph
 Jerusalem--In Christianity--Early works to 1800.,a--x--v,0,,Middle East--Jerusalem;Early works,http://id.worldcat.org/fast/1216276;http://id.worldcat.org/fast/1411636
 "Jesuit drama, Latin (Medieval and modern)",a,0,http://id.loc.gov/authorities/subjects/sh87002421,"Jesuit drama, Latin (Medieval and modern)",http://id.worldcat.org/fast/982359
 "Jesuit drama, Latin (Medieval and modern)",a,fast,http://id.worldcat.org/fast/982359,"Jesuit drama, Latin (Medieval and modern)",http://id.worldcat.org/fast/982359
-Jewish,,openn-keywords,,Jewish (culture or style),http://vocab.getty.edu/aat/300417675
 Jewish astronomy.,a,fast,http://id.worldcat.org/fast/982662,Jewish astronomy,http://id.worldcat.org/fast/982662
 Jewish astronomy--Early works to 1800.,a--v,0,,Jewish astronomy;Early works,http://id.worldcat.org/fast/982662;http://id.worldcat.org/fast/1411636
 Jewish diaspora.,a,fast,http://id.worldcat.org/fast/982746,Jewish diaspora,http://id.worldcat.org/fast/982746
@@ -1647,7 +1576,6 @@ Knights and knighthood.,a,fast,http://id.worldcat.org/fast/988113,Knights and kn
 Knights and knighthood--Fiction.,a--v,0,http://id.loc.gov/authorities/subjects/sh2008106309,Knights and knighthood;Fiction,http://id.worldcat.org/fast/988113;http://id.worldcat.org/fast/1423787
 "Knowledge, Theory of.",a,fast,http://id.worldcat.org/fast/988194,"Knowledge, Theory of",http://id.worldcat.org/fast/988194
 "Knowledge, Theory of--Early works to 1800.",a--v,0,http://id.loc.gov/authorities/subjects/sh2008106319,"Knowledge, Theory of;Early works",http://id.worldcat.org/fast/988194;http://id.worldcat.org/fast/1411636
-Koran,,openn-keywords,,Qurʼan,http://id.worldcat.org/fast/1842877
 Labyrinths.,a,fast,http://id.worldcat.org/fast/990468,Labyrinths,http://id.worldcat.org/fast/990468
 Labyrinths--Early works to 1800.,a--v,0,,Labyrinths;Early works,http://id.worldcat.org/fast/990468;http://id.worldcat.org/fast/1411636
 Ladino language.,a,fast,http://id.worldcat.org/fast/990678,Ladino language,http://id.worldcat.org/fast/990678
@@ -1743,8 +1671,6 @@ Lebanon--Description and travel--Early works to 1800.,a--x--v,0,,Lebanon;Voyages
 Lectionaries.,a,fast,http://id.worldcat.org/fast/995270,Lectionaries,http://id.worldcat.org/fast/995270
 Lectionaries--Early works to 1800.,a--v,0,,Lectionaries;Early works,http://id.worldcat.org/fast/995270;http://id.worldcat.org/fast/1411636
 Lectionaries--Specimens.,a--v,0,,Lectionaries;Specimens,http://id.worldcat.org/fast/995270;http://id.worldcat.org/fast/1423861
-Lectionary,,openn-keywords,,Lectionaries,http://id.worldcat.org/fast/995270
-Legal,,openn-keywords,,Law,http://id.worldcat.org/fast/993678
 Legal documents.,a,fast,http://id.worldcat.org/fast/995459,Legal documents,http://id.worldcat.org/fast/995459
 Legal documents.,a,0,http://id.loc.gov/authorities/subjects/sh85075742,Legal documents,http://id.worldcat.org/fast/995459
 Legal maxims (Canon law),a,fast,http://id.worldcat.org/fast/995509,Legal maxims (Canon law),http://id.worldcat.org/fast/995509
@@ -1774,11 +1700,8 @@ Limoux (France),a,0,http://id.loc.gov/authorities/names/n82141212,France--Limoux
 Lion hunting.,a,0,http://id.loc.gov/authorities/subjects/sh85077273,Lion hunting,http://id.worldcat.org/fast/999318
 Lion hunting.,a,fast,http://id.worldcat.org/fast/999318,Lion hunting,http://id.worldcat.org/fast/999318
 Literature.,a,fast,(OCoLC)fst00999953,Literature,http://id.worldcat.org/fast/999953
-Literature -- Poetry,,openn-keywords,,Literature;Poetry,http://id.worldcat.org/fast/999953;http://id.worldcat.org/fast/1067691
-Literature -- Prose,,openn-keywords,,Prose literature,http://id.worldcat.org/fast/1079302
 Littérature arabe--1258-1800.,a--y,6,,Arabic literature,http://id.worldcat.org/fast/812478
 Liturgics.,a,fast,http://id.worldcat.org/fast/1000579,Liturgics,http://id.worldcat.org/fast/1000579
-Liturgy,,openn-keywords,,Liturgics,http://id.worldcat.org/fast/1000579
 Livorno (Italy)--Commerce--History.,a--x--x,0,,Italy--Livorno;Commerce;History,http://id.worldcat.org/fast/1206206;http://id.worldcat.org/fast/869279;http://id.worldcat.org/fast/958235
 Livorno (Italy)--History--16th century.,a--x--y,0,,Italy--Livorno;History;Sixteenth century,http://id.worldcat.org/fast/1206206;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1119851
 Livorno (Italy)--History--Sources.,a--x--v,0,,Italy--Livorno;History;Sources,http://id.worldcat.org/fast/1206206;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1423900
@@ -1852,7 +1775,6 @@ Mamelukes--Genealogy--Early works to 1800.,a--x--v,0,,Mamelukes;Genealogy;Early 
 Mamelukes--History--Early works to 1800.,a--x--v,0,,Mamelukes;History;Early works,http://id.worldcat.org/fast/1006922;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636
 Manichaeism.,a,fast,http://id.worldcat.org/fast/1007716,Manichaeism,http://id.worldcat.org/fast/1007716
 Manichaeism--Early works to 1800.,a--v,0,,Manichaeism;Early works,http://id.worldcat.org/fast/1007716;http://id.worldcat.org/fast/1411636
-Manicules,,openn-keywords,,manicules,http://vocab.getty.edu/aat/300312372
 Manners and customs.,a,fast,http://id.worldcat.org/fast/1007815,Manners and customs,http://id.worldcat.org/fast/1007815
 Manresa (Spain)--Social conditions.,a--x,0,,Spain--Manresa;Social conditions,http://id.worldcat.org/fast/1209982;http://id.worldcat.org/fast/1919811
 Mantua (Italy)--Economic conditions--16th century.,a--x--y,0,,Italy--Mantua;Economic conditions;Sixteenth century,http://id.worldcat.org/fast/1204700;http://id.worldcat.org/fast/1919582;http://id.worldcat.org/fast/1119851
@@ -1884,7 +1806,6 @@ Manuscript maps--Early works to 1800--Specimens.,a--v--v,0,,Manuscript maps;Earl
 "Manuscripts, Italian.",a,0,,"Manuscripts, Italian",http://id.worldcat.org/fast/1008378
 "Manuscripts, Italian--Oregon--Eugene.",a--z--z,0,,"Manuscripts, Italian;Oregon--Eugene",http://id.worldcat.org/fast/1008378;http://id.worldcat.org/fast/1205922
 "Manuscripts, Latin.",a,0,,"Manuscripts, Latin",http://id.worldcat.org/fast/1008395
-"Manuscripts, Latin (Medieval and modern)",,openn-subjects,http://id.loc.gov/authorities/subjects/sh85080735.html,"Manuscripts, Latin (Medieval and modern)",http://id.worldcat.org/fast/1008399
 "Manuscripts, Latin (Medieval and modern)",a,fast,(OCoLC)fst01008399,"Manuscripts, Latin (Medieval and modern)",http://id.worldcat.org/fast/1008399
 "Manuscripts, Latin (Medieval and modern)",a,fast,(OCoLC)fst01008399,"Manuscripts, Latin (Medieval and modern)",http://id.worldcat.org/fast/1008399
 "Manuscripts, Latin (Medieval and modern)",a,0,,"Manuscripts, Latin (Medieval and modern)",http://id.worldcat.org/fast/1008399
@@ -1936,7 +1857,6 @@ Manuscrits persans.,a,6,,"Manuscripts, Persian",http://id.worldcat.org/fast/1008
 Manuscrits persans--New Jersey--Princeton.,a--z--z,6,,"Manuscripts, Persian;New Jersey--Princeton",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1204939
 Maqamah.,a,fast,(OCoLC)fst01008818,Maqamah,http://id.worldcat.org/fast/1008818
 Maqamah--Early works to 1800.,a--v,0,,Maqamah;Early works,http://id.worldcat.org/fast/1008818;http://id.worldcat.org/fast/1411636
-Marginalia,,openn-keywords,,Marginalia,http://id.worldcat.org/fast/1009154
 Maritime law.,a,fast,http://id.worldcat.org/fast/1010102,Maritime law,http://id.worldcat.org/fast/1010102
 Maritime law--Italy.,a--z,0,http://id.loc.gov/authorities/subjects/sh2008107412,Maritime law;Italy,http://id.worldcat.org/fast/1010102;http://id.worldcat.org/fast/1204565
 Marriage.,a,fast,http://id.worldcat.org/fast/1010443,Marriage,http://id.worldcat.org/fast/1010443
@@ -1961,7 +1881,6 @@ Martyrdom (Christianity) in literature.,a,0,,Christian martyrs in literature,htt
 Masorah.,a,0,http://id.loc.gov/authorities/subjects/sh85081840,Masorah,http://id.worldcat.org/fast/1011180
 Masorah.,a,fast,http://id.worldcat.org/fast/1011180,Masorah,http://id.worldcat.org/fast/1011180
 Mass.,a,fast,http://id.worldcat.org/fast/1011191,Mass,http://id.worldcat.org/fast/1011191
-Mass book,,openn-keywords,,Missals,http://id.worldcat.org/fast/1023680
 Mass--Early works to 1800.,a--v,0,http://id.loc.gov/authorities/subjects/sh2010100839,Mass;Early works,http://id.worldcat.org/fast/1011191;http://id.worldcat.org/fast/1411636
 "Materia medica, Vegetable.",a,fast,http://id.worldcat.org/fast/1011725,"Materia medica, Vegetable",http://id.worldcat.org/fast/1011725
 "Materia medica, Vegetable--Early works to 1800.",a--v,0,http://id.loc.gov/authorities/subjects/sh2008107529,"Materia medica, Vegetable;Early works",http://id.worldcat.org/fast/1011725;http://id.worldcat.org/fast/1411636
@@ -2046,14 +1965,11 @@ Military religious orders.,a,fast,http://id.worldcat.org/fast/1021435,Military r
 Military religious orders--France.,a--z,0,,Military religious orders;France,http://id.worldcat.org/fast/1021435;http://id.worldcat.org/fast/1204289
 Mills and mill-work.,a,fast,http://id.worldcat.org/fast/1021870,Mills and mill-work,http://id.worldcat.org/fast/1021870
 Mills and mill-work--Early works to 1800.,a--v,0,,Mills and mill-work;Early works,http://id.worldcat.org/fast/1021870;http://id.worldcat.org/fast/1411636
-Miniature,,openn-keywords,,miniatures (paintings),http://vocab.getty.edu/aat/300033936
 Mints.,a,fast,http://id.worldcat.org/fast/1023501,Mints,http://id.worldcat.org/fast/1023501
 Mints--Italy.,a--z,0,,Mints;Italy,http://id.worldcat.org/fast/1023501;http://id.worldcat.org/fast/1204565
 Mirabella Eclano (Italy)--Politics and government.,a--x,0,,Italy--Mirabella Eclano;Politics and government,http://id.worldcat.org/fast/1217275;http://id.worldcat.org/fast/1919741
-Miscellany,,openn-keywords,,Miscellanea,http://id.worldcat.org/fast/1353832
 Misogyny.,a,fast,http://id.worldcat.org/fast/1023668,Misogyny,http://id.worldcat.org/fast/1023668
 Misogyny--Early works to 1800.,a--v,0,,Misogyny;Early works,http://id.worldcat.org/fast/1023668;http://id.worldcat.org/fast/1411636
-Missal,,openn-keywords,,Missals,http://id.worldcat.org/fast/1023680
 Missals.,a,fast,http://id.worldcat.org/fast/1023680,Missals,http://id.worldcat.org/fast/1023680
 Missals--Germany--Early works to 1800.,a--z--v,0,(uri) http://id.loc.gov/authorities/subjects/sh85086006,Missals;Germany;Early works,http://id.worldcat.org/fast/1023680;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/1411636
 Missals--Italy.,a--z,0,,Missals;Italy,http://id.worldcat.org/fast/1023680;http://id.worldcat.org/fast/1204565
@@ -2133,7 +2049,6 @@ Mugello Valley (Italy)--History--15th century.,a--x--y,0,,Italy--Mugello Valley;
 "Music, Greek and Roman.",a,fast,http://id.worldcat.org/fast/1030666,"Music, Greek and Roman",http://id.worldcat.org/fast/1030666
 "Music, Greek and Roman--Early works to 1800.",a--v,0,,"Music, Greek and Roman;Early works",http://id.worldcat.org/fast/1030666;http://id.worldcat.org/fast/1411636
 Music.,a,fast,http://id.worldcat.org/fast/1030269,Music,http://id.worldcat.org/fast/1030269
-Musical notation,,openn-keywords,,Musical notation,http://id.worldcat.org/fast/1030779
 Music--Early works to 1800.,a--v,0,,Music;Early works,http://id.worldcat.org/fast/1030269;http://id.worldcat.org/fast/1411636
 Musicians.,a,fast,(OCoLC)fst01030837,Musicians,http://id.worldcat.org/fast/1030837
 Musicians--Arab countries--Early works to 1800.,a--z--v,0,,Musicians;Arab countries;Early works,http://id.worldcat.org/fast/1030837;http://id.worldcat.org/fast/1240128;http://id.worldcat.org/fast/1411636
@@ -2244,7 +2159,6 @@ Nola (Italy),a,0,http://id.loc.gov/authorities/names/n82006637,Italy--Nola,http:
 Normandy (France)--History--Economic conditions--14th century.,a--x--x--y,0,,France--Normandy;History;Economic conditions;Fourteenth century,http://id.worldcat.org/fast/1210709;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1919582;http://id.worldcat.org/fast/933420
 Northamptonshire (England)--History.,a--x,0,,England--Northamptonshire;History,http://id.worldcat.org/fast/1212740;http://id.worldcat.org/fast/958235
 Northumberland (England)--History.,a--x,0,,England--Northumberland;History,http://id.worldcat.org/fast/1207030;http://id.worldcat.org/fast/958235
-Notable binding,,openn-keywords,,binding (textile material),http://vocab.getty.edu/aat/300421867
 Notaries.,a,fast,http://id.worldcat.org/fast/1039553,Notaries,http://id.worldcat.org/fast/1039553
 Notaries (Canon law),a,fast,http://id.worldcat.org/fast/1039575,Notaries (Canon law),http://id.worldcat.org/fast/1039575
 "Notaries (Canon law)--Handbooks, manuals, etc.--Early works to 1800.",a--v--v,0,,Notaries (Canon law);Handbooks and manuals;Early works,http://id.worldcat.org/fast/1039575;http://id.worldcat.org/fast/1423877;http://id.worldcat.org/fast/1411636
@@ -2271,17 +2185,13 @@ Ordnance--Manufacture.,a--x,fast,http://id.worldcat.org/fast/1047441,Ordnance--M
 Ordnance--Manufacture--History.,a--x--x,0,,Ordnance--Manufacture;Manufacturing processes;History,http://id.worldcat.org/fast/1047441;http://id.worldcat.org/fast/1008139;http://id.worldcat.org/fast/958235
 Oregon--Eugene,a--z,fast,(OCoLC)fst01205922,Oregon--Eugene,http://id.worldcat.org/fast/1205922
 Oregon--Eugene.,a--z,fast,(OCoLC)fst01205922,Oregon--Eugene,http://id.worldcat.org/fast/1205922
-Original binding,,openn-keywords,,binding (textile material),http://vocab.getty.edu/aat/300421867
-Ornament,,openn-keywords,,Decoration and Ornament,http://id.worldcat.org/fast/889145
 Orvieto (Italy)--History--15th century.,a--x--y,0,,Italy--Orvieto;History;Fifteenth century,http://id.worldcat.org/fast/1209989;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/923962
 Overijssel (Netherlands)--Early works to 1800.,a--v,0,,Netherlands--Overijssel;Early works,http://id.worldcat.org/fast/1204296;http://id.worldcat.org/fast/1411636
 Padua (Italy),a,0,http://id.loc.gov/authorities/names/n79027122,Italy--Padua,http://id.worldcat.org/fast/1204701
 Padua (Italy)--History--16th century.,a--x--y,0,,Italy--Padua;History;Sixteenth century,http://id.worldcat.org/fast/1204701;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1119851
-Painting,,openn-keywords,,Painting,http://id.worldcat.org/fast/1050567
 Palermo (Italy)--History--15th century.,a--x--y,0,,Italy--Palermo;History;Fifteenth century,http://id.worldcat.org/fast/1204982;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/923962
 Palestine--Description and travel.,a--x,0,http://id.loc.gov/authorities/subjects/sh2008116508,Middle East--Palestine;Voyages and travels,http://id.worldcat.org/fast/1207534;http://id.worldcat.org/fast/1169308
 Palestine--History--638-1917.,a--x--y,0,http://id.loc.gov/authorities/subjects/sh85097170,Middle East--Palestine;History,http://id.worldcat.org/fast/1207534;http://id.worldcat.org/fast/958235
-Palimpsest,,openn-keywords,,Palimpsests,http://id.worldcat.org/fast/1051671
 Pantelleria Island (Italy)--History.,a--x,0,http://id.loc.gov/authorities/subjects/sh2005006896,Italy--Pantelleria Island;History,http://id.worldcat.org/fast/1243673;http://id.worldcat.org/fast/958235
 Papacy.,a,fast,http://id.worldcat.org/fast/1052284,Papacy,http://id.worldcat.org/fast/1052284
 Papacy--Early works to 1800.,a--v,0,http://id.loc.gov/authorities/subjects/sh2008108868,Papacy;Early works,http://id.worldcat.org/fast/1052284;http://id.worldcat.org/fast/1411636
@@ -2297,7 +2207,6 @@ Papal States--Foreign relations--Italy--Florence.,a--x--z--z,0,,Europe--Papal St
 Papal States--History.,a--x,0,http://id.loc.gov/authorities/subjects/sh85097556,Europe--Papal States;History,http://id.worldcat.org/fast/1205528;http://id.worldcat.org/fast/958235
 Papal States--Politics and government--Early works to 1800.,a--x--v,0,,Europe--Papal States;Politics and government;Early works,http://id.worldcat.org/fast/1205528;http://id.worldcat.org/fast/1919741;http://id.worldcat.org/fast/1411636
 Papauté--Histoire--Ouvrages avant 1800.,a--x--v,6,,Papacy;History;Early works,http://id.worldcat.org/fast/1052284;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636
-Paper,,openn-keywords,,Paper,http://id.worldcat.org/fast/1052348
 Papes--Primauté--Ouvrages avant 1800.,a--x--v,6,,Popes--Primacy;Early works,http://id.worldcat.org/fast/1071284;http://id.worldcat.org/fast/1411636
 Parables.,a,fast,http://id.worldcat.org/fast/1052768,Parables,http://id.worldcat.org/fast/1052768
 Parables--Early works to 1800.,a--v,0,,Parables;Early works,http://id.worldcat.org/fast/1052768;http://id.worldcat.org/fast/1411636
@@ -2331,7 +2240,6 @@ Pens--Early works to 1800.,a--v,0,,Pens;Early works,http://id.worldcat.org/fast/
 Pentecost.,a,0,http://id.loc.gov/authorities/subjects/sh85099628,Pentecost,http://id.worldcat.org/fast/1057173
 Pentecost.,a,fast,http://id.worldcat.org/fast/1057173,Pentecost,http://id.worldcat.org/fast/1057173
 Pentecost--Sermons--Early works to 1800.,a--x--v,0,,Pentecost;Sermons;Early works,http://id.worldcat.org/fast/1057173;http://id.worldcat.org/fast/1113216;http://id.worldcat.org/fast/1411636
-Penwork initial,,openn-keywords,,decorated initials,http://vocab.getty.edu/aat/300417548
 Perfumes.,a,fast,http://id.worldcat.org/fast/1057972,Perfumes,http://id.worldcat.org/fast/1057972
 Perfumes--Early works to 1800.,a--v,0,,Perfumes;Early works,http://id.worldcat.org/fast/1057972;http://id.worldcat.org/fast/1411636
 Perpetual calendars.,a,fast,http://id.worldcat.org/fast/1058339,Perpetual calendars,http://id.worldcat.org/fast/1058339
@@ -2339,7 +2247,6 @@ Perpetual calendars--Early works to 1800.,a--v,0,,Perpetual calendars;Early work
 Persecution.,a,fast,http://id.worldcat.org/fast/1058354,Persecution,http://id.worldcat.org/fast/1058354
 Persecution--Early church.,a--x,fast,http://id.worldcat.org/fast/1907139,Persecution--Early church,http://id.worldcat.org/fast/1907139
 "Persecution--History--Early church, ca. 30-600--Drama.",a--x--y--v,0,,Persecution;History;30-600;Drama,http://id.worldcat.org/fast/1058354;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1355906;http://id.worldcat.org/fast/1423879
-Persian,,openn-keywords,,Persian (culture),http://vocab.getty.edu/aat/300019933
 "Persian language--Glossaries, vocabularies, etc.--Turkish--Early works to 1800.",a--v--x--v,0,,"Persian language;Glossaries, vocabularies, etc.;Turkish language;Early works",http://id.worldcat.org/fast/1058466;http://id.worldcat.org/fast/1423786;http://id.worldcat.org/fast/1159411;http://id.worldcat.org/fast/1411636
 Persian language--Grammar.,a--x,fast,(OCoLC)fst01058478,Persian language--Grammar,http://id.worldcat.org/fast/1058478
 Persian language--Grammar--Early works to 1800.,a--x--v,0,,Persian language--Grammar;Early works,http://id.worldcat.org/fast/1058478;http://id.worldcat.org/fast/1411636
@@ -2432,7 +2339,6 @@ Poland--Foreign relations--Spain.,a--x--z,0,,Poland;International relations;Spai
 "Poland--History--Sigismund II Augustus, 1548-1572.",a--x--y,0,http://id.loc.gov/authorities/subjects/sh85104039,Poland;History;1548-1572,http://id.worldcat.org/fast/1206891;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1355598
 Polemics--Religious aspects--Islam--Early works to 1800.,a--x--x--v,0,(uri) http://id.loc.gov/authorities/subjects/sh85104172,Polemics;Islam;Early works,http://id.worldcat.org/fast/1068339;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636
 Poligny (France),a,0,http://id.loc.gov/authorities/names/nr91022661,France--Poligny,http://id.worldcat.org/fast/1258788
-Polish,,openn-keywords,,Polish (culture),http://vocab.getty.edu/aat/300111204
 Political ethics.,a,fast,http://id.worldcat.org/fast/1069286,Political ethics,http://id.worldcat.org/fast/1069286
 Political ethics--Early works to 1800.,a--v,0,http://id.loc.gov/authorities/subjects/sh2008109609,Political ethics;Early works,http://id.worldcat.org/fast/1069286;http://id.worldcat.org/fast/1411636
 Political ethics--Islamic Empire--16th century--Early works to 1800.,a--z--y--v,0,,Political ethics;Islamic Empire;Sixteenth century;Early works,http://id.worldcat.org/fast/1069286;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1119851;http://id.worldcat.org/fast/1411636
@@ -2441,7 +2347,6 @@ Political science--Early works to 1800.,a--v,0,http://id.loc.gov/authorities/sub
 Political science--Islamic Empire--Early works to 1800.,a--z--v,0,,Political science;Islamic Empire;Early works,http://id.worldcat.org/fast/1069781;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636
 Political science--Politics and government--Early works to 1800.,a--x--v,0,,Political science--Politics and government;Politics and government;Early works,http://id.worldcat.org/fast/1354022;http://id.worldcat.org/fast/1919741;http://id.worldcat.org/fast/1411636
 Politics and government.,a,fast,http://id.worldcat.org/fast/1919741,Politics and government,http://id.worldcat.org/fast/1919741
-Pontifical,,openn-keywords,,Pontificals,http://id.worldcat.org/fast/1071000
 Pontine Marshes (Italy),a,0,http://id.loc.gov/authorities/subjects/sh86002773,Italy--Pontine Marshes,http://id.worldcat.org/fast/1244738
 Popes.,a,0,http://id.loc.gov/authorities/subjects/sh85104870,Popes,http://id.worldcat.org/fast/1071262
 Popes.,a,fast,http://id.worldcat.org/fast/1071262,Popes,http://id.worldcat.org/fast/1071262
@@ -2451,13 +2356,11 @@ Popes--Temporal power.,a--x,fast,http://id.worldcat.org/fast/1071292,Popes--Temp
 Popes--Temporal power--Early works to 1800.,a--x--v,0,http://id.loc.gov/authorities/subjects/sh2010107504,Popes--Temporal power;Early works,http://id.worldcat.org/fast/1071292;http://id.worldcat.org/fast/1411636
 Portugal.,a,fast,http://id.worldcat.org/fast/1208476,Portugal,http://id.worldcat.org/fast/1208476
 Portugal--Kings and rulers--Early works to 1800.,a--x--v,0,,Portugal;Kings and rulers;Early works,http://id.worldcat.org/fast/1208476;http://id.worldcat.org/fast/987694;http://id.worldcat.org/fast/1411636
-Portuguese,,openn-keywords,,Portuguese,http://id.worldcat.org/fast/1072400
 "Prades (Pyrénées-Orientales, France)",a,0,http://id.loc.gov/authorities/names/n82152259,France--Prades (Pyrénées-Orientales),http://id.worldcat.org/fast/1313873
 Praise--Religious aspects--Islam.,a--x--x,fast,(OCoLC)fst02017549,Praise--Religious aspects--Islam,http://id.worldcat.org/fast/2017549
 Praise--Religious aspects--Islam--Early works to 1800.,a--x--x--v,0,(uri) http://id.loc.gov/authorities/subjects/sh85106083,Praise--Religious aspects;Islam;Early works,http://id.worldcat.org/fast/1765305;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636
 Prato (Italy)--History--15th century.,a--x--y,0,,Italy--Prato;History;Fifteenth century,http://id.worldcat.org/fast/1207348;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/923962
 Prato (Italy)--History--16th century.,a--x--y,0,,Italy--Prato;History;Sixteenth century,http://id.worldcat.org/fast/1207348;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1119851
-Prayer book,,openn-keywords,,Prayer books,http://id.worldcat.org/fast/1074734
 Prayer--Islam.,a--x,fast,(OCoLC)fst01074698,Prayer--Islam,http://id.worldcat.org/fast/1074698
 Prayer--Islam--Early works to 1800.,a--x--v,0,http://id.loc.gov/authorities/subjects/sh2010108002--(uri) http://id.loc.gov/authorities/subjects/sh2010108002,Prayer--Islam;Islam;Early works,http://id.worldcat.org/fast/1074698;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636
 Prayer--Islam--Early works to 1800.,a--x--v,0,,Prayer--Islam;Islam;Early works,http://id.worldcat.org/fast/1074698;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636
@@ -2478,7 +2381,6 @@ Prisoners.,a,fast,http://id.worldcat.org/fast/1077103,Prisoners,http://id.worldc
 Prisoners--Italy.,a--z,0,,Prisoners;Italy,http://id.worldcat.org/fast/1077103;http://id.worldcat.org/fast/1204565
 Prisons.,a,fast,http://id.worldcat.org/fast/1077326,Prisons,http://id.worldcat.org/fast/1077326
 Prisons--Italy--Rome--History.,a--z--z--x,0,,Prisons;Italy--Rome;Rome (Empire);History,http://id.worldcat.org/fast/1077326;http://id.worldcat.org/fast/1204500;http://id.worldcat.org/fast/1204885;http://id.worldcat.org/fast/958235
-Private devotional text,,openn-keywords,,Devotional literature,http://id.worldcat.org/fast/892015
 Private revelations.,a,fast,(OCoLC)fst01077555,Private revelations,http://id.worldcat.org/fast/1077555
 Private revelations--Early works to 1800.,a--v,0,(uri) http://id.loc.gov/authorities/subjects/sh85107042,Private revelations;Early works,http://id.worldcat.org/fast/1077555;http://id.worldcat.org/fast/1411636
 "Privileges and immunities, Ecclesiastical.",a,fast,http://id.worldcat.org/fast/1077682,"Privileges and immunities, Ecclesiastical",http://id.worldcat.org/fast/1077682
@@ -2492,7 +2394,6 @@ Privileges and immunities--Spain.,a--z,0,,Privileges and immunities;Spain,http:/
 Procedure (Law),a,fast,http://id.worldcat.org/fast/1077984,Procedure (Law),http://id.worldcat.org/fast/1077984
 Procedure (Law)--Jerusalem--History--Sources.,a--z--x--v,0,,Procedure (Law);Middle East--Jerusalem;History;Sources,http://id.worldcat.org/fast/1077984;http://id.worldcat.org/fast/1216276;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1423900
 Procedure (Law)--Spain--Early works to 1800.,a--z--v,0,,Procedure (Law);Spain;Early works,http://id.worldcat.org/fast/1077984;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/1411636
-Processional,,openn-keywords,,Processionals (Liturgical books),http://id.worldcat.org/fast/1078060
 Processionals (Liturgical books),a,fast,http://id.worldcat.org/fast/1078060,Processionals (Liturgical books),http://id.worldcat.org/fast/1078060
 Processionals (Liturgical books)--Specimens.,a--v,0,,Processionals (Liturgical books);Specimens,http://id.worldcat.org/fast/1078060;http://id.worldcat.org/fast/1423861
 Property.,a,fast,http://id.worldcat.org/fast/1079116,Property,http://id.worldcat.org/fast/1079116
@@ -2521,8 +2422,6 @@ Prose arabe--12e siècle.,a--y,6,,Arabic prose literature;Twelfth century,http:
 "Proverbs, German.",a,fast,http://id.worldcat.org/fast/1080364,"Proverbs, German",http://id.worldcat.org/fast/1080364
 "Proverbs, German--Early works to 1800.",a--v,0,,"Proverbs, German;Early works",http://id.worldcat.org/fast/1080364;http://id.worldcat.org/fast/1411636
 Providence and government of God--Christianity--Early works to 1800.,a--x--v,0,,Providence and government of God--Christianity;Christianity;Early works,http://id.worldcat.org/fast/1771169;http://id.worldcat.org/fast/859599;http://id.worldcat.org/fast/1411636
-Psalter,,openn-keywords,,Psalters,http://id.worldcat.org/fast/1080778
-Psalter-Hours,,openn-keywords,,Psalters;Books of hours,http://id.worldcat.org/fast/1080778;http://id.worldcat.org/fast/836484
 Psalters.,a,fast,http://id.worldcat.org/fast/1080778,Psalters,http://id.worldcat.org/fast/1080778
 Psalters--England.,a--z,0,(uri) http://id.loc.gov/authorities/subjects/sh85108218,Psalters;England,http://id.worldcat.org/fast/1080778;http://id.worldcat.org/fast/1219920
 Psalters--Specimens.,a--v,0,,Psalters;Specimens,http://id.worldcat.org/fast/1080778;http://id.worldcat.org/fast/1423861
@@ -2537,7 +2436,6 @@ Purgatory.,a,fast,http://id.worldcat.org/fast/1084326,Purgatory,http://id.worldc
 Purgatory--Early works to 1800.,a--v,0,http://id.loc.gov/authorities/subjects/sh2010109177,Purgatory;Early works,http://id.worldcat.org/fast/1084326;http://id.worldcat.org/fast/1411636
 "Purity, Ritual--Early works to 1800.",a--v,0,,"Purity, Ritual;Early works",http://id.worldcat.org/fast/1084384;http://id.worldcat.org/fast/1411636
 "Purity, Ritual--Islam--Early works to 1800.",a--x--v,0,,"Purity, Ritual--Islam;Islam;Early works",http://id.worldcat.org/fast/1084388;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636
-Puzzle initial,,openn-keywords,,decorated initials,http://vocab.getty.edu/aat/300417548
 Pythagoras and Pythagorean school.,a,fast,http://id.worldcat.org/fast/1084727,Pythagoras and Pythagorean school,http://id.worldcat.org/fast/1084727
 Pythagoras and Pythagorean school--Early works to 1800.,a--v,0,,Pythagoras and Pythagorean school;Early works,http://id.worldcat.org/fast/1084727;http://id.worldcat.org/fast/1411636
 Qiblah.,a,fast,(OCoLC)fst01084840,Qiblah,http://id.worldcat.org/fast/1084840
@@ -2638,7 +2536,6 @@ Rois et souverains--Devoirs--Ouvrages avant 1800.,a--x--v,6,,Kings and rulers--D
 "Romances, Latin (Medieval and modern)--Early works to 1800.",a--x,0,,"Romances, Latin (Medieval and modern);Early works",http://id.worldcat.org/fast/1099925;http://id.worldcat.org/fast/1411636
 "Romances, Latin (Medieval and modern)--Early works to 1800.",a--v,0,,"Romances, Latin (Medieval and modern);Early works",http://id.worldcat.org/fast/1099925;http://id.worldcat.org/fast/1411636
 Romances.,a,fast,http://id.worldcat.org/fast/1099892,Romances,http://id.worldcat.org/fast/1099892
-Romanesque,,openn-keywords,,Romanesque,http://vocab.getty.edu/aat/300020768
 Romania--Transylvania.,a--z,fast,http://id.worldcat.org/fast/1240402,Romania--Transylvania,http://id.worldcat.org/fast/1240402
 Roman law.,a,fast,http://id.worldcat.org/fast/1099759,Roman law,http://id.worldcat.org/fast/1099759
 Roman law--Early works to 1800.,a--v,0,http://id.loc.gov/authorities/subjects/sh2008110994,Roman law;Early works,http://id.worldcat.org/fast/1099759;http://id.worldcat.org/fast/1411636
@@ -2667,7 +2564,6 @@ Sacraments--Catholic Church.,a--x,fast,http://id.worldcat.org/fast/1103085,Sacra
 Sacraments--Catholic Church.,a--x,0,http://id.loc.gov/authorities/subjects/sh85116253,Sacraments--Catholic Church,http://id.worldcat.org/fast/1103085
 Sacraments--Catholic Church--Early works to 1800.,a--x--v,0,http://id.loc.gov/authorities/subjects/sh2010111770,Sacraments--Catholic Church;Catholic Church;Early works,http://id.worldcat.org/fast/1103085;http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1411636
 Sacraments--Early works to 1800.,a--v,0,http://id.loc.gov/authorities/subjects/sh2010111771,Sacraments;Early works,http://id.worldcat.org/fast/1103083;http://id.worldcat.org/fast/1411636
-Saint's Life,,openn-keywords,,Hagiography,http://id.worldcat.org/fast/950239
 "Saint-Germain-des-Prés (Paris, France : Quarter)",a,0,http://id.loc.gov/authorities/names/n50079454,France--Paris--Saint-Germain-des-Prés (Quarter),http://id.worldcat.org/fast/1726391
 Saints.,a,fast,http://id.worldcat.org/fast/1103658,Saints,http://id.worldcat.org/fast/1103658
 Saints--Legends--Early works to 1800.,a--v--v,0,,Saints;Legends;Early works,http://id.worldcat.org/fast/1103658;http://id.worldcat.org/fast/1423803;http://id.worldcat.org/fast/1411636
@@ -2716,10 +2612,6 @@ Scholasticism--Early works to 1800.,a--v,0,,Scholasticism;Early works,http://id.
 "Science, Medieval--Early works to 1800.",a--v,0,(uri) http://id.loc.gov/authorities/subjects/sh85118613,"Science, Medieval;Early works",http://id.worldcat.org/fast/1108803;http://id.worldcat.org/fast/1411636
 Science.,a,fast,http://id.worldcat.org/fast/1108176,Science,http://id.worldcat.org/fast/1108176
 Science--History--Early works to 1800.,a--x--v,0,,Science;History;Early works,http://id.worldcat.org/fast/1108176;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636
-Science -- Medicine,,openn-keywords,,Science;Medicine,http://id.worldcat.org/fast/1108176;http://id.worldcat.org/fast/1014893
-Scripture,,openn-keywords,,Sacred works,http://id.worldcat.org/fast/1923249
-Scroll,,openn-keywords,,scrolls (information artifacts),http://vocab.getty.edu/aat/300028629
-Scroll-work initial,,openn-keywords,,decorated initials,http://vocab.getty.edu/aat/300417548
 Scyld (Legendary character),a,fast,http://id.worldcat.org/fast/1109937,Scyld (Legendary character),http://id.worldcat.org/fast/1109937
 Scyld (Legendary character),a,0,http://id.loc.gov/authorities/subjects/sh2001010161,Scyld (Legendary character),http://id.worldcat.org/fast/1109937
 Senigallia (Italy)--History.,a--x,0,,Italy--Senigallia;History,http://id.worldcat.org/fast/1208194;http://id.worldcat.org/fast/958235
@@ -2729,7 +2621,6 @@ Serfdom.,a,fast,http://id.worldcat.org/fast/1113076,Serfdom,http://id.worldcat.o
 Serfdom--England--History.,a--z--x,0,,Serfdom;England;History,http://id.worldcat.org/fast/1113076;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/958235
 Serfs--Emancipation.,a--x,fast,http://id.worldcat.org/fast/1113089,Serfs--Emancipation,http://id.worldcat.org/fast/1113089
 Serfs--Emancipation--England.,a--x--z,0,,Serfs--Emancipation;Liberty;England,http://id.worldcat.org/fast/1113089;http://id.worldcat.org/fast/997251;http://id.worldcat.org/fast/1219920
-Sermon,,openn-keywords,,Sermons,http://id.worldcat.org/fast/1113216
 Sermoneta (Italy),a,0,http://id.loc.gov/authorities/names/nr94000947,Italy--Sermoneta,http://id.worldcat.org/fast/1267886
 "Sermons, English.",a,fast,http://id.worldcat.org/fast/1113250,"Sermons, English",http://id.worldcat.org/fast/1113250
 "Sermons, English (Middle)",a,fast,http://id.worldcat.org/fast/1113254,"Sermons, English (Middle)",http://id.worldcat.org/fast/1113254
@@ -2810,7 +2701,6 @@ Soldiers.,a,fast,http://id.worldcat.org/fast/1125233,Soldiers,http://id.worldcat
 Soldiers--France--History--14th century.,a--z--x--y,0,,Soldiers;France;History;Fourteenth century,http://id.worldcat.org/fast/1125233;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/933420
 Solitude--Religious aspects--Islam.,a--x--x,fast,(OCoLC)fst01125571,Solitude--Religious aspects--Islam,http://id.worldcat.org/fast/1125571
 Solitude--Religious aspects--Islam.,a--x--x,0,http://id.loc.gov/authorities/subjects/sh2020004179--(uri) http://id.loc.gov/authorities/subjects/sh2020004179,Solitude--Religious aspects--Islam,http://id.worldcat.org/fast/1125571
-Song book,,openn-keywords,,Songbooks,http://id.worldcat.org/fast/1920365
 "Songs, Arabic.",a,0,,"Songs, Arabic",http://id.worldcat.org/fast/1126251
 "Songs, Arabic.",a,fast,(OCoLC)fst01126251,"Songs, Arabic",http://id.worldcat.org/fast/1126251
 "Songs, Italian.",a,fast,http://id.worldcat.org/fast/1126381,"Songs, Italian",http://id.worldcat.org/fast/1126381
@@ -2845,7 +2735,6 @@ Spain--Palencia.,a--z,fast,http://id.worldcat.org/fast/1204970,Spain--Palencia,h
 Spain--Politics and government--Early works to 1800.,a--x--v,0,,Spain;Politics and government;Early works,http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/1919741;http://id.worldcat.org/fast/1411636
 Spain--Toledo.,a--z,fast,http://id.worldcat.org/fast/1204571,Spain--Toledo,http://id.worldcat.org/fast/1204571
 Spain--Valencia.,a--z,fast,http://id.worldcat.org/fast/1204165,Spain--Valencia,http://id.worldcat.org/fast/1204165
-Spanish,,openn-keywords,,Spanish (culture or style),http://vocab.getty.edu/aat/300111215
 Spanish literature.,a,fast,http://id.worldcat.org/fast/1128568,Spanish literature,http://id.worldcat.org/fast/1128568
 "Spanish literature--Classical period, 1500-1700.",a--y,0,http://id.loc.gov/authorities/subjects/sh85126270,Spanish literature--Classical period,http://id.worldcat.org/fast/1711000
 Spanish literature--Classical period.,a--x,fast,http://id.worldcat.org/fast/1711000,Spanish literature--Classical period,http://id.worldcat.org/fast/1711000
@@ -2940,7 +2829,6 @@ Syria--Description and travel.,a--x,0,,Syria;Voyages and travels,http://id.world
 Syria--Description and travel--Early works to 1800.,a--x--v,0,(uri) http://id.loc.gov/authorities/names/n80061798--(uri) http://viaf.org/viaf/sourceID/LC%7cn80061798,Syria;Voyages and travels;Early works,http://id.worldcat.org/fast/1208757;http://id.worldcat.org/fast/1169308;http://id.worldcat.org/fast/1411636
 Syrie--Descriptions et voyages--19e siècle.,a--x--y,6,,Syria;19th century (Title),http://id.worldcat.org/fast/1208757;http://id.worldcat.org/fast/1373400
 Table etiquette--Poetry--Early works to 1800.,a--v--v,0,,Table etiquette;Poetry;Early works,http://id.worldcat.org/fast/1141734;http://id.worldcat.org/fast/1423828;http://id.worldcat.org/fast/1411636
-Tables,,openn-keywords,,Tables,http://id.worldcat.org/fast/1423914
 Talismans.,a,fast,http://id.worldcat.org/fast/1142279,Talismans,http://id.worldcat.org/fast/1142279
 Talismans--Early works to 1800.,a--v,0,,Talismans;Early works,http://id.worldcat.org/fast/1142279;http://id.worldcat.org/fast/1411636
 Taqlīd.,a,fast,(OCoLC)fst01143038,Taqlīd,http://id.worldcat.org/fast/1143038
@@ -2997,7 +2885,6 @@ Théologie--Ouvrages avant 1800.,a--v,6,,Theology;Early works,http://id.worldca
 Theology.,a,fast,http://id.worldcat.org/fast/1149559,Theology,http://id.worldcat.org/fast/1149559
 Theology--Early works to 1800.,a--v,0,http://id.loc.gov/authorities/subjects/sh93009683,Theology;Early works,http://id.worldcat.org/fast/1149559;http://id.worldcat.org/fast/1411636
 Theology--Early works to 1800.,a--v,0,,Theology;Early works,http://id.worldcat.org/fast/1149559;http://id.worldcat.org/fast/1411636
-Theology History,,openn-subjects,https://lccn.loc.gov/sh93009684,Theology;History,http://id.worldcat.org/fast/1149559;http://id.worldcat.org/fast/958235
 "Theology--History--Early church, ca. 30-600.",a--x--y,0,http://id.loc.gov/authorities/subjects/sh93009685,Theology;History;30-600,http://id.worldcat.org/fast/1149559;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1355906
 "Theology--History--Middle Ages, 600-1500.",a--x--y,0,http://id.loc.gov/authorities/subjects/sh93009686,Theology;History;500-1500,http://id.worldcat.org/fast/1149559;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1355938
 Theology--Study and teaching--Catholic Church.,a--x--x,0,http://id.loc.gov/authorities/subjects/sh2010116465,Theology--Study and teaching--Catholic Church,http://id.worldcat.org/fast/1149595
@@ -3029,7 +2916,6 @@ Traditional medicine--Early works to 1800.,a--v,0,,Traditional medicine;Early wo
 "Traditional medicine--Formulae, receipts, prescriptions--Early works to 1800.",a--v--v,0,,"Traditional medicine--Formulae, receipts, prescriptions;Prescriptions, formulae, receipts, etc.;Early works",http://id.worldcat.org/fast/1153975;http://id.worldcat.org/fast/1424054;http://id.worldcat.org/fast/1411636
 Transfiguration of Jesus Christ.,a,fast,http://id.worldcat.org/fast/1355154,Transfiguration of Jesus Christ,http://id.worldcat.org/fast/1355154
 Travel.,a,fast,(OCoLC)fst01155558,Travel,http://id.worldcat.org/fast/1155558
-Treatise,,openn-keywords,,treatises,http://vocab.getty.edu/aat/300026681
 Treviso (Italy)--Politics and government--Sources.,a--x--v,0,,Italy--Treviso;Politics and government;Sources,http://id.worldcat.org/fast/1204504;http://id.worldcat.org/fast/1919741;http://id.worldcat.org/fast/1423900
 Trials.,a,fast,http://id.worldcat.org/fast/1156290,Trials,http://id.worldcat.org/fast/1156290
 Trials (Blasphemy),a,fast,http://id.worldcat.org/fast/1156308,Trials (Blasphemy),http://id.worldcat.org/fast/1156308
@@ -3138,7 +3024,6 @@ Waqf--Early works to 1800.,a--v,0,,Waqf;Early works,http://id.worldcat.org/fast/
 Warwickshire (England)--History.,a--x,0,,England--Warwickshire;History,http://id.worldcat.org/fast/1212375;http://id.worldcat.org/fast/958235
 Water clocks.,a,fast,(OCoLC)fst01171606,Water clocks,http://id.worldcat.org/fast/1171606
 Water clocks--Islamic Empire--Early works to 1800.,a--z--v,0,,Water clocks;Islamic Empire;Early works,http://id.worldcat.org/fast/1171606;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636
-Watermark,,openn-keywords,,Watermarks,http://id.worldcat.org/fast/1172695
 Water rights.,a,fast,http://id.worldcat.org/fast/1172066,Water rights,http://id.worldcat.org/fast/1172066
 Water rights--France.,a--z,0,,Water rights;France,http://id.worldcat.org/fast/1172066;http://id.worldcat.org/fast/1204289
 Water rights--Italy--History.,a--z--x,0,,Water rights;Italy;History,http://id.worldcat.org/fast/1172066;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/958235
@@ -3176,7 +3061,6 @@ Women--Health and hygiene--Early works to 1800.,a--x--v,0,,Women--Health and hyg
 Women--History--Early works to 1800.,a--x--v,0,,Women;History;Early works,http://id.worldcat.org/fast/1176568;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636
 Women in literature.,a,fast,http://id.worldcat.org/fast/1177912,Women in literature,http://id.worldcat.org/fast/1177912
 Women in literature.,a,0,http://id.loc.gov/authorities/subjects/sh85147587,Women in literature,http://id.worldcat.org/fast/1177912
-Woodcuts,,openn-keywords,,Woodcuts,http://id.worldcat.org/fast/1986233
 Woolen and worsted manufacture.,a,fast,http://id.worldcat.org/fast/1180067,Woolen and worsted manufacture,http://id.worldcat.org/fast/1180067
 Woolen and worsted manufacture--Italy--History.,a--z--x,0,,Woolen and worsted manufacture;Italy;History,http://id.worldcat.org/fast/1180067;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/958235
 Wool industry.,a,fast,http://id.worldcat.org/fast/1180027,Wool industry,http://id.worldcat.org/fast/1180027

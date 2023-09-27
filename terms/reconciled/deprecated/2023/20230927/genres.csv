@@ -58,7 +58,6 @@ Bookplates (Provenance),rbprov,,Bookplates,http://id.loc.gov/vocabulary/rbmscv/c
 Bookplates (Provenance)--Denmark--20th century,rbprov,,Bookplates;Denmark;Twentieth century,http://id.loc.gov/vocabulary/rbmscv/cv00138;http://id.worldcat.org/fast/1204558;http://id.worldcat.org/fast/1159810
 Bookplates (Provenance)--United States--20th century,rbprov,,Bookplates;United States;Twentieth century,http://id.loc.gov/vocabulary/rbmscv/cv00138;http://id.worldcat.org/fast/1204155;http://id.worldcat.org/fast/1159810
 Booksellers' labels (Provenance),rbprov,,Booksellers' labels,http://id.loc.gov/vocabulary/rbmscv/cv00228
-Books of hours,openn-form/genre,http://vocab.getty.edu/aat/300026457,books of hours,http://vocab.getty.edu/aat/300026457
 Books of hours,rbgenr,,Books of hours,http://id.loc.gov/vocabulary/rbmscv/cv01037
 books of hours,aat,,books of hours,http://vocab.getty.edu/aat/300026457
 Books of hours,aat,,books of hours,http://vocab.getty.edu/aat/300026457
@@ -313,7 +312,6 @@ Lists,fast,,Lists,http://id.worldcat.org/fast/1424058
 Lists (document genres),aat,,lists (document genres),http://vocab.getty.edu/aat/300027119
 Litanies (prayers),aat,,litanies (prayers),http://vocab.getty.edu/aat/300026470
 Liturgical books,lcgft,,Liturgical books,http://id.worldcat.org/fast/1922455
-Liturgical use,openn-form/genre,http://id.loc.gov/authorities/subjects/sh2002011416.html,Liturgics,http://id.worldcat.org/fast/1000579
 Livres de chant liturgique,rvmgf,,Service books (Music),http://id.worldcat.org/fast/1113403
 magic squares,aat,,magic squares,http://vocab.getty.edu/page/aat/300222283
 Manicules,rbprov,,Manicules,http://id.loc.gov/vocabulary/rbmscv/cv00248
