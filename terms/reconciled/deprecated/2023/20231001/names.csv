@@ -3,7 +3,6 @@ name_as_recorded,role,name_agr,source_authority_uri,instance_of,authorized_label
 'Amr,author,,,human,'Amr ibn al-'As,Q314781
 """1756 Ex libris Presbiteri Joseph Marie Sormani"" (inscription on flyleaf ); H. C. (Harley) Drayton (1901-1966), bought at Sotheby’s, 29 January 1951, lot 13; his sale, Sotheby’s, 12 December 1967, lot 63; re-sold at Christie’s, 28 June 1972, lot 8; Ruth E. Adomeit (1910-1996), bequeathed by her to the Lilly Library.",former owner,,,human;human;human,Joseph Marie Sormani;Harold Drayton;Ruth E. Adomeit,Q116771083;Q18761974;Q7382958
 """as a souvenir of the happy days with which I have begun my life in New York"" (letter enclosed), with Poor’s leather booklabel; his sale, New York, 17 November 1908, lot 799, to Morris; Walter T. Wallace (1866-1922), with his armorial bookplate; his sale, New York, 22 March 1920, lot 229, to C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Walter Thomas Wallace;Coella Lindsay Ricketts,Q116784946;Q116771179
-(Pseudo-) Bernard of Clairvaux,author,,,human,Pseudo Bernard of Clairvaux,Q114242512
 "A. Rosenthal, cat. 1 (1939), no. 21; Reichner cat. 2 (1940), no. 113; Lathrop Harper, cat. 3 (1953), no. 72; George A. Poole, bought from Harper in 1955, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,human;organization,"George Amos Poole;Lathrop C. Harper, Inc.",Q64683625;Q116785327
 "Abbadia San Salvatore (Siena, Italy)",author,,http://id.loc.gov/authorities/names/nr87000182,organization,Abbadia San Salvatore,Q91096
 "Abbadia San Salvatore (Siena, Italy)",author,,,organization,Abbadia San Salvatore,Q91096
@@ -13,7 +12,6 @@ Abbaye d'Ambronay,associated name,,,organization,Our Lady of Ambronay,Q1283154
 "Abbey, J. R. 1896-1969",former owner,,http://id.loc.gov/authorities/names/nr94014439,human,John Roland Abbey,Q6255470
 "Abbey, J. R. 1896-1969",former owner,,,human,John Roland Abbey,Q6255470
 Abbot von Heselwang,former owner,,,human,Abbot von Heselwang,Q114242549
-"Abezier, Johann",former owner,,,human,Johannes Abezier,Q95771
 Abraham Abulafia,author,,,human,Abraham Abulafia,Q323448
 Abraham bar Hiyya ha-Nasi,author,,,human,Abraham bar Hiyya,Q31439
 "Abraham bar Hiyya Savasorda, approximately 1065-approximately 1136",author,,http://id.loc.gov/authorities/names/n50057585,human,Abraham bar Hiyya,Q31439
@@ -34,7 +32,6 @@ Acciaiuoli family,author,,,human,Acciaioli family,Q339067
 "According to a sixteenth-century Latin poem formerly pasted inside the manuscript’s upper cover, the volume was transferred in 1504 from the Benedictine abbey of St. Peter in Salzburg, to the Cistercian abbey of Raitenhaslach, Bavaria (founded 1143, suppressed in 1803);",former owner,,,organization;organization,St Peter's Archabbey Salzburg;Raitenhaslach Cistercian Abbey,Q675735;Q1775833
 "According to a sixteenth-century Latin poem formerly pasted inside the manuscript’s upper cover, the volume was transferred in 1504 from the Benedictine abbey of St. Peter in Salzburg, to the Cistercian abbey of Raitenhaslach, Bavaria (founded 1143, suppressed in 1803); the Benedictine abbey of Seitenstetten, Lower Austria (founded 1112, still functioning);",former owner,,,organization;organization;organization,St Peter's Archabbey Salzburg;Raitenhaslach Cistercian Abbey;Seitenstetten Abbey,Q675735;Q1775833;Q385745
 "Accursius, glossator",other,,,human,Accursius,Q339824
-"Accursius, glossator, approximately 1182-approximately 1260",author,,http://viaf.org/viaf/102317020,human,Accursius,Q339824
 Accursius of Parma,author,,,human,Accursius Parmensis,Q104884907
 Acquired by David Eugene Smith (1860-1944) in 1936.,former owner,,,human,David Eugene Smith,Q1174369
 Acquired by David Eugene Smith (1860-1944) in Naples in 1938.,former owner,,,human,David Eugene Smith,Q1174369
@@ -50,10 +47,8 @@ Acquired in 1990 from P. Pirages.,former owner,,,organization,Phillip J. Pirages
 Acquired in 1991 from P. Pirages.,former owner,,,organization,Phillip J. Pirages Fine Books & Manuscripts,Q116790542
 Acquired in 2000 from H.P. Kraus.,former owner,,,organization,H. P. Kraus (firm),Q113864096
 "Acquired prior to 1952, probably from Edward L. Stevenson (1858-1944).",former owner,,,human,Edward Luther Stevenson,Q52155622
-Ada E. Moorhead Thomas,former owner,,,human,Ada E. Moorhead Thomas,Q122873223
 "Adam, magister",author,,,human,Adamo,Q21548167
 "Adam, magister, -1408",author,,,human,"Adam, magister",Q116064221
-"Adam, of Buckfield, approximately 1220-approximately 1294",author,,http://viaf.org/viaf/1444148997586159870006,human,Adam of Bockenfield,Q2824030
 Adam of Buckfield,author,,,human,Adam of Bockenfield,Q2824030
 Adam of Eynsham,author,,,human,Adam of Eynsham,Q4680065
 "Adimari, Lionardo di Paolo",former owner,,,human,Lionardo di Paolo Adimari,Q116235269
@@ -78,7 +73,6 @@ Aemilius Probus,author,,,human,Aemilius Probus,Q37740777
 Aeneas Silvius Piccolomini (Pius II),author,,,human,Pius II,Q101437
 Aesop,author,,,human,Aesop,Q43423
 Aesop.,author,,,human,Aesop,Q43423
-A follower of the Masters of the Golden Fleece,artist,,,human,A follower of the Masters of the Golden Fleece,Q122872878
 "Africanus, Sextus Julius.",author,,,human,Sextus Julius Africanus,Q317014
 "a Fridenreich, Georgius Rudolpus",former owner,,,human,Georgius Rudolpus a Fridenreich,Q114242475
 "Aga Khan, Sadruddin, Prince, 1933-2003",former owner,,http://id.loc.gov/authorities/names/n78075292,human,Prince Sadruddin Aga Khan,Q123987
@@ -167,7 +161,6 @@ Alexander VI,author,,,human,Alexander VI,Q108316
 "Alexander VI, Pope, 1431-1503.",author,,,human,Alexander VI,Q108316
 Alfonso de Vargas y Toledo.,author,,,human,Alphonsus Vargas,Q115217863
 "Alfonso V, King of Aragon, 1396-1458",associated name,,,human,Alfonso V of Aragon,Q312304
-"Alfonso X, King of Castile and Leon, 1221-1284",author,,https://viaf.org/viaf/66476694,human,Alfonso X of Castile and Leon,Q47595
 "Alfonso X, the Learned, King of Castile and León",author,,,human,Alfonso X of Castile and Leon,Q47595
 Alfonso X King of Castile and Leon 1221-1284.,author,,,human,Alfonso X of Castile and Leon,Q47595
 Alfonso X of Castile,author,,,human,Alfonso X of Castile and Leon,Q47595
@@ -197,7 +190,6 @@ Almo collegio Capranica,associated name,,,organization,Almo Collegio Capranica,Q
 "Almost certainly acquired in fall, 1930, from Dr. Erich Junkelmann of Munich. Earlier (pre-1956?) call number: Cabinet 28, Folder 3.",former owner,,,human,Erich Junkelmann,Q30104528
 "Almost certainly from the Cistercian abbey of Pontigny, and probably from the Volumine uno, Decreta Gratiani no. 153 in the late twelfth century catalogue of Pontigny, no. 100 in the early seventeenth-century catalogue, no. 235 in the catalogue of 1778, no. 7 in the catalogue of 1791,",former owner,,,organization,Pontigny Abbey,Q591296
 "Almost certainly from the Cistercian abbey of Pontigny, and probably from the Volumine uno, Decreta Gratiani no. 153 in the late twelfth century catalogue of Pontigny, no. 100 in the early seventeenth-century catalogue, no. 235 in the catalogue of 1778, no. 7 in the catalogue of 1791, and finally no. 73 in the list prepared after the sequestration of Pontigny at the French Revolution,",former owner,,,organization,Pontigny Abbey,Q591296
-"Alphonso, Diego",former owner,,,human,Diego Alphonso,Q122873224
 Alphonsus,author,,,human,Alphonsus Joseph Maria van Engelen,Q102219546
 Alphonsus de Spina,author,,,human,Alphonso de Spina,Q372817
 Alphonsus of Burgos,author,,,human,Abner of Burgos,Q322560
@@ -226,7 +218,6 @@ Ambrosius Camaldulensis,author,,,human,Ambrose Traversari,Q458842
 "A member of the Bernardi family of Florence, with their arms on fol. 1r (Rietstap 1884, I, p. 179), flanked by the initials ‘C’ and ‘B’; L. S. Olschki, Bulletin mensuel 51 (January 1905), no. 1291;",former owner,,,organization;organization,Bernardi;Leo S. Olschki Editore,Q116771106;Q3229594
 "A member of the Bernardi family of Florence, with their arms on fol. 1r (Rietstap 1884, I, p. 179), flanked by the initials ‘C’ and ‘B’; L. S. Olschki, Bulletin mensuel 51 (January 1905), no. 1291; Ellis of Bond Street, their cat. 1919, at £63;",former owner,,,organization,Bernardi,Q117463427
 "American Art Association, Anderson Galleries (Firm)",former owner,,,organization,Anderson Galleries,Q72940895
-"Amherst, William Amhurst Tyssen-Amherst, Baron, 1835-1909",former owner,,,human,"William Tyssen-Amherst, 1st Baron Amherst of Hackney",Q333839
 A Minister of the Church of England,author,,,human,Josiah Woodward,Q6290669
 "Amram, David Werner, 1866-1939",former owner,,http://id.loc.gov/authorities/names/n85197110,human,David Werner Amram,Q5240973
 "Amram, David Werner, 1866-1939",former owner,,,human,David Werner Amram,Q5240973
@@ -238,7 +229,6 @@ Anacreon.,author,,,human,Anacreon,Q213484
 Anaximenes of Lampsacus,author,,,human,Anaximenes of Lampsacus,Q221787
 Ancona (Italy). Anziani,author,,,organization,Palazzo degli Anziani,Q3891178
 "and 829 of the remaining manuscripts for 16,000 lire to the Rev. Walter Sneyd (1809-1888); Sneyd’s sale, Sotheby’s, 16 December 1903, lot 805; Leighton cat. 1908, no. 5793; sale at Sotheby’s, 16 May 1955, lot 108; George A. Poole, bought from Lawrence Witten in 1956, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,human;human;human,Walter Sneyd;Laurence Claiborne Witten II;George Amos Poole,Q62619661;Q6500535;Q64683625
-"Anderdon, Oliver",former owner,,,human,Thomas Oliver Anderdon,Q115556398
 "and finally no. 73 in the list prepared after the sequestration of Pontigny at the French Revolution, described there as in-folio atlantico, elegans et completus dismembered probably in Auxerre in the early nineteenth century; John William Bradley (1830-1916), who gave it to C. L. Ricketts in 1913; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,John William Bradley;Coella Lindsay Ricketts,Q52148380;Q116771179
 "and in 1578 great-granddaughter, Catharina ven den Steen (wife of Jan de Langue, secretary of Brielle), all recorded inside the upper cover; A. D. Schinkel (1784-1864), of The Hague, printer; his sale, The Hague, 21 November 1864, lot 3; William Bragge (1823–1884); probably no. 54 in Burlington Fine Arts Club 1874, p. 11, lent by Bragge;",former owner,,,human;human;human,Catharina ven den Steen;Adrianus David Schinkel;William Bragge,Q117843635;Q55901559;Q15453218
 "and in 1578 great-granddaughter, Catharina ven den Steen (wife of Jan de Langue, secretary of Brielle), all recorded inside the upper cover; A. D. Schinkel (1784-1864), of The Hague, printer; his sale, The Hague, 21 November 1864, lot 3; William Bragge (1823–1884); probably no. 54 in Burlington Fine Arts Club 1874, p. 11, lent by Bragge; his sale, Sotheby’s, 7 June 1876, lot 221, to Ellis;",former owner,,,human;human,Adrianus David Schinkel;William Bragge,Q55901559;Q15453218
@@ -271,7 +261,6 @@ Angelus de Periglis,author,,,human,Angelo de' Perigli,Q3617290
 "Angeriano, Girolamo, active 16th century",author,,http://id.loc.gov/authorities/names/n96035418,human,Girolamo Angeriano,Q3768890
 "Angeriano, Girolamo, active 16th century",author,,,human,Girolamo Angeriano,Q3768890
 "Anglicus, Thomas.",author,,,human,Thomas Maulfelt,Q113762907
-"Anne, of Brittany, Queen, consort of Louis XII, King of France, 1476-1514",former owner,,,human,Anne of Brittany,Q201143
 "Anne Holte (1733-1799), wife of Sir Charles Holte (1721-1782), with her signature on the flyleaf; armorial bookplate with the arms of her daughter Mary Elizabeth (1757-1819) impaling those of Mary’s husband, Abraham Bracebridge (c. 1747-1832), of Atherstone Hall, Warwickshire;",former owner,,,human;human;human;human,Anne Jesson;Charles Holte;Mary Elizabeth Holte;Abraham Bracebridge,Q61358972;Q26899116;Q75453592;Q76006713
 "Anne of Brittany (1477-1514) and her husband Louis XII (1462-1515, king of France 1498-1515); C. L. Ricketts, bought from Joseph Martini, 1914; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human;human;human,Anne of Brittany;Louis XII of France;Coella Lindsay Ricketts;Giuseppe Martini,Q201143;Q58514;Q116771179;Q98834332
 "Anne of Brittiany, Louis XII",other,,,human;human,Anne of Brittany;Louis XII of France,Q201143;Q58514
@@ -304,7 +293,6 @@ Antonio di Niccolò degli Alberti,author,,,human,Antonio Alberti,Q3619153
 "Antonio Maria de Villafora, documented in Padua from 1469 to 1511.",artist,,,human,Antonio Maria da Villafora,Q98581089
 Antonio Panormita,author,,,human,Antonio Beccadelli,Q599858
 Antonio Pierozzi,author,,,human,Antoninus of Florence,Q773822
-Antonis Rogiersz uten Broec (Master of the Boston City of God),artist,,,human,Antonnis Rogiersz. Uten Broec,Q2683907
 "Antonius, de Bozollo",scribe,,,human,Antonius de Bozollo,Q117338088
 Antonius Azaro de Parma,author,,,human,Antonio d'Azario,Q111473621
 Antonius de Bozollo,scribe,,,human,Antonius de Bozollo,Q117338088
@@ -358,7 +346,6 @@ Arnoldus de Villanova,author,,,human,Arnaldus de Villa Nova,Q356568
 "Arnoul, de Bohéries, 12th century",author,,,human,Arnulf of Bohéries,Q88017720
 Arnoul de Bohéries,author,,,human,Arnulf of Bohéries,Q88017720
 Arnulf of Lisieux,author,,,human,Arnulf of Lisieux,Q584833
-"Arrigoni, Luigi",former owner,,,human,Luigi Arrigoni,Q120869119
 "Arrigucci, Federico",author,,,human,Federico Arrigucci,Q116235914
 Arrigucci family,author,,,organization,Arrigucci family,Q116712171
 "Arte della lana (Guild : Florence, Italy)",author,,http://id.loc.gov/authorities/names/nr94031062,organization,Wool Guild,Q542935
@@ -380,7 +367,6 @@ Arthur Golding,author,,,human,Arthur Golding,Q1932211
 "Athanasius, Saint, Patriarch of Alexandria, -373.",associated name,,,human,Athanasios of Alexandria,Q44024
 Athanasius (Alexandrinus Athanasius),author,,,human,Athanasios of Alexandria,Q44024
 Athanasius of Alexandria,author,,,human,Athanasios of Alexandria,Q44024
-"Auchinleck, Alexander Boswell, Lord, 1707-1782",former owner,,,human,"Alexander Boswell, Lord Auchinleck",Q4718398
 Auchinleck Library,former owner,,,organization,Auchinleck Community Library,Q62631900
 Audax,author,,,human,Audax,Q28441319
 "Augurelli, Giovanni Aurelio ca. 1456-1524?",author,,,human,Giovanni Aurelio Augurello,Q2020328
@@ -454,8 +440,6 @@ Barbarigo family,other,,,organization,Barbarigo family,Q2884101
 "Barberini, Raffaello 1532-1582.",author,,,human,Raffaello Barberini,Q15735630
 "Barker-Benfield, B. C",former owner,,http://id.loc.gov/authorities/names/n81140891,human,B.C. Barker-Benfield,Q113817294
 "Barker-Benfield, B. C",former owner,,,human,B.C. Barker-Benfield,Q113817294
-"Barnard, Henry Gee, 1789-1858",former owner,,,human,Henry Gee Barnard,Q122873225
-"Barnard, P.M.",former owner,,,human,P.M. Barnard,Q122873226
 "Barnston, H. Charles",former owner,,,human,H. Charles Barnston,Q116250696
 "Barresi, Matteo, marchese di Pietraperzia, -1531 or 1532",former owner,,,human,Matteo Barresi,Q120442555
 "Barrois, Joseph, approximately 1785-1855",former owner,,http://id.loc.gov/authorities/names/nr97040610,human,Joseph Barrois,Q97783947
@@ -524,8 +508,6 @@ Bede?,author,,,human,Bede,Q154938
 "Bede the Venerable, Saint 673-735.",author,,,human,Bede,Q154938
 "Bedford, John Plantagenet, Duke of, 1389-1435",author,,http://id.loc.gov/authorities/names/nr94011215,human,"John of Lancaster, 1st Duke of Bedford",Q348441
 "Bedford, John Plantagenet, Duke of, 1389-1435",author,,,human,"John of Lancaster, 1st Duke of Bedford",Q348441
-"Bedford Master, follower",artist,,,human,Follower of the Bedford Master,Q122873228
-Bedford Master Workshop,artist,,,human,Bedford Master,Q726437
 "Beer, John T. approximately 1826-1903",former owner,,http://id.loc.gov/authorities/names/nr93022576,human,John Thomas Beer,Q116250783
 "Beer, John T. approximately 1826-1903",former owner,,,human,John Thomas Beer,Q116250783
 Belonged ca. 1870 to John Milne Buckie.,former owner,,,human,John Milne Buckie,Q114242431
@@ -542,7 +524,6 @@ Belonged to Rosamond Bowditch Loring (1889-1950).,former owner,,,human,Rosamond 
 Belonged to Thomas E. Marston; his source and date of acquisition unknown.,former owner,,,human,Thomas E. Marston,Q114666017
 Belonged to Thomas E. Marston (date and place of his acquisition not recorded).,former owner,,,human,Thomas E. Marston,Q114666017
 "Beltamino, Joannes Thomas",author,,,human,Joannes Thomas Beltamino,Q116250805
-"Bement, Clarence S. (Clarence Sweet), 1843-1923",former owner,,,human,Clarence S. Bement,Q29204072
 Bene da Firenze,author,,,human,Bene da Firenze,Q3637998
 Benedetto Buondelmonti,author,,,human,Benedetto Buondelmonti,Q112752545
 Benedict,author,,,human,Benedict of Nursia,Q44265
@@ -613,7 +594,6 @@ Bernardo Giambullari,author,,,human,Bernardo Giambullari,Q18421131
 Bernard Quaritch (Firm),former owner,,,organization,Bernard Quaritch Ltd,Q65034936
 Bernard Silvester,author,,,human,Bernard Silvestris,Q523113
 Bernard Silvestris fl. 1136.,author,,,human,Bernard Silvestris,Q523113
-"Bernardus, de Pedio",former owner,,,human,Bernardus de Pedio,Q122873229
 "Bernardus, Paschualis",author,,,human,Paschualis Bernardus,Q116250824
 Bernardus Papiensis,author,,,human,Bernardus Papiensis,Q826333
 Bernardus Parmensis de Botone,author,,,human,Bernard of Botone,Q942419
@@ -632,7 +612,6 @@ Bet din tsedeḳ London ṿeha-medinah (Great Britain),former owner,,,organizati
 "Betham, William, Sir, 1779-1853",former owner,,http://id.loc.gov/authorities/names/n85077084,human,William Betham,Q8005506
 "Betham, William, Sir, 1779-1853",former owner,,,human,William Betham,Q8005506
 "Bethencourt, Sarrazius de",author,,,human,Sarrazius de Bethencourt,Q116268686
-"Bezard, Guillemette",former owner,,,human,Guillemette Bezard,Q122873230
 "Bhāskarācārya, 1114-",author,"باسکراکاریا, 1114-",,human,Bhāskara II,Q213385
 "Bhāskarācārya, 1114-",author,باسكراكاريا، - 1114-,,human,Bhāskara II,Q213385
 "Biagio, Oddo di",author,,,human,Oddo di Biagio,Q116250877
@@ -650,15 +629,12 @@ Binoche et Giquello,former owner,,,organization,Binoche et Giquello,Q120442737
 "Biondi, Giuseppe, 1537-1598",author,,http://id.loc.gov/authorities/names/nr94036708,human,Giuseppe Biondi,Q62401783
 "Biondi, Giuseppe, 1537-1598",author,,,human,Giuseppe Biondi,Q62401783
 Biondo Flavio 1392-1463.,author,,,human,Flavio Biondo,Q434834
-"Birago, Giovan Pietro, active 1471-1513",artist,,,human,Giovanni Pietro Birago,Q1901175
-Birch & Son,former owner,,,organization,Birch & Son,Q78092831
 "Birjandī, ʻAbd al-ʻAlī ibn Muḥammad ibn Ḥusayn, active 16th century",author,برجندي، عبد العلي بن محمد بن حسين، active 16th century,http://id.loc.gov/authorities/names/nr93001807,human,ʿAbd-al-ʿAlī Ibn-Muḥammad al Birǧandī,Q114413753
 "Birjandī, ʻAbd al-ʻAlī ibn Muḥammad ibn Ḥusayn, active 16th century",author,,,human,ʿAbd-al-ʿAlī Ibn-Muḥammad al Birǧandī,Q114413753
 "Bīrūnī, Muḥammad ibn Aḥmad, 973?-1048",author,بيروني، محمد بن احمد، 973?-1048,http://id.loc.gov/authorities/names/n80014376,human,Al-Biruni,Q11826
 "Bīrūnī, Muḥammad ibn Aḥmad, 973?-1048",author,,,human,Al-Biruni,Q11826
 "Blarer, Jacques-Christophe, de Wartensee, 1542-",author,,http://id.loc.gov/authorities/names/nb99161676,human,Jakob Christoph Blarer von Wartensee,Q116949
 "Blarer, Jacques-Christophe, de Wartensee, 1542-",author,,,human,Jakob Christoph Blarer von Wartensee,Q116949
-Blenheim Palace (England). Sunderland Library,former owner,,,organization,Blenheim Palace,Q208181
 "Bliss sale, Sotheby’s, 21 August 1858, lots 100 and 119, afterwards Phillipps MSS 15659 and 18133; from the collection of specimen leaves formed by Messrs. W. H. Robinson, who bought the residue of the Phillipps library in 1945-46, sold by them to George A. Poole in 1947, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,human;human;human,Thomas Phillipps;William Heath Robinson;George Amos Poole,Q2147709;Q731717;Q64683625
 "Block, Gordon A., Jr., 1914-1973",former owner,,http://id.loc.gov/authorities/names/no2019036866,human,Gordon A. Block Junior,Q113817555
 "Block, Gordon A., Jr., 1914-1973",former owner,,,human,Gordon A. Block Junior,Q113817555
@@ -685,7 +661,6 @@ Bohemia (Kingdom). Sovereign (1526-1564 : Ferdinand I),author,,,organization,Kin
 "Boltz, Valentin, -1560",author,,,human,Valentin Boltz,Q2508243
 "Bonaventura Bertoni, O.F.M.",other,,,human,Bonaventura Bertoni,Q117338242
 Bonaventure,author,,,human,Bonaventure,Q43746
-"Bonaventure, E. F.",former owner,,,human,E.F. Bonaventure,Q122873231
 "Bonaventure, O.F.M.",author,,,human,Bonaventure,Q43746
 "Bonaventure, Saint, Cardinal, approximately 1217-1274",author,,,human,Bonaventure,Q43746
 "Bonaventure, Saint, Cardinal, approximately 1217-1274.",author,,,human,Bonaventure,Q43746
@@ -726,9 +701,6 @@ Borgia (Family : active 14th century-18th century),author,,,organization,House o
 "Borough, John, -1386",author,,http://id.loc.gov/authorities/names/nr93013476,human,John Burgh,Q18530204
 "Borough, John, -1386",author,,,human,John Burgh,Q18530204
 "Borve, Adrien de le",author,,,human,Adrien de le Borve,Q116269505
-"Boscher, Sebastienne",former owner,,,human,Sebastienne Boscher,Q122873232
-"Bottoni, Bernardo, -1266",author,,"http://viaf.org/viaf/88059068/#Bottoni,_Bernardo,_-1266.",human,Bernard of Botone,Q942419
-"Boucicaut Master, active 15th century",artist,,,human,Master of Boucicaut,Q894982
 "Bought by C. L. Ricketts from James Rimell, London bookseller, c. 1909; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;organization,Coella Lindsay Ricketts;James Rimell & Son,Q116771179;Q24207747
 "Bought by C. L. Ricketts from Tregaskis, 1923, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Coella Lindsay Ricketts;James Tregaskis,Q116771179;Q94138739
 "bought from there by the bookseller Herbert Reichner (1899-1971), of Stockbridge, Mass., who sold it to the Lilly Library in 1960.",former owner,,,human,Herbert Reichner,Q27229630
@@ -738,7 +710,6 @@ Bought in 1909 by C. L. Ricketts from Tregaskis; acquired by the Lilly Library w
 "Boult, Thomas",former owner,,,human,Thomas Boult,Q113817671
 "Bourelier, Claude",former owner,,,human,Claude Bourelier,Q113817696
 "Bourelier, Françoise",former owner,,,human,Françoise Bourelier,Q113817723
-"Bourguet, Louis",former owner,,,human,Louis Bourguet,Q975237
 "Bourne, William, approximately 1535-1582",author,,http://id.loc.gov/authorities/names/n80123360,human,William Bourne,Q3568450
 "Bourne, William, approximately 1535-1582",author,,,human,William Bourne,Q3568450
 "Bouter, Samuell",former owner,,,human,Samuell Bouter,Q116269834
@@ -757,23 +728,16 @@ Bragadin family,author,,,organization,Bragadìn,Q2923529
 "Brant, Sebastian 1458-1521.",author,,,human,Sebastian Brant,Q60351
 "Brecher, Adolf",former owner,,,human,Adolf Brecher,Q15217756
 "Bremlen, Gaspardus, Governor",author,,,human,Gaspardus Bremlen,Q116269822
-"Breslauer, Martin, 1871-1940",former owner,,,human,Martin Breslauer,Q15431928
 "Bretherton, George",associated name,,,human,George Bretherton,Q120442556
-"Breton, John le, -1275",author,,http://viaf.org/viaf/312646159,human,John de Breton,Q6265502
 "Breton, Nicholas 1545?-1626?",author,,,human,Nicholas Breton,Q1984811
-"Bridget, of Sweden, Saint, approximately 1303-1373",author,,https://viaf.org/viaf/51685861,human,Bridget of Sweden,Q204996
 Bridget of Sweden,author,,,human,Bridget of Sweden,Q204996
 "Bridget of Sweden, Saint ca. 1303-1373.",author,,,human,Bridget of Sweden,Q204996
 Brisebare,author,,,human,Jean Le Court,Q112494386
-"Brodrick, Charles",former owner,,,human,Charles Brodrick,Q5075798
 "broken up by Myers, bookseller of New Bond Street, London; leaves bought in 1930 by C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Winifred Myers;Coella Lindsay Ricketts,Q112509951;Q116771179
 "Brooke, Thomas, -1439",author,,,human,Thomas Brooke,Q26265611
 "Broomall, Henry Lewis, 1860-1930",former owner,,,human,Henry Lewis Broomall,Q120442557
 Brought from the library of Engelberg Abbey in Switzerland to Conception Abbey sometime before 1900.,former owner,,,organization,Engelberg Abbey,Q667880
-"Broughton, Hugh, 1549-1612",author,,"http://viaf.org/viaf/72341504/#Broughton,_Hugh,_1549-1612",human,Hugh Broughton,Q5930147
 Brousses (Seigneury),author,,,organization,Seigneury de Brousses,Q116694949
-"Browne, Agnes",former owner,,,human,Agnes Browne,Q122873234
-"Browne, John, d. 1476",former owner,,,human,John Browne,Q122873235
 "Brundelsheim, Conrad de.",author,,,human,Konrad von Brundelsheim,Q96358542
 Brunetto Latini,author,,,human,Brunetto Latini,Q366328
 "Bruni, Leonardo, 1369-1444",associated name,,,human,Leonardo Bruni,Q314488
@@ -782,8 +746,6 @@ Brunner Library,former owner,,,organization,Northwich Library,Q26454778
 Bruno,author,,,human,Giordano Bruno,Q36330
 Bruno of Würzburg,author,,,human,Bruno,Q563247
 "Brunus Aretinus, Leonardis",author,,,human,Leonardo Bruni,Q314488
-"Bruschetti, Giuseppe",former owner,,,human,Giuseppe Bruschetti,Q15689386
-"Bruyant, Jean, active 14th century",author,,"http://viaf.org/viaf/121354359/#Bruyant,_Jean,_active_14th_century",human,Jacques Bruyant,Q120599734
 "Buckingham, Humphrey Stafford Duke of 1402-1440.",author,,,human,"Henry Stafford, 2nd Duke of Buckingham",Q714480
 "Bukhārī, Muḥammad ibn Yaḥyá, fl. 1527",author,,,human,Muḥammad ibn Yaḥyá Bukhārī,Q113817796
 "Bullinger, Heinrich, 1504-1575",author,,http://id.loc.gov/authorities/names/n80045117,human,Heinrich Bullinger,Q123839
@@ -792,8 +754,6 @@ Bruno of Würzburg,author,,,human,Bruno,Q563247
 "Burchard, of Mount Sion, -1285",author,,,human,Burchard of Mount Sion,Q4998199
 Burchardus de Monte Sion,author,,,human,Burchard of Mount Sion,Q4998199
 "Burdet, Richard",author,,,human,Richard Burdet,Q116172504
-"Burdett-Coutts, Angela Georgina, 1814-1906",former owner,,,human,"Angela Burdett-Coutts, 1st Baroness Burdett-Coutts",Q137680
-"Burdett-Coutts, William, 1851-1921",former owner,,,human,William Burdett-Coutts,Q8006140
 "Burgess, Edward Sandford, 1855-1928",former owner,,,human,Edward Sandford Burgess,Q5820022
 "Burgess, Julia",former owner,,,human,Julia Burgess,Q75469750
 "Burgh, Hubert de, -1243",author,,,human,"Hubert de Burgh, 1st Earl of Kent",Q1381324
@@ -823,9 +783,7 @@ Burg Kreuzenstein (Austria),former owner,,,organization,Burg Kreuzenstein,Q66964
 C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.,former owner,,,human,Coella Lindsay Ricketts,Q116771179
 "C. L. Ricketts (bought in 1925 from Joseph Baer & Co., Frankfurt), and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;organization,Coella Lindsay Ricketts;Joseph Baer & Co.,Q116771179;Q83552608
 "Cabanier, Dieudonné, 14th century",author,,,human,Dieudonné Cabanier,Q116269853
-"Caboga, Antonio",former owner,,,human,Antonio Marino de Caboga,Q90274604
 Cacciacomes family,author,,,organization,Cacciacomes,Q116730957
-"Cadamosto, Brunori",former owner,,,human,Brunori Cadamosto,Q122873236
 Caesar,author,,,human,Julius Caesar,Q1048
 "Caesar, Julius.",author,,,human,Julius Caesar,Q1048
 Caesareum Societatis Jesu Collegium Viennense,former owner,,http://id.loc.gov/authorities/names/n96045386,organization,Caesareum Societatis Jesu Collegium Viennense,Q116710545
@@ -836,15 +794,12 @@ Caesarius of Arles,author,,,human,Caesarius of Arles,Q304832
 "Caffarelli, Prospero, d. 1500",former owner,,,human,Prospero Caffarelli,Q55643327
 "Calderia, Giovanni.",author,,,human,Giovanni Calderia,Q112416893
 Caleb Wing,artist,,,human,Caleb William Wing,Q117426826
-"Calsoras, G.",former owner,,,human,G. Calsoras,Q122873238
 "Calvi, Sebastiano, 17th century",former owner,,,human,Sebastiano Calvi,Q116269862
 "Camac, William, 1829-1900",former owner,,,human,William Camac,Q113818311
 "Camden, William 1551-1623.",author,,,human,William Camden,Q364239
 "Came to Conception Abbey from its motherhouse, Engelberg in Switzerland.",former owner,,,organization,Engelberg Abbey,Q667880
-"Campagne, Laurent",former owner,,,human,Laurent Campagne,Q122873293
 "Campano, Giannantonio Bishop 1429-1477.",author,,,human,Giovanni Antonio Campani,Q5563673
 Campanus of Novara,author,,,human,Campanus of Novara,Q560868
-"Campbell, Alexander, Sir",former owner,,,human,Sir Alexander Campbell,Q122873294
 "Campofregoso, Paolo di, 1427-1498",associated name,,,human,Paolo Fregoso,Q2325125
 "Canal, Abbe",former owner,,,human,Abbe Canal,Q113818373
 "Canal, Bernardo",author,,,human,Bernardo Canal,Q116172546
@@ -859,7 +814,6 @@ Canons Regular of Urgel,author,,,organization,Canons Regular of Urgel,Q116694928
 "Caracciolo, Tristano, approximately 1435-1528?.",author,,,human,Tristano Caracciolo,Q1324187
 "Carafa, Carlo, approximately 1517-1561",author,,http://id.loc.gov/authorities/names/nr94043884,human,Carlo Carafa,Q1041979
 "Carafa, Carlo, approximately 1517-1561",author,,,human,Carlo Carafa,Q1041979
-"Carbicei, Francisco",former owner,,,human,Francisco Carbicei,Q122873295
 "Cardelinis, Julius de",former owner,,,human,Julius de Cardelinis,Q116041094
 Cardinal Pedro Gonzales de Mendoza,former owner,,,human,Pedro González de Mendoza,Q786748
 "Caresini, Rafaino, 1314?-1390.",author,,,human,Rafaino Caresini,Q41568536
@@ -875,7 +829,6 @@ Carretto family,author,,,human,Del Carretto,Q587716
 "Carteron, Jean",author,,,human,Jean Carteron,Q3171141
 Carthusians,author,,,organization,Carthusian Order,Q220979
 "Carthusians of Buxheim; Hugo, Graf von Waldbott-Bassenhim (his sale, Munich, 20 September 1883, lot 2672); Adolph Sutro (1830-1898), mayor of San Francisco.",former owner,,,organization;human;human,Buxheim Charterhouse;Hugo Philipp Waldbott-Bassenheim;Adolph Sutro,Q460224;Q1682028;Q214461
-Carthusians of Enghien,former owner,,,organization,"Carthusian monastery, Herne",Q2399914
 "Casas, Bartolomé de las, 1484-1566",author,,http://id.loc.gov/authorities/names/n80010286,human,Bartolomé de Las Casas,Q207416
 "Casas, Bartolomé de las, 1484-1566",author,,,human,Bartolomé de Las Casas,Q207416
 "Cassett, Louis N",former owner,,,human,Louis N. Cassett,Q116269877
@@ -944,11 +897,9 @@ Cecco d'Ascoli 1269-1327.,author,,,human,Cecco d'Ascoli,Q728592
 "Ce livre est et appartient à Escuyer Charles Busnel, sieur de la Retardaye, 1645i and by descent in the Busnel family of Montoray, to Henri-Jacques-François Busnel (1774) and Françoise Busnel (1824), who in 1842 gave it to her niece Julie de Busnel; Librairie Belin, Paris, cat. 171 (1892), no. 1331; Elisabeth Ball 1897-1982), of Muncie, Indiana; part of her bequest to the Lilly Library, 1982.",former owner,,,human;human;human;human;human,Charles Busnel;Henri-Jacques-François Busnel;Françoise Busnel;Julie de Busnel;Elisabeth Ball,Q116780147;Q116780151;Q116780153;Q116780164;Q94430387
 "Celotti, Luigi, approximately 1768-approximately 1846",former owner,,http://id.loc.gov/authorities/names/nr00020351,human,Luigi Celotti,Q113774991
 "Celotti, Luigi, approximately 1768-approximately 1846",former owner,,,human,Luigi Celotti,Q113774991
-"Certosa di Garegnano (Milan, Italy)",former owner,,,organization,Garegnano Charterhouse,Q581827
 "Cesano, Gabriel",author,,,human,Gabriele Cesano,Q3756567
 Cesare Barzi,author,,,human,Cesare Barzi,Q61472509
 "Charles Deane, 1813-1889.",former owner,,,human,Charles Deane,Q52482529
-"Charles IV, Holy Roman Emperor, 1316-1378",author,,http://id.loc.gov/authorities/names/n80081765.html,human,Charles IV,Q155669
 "Charles IX, King of France, 1550-1574",author,,http://id.loc.gov/authorities/names/n85048544,human,Charles IX of France,Q134309
 "Charles IX, King of France, 1550-1574",author,,,human,Charles IX of France,Q134309
 Charles S. Boesen (Firm),former owner,,,organization,Charles S. Boesen (Firm),Q120442740
@@ -963,7 +914,6 @@ Charles V Holy Roman Emperor 1500-1558.,author,,,human,"Charles V, Holy Roman Em
 "Charles VIII, King of France, 1470-1498",author,,,human,Charles VIII of France,Q134452
 "Charles William Dyson Perrins (1864-1958), with his bookplate and ticket, with numbers ‘36’ and ‘62’; his sale, Sotheby’s, 9 December 1958, lot 18, to Breslauer; his cat. 92 (1960), no. 12; Lathrop C. Harper Inc., and acquired by the Lilly Library with the Harper stock, given by Mrs. Juana Mendel in November 1967.",former owner,,,human;organization;human,"Charles William Dyson Perrins;Lathrop C. Harper, Inc.;Juana Mendel",Q5083550;Q116785327;Q116869123
 Chartreuse de Montrieux,former owner,,,organization,Chartreuse de Montrieux-le-Vieux,Q2961270
-"Chartreuse de Rettel (Rettel, Moselle)",former owner,,,organization,Chartreuse Saint-Sixte de Rettel,Q1674329
 Chartreuse du Val de bénédiction,former owner,,,organization,Cloître de la Chartreuse du Val de Bénédiction,Q107126810
 Chartreuse Saint-Sixte de Rettel,former owner,,,organization,chartreuse Saint-Sixte de Rettel,Q1674329
 "Chasles, M. 1793-1880",former owner,,http://id.loc.gov/authorities/names/n86860104,human,Michel Chasles,Q318067
@@ -974,7 +924,6 @@ Chartreuse Saint-Sixte de Rettel,former owner,,,organization,chartreuse Saint-Si
 Chaucer,author,,,human,Geoffrey Chaucer,Q5683
 "Cheney, Edward, 1803-1884",former owner,,http://id.loc.gov/authorities/names/no98108800,human,Edward Cheney,Q19039655
 "Cheney, Edward, 1803-1884",former owner,,,human,Edward Cheney,Q19039655
-"Cherubino, da Siena, frate, -1484",author,,https://viaf.org/viaf/232426123,human,Cherubino da Spoleto,Q18945146
 Cherubino da Spoleto,author,,,human,Cherubino da Spoleto,Q18945146
 "Cherubino da Spoleto, Franciscan",author,,,human,Cherubino da Spoleto,Q18945146
 Cherubinus de Spoleto,author,,,human,Cherubino da Spoleto,Q18945146
@@ -983,7 +932,6 @@ Cherubinus de Spoleto,author,,,human,Cherubino da Spoleto,Q18945146
 "Chiriacus, de Fulgineo",scribe,,,human,Chiriacus de Fulgineo,Q116272287
 "Chrewczer, Cristoferus",former owner,,,human,Cristoferus Chrewczer,Q116272340
 "Chrewczer, Pangracius",former owner,,,human,Pangracius Chrewczer,Q116272350
-"Christ, Victor",former owner,,,human,Victor Christ,Q122873296
 Christian III King of Denmark and Norway 1503-1559.,author,,,human,Christian III of Denmark,Q154998
 Christian M. Nebehay (Firm),former owner,,,organization,Christian M. Nebehay (Firm),Q120442741
 Christianus de Prachaticz,author,,,human,Christian of Prachatice,Q326797
@@ -1037,12 +985,10 @@ Clement of Lanthony,author,,,human,Clement of Llanthony,Q18527191
 Clement of Llanthony,author,,,human,Clement of Llanthony,Q18527191
 Clement of Llanthony?,author,,,human,Clement of Llanthony,Q18527191
 Clement V,author,,,human,Clement V,Q131463
-"Clement V, Pope, approximately 1260-1314",author,,https://viaf.org/viaf/100213157,human,Clement V,Q131463
 Clement VI,author,,,human,Clement VI,Q170863
 "Clement VII, Pope, 1478-1534",author,,http://id.loc.gov/authorities/names/n88002890,human,Clement VII,Q83159
 "Clement VII, Pope, 1478-1534",author,,,human,Clement VII,Q83159
 Clement VIII,author,,,human,Clement VIII,Q170395
-"Clement XI, Pope, 1649-1721",former owner,,,human,Clement XI,Q129967
 Cleomedes,author,,,human,Cleomedes,Q31278
 "Cnipius, Johannes, -1586",author,,http://id.loc.gov/authorities/names/no2006044348,human,Johannes Cnipius,Q20752901
 "Cnipius, Johannes, -1586",author,,,human,Johannes Cnipius,Q20752901
@@ -1052,7 +998,6 @@ Cleomedes,author,,,human,Cleomedes,Q31278
 "Cofradía del Señor Sant Pedro martyr (Palencia, Spain)",author,,,organization,Confraternity of St. Peter martyr (Palencia),Q116731023
 "Cohen, Abraham, 1887-1951",former owner,,,human,Abraham Cohen,Q4668808
 "Col. Eustace Balfour (1854-1911, younger brother of Lord Balfour, prime minister 1902-05); sale at Sotheby’s, 28 July 1919, lot 99a; C. L. Ricketts, bought from Voynich in 1921; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human;human,Eustace Balfour;Wilfrid Voynich;Coella Lindsay Ricketts,Q17308766;Q336453;Q116771179
-"Coleman, George Dawson",former owner,,,human,George Dawson Coleman,Q122873297
 "Collins, Mary Schell, 1864-1948",former owner,,,human,Mary Schell Collins,Q116272333
 "Colman, Francis, -1733",former owner,,http://id.loc.gov/authorities/names/nr91025925,human,Francis Colman,Q75399420
 "Colman, Francis, -1733",former owner,,,human,Francis Colman,Q75399420
@@ -1084,20 +1029,16 @@ Consejo de Inquisición (Spain),author,,,organization,Grand Inquisitor of Spain
 Constantine the African,author,,,human,Constantine the African,Q468641
 "Contarini, Gasparo, 1483-1542",author,,http://id.loc.gov/authorities/names/n88095633,human,Gasparo Contarini,Q728931
 "Contarini, Gasparo, 1483-1542",author,,,human,Gasparo Contarini,Q728931
-"Contarini, Marcantonio",former owner,,,human,Marcantonio Contarini,Q109860400
 "Contarinus, Magister",author,,,human,Magister Contarinus,Q116323409
 conte della Trinita,former owner,,,human,Ludovico Costa,Q1874021
-Continuator of Martin of Troppau,author,,,human,Continuator of Martin of Troppau,Q122873298
 Convent of San Paolo,former owner,,,organization,Convento di San Paolo,Q18486849
 "Cooke, Robert, -1592",author,,http://id.loc.gov/authorities/names/no89014196,human,Robert Cooke,Q116074334
 "Cooke, Robert, -1592",author,,,human,Robert Cooke,Q116074334
 "Cooper, Martin J",former owner,,,human,Martin J. Cooper,Q113818464
-"Cope, Anthony, Sir",former owner,,,human,Sir Anthony Cope,Q122873299
 "Copied for Sion Abby in Switzerland; the see was originally located in Octodurum, now called Marigny/Martinach, and later moved to Sion (or Sitten in the German spelling of the name).",former owner,,,organization,Mount Zion Abbey,Q819287
 "Copied for Sion Abby in Switzerland; the see was originally located in Octodurum, now called Marigny/Martinach, and later moved to Sion (or Sitten in the German spelling of the name). On f. 247v, in the lower margin, in pencil, ""Joannes Aloysius Brochman acceptus anno 1749, mansit usque ad 1757"" (below feast of Agatha; perhaps that being the date of him having been accepted or having left).",former owner,,,organization,Mount Zion Abbey,Q819287
 Coptic Church,author,,http://id.loc.gov/authorities/names/n79107736,organization,Coptic Orthodox Church,Q198998
 Coptic Church,author,,,organization,Coptic Orthodox Church,Q198998
-"Cora, Luigi",former owner,,,human,Luigi Cora,Q102279780
 "Corbolinus of Pistoia, close to",scribe,,,human,Corbolinus of Pistoia,Q117338335
 "Cornazzano, Antonio 1429-1484.",author,,,human,Antonio Cornazzano,Q601697
 "Cornelius, Father, S.J",author,,,human,John Cornelius,Q6227148
@@ -1119,16 +1060,12 @@ Costantino Garzoni,author,,,human,Costantino Garzoni,Q87124617
 "Cotrugli, Benedetto d. 1468.",author,,,human,Benedikt Kotruljević,Q554825
 "Council of Basel (1431-1449 : Basel, Switzerland)",author,,http://id.loc.gov/authorities/names/n79129626,organization,Council of Basel,Q694141
 "Council of Basel (1431-1449 : Basel, Switzerland)",author,,,organization,Council of Basel,Q694141
-"Count Archinto, of Milan",former owner,,,human,Carlo Archinto,Q665628
 "Count Giacomo Maria Manzoni (1816-1889), Roman minister of finance, Guglielmo Libri’s executor; his sale, IV, Rome, 23 April 1894, lot 67; Edward Robinson (1858-1931), classicist and later director of the Metropolitan Museum, New York, bought in Venice from L. S. Olschki, 1894, given by him on 31 January 1906 to Henry W. Poor (1844-1915),",former owner,,,human;human;organization;human,Giacomo Manzoni;Edward Robinson;Leo S. Olschki Editore;Henry William Poor,Q17285107;Q3048662;Q3229594;Q5730239
 "Count Grigori Stroganoff (1829-1910, died in Rome), with his stamp on verso; doubtless from his sale, Jandolo and Travazzi, Rome, 18-24 April 1910; C. L. Ricketts, bought in 1911 from C. E. Rappaport, Rome; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Grigorij Sergeevič Stroganov;Coella Lindsay Ricketts,Q4444046;Q116771179
 "Court, Antoine de, 16th cent",former owner,,,human,Antoine de la Court,Q55909108
 "Court, Antoine de, 16th century",former owner,,,human,Antoine de Court,Q115781159
 "Court, Benoît de",former owner,,http://id.loc.gov/authorities/names/n86113810,human,Benoît Le Court,Q106904178
 "Court, Benoît de",former owner,,,human,Benoît Le Court,Q106904178
-"Crane, W.C.",former owner,,,human,Warren C. Crane,Q122873300
-"Crane, W. C.",former owner,,,human,Warren C. Crane,Q122873300
-"Crane, Warren C.",former owner,,,human,Warren C. Crane,Q122873300
 "Crescentia, Saint, -approximately 300.",associated name,,,human,Crescentia,Q1139673
 "Crescenzi, Pietro de', approximately 1233-approximately 1320",author,,http://id.loc.gov/authorities/names/n85295007,human,Pietro de' Crescenzi,Q1933377
 "Crescenzi, Pietro de', approximately 1233-approximately 1320",author,,,human,Pietro de' Crescenzi,Q1933377
@@ -1185,10 +1122,7 @@ David Eugene Smith (1860-1944),former owner,,,human,David Eugene Smith,Q1174369
 David Eugene Smith (1860-1944).,former owner,,,human,David Eugene Smith,Q1174369
 David of Augsburg,author,,,human,David of Augsburg,Q71071
 David von Augsburg ?-1271,author,,,human,David of Augsburg,Q71071
-Davis & Harvey,former owner,,,organization,Davis & Harvey,Q75608490
 Davis & Orioli (Firm),former owner,,,organization,Davis & Orioli,Q113818768
-Dawson,former owner,,,human,George Dawson Coleman,Q122873297
-"Dawson, William Hargrave (1878-)",former owner,,,human,William Hargrave Dawson,Q122873302
 "De' Medici, Luigi, principe di Ottaviano, 1759-1830",author,,http://id.loc.gov/authorities/names/n2001034382,human,Luigi de' Medici,Q3840279
 "De' Medici, Luigi, principe di Ottaviano, 1759-1830",author,,,human,Luigi de' Medici,Q3840279
 "Decembrio, Pier Candido 1399-1477.",author,,,human,Pietro Candido Decembrio,Q714963
@@ -1199,10 +1133,7 @@ Dawson,former owner,,,human,George Dawson Coleman,Q122873297
 "Deedes, Cecil, 1843-1920",former owner,,,human,Cecil Deedes,Q25950685
 "Defensor, active 7th century.",author,,,human,Defensor of Ligugé,Q54670812
 Defensor of Ligugé,author,,,human,Defensor of Ligugé,Q54670812
-"de Foix, Constance, wife of Jean de Lévis, Seigneur de Mirepoix",former owner,,,human,Constance de Foix,Q97784749
 "Dei, Johannes de, ca. 1190-1267.",author,,,human,Johannes de Deo,Q3808960
-"De la Warr, John West, Earl, 1693-1766",former owner,,,human,"John West, 1st Earl De La Warr",Q6263615
-"de Lévis, Isabelle, daughter of Constance de Foix",former owner,,,human,Isabelle de Lévis,Q96243734
 Delis,former owner,,,organization,Delhi,Q1353
 Della Rovere family,author,,,organization,House of della Rovere,Q327194
 "De Marinis, Tammaro, 1878-1969",former owner,,http://id.loc.gov/authorities/names/nr97038896,human,Tammaro De Marinis,Q3980638
@@ -1213,7 +1144,6 @@ Demosthenes,author,,,human,Demosthenes,Q117253
 Demosthenes.,author,,,human,Demosthenes,Q117253
 "de Muffoni, Jacobus",former owner,,,human,Jacobus de Muffoni,Q114242470
 "Dénie, Jean Felix",former owner,,,human,Jean Felix Dénie,Q116326188
-De Raude,former owner,,,human,De Raude,Q122873304
 "described there as in-folio atlantico, elegans et completus dismembered probably in Auxerre in the early nineteenth century; John William Bradley (1830-1916), who gave it to C. L. Ricketts in 1913; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,John William Bradley;Coella Lindsay Ricketts,Q52148380;Q116771179
 "Despine, Claude Joseph Constant, 1807-1873",former owner,,,human,Claude Joseph Constant Despine,Q61475440
 "Dessauer, M. 1842-1895",former owner,,http://id.loc.gov/authorities/names/nr96042753,human,Moritz Dessauer,Q904363
@@ -1248,11 +1178,9 @@ Dionysius Cato,author,,,human,Dionysius Cato,Q3028750
 "Dixon, C. W. S",former owner,,,human,C. W. S. Dixon,Q116172571
 "Diyārbakrī, Musṭafá ibn ʻUmar",author,,,human,Musṭafá ibn ʻUmar Diyārbakrī,Q114242434
 "Dloss, Edwin",former owner,,,human,Edwin Dloss,Q113818857
-"Dobell, Bertram",former owner,,,human,Bertram Dobell,Q16943970
 "Dokeianos, Ioannes",author,,,human,John Dokeianos,Q95795900
 "Domenico, da Montecchiello, active 1354-1358",associated name,,,human,Domenico da Montecchiello,Q3713293
 Domenico Cavalca,author,,,human,Domenico Cavalca,Q3712952
-"Dominican Nunnery Holy Cross (Asperg, Wurtemberg)",former owner,,,organization,Dominican Nunnery Holy Cross,Q122873659
 "Dominici, Adam Luce",author,,,human,Adam Luce Dominici,Q116325045
 "Dominicus Capranica, ascribed author",author,,,human,Domenico Capranica,Q572802
 Dominicus de Clavasio,author,,,human,Dominicus de Clavasio,Q107709361
@@ -1261,7 +1189,6 @@ Donatus,author,,,human,Aelius Donatus,Q247137
 "Donatus, Aelius.",author,,,human,Aelius Donatus,Q247137
 "Donatus, Rudolphus Rasser",former owner,,,human,Rudolphus Rasser Donatus,Q116325443
 "Donzellini, Alessandro.",author,,,human,Alessandro Donzellini,Q27831940
-"Dore, J. R. (John Read)",former owner,,,human,John Read Dore,Q93485216
 "Dorotea, daughter of Antonio Mella and widow of Giovanni Andrea",other,,,human,Dorotea Mella,Q117338254
 Dositheos Patriarch of Jerusalem 1641-1707.,author,,,human,Dositheos II of Jerusalem,Q927368
 "doubtless Messrs. W. H. Robinson, who bought the residue of the Phillipps library in 1945-46; George A. Poole (bought from Lawrence Witten, 1955), and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,human;organization,George Amos Poole;William H. Robinson Ltd.,Q116786331;Q64683625
@@ -1284,8 +1211,6 @@ Dropsie College of Hebrew and Cognate Learning,former owner,,,organization,Drops
 "Dunn sale, Sotheby’s, 11 February 1913, lot 356, to Young; bought the following day by C. L. Ricketts, and acquired by the Lilly Library with the Ricketts collection in 1961.",former owner,,,human;human,Sydney Cockerell;Coella Lindsay Ricketts,Q966843;Q116771179
 "Duns Scotus, John, approximately 1266-1308",author,,,human,Duns Scotus,Q190089
 "Dupeireux, Girard",former owner,,,human,Girard Dupeireux,Q116325999
-"Du Pré, Jacqueline",former owner,,,human,Jacqueline du Pré,Q228888
-"Duquesne, François",former owner,,,human,François Duquesne,Q122873305
 "Durand, Guillaume, approximately 1230-1296",author,,http://id.loc.gov/authorities/names/n87900857,human,Guillaume Durand,Q2329414
 "Durand, Guillaume, approximately 1230-1296",author,,,human,Guillaume Durand,Q2329414
 "Durand, Guillaume, approximately 1230-1296.",associated name,,,human,Guillaume Durand,Q2329414
@@ -1312,19 +1237,14 @@ Edward Kelly 1555-1595,author,,,human,Edward Kelley,Q127080
 Edward of Norwich 1373?-1415.,author,,,human,"Edward of Norwich, 2nd Duke of York",Q452639
 Edward Plantagenet,author,,,human,"Edward, the Black Prince",Q184854
 "Edward Quaile (d. 1900); his sale, Sotheby’s, 10 May 1901, lot 223, to Leighton; J. Martini, cat. 17 (1921), no. 17, and cat. 18 (1922), no. 14, at $1,100; C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Edward Quaile;Coella Lindsay Ricketts,Q117085125;Q116771179
-"Eerens, Conradus",former owner,,,human,Conradus Eerens,Q122873306
-"Eerens, Lambertus",former owner,,,human,Lambertus Eerens,Q122873307
 "Ege, Otto F",former owner,,http://id.loc.gov/authorities/names/no99020371,human,Otto Ege,Q7109575
 "Ege, Otto F",former owner,,,human,Otto Ege,Q7109575
-"Egerton Master, active 1410",artist,,,human,Master of Egerton,Q29609
-"Egerton Master, follower of",artist,,,human,Follower of the Egerton Master,Q122873308
 Egidio Foscarari,author,,,human,Egidio Foscarari,Q41569530
 "Elia da Cortona, frate d. 1253.",author,,,human,Elias of Cortona,Q1329212
 "Elisabeth von Walmden, nun of Hildesheim who commissioned manuscript",other,,,human,Elisabeth von Walmden,Q117448054
 "Elizabeth I, Queen of England",author,,,human,Elizabeth I of England,Q7207
 Elizabeth I of England,author,,,human,Elizabeth I of England,Q7207
 Elkan Nathan Adler.,former owner,,,human,Elkan Nathan Adler,Q1170731
-"Elliott, G.",former owner,,,human,G. Elliott,Q122873309
 "Ellis, John Henry, 1839 or 1840-1912",former owner,,,human,John Henry Ellis,Q113819060
 "Ellis of Bond Street, their cat. 1919, at £63; Ernst F. Detterer (1888-1947); bought from Detterer’s estate in 1948 by George A. Poole, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,human;human,Ernst F. Detterer;George Amos Poole,Q5394976;Q64683625
 El monasterio de San Andrés de Fanlo,author,,,organization,Monastery of San Andrés de Fanlo,Q116695050
@@ -1342,10 +1262,8 @@ Enselmino da Montebelluna,author,,,human,Enselmino da Montebelluna,Q3726173
 Ephraem Syrus,author,,,human,Ephrem the Syrian,Q200608
 "Ephraem Syrus, Saint 303-373.",author,,,human,Ephrem the Syrian,Q200608
 Ephraim Syrus,author,,,human,Ephrem the Syrian,Q200608
-"Epiphanius, Saint, Bishop of Constantia in Cyprus, approximately 310-403",author,,https://viaf.org/viaf/13651211,human,Epiphanius of Salamis,Q313922
 Epiphanius Scholasticus.,author,,,human,Epiphanius Scholasticus,Q710039
 "Epping, Johann",scribe,,,human,Johann Epping,Q116181470
-"Erasmus, Desiderius",author,,http://viaf.org/viaf/87673996,human,Erasmus,Q43499
 "Erasmus, Desiderius 1466?-1536",author,,,human,Erasmus,Q43499
 "Ercole d'Este, duke of Ferrara, Modena, Reggio Emilia",author,,,human,"Ercole I d'Este, Duke of Ferrara",Q1348708
 "Ereilter, S",former owner,,,human,S. Ereilter,Q116326394
@@ -1355,16 +1273,13 @@ Epiphanius Scholasticus.,author,,,human,Epiphanius Scholasticus,Q710039
 "Erzurūmī, Ibrāhīm ibn ʻUthmān ḥaqqī, d. 1781",author,,,human,İbrahim Hakkı Erzurumi,Q2729985
 "Escobar, Andrés de, -approximately 1431",author,,http://id.loc.gov/authorities/names/no2005046107,human,Andreas de Escobar,Q2849009
 "Escobar, Andrés de, -approximately 1431",author,,,human,Andreas de Escobar,Q2849009
-"Espeisse, de Farges d'",former owner,,,human,de Farges d'Espeisse,Q122873311
 "Ess, Leander van, 1772-1847",former owner,,http://id.loc.gov/authorities/names/no92013806,human,Johann Heinrich van Ess,Q1810643
 "Ess, Leander van, 1772-1847",former owner,,,human,Johann Heinrich van Ess,Q1810643
 "Ess, Leander van 1772-1847",former owner,,,human,Johann Heinrich van Ess,Q1810643
-"Essen, Anna van, Sister",former owner,,,human,Sister Anna van Essen,Q122873312
 "Este, Ippolito d' 1509-1572.",author,,,human,Ippolito II d'Este,Q554296
 Esther Inglis,author,,,human,Esther Inglis,Q5401202
 "Estmond, John",former owner,,,human,John Estmond,Q114242435
 "Étampes-Valençay, Léonor d', approximately 1585-1651",author,,,human,Léonore d'Étampes de Valençay,Q3271738
-Ethnikē Vivliothēkē tēs Hellados,former owner,,,organization,Ethnikē Vivliothēkē tēs Hellados,Q122873660
 Etienne Baluze 1630-1718,author,,,human,Étienne Baluze,Q289351
 "Étienne de Loypeau, bishop of Luçon 1388-1407; Louis d’Harcourt, patriarch of Jerusalem and bishop of Bayeux 1460-79, who on 12 April 1474 gave it to the cathedral of Bayeux; recorded in the inventory of the cathedral treasury in 1476, ""Premièrement, ung excellent missel, portant tout l’office pontifical . . . (Delisle 1887, p. 434);",former owner,,,human;human;organization,Étienne de Loypeau;Louis d’Harcourt;Bayeux Cathedral,Q116811686;Q3263358;Q1636244
 "Eucherius, archbishop of Lyons",author,,,human,Eucherius of Lyon,Q671419
@@ -1379,7 +1294,6 @@ Eugenius IV,author,,,human,Eugene IV,Q167561
 Eugippius,author,,,human,Eugippius,Q738491
 Eugippius.,author,,,human,Eugippius,Q738491
 Eusebius,author,,,human,Eusebius of Caesarea,Q142999
-"Eusebius, of Cremona, Saint",author,,http://viaf.org/viaf/77789492,human,Eusebius of Cremona,Q24013788
 "Eusebius, of Cremona, Saint, -approximately 423.",author,,,human,Eusebius of Cremona,Q24013788
 Eusebius Cremonensis,author,,,human,Eusebius of Cremona,Q24013788
 Eusebius Gallicanus.,author,,,human,Eusebius Gallicanus,Q18214704
@@ -1389,7 +1303,6 @@ Eusebius of Cremona,author,,,human,Eusebius of Cremona,Q24013788
 Eustache Deschamps,author,,,human,Eustache Deschamps,Q457915
 Eustathius Thessalonicensis,author,,,human,Eustathius of Thessalonica,Q453465
 Eutropius,author,,,human,Eutropius,Q314694
-"Eutropius, active 4th century",author,,http://id.loc.gov/authorities/names/n85083031.html,human,Eutropius,Q314694
 "Evans, R. H. 1777-1857",former owner,,,human,Robert Harding Evans,Q1755391
 "Evelyn Philip Shirley, 1812-1882",former owner,,,human,Evelyn Philip Shirley,Q5416444
 Evrard de Béthune,author,,,human,Eberhard of Béthune,Q5331803
@@ -1401,7 +1314,6 @@ Evrart de Trémaugon,author,,,human,Evrart de Trémaugon,Q16027830
 "Faber, Abraham",author,,,human,Abraham Faber,Q67198306
 "Facio, Bartolomeo d. 1457.",author,,,human,Bartolomeo Facio,Q809500
 "Falconieri, Pacholo",author,,,human,Pacholo Falconieri,Q116326503
-"Falloize, Jean de, 16th century",former owner,,,human,Jean de Falloize,Q122873313
 "Faraḍī, Maḥmūd ibn Abī Bakr, 1246 or 1247-1300",author,فرضي، محمود بن ابي بكر، 1246 أو 1247-1300,http://id.loc.gov/authorities/names/n90707313,human,Maḥmūd ibn Abī Bakr Faraḍī,Q116326528
 "Faraḍī, Maḥmūd ibn Abī Bakr, 1246 or 1247-1300",author,,,human,Maḥmūd ibn Abī Bakr Faraḍī,Q116326528
 Farghānī active 861,author,,,human,Ahmad ibn Muhammad ibn Kathīr al-Farghānī,Q336550
@@ -1415,7 +1327,6 @@ Farghānī active 861,author,,,human,Ahmad ibn Muhammad ibn Kathīr al-Farghān�
 "Farnham, Henry Maxwell, Baron, 1799-1868",former owner,,,human,"Henry Maxwell, 7th Baron Farnham",Q5725625
 "Fārūqī, Fatḥ Allāh ibn Muṣṭafá ibn ʻAbd al-Shakūr, active approximately 16th century-17th century",author,فاروقى، فتح الله بن مصطفى بن عبد الشکور، active approximately 16th century-17th century,,human,Fatḥ Allāh ibn Muṣṭafá ibn ʻAbd al-Shakūr Fārūqī,Q114242419
 "Fāsī, Muḥammad ibn ʻAbd al-Wāḥid ibn ʻAbd al-Qādir",scribe,فاسي، محمد بن عبد الواحد بن عبد القادر,,human,Muḥammad ibn ʻAbd al-Wāḥid ibn ʻAbd al-Qādir Fāsī,Q114242436
-"Fastolf Master, active 1420-1460",artist,,,human,Fastolf Master,Q19955782
 "Faucher, Denis, 1487-1562",author,,http://id.loc.gov/authorities/names/n2005029122,human,Denis Faucher,Q116326723
 "Faucher, Denis, 1487-1562",author,,,human,Denis Faucher,Q116326723
 Faustus of Riez,author,,,human,Faustus of Riez,Q2351792
@@ -1465,13 +1376,11 @@ Filippo Beroaldo,author,,,human,Filippo Beroaldo,Q3071870
 Firdawsī,author,,,human,Ferdowsi,Q43459
 "Firenze, Andrea de, 15th cent",illuminator,,,human,Andrea di Bonaiuto,Q495419
 "Firenze, Andrea de, 15th century",illuminator,,,human,Andrea di Bonaiuto,Q495419
-"Firmin-Didot, Ambroise, 1790-1876",former owner,,,human,Ambroise Firmin Didot,Q2842379
 "Fīrūzābādī, Muḥammad ibn Yaʻqūb, 1329-1414 or 1415",author,فيروزآبادى، محمد بن يعقوب، 1329-1414 يا 1415,http://id.loc.gov/authorities/names/n83055935,human,Fairuzabadi,Q4115262
 "Fīrūzābādī, Muḥammad ibn Yaʻqūb, 1329-1414 or 1415",author,,,human,Fairuzabadi,Q4115262
 "Fisher, Otto Orren",former owner,,,human,Otto Orren Fisher,Q116326593
 "Fiske, Willard, 1831-1904",former owner,,,human,Willard Fiske,Q2047315
 "Fitzwilliam, George W",former owner,,,human,George W. Fitzwilliam,Q114242437
-"Flachmann, Bartholdus and Flachmann, Johann",former owner,,,human,Bartholdus and Johann Flachmann,Q122873315
 Flaminio Piatti,author,,,human,Flaminio Piatti,Q3073290
 Flavius Vegetius Renatus,author,,,human,Publius Flavius Vegetius Renatus,Q4298
 Flavius Vegetius Renatus 4th century,author,,,human,Publius Flavius Vegetius Renatus,Q4298
@@ -1485,9 +1394,6 @@ Florence (Tuscany). Otto di guardia e balia,author,,,organization,"Otto di guard
 "Florus, Lucius Annaeus",author,,,human,Lucius Annaeus Florus,Q316483
 Florus of Lyon,author,,,human,Florus of Lyon,Q3074346
 "Follower of Birago, Giovan Pietro, active 1471-1513 and Master B. F. (sometimes identified as Francisco Binasco)",artist,,,human,Giovanni Pietro Birago,Q1901175
-Follower of Jean Pucelle,artist,,,human,Follower of Jean Pucelle,Q122873316
-Follower of the master of the vitae imperatorum,artist,,,human,Follower of the master of the vitae imperatorum,Q122873317
-"Fontaine, Charles, approximately 1514-",former owner,,,human,Charles Fontaine,Q17992861
 "Fontana, Bartolomeo",author,,http://id.loc.gov/authorities/names/n90710726,human,Bartolomeo Fontana,Q109969410
 "Fontana, Bartolomeo",author,,,human,Bartolomeo Fontana,Q109969410
 "Fonte, Bartolommeo 1445-1513.",author,,,human,Bartolomeo della Fonte,Q13570581
@@ -1497,7 +1403,6 @@ Follower of the master of the vitae imperatorum,artist,,,human,Follower of the m
 "Found and acquired probably in the region of Rome by George N. Olcott (1869-1912), American classicist in Rome; given by his widow to the American Academy in Rome by 1927; sold by the Academy through B. l. Ullman to George A. Poole in 1951, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,human;human,George N. Olcott;George Amos Poole,Q18912535;Q64683625
 "Found and first published by Anton Birlinger (1834-1891, of Bonn) who describes it as having been in the possession of Karl Strauven (d. 1886), notary in Düsseldorf;",former owner,,,human;human,Anton Birlinger;Karl Leopold Strauven,Q588335;Q11028150
 "Found and first published by Anton Birlinger (1834-1891, of Bonn) who describes it as having been in the possession of Karl Strauven (d. 1886), notary in Düsseldorf; by 1870 acquired by Karl Anton, Fürst von Hohenzollern- Sigmaringen (1811-1885, prime minister of Prussia 1858-62) for the court library at Sigmaringen;",former owner,,,human;human;human,"Anton Birlinger;Karl Leopold Strauven;Prince Karl Anton, Prince of Hohenzollern",Q588335;Q11028150;Q58012
-"Fountaine, Andrew, Sir, 1676-1753",former owner,,,human,Andrew Fountaine,Q4756994
 "Four ownership notes on the front pastedown and front flyleaf recto: Mus__?___ Guichardin of Saint-Symphorien-le-Châtel, 1632; Jean Guichardin __?___ of Saint-Symphorien-le-Châtel, 1668; the Rev. J. M. Neale of Sackville College, 1858, who gave it to J. F. Young in 1864.",former owner,,,human,John Mason Neale,Q246018
 "Fowle, Nicolas",former owner,,,human,Nicolas Fowle,Q116327461
 "Fox, Edward 1496?-1538.",author,,,human,Edward Foxe,Q1788760
@@ -1546,9 +1451,6 @@ Francois I of France,author,,,human,Francis I of France,Q129857
 "Franz Josef II, Prince of Liechtenstein, 1906-1989",former owner,,http://id.loc.gov/authorities/names/nr88008432,human,"Franz Joseph II, Prince of Liechtenstein",Q165674
 "Franz Josef II, Prince of Liechtenstein, 1906-1989",former owner,,,human,"Franz Joseph II, Prince of Liechtenstein",Q165674
 Fraternità di Santa Maria di Portico di Camollia,author,,,organization,Santa Maria in Portico a Fontegiusta,Q3674136
-Frater Pauli de Scledo,former owner,,,human,Frater Pauli de Scledo,Q122873318
-Frater Salvator Orlandini de Lanciolina,former owner,,,human,Frater Salvator Orlandini de Lanciolina,Q122873458
-Frater Santi de Bon Cor de Sutele,author,,,human,Frater Santi de Bon Cor de Sutele,Q122873460
 Fra Valentino,scribe,,,human,Fra Valentino,Q117338275
 Frederick B. Artz,former owner,,,human,Frederick Binkerd Artz,Q52156821
 Frederick B. Artz.,former owner,,,human,Frederick Binkerd Artz,Q52156821
@@ -1584,7 +1486,6 @@ Fulgentius Ruspensis (Claudius Gordianus Fulgentius),author,,,human,Fulgentius o
 "Fuller, A. W. F",former owner,,,human,A. W. F. Fuller,Q4648509
 "Fürstlich Fürstenbergische Hofbibliothek (Donaueschingen, Germany)",former owner,,http://id.loc.gov/authorities/names/n86126584,organization,Donaueschingen court library,Q176893
 "Fürstlich Fürstenbergische Hofbibliothek (Donaueschingen, Germany)",former owner,,,organization,Donaueschingen court library,Q176893
-G. Michelmore & Co.,former owner,,,human,G. Michelmore,Q114242531
 Gabriele Barbarigo,other,,,human,Gabriele Barbarigo,Q117321220
 "Gabriele Barbarigo, son of Antonio Barbarigo",other,,,human,Gabriele Barbarigo,Q117321220
 Gabriele Cesano,author,,,human,Gabriele Cesano,Q3756567
@@ -1617,14 +1518,12 @@ Gasparinus Barzizza,author,,,human,Gasparinus de Bergamo,Q1236187
 Gauberto Fabricio de Vagad,author,,,human,Gualberto Fabricio de Vagad,Q5613374
 Gautier de Coincy,author,,,human,Gautier de Coincy,Q5356
 Gautier de Metz,author,,,human,Gautier de Metz,Q930623
-"Gay, Emile",former owner,,,human,Emile Gay,Q122873461
 "Gazaeus, Aeneas.",author,,,human,Aeneas of Gaza,Q137152
 Gebeno von Eberbach,author,,,human,Gebeno von Eberbach,Q126296
 Geert Groote (translator),author,,,human,Geert Groote,Q467242
 Geert Grote,author,,,human,Geert Groote,Q467242
 Geffrey Whitney,author,,,human,Geoffrey Whitney,Q5534971
 "Geigy-Hagenbach, Karl",former owner,,,human,Carl Alphons Geigy-Hagenbach,Q55843904
-"Gélis-Didot, P. (Pierre), 1853-",former owner,,,human,Pierre Gélis-Didot,Q106675850
 "Gellius, Aulus.",author,,,human,Aulus Gellius,Q294800
 "Gendreau, Georges",former owner,,,human,Georges Gendreau,Q116328168
 "General Catalogue VIII, 1884, no. 17397; and cat. 369, 1886, no. 35668); Henry Yates Thompson (1838-1928), bought from Quaritch, 14 March 1895, with his bookplate, his no. 29; his sale, Sotheby’s, 23 March 1920, lot 43, to Tregaskis (his cat. 850, 1922, no. 17, and cat. 871, 1923, no. 15); C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Henry Yates Thompson;Coella Lindsay Ricketts,Q2044609;Q116771179
@@ -1662,12 +1561,10 @@ Gerallus,scribe,,,human,Gerallus,Q116328666
 "Gerardi, Alamanno",author,,,human,Alamanno Gerardi,Q116328852
 Gerard of Abbeville?,author,,,human,Gerard of Abbeville,Q3124396
 Gerard of Cremona (of Sabbioneta?),author,,,human,Gerard of Cremona,Q367240
-"Gerardus de Bois, 17th century",former owner,,,human,Gerardus de Bois,Q122873462
 Gerardus de Fracheto,author,,,human,Géraud de Frachet,Q3124462
 Gerard Zerbolt van Zutphen,author,,,human,Gerard Zerbolt of Zutphen,Q1510217
 "Gerbel, Nicolaus, approximately 1485-1560",author,,http://id.loc.gov/authorities/names/n90605562,human,Nikolaus Gerbel,Q87535
 "Gerbel, Nicolaus, approximately 1485-1560",author,,,human,Nikolaus Gerbel,Q87535
-"Germain, Jean, 1397-1461",author,,http://viaf.org/viaf/10788701,human,Jean Germain,Q3172288
 Germain Brice,author,,,human,Germain Brice,Q55909373
 Gerolamo Bologni 1454-1517,author,,,human,Girolamo Bologni,Q29375850
 Gerolamo Michele,other,,,human,Gerolamo Michele,Q117338264
@@ -1700,7 +1597,6 @@ Gift of Edith Wetmore (1870-1966) in 1955 to the Providence Public Library.,form
 Gift to the Grolier Club by Miss Ellen King.,former owner,,,human,Ellen King,Q116626344
 "Gigli, Giovanni d. 1498.",author,,,human,Giovanni de' Gigli,Q5564024
 "Gilbert, de La Porrée, approximately 1075-1154.",associated name,,,human,Gilbert de La Porrée,Q583119
-"Gilbert, W.J.",former owner,,,human,W. J. Gilbert,Q113857112
 "Gilbert, W. J.",former owner,,,human,W. J. Gilbert,Q113857112
 Gilbert de la Porée,author,,,human,Gilbert de La Porrée,Q583119
 Gilbert de la Porrée,author,,,human,Gilbert de La Porrée,Q583119
@@ -1710,7 +1606,6 @@ Gilbert de la Porrée,author,,,human,Gilbert de La Porrée,Q583119
 "Giles of Rome, Archbishop of Bourges ca. 1243-1316.",author,,,human,Giles of Rome,Q380647
 Giles of Rome OESA (?),author,,,human,Giles of Rome,Q380647
 Gilles Le Bouvier,author,,,human,Gilles Le Bouvier,Q4085162
-"Gillingham, Harrold E. (Harrold Edgar), 1864-1954",former owner,,,human,Harrold E. Gillingham,Q73086781
 "Ginori Conti, Piero, 1865-1939",former owner,,http://id.loc.gov/authorities/names/n87132030,human,Piero Ginori Conti,Q3903260
 "Ginori Conti, Piero, 1865-1939",former owner,,,human,Piero Ginori Conti,Q3903260
 "Gioacchino, di Giovanni",illuminator,,http://id.loc.gov/authorities/names/n87922092,human,Gioacchino di Giovanni,Q20830652
@@ -1751,7 +1646,6 @@ Giovanni Pascuzzi,author,,,human,Giovanni Pascuzzi,Q112524856
 "Giovio, Paolo, 1483-1552",former owner,,,human,Paolo Giovio,Q437543
 "Girardi, G",author,,,human,G. Girardi,Q116181454
 "Giraud, Petrus",former owner,,,human,Petrus Giraud,Q116377440
-"Girolami, Remigio de'",author,,http://viaf.org/viaf/5320464,human,Remigio dei Girolami,Q1636083
 Girolamo Amelonghi,author,,,human,Girolamo Amelonghi,Q3768889
 Girolamo Angeriano,author,,,human,Girolamo Angeriano,Q3768890
 Girolamo Benivieni,author,,,human,Girolamo Benivieni,Q328117
@@ -1780,7 +1674,6 @@ Goffredus de Trano (Godefridus de Trano),author,,,human,Geoffrey of Trani,Q32421
 "Goix, Jean de",former owner,,,human,Jean de Goix,Q116377559
 "Goix, Jeanne de",former owner,,,human,Jeanne de Goix,Q116377667
 "Gold Scrolls Group, school of",artist,,,organization,Masters of the Gold Scrolls,Q23888760
-Gold Scrolls Group (active c. 1415-1455),artist,,,human,Masters of the Gold Scrolls,Q23888760
 "Gomes, Rafael",former owner,,,human,Rafael Gomes,Q116172452
 "Gondi, Alfonso",author,,,human,Alfonso Gondi,Q116377812
 "Gondi, Lorenzo",author,,,human,Lorenzo Gondi,Q116377921
@@ -1797,7 +1690,6 @@ Gonzalo Fernández de Oviedo y Valdés,author,,,human,Gonzalo Fernández de Ovie
 "Gostling, William, 1696-1777",former owner,,,human,William Gostling,Q15994466
 "Gostling, William Kennedy",former owner,,,human,William Gostling,Q75264995
 "gothic foliation in roman numerals added during the revision of the text under Jacquemine Hendricx, abbess of Beaupré 1473-1500, and pagination in arabic numerals during the revision under Angéline de Lossy, abbess 1755-96; sold with the Beaupré manuscripts in 1797; John Ruskin (1819-1900), who owned six volumes from two sets of choirbooks from Beaupré and removed the present leaves himself;",former owner,,,human;human;human,Jacquemine Hendricx;Angéline de Lossy;John Ruskin,Q116785243;Q117536482;Q179126
-"Gottschalk, Paul, 1880-",former owner,,,human,Paul Gottschalk,Q72937167
 "Gougy, Lucien",former owner,,,human,Lucien Gougy,Q89484729
 "Goussen, Andrea",author,,,human,Andrea Goussen,Q116378030
 "Gower, John 1325?-1408.",author,,,human,John Gower,Q365133
@@ -1807,13 +1699,8 @@ Gozwinus,author,,,human,Gozechinus of Mainz,Q3112856
 "Gracia, Pedro de",author,,,human,Pedro de Gracia,Q116181564
 "Graham, Fergus, Sir",former owner,,,human,"Sir Fergus Graham, 5th Baronet",Q7526665
 Gratian,author,,,human,Gratian,Q549041
-"Gratz, Simon, 1840-1925",former owner,,,human,Simon Gratz,Q104223647
-"Greene, T.W.",former owner,,,human,T.W. Greene,Q122873464
-"Greene, T. Whitcombe",former owner,,,human,T. Whitcombe Greene,Q120691929
 Gregorio Dati,author,,,human,Gregorio Dati,Q3776498
 Gregorio Dati?,author,,,human,Gregorio Dati,Q3776498
-Gregorius Antiochenus,author,,https://viaf.org/viaf/206760880,human,Grigorios of Antioch,Q2294969
-"Gregory, of Nazianzus, Saint",author,,https://viaf.org/viaf/46897094,human,Gregory of Nazianzus,Q44011
 "Gregory, of Nyssa, Saint, approximately 335-approximately 394",author,,http://id.loc.gov/authorities/names/n79021401.html,human,Gregory of Nyssa,Q191734
 Gregory I,author,,,human,Gregory I,Q42827
 "Gregory I, attributed to",author,,,human,Gregory I,Q42827
@@ -1835,7 +1722,6 @@ Gregory of Tours,author,,,human,Gregory of Tours,Q67841
 "Gregory Saint, Bishop of Tours 538-594.",author,,,human,Gregory of Tours,Q67841
 Gregory the Great,author,,,human,Gregory I,Q42827
 Gregory X,author,,,human,Gregory X,Q161740
-"Gregory X, Pope, -1276",author,,"http://viaf.org/viaf/78778341/#Gregory_X,_Pope,_-1276",human,Gregory X,Q161740
 Gregory XI,author,,,human,Gregory XI,Q169594
 "Gregory XI, Pope, 1329-1378",author,,http://id.loc.gov/authorities/names/n79059155,human,Gregory XI,Q169594
 "Gregory XI, Pope, 1329-1378",author,,,human,Gregory XI,Q169594
@@ -1852,7 +1738,6 @@ Grigor of Tat'ew,author,,,human,Gregory of Tatev,Q2996527
 "Grimaldi, Girolamo, Cardinal, -1543",author,,,human,Cardinal Girolamo Grimaldi,Q110422587
 "Grinke, Paul",former owner,,http://id.loc.gov/authorities/names/no2006031805,human,Paul Grinke,Q113864039
 "Grinke, Paul",former owner,,,human,Paul Grinke,Q113864039
-"Griscom, Acton",former owner,,,human,Acton Griscom,Q56177963
 "Gritti, Andrea, 1455-1538",author,,http://id.loc.gov/authorities/names/n85354425,human,Andrea Gritti,Q345506
 "Gritti, Andrea, 1455-1538",author,,,human,Andrea Gritti,Q345506
 Gross Erhart,author,,,human,Erhart Groß,Q94792364
@@ -1874,7 +1759,6 @@ Guiart des Moulins,author,,,human,Guyart des Moulins,Q3122335
 "Guicciardini, Francesco 1483-1540.",author,,,human,Francesco Guicciardini,Q44601
 "Guichardus, Archbishop of Lyon, -1180",associated name,,,human,Guichard of Pontigny,Q386451
 "Guidiccioni, Bartolomeo, Cardinal, 1470-1549",author,,,human,Bartolomeo Guidiccioni,Q1084729
-"Guido, de Monte Rocherii, active 14th century",author,,http://id.loc.gov/authorities/names/n90667250.html,human,Guido de Monte Rochen,Q5615652
 "Guido Ascanio Sforza, card. (1518-64)",author,,,human,Guido Ascanio Sforza di Santa Fiora,Q1364139
 Guido Bonatti of Forli`,author,,,human,Guido Bonatti,Q426862
 Guido de Baysio,author,,,human,Guido da Baisio,Q41559680
@@ -1893,7 +1777,6 @@ Guilelmus Peraldus ca. 1190-1271.,author,,,human,William Perault,Q8016774
 "Guillaume, de Lanicia, d. after 1310",author,,,human,Guilelmus de Lancea,Q64032846
 "Guillaume, de Lorris, active 1230",author,,http://id.loc.gov/authorities/names/n50018450,human,Guillaume de Lorris,Q544959
 "Guillaume, de Lorris, active 1230",author,,,human,Guillaume de Lorris,Q544959
-"Guillaume, de Rennes",author,,http://id.loc.gov/authorities/names/n88071081.html,human,Guillaume de Rennes,Q3120427
 "Guillaume, de Salins",author,,,human,Guillaume de Salins,Q116250186
 Guillaume Brouscon,author,,,human,Guillaume Brouscon,Q3119724
 Guillaume d'Estouteville,author,,,human,Guillaume d'Estouteville,Q656131
@@ -1927,14 +1810,11 @@ Guillermus Altissiodorensis d. 1231.,author,,,human,William of Auxerre,Q931898
 "Gulielmus, de Monte Lauduno, active 1305-1343",author,,,human,William of Montlauzun,Q17285004
 Gulielmus de Lavicea,author,,,human,Guilelmus de Lancea,Q64032846
 Gulielmus de Monte Lauduno,author,,,human,William of Montlauzun,Q17285004
-Gulielmus Herlyacensis,author,,,human,Gulielmus Herlyacensis,Q122873465
 "Gunther, Charles Frederick, 1837-1920",former owner,,,human,Charles F. Gunther,Q5077520
 Guyart des Moulins,author,,,human,Guyart des Moulins,Q3122335
-"Guyon de Sardiere, Jean-Baptiste Denis, 1674-1759",former owner,,,human,Jean-Baptiste Denis Guyon de Sardière,Q112873664
 Gwenllian,author,,,human,Gwenllian,Q120442563
 "Gwenllian, daughter of Howel Vaughan",author,,,human,"Vaughan, Gwenllian",Q114242550
 H.P. Kraus (Firm),former owner,,,organization,H. P. Kraus (firm),Q113864096
-"Hackenmayrin, Barbara",former owner,,,human,Barbara Hackenmayrin,Q122873467
 "Ḥāfiẓ, active 14th century",author,,,human,Hafez,Q6240
 "Ḥāfiẓ al-Qurʼan, Aḥmad",scribe,حافظ القرأن، احمد,,human,Aḥmad Ḥāfiẓ al-Qurʼan,Q113866282
 "Ḥafiz al-Shirāzī, Maḥmūd ibn Rajab ibn ʻUmar",scribe,حافظ الشرازي، محمود بن رجب بن عمر,,human,Maḥmūd ibn Rajab ibn ʻUmar Ḥafiz al-Shirāzī,Q116379337
@@ -1963,8 +1843,6 @@ Haimo of Auxerre d. ca. 855.,author,,,human,Haimo of Auxerre,Q2934990
 "Ḥanāshī, Ibrāhīm ibn Aḥmad",scribe,,,human,Ibrāhīm ibn Aḥmad Ḥanāshī,Q116419063
 Hannibaldus de Hannibaldis,author,,,human,Annibale Annibaldi,Q581671
 "Hans Wertinger, also called Hans Schwab von Wertinger (1465/70–1533), of Landshut, or his workshop",artist,,,human,Hans Wertinger,Q3127027
-"Harford, Charles Joseph",former owner,,,human,Charles Joseph Harford,Q75513343
-"Harford, Frederick Kill, 1832-1906",former owner,,,human,Frederick Kill Harford,Q54364085
 "Harkness, Edward Stephen, 1874-1940",former owner,,,human,Edward Harkness,Q5343311
 "Harmenopoulos, Kōnstantinos d. 1380?",author,,,human,Konstantinos Harmenopoulos,Q769438
 "Harmsworth, R. Leicester (Robert Leicester), Sir, 1870-1937",former owner,,,human,Leicester Harmsworth,Q6519187
@@ -1973,13 +1851,11 @@ Hannibaldus de Hannibaldis,author,,,human,Annibale Annibaldi,Q581671
 "Harshberger, John W. 1869-1929",former owner,,http://id.loc.gov/authorities/names/n88651841,human,John William Harshberger,Q1570981
 "Harshberger, John W. 1869-1929",former owner,,,human,John William Harshberger,Q1570981
 "Hart, Gerald E. (Gerald Ephraim), 1849-1936, Montreal",former owner,,,human,Gerald Ephraim Hart,Q113864115
-"Hartung, T.L.",former owner,,,human,T.L. Hartung,Q122873468
 "Hātifī, -1520 or 1521",author,هاتفى، -1520 يا 1521,http://id.loc.gov/authorities/names/nr89008954,human,Hatefi,Q2820926
 "Hātifī, -1520 or 1521",author,,,human,Hatefi,Q2820926
 "Hauck, Cornelius J. 1893-1967",former owner,,http://id.loc.gov/authorities/names/no2008124557,human,Cornelius John Hauck,Q116378285
 "Hauck, Cornelius J. 1893-1967",former owner,,,human,Cornelius John Hauck,Q116378285
 "Haussmann, Carl Frederick, 1871-",former owner,,,human,Carl Frederick Haussmann,Q113864144
-"Hawkins, Rush C",former owner,,,human,Rush Hawkins,Q7380701
 "Hawzālī, Muḥammad ibn ʻAlī, -1748 or 1749",author,هوزالي، محمد بن علي، 1748 أو 1749,,human,Mohammed Awzal,Q592255
 "Haymo of Auxerre, possible author",other,,,human,Haimo of Auxerre,Q2934990
 Haymo of Halberstadt,author,,,human,Haymo of Halberstadt,Q472833
@@ -2008,7 +1884,6 @@ Henricus Kalkar,author,,,human,Henry of Kalkar,Q85894
 Henricus Suso,author,,,human,Henry Suso,Q303435
 "Henry, of Ghent, 1217?-1293.",associated name,,,human,Henry of Ghent,Q707637
 "Henry, Prince of Wales (1594-1612); Thomas Watson (1720-79), S. J.;Thomas Pennant (1726-98); by inheritance to Rudolph (1823-92), Earl of Denbigh; Denbigh sale, Christie's, 4-7-1938, lot 12 to Stonehill; Edith Wetmore (1870-1966); in 1955 to Prov.Pub.Lib.",former owner,,,human;human;human;human;human,"Edith Wetmore;Henry Frederick, Prince of Wales;Thomas Watson;Thomas Pennant;Rudolph Feilding, 8th Earl of Denbigh",Q65166159;Q82631;Q116751654;Q545123;Q7377411
-"Henry, R.",former owner,,,human,René Henry,Q21515721
 Henry Bohic,author,,,human,Henri Bohic,Q3130702
 Henry Bracton,author,,,human,Henry de Bracton,Q1197107
 Henry Hakesalt,author,,,human,Henry Hakesalt,Q113864323
@@ -2026,7 +1901,6 @@ Henry VI of England,author,,,human,Henry VI of England,Q160337
 "Henry Walton Lawrence; his sale, Sotheby’s, 15 December 1892, lot 235, to Robson; C. L. Ricketts, bought from Robson, cat. 96 (1915), no. 219; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Edwin Henry Lawrence;Coella Lindsay Ricketts,Q116786361;Q116771179
 "Henry Willett (1823-1905); his sale, Sotheby’s, 5 July 1905, lot 15, to E. Parsons; Parsons cat. 261 (1907), no. 455; C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;organization;human,Henry Willett;Edwin Parsons & Sons;Coella Lindsay Ricketts,Q60797951;Q111399316;Q116771179
 "Henry Yates Thompson (1838-1928), bought from Quaritch, 14 March 1895, with his bookplate, his no. 29; his sale, Sotheby’s, 23 March 1920, lot 43, to Tregaskis (his cat. 850, 1922, no. 17, and cat. 871, 1923, no. 15); C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human;human,Henry Yates Thompson;James Tregaskis;Coella Lindsay Ricketts,Q2044609;Q94138739;Q116771179
-Henry Young & Sons,former owner,,,human,Henry Young and Sons,Q120869253
 Herbert d'Auxerre,author,,,human,Erberto d'Auxerre,Q3145021
 "Herbertus, Altissiodorensis, -approximately 1252.",author,,,human,Altissiodorensis Herbertus,Q120442564
 "Herman C. Hoskier of South Orange NJ (1864-1938), a biblical scholar who purchased it in Macedonia (possibly from the Czech scholar Vladimir Sis, specialized in Macedonian studies, who may have made the note in the upper margin of f. 1, Č29, using a letter of the Czech alphabet) and presented it to General Theological Seminary in 1922.",former owner,,,human,Herman C. Hoskier,Q5739603
@@ -2038,7 +1912,6 @@ Herodianus,author,,,human,Herodian,Q313056
 "Heron, Robert.",author,,,human,Robert Heron,Q3435386
 Hero of Alexandria,author,,,human,Hero of Alexandria,Q161853
 "Herschel V. Jones collection, Minneapolis; his sale (New York, 23 January 1923, n. 124) to J. F. Drake; bequeathed to the Grolier Club by Beverly Chew.",former owner,,,human;organization;human,"Herschel V. Jones;James F. Drake, Inc.;Beverly Chew",Q15485383;Q116626309;Q116598881
-"Hertzberger, Menno",former owner,,,human,Menno Hertzberger,Q3213022
 Hesiod,author,,,human,Hesiod,Q44233
 Hesiod.,author,,,human,Hesiod,Q44233
 "Hessus, Helius Eobanus, 1488-1540.",associated name,,,human,Helius Eobanus Hessus,Q532384
@@ -2071,8 +1944,6 @@ Hippocrates.,author,,,human,Hippocrates,Q5264
 "his sale, Sotheby’s, 5 December 1906, lot 504; Maggs cat. 246 (1909), no. 820; Sotheby’s, 21 July 1913, lot 1077; Maggs cat. 380 (1919), no. 1699, and cat. 542 (1930), no. 46; Edward Duff Balken, of Pittsburg, PA, with his bookplate; George A. Poole (bought from H. P. Kraus, cat. 75, 1955, no. 5), and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,human;human,Edward Duff Balken;George Amos Poole,Q112300686;Q64683625
 "his sale, Sotheby’s, 7 June 1876, lot 221, to Ellis; Col. Eustace Balfour (1854-1911, younger brother of Lord Balfour, prime minister 1902-05); sale at Sotheby’s, 28 July 1919, lot 99a; C. L. Ricketts, bought from Voynich in 1921; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human;human,Eustace Balfour;Wilfrid Voynich;Coella Lindsay Ricketts,Q17308766;Q336453;Q116771179
 "Hoccleve, Thomas 1370?-1450?",author,,,human,Thomas Hoccleve,Q1227741
-"Hodgkin, John Eliot",former owner,,,human,John Eliot Hodgkin,Q53358299
-Hodgson and Co.,former owner,,,organization,Hodgson & Co.,Q24203977
 "Hodossy, Imre",former owner,,,human,Imre Hodossy,Q73712054
 "Hodson, Laurence W., 1864-1933",former owner,,http://id.loc.gov/authorities/names/no2017159255,human,Laurence William Hodson,Q116378155
 "Hodson, Laurence W., 1864-1933",former owner,,,human,Laurence William Hodson,Q116378155
@@ -2093,7 +1964,6 @@ Honorius Augustodunensis,author,,,human,Honorius Augustodunensis,Q543586
 Honorius III,author,,,human,Honorius III,Q160182
 Honorius of Autun ca. 1080-ca. 1156.,author,,,human,Honorius Augustodunensis,Q543586
 "Hooker, Richard",former owner,,,human,Richard Hooker,Q443783
-"Hooper, William Harcourt, 1834-1912",former owner,,,human,William Harcourt Hooper,Q18394933
 Horace,author,,,human,Horace,Q6197
 Horace,author,,http://id.loc.gov/authorities/names/n79081354.html,human,Horace,Q6197
 Horace,author,,https://viaf.org/viaf/100227522/,human,Horace,Q6197
@@ -2102,14 +1972,12 @@ Horace (Quintus Horatius Flaccus),author,,,human,Horace,Q6197
 "Horatius Bosner, D. D.",former owner,,,human,D. D. Horatius Bosner,Q114242459
 "Horblit, Harrison D",former owner,,http://id.loc.gov/authorities/names/n83159551,human,Harrison Horblit,Q18206500
 "Horblit, Harrison D",former owner,,,human,Harrison Horblit,Q18206500
-"Horwood, A.J.",former owner,,,human,Alfred J. Horwood,Q122873469
 "Horwood, Alfred J. (Alfred John), 1821-1881",former owner,,,human,Alfred John Horwood,Q59630457
 Hostiensis (Henricus de Segusia),author,,,human,Henry of Segusio,Q1347275
 "Howard, Peter B.",former owner,,,human,Peter B. Howard,Q120442567
 Hrabanus Maurus,author,,,human,Rabanus Maurus,Q160441
 Hubert de Burgh,author,,,human,"Hubert de Burgh, 1st Earl of Kent",Q1381324
 "Hugh, of Balma, active 13th century.",author,,,human,Hugh of Balma,Q15090859
-"Hugh, of Fouilloy",author,,http://id.loc.gov/authorities/names/n90695188.html,human,Hugh of Fouilloy,Q5631
 "Hugh, of Saint-Cher, Cardinal, approximately 1200-1263",author,,http://id.loc.gov/authorities/names/n86113661.html,human,Hugh of Saint-Cher,Q1365254
 "Hugh, of Saint-Cher, Cardinal, approximately 1200-1263",author,,,human,Hugh of Saint-Cher,Q1365254
 "Hugh, of Saint-Cher, Cardinal, approximately 1200-1263.",associated name,,,human,Hugh of Saint-Cher,Q1365254
@@ -2141,16 +2009,13 @@ Hugo Ripelin,author,,,human,Hugh Ripelin of Strasburg,Q1635599
 "Humbert, de Romans, 1194?-1277.",associated name,,,human,Humbert of Romans,Q2623954
 Humbert of Romans,author,,,human,Humbert of Romans,Q2623954
 "Humbert of Romans, commentator",other,,,human,Humbert of Romans,Q2623954
-Hurault de Chivernay,former owner,,,human,Philippe Hurault de Cheverny,Q3380037
 "Hurleston, Charles",former owner,,,human,"Hurleston, Charles",Q116172294
-"Hurst, J. F. (John Fletcher), 1834-1903",former owner,,,human,John Fletcher Hurst,Q6233452
 "Hurtado de Mendoza, Diego, 1503-1575",author,,http://id.loc.gov/authorities/names/n86116431,human,Diego Hurtado de Mendoza,Q2297287
 "Hurtado de Mendoza, Diego, 1503-1575",author,,,human,Diego Hurtado de Mendoza,Q2297287
 "Ḥusaynī, Ibrāhīm, active 15th century",author,حسيني، ابراهيم، active 15th century,,human,Ibrāhīm al-Ḥusaynī,Q116418786
 "Ḥusaynī, Ibrāhīm, active 15th century",author,,,human,Ibrāhīm al-Ḥusaynī,Q116418786
 "Ḥusaynī, Muḥammad, active 14th century-15th century",author,حسيني، محمد، active 14th century-15th century,http://id.loc.gov/authorities/names/no2012003644,human,Muḥammad Ḥusaynī,Q116378848
 "Ḥusaynī, Muḥammad, active 14th century-15th century",author,,,human,Muḥammad Ḥusaynī,Q116378848
-"Huth, Henry",former owner,,,human,Henry Huth,Q15438897
 "Huzard, J.-B. 1755-1838",former owner,,http://id.loc.gov/authorities/names/n88255469,human,Jean-Baptiste Huzard,Q3164161
 "Huzard, J.-B. 1755-1838",former owner,,,human,Jean-Baptiste Huzard,Q3164161
 I. Sonne,author,,,human,Isaiah Sonne,Q57418943
@@ -2203,7 +2068,6 @@ Iceland,author,,,organization,Iceland,Q189
 Ignatios the Deacon,author,,,human,Ignatios the Deacon,Q3148188
 Ildibrandinus,author,,,human,Ildibrandinus,Q116417464
 "Illuminated for Marie d’Avaugour, duchesse de Montbazon (1610-1657), daughter of Claude d’Avaugour, comte de Vertus, and wife of Hercule de Rohan, duc de Montbazon (1568-1654), governor of Paris, with their arms on the title and elsewhere;",former owner,,,human;human,"Marie de Bretagne d’Avaugour;Hercule de Rohan, Duke of Montbazon",Q1152648;Q673298
-"Illuminator, Master of the Vitae Imperatorum, active 1402-1459",artist,,,human,Meister der Vitae Imperatorum,Q1673214
 "Ilyās ibn Khamzah ʻAlī Niyat ʻAlī ibn Khamzah, active 1484",scribe,"الياس بن خمزه علي نيت علي بن خمزه, d",,human,Ilyās ibn Khamzah ʻAlī Niyat ʻAlī ibn Khamzah,Q116417213
 "Ilyās ibn Khamzah ʻAlī Niyat ʻAlī ibn Khamzah, active 1484",scribe,,,human,Ilyās ibn Khamzah ʻAlī Niyat ʻAlī ibn Khamzah,Q116417213
 Immanuel ben Jacob Bonfils,author,,,human,Immanuel Bonfils,Q354517
@@ -2261,10 +2125,6 @@ Isidorius,author,,,human,Isidore of Pelusium,Q713530
 Ivo of Chartres,author,,,human,Ivo of Chartres,Q124775
 Ivo of Chartres (Ivo Carnotensis),author,,,human,Ivo of Chartres,Q124775
 J. & J. Leighton,former owner,,,organization,J. & J. Leighton,Q113850145
-J. and J. Leighton,former owner,,,human,J. & J. Leighton,Q113850145
-J.B. Cartier [or Courtier?],former owner,,,human,J.B. Cartier,Q122873473
-J. de Charron de Liancourt,former owner,,,human,J. de Charron de Liancourt,Q122873472
-J. Marstili,former owner,,,human,J. Marstili,Q122873471
 J. Palmer,former owner,,,human,J. Palmer,Q114242514
 J. Paul Getty Museum,former owner,,http://id.loc.gov/authorities/names/n79046211,organization,J. Paul Getty Museum,Q731126
 J. Paul Getty Museum,former owner,,,organization,J. Paul Getty Museum,Q731126
@@ -2273,7 +2133,6 @@ J. Paul Getty Museum,former owner,,,organization,J. Paul Getty Museum,Q731126
 "Jābir ibn Aflah, Abū Muhammad, 12th cent",author,,,human,Jabir ibn Aflah,Q288111
 Jābir Ibn Ḥayyān,author,,,human,Jabir ibn Hayyan,Q167852
 Jachopo di Domenicho vinattiere de' Seghalorzi di Firenze,scribe,,,human,Jacopo di Domenicho,Q117448349
-"Jackson, Johan C.",former owner,,,human,Johan C. Jackson,Q122873474
 "Jackson, John C",former owner,,http://id.loc.gov/authorities/names/n77019920,human,John C. Jackson,Q111734155
 "Jackson, John C",former owner,,,human,John C. Jackson,Q111734155
 "Jacob ben Asher, approximately 1269-approximately 1340",author,,http://id.loc.gov/authorities/names/n82247752,human,Jacob ben Asher,Q1376849
@@ -2296,7 +2155,6 @@ Jacobus de Voragine ca. 1229-1298.,author,,,human,Jacobus de Voragine,Q313460
 Jacobus filius condam Adriani de Abbacia policini,scribe,,,human,Jacobus de Adriani,Q117448374
 Jacobus Mediolanensis,author,,,human,Jacobus de Mediolano,Q41569767
 Jacobus Mediolanensis active 13th century.,author,,,human,Jacobus de Cappellis,Q113784131
-"Jacobus Philippus, Bergomensis, 1434-1520",author,,https://viaf.org/viaf/59178285,human,Giacomo Filippo Foresti,Q3805875
 "Jacomo Veronese, active approximately 1400",author,,,human,Jacomo Veronese,Q120442569
 Jacopo Antonio Marta (Giacomo Antonio Marta),author,,,human,Giacomo Antonio Marta,Q55849871
 "Jacopone, da Todi, 1230-1306.",associated name,,,human,Jacopone da Todi,Q317267
@@ -2304,7 +2162,6 @@ Jacopone da Todi,author,,,human,Jacopone da Todi,Q317267
 Jacopone da Todi?,author,,,human,Jacopone da Todi,Q317267
 Jacopone da Todi 1230-1306.,author,,,human,Jacopone da Todi,Q317267
 Jacopo Sanguinacci,author,,,human,Jacopo Sanguinacci,Q41618032
-"Jacques, de Vitry, approximately 1170-1240",author,,http://id.loc.gov/authorities/names/n85035238.html,human,Jacques de Vitry,Q654608
 Jacques de Cessoles,author,,,human,Jacobus de Cessolis,Q969459
 Jacques de Longuyon,author,,,human,Jacques de Longuyon,Q3160305
 Jacques de Longuyon fl. 1290-1312.,author,,,human,Jacques de Longuyon,Q3160305
@@ -2331,7 +2188,6 @@ Jan de Keyser,author,,,human,Jan de Keyser,Q29935006
 János Zsámboki 1531-1584,author,,,human,János Zsámboki,Q96238920
 Jans Enikel,author,,,human,Jans der Enikel,Q689252
 "Jansen op de Haar, G.A",former owner,,,human,Arnold Jansen op de Haar,Q2216274
-"Jarman, John Boykett, 1782-1864",former owner,,,human,John Boykett Jarman,Q94297523
 "Jarsey, John",former owner,,,human,John Jarsey,Q114242448
 "Jastrow, Marcus, 1829-1903",former owner,,,human,Marcus Jastrow,Q556073
 "Jastrow, Morris, Jr., 1861-1921",former owner,,http://id.loc.gov/authorities/names/n50037841,human,"Morris Jastrow, Jr.",Q635773
@@ -2341,7 +2197,6 @@ Jans Enikel,author,,,human,Jans der Enikel,Q689252
 "Jazūlī, Muḥammad ibn Sulaymān, 1404-1465",author,جزولي، محمد بن سليمان، -1465,,human,Muhammad al-Jazuli,Q1775944
 "Jazūlī, Muḥammad ibn Sulaymān, -1465",author,جزولي، محمد بن سليمان، -1465,,human,Muhammad al-Jazuli,Q1775944
 "Jean-Baptiste Joseph Barrois, of Lille (1784-1855), his 297 (green label on spine); the collection bought in 1849 by Bertram, fourth earl of Ashburnham (1797-1878); the fifth earl’s sale, Sotheby’s, 10 June 1901, lot 33;",former owner,,,human;human;human,"Joseph Barrois;Bertram Ashburnham, 4th Earl of Ashburnham;Bertram Ashburnham, 5th Earl of Ashburnham",Q97783947;Q21855104;Q19894272
-"Jean Bourdichon, follower of",artist,,,human,Follower of Jean Bourdichon,Q122873475
 Jean Bourdichon?,artist,,,human,Jean Bourdichon,Q348333
 Jean Calvin,author,,,human,John Calvin,Q37577
 Jean de Blois,author,,,human,John I of Blois-Châtillon,Q2478500
@@ -2356,7 +2211,6 @@ Jean Gerson,author,,,human,Jean Gerson,Q281179
 Jean Gerson?,author,,,human,Jean Gerson,Q281179
 Jean Gerson (Johannes Gerson),author,,,human,Jean Gerson,Q281179
 Jean Gerson 1363-1429,author,,,human,Jean Gerson,Q281179
-Jean III of Acigné and Cordemai,former owner,,,human,Jean III of Acigné and Cordemai,Q122873476
 Jean Mansel,author,,,human,Jean Mansel,Q16645535
 Jean Passerat,author,,,human,Jean Passerat,Q1394699
 Jehan de Wavrin,author,,,human,Jean de Wavrin,Q321881
@@ -2372,7 +2226,6 @@ Jesuits,author,,,organization,Society of Jesus,Q36380
 "Jews' College (London, England)",former owner,,http://id.loc.gov/authorities/names/n50043083,organization,London School of Jewish Studies,Q6670742
 "Jews' College (London, England)",former owner,,,organization,London School of Jewish Studies,Q6670742
 "Jighmīnī, Maḥmūd ibn Muḥammad, -1221",author,"جغميني، محمود بن محمد, -1221",,human,Jaghmini,Q4060361
-"Joachim, Baron von Windhag",former owner,,,human,"Joachim, Baron von Windhag",Q122873477
 Joachim of Fiore,author,,,human,Joachim of Fiore,Q199991
 Joachim of Fiore ca. 1132-1202.,author,,,human,Joachim of Fiore,Q199991
 "Joachinus de Gigantibus, possibly",artist,,,human,Gioacchino di Giovanni,Q20830652
@@ -2401,7 +2254,6 @@ Johannes Caldrini,author,,,human,Giovanni Calderini,Q17279931
 Johannes Cassianus,author,,,human,John Cassian,Q313795
 Johannes de Abbatisvilla,author,,,human,John Halgren of Abbeville,Q3129519
 Johannes de Caulibus 14th cent.,author,,,human,Johannes de Caulibus,Q21548469
-"Johannes de Helb, vicar of Ebern",former owner,,,human,Johannes de Helb,Q122873478
 Johannes de Hildesheim,author,,,human,John of Hildesheim,Q91136
 Johannes de Imola,author,,,human,Johannes de Imola,Q6217095
 Johannes de Lapide,author,,,human,Johann Heynlin,Q326684
@@ -2415,7 +2267,6 @@ Johannes Duns Scotus,author,,,human,Duns Scotus,Q190089
 Johannes Gerson,author,,,human,Jean Gerson,Q281179
 Johannes Gobi,author,,,human,Jean Gobi,Q112370992
 Johannes Grassus,author,,,human,Giovanni Grassi,Q41569872
-Johannes Grusch Atelier,artist,,,organization,Johannes Grusch Atelier,Q122873661
 Johannes Hagen,author,,,human,Johannes Hagen,Q19687584
 Johannes Halgrinus de Abbatisvilla,author,,,human,John Halgren of Abbeville,Q3129519
 Johannes Herolt,author,,,human,Johann Herolt,Q1697670
@@ -2434,10 +2285,8 @@ Johann Neudorffer,author,,,human,Johann Neudörffer the Elder,Q1695681
 Johann Plaecsaert,artist,,,human,Iohannes de Platea,Q41617580
 Johann Reger,author,,,human,Johann Reger,Q18223621
 "Johanutti, Angelus, de Montegranario",scribe,,,human,Angelus Johanutti de Montegranario,Q116419108
-Johem Spiess,former owner,,,human,Johem Spiess,Q122873479
 John,author,,,human,John the Evangelist,Q328804
 "John, Climacus, Saint, active 6th century.",associated name,,,human,John Climacus,Q317072
-"John, de Seccheville, active 13th century",author,,http://viaf.org/viaf/230874916,human,John de Seccheville,Q18671712
 "John Boykett Jarman (d. 1864, aged 82); his sale, Sotheby’s, 13 June 1864, lot 78; Cecil Dunn Gardner; his sale, Sotheby’s, 21 June 1880, lot 823, to Ellis; William H. Crawford (1812-1888), of Lakelands, Blackrock, Cork, with his bookplate;",former owner,,,human;human;human,John Boykett Jarman;Cecil Dunn Gardner;William Horatio Crawford,Q94297523;Q64337080;Q84471454
 "John Boykett Jarman (d. 1864, aged 82); his sale, Sotheby’s, 13 June 1864, lot 78; Cecil Dunn Gardner; his sale, Sotheby’s, 21 June 1880, lot 823, to Ellis; William H. Crawford (1812-1888), of Lakelands, Blackrock, Cork, with his bookplate; his sale, Sotheby’s, 12 March 1891, lot 1666;",former owner,,,human;human;human,John Boykett Jarman;Cecil Dunn Gardner;William Horatio Crawford,Q94297523;Q64337080;Q84471454
 John Capgrave,author,,,human,John Capgrave,Q1357237
@@ -2458,7 +2307,6 @@ John Hardyng,author,,,human,John Hardyng,Q6237760
 John Haykyn,other,,,human,John Haykyn,Q117324129
 "John Henry Nash. Previous call numbers MAR 12, 2MS BV247 K8.",former owner,,,human,John Henry Nash,Q47458947
 John Hus?,author,,,human,Jan Hus,Q43977
-"John III, King of Portugal, 1502-1557",former owner,,,human,John III of Portugal,Q216789
 John III Ghistelles,other,,,human,"John III, Lord of Ghistelles and Ingelmunster",Q117352015
 John Lydgate,author,,,human,John Lydgate,Q662063
 John Mandeville,author,,,human,John Mandeville,Q24766
@@ -2492,12 +2340,10 @@ John Wycliffe,author,,,human,John Wycliffe,Q173893
 "John XXI, Pope, -1277",author,,http://id.loc.gov/authorities/names/n86820241,human,John XXI,Q172916
 "John XXI, Pope, -1277",author,,,human,John XXI,Q172916
 John XXII,author,,,human,John XXII,Q165568
-"John XXII, Pope, -1334",author,,https://viaf.org/viaf/264354184,human,John XXII,Q165568
 John XXII Pope d. 1334.,author,,,human,John XXII,Q165568
 "Jones, Thomon Simon",former owner,,,human,Thomon Simon Jones,Q116447015
 "Jones, W. 1675-1749",former owner,,http://id.loc.gov/authorities/names/n86823433,human,William Jones,Q371877
 "Jones, W. 1675-1749",former owner,,,human,William Jones,Q371877
-"Jordan, von Quedlinburg, approximately 1299-1380",author,,http://viaf.org/viaf/84971788,human,Jordan von Quedlinburg,Q1703666
 Jordanus de Nemore,author,,,human,Jordanus de Nemore,Q1232954
 Jordanus Nemorarius,author,,,human,Jordanus de Nemore,Q1232954
 Jordanus of Osnabrück,author,,,human,Jordan of Osnabrück,Q820981
@@ -2535,7 +2381,6 @@ Justinian,author,,,human,Justinian I,Q41866
 "Justinian (Emperor, r. 527-565 A.D.)",author,,,human,Justinian I,Q41866
 Justinian (Justinianus),author,,,human,Justinian I,Q41866
 Justinian I,author,,,human,Justinian I,Q41866
-"Justinian I, Emperor of the East, 483?-565",author,,http://viaf.org/viaf/88881722,human,Justinian I,Q41866
 Justinus,author,,,human,Justin,Q25420924
 "Justinus, Marcus Junianus.",author,,,human,Justin,Q210853
 "Justinus, son of Master Stephen of the city of Teano",scribe,,,human,Justinus of Master Stephanus,Q117352045
@@ -2545,7 +2390,6 @@ Juvenal,author,,,human,Juvenal,Q193800
 Juvenal.,author,,,human,Juvenal,Q193800
 "Kafʻamī, Ibrāhīm ibn ʻAlī, 1436 or 1437-1499 or 1500",author,كفعمي، ابراهيم بن علي، 1436 or 1437-1499 or 1500,,human,Ibrāhīm ibn ʻAlī Kafʻamī,Q12181714
 Karl & Faber,former owner,,,organization,Karl & Faber Kunstauktionen,Q53596640
-Karl W. Hiersemann (Firm),former owner,,,human,Karl Wilhelm Hiersemann,Q1473427
 "Kartause Sankt Barbara (Cologne, Allemagne)",former owner,,,organization,Cologne Charterhouse,Q291014
 "Kāshānī, Yaḥyá ibn Aḥmad, active 14th century",author,كاشاني، يحيى بن احمد، active 14th century,http://id.loc.gov/authorities/names/n2017034608,human,Yaḥyá ibn Aḥmad Kāshānī,Q116419307
 "Kāshānī, Yaḥyá ibn Aḥmad, active 14th century",author,,,human,Yaḥyá ibn Aḥmad Kāshānī,Q116419307
@@ -2574,13 +2418,11 @@ Kenneth A. Lohf (1925-2002).,former owner,,,human,Kenneth A. Lohf,Q110041097
 "Kloss, Georg",former owner,,,human,Georg Kloss,Q214047
 "Kloss, Georg Franz Burkhard, 1787-1854",former owner,,http://id.loc.gov/authorities/names/n93038985,human,Georg Kloss,Q214047
 "Kloss, Georg Franz Burkhard, 1787-1854",former owner,,,human,Georg Kloss,Q214047
-Kloster Kuringen,former owner,,,human,Kloster Kuringen,Q122873482
 Kölner Kartause,former owner,,,organization,Cologne Charterhouse,Q291014
 Konrad Kyeser,author,,,human,Konrad Kyeser,Q77543
 "Konrad von Brundelsheim or ""Soccus""",author,,,human,Konrad von Brundelsheim,Q96358542
 "Kothen, Charles, 1814-1880",former owner,,,human,Charles Kothen,Q116452817
 "Kraus, Hans Peter, 1907-1988",former owner,,,human,Hans P. Kraus,Q85506
-"Krauth, Charles P. (Charles Porterfield), 1823-1883",former owner,,,human,Charles Porterfield Krauth,Q5081716
 "Krumbhaar, E. B. 1882-1966",former owner,,http://id.loc.gov/authorities/names/n83825912,human,E.B. Krumbhaar,Q93241098
 "Krumbhaar, E. B. 1882-1966",former owner,,,human,E.B. Krumbhaar,Q93241098
 "Kuppferberg, Johannes de",scribe,,,human,Johannes de Kuppferberg,Q114242462
@@ -2588,16 +2430,12 @@ Konrad Kyeser,author,,,human,Konrad Kyeser,Q77543
 "L., K",former owner,,,organization,K-L,Q5492826
 "Labbey-de-Billy, Nicolas-Antoine, 1753-1825",former owner,,http://id.loc.gov/authorities/names/no2011112789,human,Nicolas Antoine Labbey de Billy,Q60840320
 "Labbey-de-Billy, Nicolas-Antoine, 1753-1825",former owner,,,human,Nicolas Antoine Labbey de Billy,Q60840320
-"Labitte, Alphonse",former owner,,,human,Alphonse Labitte,Q114242418
 "Labitte, Alphonse, 1853-",former owner,,,human,Alphonse Labitte,Q114242418
 Lactantius,author,,,human,Lactantius,Q209102
 "Lactantius, approximately 240-approximately 320.",author,,,human,Lactantius,Q209102
 Lactantius ca. 240-ca. 320.,author,,,human,Lactantius,Q209102
-"Lady Margaret Ayloffe, 1704?-1797",former owner,,,human,Lady Margaret Ayloffe,Q122873483
 "Lafferde, Henricus",former owner,,,human,Henricus Lafferde,Q114242463
-"Lagnier, Antoine",former owner,,,human,Antoine Lagnier,Q122873484
 "Lake, Carlton",former owner,,,human,Carlton Lake,Q19277169
-"Lallemant, Jean, -1548",former owner,,,human,Jean Lallemant,Q120898626
 "Lambert, Frederick Arthur Heygate, 1857-1929",former owner,,,human,Frederick Arthur Heygate Lambert,Q116452905
 "Lamberto, Pietro, Bishop of Caserta",author,,,human,Pietro Lamberti,Q64777442
 "Lampridio, Benedetto.",author,,,human,Benito Lampridio,Q6395546
@@ -2614,7 +2452,6 @@ Landolfus Sagax,author,,,human,Landolfus Sagax,Q1541662
 "La Serna Santander, Carlos Antonio de, 1752-1813",former owner,,,human,Antonio Laserna,Q2410483
 "Lasso, Orlando di 1532-1594.",author,,,human,Orlande de Lassus,Q154792
 Lathcen,author,,,human,Laidcenn mac Buith Bannaig,Q6473761
-Laurence Witten (Firm),former owner,,,human,Laurence Claiborne Witten II,Q6500535
 "Laurent, d'Orléans, active 1279",author,,http://id.loc.gov/authorities/names/n87872047,human,Laurent d'Orleans,Q85418306
 "Laurent, d'Orléans, active 1279",author,,,human,Laurent d'Orleans,Q85418306
 Laurent Frère.,author,,,human,Laurent d'Orleans,Q85418306
@@ -2625,11 +2462,8 @@ Laurentius Puldericus,author,,,human,Laurentius Puldericus,Q41616665
 "Laurie, James",former owner,,http://id.loc.gov/authorities/names/n92065694,human,James Laurie,Q116181679
 "Laurie, James",former owner,,,human,James Laurie,Q116181679
 Lauro Quirini,author,,,human,Lauro Quirini,Q56189803
-"La Vacherie, Pierre de",former owner,,,human,Pierre de La Vacherie,Q121133874
-"La Vallière, Louis César de la Baume Le Blanc, duc de, 1708-1780",former owner,,,human,Louis César de La Baume Le Blanc,Q1158739
 "La Vallière, Louis César de LaBaume LeBlanc de, 1708-1780",former owner,,http://id.loc.gov/authorities/names/n94101565,human,Louis César de La Baume Le Blanc,Q1158739
 "La Vallière, Louis César de LaBaume LeBlanc de, 1708-1780",former owner,,,human,Louis César de La Baume Le Blanc,Q1158739
-"Lawrence, Edwin H.",former owner,,,human,Edwin H. Lawrence,Q122873485
 Lawrence Justinian Saint 1381-1456.,author,,,human,Lawrence Giustiniani,Q203814
 Lawrence of Durham,author,,,human,Lawrence of Durham,Q1808208
 "Lazarelli, Ludovico.",author,,,human,Lodovico Lazzarelli,Q683317
@@ -2637,7 +2471,6 @@ Lawrence of Durham,author,,,human,Lawrence of Durham,Q1808208
 "Lea, Henry Charles, 1825-1909",former owner,,,human,Henry Charles Lea,Q325867
 "Leander van Ess; Sir Thomas Phillipps, his n. 589 (from ""591"" as first inscribed on the pastedown). On f. i, bookseller slip of the firm of Bull and Auvache, 34 & 35 Hart Street, Bloomsbury, W. C., London, Cat. 358 (October 1911).",former owner,,,human,Johann Heinrich van Ess,Q1810643
 "leaves (including those here) were lost by at least 1887; these leaves bought by C. L. Ricketts in Paris from Lemallier, 1907, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human,Coella Lindsay Ricketts,Q116771179
-Leber Group,artist,,,organization,Leber Group,Q122873662
 "Leconfield, Henry Wyndham, Baron, 1830-1901",former owner,,http://id.loc.gov/authorities/names/nb2009018042,human,"Henry Wyndham, 2nd Baron Leconfield",Q5730572
 "Leconfield, Henry Wyndham, Baron, 1830-1901",former owner,,,human,"Henry Wyndham, 2nd Baron Leconfield",Q5730572
 "Lee, John, 1783-1866",former owner,,http://id.loc.gov/authorities/names/n81071656,human,John Lee,Q6244369
@@ -2646,15 +2479,11 @@ Leber Group,artist,,,organization,Leber Group,Q122873662
 "Lee, William",author,,,human,William Lee,Q116447028
 "Leeche, John, 14th century",former owner,,,human,John Leeche,Q114242515
 "Lefèvre, Raoul fl. 1460.",author,,,human,Raoul Lefèvre,Q7293752
-Legoué,former owner,,,human,Legoué,Q122873488
 "Legrand, Jacques, approximately 1365-1415.",author,,,human,Jacques Legrand,Q56320064
 "Legrand, Jacques ca. 1365-1415.",author,,,human,Jacques Legrand,Q56320064
 Lehn of Denmark,former owner,,,human,Lehn of Denmark,Q114242516
-Leighton,former owner,,,human,George F. Leighton,Q122873489
-"Leighton, George F.",former owner,,,human,George F. Leighton,Q122873489
 LeMare,former owner,,,human,LeMare,Q114242468
 "Lempereur, Jacques",author,,,human,Jacques Lempereur,Q116172313
-"Le Muet, Claude",former owner,,,human,Claude Le Muet,Q122873486
 "Lena, suor active 1500",scribe,,,human,Lena suor,Q120442572
 "Leo, Archipresbyter, active 10th century",author,,http://id.loc.gov/authorities/names/n50080602.html,human,Leo Archpriest,Q1818805
 Leo I,author,,,human,Leo I,Q43954
@@ -2666,7 +2495,6 @@ Leonardo Giustiniani,author,,,human,Leonardo Giustinian,Q3830374
 Leonardo Moro,author,,,human,Leonardo Moro,Q110246797
 "Leonardus, Frater, Abbot of the Holy Order of Mount Olivet",former owner,,,human,Frater Leonardus,Q114242517
 Leonardus Job,scribe,,,human,Leonardus Job,Q117352053
-Leonardus Martinotius,former owner,,,human,Leonardus Martinotius,Q122873490
 Leon Battista Alberti,author,,,human,Leon Battista Alberti,Q182046
 Leone Ebreo,author,,,human,Judah Leon Abravanel,Q467062
 "Leontius, bishop of Neapolis in Cyprus",author,,,human,Leontios of Neapolis,Q3298419
@@ -2677,26 +2505,20 @@ Leo X,author,,,human,Leo X,Q49237
 "Leo X, Pope, 1475-1521",author,,http://id.loc.gov/authorities/names/n50080601,human,Leo X,Q49237
 "Leo X, Pope, 1475-1521",author,,,human,Leo X,Q49237
 Lepelletier de Rosanbo,former owner,,,organization,Lepeletier de Rosanbo,Q114413768
-"Le Seigneur, Margaret",former owner,,,human,Margaret Le Seigneur,Q122873487
 "Lessi, P",artist,,,human,P. Lessi,Q116181757
 "Le Strange, Hamon, 1840-1918",former owner,,http://id.loc.gov/authorities/names/no2020122399,human,Hamon le Strange,Q19357033
 "Le Strange, Hamon, 1840-1918",former owner,,,human,Hamon le Strange,Q19357033
 "Lethe, Johannes",former owner,,,human,Johannes Lethe,Q114242518
 "Leutsch, Ernst von, 1808-1887",former owner,,http://id.loc.gov/authorities/names/nr97037151,human,Ernst Ludwig von Leutsch,Q74282
 "Leutsch, Ernst von, 1808-1887",former owner,,,human,Ernst Ludwig von Leutsch,Q74282
-"Levinson, Harry",former owner,,,human,Harry Levinson,Q5670578
 "Levinson, Harry A.",former owner,,,human,Harry Levinson,Q5670578
 "Lewis, Anne Baker",former owner,,,human,Anne Baker Lewis,Q114242421
-"Lewis, Anne Baker, 1868-1937",former owner,,,human,Anne Baker Lewis,Q114242421
 "Lewis, John Frederick",former owner,,,human,John Frederick Lewis,Q78163033
 "Lewis, John Frederick, 1860-1932",former owner,,http://id.loc.gov/authorities/names/nr92037490,human,John Frederick Lewis,Q78163033
 "Lewis, John Frederick, 1860-1932","former owner,",,,human,John Frederick Lewis,Q78163033
 Lewis Gould purchased from Galena Books from the Los Angeles Book Fair. Gift of Lewis Gould to the Nelson-Atkins Museum of Art in 2015 in his wife's memory.,former owner,,,human,Lewis L. Gould,Q112391468
-"Liberale, da Verona, approximately 1445-1529",artist,,,human,Liberale da Verona,Q1374872
 Librairie Tross,former owner,,,organization,Librairie Tross,Q114242602
-Library of the Dominicans of Paris,former owner,,,organization,Library of the Dominicans of Paris,Q122873663
 Libreria antiquaria Mediolanum,former owner,,,organization,Libreria antiquaria Mediolanum,Q120442751
-"Libri, Girolamo dai, 1474-1555",artist,,,human,Girolamo dai Libri,Q1440424
 "Libri, Guillaume, 1803-1869",former owner,,http://id.loc.gov/authorities/names/n91076026,human,Guglielmo Libri Carucci dalla Sommaja,Q1251586
 "Libri, Guillaume, 1803-1869",former owner,,,human,Guglielmo Libri Carucci dalla Sommaja,Q1251586
 "Lichtenberger, Johannes, active 15th century",author,,http://id.loc.gov/authorities/names/n91052263,human,Johannes Lichtenberger,Q1697953
@@ -2705,7 +2527,6 @@ Lienhart Flexel,author,,,human,Leonhard Flexel,Q55122984
 Lietbertus de Insulis,author,,,human,Lietbertus of Saint-Ruf,Q6544348
 "Limgourg and Rohan Master, in the style of",artist,,,human,Rohan Master,Q744415
 "Linda Ehrsam Voigts purchased from Bernard M. Rosenthal in 1975,and given by her in 2012 to the Karen Gould Collection of the Nelson Atkins Museum of Art.",former owner,,,human;human;human,Karen L. Gould;Bernard M. Rosenthal;Linda Ehrsam Voigts,Q6369801;Q94805275;Q66985346
-"Linterno, Marchese",former owner,,,human,Marchese Linterno,Q122873491
 "Lippi, Carlo",scribe,,,human,Carlo Lippi,Q116452921
 "Livermore, George, 1809-1865",former owner,,,human,George Livermore,Q16065893
 Livy,author,,,human,Titus Livius,Q2039
@@ -2715,15 +2536,12 @@ Livy (Titus Livius),author,,,human,Titus Livius,Q2039
 "Llull, Ramon, 1232?-1316",author,,http://id.loc.gov/authorities/names/n79142616,human,Ramon Llull,Q193660
 "Llull, Ramon, 1232?-1316",author,,,human,Ramon Llull,Q193660
 "Llull, Ramon 1232?-1316.",author,,,human,Ramon Llull,Q193660
-"Locker, Frederick",former owner,,,human,Frederick Locker-Lampson,Q5498292
 "Lockwood, Dean Putnam, 1883-",former owner,,http://id.loc.gov/authorities/names/n85801139,human,Dean Putnam Lockwood,Q112279956
 "Lockwood, Dean Putnam, 1883-",former owner,,,human,Dean Putnam Lockwood,Q112279956
 "Lombard, Peter Abp. of Armagh d. 1625.",author,,,human,Peter Lombard,Q7175510
 "Lomer, Petrus",scribe,,,human,Petrus Lomer,Q114242519
-"Londono, Juan de",former owner,,,human,Juan de Londono,Q122873492
 Lope de Vega,author,,,human,Lope de Vega,Q165257
 "López de Ayala, Pedro 1332-1407.",author,,,human,Pero López de Ayala,Q81678
-"Loredan, Leonardo, 1436-1521",author,,http://id.loc.gov/authorities/names/no2013091845.html,human,Leonardo Loredan,Q250210
 Lorenzo Campeggi 1474-1539,author,,,human,Lorenzo Campeggio,Q222941
 Lorenzo de' Medici,author,,,human,Lorenzo de' Medici,Q177854
 Lorenzo Grana,author,,,human,Lorenzo Grana,Q68904102
@@ -2746,7 +2564,6 @@ Lucan 39-65.,author,,,human,Lucan,Q188646
 Lucian,author,,,human,Lucian of Samosata,Q177847
 Lucian of Samosata.,author,,,human,Lucian of Samosata,Q177847
 Lucius Annaeus Seneca ca. 4 B.C.-65 A.D.,author,,,human,Seneca,Q2054
-Luçon Master,artist,,,human,Luçon Master,Q15967018
 Lucrezia Pio,other,,,human,Lucrezia Pio Sforza,Q117324182
 "Ludowic von Harthausen, later 19th century owner",other,,,human,Ludowic von Harthausen,Q117321264
 "Ludwig, Irene",former owner,,http://id.loc.gov/authorities/names/n83034178,human,Irene Ludwig,Q1672539
@@ -2772,7 +2589,6 @@ Lupus de Olmedo,author,,,human,Lope de Olmedo,Q55835391
 Lupus Servatus (Lupus Ferrariensis),author,,,human,Lupus Servatus,Q675928
 "Luscinius, Ottmar, 1487-1537",author,,http://id.loc.gov/authorities/names/no93016889,human,Ottmar Luscinius,Q97447
 "Luscinius, Ottmar, 1487-1537",author,,,human,Ottmar Luscinius,Q97447
-Lutheran Theological Seminary at Philadelphia,former owner,,,organization,Lutheran Theological Seminary at Philadelphia,Q6705747
 "Luzio, Chaim",scribe,,,human,Chaim Luzio,Q116486393
 "Luzzatto, Samuel David, 1800-1865",former owner,,http://id.loc.gov/authorities/names/n79117176,human,Samuel David Luzzatto,Q1391533
 "Luzzatto, Samuel David, 1800-1865",former owner,,,human,Samuel David Luzzatto,Q1391533
@@ -2781,7 +2597,6 @@ Lutheran Theological Seminary at Philadelphia,former owner,,,organization,Luther
 "Lyell, James P. R. 1871-1948",former owner,,http://id.loc.gov/authorities/names/nr97040618,human,James Lyell,Q18529888
 "Lyell, James P. R. 1871-1948",former owner,,,human,James Lyell,Q18529888
 "Lymington, Viscount",former owner,,,human,"John Wallop, Viscount Lymington",Q6262841
-"Lysebet, van Karnehe, Sister",former owner,,,human,Sister Lysebet van Karnehe,Q122873493
 "Macauley, Francis Campbell",former owner,,,human,Francis Campbell Macauley,Q116453091
 "Macclesfield, George Parker, Earl of, approximately 1697-1764",former owner,,http://id.loc.gov/authorities/names/no90024788,human,"George Parker, 2nd Earl of Macclesfield",Q335725
 "Macclesfield, George Parker, Earl of, approximately 1697-1764",former owner,,,human,"George Parker, 2nd Earl of Macclesfield",Q335725
@@ -2794,11 +2609,9 @@ Macer Floridus.,author,,,human,Odo of Meung,Q41617302
 Mādhava Rāma,author,مادهو رام,,human,Mādhava Rāma,Q114242521
 Madhubhaṭṭa Cātudhāra,scribe,,,human,Madhubhaṭṭa Cātudhāra,Q114242522
 "Madruzzo, Ludovico 1532-1600.",author,,,human,Ludovico Madruzzo,Q1233211
-"Maelens, Jeronimus",former owner,,,human,Jeronimus Maelens,Q122873494
 "Maestro Daddesco, in the style of.",artist,,,human,Maestro Daddesco,Q21978973
 "Maffei, Mario, 1463-1537",former owner,,,human,Mario Maffei,Q64761462
 Maffeo Vegio,author,,,human,Maffeo Vegio,Q1372875
-"Maggi Spaulding, Angèle Louise",former owner,,,human,Angèle Louise Maggi Spaulding,Q120898802
 Maggs Bros.,former owner,,,organization,Maggs Bros Ltd,Q15067374
 "Maggs cat. 246 (1909), no. 820; Sotheby’s, 21 July 1913, lot 1077; Maggs cat. 380 (1919), no. 1699, and cat. 542 (1930), no. 46;Edward Duff Balken, of Pittsburg, PA, with his bookplate; George A. Poole (bought from H. P. Kraus, cat. 75, 1955, no. 5), and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,human;human;organization,Edward Duff Balken;George Amos Poole;Maggs Bros Ltd,Q112300686;Q64683625;Q15067374
 "Magno, Pietro, active 1572-1589",author,,http://id.loc.gov/authorities/names/no92033400,human,Pietro Magno,Q55229164
@@ -2806,10 +2619,8 @@ Maggs Bros.,former owner,,,organization,Maggs Bros Ltd,Q15067374
 "Maḥmūd bin Nāṣir, active 1665",former owner,محمود بن ناصر، active 1665،,,human,Maḥmūd bin Nāṣir,Q116453003
 "Maḥmūd bin Nāṣir, active 1665",former owner,,,human,Maḥmūd bin Nāṣir,Q116453003
 Maḥmūd ibn al-Shaykh al-Fattāḥ,former owner,محمود بن الشيخ الفتاح,,human,Maḥmūd ibn al-Shaykh al-Fattāḥ,Q114242523
-"Maillard, Olivier, approximately 1430-1502",author,,http://viaf.org/viaf/61580903,human,Oliver Maillard,Q3351180
 Maître François,artist,,,human,Maître François,Q15967017
 "Maître François, style of",artist,,,human,Maître François,Q15967017
-"Majorana, Cristoforo (Italian illuminator, active ca. 1480-1494)",artist,,,human,Cristoforo Majorana,Q5186484
 "Majūsī, ʻAlī ibn al-ʻAbbās, active 10th century-11th century",author,,http://id.loc.gov/authorities/names/n86828307,human,'Ali ibn al-'Abbas al-Majusi,Q543191
 "Majūsī, ʻAlī ibn al-ʻAbbās, active 10th century-11th century",author,,,human,'Ali ibn al-'Abbas al-Majusi,Q543191
 "Makiya, Mohamed",former owner,,,human,Mohamed. Makiya,Q1942781
@@ -2847,7 +2658,6 @@ Marcus Ulpius Julianus,author,,,human,Marcus Ulpius Julianus,Q121956495
 Marcus Valerius Probus c. 20/30-105 AD,author,,,human,Marcus Valerius Probus,Q722683
 "Marghīnānī, ʻAlī ibn Abī Bakr, -1196 or 1197",author,"مرغيناني، علي بن أبي بکر, -1196 أو 1197",http://id.loc.gov/authorities/names/n84145508,human,Burhan al-Din al-Marghinani,Q4998760
 "Marghīnānī, ʻAlī ibn Abī Bakr, -1196 or 1197",author,,,human,Burhan al-Din al-Marghinani,Q4998760
-Marguerite de Lorraine,former owner,,,human,Marguerite of Lorraine,Q22132552
 Maria de Urria,author,,,human,Maria de Urria,Q116181785
 "Mariano, del Buono di Jacopo, 1433-1504",artist,,,human,Mariano del Buono,Q16138117
 Mariano da Firenze,author,,,human,Mariano da Firenze,Q43222686
@@ -2865,7 +2675,6 @@ Marius Victorinus,author,,,human,Gaius Marius Victorinus,Q708247
 "Marriette, Charles, 15th cent",former owner,,,human,Charles Marriette,Q114242526
 "Marriette, Charles, 15th century",former owner,,,human,Charles Marriette,Q114242526
 Marsilius of Padua,author,,,human,Marsilius of Padua,Q315357
-"Marston, Thomas E.",former owner,,,human,Thomas E. Marston,Q114666017
 "Martelli, Bartolomeo di Larione",former owner,,,human,Bartolomeo di Larione Martelli,Q116453214
 Martial,author,,,human,Martial,Q2098
 Martial.,author,,,human,Martial,Q2098
@@ -2903,8 +2712,6 @@ Maslama al mayriti of Cordova,author,,,human,Maslamah ibn Aḥmad Majrīṭī,Q7
 "Master B. F., active 1486-1545",artist,,,human,Master B. F.,Q114242528
 "Master BF, Fra Giovanni of Verona",artist,,,human,Fra Giovanni da Verona,Q3749194
 "Master of Death, Pierre Remiet",artist,,,human,Perrin Remiet,Q18508588
-"Master of Edward IV, active 1470-1490",artist,,,human,Master of Edward IV,Q23085454
-"Master of Morgan 85, active 1490-1520",artist,,,human,Master of Morgan 85,Q122753998
 Master of the Bezborodko Hours,artist,,,human,Master of the Bezborodko Hours,Q117448613
 Master of the Brotherhood of Ste. Catherine,artist,,,human,Master of the Brotherhood of Ste. Catherine,Q117448635
 "Master of the Brussels Initials, in the style of or perhaps hand of.",artist,,,human,Brussels Initials Master,Q1918339
@@ -2913,22 +2720,16 @@ Master of the Burgundian Prelates,illuminator,,,human,Meister der burgundischen 
 Master of the Gerona Bible,artist,,,human,Maestro di Gerona,Q112509654
 Master of the Harvard Hannibal,artist,,,human,Master of the Harvard Hannibal,Q1918540
 Master of the Landriani Hours,artist,,,human,Master of the Landriani Hours,Q117448643
-Master of the Mazarin Hours,artist,,,human,Mazarine Master,Q1305168
 Master of the Modena Hours,artist,,,human,Master of the Modena Hours,Q117456225
-"Master of the Suffrages (North Netherlandish illuminator, active circa 1520)",artist,,,human,Master of the Suffrages,Q122754074
-"Master of the Troyes Missal (French illuminator, active ca. 1460-1470)",artist,,,human,Master of the Troyes Missal,Q55128904
 "Master of the Vienna Mamerot, in the style of",artist,,,human,Master of the Yale Missal,Q1571694
-"Masters of Margriet Uitenham (Netherlandish illuminator, active ca. 1475)",artist,,,human,Master of Margriet Uitenham,Q122873495
 "Masters of the Gold Scrolls, In the style of.",artist,,,human,Masters of the Gold Scrolls,Q23888760
 Master William the monk,other,,,human,Master William the monk,Q117448603
 "Mateusz, z Krakowa, Cardinal, approximately 1330-1410.",associated name,,,human,Matthew of Kraków,Q553218
 Matheolus,author,,,human,Mathieu of Boulogne,Q1909428
 Mathurin atelier,artist,,,organization,Mathurin atelier,Q114242551
 Matthew,author,,,human,Matthew the Apostle,Q43600
-"Matthew, of Vendôme, approximately 1130-",author,,http://id.loc.gov/authorities/names/n79142736.html,human,Matthew of Vendôme,Q1238197
 Matthew of Crakow?,author,,,human,Matthew of Kraków,Q553218
 Matthew Paris,author,,,human,Matthew Paris,Q369366
-Matthias de Liegnitz ca. um 1379,author,,https://viaf.org/viaf/32389733,human,Matthias von Liegnitz,Q1910432
 "Mattioli, Pietro Andrea 1500-1577.",author,,,human,Pietro Andrea Mattioli,Q457191
 Maurice Scève,author,,,human,Maurice Scève,Q250321
 "Mawāhidī, Abū ʻAbd al-Raḥmān Yaʻqūb ibn Ayyūb, active 1350-1389",author,مواهدي، ابو عبد الرحمن يعقوب بن ايوب. كان حيا 1350-1389,http://id.loc.gov/authorities/names/no2021032187,human,Abū ʻAbd al-Raḥmān Yaʻqūb ibn Ayyūb Mawāhidī,Q116460016
@@ -2940,10 +2741,8 @@ Maurice Scève,author,,,human,Maurice Scève,Q250321
 "Maximilian II, Holy Roman Emperor, 1527-1576",author,,http://id.loc.gov/authorities/names/n80073725,human,"Maximilian II, Holy Roman Emperor",Q150862
 "Maximilian II, Holy Roman Emperor, 1527-1576",author,,,human,"Maximilian II, Holy Roman Emperor",Q150862
 "Maximus, bp. of Turin",author,,,human,Maximus of Turin,Q1230495
-"Maximus, of Turin, Saint, active 4th century-5th century",author,,http://viaf.org/viaf/7309730,human,Maximus of Turin,Q1230495
 Maximus of Turin,author,,,human,Maximus of Turin,Q1230495
 Mayer Sulzberger.,former owner,,,human,Mayer Sulzberger,Q6797076
-"Mayner, Joseph",former owner,,,human,Joseph Mayner,Q122873496
 "Mazzolla Vicentino, Calisto",author,,,human,Calisto Mazzolla Vicentino,Q116453188
 "McClenahan, Jean P., 1908-1994",former owner,,,human,Jean P. McClenahan,Q114242529
 "McRoberts, David",former owner,,http://id.loc.gov/authorities/names/n88624141,human,David McRoberts,Q95002340
@@ -2971,14 +2770,11 @@ Mayer Sulzberger.,former owner,,,human,Mayer Sulzberger,Q6797076
 Melchiorre Cesarotti,author,,,human,Melchiore Cesarotti,Q919900
 "Mellarinus, Johannes",author,,,human,Johannes Mellarinus,Q116460049
 Menardus monachus,author,,,human,Menardus Eisnacensis,Q113398434
-"Mendez de Parada, Alonso",former owner,,,human,Alonso Mendez de Parada,Q122873497
 Menghus Blanchellus,author,,,human,Mengo Bianchelli,Q105296764
-Mercantile Library of Philadelphia,former owner,,,organization,Mercantile Library Company,Q6818026
 "Merles, Francois de",author,,,human,Francois de Merles,Q116486417
 "Merz, August, 1873-1970",former owner,,http://id.loc.gov/authorities/names/n87862227,human,August Merz,Q94539425
 "Merz, August, 1873-1970",former owner,,,human,August Merz,Q94539425
 Messahala,author,,,human,Mashallah ibn Athari,Q945425
-Messieurs Du Trieu,former owner,,,organization,Messieurs Du Trieu,Q122873664
 "Mettler, Arnold",former owner,,,human,Arnold Mettler,Q94278649
 "Mewe, Henricus",former owner,,,human,Henricus Mewe,Q114242530
 "Michael, de Massa, -approximately 1337",author,,http://id.loc.gov/authorities/names/no2006126986,human,Michael of Massa,Q6835563
@@ -2994,7 +2790,6 @@ Michele family,other,,,organization,Michele,Q117456231
 "Michieli, Gabriel",former owner,,,human,Gabriel Michieli,Q116453275
 "Middleton, Henry",former owner,,,human,Henry Middleton,Q116192604
 "Middleton, J. J",former owner,,,human,J.J. Middleton,Q116192612
-"Mielzynski, Max",former owner,,,human,Maksymilian Mielzynski,Q122873498
 "Migieu, Anthelme-Michel-Laurent de, marquis de Savigny, 1723-1788",former owner,,,human,"Anthelme-Michel-Laurent de Migieu, marquis de Savigny",Q114242532
 "Mignan, Robert, -1852",former owner,,http://id.loc.gov/authorities/names/no2009069032,human,Robert Mignan,Q61890216
 "Mignan, Robert, -1852",former owner,,,human,Robert Mignan,Q61890216
@@ -3006,10 +2801,7 @@ Miles Hogarde,author,,,human,Miles Huggarde,Q6851419
 "Milet, Jacques, approximately 1425-1466",author,,http://id.loc.gov/authorities/names/n88145820,human,Jacques Millet,Q19721418
 "Milet, Jacques, approximately 1425-1466",author,,,human,Jacques Millet,Q19721418
 "Milet, Jacques ca. 1425-1466.",author,,,human,Jacques Millet,Q19721418
-"Milis, Joannes Nicolaus, active 15th century",author,,http://id.loc.gov/authorities/names/n2001061222.html,human,Johannes Milis,Q6216858
 "Millini, Pietro",former owner,,,human,Pietro Millini,Q114242487
-"Minns, Susan",former owner,,,human,Susan Minns,Q97586047
-"Minns, Susan B.",former owner,,,human,Susan B. Minns,Q122873499
 "Minucci, Minuccio 1551-1604.",author,,,human,Minuccio Minucci,Q282495
 "Mocenigo, Alvise I, 1507-1577",author,,http://id.loc.gov/authorities/names/n95010092,human,Alvise I Mocenigo,Q449435
 "Mocenigo, Alvise I, 1507-1577",author,,,human,Alvise I Mocenigo,Q449435
@@ -3023,7 +2815,6 @@ Monaldus (Monaldus de Iustinopoli),author,,,human,Monaldus Iustinopolitanus,Q127
 "Monastero di Santo Spirito (Verona, Italy)",former owner,,,organization,Monastero di Santo Spirito in Verona,Q116707249
 Monastery Holy Trinity-Champmol,former owner,,,organization,Champmol,Q922303
 Mönch von Heilsbronn,author,,,human,Mönch von Heilsbronn,Q55124495
-"Monē tou Timiou Prodromou (Serrai, Greece)",former owner,,,organization,Monē tou Timiou Prodromou,Q122873665
 "Monmerqué, L.-J.-N. 1780-1860",former owner,,http://id.loc.gov/authorities/names/n88132507,human,Louis-Jean-Nicolas Monmerqué,Q3262727
 "Monmerqué, L.-J.-N. 1780-1860",former owner,,,human,Louis-Jean-Nicolas Monmerqué,Q3262727
 "Monson, Frederick John Monson, Baron, 1809-1841",former owner,,,human,"Frederick John Monson, 5th Baron Monson",Q28792850
@@ -3044,20 +2835,10 @@ Monticchiello (Italy). Podestà,author,,,organization,Podestà of Monticchiello
 "More, Thomas Sir, Saint 1478-1535.",author,,,human,Thomas More,Q42544
 "Morel de Vindé, Charles Gilbert Terray, vicomte, 1759-1842",former owner,,http://id.loc.gov/authorities/names/n86004990,human,Charles-Gilbert Morel de Vindé,Q8327735
 "Morel de Vindé, Charles Gilbert Terray, vicomte, 1759-1842",former owner,,,human,Charles-Gilbert Morel de Vindé,Q8327735
-"Morgan, John",former owner,,,human,John Morgan,Q122873500
 "Morlini, Girolamo 16th cent.",author,,,human,Girolamo Morlini,Q19862426
-Morot,former owner,,,human,Morot,Q122873501
-"Morris, Lydia T.",former owner,,,human,Lydia Thompson Morris,Q94650816
-"Morris, Lydia Thompson, 1849-1932",former owner,,,human,Lydia Thompson Morris,Q94650816
 "Moschopoulos, Manuel b. ca. 1265?",author,,,human,Manuel Moschopoulos,Q650448
-"Moss, William E.",former owner,,,human,William E. Moss,Q120869140
-"Mosteiro dos Jerónimos (Lisbon, Portugal)",former owner,,,organization,Jerónimos Monastery,Q272781
-"Moynan, Thomas H.",former owner,,,human,Thomas H. Moynan,Q122873502
-"Moyreau, J. D.",former owner,,,human,J.D. Moyreau,Q122873503
 "Mr. James Orchard Halliwell-Phillips; Adolph Sutro (1830-1898), mayor of San Francisco; bought at Sotheby, Wilkinson & Hodge auction, 1-4 July 1889",former owner,,,human;human,James Halliwell-Phillipps;Adolph Sutro,Q321691;Q214461
 "Mr. James Orchard Halliwell-Phillips; Adolph Sutro (1830-1898), mayor of San Francisco; bought at Sotheby, Wilkinson & Hodge auction, 1-4 July 1889.",former owner,,,human;human,James Halliwell-Phillipps;Adolph Sutro,Q321691;Q214461
-Mrs. L.M.C. Smith,former owner,,,human,Mrs. L.M.C. Smith,Q122873506
-Mrs E. J. Hooper,former owner,,,human,Mrs. E.J. Hooper,Q122873504
 "Mubashshir ibn Fātik, Abū al-Wafāʼ, active 11th century",author,,http://id.loc.gov/authorities/names/n82246422,human,Al-Mubashshir ibn Fātik,Q11904655
 "Mubashshir ibn Fātik, Abū al-Wafāʼ, active 11th century",author,,,human,Al-Mubashshir ibn Fātik,Q11904655
 "Muenchen, Heinrich von.",author,,,human,Heinrich von München,Q1599603
@@ -3114,7 +2895,6 @@ Nene,author,,,human,Nene,Q121957090
 "Newcastle, Henry Pelham Fiennes Pelham Clinton, Duke of, 1785-1851",former owner,,,human,"Henry Pelham-Clinton, 4th Duke of Newcastle",Q2034202
 "Newman, Edmund, 17th century",former owner,,,human,Edmund Newman,Q116486792
 "Niccoli, Niccolò, approximately 1364-1437",associated name,,,human,Niccolò de' Niccoli,Q730505
-"Niccolò, de' Tudeschi, 1386-1445",author,,https://viaf.org/viaf/32108367,human,Panormitanus,Q1370153
 Nicetas Archbishop of Heraclea 11th cent.,author,,,human,Nicetas of Heraclea,Q7024749
 "Nicholas, of Dinkelsbühl, approximately 1360-1433",author,,http://id.loc.gov/authorities/names/n79144829,human,Nikolaus von Dinkelsbühl,Q95506
 "Nicholas, of Dinkelsbühl, approximately 1360-1433",author,,,human,Nikolaus von Dinkelsbühl,Q95506
@@ -3158,7 +2938,6 @@ Nilus of Ancyra,author,,,human,Nilus of Sinai,Q770938
 "Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203",author,نظامى گنجوى، 1140 یا 1141-1202 یا 1203,,human,Nezami Ganjavi,Q234908
 Niẓāmī Ganjavī ca.1141-ca.1209,author,,,human,Nezami Ganjavi,Q234908
 Nonius Marcellus 4th cent.,author,,,human,Nonius Marcellus,Q183420
-"Norris Elkins, Lisa",former owner,,,human,Lisa Norris Elkins,Q122873507
 "North, Frederick, Earl of Guilford, 1766-1827",former owner,,http://id.loc.gov/authorities/names/n86067027,human,Frederick North,Q333623
 "North, Frederick, Earl of Guilford, 1766-1827",former owner,,,human,Frederick North,Q333623
 "Northumberland, Algernon Percy, Earl of, 1602-1668",former owner,,http://id.loc.gov/authorities/names/n85088547,human,"Algernon Percy, 10th Earl of Northumberland",Q762507
@@ -3201,8 +2980,6 @@ Onasander,author,,,human,Onasander,Q373042
 "On the front pastedown, as sticker reading, ""Purchased from the fund bequeathed to the Seminary by Eugene Augustus Hoffman, D.D., Dean, 1879-1902.""",former owner,,,human,Joannes Aloysius Brochman,Q116734411
 "Oppenheim, Robert",former owner,,,human,Robert Oppenheim,Q114242541
 Oppian fl. 2nd cent.,author,,,human,Oppian,Q116508
-"Ordoñez, Andrés",former owner,,,human,Andrés Ordoñez,Q122873508
-"Ordoñez, Luis",former owner,,,human,Luis Ordoñez,Q122873509
 Ordre de la nef,author,,,organization,Order of the Argonauts of Saint Nicholas,Q4789680
 Ordre de Saint-Michel,author,,http://id.loc.gov/authorities/names/n96095366,organization,Order of Saint Michael,Q544092
 Ordre de Saint-Michel,author,,,organization,Order of Saint Michael,Q544092
@@ -3266,7 +3043,6 @@ Papias,author,,,human,Papias,Q3894841
 "Paris, Matthew 1200-1259.",author,,,human,Matthew Paris,Q369366
 "Parisino, D. Andreas",former owner,,,human,D. Andreas Parisino,Q116487091
 Parma and Piacenza (Duchy). Archivio,author,,,organization,Duchy of Parma,Q165040
-"Parsons, E.",former owner,,,organization,Edwin Parsons & Sons,Q111399316
 "Parsons, Edward Alexander, 1878-1962",former owner,,,human,Edward Alexander Parsons,Q59631299
 "Part of Sotheby’s, 2 December 2003, lot 12; bought by the Lilly Library in 2007 from Phillip J. Pirages, cat. 54, no. 9.",former owner,,,organization,Phillip J. Pirages Fine Books & Manuscripts,Q116790542
 "Part of the archive of Raffaello de’ Medici (1543-1628), of Florence; sale at Reiss & Sohn, Königstein, 21 October 2003, lot 647; bought by the Lilly Library from Quaritch, February 2004.",former owner,,,human;organization,Raffaello de’ Medici;Reiss & Son,Q87746404;Q108829634
@@ -3276,7 +3052,6 @@ Pascasius Radbertus,author,,,human,Paschasius Radbertus,Q654858
 Paterius notarius Gregorii I,author,,,human,Paterius,Q672439
 "Patetta, Federico, 1867-1945",former owner,,http://id.loc.gov/authorities/names/no2009176411,human,Federico Patetta,Q56708246
 "Patetta, Federico, 1867-1945",former owner,,,human,Federico Patetta,Q56708246
-"Patou, Johannes",former owner,,,human,Johannes Patou,Q122873511
 "Patrick, Albert M",former owner,,,human,Albert M. Patrick,Q116192893
 Paul,author,,,human,Paul the Apostle,Q9200
 Paul III,author,,,human,Paul III,Q133001
@@ -3303,8 +3078,6 @@ Paulus Venetus,author,,,human,Paul of Venice,Q2064265
 Paul V,author,,,human,Paul V,Q132711
 Payne and Foss,former owner,,,organization,Payne and Foss,Q113847193
 "Paz, Fernando, 16th century",author,,,human,Fernando Paz,Q116250264
-"Peachey, Anna Maria Louisa",former owner,,,human,Anna Maria Louisa Peachey,Q122873512
-"Peachey, Sir John",former owner,,,human,Sir John Peachey,Q122873513
 Pedro del Corral (Pedro de Corral),author,,,human,Pedro de Corral,Q6070461
 Pedro de Valencia,author,,,human,Pedro de Valencia,Q3374154
 Pedro Pascual,author,,,human,Peter Pascual,Q744531
@@ -3322,7 +3095,6 @@ Peregrinus de Oppeln,author,,,human,Peregrine of Opole,Q474691
 "Peres, Gonzalo, de Cartagena",author,,,human,Gonzalo Peres de Cartagena,Q116519725
 "Pérez de Oliva, Fernán 1494?-1533.",author,,,human,Fernán Pérez de Oliva,Q3069593
 Perfecto Corazini,author,,,human,Perfecto Corazini,Q114242542
-"Pergola, Paolo della",author,,http://id.loc.gov/authorities/names/n88198578.html,human,Paul of Pergula,Q2050459
 "Pergola, Paolo della, -1455",author,,http://id.loc.gov/authorities/names/n88198578,human,Paul of Pergula,Q2050459
 "Pergola, Paolo della, -1455",author,,,human,Paul of Pergula,Q2050459
 "Perhaps from an institutional library in Chartres dispersed at the French Revolution; Pierre Gélis-Didot (b. 1853), his sale, Paris, Belin-Drouot, 12 April 1897, lot 3; Cecil Mallaby Firth (1878-1931), Egyptologist, with his bookplate;",former owner,,,human;human,Pierre Gélis-Didot;Cecil Mallaby Firth,Q106675850;Q1052325
@@ -3374,7 +3146,6 @@ Petrarch,author,,,human,Petrarch,Q1401
 Petrarch (Francesco Petrarca),author,,,human,Petrarch,Q1401
 "Petroni, Simone di Nicholo",author,,,human,Simone di Nicolo Petroni,Q116519943
 "Petrucci, Alfonso, Cardinal",author,,,human,Alfonso Petrucci,Q2377883
-"Petrus, Comestor, active 12th century",author,,http://viaf.org/viaf/40175167,human,Petrus Comestor,Q785250
 "Petrus, de Isolella",author,,,human,Petrus de Isolella,Q120442577
 "Petrus, de Luno",scribe,,,human,Petrus de Luno,Q116520092
 "Petrus, de Monastero",author,,,human,Petrus de Monastero,Q116192681
@@ -3397,11 +3168,8 @@ Petrus de Rivo,author,,,human,Peter de Rivo,Q7177901
 Petrus de Rosenheim,author,,,human,von Rosenheim Petrus,Q26703416
 Petrus de Rosenheim ca. 1380-1433,author,,,human,von Rosenheim Petrus,Q26703416
 Petrus Hispanus,author,,,human,Peter of Spain,Q320546
-"Petrus Jensenius, 17th century",former owner,,,human,Petrus Jensenius,Q122873514
 Petrus Johannes,author,,,human,P. J. Maan,Q52235407
-Petrus Leonardus,former owner,,,human,Petrus Leonardus,Q122873515
 Petrus Mantuanus,author,,,human,Petrus Adamus Mantuanus,Q94761595
-Petrus Martinotius,former owner,,,human,Petrus Martinotius,Q122873516
 Petrus Paulus filius quondam Cardini de Spinellis,scribe,,,human,Pietro Paolo Spinelli,Q117351943
 Petrus Pictaviensis.,author,,,human,Peter of Poitiers,Q3387668
 Petrus Placentinus,author,,,human,Placentinus,Q974126
@@ -3409,10 +3177,8 @@ Petrus Riga,author,,,human,Petrus Riga,Q556117
 Petrus Roth,author,,,human,Peter Roth,Q43598332
 Phalaris,author,,,human,Phalaris,Q452265
 Phalaris Tyrant of Agrigentum 6th cent. B.C.,author,,,human,Phalaris,Q452265
-"Philagathos, of Cerami",author,,http://viaf.org/viaf/88965134,human,Philagathus of Cerami,Q3744914
 "Philip, archbishop of Cologne",author,,,human,Philip II of Daun-Oberstein,Q2086852
 Philip Augustus of France,author,,,human,Philip II of France,Q34428
-Philip Hurd,former owner,,,human,Philip Hurd,Q108308272
 "Philip II, King of Spain",author,,,human,Philip II of Spain,Q34417
 "Philip II, King of Spain 1527-1598",author,,,human,Philip II of Spain,Q34417
 Philip Jacob Grangier (1785); CSL assession number 18294.,former owner,,,human,Philip Jacob Grangier,Q116523308
@@ -3422,7 +3188,6 @@ Philip Jacob Grangier (1785); CSL assession number 18294.,former owner,,,human,P
 "Philipp von der Pfaz, Count Palatine, owner",other,,,human,Philip of the Palatinate,Q72026
 "Philipp von der Pflaz (1480-1541), prince bishop of Freising 1507-41, and presumably bequeathed by him to the Benedictine cathedral church of the Virgin Mary and Saint Corbinianus, Freising, founded in 1020 and suppressed in 1802;",former owner,,,human;organization,Philip of the Palatinate;Freising Cathedral,Q72026;Q262769
 Philip Sidney,author,,,human,Philip Sidney,Q315509
-"Phillipps, Thomas",former owner,,,human,Thomas Phillipps,Q2147709
 "Phillipps, Thomas, Sir, 1792-1872",former owner,,http://id.loc.gov/authorities/names/n50078542,human,Thomas Phillipps,Q2147709
 "Phillipps, Thomas, Sir, 1792-1872",former owner,,,human,Thomas Phillipps,Q2147709
 "Phillipps MS 29506 (the ‘9’ written over ‘0’, as in item 21 above); from the collection of specimen leaves formed by Messrs. W. H. Robinson, who bought the residue of the Phillipps library in 1945-46, sold by them to George A. Poole in 1947, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,organization;human,William H. Robinson Ltd.;George Amos Poole,Q116786331;Q64683625
@@ -3439,7 +3204,6 @@ Piaristenkollegium St. Thekla auf der Wieden (Vienna),former owner,,,organizatio
 "Piccolomini, Andrea di Nanni Todeschini",author,,,human,Andrea Piccolomini Todeschini,Q60615311
 "Piccolomini, Antonia de",author,,,human,Antonia Piccolomini,Q116520212
 "Piccolomini, Antonio Maria d'Enea di Giacomo Todeschini",author,,,human,Antonio Maria di Enea di Giacomo Todeschini Piccolomini,Q116520364
-"Piccolomini, Artemesia",former owner,,,human,Artemesia Piccolomini,Q122873517
 "Piccolomini, Batista",author,,,human,Batista Piccolomini,Q116520380
 "Piccolomini, Carlo Blasii de",author,,,human,Carlo Blasii de Piccolomini,Q116520396
 "Piccolomini, Cristoforo di Guidantonio de",author,,,human,Cristoforo di Guidantonio de Piccolomini,Q116520417
@@ -3544,14 +3308,12 @@ Porphyry ca. 234-ca. 305.,author,,,human,Porphyry,Q203445
 "Possibly owned by the renaissance writing-master Francesco Alunno (c. 1500-1556), of Ferrara, and probably acquired by Canon Giuseppe Antonelli (1803-1881), librarian of the Biblioteca comunale of Ferrara, with the patternbooks of Alunno;",former owner,,,human;human,Francesco Alunno;Giuseppe Antonelli,Q3749522;Q21272244
 Possidius,author,,,human,Possidius of Calama,Q718003
 "Poulin, George",former owner,,,human,Skinner Poulin,Q940008
-"Poveri Ingesuati of San Giusto, Florence",former owner,,,organization,Convento di San Giusto alle Mura,Q122873666
 Praepositanus de Cremona,author,,,human,Praepositinus,Q7237544
 "Prediger (Schwäbisch Gmünd, Germany)",former owner,,,organization,Prediger (Schwäbisch Gmünd),Q1751370
 "Premonstratensian abbey of Steinfeld, near Cologne, founded in 1130 and suppressed in 1802, with the contemporary inscription and curse against theft on fol. 1r, liber ecclesie sancte marie de steinfelt Si quis abstulerit anathema sit amen and the late medieval inscription on fol. 158v, Liber Ecclesie Sancte marie virginis in steinfelt(the last two words in slightly paler ink);",former owner,,,organization,Steinfeld Abbey,Q883617
 "Premonstratensian abbey of Tongerloo, province of Antwerp, Belgium, founded in 1128 and suppressed in 1796; Sir Thomas Phillipps (1792-1872), no number but probably from his acquisitions in Belgium in the early 1820s;",former owner,,,organization;human,Tongerlo Abbey;Thomas Phillipps,Q334329;Q2147709
 Presbiter Johannes de Bononia,scribe,,,human,Johannes de Bononia,Q117351969
 "Price in English pounds on the recto, suggesting that the leaf may have been a gift to Conception Abbey from Dr. Charles D. Humberd (1876-1966) of Bernard, Missouri (buried in West Union, Indiana).",former owner,,,human,Charles D. Humberd,Q116379117
-Prince Arenberg Library,former owner,,,organization,Katholieke Universiteit te Leuven Universiteitsbibliotheek,Q122873667
 Prince Baldassare Boncompagni (1821-1894).,former owner,,,human,Baldassarre Boncompagni,Q680832
 Prince Baldassare Boncompagni Ludovisi (1821-1894).,former owner,,,human,Baldassarre Boncompagni,Q680832
 Printed book given in 1840 to St. Peter's in Erfurt; George Bruce collection; given to the Grolier Club in July 1894 by David Wolfe Bruce.,former owner,,,organization;human;human,"Abbey of St. Peter (Erfurt, Germany);George Bruce;David Wolfe Bruce",Q116598715;Q2757147;Q116598092
@@ -3574,7 +3336,6 @@ Prosdocimus de Beldemandis 13??-1428,author,,,human,Prosdocimus de Beldemandis,Q
 Prosper of Acquitaine,other,,,human,Prosper of Aquitaine,Q454652
 Prosper of Aquitaine,author,,,human,Prosper of Aquitaine,Q454652
 "Prosper of Aquitaine, Saint ca. 390-ca. 463.",author,,,human,Prosper of Aquitaine,Q454652
-Prudentius,author,,http://viaf.org/viaf/100010336,human,Prudentius,Q347250
 Prudentius b. 348.,author,,,human,Prudentius,Q347250
 Ps.-Cicero.,author,,,human,Pseudo-Cicero,Q67405713
 Pseudo Abdias,author,,,human,Pseudo-Abdias,Q7254393
@@ -3658,7 +3419,6 @@ Purchased from Bernard M. Rosenthal in 1975,former owner,,,human,Bernard M. Rose
 "Qāsim Anvār, ʻAlī ibn Naṣīr, 1356-1433",author,قاسم انوار، على بن نصير، 1356-1433,http://id.loc.gov/authorities/names/n2003070314,human,Qasem-e Anvar,Q2561764
 "Qāsim Anvār, ʻAlī ibn Naṣīr, 1356-1433",author,,,human,Qasem-e Anvar,Q2561764
 "Qasṭallānī, Aḥmad ibn Muḥammad, 1447 or 1448-1517 or 1518",author,قسطلاني، احمد بن محمد، 1447 أو 1448-1517 أو 1518,,human,Al-Qastallani,Q2829271
-"Quaile, Edward",former owner,,,human,Edward Quaile,Q117085125
 "Quaritch, Bernard",former owner,,,human,Bernard Quaritch,Q119818
 "Quaritch, cat. 211 (January 1902), no. 24, and cat. 290 (June 1910), no. 448; bought by C. L. Ricketts from W. M. Voynich, January 1917, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,organization;human;human,Bernard Quaritch Ltd;Coella Lindsay Ricketts;Wilfrid Voynich,Q65034936;Q116771179;Q336453
 "Quaritch, Handlist of Books offered for Sale by Bernard Quaritch Ltd., of 11 Grafton Street, London, W.1, whose representative, Mr. F. S. Ferguson, will have them on view at the Vanderbilt Hotel, Park Avenue, New York, towards the end of February, 1923, and for some weeks thereafter, 1923, no. 26; bought by C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,organization;human;human,Bernard Quaritch Ltd;Frederic Sutherland Ferguson;Coella Lindsay Ricketts,Q65034936;Q5497139;Q116771179
@@ -3702,7 +3462,6 @@ Rapolano Terme (Italy). Consilium,author,,,organization,Rapolano Terme,Q91395
 "Raqqī, Ibrāhīm ibn Aḥmad, 1249 or 1250-1303 or 1304",author,,http://id.loc.gov/authorities/names/nr93038801,human,Ibrāhīm Ibn-Aḥmad ar- Raqqī,Q60844447
 "Ravenoldus, Johannes Betrus",former owner,,,human,Johannes Betrus Ravenoldus,Q116571762
 "Rawghanī, Muḥammad Ṣāliḥ ibn Muḥammad Bāqir, -1632 or 1633",author,روغنى، محمد صالح بن محمد باقر، - -1632 or 1633,,human,Muḥammad Ṣāliḥ ibn Muḥammad Bāqir Rawghanī,Q114242506
-"Raymond, of Peñafort, Saint, 1175?-1275",author,,http://id.loc.gov/authorities/names/n81074464.html,human,Raymond of Penyafort,Q318980
 "Raymond, of Peñafort, Saint, 1175?-1275",author,,http://id.loc.gov/authorities/names/n81074464,human,Raymond of Penyafort,Q318980
 "Raymond, of Peñafort, Saint, 1175?-1275",author,,,human,Raymond of Penyafort,Q318980
 "Raymond, of Sabunde, -1436",author,,http://id.loc.gov/authorities/names/n83215883,human,Raymond of Sabunde,Q947994
@@ -3729,13 +3488,11 @@ Raymundus de Pennaforte (Raimundus de Pennaforti),author,,,human,Raymond of Peny
 Reichskartause Buxheim,former owner,,,organization,Buxheim Charterhouse,Q460224
 Remigius of Auxerre,author,,,human,Remigius of Auxerre,Q1383306
 Remigius of Auxerre ca. 841-908.,author,,,human,Remigius of Auxerre,Q1383306
-"Renesse-Breidbach, Clément Wenceslas de 1776-1833",former owner,,,human,Clément de Renesse-Breidbach,Q3323218
 Requesens family,author,,,organization,Requesens,Q3933282
 "Rérolle, Antoine Joseph, 1850-1924",former owner,,,human,Antoine Joseph Rérolle,Q116574766
 Ressani family,author,,,organization,Ressani family,Q116707628
 Rev. J. C. Jackson,former owner,,,human,Jeremy C. Jackson,Q114242417
 "Révérend du Mesnil, E. 1832-1895",former owner,,,human,Edmond Révérend Du Mesnil,Q55672340
-Reynoldus Romanus,author,,,human,Reynoldus Romanus,Q122873518
 "Rhegius, Urbanus, 1489-1541",author,,http://id.loc.gov/authorities/names/n89622435,human,Urbanus Rhegius,Q72662
 "Rhegius, Urbanus, 1489-1541",author,,,human,Urbanus Rhegius,Q72662
 "Ribaut, Jean ca. 1520-1565.",author,,,human,Jean Ribault,Q935052
@@ -3753,7 +3510,6 @@ Richard of St. Victor,author,,,human,Richard of Saint Victor,Q1344799
 Richard Rolle,author,,,human,Richard Rolle,Q2345308
 "Richard Rolle, attributed to",author,,,human,Richard Rolle,Q2345308
 Richard Snetisham,author,,,human,Richard Snetisham,Q7329133
-"Richardson, Thomas",former owner,,,human,Thomas Richardson,Q122873519
 "Richardson, Thomas F.",former owner,,,human,Thomas F. Richardson,Q114242409
 "Richmond, Carleton R",former owner,,,human,Carleton Rubira Richmond,Q116572039
 "Ridolfi, Tommaso",author,,,human,Tommaso Ridolfi,Q116572298
@@ -3767,7 +3523,6 @@ Rinuccio d'Arezzo,author,,,human,Rinuccio d'Arezzo,Q21545524
 "Riva Palacio, Vicente, 1832-1896",former owner,,http://id.loc.gov/authorities/names/n82087719,human,Vicente Riva Palacio,Q978389
 "Riva Palacio, Vicente, 1832-1896",former owner,,,human,Vicente Riva Palacio,Q978389
 "Robbia, Luca di Simone della",author,,,human,Luca della Robbia,Q194977
-"Robert, of Sorbonne, 1201-1274",author,,http://id.loc.gov/authorities/names/n93081262.html,human,Robert de Sorbon,Q508679
 Robert Ciboule,author,,,human,Robert Ciboule,Q7342931
 Robert de Boron 13th cent.,author,,,human,Robert de Boron,Q5380
 Robert de Gretham,author,,,human,Robert de Gretham,Q3436655
@@ -3808,22 +3563,16 @@ Romanus Morienus,author,,,human,Morienus,Q17493693
 "Roper, William 1496-1578.",author,,,human,William Roper,Q141753
 "Roseman, Charles E., Jr., -1952",former owner,,http://id.loc.gov/authorities/names/no2019128100,human,Charles E. Roseman Jr.,Q116526134
 "Roseman, Charles E., Jr., -1952",former owner,,,human,Charles E. Roseman Jr.,Q116526134
-"Rosenbach, A.S.W. (Abraham Simon Wolf), 1876-1952",former owner,,,human,A. S. W. Rosenbach,Q3663160
 "Rosenbach, A. S. W. (Abraham Simon Wolf), 1876-1952",former owner,,,human,A. S. W. Rosenbach,Q3663160
 "Rosenthal, antiquarian bookdealer in Munich; Adolph Sutro (1830-1898), mayor of San Francisco.",former owner,,,organization;human,Jacques Rosenthal;Adolph Sutro,Q114667678;Q214461
 "Rosenthal, Bernard M",former owner,,http://id.loc.gov/authorities/names/n84077725,human,Bernard M. Rosenthal,Q94805275
 "Rosenthal, Bernard M",former owner,,,human,Bernard M. Rosenthal,Q94805275
 "Rosenthal, Bernard M.",former owner,,,human,Bernard M. Rosenthal,Q94805275
-"Rosenthal, Jacques",former owner,,,human,Jacques Rosenthal,Q1293460
 "Rosenthal, Jacques, 1854-1937",former owner,,,human,Jacques Rosenthal,Q1293460
-"Rosenthal, L.",former owner,,,human,Ludwig Rosenthal,Q122873520
 "Rosinus, Stephan, 1470-1548",former owner,,,human,Stephan Rosinus,Q55902867
 "Ross, T. Edward",former owner,,http://id.loc.gov/authorities/names/n88179793,human,Edward T. Ross,Q109941582
 "Ross, T. Edward",former owner,,,human,Edward T. Ross,Q109941582
 "Rothwell, William de",author,,,human,William Rothwell,Q115182672
-Royal family of Liechtenstein,former owner,,,organization,House of Liechtenstein,Q698530
-Royaumont Abbey(?),former owner,,,organization,Royaumont Abbey,Q377882
-"Royer, T.",former owner,,,human,T. Royer,Q122873521
 Roy Vernon Sowers (Firm),former owner,,,organization,Roy Vernon Sowers (Firm),Q120442753
 "Rubeus, Raginaldus Collus",author,,,human,Raginaldus Collus Rubeus,Q116574973
 "Rubinstein, Joseph, 1918-1973",former owner,,,human,Joseph Rubinstein,Q120442582
@@ -3841,13 +3590,11 @@ Rudolf von Ems,author,,,human,Rudolf von Ems,Q697801
 "Rufus, Jordanus, fl. ca. 1225-1250.",author,,,human,Giordano Ruffo,Q3106874
 "Rufus, Sextus",author,,,human,Festus,Q666127
 "Rusius, Laurentius.",author,,,human,Lorenzo Rusio,Q17478120
-"Ruskin, John",former owner,,,human,John Ruskin,Q179126
 "Ruskin, John, 1819-1900",former owner,,http://id.loc.gov/authorities/names/n79006950,human,John Ruskin,Q179126
 "Ruskin, John, 1819-1900",former owner,,,human,John Ruskin,Q179126
 Ruy de Pina,author,,,human,Rui de Pina,Q2015448
 Sa'di 1210-1292,author,,,human,Saadi,Q170302
 Sabellico 1436?-1506.,author,,,human,Marcus Antonius Coccius Sabellicus,Q708493
-Sabin,former owner,,,human,Sabin,Q122873522
 "Ṣābir, Muḥammad, active 1841",former owner,صابر، محمد، active 1841،,,human,Muḥammad Ṣābir,Q116619897
 "Ṣābir, Muḥammad, active 1841",former owner,,,human,Muḥammad Ṣābir,Q116619897
 "Ṣabrī, ʻAbd al-Raḥmān ibn Aḥmad, d. 1726 or 7",author,,,human,ʻAbd al-Raḥmān ibn Aḥmad Ṣabrī,Q114242504
@@ -3877,12 +3624,10 @@ Sallust,author,,,human,Sallust,Q7170
 "Sallust, 86 B.C.-34 B.C",author,,,human,Sallust,Q7170
 Sallust 86-34 B.C.,author,,,human,Sallust,Q7170
 Salomon Trismosin,author,,,human,Salomon Trismosin,Q3470064
-"Saltariellus, Lodovicus",former owner,,,human,Lodovicus Saltariellus,Q122873523
 "Salutati, Coluccio.",author,,,human,Coluccio Salutati,Q93113
 "Salvi, Carlo, active 19th century",former owner,,,human,Carlo Salvi,Q120442583
 "Salviati, Gianozzo",author,,,human,Gianozzo Salviati,Q116576733
 "Salzperg, Joannes",former owner,,,human,Joannes Salzperg,Q116250295
-Samuel Frederick Houston,former owner,,,human,Samuel Frederick Houston,Q122873524
 "Sandei, Jeronimus de, 15th century",scribe,,,human,Jeronimus de Sandei,Q116575215
 "San Francesco della Croce (Monastery : Venice, Italy)",former owner,,,organization,San Francesco della Croce,Q120442754
 Sangalletti family,author,,,organization,Sangalletti family,Q116709324
@@ -3900,7 +3645,6 @@ Sarvajñātman,author,,,human,Sarvajñātman,Q113400090
 "Sassoon, David Solomon, 1880-1942",former owner,,http://id.loc.gov/authorities/names/n82055059,human,David Solomon Sassoon,Q31762617
 "Sassoon, David Solomon, 1880-1942",former owner,,,human,David Solomon Sassoon,Q31762617
 "Savorgnano, Ascanio",author,,,human,Ascanio Savorgnano,Q116577948
-"Sayre, Robert H. (Robert Heysham), 1824-1907",former owner,,,human,Robert H. Sayre,Q7345101
 "Sayyid Muṣṭafá, active 1849",scribe,سيد مصطفى، active 1849،,,human,Sayyid Muṣṭafá,Q114242502
 "Sāʻātī, ʻAlī ibn Thaʻlab",former owner,ساعاتي، علي بن ثعلب،,,human,ʻAlī ibn Thaʻlab Sāʻātī al-Baghdādī,Q116578666
 "Sāʻātī, ʻAlī ibn Thaʻlab",former owner,,,human,ʻAlī ibn Thaʻlab Sāʻātī al-Baghdādī,Q116578666
@@ -3915,7 +3659,6 @@ Saʻdī,author,,,human,Saadi,Q170302
 "Schatzki, Walter, 1899-1983",former owner,,,human,Walter Schatzki,Q2546077
 "Scheerenberg, Rudolph von, Bishop of Wurzburg, -1495.",associated name,,,human,Rudolf von Scherenberg,Q109784
 "Schennis, Friederich de, 1852-1918",former owner,,,human,Hans Friedrich Emanuel Schennis,Q24701295
-"Schiepati, Gaetano",former owner,,,human,Gaetano Schiepati,Q122873525
 "Schiller, Henri",former owner,,,human,Henri Schiller,Q116579075
 "Schiller, Johann Michael, 17th century",former owner,,,human,Johann Michael Schiller,Q116578184
 "Schindler, Sebastian, 16th century",author,,,human,Sebastian Schindler,Q116579344
@@ -3947,10 +3690,8 @@ Sedulius (Caelius Sedulius),author,,,human,Coelius Sedulius,Q538564
 "Seilern, Oswald, Count, 1900-1967",former owner,,,human,Oswald Carl Friedrich von Seilern und Aspang,Q112126136
 "Seilern-Aspang, Oswald, Count, 1900-1967",former owner,,http://id.loc.gov/authorities/names/no2013109522,human,Oswald Carl Friedrich von Seilern und Aspang,Q112126136
 "Seilern-Aspang, Oswald, Count, 1900-1967",former owner,,,human,Oswald Carl Friedrich von Seilern und Aspang,Q112126136
-"Seillière, Achille, baron, 1813-1873",former owner,,,human,Florentin-Achille Seillière,Q28860080
 "Selim II, Sultan of the Turks, 1524-1574",former owner,,http://id.loc.gov/authorities/names/no2006086884,human,Selim II,Q161872
 "Selim II, Sultan of the Turks, 1524-1574",former owner,,,human,Selim II,Q161872
-"Selsey, Henry John Peachey 3rd Baron",former owner,,,human,"Henry John Peachey, 3rd Baron Selsey",Q21166872
 Seneca,author,,,human,Seneca,Q2054
 "Seneca, Lucius Annaeus, approximately 4 B.C.-65 A.D",author,,http://id.loc.gov/authorities/names/n79004229,human,Seneca,Q2054
 "Seneca, Lucius Annaeus, approximately 4 B.C.-65 A.D",author,,,human,Seneca,Q2054
@@ -3960,7 +3701,6 @@ Seneca,author,,,human,Seneca,Q2054
 "Seneca, Lucius Annaeus ca. 4 B. C.-65 A. D.",author,,,human,Seneca,Q2054
 "Ser Cicco de Pigolotti, Battista di, of Fermo, Ser",former owner,,,human,Battista di Ser Cicco di Fermo,Q116619715
 Serendipity Books (Firm),former owner,,,organization,Serendipity Books,Q120442755
-"Servais, Gaspar-Joseph de, 1735-1807",former owner,,,human,Gaspard Joseph de Servais,Q21608705
 Servius,author,,,human,Servius,Q355350
 Servius 4th cent.,author,,,human,Servius,Q355350
 "Sessa, Luis Fernández de Córdoba Cardona y Aragón, duque de, 1582-1645",former owner,,http://id.loc.gov/authorities/names/n88258314,human,Luis Fernández de Córdoba y Aragón,Q97161291
@@ -3979,7 +3719,6 @@ Severinus,author,,,human,Severinus,Q199486
 "Sextus, Pythagoreus.",author,,,human,Sextus the Pythagorean,Q11949632
 Sextus Pompeius Festus,author,,,human,Sextus Pompeius Festus,Q302723
 Sextus Pythagoricus,author,,,human,Sextus Empiricus,Q236594
-Sforza,former owner,,,organization,House of Sforza,Q130858
 "Sforza, Ascanio Maria, 1455-1505",author,,http://id.loc.gov/authorities/names/no2003010876,human,Ascanio Sforza,Q561411
 "Sforza, Ascanio Maria, 1455-1505",author,,,human,Ascanio Sforza,Q561411
 "Sforza, Giovanni, 1466-1515",former owner,,,human,Giovanni Sforza,Q1379775
@@ -4000,7 +3739,6 @@ Shimshon ben Gavriʼel,scribe,,,human,Shimshon ben Gavriʼel,Q116619791
 "Shīrāzī, ʻInāyat Allāh",former owner,شيرازي، عاناية الله,,human,ʻInāyat Allāh Shīrāzī,Q116619803
 "Shīrāzī, ʻInāyat Allāh",former owner,,,human,ʻInāyat Allāh Shīrāzī,Q116619803
 "Shirwānī, Muḥammad al-Amīn ibn Ṣadr al-Dīn, -1626 or 1627",author,شرواني، محمد الامين بن صدر الدين، -1626 أو 1627,,human,Muḥammad al-Amīn ibn Ṣadr al-Dīn Shirwānī,Q114242426
-Shop assistant to Jean Pichore,artist,,,human,Shop assistant to Jean Pichore,Q122873526
 "Shore, Offley Bohun Stovin Fairless, 1863-1922",former owner,,,human,Offley Bohun Stovin Fairless Shore,Q114242408
 Sicco Polenton,author,,,human,Sicco Polenton,Q3960051
 Sidonius Appolinaris,author,,,human,Sidonius Apollinaris,Q302936
@@ -4058,7 +3796,6 @@ Sixtus IV,author,,,human,Sixtus IV,Q163514
 "Smith, Edgar F. 1854-1928",former owner,,,human,Edgar Fahs Smith,Q3047451
 "Smith, William fl. 1596.",author,,,human,William Smith,Q8018559
 "Smyth, John 1567-1640.",author,,,human,John Smith,Q6258360
-"Sneyd, Walter",former owner,,,human,Walter Sneyd,Q62619661
 "Sneyd, Walter, 1809-1888",former owner,,http://id.loc.gov/authorities/names/n90636281,human,Walter Sneyd,Q62619661
 "Sneyd, Walter, 1809-1888",former owner,,,human,Walter Sneyd,Q62619661
 Societas Sanctae Annae,author,,,organization,"Society of Saint Anne (Malogoszcz, Poland)",Q116709199
@@ -4092,12 +3829,9 @@ Spain. Sovereign (1556-1598 : Philip II),author,,http://id.loc.gov/authorities/n
 Spain. Sovereign (1556-1598 : Philip II),author,,,organization,Spain,Q29
 Spanish Forger,author,,http://id.loc.gov/authorities/names/nr2001001716,human,Spanish Forger,Q3222703
 Spanish Forger,author,,,human,Spanish Forger,Q3222703
-"Spaulding, William Stuart",former owner,,,human,William S. Spaulding,Q78083260
 "Speciano, Cesare.",author,,,human,Cesare Speciano,Q3665544
-"Spegher, Marghareta van den, Sister",former owner,,,human,Sister Marghareta van den Spegher,Q122873527
 "Speidell, John, active 1600-1634",author,,http://id.loc.gov/authorities/names/n85355592,human,John Speidell,Q15984704
 "Speidell, John, active 1600-1634",author,,,human,John Speidell,Q15984704
-"Spence, C.J.",former owner,,,human,C.J. Spence,Q122873528
 "Spenser, Edmund 1552?-1599.",author,,,human,Edmund Spenser,Q4352055
 "Speyr Passavant, J. H. de",former owner,,,human,Johann Heinrich von Speyr-Passavant,Q116619851
 "Spezzani, Alfonso",author,,,human,Alfonso Spezzani,Q116619856
@@ -4105,7 +3839,6 @@ Spanish Forger,author,,,human,Spanish Forger,Q3222703
 "Spirito, Lorenzo, -1496",author,,,human,Lorenzo Spirito Gualtieri,Q3837084
 "St. Audries, Alexander Fuller-Acland-Hood, Baron, 1853-1917",former owner,,,human,"Alexander Fuller-Acland-Hood, 1st Baron St Audries",Q4718909
 "St. George, Henry, 1581-1644",former owner,,,human,Henry St George,Q5728579
-"St. John-Mildmay, Henry St. John Carew, Sir, 1791-1845",former owner,,,human,"Sir Henry St John-Mildmay, 4th Baronet",Q24568845
 "Staccoli, Agostino, active 1480",author,,,human,Agostino Staccoli,Q45535876
 "Stafileo, Giovanni, 1472-1528",author,,http://id.loc.gov/authorities/names/n93011774,human,Giovanni Stafileo,Q12633264
 "Stafileo, Giovanni, 1472-1528",author,,,human,Giovanni Stafileo,Q12633264
@@ -4128,7 +3861,6 @@ Stephanus Marcilleti,author,,,human,Stefano Marcilleti,Q41616923
 Stephen Langton,author,,,human,Stephen Langton,Q465329
 Stephen Langton (Stephanus Langton),author,,,human,Stephen Langton,Q465329
 Stephen Whitney Phoenix (1839-1881).,former owner,,,human,S. Whitney Phoenix,Q94355904
-"Stewart, Alexander Bannatyne",former owner,,,human,Alexander Bannatyne Stewart,Q122873529
 "Stewart, Henry Clark",former owner,,,human,Henry Clark Stewart,Q116250300
 "Stewart, J. A. 1846-1933",former owner,,http://id.loc.gov/authorities/names/n50022650,human,John Alexander Stewart,Q6218634
 "Stewart, J. A. 1846-1933",former owner,,,human,John Alexander Stewart,Q6218634
@@ -4139,12 +3871,10 @@ Stift Melk,former owner,,,organization,Melk Abbey,Q660082
 Strabo,author,,,human,Strabo,Q45936
 "Strœhlin, Ernest, 1844-1907",former owner,,http://id.loc.gov/authorities/names/no93038593,human,Ernest Stroehlin,Q53021555
 "Strœhlin, Ernest, 1844-1907",former owner,,,human,Ernest Stroehlin,Q53021555
-"Strong, George T.",former owner,,,human,George Templeton Strong,Q122873530
 "Strong, George Templeton, 1820-1875",former owner,,http://id.loc.gov/authorities/names/n50010502,human,George Templeton Strong,Q339946
 "Strong, George Templeton, 1820-1875",former owner,,,human,George Templeton Strong,Q339946
 "Stuart, Bérault seigneur d'Aubigny ca. 1452-1508.",author,,,human,"Bernard Stewart, 4th Lord of Aubigny",Q2747051
 "Stuart, William, 1798-1874",former owner,,,human,William Stuart,Q8018938
-"Styles, Jeremiah, -1832",former owner,,,human,Jeremiah Styles,Q122873532
 "Sucher, Hermann",former owner,,,human,Hermann Suchier,Q109415
 "Suchier, Hermann, 1848-1914",former owner,,http://id.loc.gov/authorities/names/nr97017881,human,Hermann Suchier,Q109415
 "Suchier, Hermann, 1848-1914",former owner,,,human,Hermann Suchier,Q109415
@@ -4226,7 +3956,6 @@ Thaddeus de Parma,author,,,human,Thaddeus of Parma,Q2408399
 "Theodore, Bishop of Mopsuestia ca. 350-428 or 9",author,,,human,Theodore of Mopsuestia,Q355664
 "Theodore M. Finney, 1972",former owner,,,human,Theodore M. Finney,Q104363138
 Theodoret Bishop of Cyrrhus.,author,,,human,Theodoret,Q317029
-Theodorico de Buckinstorff,former owner,,,human,Theodorico de Buckinstorff,Q122873533
 Theodorus Gaza,author,,,human,Theodoros Gaza,Q287485
 "Theodosius, active 1st century B.C",author,"ثاوذوسيوس, active 1st century B.C",,human,Theodosius of Bithynia,Q1266186
 Theodulf of Orleans,author,,,human,Theodulf of Orléans,Q534814
@@ -4245,7 +3974,6 @@ Theramo de Jacobus,author,,,human,Jacobus de Theramo,Q112372992
 "Thomas, de Cantimpré, approximately 1200-approximately 1270",author,,http://id.loc.gov/authorities/names/n89642958,human,Thomas of Cantimpré,Q572799
 "Thomas, de Cantimpré, approximately 1200-approximately 1270",author,,,human,Thomas of Cantimpré,Q572799
 "Thomas, de Capua, Cardinal, -1243",author,,,human,Thomas of Capua,Q2428445
-"Thomas, George C. (George Clifford)",former owner,,,human,George C. Thomas,Q76520101
 "Thomas, George C. (George Clifford), 1839-1909",former owner,,,human,George C. Thomas,Q76520101
 "Thomas, ‡c Aquinas, Saint, 1225?-1274",author,,,human,Thomas Aquinas,Q9438
 Thomas a` Kempis,author,,,human,Thomas à Kempis,Q220976
@@ -4258,7 +3986,6 @@ Thomas Aquinas (Thomas de Aquino),author,,,human,Thomas Aquinas,Q9438
 Thomas Bradwardine,author,,,human,Thomas Bradwardine,Q461116
 "Thomas Chauncey, obit.",other,,,human,Thomas Chauncey,Q117351877
 Thomas de Cantimpré ca. 1200-ca. 1272,author,,,human,Thomas of Cantimpré,Q572799
-Thomas F. Richardson,former owner,,,human,Thomas F. Richardson,Q114242409
 "Thomas Flecher, of Chastleton",other,,,human,Thomas Flecher,Q117324231
 "Thomas Heneage, Thomas Alward, Anne Boleyn.",other,,,human;human;human,Thomas Heneage;Thomas Alward;Anne Boleyn,Q18529221;Q117401655;Q80823
 Thomas Hoccleve,author,,,human,Thomas Hoccleve,Q1227741
@@ -4271,20 +3998,16 @@ Thomas of Ireland ca. 1265-ca. 1329.,author,,,human,Thomas of Ireland,Q7795517
 "Thomas Thorpe, cat. II (1823), no. 5745, and cat. III (1824), no. 16518;",former owner,,,human,Thomas Thorpe,Q94353688
 "Thomas Thorpe, cat. II (1823), no. 5745, and cat. III (1824), no. 16518; Sir Thomas Phillipps (1792–1872), bought from Thorpe, his MS 2665; his sale, Sotheby’s, 10 June 1896, lot 1182 (it was at one time in the library of the Duc de Chaulnes), unsold, re-offered 5 June 1899, lot 1107;",former owner,,,human,Thomas Phillipps,Q2147709
 Thomas Upton,other,,,human,Thomas Upton,Q110332904
-"Thompson, Henry Yates, 1838-1928",former owner,,,human,Henry Yates Thompson,Q2044609
 "Thomson, Thomas",former owner,,http://id.loc.gov/authorities/names/n84136464,human,Thomas Thomson,Q116192647
 "Thomson, Thomas",former owner,,,human,Thomas Thomson,Q116192647
 "Thoresby, Ralph, 1658-1725",former owner,,,human,Ralph Thoresby,Q7288161
-"Thorpe, Thomas",former owner,,,human,Thomas Thorpe,Q122873534
 "Thorpe, Thomas, 1791-1851",former owner,,,human,Thomas Thorpe,Q94353688
-"Thoué, René Antoine",former owner,,,human,René Antoine Thoué,Q122873536
 "Thouvin, sieur du Bouillon, lawyer, of Lassay, Maine (central France), 1717 (inscription on flyleaf signed ‘Thibault’), and by descent to Madame Villatte à Lassay; the Rev. Walter Sneyd (1809-1888), who also owned no. 78 above; his sale, Sotheby’s, 16 December 1903, lot 383;Charles William Dyson Perrins (1864–1958), who also owned no. 61 above, with his bookplate,",former owner,,,human;human;human,"Thoumin, sieur Du Bouillon;Walter Sneyd;Charles William Dyson Perrins",Q116869180;Q62619661;Q5083550
 "Thouvin, sieur du Bouillon, lawyer, of Lassay, Maine (central France), 1717 (inscription on flyleaf signed ‘Thibault’), and by descent to Madame Villatte à Lassay; the Rev. Walter Sneyd (1809-1888), who also owned no. 78 above; his sale, Sotheby’s, 16 December 1903, lot 383; Charles William Dyson Perrins (1864–1958), who also owned no. 61 above, with his bookplate,",former owner,,,human;human;human,"Thoumin, sieur Du Bouillon;Walter Sneyd;Charles William Dyson Perrins",Q116869180;Q62619661;Q5083550
 Tibullus,author,,,human,Tibullus,Q109598
 Tibullus.,author,,,human,Tibullus,Q109598
 "Tiptoft Master, in the style of. The illumination is close to that of the Paduan painter of the 1460s known as the Tiptoft Master",artist,,,human,Tiptoft Master,Q117463943
 "Tiraboschi, Jacopo, active 1470-1479",scribe,,,human,Jacopo Tiraboschi,Q120442587
-Titus Livius of Forli,author,,https://viaf.org/viaf/79274162,human,Tito Livio Frulovisi,Q2436996
 "Todd, Albert May, 1850-1931",former owner,,http://id.loc.gov/authorities/names/n95016564,human,Albert M. Todd,Q2638433
 "Todd, Albert May, 1850-1931",former owner,,,human,Albert M. Todd,Q2638433
 "Todd, James Henthorn, 1805-1869",former owner,,http://id.loc.gov/authorities/names/n83148177,human,James Henthorn Todd,Q6135937
@@ -4305,7 +4028,6 @@ Torquato Tasso,author,,,human,Torquato Tasso,Q168962
 "to the Rev. Walter Sneyd (1809-1888); Sneyd’s sale, Sotheby’s, 16 December 1903, lot 805; Leighton cat. 1908, no. 5793; sale at Sotheby’s, 16 May 1955, lot 108; George A. Poole, bought from Lawrence Witten in 1956, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,human;human;human,Walter Sneyd;Laurence Claiborne Witten II;George Amos Poole,Q62619661;Q6500535;Q64683625
 "Traces of a library stamp on f. 1. Acquired from Robson and Kerslake (according to de Ricci) by Daniel B. Fearing of Newport, Rhode Island who gave it to the Grolier Club in 1908.",former owner,,,organization;human,Robson & Kerslake;Daniel B. Fearing,Q116626228;Q76009758
 "Traiecto, Petrus de",scribe,,,human,Petrus de Traiecto,Q114242494
-"Trapnell, Alfred",former owner,,,human,Alfred Trapnell,Q120691931
 "Traversari, Ambrogio 1386-1439.",author,,,human,Ambrose Traversari,Q458842
 "Treat, John Harvey, 1839-1908",former owner,,,human,John Harvey Treat,Q94421071
 "Tresham, Thomas, Sir",former owner,,,human,Thomas Tresham II,Q7794558
@@ -4344,7 +4066,6 @@ Ulrich Richental,author,,,human,Ulrich of Richenthal,Q111865
 "Università de' mercanti (Siena, Italy)",author,,,organization,Università de' mercanti (Siena),Q116710000
 Universität Wien. Orientalisches Institut,former owner,,http://id.loc.gov/authorities/names/n81108646,organization,Universität Wien. Institut für Orientalistik,Q116706885
 Universität Wien. Orientalisches Institut,former owner,,,organization,Universität Wien. Institut für Orientalistik,Q116706885
-University of Chicago. Library,former owner,,,organization,University of Chicago Library,Q7895259
 "Unknown. Apparently purchased from Phillip Pirages, November 1987. From the collection of Karen Keel Gould (1946-2012) Gift of Lewis Gould to the Nelson-Atkins Museum of Art in 2012 in his wife's memory.",former owner,,,human;human;organization,Karen L. Gould;Lewis L. Gould;Phillip J. Pirages Fine Books & Manuscripts,Q6369801;Q112391468;Q116790542
 Unknown. From the collection of Karen Keel Gould (1946-2012). Gift of Lewis Gould to the Nelson-Atkins Museum of Art in 2012 in his wife's memory.,former owner,,,human;human,Karen L. Gould;Lewis L. Gould,Q6369801;Q112391468
 Unknown. From the collection of Karen Keel Gould (1946-2012) Gift of Lewis Gould to the Nelson-Atkins Museum of Art in 2012 in his wife's memory.,former owner,,,human;human,Karen L. Gould;Lewis L. Gould,Q6369801;Q112391468
@@ -4366,7 +4087,6 @@ Usuard,author,,,human,Usuard,Q3552715
 Usuardus,author,,,human,Usuard,Q3552715
 "V. M. Voynich (1865-1930), Polish revolutionary and bookseller, who gave it to C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Coella Lindsay Ricketts;Wilfrid Voynich,Q116771179;Q336453
 "Vagad, Gauberte Fabricio de",author,,,human,Gualberto Fabricio de Vagad,Q5613374
-"Vail, Theodore Newton, 1845-1920",former owner,,,human,Theodore Newton Vail,Q3523705
 Valentin Boltz,author,,,human,Valentin Boltz,Q2508243
 "Valera, Cipriano de, 1532?-1625",author,,http://id.loc.gov/authorities/names/n50046665,human,Cipriano de Valera,Q1092753
 "Valera, Cipriano de, 1532?-1625",author,,,human,Cipriano de Valera,Q1092753
@@ -4374,7 +4094,6 @@ Valerius Maximus,author,,,human,Valerius Maximus,Q379991
 Valerius Maximus.,author,,,human,Valerius Maximus,Q379991
 "Valla, Lorenzo, 1407-1457",associated name,,,human,Lorenzo Valla,Q214115
 "Valla, Lorenzo 1407-1457.",author,,,human,Lorenzo Valla,Q214115
-"Vallentin, James",former owner,,,human,James Vallentin,Q122873537
 Valperga (Italy),author,,,organization,Valperga,Q10335
 "van Boendale, Jan d. 1365.",author,,,human,Jan van Boendale,Q644173
 "van Ess, Leander, 1772-1847",former owner,,,human,Johann Heinrich van Ess,Q1810643
@@ -4384,7 +4103,6 @@ Valperga (Italy),author,,,organization,Valperga,Q10335
 "Varchi, Benedetto, 1503-1565",author,,,human,Benedetto Varchi,Q176833
 "Varro, Marcus Terentius.",author,,,human,Marcus Terentius Varro,Q206119
 "Vasilevich, Dionysiĭ",former owner,,,human,Dionysiĭ Vasilevich,Q116646846
-"Vauvré, Jean-Louis Girardin seigneur de 1647-1724",former owner,,,human,Jean-Louis Girardin de Vauvré,Q3166789
 "Vecelli, Antonius de",author,,,human,Antonius de Vecelli,Q116648316
 "Vega, Lope de, 1562-1635",author,,http://id.loc.gov/authorities/names/n79040104,human,Lope de Vega,Q165257
 "Vega, Lope de, 1562-1635",author,,,human,Lope de Vega,Q165257
@@ -4419,7 +4137,6 @@ Vesconte Maggiolo,author,,,human,Visconte Maggiolo,Q2521066
 "Vettori, Pietro, 1499-1585",author,,,human,Piero Vettori,Q784373
 "Victor, Sextus Aurelius",author,,,human,Aurelius Victor,Q275606
 "Victorinus, Marius.",author,,,human,Gaius Marius Victorinus,Q708247
-"Vida, Marco Girolamo",author,,http://viaf.org/viaf/100162370,human,Marco Girolamo Vida,Q1340193
 "Vida, Marco Girolamo, approximately 1485-1566",author,,http://id.loc.gov/authorities/names/n84153992,human,Marco Girolamo Vida,Q1340193
 "Vida, Marco Girolamo, approximately 1485-1566",author,,,human,Marco Girolamo Vida,Q1340193
 Vigliano d'Asti (Italy),author,,,organization,Vigliano d'Asti,Q17880
@@ -4445,28 +4162,19 @@ Virgil,author,,http://id.loc.gov/authorities/names/n79014062,human,Virgil,Q1398
 Virgil,author,,,human,Virgil,Q1398
 Virgil.,author,,,human,Virgil,Q1398
 "Vischer, Johannes",scribe,,,human,Johannes Vischer,Q1390484
-"Visconti di Modrone, C., Duke",former owner,,,human,Duke C. Visconti di Modrone,Q122873538
 Viscount Lymington,former owner,,,human,"John Wallop, Viscount Lymington",Q6262841
 "Vitus, Saint, -approximately 300.",associated name,,,human,Vitus,Q212850
 "Vollbehr, Otto H. F. 1869-1946",former owner,,http://id.loc.gov/authorities/names/n89103791,human,Otto Vollbehr,Q23906104
 "Vollbehr, Otto H. F. 1869-1946",former owner,,,human,Otto Vollbehr,Q23906104
 "Volpe, Galuccio Trevisono",author,,,human,Galuccio Trevisono Volpe,Q116650301
-"von Kniestedt, Eberhard",former owner,,,human,Eberhard von Kniestedt,Q55895566
-"Voynich, Arno M.",former owner,,,human,Arno M. Voynich,Q122873539
 "Voynich, Wilfred Michael, 1865-1930",former owner,,http://id.loc.gov/authorities/names/n88244649,human,Wilfrid Voynich,Q336453
 "Voynich, Wilfred Michael, 1865-1930",former owner,,,human,Wilfrid Voynich,Q336453
-"Vrelant, Guillaume, -1481",artist,,,human,Willem Vrelant,Q363720
-"Vrelant, Guillaume, -1481, workshop",artist,,,human,Willem Vrelant,Q363720
-"Vremans, Anna",former owner,,,human,Anna Vremans,Q122873541
 "Vyncent, Richard, vicar of Wolford",other,,,human,Richard Vyncent,Q117324262
-W.C. Crane,former owner,,,human,Warren C. Crane,Q122873300
 W. H. Crain,former owner,,,human,William H. Crain,Q2579042
 Wace,author,,,human,Wace,Q5382
 "Waghenaer, Lucas Janszoon 1534 or 5-1606.",author,,,human,Lucas Janszoon Waghenaer,Q938869
 "Wake, Henry T.",former owner,,,human,Henry Thomas Wake,Q114242492
 Walerand ap Adam,author,,,human,Walerand ap Adam,Q114242491
-"Waleys, Thomas, approximately 1287-1350?",author,,http://id.loc.gov/authorities/names/nr96019891.html,human,Thomas Waleys,Q7794824
-"Walker, John",former owner,,,human,John Walker,Q122873542)
 "Walker, T. Shadford",former owner,,,human,Thomas Shadford Walker,Q114242411
 "Wallop (Conduit), Catherine, Viscountess Lymington",former owner,,,human,Catherine Conduitt,Q75439560
 "Walsingham, Francis Sir 1530?-90.",author,,,human,Francis Walsingham,Q56185430
@@ -4493,13 +4201,6 @@ Walter Raglan Hubbard (1890),former owner,,,human,Walter Raglan Hubbard,Q1142424
 Werner Rolevinck,author,,,human,Werner Rolevinck,Q75631
 Wernigerode (Germany). Rath,author,,,organization,Wernigerode,Q15982
 "White, Henry",former owner,,,human,Henry White,Q108945762
-"Wichfeld, Josephine Widener",former owner,,,human,Josephine Widener Wichfield,Q122873543
-"Wichfield, Josephine Widener",former owner,,,human,Josephine Widener Wichfield,Q122873543
-"Widener, Joseph E. (Joseph Early)",former owner,,,human,Joseph E. Widener,Q4468398
-"Widener, Joseph E. (Joseph Early), 1872-1943",former owner,,,human,Joseph E. Widener,Q4468398
-"Widener, P.A.B. (Peter Arrell Brown)",former owner,,,human,Peter Arrell Brown Widener,Q7172565
-"Widener, P.A.B. (Peter Arrell Brown), 1834-1915",former owner,,,human,Peter Arrell Brown Widener,Q7172565
-"Widener, Peter Arrell Brown, 1895-1948",former owner,,,human,Peter Arrell Brown Widener II,Q27886487
 Wigand Gerstenberger,author,,,human,Wigand Gerstenberg,Q2569735
 "Wigg, Johannes",former owner,,,human,Johannes Wigg,Q116649908
 "Wilczek, Johann Nepomuk, Graf von",former owner,,http://id.loc.gov/authorities/names/n84192031,human,Count Johann Nepomuk Wilczek,Q79101
@@ -4513,7 +4214,6 @@ Willem Gilliszoon van Wissekerke (Guilelmus Aegidii de Zelandia),author,,,human,
 "William, de Montibus, approximately 1140-1213",author,,,human,William de Montibus,Q18535021
 "William, of Conches, 1080-approximately 1150",author,,http://id.loc.gov/authorities/names/n83217766,human,William of Conches,Q615260
 "William, of Conches, 1080-approximately 1150",author,,,human,William of Conches,Q615260
-"William, of Malmesbury, approximately 1090-1143",author,,http://viaf.org/viaf/205295992/,human,William of Malmesbury,Q345524
 "William, of Ockham, approximately 1285-approximately 1349",author,,http://id.loc.gov/authorities/names/n79081704,human,William of Ockham,Q43936
 "William, of Ockham, approximately 1285-approximately 1349",author,,,human,William of Ockham,Q43936
 "William, of Pagula, approximately 1290-1332",author,,http://id.loc.gov/authorities/names/n85821966,human,William of Pagula,Q8020898
@@ -4532,7 +4232,6 @@ William Durantis,author,,,human,Guillaume Durand,Q2329414
 William Heytesbury,author,,,human,William of Heytesbury,Q1856133
 William Langland,author,,,human,William Langland,Q467672
 William Lichfield,author,,,human,William Lichefeld,Q18593613
-William Lymnor of Sharrington,former owner,,,human,William Lymnor of Sharrington,Q122873544
 William Lyndwood,author,,,human,William Lyndwood,Q8014815
 William Nichol,other,,,human,William Nichol,Q117324284
 William of Conches (Guilelmus de Conchis),author,,,human,William of Conches,Q615260
@@ -4550,14 +4249,11 @@ William Poul of Pagula,author,,,human,William of Pagula,Q8020898
 "Williams, John Camp, 1859?-1929",former owner,,http://id.loc.gov/authorities/names/nr97034499,human,John Camp Williams,Q111383985
 "Williams, John Camp, 1859?-1929",former owner,,,human,John Camp Williams,Q111383985
 "Williams, Talcott, 1849-1928",former owner,,,human,Talcott Williams,Q7679087
-"Williams, Theodore",former owner,,,human,Theodore Williams,Q114242423
 "Williams, Theodore, 1785-1875",former owner,,,human,Theodore Williams,Q114242423
 "Williams, Theodore, Rev",former owner,,,human,Theodore Williams,Q96075278
 William Salloch (Firm),former owner,,,organization,William Salloch (Firm),Q120442757
 William Targ,former owner,,,human,William Targ,Q8019178
 "William Young Ottley (1771-1836) probably; John Rushout, second Baron Northwick (1770-1859); Northwick Park sale, Sotheby’s, 21 May 1928, part of lot 14; C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human;human,"William Young Ottley;John Rushout, 2nd Baron Northwick;Coella Lindsay Ricketts",Q8020693;Q6255944;Q116771179
-"Wills, Howel",former owner,,,human,Howel Wills,Q120869152
-"Wing, C. W. (Charles William), active 1826-1860",artist,,,human,Charles William Wing,Q122873545
 "Wing, C. W. (Charles William) fl. 1826-1860.",author,,,human,Charles William Wing,Q115182706
 "Winsor, Jacob",former owner,,,human,Jacob Winsor,Q116649701
 "Wix, Edward",former owner,,,human,Edward Wix,Q5345964
@@ -4567,10 +4263,7 @@ William Targ,former owner,,,human,William Targ,Q8019178
 Wolfram von Eschenbach 12th cent.,author,,,human,Wolfram von Eschenbach,Q18821
 "Woodward, William Harrison, 1856-1941",former owner,,http://id.loc.gov/authorities/names/n88666834,human,William Harrison Woodward,Q47876566
 "Woodward, William Harrison, 1856-1941",former owner,,,human,William Harrison Woodward,Q47876566
-Workshop of the Master of Jacques de Besançon,artist,,,human,Master of Jacques de Besançon,Q1918551
-Workshop of the Master of the Échevinage de Rouen,artist,,,organization,Workshop of the Master of the Échevinage de Rouen,Q122873669
 "Wrenn, John Henry, 1841-1911",former owner,,,human,John Henry Wrenn,Q114242412
-"Wright, Harrison",former owner,,,human,Harrison Wright,Q114242489
 "Wright, Harrison, Esq.",former owner,,,human,Harrison Wright,Q114242489
 "Wright, John",former owner,,,human,John Wright,Q114242488
 "Written by Iodocus Grebel at Lucerne in 1617. Front pastedown bears a note in pencil: ""bought at Lucerne 21 June 1884;"" and a book seller or dealer description labeled ""110."" Given to GTS by Guild of Scholars in 1948, per typed card and bookplate.",former owner,,,human,Iodocus Grebel,Q116958813
@@ -4589,7 +4282,6 @@ Xenophon.,author,,,human,Xenophon,Q129772
 "Yāfiʻī, ʻAbd Allāh ibn Asʻad, -1367",author,,,human,Abdullah bin Asaad Al-Yafi'i,Q12223451
 "Yngram, Emmote",other,,,human,Emmote Yngram,Q117351849
 "Yngram, William",other,,,human,William Yngram,Q117338069
-"Ysermans, Petrus",former owner,,,human,Petrus Ysermans,Q122873546
 Ysidorus,scribe,,,human,Isidorus,Q11714977
 "Zabarella, Francesco 1360-1417.",author,,,human,Francesco Zabarella,Q1338205
 "Zacchi, Gaspare.",author,,,human,Gaspare Zacchi,Q115182617
