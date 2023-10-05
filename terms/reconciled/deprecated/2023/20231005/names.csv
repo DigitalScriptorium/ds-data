@@ -10,12 +10,10 @@ name_as_recorded,role,name_agr,source_authority_uri,instance_of,authorized_label
 Abbaye d'Ambronay,associated name,,,organization,Our Lady of Ambronay,Q1283154
 "Abbaye de Chassagne (Ain, France)",associated name,,,organization,Chassagne monastery,Q1775120
 "Abbaye Saint-Sulpice (Ain, France)",former owner,,,organization,Abbaye de Saint-Sulpice,Q1572876
-Abbazia di Morimondo,former owner,,http://id.loc.gov/authorities/names/nr93035920 http://id.loc.gov/authorities/names/nr93035920 http://viaf.org/viaf/sourceID/LC%7cnr93035920,organization,Abbey of Morimondo,Q1775687
 "Abbey, J. R. 1896-1969",former owner,,http://id.loc.gov/authorities/names/nr94014439,human,John Roland Abbey,Q6255470
 "Abbey, J. R. 1896-1969",former owner,,,human,John Roland Abbey,Q6255470
 Abbot von Heselwang,former owner,,,human,Abbot von Heselwang,Q114242549
 "Abezier, Johann",former owner,,,human,Johannes Abezier,Q95771
-"Abīwardī, Muḥammad ibn Aḥmad, -1113",author,ابيوردي، محمد بن احمد، -1113,,human,Muḥammad ibn Aḥmad Abīwardī,Q112875441
 Abraham Abulafia,author,,,human,Abraham Abulafia,Q323448
 Abraham bar Hiyya ha-Nasi,author,,,human,Abraham bar Hiyya,Q31439
 "Abraham bar Hiyya Savasorda, approximately 1065-approximately 1136",author,,http://id.loc.gov/authorities/names/n50057585,human,Abraham bar Hiyya,Q31439
@@ -23,23 +21,13 @@ Abraham bar Hiyya ha-Nasi,author,,,human,Abraham bar Hiyya,Q31439
 "Abraham ben Meshullam, of Sant'Angelo",scribe,,,human,Abraham ben Meshullam of Sant'Angelo,Q116193103
 Abraham Faber,author,,,human,Abraham Faber,Q67198306
 Abraham ibn Ezra,author,,,human,Abraham ibn Ezra,Q270670
-"Abū al-Faraj al-Iṣbahānī, 897 or 898-967",author,ابو الفرج الاصبهاني، 897 or 898-967,,human,Abu al-Faraj al-Isfahani,Q335599
-"Abū al-Faraj ʻAbd Allāh ibn al-Tayyib, -1043",author,ابو الفرج عبد الله بن الطيب,http://id.loc.gov/authorities/names/nr95024340,human,Ibn al-Tayyib,Q2820894
 Abū al-Ḥasan Sa'ad,scribe,,,human,Abū al-Ḥasan Sa'ad,Q116235219
-"Abū al-Layth al-Samarqandī, Naṣr ibn Muḥammad, -983",author,ابو الليث السمرقندي، نصر بن محمد، -983؟,http://id.loc.gov/authorities/names/n82268136(uri) http://id.loc.gov/authorities/names/n82268136(uri) http://viaf.org/viaf/sourceID/LC%7cn82268136,human,Abu al-Layth al-Samarqandi,Q938348
 "Abū al-Layth al-Samarqandī, Naṣr ibn Muḥammad, -983",author,,http://id.loc.gov/authorities/names/n82268136,human,Abou al-Layth As Samarqandî,Q938348
 "Abū al-Layth al-Samarqandī, Naṣr ibn Muḥammad, -983",author,ابو الليث السمرقندي، نصر بن محمد، -983؟,,human,Abou al-Layth As Samarqandî,Q938348
 "Abū al-Qāsim Khalaf ibn ʻAbbās al-Zahrāwī, -1013",author,أبو القاسم خلف بن عباس الزهراوي، -1013,http://id.loc.gov/authorities/names/n80103641,human,Abu al-Qasim al-Zahrawi,Q311495
 "Abū al-Qāsim Khalaf ibn ʻAbbās al-Zahrāwī, -1013",author,,,human,Abu al-Qasim al-Zahrawi,Q311495
-"Abū al-Saʻūd Muḥammad ibn Muḥammad, 1492 or 1493-1574 or 1575",author,ابو السعود محمد بن محمد، 1492 or 1493-1574 or 1575,,human,Ebussuud Effendi,Q4892993
 "Abū Bakr al-Ḥaṣṣār, active 12th century",author,ابو بكر الحصار، active 12th century,http://id.loc.gov/authorities/names/no2016124755,human,Abu Bakr al-Hassar,Q4116723
 "Abū Bakr al-Ḥaṣṣār, active 12th century",author,,,human,Abu Bakr al-Hassar,Q4116723
-"Abū Nuʻaym al-Iṣbahānī, Aḥmad ibn ʻAbd Allāh, 948-1038",author,ابو نعيم الاصبهاني، احمد بن عبد الله,,human,Abu Nu`aym,Q2822174
-"Abū Nuʻaym al-Iṣbahānī, Aḥmad ibn ʻAbd Allāh, 948-1038",author,ابو نعيم الاصبهاني، احمد بن عبد الله، 948-1038,,human,Abu Nu`aym,Q2822174
-"Abū Nuʻaym al-Iṣbahānī, Aḥmad ibn ʻAbd Allāh, 948-1038",author,"ابو نعيم الاصبهاني، احمد بن عبد الله, 948-1038",,human,Abu Nu`aym,Q2822174
-"Abū Shāmah, ʻAbd al-Raḥmān ibn Ismāʻīl, 1203-1267",author,ابو شامة، عبد الرحمن بن اسماعيل,http://id.loc.gov/authorities/names/n80137503,human,Abu-Shama al-Maqdissí,Q481455
-"Abū Tammām Ḥabīb ibn Aws al-Ṭāʼī, active 808-842",author,ابو تمام حبيب بن اوس الطائي، active 808-842,,human,Abu Tammam,Q1750054
-"Abū Tammām Ḥabīb ibn Aws al-Ṭāʼī, active 808-842",author,ابو تمام حبيب بن اوس الطائي، active 808-842,,human,Abu Tammam,Q1750054
 "Accademia platonica (Florence, Italy)",author,,http://id.loc.gov/authorities/names/n85068842,organization,Platonic Academy,Q4579791
 "Accademia platonica (Florence, Italy)",author,,,organization,Platonic Academy,Q4579791
 Acciaiuoli family,author,,,human,Acciaioli family,Q339067
@@ -109,7 +97,6 @@ Aḥmad al-Mudarris,former owner,احمد المدرس،,,human,Aḥmad al-Mudar
 Aḥmad ibn Mubārak Luṭf Allāh,former owner,احمد بن مبارك لطف الله،,,human,Aḥmad ibn Mubārak Luṭf Allāh,Q114242455
 Aḥmad ibn Mubārak Luṭf Allāh,former owner,,,human,Aḥmad ibn Mubārak Luṭf Allāh,Q114242455
 Ahmad ibn Muhammad Rasis,author,,,human,Ahmad ibn Muhammad al-Razi,Q8192126
-"Ailesbury, Charles Bruce, Earl of, 1682-1747",former owner,,,human,"Charles Bruce, 3rd Earl of Ailesbury",Q5075841
 Ailred of Rievaulx,author,,,human,Aelred of Rievaulx,Q380845
 "Aitchison, R. T. 1887-1964",associated name,,,human,R. T. Aitchison,Q120442551
 "Akbar, Emperor of Hindustan, 1542-1605",former owner,,http://id.loc.gov/authorities/names/n80002413,human,Akbar,Q8597
@@ -117,7 +104,6 @@ Ailred of Rievaulx,author,,,human,Aelred of Rievaulx,Q380845
 "Aken, Hein van.",author,,,human,Hein van Aken,Q2395779
 "Akhaṇḍānanda, Muni",author,,,human,Muni Akhaṇḍānanda,Q114242416
 "Akhtarī, Muṣṭafá ibn Aḥmad, -1560 or 1561",author,اختري، مصطفى بن احمد,,human,Ahterî,Q21600909
-"Akmal al-Dīn al-Bābartī, Muḥammad ibn Maḥmūd, 1310 or 1311-1384 or 1385",author,اكمل الدين البابرتي، محمد بن محمود، 1310 or 1311-1384 or 1385,http://id.loc.gov/authorities/names/nr91037636 http://id.loc.gov/authorities/names/nr91037636 http://viaf.org/viaf/sourceID/LC%7cnr91037636,human,Akmal al-Din al-Babarti,Q12180143
 "Alagona, Arthelouche de.",author,,,human,Artelouche de Alagona,Q53561928
 Alain Chartier,author,,,human,Alain Chartier,Q982038
 "Alamanno, di Bernardo di Alamanni de Medici",author,,,human,Alamanno de' Medici,Q116181729
@@ -242,7 +228,6 @@ Ambrosius Camaldulensis,author,,,human,Ambrose Traversari,Q458842
 "American Art Association, Anderson Galleries (Firm)",former owner,,,organization,Anderson Galleries,Q72940895
 "Amherst, William Amhurst Tyssen-Amherst, Baron, 1835-1909",former owner,,,human,"William Tyssen-Amherst, 1st Baron Amherst of Hackney",Q333839
 A Minister of the Church of England,author,,,human,Josiah Woodward,Q6290669
-"Amīr al-Kabīr, Muḥammad ibn Muḥammad, 1742-1817",author,امير الكبير، محمد بن محمد، 1742-1817,,human,Muḥammad ibn Muḥammad Amīr al-Kabīr,Q28714934
 "Amram, David Werner, 1866-1939",former owner,,http://id.loc.gov/authorities/names/n85197110,human,David Werner Amram,Q5240973
 "Amram, David Werner, 1866-1939",former owner,,,human,David Werner Amram,Q5240973
 "Amsdorff, Nicolaus von, 1483-1565",author,,http://id.loc.gov/authorities/names/n2001065930,human,Nicolaus von Amsdorf,Q63188
@@ -291,10 +276,6 @@ Angelus de Periglis,author,,,human,Angelo de' Perigli,Q3617290
 "Anne of Brittany (1477-1514) and her husband Louis XII (1462-1515, king of France 1498-1515); C. L. Ricketts, bought from Joseph Martini, 1914; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human;human;human,Anne of Brittany;Louis XII of France;Coella Lindsay Ricketts;Giuseppe Martini,Q201143;Q58514;Q116771179;Q98834332
 "Anne of Brittiany, Louis XII",other,,,human;human,Anne of Brittany;Louis XII of France,Q201143;Q58514
 Anonymus Neveleti,author,,,human,Gualterus Anglicus,Q3778129
-"Anṣārī, Zakarīyā ibn Muḥammad, approximately 1423-approximately 1520",author,انصاري، زكريا بن محمد approximately 1423-approximately 1520,,human,Zakariyya al-Ansari,Q4117458
-"Anṣārī, Zakarīyā ibn Muḥammad, approximately 1423-approximately 1520",author,انصاري، زكريا بن محمد، approximately 1423-approximately 1520,,human,Zakariyya al-Ansari,Q4117458
-"Anṣārī, Zakarīyā ibn Muḥammad, approximately 1423-approximately 1520",author,انصاري، زكريا بن محمد، approximately 1423-approximately 1520,http://id.loc.gov/authorities/names/n85197808 http://id.loc.gov/authorities/names/n85197808 http://viaf.org/viaf/sourceID/LC%7cn85197808,human,Zakariyya al-Ansari,Q4117458
-"Anṣārī, ʻAbd Allāh ibn Muḥammad, 1247 or 1248-1323 or 1324",author,"انصاري، عبد الله بن محمد, 1247 or 1248-1323 or 1324",http://id.loc.gov/authorities/names/nr90021710,human,ʻAbd Allāh ibn Muḥammad Anṣārī,Q122946944
 "Anṣārī, ʻAlī ibn ʻAbd Allāh",scribe,انصاري، علي بن عبد الله، ǂe scribe,,human,ʻAlī ibn ʻAbdallah Anṣārī,Q116235860
 "Anṣārī, ʻAlī ibn ʻAbd Allāh",scribe,,,human,ʻAlī ibn ʻAbdallah Anṣārī,Q116235860
 Anselm,author,,,human,Anselm of Canterbury,Q43939
@@ -315,7 +296,6 @@ Antoninus de Noventa,scribe,,,human,Antoninus de Noventa,Q117324347
 Antoninus Florentinus,author,,,human,Antoninus of Florence,Q773822
 Antoninus of Florence,author,,,human,Antoninus of Florence,Q773822
 "Antoninus Saint, Archbishop of Florence 1389-1459.",author,,,human,Antoninus of Florence,Q773822
-"Antonio, de Sant Romà, fray",scribe,,,human,Fray Antonio de Sant Roma,Q121464479
 Antonio Barbarigo,other,,,human,Antonio Barbarigo,Q91909669
 Antonio da Tempo,author,,,human,Antonio da Tempo,Q3620368
 "Antonio di Domenice, di Ciacco",author,,,human,Antonio di Domenice di Ciacco,Q116235870
@@ -361,7 +341,6 @@ Aristotle (Aristoteles),author,,,human,Aristotle,Q868
 Aristotle pseud.,author,,,human,Pseudo-Aristotle,Q1783131
 Arles (France),author,,http://id.loc.gov/authorities/names/n79089381,organization,Arles,Q48292
 Arles (France),author,,,organization,Arles,Q48292
-"Armayūnī, Yūsuf ibn ʻAbd Allāh, -1551",author,ارميوني، يوسف بن عبد الله، -1551,http://id.loc.gov/authorities/names/no99011960,human,Yūsuf ibn ʻAbd Allāh Armayūnī,Q122946945
 "Armellini Medici, Francesco de', Cardinal, 1470-1527",author,,,human,Francesco Armellini Pantalassi de' Medici,Q2374621
 "Armorial bookplate of George Becher Blomfield (1801-1885) on front pastedown. The accompanying description written by the bookseller P.M. Barnard of Tunbridge Wells, England, November 1910; acquired by General Theological Seminary on the Dean Hoffmann Fund.",former owner,,,human;human,George Becher Blomfield;Percy Mordaunt Barnard,Q76355566;Q94925072
 "Arms: 1, azure a fesse argent between three wheels argent; 2, argent a crescent azure and in chief a label of three points gules. Henry W. Poor sale (New York, 17 November 1908, I, n. 800) to G. D. Smith. Bequest to the Grolier Club by Beverly Chew.",former owner,,,human;human;human,Henry William Poor;George D. Smith;Beverly Chew,Q5730239;Q116594130;Q116598881
@@ -374,7 +353,6 @@ Arnald Abbot of Bonneval.,author,,,human,Arnaud of Bonneval,Q91016408
 "Arnaldus, de Villanova, d. 1311",author,,,human,Arnaldus de Villa Nova,Q356568
 Arnaldus de Villanova,author,,,human,Arnaldus de Villa Nova,Q356568
 Arnaldus de Villanova,author,,http://viaf.org/viaf/100189814,human,Arnaldus de Villa Nova,Q356568
-"Arnold, William Harris, 1854-1923",former owner,,,human,William Harris Arnold,Q109854300
 Arnold of Villa Nova,author,,,human,Arnaldus de Villa Nova,Q356568
 Arnoldus de Villanova,author,,,human,Arnaldus de Villa Nova,Q356568
 "Arnoul, de Bohéries, 12th century",author,,,human,Arnulf of Bohéries,Q88017720
@@ -388,7 +366,6 @@ Arrigucci family,author,,,organization,Arrigucci family,Q116712171
 Artelouche de Alagona.,author,,,human,Artelouche de Alagona,Q53561928
 Arthur Golding,author,,,human,Arthur Golding,Q1932211
 "Arundel, Philip Howard Earl of, Saint 1557-1595.",author,,,human,"Philip Howard, 20th Earl of Arundel",Q336320
-"Arwādī, Aḥmad ibn Sulaymān, -approximately 1858",author,اروادي، احمد بن سليمان، -approximately 1858,http://id.loc.gov/authorities/names/nr94040455 http://id.loc.gov/authorities/names/nr94040455 http://viaf.org/viaf/sourceID/LC%7cnr94040455,human,Aḥmad ibn Sulaymān Arwādī,Q122946946
 "Ascherson, C. S",former owner,,,human,Charles Stephen Ascherson,Q51376234
 "Ascherson, Charles Stephen, 1877-1945",former owner,,,human,Charles Stephen Ascherson,Q51376234
 "Ashburner, Walter, 1864-1936",former owner,,http://id.loc.gov/authorities/names/n84056231,human,Walter Ashburner,Q52155775
@@ -400,7 +377,6 @@ Arthur Golding,author,,,human,Arthur Golding,Q1932211
 "Assemani, Antonio",former owner,,,human,Antonio Assemani,Q116250586
 "Astarābādī, ʻAlī ibn Kamāl al-Dīn Maḥmūd",scribe,استرابادي، علي بن كمال الدين محمود،,,human,ʻAlī ibn Kamāl al-Dīn Maḥmūd Astarābādī,Q116250121
 "Astarābādī, ʻAlī ibn Kamāl al-Dīn Maḥmūd",scribe,,,human,ʻAlī ibn Kamāl al-Dīn Maḥmūd Astarābādī,Q116250121
-"Aṭahʹlī, Muṣṭafá ibn Ḥamzah, active 17th century",author,اطه‌لي، مصطفى بن حمزة، active 17th century,,human,Muṣṭafá ibn Ḥamzah Aṭahʹlī,Q121322648
 "Athanasius, Saint, Patriarch of Alexandria, -373.",associated name,,,human,Athanasios of Alexandria,Q44024
 Athanasius (Alexandrinus Athanasius),author,,,human,Athanasios of Alexandria,Q44024
 Athanasius of Alexandria,author,,,human,Athanasios of Alexandria,Q44024
@@ -452,19 +428,14 @@ Avicenna,author,,,human,Avicenna,Q8011
 "Avicenna, 980-1037",author,,,human,Avicenna,Q8011
 "Ayala, Diego de, active 1576-1578",former owner,,http://id.loc.gov/authorities/names/no2016085800,human,Diego de Ayala,Q116250459
 "Ayala, Diego de, active 1576-1578",former owner,,,human,Diego de Ayala,Q116250459
-"Āzād Bilgrāmī, Ghulām ʻAlī ibn Nūḥ, 1704-1786",author,آزاد بلگرامي، غلام علي بن نوح، 1704-1786,,human,Azad Bilgrami,Q4115269
-"Azdī, Ḥasan ibn Abī ʻAbd Allāh, active 13th century",scribe,ازدي، حسن بن ابي عبد الله، active 13th century,,human,Ḥasan ibn Abī ʻAbd Allāh Azdī,Q121464718
-"Azharī, Khālid ibn ʻAbd Allāh, -1499",author,ازهري، خالد بن عبد الله، -1499,,human,Khālid ibn ʻAbd Allāh Azharī,Q28717430
 Azo of Bologna,author,,,human,Azo of Bologna,Q531181
 "Babthorpe, William",former owner,,,human,William Babthorpe,Q8004899
 "Bacon, Nathaniel 1547-1622.",author,,,human,Nathaniel Bacon,Q6969488
 "Bacon, Nicholas Sir 1509-1579.",author,,,human,Nicholas Bacon,Q608866
 Baebius Italicus,author,,,human,Publius Baebius Italicus,Q718552
-"Baghawī, al-Ḥusayn ibn Masʻūd, -1117",author,بغوي، الحسين بن مسعود,http://id.loc.gov/authorities/names/n81020342,human,al-Ḥusayn ibn Masʻūd Baghawī,Q122946947
 "Baghdādī, Muḥammad ibn ʻAbd Allāh ibn al-Mujill",scribe,بغدادي، محمد بن عبد الله بن المجل،,,human,Muḥammad ibn ʻAbd Allāh ibn al-Mujill Baghdādī,Q116250606
 "Baghdādī, Muḥammad ibn ʻAbd Allāh ibn al-Mujill",scribe,,,human,Muḥammad ibn ʻAbd Allāh ibn al-Mujill Baghdādī,Q116250606
 Bagnano family,author,,,organization,Bagnano family,Q116730914
-"Baḥraq, Muḥammad ibn ʻUmar, 1465-1524",author,"بحرق، محمد بن عمر, 1465-1524",,human,Bahraq of Yemen,Q57713093
 "Baier, Johann David",former owner,,,human,Johann David Baier,Q55674108
 "Baillie-Weaver, Harold, 1860-1926",former owner,,,human,Harold Baillie Weaver,Q18821788
 "Baillie-Weaver, Harold, -1926",former owner,,,human,Harold Baillie Weaver,Q18821788
@@ -476,7 +447,6 @@ Baldus de Ubaldis,author,,,human,Baldus de Ubaldis,Q504929
 "Balthasar, de Piscia, 15th century",author,,,human,Balthasar de Piscia,Q116250665
 "Bannānī, Muḥammad ibn Aḥmad ibn Ṣāliḥ",scribe,بناني، محمد احمد بن صالح,,human,Muḥammad ibn Aḥmad ibn Ṣāliḥ Bannānī,Q114242430
 "Bannānī, Muḥammad ibn al-Ḥasan, 1720 or 1721-1780",author,بناني، محمد بن الحسن، 1720 أو 1721-1780,,human,Al-Bannani,Q16145863
-"Bannānī, ʻAbd al-Raḥmān ibn Jād Allāh, -1783 or 1784",author,بناني، عبد الرحمن بن جاد الله، -1783 or 1784,http://id.loc.gov/authorities/names/nr91020526,human,ʻAbd al-Raḥmān ibn Jād Allāh Bannānī,Q122946948
 Barbara Gwichtmacherin?,artist,,,human,Barbara Gwichtmacherin,Q117338108
 Barbarigo family,other,,,organization,Barbarigo family,Q2884101
 "Barbaro, Francesco 1390-1454.",author,,,human,Francesco Barbaro,Q712032
@@ -531,8 +501,6 @@ Basil,author,,,human,Basil of Caesarea,Q44258
 "Basil Saint, Bishop of Caesarea ca. 329-379.",author,,,human,Basil of Caesarea,Q44258
 Basil the Great,author,,,human,Basil of Caesarea,Q44258
 Bassula,other,,,human,Bassula,Q117338225
-"Bateman, Thomas, 1821-1861",former owner,,,human,Thomas Bateman,Q3990581
-"Bateman, William, 1787-1835",former owner,,,human,William Bateman,Q18531015
 Batide Rolande,author,,,human,Batide Rolande,Q116250776
 Battista Agnese,author,,,human,Battista Agnese,Q612967
 "Battista di Niccolò da Padova, a Paduan illuminator and fresco painter, a layman (he married Antonia Casini in 1415), who was working in Rome 1432–38 and from the 1440s in Florence, where he died in 1452 (A. D. Bussi in Bollati 2004, pp. 72–74).",artist,,,human,Battista di Niccolò da Padova,Q117425078
@@ -543,13 +511,8 @@ Baudouin d'Avesnes.,author,,,human,Baldwin of Avesnes,Q466184
 "Baugh, Albert C. 1891-1981",former owner,,,human,Albert C. Baugh,Q4709851
 "Bayard, Jean",author,,http://id.loc.gov/authorities/names/n2008072938,human,Jean Bayard,Q116066006
 "Bayard, Jean",author,,,human,Jean Bayard,Q116066006
-"Bayḍāwī, ʻAbd Allāh ibn ʻUmar, -1286",author,بيضاوي، عبد الله بن عمر، -1286,,human,Baidawi,Q287573
-"Bayḍāwī, ʻAbd Allāh ibn ʻUmar, -1286",author,بيضاوي، عبد الله بن عمر، -1286؟,http://id.loc.gov/authorities/names/n82085851,human,Baidawi,Q287573
-"Bayḍāwī, ʻAbd Allāh ibn ʻUmar, -1286",author,بيضاوي، عبد الله بن عمر، -1286؟,,human,Baidawi,Q287573
 "Bayḍāwī, ʻAbd Allāh ibn ʻUmar, -1286",author,بيضاوي، عبد الله بن عمر، -1286؟,,human,Baidawi,Q287573
-"Bayhaqī, Aḥmad ibn al-Ḥusayn, 994-1066",author,بيهقي، احمد بن الحسين، 994-1066,http://id.loc.gov/authorities/names/n84182370 http://id.loc.gov/authorities/names/n84182370 http://viaf.org/viaf/sourceID/LC%7cn84182370,human,Al-Bayhaqi,Q293663
 "Bayle, H",former owner,,,human,H. Bayle,Q116172472
-"Bāʻūnīyah, ʻĀʼishah bint Yūsuf, -1516 or 1517",author,باعونية، عائشة بنت يوسف، -1516 or 1517,,human,'A'isha al-Ba'uniyya,Q12222083
 "Beatty, A. Chester Sir, 1875-1968",former owner,,http://id.loc.gov/authorities/names/n79112307,human,Alfred Chester Beatty,Q1387981
 "Beatty, A. Chester Sir, 1875-1968",former owner,,,human,Alfred Chester Beatty,Q1387981
 "Beccadelli, Antonio 1394-1471.",author,,,human,Antonio Beccadelli,Q599858
@@ -687,14 +650,10 @@ Binoche et Giquello,former owner,,,organization,Binoche et Giquello,Q120442737
 "Biondi, Giuseppe, 1537-1598",author,,http://id.loc.gov/authorities/names/nr94036708,human,Giuseppe Biondi,Q62401783
 "Biondi, Giuseppe, 1537-1598",author,,,human,Giuseppe Biondi,Q62401783
 Biondo Flavio 1392-1463.,author,,,human,Flavio Biondo,Q434834
-"Biqāʻī, Ibrāhīm ibn ʻUmar, 1406 or 1407-1480",author,بقاعي، ابراهيم بن عمر، 1406 or 1407-1480,http://id.loc.gov/authorities/names/n84161225,human,Ibrāhīm ibn ʻUmar Biqāʻī,Q12198099
 "Birago, Giovan Pietro, active 1471-1513",artist,,,human,Giovanni Pietro Birago,Q1901175
 Birch & Son,former owner,,,organization,Birch & Son,Q78092831
-"Birgivî Mehmet Efendi, approximately 1522-1573",author,بركوى محمد افندى، approximately 1522-1573,,human,Imam Birgivi,Q167660
 "Birjandī, ʻAbd al-ʻAlī ibn Muḥammad ibn Ḥusayn, active 16th century",author,برجندي، عبد العلي بن محمد بن حسين، active 16th century,http://id.loc.gov/authorities/names/nr93001807,human,ʿAbd-al-ʿAlī Ibn-Muḥammad al Birǧandī,Q114413753
 "Birjandī, ʻAbd al-ʻAlī ibn Muḥammad ibn Ḥusayn, active 16th century",author,,,human,ʿAbd-al-ʿAlī Ibn-Muḥammad al Birǧandī,Q114413753
-"Birmāwī, Ibrāhīm ibn Muḥammad, -1694 or 1695",author,برماوي، ابراهيم بن محمد، -1694 or 1695,http://id.loc.gov/authorities/names/no2013035920 http://id.loc.gov/authorities/names/no2013035920 http://viaf.org/viaf/sourceID/LC%7cno2013035920,human,Ibrāhīm ibn Muḥammad Birmāwī,Q122946949
-"Birmāwī, Muḥammad ibn ʻAbd al-Dāʼim, 1362-1428",author,برماوي، محمد بن عبد الدائم، 1362-1428,http://id.loc.gov/authorities/names/nr98020759,human,Muḥammad ibn ʻAbd al-Dāʼim Birmāwī,Q25453593
 "Bīrūnī, Muḥammad ibn Aḥmad, 973?-1048",author,بيروني، محمد بن احمد، 973?-1048,http://id.loc.gov/authorities/names/n80014376,human,Al-Biruni,Q11826
 "Bīrūnī, Muḥammad ibn Aḥmad, 973?-1048",author,,,human,Al-Biruni,Q11826
 "Blarer, Jacques-Christophe, de Wartensee, 1542-",author,,http://id.loc.gov/authorities/names/nb99161676,human,Jakob Christoph Blarer von Wartensee,Q116949
@@ -802,7 +761,6 @@ Bragadin family,author,,,organization,Bragadìn,Q2923529
 "Bretherton, George",associated name,,,human,George Bretherton,Q120442556
 "Breton, John le, -1275",author,,http://viaf.org/viaf/312646159,human,John de Breton,Q6265502
 "Breton, Nicholas 1545?-1626?",author,,,human,Nicholas Breton,Q1984811
-"Bridget, of Sweden, Saint, approximately 1303-1373",author,,http://id.loc.gov/authorities/names/n50044402 http://id.loc.gov/authorities/names/n50044402 http://viaf.org/viaf/sourceID/LC%7cn50044402,human,Bridget of Sweden,Q204996
 "Bridget, of Sweden, Saint, approximately 1303-1373",author,,https://viaf.org/viaf/51685861,human,Bridget of Sweden,Q204996
 Bridget of Sweden,author,,,human,Bridget of Sweden,Q204996
 "Bridget of Sweden, Saint ca. 1303-1373.",author,,,human,Bridget of Sweden,Q204996
@@ -816,7 +774,6 @@ Brought from the library of Engelberg Abbey in Switzerland to Conception Abbey s
 Brousses (Seigneury),author,,,organization,Seigneury de Brousses,Q116694949
 "Browne, Agnes",former owner,,,human,Agnes Browne,Q122873234
 "Browne, John, d. 1476",former owner,,,human,John Browne,Q122873235
-Brudenell family,former owner,,,human,Brudenell family,Q121464921
 "Brundelsheim, Conrad de.",author,,,human,Konrad von Brundelsheim,Q96358542
 Brunetto Latini,author,,,human,Brunetto Latini,Q366328
 "Bruni, Leonardo, 1369-1444",associated name,,,human,Leonardo Bruni,Q314488
@@ -828,8 +785,6 @@ Bruno of Würzburg,author,,,human,Bruno,Q563247
 "Bruschetti, Giuseppe",former owner,,,human,Giuseppe Bruschetti,Q15689386
 "Bruyant, Jean, active 14th century",author,,"http://viaf.org/viaf/121354359/#Bruyant,_Jean,_active_14th_century",human,Jacques Bruyant,Q120599734
 "Buckingham, Humphrey Stafford Duke of 1402-1440.",author,,,human,"Henry Stafford, 2nd Duke of Buckingham",Q714480
-"Bukhārī, Muḥammad ibn Ismāʻīl, 810-870",author,بخاري، محمد بن اسماعيل، 810-870,,human,Muḥammad ibn Ismā‘īl al-Bukhārī,Q241026
-"Bukhārī, Muḥammad ibn Ismāʻīl, 810-870",author,بخاري، محمد بن اسماعيل,http://id.loc.gov/authorities/names/n81055666,human,Muḥammad ibn Ismā‘īl al-Bukhārī,Q241026
 "Bukhārī, Muḥammad ibn Yaḥyá, fl. 1527",author,,,human,Muḥammad ibn Yaḥyá Bukhārī,Q113817796
 "Bullinger, Heinrich, 1504-1575",author,,http://id.loc.gov/authorities/names/n80045117,human,Heinrich Bullinger,Q123839
 "Bullinger, Heinrich, 1504-1575",author,,,human,Heinrich Bullinger,Q123839
@@ -846,12 +801,9 @@ Burchardus de Monte Sion,author,,,human,Burchard of Mount Sion,Q4998199
 Burg Kreuzenstein (Austria),former owner,,,organization,Burg Kreuzenstein,Q669642
 "Burgueño, Juan",former owner,,,human,Juan Burgueño,Q116250142
 "Burgueño, Julian",former owner,,,human,Julian Burgueño,Q116269844
-"Burhān al-Sharīʻah, Maḥmūd ibn ʻUbayd Allāh, -1274 or 1275",author,برهان الشريعة، محمود بن عبيد الله، -1274 or 1275,http://id.loc.gov/authorities/names/no2007094991,human,Maḥmūd ibn ʻUbayd Allāh Burhān al-Sharīʻah,Q120599074
 "Burlaeus, Gualterus 1275-1345?",author,,,human,Walter Burley,Q1862572
 "Burr, Charles W. 1861-1944",former owner,,http://id.loc.gov/authorities/names/n85800274,human,Charles Walts Burr,Q116250718
 "Burr, Charles W. 1861-1944",former owner,,,human,Charles Walts Burr,Q116250718
-"Burūsawī, Yaʻqūb ibn ʻAlī, -1524 or 1525",author,بروسوي، يعقوب بن علي، -1524 or 1525,http://id.loc.gov/authorities/names/nr92038760,human,Yaʻqūb ibn ʻAlī Burūsawī,Q122946950
-"Būṣīrī, Sharaf al-Dīn Muḥammad ibn Saʻīd, 1213?-1296",author,بوصيري، شرف الدين محمد بن سعيد,http://id.loc.gov/authorities/names/n82047089,human,Busiri,Q2922506
 "Būsnawī, Ḥusayn",scribe,بوسنوي، حسين,,human,Ḥusayn Būsnawī,Q113818240
 "Butlar, John",former owner,,,human,John Butlar,Q116269857
 "Butler, Charles",former owner,,,human,Charles Butler,Q76094211
@@ -890,7 +842,6 @@ Caleb Wing,artist,,,human,Caleb William Wing,Q117426826
 "Camden, William 1551-1623.",author,,,human,William Camden,Q364239
 "Came to Conception Abbey from its motherhouse, Engelberg in Switzerland.",former owner,,,organization,Engelberg Abbey,Q667880
 "Campagne, Laurent",former owner,,,human,Laurent Campagne,Q122873293
-"Campana, Giampietro, marchese di Cavelli, 1808-1880",former owner,,,human,Giampietro Campana,Q442379
 "Campano, Giannantonio Bishop 1429-1477.",author,,,human,Giovanni Antonio Campani,Q5563673
 Campanus of Novara,author,,,human,Campanus of Novara,Q560868
 "Campbell, Alexander, Sir",former owner,,,human,Sir Alexander Campbell,Q122873294
@@ -916,7 +867,6 @@ Cardinal Pedro Gonzales de Mendoza,former owner,,,human,Pedro González de Mendo
 "Carlier, Gilles.",associated name,,,human,Gilles Carlier,Q115217720
 "Carlo Archinto of Milan (1669-1732); Adolph Sutro (1830-1898), mayor of San Francisco. A letter from George Moss (librarian of Sutro) addressed to Mrs. Morbio (presumably Mrs. Albert Morbio, Sutro's daughter), 23 May 1890, accompanies the manuscript.",former owner,,,human;human,Carlo Archinto;Adolph Sutro,Q665628;Q214461
 Carlo Marsuppini,author,,,human,Carlo Marsuppini,Q1042297
-"Carmel de Nantes (Convent : Nantes, France)",former owner,,,organization,Chapelle du monastère du Carmel de Nantes,Q60344344
 "Carnesecchi, Bernardo",author,,,human,Bernardo Carnesecchi,Q3638770
 Carretto family,author,,,human,Del Carretto,Q587716
 "Carson, Hampton L. (Hampton Lawrence), 1852-1929",former owner,,,human,Hampton L. Carson,Q19974462
@@ -1022,7 +972,6 @@ Chartreuse Saint-Sixte de Rettel,former owner,,,organization,chartreuse Saint-Si
 "Chastellain, Georges, 1405?-1475",author,,,human,Georges Chastellain,Q957427
 "Chastellar, Gregory de",author,,,human,Gregory de Chastellar,Q116272265
 Chaucer,author,,,human,Geoffrey Chaucer,Q5683
-"Chaucer, Geoffrey, -1400",author,,,human,Geoffrey Chaucer,Q5683
 "Cheney, Edward, 1803-1884",former owner,,http://id.loc.gov/authorities/names/no98108800,human,Edward Cheney,Q19039655
 "Cheney, Edward, 1803-1884",former owner,,,human,Edward Cheney,Q19039655
 "Cherubino, da Siena, frate, -1484",author,,https://viaf.org/viaf/232426123,human,Cherubino da Spoleto,Q18945146
@@ -1140,7 +1089,6 @@ Constantine the African,author,,,human,Constantine the African,Q468641
 conte della Trinita,former owner,,,human,Ludovico Costa,Q1874021
 Continuator of Martin of Troppau,author,,,human,Continuator of Martin of Troppau,Q122873298
 Convent of San Paolo,former owner,,,organization,Convento di San Paolo,Q18486849
-"Convento San Pedro Regalado de la Aguilero (Burgos, Spain)",former owner,,,organization,convent of San Pedro Regalado,Q6121550
 "Cooke, Robert, -1592",author,,http://id.loc.gov/authorities/names/no89014196,human,Robert Cooke,Q116074334
 "Cooke, Robert, -1592",author,,,human,Robert Cooke,Q116074334
 "Cooper, Martin J",former owner,,,human,Martin J. Cooper,Q113818464
@@ -1206,24 +1154,17 @@ Cyril of Constantinople,author,,,human,Cyril of Constantinople,Q11913948
 "Dackomb, Jacob",former owner,,,human,Jacob Dackomb,Q113818650
 "Dackomb, Thomas",former owner,,,human,Thomas Dackomb,Q113818672
 "Daffyd, ap Philip",author,,,human,Daffyd ap Philip,Q120442558
-"Dajānī al-Qushāshī, Aḥmad ibn Muḥammad, 1583-1661",author,دجاني القشاشي، احمد بن محمد، 1583-1661,,human,Safi al-Din al-Qushashi,Q61118567
 "Dallas, Robert, Sir, 1756-1824",former owner,,http://id.loc.gov/authorities/names/no90009753,human,Robert Dallas,Q7343367
 "Dallas, Robert, Sir, 1756-1824",former owner,,,human,Robert Dallas,Q7343367
-"Damanhūrī, Aḥmad ibn ʻAbd al-Munʻim",author,دمنهوري، احمد بن عبد المنعم,http://id.loc.gov/authorities/names/nr91044095,human,Ahmad Damanhuri,Q12178566
-"Damanhūrī, Aḥmad ibn ʻAbd al-Munʻim",author,دمنهوري، احمد بن عبد المنعم,,human,Ahmad Damanhuri,Q12178566
 "Damascène Morgand, Bulletin mensuel 29 (November 1891), no. 19790 (cutting inside upper cover); Elisabeth Ball (1897-1982); part of her bequest to the Lilly Library, 1982.",former owner,,,organization;human,Librairie Damascène Morgand;Elisabeth Ball,Q116784968;Q94430387
 Damasio de Frías,author,,,human,Damasio de Frías,Q113818701
-"Damīrī, Muḥammad ibn Mūsá, 1341?-1405",author,دميري، محمد بن موسى,http://id.loc.gov/authorities/names/nr91003385 http://id.loc.gov/authorities/names/nr91003385 http://viaf.org/viaf/sourceID/LC%7cnr91003385,human,Al-Damiri,Q330616
-"Damīrī, Muḥammad ibn Mūsá, 1341?-1405",author,دميري، محمد بن موسى، 1341?-1405,http://id.loc.gov/authorities/names/nr91003385 http://id.loc.gov/authorities/names/nr91003385 http://viaf.org/viaf/sourceID/LC%7cnr91003385,human,Al-Damiri,Q330616
 "Danès, Pierre, 1497-1577",author,,http://id.loc.gov/authorities/names/n84115396,human,Pierre Danes,Q3384615
 "Danès, Pierre, 1497-1577",author,,,human,Pierre Danes,Q3384615
-"Dānī, ʻUthmān ibn Saʻīd, 981 or 982-1053",author,داني، عثمان بن سعيد، 981 or 982-1053,http://id.loc.gov/authorities/names/n81003045,human,Abū ʿAmr al-Dānī,Q6820659
 Daniele Barbaro,author,,,human,Daniele Barbaro,Q378870
 Daniel Sarracenus,scribe,,,human,Daniel Sarracenus,Q117448009
 Dante Alighieri,author,,,human,Dante Alighieri,Q1067
 Dante Alighieri 1265-1321.,author,,,human,Dante Alighieri,Q1067
 "Danūkh, Saʻīd",former owner,,,human,Saʻīd Danūkh,Q116323226
-"Dardīr, Aḥmad ibn Muḥammad, 1715-1786",author,دردير، احمد بن محمد، 1715-1786,http://id.loc.gov/authorities/names/n82144362 http://id.loc.gov/authorities/names/n82144362 http://viaf.org/viaf/sourceID/LC%7cn82144362,human,Ad-Dardir,Q12178564
 "Dārendevī, Muḥammad ibn Ismāʻīl, active 17th century-18th century",author,دارندوي، محمد بن اسماعىل، active 17th century-18th century,,human,Muḥammad ibn Ismāʻīl Dārendevī,Q114242433
 "Dares, Phrygius.",associated name,,,human,Dares Phrygius,Q544378
 Dares Phrygius,author,,,human,Dares Phrygius,Q544378
@@ -1231,9 +1172,6 @@ Dares Phrygius.,author,,,human,Dares Phrygius,Q544378
 "Darker, John",scribe,,http://id.loc.gov/authorities/names/n84121117,human,John Darker,Q116074819
 "Darker, John",scribe,,,human,John Darker,Q116074819
 "Darvīsh Abū Bakr ibn ʻUthmān, active 1792",scribe,درويش ابو بكر بن عثمان، active 1792,,human,Darvīsh Abū Bakr ibn ʻUthmān,Q114242432
-"Darʻī, Muḥammad, -1674 or 1675",author,درعي، محمد، ǂd -1674 or 1675,http://id.loc.gov/authorities/names/no00011711,human,Muḥammad Darʻī,Q122946951
-"Dashtakī Shīrāzī, Ghiyāth al-Dīn Manṣūr, 1461-1542",author,دشتكي شيرازي، غياث الدين منصور، 1461-1542,,human,Ghiyāth al-Dīn Manṣūr Dashtakī Shīrāzī,Q16050084
-"Dasūqī, Muḥammad ibn Aḥmad ibn ʻArafah, -1815",author,دسوقي، محمد بن احمد بن عرفة، -1815,http://id.loc.gov/authorities/names/n85219737,human,Ad-Desouki,Q16858064
 "Dati, Agostino 1420-1478.",author,,,human,Agostino Dati,Q5659931
 "Dati, Gregorio, 1362-1436.",author,,,human,Gregorio Dati,Q3776498
 "Dati, Gregorio 1362-1436.",author,,,human,Gregorio Dati,Q3776498
@@ -1284,7 +1222,6 @@ De Raude,former owner,,,human,De Raude,Q122873304
 Detti family,author,,,organization,Detti family,Q116706577
 "Dewick, E. S. 1844-1917",former owner,,http://id.loc.gov/authorities/names/no2001080296,human,Edward Samuel Dewick,Q99292943
 "Dewick, E. S. 1844-1917",former owner,,,human,Edward Samuel Dewick,Q99292943
-"Dhahabī, Muḥammad ibn Aḥmad, 1274-1348",author,ذهبي، محمد بن احمد,,human,Al-Dhahabi,Q293554
 "Dictys, Cretensis.",associated name,,,human,Dictys Cretensis,Q475001
 Dictys Cretensis,author,,,human,Dictys Cretensis,Q475001
 Didymus Chalcenterus.,author,,,human,Didymus Chalcenterus,Q506540
@@ -1295,14 +1232,11 @@ Diego Hurtado de Mendoza,author,,,human,Diego Hurtado de Mendoza,Q2297287
 "Diemeringen, Otto von, -1398.",associated name,,,human,Otto von Diemeringen,Q2041165
 "Dietrichstein, Moritz, Graf von, 1775-1864",former owner,,http://id.loc.gov/authorities/names/nr2001025931,human,Moritz Joseph Johann von Dietrichstein,Q1947966
 "Dietrichstein, Moritz, Graf von, 1775-1864",former owner,,,human,Moritz Joseph Johann von Dietrichstein,Q1947966
-"Dihlawī, ʻAbd al-ʻAzīz ibn Aḥmad, 1746 or 1747-1823 or 1824",author,دهلوي، عبد العزيز بن احمد، 1746 or 1747-1823 or 1824,http://id.loc.gov/authorities/names/nr90021765,human,Shah Abdul Aziz,Q7461226
-"Dimyāṭī, Aḥmad ibn Muḥammad, -1705",author,دمياطي، احمد بن محمد، -1705,http://id.loc.gov/authorities/names/n88218148 http://id.loc.gov/authorities/names/n88218148 http://viaf.org/viaf/sourceID/LC%7cn88218148,human,Aḥmad al-Bannā al-Dimyāṭī,Q105360743
 "Di Nanni, Francesco",author,,,human,Francesco di Domenico di Nanni,Q116172247
 "Dinetus, Jacobus",author,,,human,Jacobus Dinetus,Q116324831
 Dinus de Mugello,author,,,human,Dinus de Rossonis,Q1226745
 Dinus de Mugello (Dinus Mugellanus),author,,,human,Dinus de Rossonis,Q1226745
 Dio Chrysostom,author,,,human,Dio Chrysostom,Q334457
-"Diodorus, Siculus",author,,http://id.loc.gov/authorities/names/n50028820,human,Diodorus Siculus,Q171241
 Diodorus Siculus.,author,,,human,Diodorus Siculus,Q171241
 Diogenes Cynicus,author,,,human,Diogenes of Sinope,Q59180
 Diogenes Laertius.,author,,,human,Diogenes Laërtius,Q59138
@@ -1310,7 +1244,6 @@ Dionysius Cato,author,,,human,Dionysius Cato,Q3028750
 "Dionysius the Areopagite, Saint 1st cent.",author,,,human,Dionysius the Areopagite,Q310686
 "Dioscorides Pedanius, of Anazarbos",author,ديسقوريدس. of Anazarbos,http://id.loc.gov/authorities/names/n83204415,human,Pedanius Dioscorides,Q297776
 "Dioscorides Pedanius, of Anazarbos",author,ديسقوريدس,,human,Pedanius Dioscorides,Q297776
-"Dīrīnī, ʻAbd al-ʻAzīz, 1215-approximately 1295",author,ديريني، عبد العزيز، 1215-approximately 1295,,human,ʻAbd al-ʻAzīz Dīrīnī,Q120599073
 "Discovered in the Grolier Club's files, September 2009.",former owner,,,organization,Grolier Club,Q5174002
 "Dixon, C. W. S",former owner,,,human,C. W. S. Dixon,Q116172571
 "Diyārbakrī, Musṭafá ibn ʻUmar",author,,,human,Musṭafá ibn ʻUmar Diyārbakrī,Q114242434
@@ -1330,7 +1263,6 @@ Donatus,author,,,human,Aelius Donatus,Q247137
 "Donzellini, Alessandro.",author,,,human,Alessandro Donzellini,Q27831940
 "Dore, J. R. (John Read)",former owner,,,human,John Read Dore,Q93485216
 "Dorotea, daughter of Antonio Mella and widow of Giovanni Andrea",other,,,human,Dorotea Mella,Q117338254
-"Dortmond, J. A",former owner,,,human,J. A. Dortmond,Q120599212
 Dositheos Patriarch of Jerusalem 1641-1707.,author,,,human,Dositheos II of Jerusalem,Q927368
 "doubtless Messrs. W. H. Robinson, who bought the residue of the Phillipps library in 1945-46; George A. Poole (bought from Lawrence Witten, 1955), and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,human;organization,George Amos Poole;William H. Robinson Ltd.,Q116786331;Q64683625
 Douglas Cockerell & Son (Firm),associated name,,,organization,Douglas Cockerell & Son,Q120442744
@@ -1447,7 +1379,6 @@ Eugenius IV,author,,,human,Eugene IV,Q167561
 Eugippius,author,,,human,Eugippius,Q738491
 Eugippius.,author,,,human,Eugippius,Q738491
 Eusebius,author,,,human,Eusebius of Caesarea,Q142999
-"Eusebius, of Caesarea, Bishop of Caesarea, approximately 260-approximately 340",author,,http://id.loc.gov/authorities/names/n79150225,human,Eusebius of Caesarea,Q142999
 "Eusebius, of Cremona, Saint",author,,http://viaf.org/viaf/77789492,human,Eusebius of Cremona,Q24013788
 "Eusebius, of Cremona, Saint, -approximately 423.",author,,,human,Eusebius of Cremona,Q24013788
 Eusebius Cremonensis,author,,,human,Eusebius of Cremona,Q24013788
@@ -1469,16 +1400,13 @@ Evrart de Trémaugon,author,,,human,Evrart de Trémaugon,Q16027830
 "Eyr, John",author,,,human,John Eyr,Q116172260
 "Faber, Abraham",author,,,human,Abraham Faber,Q67198306
 "Facio, Bartolomeo d. 1457.",author,,,human,Bartolomeo Facio,Q809500
-"Fākihānī, ʻUmar ibn ʻAlī, 1256 or 1257-1333 or 1334",author,فاكهاني، عمر بن علي، 1256 or 1257-1333 or 1334,http://id.loc.gov/authorities/names/nr96003428,human,ʻUmar ibn ʻAlī Fākihānī,Q12201801
 "Falconieri, Pacholo",author,,,human,Pacholo Falconieri,Q116326503
 "Falloize, Jean de, 16th century",former owner,,,human,Jean de Falloize,Q122873313
-"Fanārī, Muḥammad ibn Ḥamzah, 1350 or 1351-1430 or 1431",author,فناري، محمد بن حمزة، 1350 or 1351-1430 or 1431,,human,Shams ad-Din al-Fanari,Q6896332
 "Faraḍī, Maḥmūd ibn Abī Bakr, 1246 or 1247-1300",author,فرضي، محمود بن ابي بكر، 1246 أو 1247-1300,http://id.loc.gov/authorities/names/n90707313,human,Maḥmūd ibn Abī Bakr Faraḍī,Q116326528
 "Faraḍī, Maḥmūd ibn Abī Bakr, 1246 or 1247-1300",author,,,human,Maḥmūd ibn Abī Bakr Faraḍī,Q116326528
 Farghānī active 861,author,,,human,Ahmad ibn Muhammad ibn Kathīr al-Farghānī,Q336550
 "Fārij al-Karab Yūsuf ibn Ḥusayn ibn Fayyāḍ al-ʻArab, active 1494",scribe,فارج الكرب يوسف بن حسين بن فياض العرب، active 1494،,,human,Fārij al-Karab Yūsuf ibn Ḥusayn ibn Fayyāḍ al-ʻArab,Q116326925
 "Fārij al-Karab Yūsuf ibn Ḥusayn ibn Fayyāḍ al-ʻArab, active 1494",scribe,,,human,Fārij al-Karab Yūsuf ibn Ḥusayn ibn Fayyāḍ al-ʻArab,Q116326925
-"Fārisī, Muḥammad ibn Abī Bakr, -1278",author,فارسي، محمد بن ابي بكر، -1278,,human,Muhammad ibn Abi Bakr al‐Farisi,Q14974239
 "Farissol, Abraham ben Mordecai, approximately 1451-approximately 1525",author,,http://id.loc.gov/authorities/names/n81021901,human,Abraham ben Mordecai Farissol,Q329975
 "Farissol, Abraham ben Mordecai, approximately 1451-approximately 1525",author,,,human,Abraham ben Mordecai Farissol,Q329975
 "Farnese, Alessandro, 1520-1589",author,,http://id.loc.gov/authorities/names/n88647001,human,Alessandro Farnese,Q248459
@@ -1488,7 +1416,6 @@ Farghānī active 861,author,,,human,Ahmad ibn Muhammad ibn Kathīr al-Farghān�
 "Fārūqī, Fatḥ Allāh ibn Muṣṭafá ibn ʻAbd al-Shakūr, active approximately 16th century-17th century",author,فاروقى، فتح الله بن مصطفى بن عبد الشکور، active approximately 16th century-17th century,,human,Fatḥ Allāh ibn Muṣṭafá ibn ʻAbd al-Shakūr Fārūqī,Q114242419
 "Fāsī, Muḥammad ibn ʻAbd al-Wāḥid ibn ʻAbd al-Qādir",scribe,فاسي، محمد بن عبد الواحد بن عبد القادر,,human,Muḥammad ibn ʻAbd al-Wāḥid ibn ʻAbd al-Qādir Fāsī,Q114242436
 "Fastolf Master, active 1420-1460",artist,,,human,Fastolf Master,Q19955782
-"Fattanī, Muḥammad Ṭāhir, 1504 or 1505-1578 or 1579",author,فتني، محمد طاهر، 1504 or 1505-1578 or 1579,,human,Muḥammad Ṭāhir Pattanī,Q12239889
 "Faucher, Denis, 1487-1562",author,,http://id.loc.gov/authorities/names/n2005029122,human,Denis Faucher,Q116326723
 "Faucher, Denis, 1487-1562",author,,,human,Denis Faucher,Q116326723
 Faustus of Riez,author,,,human,Faustus of Riez,Q2351792
@@ -1691,7 +1618,6 @@ Gauberto Fabricio de Vagad,author,,,human,Gualberto Fabricio de Vagad,Q5613374
 Gautier de Coincy,author,,,human,Gautier de Coincy,Q5356
 Gautier de Metz,author,,,human,Gautier de Metz,Q930623
 "Gay, Emile",former owner,,,human,Emile Gay,Q122873461
-"Gay, Joseph-Jean-Pascal, 1775-1832",former owner,,,human,Pascal Gay,Q19280985
 "Gazaeus, Aeneas.",author,,,human,Aeneas of Gaza,Q137152
 Gebeno von Eberbach,author,,,human,Gebeno von Eberbach,Q126296
 Geert Groote (translator),author,,,human,Geert Groote,Q467242
@@ -1757,11 +1683,8 @@ Gervase Markham,author,,,human,Gervase Markham,Q456590
 "Ghamrī, Aḥmad ibn Muḥammad, -1499 or 1500",author,غمري، احمد بن محمد، -1499 أو 1500,,human,Aḥmad ibn Muḥammad Ghamrī,Q113857063
 "Ghaznawī, Aḥmad, -1196 or 1197",author,غزنوي، احمد، -1196 or 1197,,human,Aḥmad Ghaznawī,Q113857079
 "Ghazzālī, 1058-1111",author,,http://id.loc.gov/authorities/names/n82097778,human,Al-Ghazali,Q9546
-"Ghazzī, Muḥammad ibn Qāsim, 1454 or 1455-1512 or 1513",author,غزي، محمد بن قاسم، 1454 or 1455-1512 or 1513,http://id.loc.gov/authorities/names/nr91027556 http://id.loc.gov/authorities/names/nr91027556 http://viaf.org/viaf/sourceID/LC%7cnr91027556,human,Ghazzī,Q25454625
 "Gherardo, del Fora, approximately 1444-1497",artist,,,human,Gherardo di Giovanni del Fora,Q3104832
 "Ghinucci, Girolamo d. 1451.",author,,,human,Girolamo Ghinucci,Q2261543
-"Ghunaymī, Aḥmad ibn Muḥammad, -1634",author,غنيمي، احمد بن محمد,,human,Aḥmad ibn Muḥammad Ghunaymī,Q122946952
-"Ghunaymī, Aḥmad ibn Muḥammad, -1634",author,غنيمي، احمد بن محمد، -1634,http://id.loc.gov/authorities/names/n89188849 http://id.loc.gov/authorities/names/n89188849 http://viaf.org/viaf/sourceID/LC%7cn89188849,human,Aḥmad ibn Muḥammad Ghunaymī,Q122946952
 "Giacomini Tebalducci Malespini, Lorenzo, -1599",author,,http://id.loc.gov/authorities/names/n90605575,human,Lorenzo Giacomini,Q19413034
 "Giacomini Tebalducci Malespini, Lorenzo, -1599",author,,,human,Lorenzo Giacomini,Q19413034
 Giacomo Michele,other,,,human,Giacomo Michele,Q117321234
@@ -1847,7 +1770,6 @@ Giusto de' Conti,author,,,human,Giusto de' Conti,Q3771771
 Given to the Grolier Club in 1931 by Charles Bain Hoyt.,former owner,,,human,Charles B. Hoyt,Q78162371
 "Gladstone, W. E. 1809-1898",former owner,,http://id.loc.gov/authorities/names/n79018726,human,William Ewart Gladstone,Q160852
 "Gladstone, W. E. 1809-1898",former owner,,,human,William Ewart Gladstone,Q160852
-Glastonbury Abbey,scribe,,,organization,Glastonbury Abbey,Q544113
 "Glover, Robert 1544-1588.",author,,,human,Robert Glover,Q7344815
 "Göbel, Paul",scribe,,,human,Paul Göbel,Q116181546
 "Godefridus Viterbiensis, 1125-1202.",author,,,human,Godfrey of Viterbo,Q614256
@@ -1878,7 +1800,6 @@ Gonzalo Fernández de Oviedo y Valdés,author,,,human,Gonzalo Fernández de Ovie
 "Gottschalk, Paul, 1880-",former owner,,,human,Paul Gottschalk,Q72937167
 "Gougy, Lucien",former owner,,,human,Lucien Gougy,Q89484729
 "Goussen, Andrea",author,,,human,Andrea Goussen,Q116378030
-"Gower, John, 1325?-1408",author,,http://id.loc.gov/authorities/names/n81039793 http://id.loc.gov/authorities/names/n81039793 http://viaf.org/viaf/sourceID/LC%7cn81039793,human,John Gower,Q365133
 "Gower, John 1325?-1408.",author,,,human,John Gower,Q365133
 "Goyder, George",former owner,,http://id.loc.gov/authorities/names/n82027901,human,George Goyder,Q5539842
 "Goyder, George",former owner,,,human,George Goyder,Q5539842
@@ -1886,7 +1807,6 @@ Gozwinus,author,,,human,Gozechinus of Mainz,Q3112856
 "Gracia, Pedro de",author,,,human,Pedro de Gracia,Q116181564
 "Graham, Fergus, Sir",former owner,,,human,"Sir Fergus Graham, 5th Baronet",Q7526665
 Gratian,author,,,human,Gratian,Q549041
-"Gratian, active 12th century",author,,http://id.loc.gov/authorities/names/n50032031,human,Gratian,Q549041
 "Gratz, Simon, 1840-1925",former owner,,,human,Simon Gratz,Q104223647
 "Greene, T.W.",former owner,,,human,T.W. Greene,Q122873464
 "Greene, T. Whitcombe",former owner,,,human,T. Whitcombe Greene,Q120691929
@@ -2030,26 +1950,21 @@ Hagop Kevorkian Fund,former owner,,,organization,Hagop Kevorkian Fund,Q114242603
 Haimo of Auxerre,author,,,human,Haimo of Auxerre,Q2934990
 Haimo of Auxerre d. ca. 855.,author,,,human,Haimo of Auxerre,Q2934990
 "Hakesalt, Henry",author,,,human,Henry Hakesalt,Q113864323
-"Ḥalabī, Ibrāhīm ibn Muḥammad, -1549 or 1550",author,حلبي، ابراهيم بن محمد، -1549 or 1550,,human,Ibrāhīm al-Ḥalabī,Q4195341
 "Halberstam, S. J. 1832-1900",former owner,,http://id.loc.gov/authorities/names/nr96043148,human,Solomon Joachim Halberstam,Q2895410
 "Halberstam, S. J. 1832-1900",former owner,,,human,Solomon Joachim Halberstam,Q2895410
 "Halgren, John, of Abbeville",author,,,human,John Halgren of Abbeville,Q3129519
 "Halgrin, John.",author,,,human,John Halgren of Abbeville,Q3129519
 "Halter, Richard",former owner,,http://id.loc.gov/authorities/names/ns2015001542,human,Richard Halter,Q116378479
 "Halter, Richard",former owner,,,human,Richard Halter,Q116378479
-"Ḥamawī, Aḥmad ibn Muḥammad, -1686 or 1687",author,حموي، احمد بن محمد، -1686 or 1687,http://id.loc.gov/authorities/names/n86099939 http://id.loc.gov/authorities/names/n86099939 http://viaf.org/viaf/sourceID/LC%7cn86099939,human,Aḥmad ibn Muḥammad Ḥamawī,Q122946986
 "Ḥamawī, Jibrāyil ibn Mikhāyil, active 1710",scribe,حموي، جبرايل بن مخايل، active 1710،,,human,Jibrāyil ibn Mikhāyil Ḥamawī,Q116503144
 "Ḥamawī, Jibrāyil ibn Mikhāyil, active 1710",scribe,,,human,Jibrāyil ibn Mikhāyil Ḥamawī,Q116503144
 "Hamdānī, Ḥaydar ibn Shāhī",former owner,همداني، حيدر بن شاهي،,,human,Ḥaydar ibn Shāhī Hamdānī,Q116378126
 "Hamdānī, Ḥaydar ibn Shāhī",former owner,,,human,Ḥaydar ibn Shāhī Hamdānī,Q116378126
-"Hamilton, Alexander Hamilton Douglas, Duke of, 1767-1852",former owner,,,human,"Alexander Hamilton, 10th Duke of Hamilton",Q336657
 "Ḥanāshī, Ibrāhīm ibn Aḥmad",scribe,,,human,Ibrāhīm ibn Aḥmad Ḥanāshī,Q116419063
 Hannibaldus de Hannibaldis,author,,,human,Annibale Annibaldi,Q581671
 "Hans Wertinger, also called Hans Schwab von Wertinger (1465/70–1533), of Landshut, or his workshop",artist,,,human,Hans Wertinger,Q3127027
 "Harford, Charles Joseph",former owner,,,human,Charles Joseph Harford,Q75513343
 "Harford, Frederick Kill, 1832-1906",former owner,,,human,Frederick Kill Harford,Q54364085
-"Ḥarīrī, 1054-1122",author,حريري,,human,Abu al-Hariri,Q286097
-"Ḥarīrī, 1054-1122",author,حريري 1054-1122,,human,Abu al-Hariri,Q286097
 "Harkness, Edward Stephen, 1874-1940",former owner,,,human,Edward Harkness,Q5343311
 "Harmenopoulos, Kōnstantinos d. 1380?",author,,,human,Konstantinos Harmenopoulos,Q769438
 "Harmsworth, R. Leicester (Robert Leicester), Sir, 1870-1937",former owner,,,human,Leicester Harmsworth,Q6519187
@@ -2059,8 +1974,6 @@ Hannibaldus de Hannibaldis,author,,,human,Annibale Annibaldi,Q581671
 "Harshberger, John W. 1869-1929",former owner,,,human,John William Harshberger,Q1570981
 "Hart, Gerald E. (Gerald Ephraim), 1849-1936, Montreal",former owner,,,human,Gerald Ephraim Hart,Q113864115
 "Hartung, T.L.",former owner,,,human,T.L. Hartung,Q122873468
-"Ḥasanī, Muḥammad ibn Abī al-Khayr, active 16th century",author,حسني، محمد بن ابي الخير، active 16th century,http://id.loc.gov/authorities/names/n2008053929,human,Muḥammad ibn Abī al-Khayr Ḥasanī,Q122946953
-"Ḥaṣkafī, Muḥammad ibn ʻAlī, approximately 1616-1677",author,حصكفي، محمد بن علي، approximately 1616-1677,http://id.loc.gov/authorities/names/n85026514,human,ʿAlāʾ-ad-Dīn Muḥammad Ibn-ʿAlī al-Ḥaṣkafī,Q20391759
 "Hātifī, -1520 or 1521",author,هاتفى، -1520 يا 1521,http://id.loc.gov/authorities/names/nr89008954,human,Hatefi,Q2820926
 "Hātifī, -1520 or 1521",author,,,human,Hatefi,Q2820926
 "Hauck, Cornelius J. 1893-1967",former owner,,http://id.loc.gov/authorities/names/no2008124557,human,Cornelius John Hauck,Q116378285
@@ -2071,7 +1984,6 @@ Hannibaldus de Hannibaldis,author,,,human,Annibale Annibaldi,Q581671
 "Haymo of Auxerre, possible author",other,,,human,Haimo of Auxerre,Q2934990
 Haymo of Halberstadt,author,,,human,Haymo of Halberstadt,Q472833
 "Hayniger, Georg",author,,,human,Georg Hayniger,Q116378361
-"Ḥāzimī, Muḥammad ibn Mūsá, 1154?-1188 or 1189",author,حازمي، محمد بن موسى، 1154?-1188 or 1189,http://id.loc.gov/authorities/names/nr91038815 http://id.loc.gov/authorities/names/nr91038815 http://viaf.org/viaf/sourceID/LC%7cnr91038815,human,Muḥammad ibn Mūsá Ḥāzimī,Q122946987
 "Heber, Richard, 1773-1833",former owner,,http://id.loc.gov/authorities/names/nr90022989,human,Richard Heber,Q4502479
 "Heber, Richard, 1773-1833",former owner,,,human,Richard Heber,Q4502479
 "Heberle, Johann Matthias, 1775-1840",former owner,,,human,Johann Matthias Heberle,Q95757981
@@ -2135,14 +2047,12 @@ Hesiod.,author,,,human,Hesiod,Q44233
 "Hieronymus, Johannis, de Florentia, ca. 1387 - 1454.",author,,,human,Johannis Hieronymus,Q120442566
 Hieronymus.,associated name,,,human,Jerome,Q44248
 Hieronymus Barbaro,other,,,human,Hieronymus Barbaro,Q117448335
-"Ḥifnī, Muḥammad ibn Sālim, 1689 or 1690-1767 or 1768",author,حفني، محمد بن سالم، 1689 or 1690-1767 or 1768,http://id.loc.gov/authorities/names/nr92013241 http://id.loc.gov/authorities/names/nr92013241 http://viaf.org/viaf/sourceID/LC%7cnr92013241,human,Muhammad al-Hiffnawi,Q12240136
 "Higden, Ranulf d. 1364.",author,,,human,Ranulf Higden,Q770348
 "Hikmetī, active 1823",scribe,حكمتى، active 1823,,human,Hikmetī,Q113864413
 Hildebert of Lavardin,author,,,human,Hildebert,Q731681
 Hildebert of Le Mans,author,,,human,Hildebert,Q731681
 Hildemarus,author,,,human,Hildemar of Corbie,Q88005078
 "Hill, Dana",former owner,,,human,Dana Hill,Q455947
-"Ḥillī, Ṣafī al-Dīn ʻAbd al-ʻAzīz ibn Sarāyā, 1278-",author,حلي، صفي الدين عبد العزيز بن سرايا، -1278,,human,Safi Al-Din Al-Hilli Altaie,Q12220068
 "Hilton, Walter, -1396",author,,http://id.loc.gov/authorities/names/n79066388,human,Walter Hilton,Q2213072
 "Hilton, Walter, -1396",author,,,human,Walter Hilton,Q2213072
 "Himmātʹzādah, Muḥammad ibn Ḥasan, 1680 or 1681-1761 or 1762",author,,http://id.loc.gov/authorities/names/nr92013083,human,Muḥammad ibn Ḥasan Himmātʹzādah,Q113864519
@@ -2226,7 +2136,6 @@ Hugo de Folieto,author,,,human,Hugh of Fouilloy,Q5631
 Hugo de Prato Florido d. 1322.,author,,,human,Hugo de Prato Florido,Q1635903
 Hugo Grotius,author,,,human,Hugo Grotius,Q154959
 Hugo Ripelin,author,,,human,Hugh Ripelin of Strasburg,Q1635599
-"Ḥujāwī, Mūsá ibn Aḥmad, -1560",author,حجاوي، موسى بن احمد، -1560,http://id.loc.gov/authorities/names/n83139697 http://id.loc.gov/authorities/names/n83139697 http://viaf.org/viaf/sourceID/LC%7cn83139697,human,Al-Hajjawi,Q16120411
 "Humberd, Charles D., 1897-1960",former owner,,,human,Charles D. Humberd,Q116379117
 "Humbert, de Baugé, Archbishop of Lyon, active 1140-1152",associated name,,,human,Humbert de Baugé,Q27508095
 "Humbert, de Romans, 1194?-1277.",associated name,,,human,Humbert of Romans,Q2623954
@@ -2241,9 +2150,6 @@ Hurault de Chivernay,former owner,,,human,Philippe Hurault de Cheverny,Q3380037
 "Ḥusaynī, Ibrāhīm, active 15th century",author,,,human,Ibrāhīm al-Ḥusaynī,Q116418786
 "Ḥusaynī, Muḥammad, active 14th century-15th century",author,حسيني، محمد، active 14th century-15th century,http://id.loc.gov/authorities/names/no2012003644,human,Muḥammad Ḥusaynī,Q116378848
 "Ḥusaynī, Muḥammad, active 14th century-15th century",author,,,human,Muḥammad Ḥusaynī,Q116378848
-"Hüsrev, Molla, -1480",author,خسرو، ملا، -1480,http://id.loc.gov/authorities/names/n88218446 http://id.loc.gov/authorities/names/n88218446 http://viaf.org/viaf/sourceID/LC%7cn88218446,human,Molla Hüsrev,Q12244864
-"Hüsrev, Molla, -1480",author,خسرو ملا,,human,Molla Hüsrev,Q12244864
-"Hüsrev, Molla, -1480",author,خسرو، ملا، -1480,http://id.loc.gov/authorities/names/n88218446,human,Molla Hüsrev,Q12244864
 "Huth, Henry",former owner,,,human,Henry Huth,Q15438897
 "Huzard, J.-B. 1755-1838",former owner,,http://id.loc.gov/authorities/names/n88255469,human,Jean-Baptiste Huzard,Q3164161
 "Huzard, J.-B. 1755-1838",former owner,,,human,Jean-Baptiste Huzard,Q3164161
@@ -2252,132 +2158,54 @@ Iacobus Carthusiensis von Jueterbogk,author,,,human,Jacobus de Clusa,Q11716660
 Iacobus de Cessolis,author,,,human,Jacobus de Cessolis,Q969459
 Iacobus de Erfordia,author,,,human,Jacobus de Clusa,Q11716660
 Iacobus of Speyer.,author,,,human,Jakob Montanus,Q1677587
-"Ibn Abī al-Dunyā, ʻAbd Allāh ibn Muḥammad, 823-894",author,ابن ابي الدنيا، عبد الله بن محمد، 823-894,http://id.loc.gov/authorities/names/n85136568,human,Ibn Abi al-Dunya,Q6532706
 "Ibn Abī al-Dunyā, ʻAbd Allāh ibn Muḥammad, 823-894",author,,http://id.loc.gov/authorities/names/n85136568,human,Ibn Abi al-Dunya,Q6532706
 "Ibn Abī al-Rijāl, ʻAlī, 1015 or 1016-1062 or 1063",author,,http://id.loc.gov/authorities/names/no2006074617,human,Haly Abenragel,Q2081331
 "Ibn Abī al-Rijāl, ʻAlī, 1015 or 1016-1062 or 1063",author,,,human,Haly Abenragel,Q2081331
-"Ibn Abī Ḥajalah, Aḥmad ibn Yaḥyá, 1325-1374 or 1375",author,ابن ابي حجلة، احمد بن يحيى، 1325-1374 or 1375,,human,Aḥmad Ibn-Yaḥyā Ibn-Abī-Ḥaǧala,Q20398076
 "Ibn Abī Ṣādiq al-Nīsābūrī, Abū al-Qāsim ʻAbd al-Raḥmān ibn ʻAlī, -approximately 1068",author,ابن ابي صادق النيسابوري، ابو القاسم عبد الرحمن بن علي، -approximately 1068,http://id.loc.gov/authorities/names/n2008049541,human,Abū al-Qāsim ʻAbd al-Raḥmān ibn ʻAlī ibn Abī Ṣādiq al Nīsābūrī,Q116380012
 "Ibn Abī Ṣādiq al-Nīsābūrī, Abū al-Qāsim ʻAbd al-Raḥmān ibn ʻAlī, -approximately 1068",author,,,human,Abū al-Qāsim ʻAbd al-Raḥmān ibn ʻAlī ibn Abī Ṣādiq al Nīsābūrī,Q116380012
-"Ibn Abī Sharīf, Muḥammad ibn Muḥammad, 1419 or 1420-1500 or 1501",author,ابن ابي شريف، محمد بن محمد، 1419 or 1420-1500 or 1501,http://id.loc.gov/authorities/names/nr92023224 http://id.loc.gov/authorities/names/nr92023224 http://viaf.org/viaf/sourceID/LC%7cnr92023224,human,Muḥammad ibn Muḥammad Ibn Abī Sharīf,Q121322713
-"Ibn al-Asīr, Yūsuf ibn ʻAbd al-Qādir, 1816 or 1817-1889 or 1890",scribe,ابن الاسير، يوسف بن عبد القادر، 1816 or 1817-1889 or 1890,,human,Yusuf al-Asir,Q58039483
-"Ibn al-Athīr, Majd al-Dīn al-Mubārak ibn Muḥammad, 1149-1209",author,ابن الاثير، مجد الدين المبارك بن محمد، 1149-1209,,human,Majd ad-Dīn Ibn Athir,Q25468769
-"Ibn al-Athīr, Majd al-Dīn al-Mubārak ibn Muḥammad, 1149-1209",author,ابن الاثير، مجد الدين المبارك بن محمد، 1149-1209,http://id.loc.gov/authorities/names/n82130730 http://id.loc.gov/authorities/names/n82130730 http://viaf.org/viaf/sourceID/LC%7cn82130730,human,Majd ad-Dīn Ibn Athir,Q25468769
 "Ibn al-Bahāʼ, Abu ʻAbd Allāh Muḥammad",author,ابن البهاء، ابو عبد الله محمد,,human,Abu ʻAbd Allāh Muḥammad ibn al-Bahāʼ,Q116418950
 "Ibn al-Bahāʼ, Abu ʻAbd Allāh Muḥammad",author,,,human,Abu ʻAbd Allāh Muḥammad ibn al-Bahāʼ,Q116418950
-"Ibn al-Durayhim, ʻAlī ibn Muḥammad, 1312-1361",author,ابن الدريهم، علي بن محمد، 1312-1361,http://id.loc.gov/authorities/names/n89126195,human,ʻAlī ibn Muḥammad Ibn al-Durayhim,Q122946958
 "Ibn al-Fāriḍ, ʻUmar ibn ʻAlī, 1181 or 1182-1235",author,"ابن الفارض، عمر بن علي, 1181 or 1182-1235",,human,Ibn al-Farid,Q203142
-"Ibn al-Ghars, Muḥammad ibn Muḥammad, 1429 or 1430-1488 or 1489",author,ابن الغرس، محمد بن محمد، 1429 or 1430-1488 or 1489,http://id.loc.gov/authorities/names/nr92028240 http://id.loc.gov/authorities/names/nr92028240 http://viaf.org/viaf/sourceID/LC%7cnr92028240,human,Muḥammad ibn Muḥammad Ibn al-Ghars,Q122946959
-"Ibn al-Ghars, Muḥammad ibn Muḥammad, 1429 or 1430-1488 or 1489",author,ابن الغرس، محمد بن محمد، 1429 or 1430-1488 or 1489,,human,Muḥammad ibn Muḥammad Ibn al-Ghars,Q122946959
-"Ibn al-Ḥājib, ʻUthmān ibn ʻUmar, 1175-1249",author,ابن الحاجب، عثمان بن عمر، 1175-1249,,human,Ibn al-Ḥājib,Q6533412
-"Ibn al-Ḥājj, Muḥammad ibn Muḥammad, -1336",author,ابن الحاج، محمد بن محمد، -1336،,http://id.loc.gov/authorities/names/n89239785 http://id.loc.gov/authorities/names/n89239785 http://viaf.org/viaf/sourceID/LC%7cn89239785,human,Mohammed ibn Hajj al-Tilimsani,Q6533378
-"Ibn al-Hāʼim, Aḥmad ibn Muḥammad, -1412",author,ابن الهائم، احمد بن محمد، -1412,,human,Ahmad Ibn-Muhammad Ibn-al-Haʾim,Q56250455
-"Ibn al-Imām, -approximately 1595",author,ابن الامام -approximately 1595,,human,Ibn al-Imām,Q122947964
-"Ibn al-Imām, -approximately 1595",author,ابن الامام,,human,Ibn al-Imām,Q122947964
-"Ibn al-Jawharī, Muḥammad ibn Aḥmad, 1738 or 1739-1800 or 1801",author,ابن الجوهري، محمد بن احمد، 1738 or 1739-1800 or 1801,http://id.loc.gov/authorities/names/no2007127844 http://id.loc.gov/authorities/names/no2007127844 http://viaf.org/viaf/sourceID/LC%7cno2007127844,human,Muḥammad ibn Aḥmad Ibn al-Jawharī,Q122946960
-"Ibn al-Jawzī, Abū al-Faraj ʻAbd al-Raḥmān ibn ʻAlī, approximately 1116-1201",author,ابن الجوزي، ابو الفرج عبد الرحمن بن علي، approximately 1116-1201,http://id.loc.gov/authorities/names/n84008731,human,Abu'l-Faraj ibn al-Jawzi,Q731866
 "Ibn al-Jawzī, Abū al-Faraj ʻAbd al-Raḥmān ibn ʻAlī, approximately 1116-1201",author,,http://id.loc.gov/authorities/names/n84008731,human,Abu'l-Faraj ibn al-Jawzi,Q731866
 "Ibn al-Jazarī, Muḥammad ibn Muḥammad, 1350-1429",author,ابن الجزري، محمد بن محمد، 1350-1429,,human,Ibn al-Jazari,Q4120093
-"Ibn al-Kharrāṭ, ʻAbd al-Ḥaqq ibn ʻAbd al-Raḥmān, 1116 or 1117-1185",author,ابن الخراط، عبد الحق بن عبد الرحمن,http://id.loc.gov/authorities/names/nr92014850,human,Ibn al-Kharrāṭ,Q12222548
-"Ibn al-Kutubī, Yūsuf ibn Ismaʻīl, -approximately 1353",author,ابن الكتبي، يوسف بن اسمعيل,http://id.loc.gov/authorities/names/no2008118509,human,Yusuf ibn Ismail al-Kutubi,Q6534413
-"Ibn al-Labbān, Muḥammad ibn Aḥmad, 1286-1348",author,ابن اللبان، محمد بن احمد، 1286-1348,http://id.loc.gov/authorities/names/n96903025 http://id.loc.gov/authorities/names/n96903025 http://viaf.org/viaf/sourceID/LC%7cn96903025,human,Muḥammad ibn Aḥmad Ibn al-Labbān,Q122946962
-"Ibn al-Mulaqqin, ʻUmar ibn ʻAlī, 1323-1401",author,ابن الملقن، عمر بن علي، 1323-1401,http://id.loc.gov/authorities/names/nr89012364,human,Ibn al-Mulaqqin,Q6534585
-"Ibn al-Muqarrab, ʻAlī, 1176 or 1177-1231 or 1232",author,ابن المقرب، علي، 1176 or 1177-1231 or 1232,,human,Ali bin al Mugrab Al Uyuni,Q4725311
-"Ibn al-Nafīs, ʻAlī ibn Abī al-Ḥazm, 1210 or 1211-1288",author,ابن النفيس، علي بن ابي الحزم، 1210 or 1211-1288,,human,Ibn al-Nafis,Q319146
-"Ibn al-Naḥḥās, Fatḥ Allāh ibn ʻAbd Allāh, -1642 or 1643",author,ابن النحاس، فتح الله بن عبد الله، -1642 or 1643,,human,Ibn an-Nahhas al-Halabi,Q86204655
 "Ibn al-Najjār, Taqī al-Dīn Muḥammad ibn Aḥmad, 1492 or 1493-1564 or 1565",author,"ابن النجار، تقي الدين محمد بن احمد, 1492 or 1493-1564 or 1565",http://id.loc.gov/authorities/names/n83066149,human,Taqī al-Dīn Muḥammad ibn Aḥmad Ibn al-Najjār,Q116418436
 "Ibn al-Najjār, Taqī al-Dīn Muḥammad ibn Aḥmad, 1492 or 1493-1564 or 1565",author,,,human,Taqī al-Dīn Muḥammad ibn Aḥmad Ibn al-Najjār,Q116418436
-"Ibn al-Naqīb, Aḥmad ibn Luʼluʼ, -1368",author,ابن النقيب، احمد بن لؤلؤ، -1368,http://id.loc.gov/authorities/names/n84029277,human,Ahmad ibn Naqib al-Misri,Q13426754
-"Ibn al-Nāẓim, Muḥammad ibn Muḥammad, -1287 or 1288",author,ابن الناظم، محمد بن محمد، -1287 or 1288,,human,Badr ad-Dīn ibn Mālik,Q28715113
-"Ibn al-Nāẓim, Muḥammad ibn Muḥammad, -1287 or 1288",author,ابن الناظم، محمد بن محمد، -1286 or 1288, http://id.loc.gov/authorities/names/nr90024234 http://viaf.org/viaf/sourceID/LC%7cnr90024234,human,Badr ad-Dīn ibn Mālik,Q28715113
-"Ibn al-Qāṣiḥ, ʻAlī ibn ʻUthmān, 1316 or 1317-1398 or 1399",author,ابن القاصح، علي بن عثمان، 1316 or 1317-1398 or 1399,,human,ʻAlī ibn ʻUthmān Ibn al-Qāṣiḥ,Q16126334
-"Ibn al-Qāsim, ʻAbd al-Raḥmān, 749 or 750-806 or 807",author,ابن القاسم، عبد الرحمن، 749 or 750-806 or 807,,human,Ibn al-Qasim,Q3147434
 "Ibn al-Qunfudh, Aḥmad ibn Ḥusayn, -1406 or 1407",author,ابن القنفذ، أحمد بن حسين، -1406 or 1407,http://id.loc.gov/authorities/names/n85235313,human,Aḥmad ibn Ḥusayn Ibn al Qunfudh,Q116418151
 "Ibn al-Qunfudh, Aḥmad ibn Ḥusayn, -1406 or 1407",author,,,human,Aḥmad ibn Ḥusayn Ibn al Qunfudh,Q116418151
-"Ibn al-Rūmī, 836-896",author,ابن الرومي، 836-896,,human,Ibn al-Rumi,Q3141116
-"Ibn al-Ṣabbāgh, Muḥammad ibn Abī al-Qāsim",author,ابن الصباغ، محمد بن ابي القاسم,,human,Muḥammad Ibn-Abi-'l-Qāsim Ibn-aṣ-Ṣabbāġ,Q113398432
-"Ibn al-Sarī, Hannād, 769-857",author,ابن السري، هناد، 769-857,http://id.loc.gov/authorities/names/n88251733 http://id.loc.gov/authorities/names/n88251733 http://viaf.org/viaf/sourceID/LC%7cn88251733,human,Hannād Ibn al-Sarī,Q12250101
 "Ibn al-Sarrāj al-Qurashī, Muḥammad ibn ʻAlī, d. 1346 or 7",author,,,human,Muḥammad ibn ʻAlī ibn al-Sarrāj,Q114242443
-"Ibn al-Ṣayrafī, Muḥammad ibn Ṭughrīl, 1293 or 1294-1336 or 1337",author,ابن الصيرفي، محمد بن طغريل، 1293 or 1294-1336 or 1337,,human,Muḥammad ibn Ṭughrīl Ibn al-Ṣayrafī,Q121338602
-"Ibn al-Sāʻātī, Aḥmad ibn ʻAlī, 1254-1294 or 1295",author,ابن الساعاتي، احمد بن علي، 1254-1294 or 1295,http://id.loc.gov/authorities/names/no99047432,human,Aḥmad ibn ʻAlī Ibn al-Sāʻātī,Q122946965
-"Ibn al-Shāṭir, ʻAlī ibn Ibrāhīm, 1304-1375",author,ابن الشاطر، علي بن ابراهيم، 1304-1375,http://id.loc.gov/authorities/names/n85026560,human,Ibn al-Shatir,Q718169
-"Ibn al-Shiḥnah, ʻAbd al-Barr ibn Muḥammad, 1447 or 1448-1515 or 1516",author,ابن الشحنة، عبد البر بن محمد، 1447 or 1448-1515 or 1516،,http://id.loc.gov/authorities/names/nr94022455,human,Abd al-Barr bin Al-Shinah,Q113678168
 "Ibn al-Wardī, Sirāj al-Dīn Abū Ḥafṣ ʻUmar, -1457",author,ابن الوردي، سراج الدين ابو حفص عمر، -1457,http://id.loc.gov/authorities/names/n2013053263,human,Sirāj al-Dīn Abū Ḥafṣ ʻUmar Ibn al-Wardī,Q116418351
 "Ibn al-Wardī, Sirāj al-Dīn Abū Ḥafṣ ʻUmar, -1457",author,,,human,Sirāj al-Dīn Abū Ḥafṣ ʻUmar Ibn al-Wardī,Q116418351
 "Ibn al-ʻArabī, 1165-1240",author,,http://id.loc.gov/authorities/names/n50082069,human,Ibn Arabi,Q46420
-"Ibn al-ʻImād al-Aqfahsī, Aḥmad, approximately 1349-1405",author,ابن العماد الاقفهسي، احمد، approximately 1349-1405,http://id.loc.gov/authorities/names/nr91043779,human,Aḥmad Ibn al-ʻImād al-Aqfahsī,Q6537116
-"Ibn al-ʻImād al-Aqfahsī, Aḥmad, approximately 1349-1405",author,ابن العماد الاقفهسي، احمد، approximately 1349-1405,http://id.loc.gov/authorities/names/nr91043779,human,Aḥmad Ibn al-ʻImād al-Aqfahsī,Q6537116
-"Ibn al-ʻIrāqī, Aḥmad ibn ʻAbd al-Raḥīm, 1361-1423",author,ابن العراقي، احمد بن عبد الرحيم، 1361-1423,http://id.loc.gov/authorities/names/nr90017336,human,Abū Zurʻah al-ʻIrāqī,Q12251239
 "Ibn Barī Khān, ʻAbd al-Fattāḥ",scribe,ابن بري خان، عبد الفتاح,,human,ʻAbd al-Fattāḥ Ibn Barī Khān,Q113866390
 "Ibn Bashkuwāl, Khalaf ibn ʻAbd al-Malik, 1101-1183",author,,http://id.loc.gov/authorities/names/n85370056,human,Ḫalaf Ibn-ʿAbd-al-Malik Ibn-Baškuwāl,Q1655886
-"Ibn Baṭṭāl, ʻAlī ibn Khalaf, -1057",author,ابن بطال، علي بن خلف، -1057,http://id.loc.gov/authorities/names/no00081742,human,ʻAlī ibn Khalaf Ibn Baṭṭāl,Q122946954
-"Ibn Baṭṭāl, ʻAlī ibn Khalaf, -1057",author,ابن بطال، علي بن خلف، -1057,,human,ʻAlī ibn Khalaf Ibn Baṭṭāl,Q122946954
 "Ibn Bīrī, Ibrāhīm ibn ḥusayn, 1614-1688",author,,,human,Ibrahim ibn Hussein al-Biri,Q107328752
-"Ibn Dallāj al-Maghribī, ʻAbd al-Wāḥid ibn Muḥammad",author,ابن دلاج المغربي، عبد الواحد بن محمد,http://id.loc.gov/authorities/names/no2008117969,human,ʻAbd al-Wāḥid ibn Muḥammad Ibn Dallāj al-Maghribī,Q122946955
-"Ibn Dānīyāl, Muḥammad, 1249 or 1250-1310 or 1311",author,ابن دانيال، محمد، 1249 or 1250-1310 or 1311,,human,Muḥammad Ibn-Dāniyāl,Q6535584
-"Ibn Durayd, Muḥammad ibn al-Ḥasan, 837 or 838-933",author,ابن دريد، محمد بن الحسن، 837 or 838-933,,human,Ibn Duraid,Q788374
 "Ibn Faḍl Allāh al-ʻUmarī, Aḥmad ibn Yaḥyá, 1301-1349",author,ابن فضل الله العمري، احمد بن يحيى، 1301-1349,http://id.loc.gov/authorities/names/nr89013200,human,Chihab al-Umari,Q2658869
 "Ibn Faḍl Allāh al-ʻUmarī, Aḥmad ibn Yaḥyá, 1301-1349",author,,,human,Chihab al-Umari,Q2658869
 "Ibn Ghānim, ʻIzz al-Dīn ʻAbd al-Salām ibn Aḥmad, -1279",author,,http://id.loc.gov/authorities/names/n84077355,human,Izz al-Din al-Mosadeqi,Q15930652
-"Ibn Ḥajar al-Haythamī, Aḥmad ibn Muḥammad, approximately 1503-approximately 1566",author,ابن حجر الهيثمي، احمد بن محمد، approximately 1503-approximately 1566,http://id.loc.gov/authorities/names/n82165741 http://id.loc.gov/authorities/names/n82165741 http://viaf.org/viaf/sourceID/LC%7cn82165741,human,Ibn Hajar al-Haytami,Q3147445
-"Ibn Ḥajar al-Haythamī, Aḥmad ibn Muḥammad, approximately 1503-approximately 1566",author,ابن حجر الهيثمي، احمد بن محمد، approximately 1503-approximately 1566, http://id.loc.gov/authorities/names/n82165741 http://viaf.org/viaf/sourceID/LC%7cn82165741,human,Ibn Hajar al-Haytami,Q3147445
 "Ibn Ḥajar al-Haythamī, Aḥmad ibn Muḥammad, approximately 1503-approximately 1566",author,,http://id.loc.gov/authorities/names/n82165741,human,Ibn Hajar al-Haytami,Q3147445
-"Ibn Ḥajar al-ʻAsqalānī, Aḥmad ibn ʻAlī, 1372-1449",author,ابن حجر العسقلاني، احمد بن علي، 1372-1449,http://id.loc.gov/authorities/names/n82108960,human,Ibn Hajar al-Asqalani,Q471116
-"Ibn Ḥijjah al-Ḥamawī, Taqī al-Dīn Abū Bakr ibn ʻAlī, -1434",author,ابن حجة الحموي، تقي الدين ابو بكر بن علي، 1434,,human,Ibn Hijjah al-Hamawi,Q12202946
-"Ibn Hilāl al-Maqdisī, Aḥmad ibn Muḥammad, 1314 or 1315-1363 or 1364",author,ابن هلال المقدسي، احمد بن محمد، 1314 or 1315-1363 or 1364,http://id.loc.gov/authorities/names/nr94022154 http://id.loc.gov/authorities/names/nr94022154 http://viaf.org/viaf/sourceID/LC%7cnr94022154,human,Aḥmad ibn Muḥammad Ibn Hilāl al-Maqdisī,Q122946956
-"Ibn Hishām, ʻAbd Allāh ibn Yūsuf, 1309-1360",author,ابن هشام، عبد الله بن يوسف,,human,Ibn Hisham Al-Ansari,Q6538102
-"Ibn Hishām, ʻAbd Allāh ibn Yūsuf, 1309-1360",author,ابن هشام، عبد الله بن يوسف، 1309-1360,http://id.loc.gov/authorities/names/n82220489,human,Ibn Hisham Al-Ansari,Q6538102
 "Ibn Hishām, ʻAbd Allāh ibn Yūsuf, 1309-1360",author,ابن هشام، عبد الله بن يوسف,http://id.loc.gov/authorities/names/n82220489,human,Ibn Hisham Al-Ansari,Q6538102
 "Ibn Hishām, ʻAbd Allāh ibn Yūsuf, 1309-1360",author,"ابن هشام، عبد الله بن يوسف, 1309-1360",,human,Ibn Hisham Al-Ansari,Q6538102
-"Ibn Jābir, Muḥammad ibn Aḥmad, 1298 or 1299-1378 or 1379",author,ابن جابر، محمد بن احمد، 1298 or 1299-1378 or 1379,,human,Ibn Jaber al-Andalusi,Q98794582
-"Ibn Jābir, Muḥammad ibn Aḥmad, 1298 or 1299-1378 or 1379",author,ابن جابر، محمد بن احمد، 1298 or 1299-1378 or 1379, http://id.loc.gov/authorities/names/nr90003073 http://viaf.org/viaf/sourceID/LC%7cnr90003073,human,Ibn Jaber al-Andalusi,Q98794582
-"Ibn Jamāʻah, Muḥammad ibn Abī Bakr, 1347?-1416 or 1417",author,ابن جماعة، محمد بن ابي بكر، 1347?-1416 or 1417,http://id.loc.gov/authorities/names/no2009005576,human,Muḥammad ibn Abī Bakr Ibn Jamāʻah,Q25453588
 "Ibn Kabūlakh, Muḥammad ibn ʻAlī ibn ʻĪsá",author,ابن كبولخ، محمد بن علي بن عيسى,,human,Muḥammad ibn ʻAlī ibn ʻĪsá Ibn Kabūlakh,Q114242442
-"Ibn Kathīr, Ismāʻīl ibn ʻUmar, approximately 1301-1373",author,ابن كثير، اسماعيل بن عمر,,human,Ibn Kathir,Q369690
-"Ibn Kathīr, Ismāʻīl ibn ʻUmar, approximately 1301-1373",author,ابن كثير، اسماعيل بن عمر، approximately 1301-1373,http://id.loc.gov/authorities/names/n83064845,human,Ibn Kathir,Q369690
 "Ibn Khalaf, ʻAlī ibn Muḥammad, 1453-1532",author,ابن خلف، علي بن محمد، 1453- 1532,,human,ʻAlī ibn Muḥammad Ibn Khalaf,Q113866449
-"Ibn Khaldūn, 1332-1406",author,ابن خلدون، 1332-1406,,human,Ibn Khaldun,Q9294
-"Ibn Khallūf, Aḥmad ibn Abī al-Qāsim, 1425-1493 or 1494",author,ابن خلوف، احمد بن ابي القاسم، -1493 or 1494,,human,Shihāb al-Dīn ibn al-Khalūf,Q107178029
 "Ibn Luyūn al-Tujībī, Saʻd ibn Aḥmad, 1282 or 1283-1349 or 1350",author,ابن ليون التجيبي، سعد بن احمد، 1282 أو 1283-1349 أو 1350,http://id.loc.gov/authorities/names/nr93014844,human,Ibn Luyun,Q3147449
 "Ibn Luyūn al-Tujībī, Saʻd ibn Aḥmad, 1282 or 1283-1349 or 1350",author,,,human,Ibn Luyun,Q3147449
-"Ibn Malak, ʻAbd al-Laṭīf ibn ʻAbd al-ʻAzīz",author,ابن ملك، عبد اللطيف بن عبد العزيز,http://id.loc.gov/authorities/names/nr94018573,human,ʻAbd al-Laṭīf ibn ʻAbd al-ʻAzīz ibn Malak,Q116418873
 "Ibn Malak, ʻAbd al-Laṭīf ibn ʻAbd al-ʻAzīz",author,ابن ملك، عبد اللطيف بن عبد العزيز,http://id.loc.gov/authorities/names/nr94018573,human,ʻAbd al-Laṭīf ibn ʻAbd al-ʻAzīz ibn Malak,Q116418873
 "Ibn Malak, ʻAbd al-Laṭīf ibn ʻAbd al-ʻAzīz",author,,,human,ʻAbd al-Laṭīf ibn ʻAbd al-ʻAzīz ibn Malak,Q116418873
-"Ibn Maymūn al-Maghribī, ʻAlī, 1450 or 1451-1511 or 1512",author,ابن ميمون المغربي، علي، 1450 or 1451-1511 or 1512,http://id.loc.gov/authorities/names/no2005091739,human,Ali ibn Maymun,Q109446432
-"Ibn Maʻtūq, Shihāb al-Dīn, 1616 or 1617-1676 or 1677",author,ابن معتوق، شهاب الدين، 1616 or 1617-1676 or 1677,,human,Abu Maʻtuq al-Musawi,Q6537777
-"Ibn Qāḍī Shuhbah, Abū Bakr ibn Aḥmad, 1377-1448",author,ابن قاضي شهبة، ابو بكر بن احمد، 1377-1448,,human,Abū Bakr ibn Aḥmad Ibn Qāḍī Shuhbah,Q85461758
 "Ibn Qayyim al-Jawzīyah, Muḥammad ibn Abī Bakr, 1292-1350",author,,http://id.loc.gov/authorities/names/n80138230,human,Ibn Qayyim Al-Jawziy,Q119679
-"Ibn Qudāmah, Muwaffaq al-Dīn ʻAbd Allāh ibn Aḥmad, 1147-1223",author,ابن قدامة، موفق الدين عبد الله بن احمد، 1147-1223,http://id.loc.gov/authorities/names/n83066615,human,Ibn Qudamah,Q785506
-"Ibn Quzmān, Muḥammad ibn ʻAbd al-Malik, approximately 1080-1160",author,ابن قزمان، محمد بن عبد الملك، approximately 1080-1160,,human,Ibn Quzman,Q3048660
-"Ibn Rifāʻah al-Ghazzī, Ibrāhīm ibn Yaḥyá, -1130",author,ابن رفاعة الغزي، ابراهيم بن يحيى، -1130،,http://id.loc.gov/authorities/names/n2011211122,human,Ibrāhīm ibn Yaḥyá Ibn Rifāʻah al-Ghazzī,Q122946957
-"Ibn Sayyid al-Nās, Muḥammad ibn Muḥammad, 1273?-1334",author,ابن سيد الناس، محمد بن محمد، 1273?-1334,,human,Fatḥ al-Din Ibn Sayyid al-Nās,Q6536228
 Ibn Serapion,author,,http://id.loc.gov/authorities/names/n90666181,human,Serapion the Younger,Q3479115
 Ibn Serapion,author,,,human,Serapion the Younger,Q3479115
-"Ibn Shāhīn, Khalīl, 1410 or 1411-1468 or 1469",author,ابن شاهين، خليل,,human,Khalīl ibn Shāhīn,Q12210808
-"Ibn Sharaf Shāh, Ḥasan ibn Muḥammad, 1247 or 1248-1315 or 1316",author,ابن شرف شاه، حسن بن محمد، 1247 or 1248-1315 or 1316,,human,"Ibn Sharaf Shāh, Ḥasan ibn Muḥammad,",Q28715012
-"Ibn Sharaf Shāh, Ḥasan ibn Muḥammad, 1247 or 1248-1315 or 1316",author,ابن شرف شاه، حسن بن محمد، 1247 or 1248-1315 or 1316, http://id.loc.gov/authorities/names/no2009178035 http://viaf.org/viaf/sourceID/LC%7cno2009178035,human,"Ibn Sharaf Shāh, Ḥasan ibn Muḥammad,",Q28715012
-"Ibn Sūdūn, ʻAlī, 1407 or 1408-1463 or 1464",scribe,ابن سودون، علي، 1407 or 1408-1463 or 1464,,human,ʻAlī Ibn Sūdūn,Q6536200
 "Ibn Ṭugharbak, Aḥmad",author,,http://id.loc.gov/authorities/names/nr92033142,human,Aḥmad Ibn Ṭugharbak,Q113866476
-"Ibn Wāṣil, Muḥammad ibn Sālim, 1207 or 1208-1297 or 1298",author,ابن واصل، محمد بن سالم، 1207 or 1208-1297 or 1298,,human,Ibn Wasil,Q174325
-"Ibn Ẓafar, Muḥammad ibn ʻAbd Allāh, 1104-1169",author,ابن ظفر، محمد بن عبد الله، 1104-1169,,human,Ibn Zafar,Q1299570
-"Ibn ʻAbd al-Barr, Yūsuf ibn ʻAbd Allāh, 978 or 979-1071",author,ابن عبد البر، يوسف بن عبد الله، 978 or 979-1071,,human,Ibn 'Abd al-Barr,Q732363
-"Ibn ʻAllān, Muḥammad ʻAlī ibn Muḥammad, 1588-1648",author,ابن علان، محمد علي بن محمد، 1588-1648,,human,Muḥammad ʻAlī ibn Muḥammad Ibn ʻAllān,Q16126562
-"Ibn ʻAqīl, Abū al-Wafāʼ ʻAlī, -1119",author,ابن عقيل، ابو الوفاء علي، -1119,http://id.loc.gov/authorities/names/n88242466,human,Ibn Aqil,Q11728390
-"Ibn ʻAqīl, ʻAbd Allāh ibn ʻAbd al-Raḥmān, 1294?-1367",author,ابن عقيل، عبد الله بن عبد الرحمن، 1294?-1367,,human,Ibn ʿAqīl,Q12178189
 "İbrahim Efendi, 1589-1654",author,ابراهيم افندى، 1589-1654,,human,Ibrahim Efendi,Q6073533
 Ibrāhīm Ibn al-Ḥusn,scribe,ابراهيم ابن الحسن،,,human,Ibrāhīm Ibn al-Ḥusn,Q116417782
 Ibrāhīm Ibn al-Ḥusn,scribe,,,human,Ibrāhīm Ibn al-Ḥusn,Q116417782
 Ibrāhīm ibn Qāsim ibn ʻAlī ibn Yūsuf,scribe,ابراهيم بن قاسم بن علي بن يوسف,,human,Ibrāhīm ibn Qāsim ibn ʻAlī ibn Yūsuf,Q114242444
-"Ibshīhī, Muḥammad ibn Aḥmad, 1388-approximately 1446",author,ابشيهي، محمد بن احمد، 1388-approximately 1446,,human,Al-Abshihi,Q3607421
 Iceland,author,,,organization,Iceland,Q189
 Ignatios the Deacon,author,,,human,Ignatios the Deacon,Q3148188
-"Ījī, ʻAḍud al-Dīn ʻAbd al-Raḥmān ibn Aḥmad, -1355",author,ايجي، عضد الدين عبد الرحمن بن احمد، -1355؟,http://id.loc.gov/authorities/names/n80150344,human,ʻAḍud al-Dīn ʻAbd al-Raḥmān ibn Aḥmad Ījī,Q12227337
 Ildibrandinus,author,,,human,Ildibrandinus,Q116417464
 "Illuminated for Marie d’Avaugour, duchesse de Montbazon (1610-1657), daughter of Claude d’Avaugour, comte de Vertus, and wife of Hercule de Rohan, duc de Montbazon (1568-1654), governor of Paris, with their arms on the title and elsewhere;",former owner,,,human;human,"Marie de Bretagne d’Avaugour;Hercule de Rohan, Duke of Montbazon",Q1152648;Q673298
 "Illuminator, Master of the Vitae Imperatorum, active 1402-1459",artist,,,human,Meister der Vitae Imperatorum,Q1673214
 "Ilyās ibn Khamzah ʻAlī Niyat ʻAlī ibn Khamzah, active 1484",scribe,"الياس بن خمزه علي نيت علي بن خمزه, d",,human,Ilyās ibn Khamzah ʻAlī Niyat ʻAlī ibn Khamzah,Q116417213
 "Ilyās ibn Khamzah ʻAlī Niyat ʻAlī ibn Khamzah, active 1484",scribe,,,human,Ilyās ibn Khamzah ʻAlī Niyat ʻAlī ibn Khamzah,Q116417213
-"Imāmʹzādah, Muḥammad ibn Abī Bakr, 1097 or 1098-1177 or 1178",author,امام‌زادة، محمد بن ابي بكر، 1097 or 1098-1177 or 1178,http://id.loc.gov/authorities/names/nr92038751,human,Muḥammad ibn Abī Bakr Imāmʹzādah,Q122946966
 Immanuel ben Jacob Bonfils,author,,,human,Immanuel Bonfils,Q354517
 "In an envelope with the manuscript, the remains of the bookplate of George John Warren Vernon (1803-1866), fifth Baron Veron; CSL accession number 22953.",former owner,,,human,"George Venables-Vernon, 5th Baron Vernon",Q5545476
 "Ingilby, William Henry, Sir, 1874-1952",former owner,,,human,"Sir William Henry Ingilby, 4th Bt.",Q75298662
@@ -2408,12 +2236,8 @@ Ippolito de Medici,author,,,human,Ippolito de' Medici,Q378185
 "Īrawānī, Qāsim",former owner,ايرواني، قاسم,,human,Qāsim al-Īrawānī,Q114242446
 "Ireland, Gilbert Blackburne",former owner,,,human,Gilbert Ireland Blackburne,Q75971067
 Isaac Judaeus,author,,,human,Isaac Iudaeus,Q107353297
-"Iṣfahānī, Maḥmūd ibn ʻAbd al-Raḥmān, 1275 or 1276-1348 or 1349",author,اصفهاني، محمود بن عبد الرحمن، 1275 or 1276-1348 or 1349,http://id.loc.gov/authorities/names/nr91044051,human,Mahmud ibn Abd al-Rahman al-Isfahani,Q57970695
 "Iṣfahānī, Muḥammad",scribe,اصفهاني، محمد,,human,Muḥammad Iṣfahānī,Q114242513
 "Iṣfahānī, Ṣ̣adr al-Dīn Muḥammad ibn Kamāl al-Dīn",scribe,اصفهاني، صدر الدين محمد بن كمال الدين,,human,Ṣ̣adr al-Dīn Muḥammad ibn Kamāl al-Dīn Iṣfahānī,Q114242445
-"Isfarāyīnī, Muḥammad ibn Muḥammad, -1285",author,اسفراييني، محمد بن محمد، -1285,,human,Muḥammad ibn Muḥammad Isfarāyīnī,Q122947965
-"Isfarāyīnī, Muḥammad ibn Muḥammad, -1285",author,اسفراييني، محمد بن محمد,,human,Muḥammad ibn Muḥammad Isfarāyīnī,Q122947965
-"Isfarāyīnī, Muḥammad ibn Muḥammad, -1285",author,اسفراييني، محمد بن محمد، 1285,,human,Muḥammad ibn Muḥammad Isfarāyīnī,Q122947965
 Isidore,author,,,human,Isidore of Seville,Q166876
 "Isidore, Metropolitan of Kiev, -1463",scribe,,,human,Isidore of Kyiv,Q707663
 "Isidore, of Seville, Saint, -636",author,,http://id.loc.gov/authorities/names/n80139470,human,Isidore of Seville,Q166876
@@ -2424,14 +2248,12 @@ Isidore (Isidorus Hispalensis),author,,,human,Isidore of Seville,Q166876
 Isidore of Seville,author,,,human,Isidore of Seville,Q166876
 "Isidore of Seville, Saint d. 636.",author,,,human,Isidore of Seville,Q166876
 Isidorius,author,,,human,Isidore of Pelusium,Q713530
-"İsmail Hakkı, Bursalı, 1653-1724 or 1725",author,اسماعيل حقي برصلي، 1653-1724 or 1725,,human,İsmail Hakkı Bursevî,Q8084303
 "Ismāʻīl ibn al-Ḥājj ʻĪsá Jurayj al-Muhannā, active 1781",former owner,اسماعيل بن الحاج عيسى جريج المهنى، active 1781,,human,Ismāʻīl ibn al-Ḥājj ʻĪsá Jurayj al-Muhannā,Q116487112
 "Ismāʻīl ibn al-Ḥājj ʻĪsá Jurayj al-Muhannā, active 1781",former owner,,,human,Ismāʻīl ibn al-Ḥājj ʻĪsá Jurayj al-Muhannā,Q116487112
 "Israeli, Isaac, approximately 832-approximately 932",author,,http://id.loc.gov/authorities/names/n86820023,human,Isaac Israeli ben Solomon,Q536837
 "Israeli, Isaac, approximately 832-approximately 932",author,,,human,Isaac Israeli ben Solomon,Q536837
 "Israeli, Isaac ben Joseph, active 14th century",author,,http://id.loc.gov/authorities/names/no98095964,human,Isaac Israeli ben Joseph,Q2916353
 "Israeli, Isaac ben Joseph, active 14th century",author,,,human,Isaac Israeli ben Joseph,Q2916353
-"Itqānī, Amīr Kātib ibn Amīr ʻUmar, 1286 or 1287-1356 or 1357",author,اتقاني، امير كاتب بن امير عمر، 1286 or 1287-1356 or 1357,http://id.loc.gov/authorities/names/no2006082739,human,Amīr Kātib ibn Amīr ʻUmar Itqānī,Q122946967
 "Ivani, Antonio 1430-1482.",author,,,human,Antonio Ivani,Q30434026
 "Ives, John",former owner,,,human,John Ives,Q6240923
 "Ivo, Saint, Bishop of Chartres, approximately 1040-1116",author,,http://id.loc.gov/authorities/names/n88070664,human,Ivo of Chartres,Q124775
@@ -2499,19 +2321,16 @@ Jacques Rosenthal (Firm),former owner,,,organization,Jacques Rosenthal,Q11466767
 "Jalāl al-Dīn Rūmī, Maulana, 1207-1273",author,جلال الدین رومى، مولانا، 1207-1273,,human,Rumi,Q43347
 "Jaldakī, Aydamar ibn ʻAbd Allāh, active 1349-1361",author,جلدكي، ايدمر بن عبد الله، active 1349-1361,http://id.loc.gov/authorities/names/n88636116,human,Aydamar ibn ʻAbd Allāh Jaldakī,Q116250111
 "Jaldakī, Aydamar ibn ʻAbd Allāh, active 1349-1361",author,,,human,Aydamar ibn ʻAbd Allāh Jaldakī,Q116250111
-"Jamal, Sulaymān ibn ʻUmar, -1789 or 1790",author,جمل، سليمان بن عمر، -1789 or 1790,http://id.loc.gov/authorities/names/nr90010081,human,Sulaimān Ibn-ʿUmar al- Ǧamal al-ʿUǧaili,Q113785768
 "James, of Viterbo, Archbishop of Naples, approximately 1255-1307 or 1308",author,,,human,James of Viterbo,Q352625
 "James Freeman Clarke, 1810-1888",former owner,,,human,James Freeman Clarke,Q323362
 James Tregaskis (Firm),former owner,,,organization,James Tregaskis (Firm),Q114242604
 "Jāmī, 1414-1492",author,جامى، 1414-1492,http://id.loc.gov/authorities/names/n79068673,human,Jami,Q312458
 "Jāmī, 1414-1492",author,,,human,Jami,Q312458
 "Jāmī, 1414-1492",author,جامى، 1414-1492,,human,Jami,Q312458
-"Jammāʻīlī, ʻAbd al-Ghanī ibn ʻAbd al-Wāḥid, 1146-1203",author,جماعيلي، عبد الغني بن عبد الواحد، 1146-1203,http://id.loc.gov/authorities/names/n84010934,human,Molana Abdul Ghani Hanbhi,Q423563
 Jan de Keyser,author,,,human,Jan de Keyser,Q29935006
 János Zsámboki 1531-1584,author,,,human,János Zsámboki,Q96238920
 Jans Enikel,author,,,human,Jans der Enikel,Q689252
 "Jansen op de Haar, G.A",former owner,,,human,Arnold Jansen op de Haar,Q2216274
-"Jārbardī, Fakhr al-Dīn Aḥmad ibn al-Ḥasan, -1345",author,جاربردي، فخر الدين احمد بن الحسن، -1345,,human,Fakhr al-Dīn Aḥmad ibn al-Ḥasan Jārbardī,Q120752948
 "Jarman, John Boykett, 1782-1864",former owner,,,human,John Boykett Jarman,Q94297523
 "Jarsey, John",former owner,,,human,John Jarsey,Q114242448
 "Jastrow, Marcus, 1829-1903",former owner,,,human,Marcus Jastrow,Q556073
@@ -2521,7 +2340,6 @@ Jans Enikel,author,,,human,Jans der Enikel,Q689252
 "Jawharī, Ismāʻīl ibn Ḥammād, -1003",author,,,human,Ismail ibn Hammad al-Jawhari,Q403498
 "Jazūlī, Muḥammad ibn Sulaymān, 1404-1465",author,جزولي، محمد بن سليمان، -1465,,human,Muhammad al-Jazuli,Q1775944
 "Jazūlī, Muḥammad ibn Sulaymān, -1465",author,جزولي، محمد بن سليمان، -1465,,human,Muhammad al-Jazuli,Q1775944
-"Jaʻbarī, Ibrāhīm ibn ʻUmar, 1242 or 1243-1331 or 1332",author,جعبري، ابراهيم بن عمر,http://id.loc.gov/authorities/names/nr91008254,human,Ibrāhīm ibn ʻUmar Jaʻbarī,Q122946968
 "Jean-Baptiste Joseph Barrois, of Lille (1784-1855), his 297 (green label on spine); the collection bought in 1849 by Bertram, fourth earl of Ashburnham (1797-1878); the fifth earl’s sale, Sotheby’s, 10 June 1901, lot 33;",former owner,,,human;human;human,"Joseph Barrois;Bertram Ashburnham, 4th Earl of Ashburnham;Bertram Ashburnham, 5th Earl of Ashburnham",Q97783947;Q21855104;Q19894272
 "Jean Bourdichon, follower of",artist,,,human,Follower of Jean Bourdichon,Q122873475
 Jean Bourdichon?,artist,,,human,Jean Bourdichon,Q348333
@@ -2561,7 +2379,6 @@ Joachim of Fiore ca. 1132-1202.,author,,,human,Joachim of Fiore,Q199991
 "Joan, of Aragon, Queen of Sicily",author,,,human,Juana I of Castile,Q171136
 "Joanna I, Queen of Naples, -1382",author,,http://id.loc.gov/authorities/names/n79074514,human,Joanna I of Naples,Q235381
 "Joanna I, Queen of Naples, -1382",author,,,human,Joanna I of Naples,Q235381
-"Joannes, Glastoniensis",author,,http://id.loc.gov/authorities/names/n82029178,human,John of Glastonbury,Q18672036
 Joannes Andreae,author,,,human,Giovanni d'Andrea,Q920858
 "Joannes Angelus, de Crema",former owner,,,human,Joannes Angelus de Crema,Q116418841
 Joannes Cassianus,author,,,human,John Cassian,Q313795
@@ -2714,10 +2531,6 @@ Julius II Pope 1443-1513.,author,,,human,Julius II,Q80516
 "Junk, Wilhelm, 1866-1942",former owner,,,human,Wilhelm Junk,Q215149
 "Jurjānī, Ismāʻīl ibn Ḥasan, 1042 or 1043-1136 or 1137",author,جرجاني، اسماعيل بن حسن، 1042 or 1043-1136 or 1137,http://id.loc.gov/authorities/names/nr94010125,human,Zayn al-Din Gorgani,Q2908840
 "Jurjānī, Ismāʻīl ibn Ḥasan, 1042 or 1043-1136 or 1137",author,,,human,Zayn al-Din Gorgani,Q2908840
-"Jurjānī, ʻAlī ibn Muḥammad, al-Sayyid al-Sharīf, 1340-1413",author,جرجاني، علي بن محمد، السيد الشريف، 1340-1413,,human,Ali ibn Mohammed al-Jurjani,Q3063378
-"Jurjānī, ʻAlī ibn Muḥammad, al-Sayyid al-Sharīf, 1340-1413",author,جرجاني، علي بن محمد السيد الشريف، 1340-1413,http://id.loc.gov/authorities/names/n88286025,human,Ali ibn Mohammed al-Jurjani,Q3063378
-"Jurjānī, ʻAlī ibn Muḥammad, al-Sayyid al-Sharīf, 1340-1413",author,جرجاني، علي بن محمد، السيد الشريف، 1340-1413,http://id.loc.gov/authorities/names/n88286025,human,Ali ibn Mohammed al-Jurjani,Q3063378
-"Jurjānī, ʻAlī ibn Muḥammad, al-Sayyid al-Sharīf, 1340-1413",author,جرجاني، علي بن محمد السيد الشريف، 1340-1413,,human,Ali ibn Mohammed al-Jurjani,Q3063378
 Justinian,author,,,human,Justinian I,Q41866
 "Justinian (Emperor, r. 527-565 A.D.)",author,,,human,Justinian I,Q41866
 Justinian (Justinianus),author,,,human,Justinian I,Q41866
@@ -2731,15 +2544,8 @@ Justinus,author,,,human,Justin,Q25420924
 Juvenal,author,,,human,Juvenal,Q193800
 Juvenal.,author,,,human,Juvenal,Q193800
 "Kafʻamī, Ibrāhīm ibn ʻAlī, 1436 or 1437-1499 or 1500",author,كفعمي، ابراهيم بن علي، 1436 or 1437-1499 or 1500,,human,Ibrāhīm ibn ʻAlī Kafʻamī,Q12181714
-"Kalābādhī, Muḥammad ibn Ibrāhīm, active 10th century",author,كلاباذي، محمد بن ابراهيم، active 10th century,http://id.loc.gov/authorities/names/n83161675 http://id.loc.gov/authorities/names/n83161675 http://viaf.org/viaf/sourceID/LC%7cn83161675,human,Abu Bakr al-Kalabadhi,Q334857
-"Kalāʻī, Sulaymān ibn Mūsá, 1170-1237",author,كلاعي، سليمان بن موسى، 1170-1237,,human,Aburrebii ibn Salim Elcolaí,Q11904044
-"Kane, Grenville, 1854-1943",former owner,,http://id.loc.gov/authorities/names/no2001073978(uri) http://id.loc.gov/authorities/names/no2001073978(uri) http://viaf.org/viaf/sourceID/LC%7cno2001073978,human,Grenville Kane,Q94356741
-"Karāmah, Buṭrus ibn Ibrāhīm, 1774 or 1775-1850 or 1851",author,كرامة، بطرس بن ابراهيم، 1774 or 1775-1850 or 1851,,human,Butrus Karamah,Q42890491
 Karl & Faber,former owner,,,organization,Karl & Faber Kunstauktionen,Q53596640
 Karl W. Hiersemann (Firm),former owner,,,human,Karl Wilhelm Hiersemann,Q1473427
-"Karmī, Marʻī ibn Yūsuf, -1623 or 1624",author,كرمي، مرعي بن يوسف، -1623 or 1624,http://id.loc.gov/authorities/names/n83139695,human,Mar'i al-Karmi,Q25451884
-"Karmī, Marʻī ibn Yūsuf, -1623 or 1624",author,كرمي، مرعي بن يوسف، -1623 or 1624,,human,Mar'i al-Karmi,Q25451884
-"Karmī, Marʻī ibn Yūsuf, -1623 or 1624",author,كرمي، مرعي بن يوسف، -1623 or 1624,http://id.loc.gov/authorities/names/n83139695,human,Mar'i al-Karmi,Q25451884
 "Kartause Sankt Barbara (Cologne, Allemagne)",former owner,,,organization,Cologne Charterhouse,Q291014
 "Kāshānī, Yaḥyá ibn Aḥmad, active 14th century",author,كاشاني، يحيى بن احمد، active 14th century,http://id.loc.gov/authorities/names/n2017034608,human,Yaḥyá ibn Aḥmad Kāshānī,Q116419307
 "Kāshānī, Yaḥyá ibn Aḥmad, active 14th century",author,,,human,Yaḥyá ibn Aḥmad Kāshānī,Q116419307
@@ -2748,7 +2554,6 @@ Kauśikarāma,author,,,human,Kauśikarāma,Q114242460
 "Kelker, Rudolph F. (Rudolph Frederick), 1820-1906",former owner,,,human,Rudolph Frederick Kelker,Q114242424
 "Kelker, Rudolph Frederick",former owner,,,human,Rudolph Frederick Kelker,Q114242424
 "Keller, Alexandre de",former owner,,,human,Alexandre de Keller,Q116452894
-"Kemalpaşazade, 1468 or 1469-1534",author,كمال بشا زاده، 1468 or 1469-1534,http://id.loc.gov/authorities/names/n85370452 http://id.loc.gov/authorities/names/n85370452 http://viaf.org/viaf/sourceID/LC%7cn85370452,human,Ibn Kemal,Q449254
 "Kemalpaşazade, 1468 or 1469-1534",author,,http://id.loc.gov/authorities/names/n85370452,human,Ibn Kemal,Q449254
 "Kemp, Johannes",scribe,,,human,Johannes van der Kemp,Q88802107
 Kenneth A. Lohf (1925-2002).,former owner,,,human,Kenneth A. Lohf,Q110041097
@@ -2756,20 +2561,14 @@ Kenneth A. Lohf (1925-2002).,former owner,,,human,Kenneth A. Lohf,Q110041097
 "Ker, John Edgar",former owner,,,human,John Edgar Ker,Q116452953
 "Keysser, Georg",scribe,,,human,Georg Keysser,Q116250320
 "Khādimī, Muḥammad ibn Muṣṭafá, 1701 or 1702-1762 or 1763",author,,http://id.loc.gov/authorities/names/nr91027348,human,Muḥammad ibn Muṣṭafá Khādimī,Q12178022
-"Khafājī, Aḥmad ibn Muḥammad, 1571 or 1572-1659",author,خفاجي، احمد بن محمد، 1571 or 1572-1659,,human,"Khafājī, Aḥmad ibn Muḥammad",Q27894690
 "Khākiyānī, Darvīsh Aḥmad, active 1801",former owner,خاكيانى، درويش احمد، active 1801,,human,Darvīsh Aḥmad Khākiyānī,Q114242465
 "Khamsī, Muḥammad ibn ʻAbd Allāh",scribe,خمسي، محمد بن عبد الله,,human,Muḥammad ibn ʻAbd Allāh Khamsī,Q114242461
 "Khān, Sharīf, 1725?-1805 or 1806",former owner,"محمد شريف خان, 1725?-1805 or 1806",http://id.loc.gov/authorities/names/n2008205086,human,Sharīf Khān,Q116446986
 "Khān, Sharīf, 1725?-1805 or 1806",former owner,,,human,Sharīf Khān,Q116446986
-"Khaṭṭābī, Ḥamd ibn Muḥammad, 931-996",author,خطابي، حمد بن محمد، 931-996،,,human,Abu Sulaiman al-Khattabi,Q12178032
 "Khayālī, Aḥmad ibn Mūsá, -1457",author,خيالي، احمد بن موسى، -1457؟,,human,Aḥmad ibn Mūsá Khayālī,Q114242425
-"Khāzin al-Baghdādī, ʻAlī ibn Muḥammad, 1279 or 1280-1341",author,خازن البغدادي، علي بن محمد، 1279 or 1280-1341,http://id.loc.gov/authorities/names/n88234458,human,Al-Khāzin al-Baghdādī,Q17521123
 "Khāzinī, ʻAbd al-Raḥmān, active 1121",author,خازني، عبد الرحمن، active 1121,http://id.loc.gov/authorities/names/n84238034,human,Al-Khazini,Q2991836
 "Khāzinī, ʻAbd al-Raḥmān, active 1121",author,,,human,Al-Khazini,Q2991836
-"Kibrīt, Muḥammad ibn ʻAbd Allāh, 1603 or 1604-1659 or 1660",author,كبريت، محمد بن عبد الله، 1603 or 1604-1659 or 1660,,human,Muhammad Kibrit,Q51886263
 "Kilālī, Zubayr ibn Marḍ",scribe,كلالي، زبير بن مرض,,human,Zubayr ibn Marḍ Kilālī,Q114242466
-"Kirmāstī, Yūsuf ibn Ḥusayn, -1500",author,كرماستي، يوسف بن حسين، -1500,http://id.loc.gov/authorities/names/n88226582 http://id.loc.gov/authorities/names/n88226582 http://viaf.org/viaf/sourceID/LC%7cn88226582,human,Yūsuf ibn Ḥusayn Kirmāstī,Q122946969
-"Kisāʼī, Muḥammad ibn ʻAbd Allāh, active 11th century",author,كسائي، محمد بن عبد الله، active 11th century,,human,Abū al-Hasan al-Kisāī,Q109279429
 "Klein, Eugène, 1898-",former owner,,http://id.loc.gov/authorities/names/no2010124464,human,Eugène Klein,Q116419229
 "Klein, Eugène, 1898-",former owner,,,human,Eugène Klein,Q116419229
 "Kloss, Georg",former owner,,,human,Georg Kloss,Q214047
@@ -2777,7 +2576,6 @@ Kenneth A. Lohf (1925-2002).,former owner,,,human,Kenneth A. Lohf,Q110041097
 "Kloss, Georg Franz Burkhard, 1787-1854",former owner,,,human,Georg Kloss,Q214047
 Kloster Kuringen,former owner,,,human,Kloster Kuringen,Q122873482
 Kölner Kartause,former owner,,,organization,Cologne Charterhouse,Q291014
-Königliche Museen zu Berlin,former owner,,,organization,Staatliche Museen zu Berlin,Q700216
 Konrad Kyeser,author,,,human,Konrad Kyeser,Q77543
 "Konrad von Brundelsheim or ""Soccus""",author,,,human,Konrad von Brundelsheim,Q96358542
 "Kothen, Charles, 1814-1880",former owner,,,human,Charles Kothen,Q116452817
@@ -2786,7 +2584,6 @@ Konrad Kyeser,author,,,human,Konrad Kyeser,Q77543
 "Krumbhaar, E. B. 1882-1966",former owner,,http://id.loc.gov/authorities/names/n83825912,human,E.B. Krumbhaar,Q93241098
 "Krumbhaar, E. B. 1882-1966",former owner,,,human,E.B. Krumbhaar,Q93241098
 "Kuppferberg, Johannes de",scribe,,,human,Johannes de Kuppferberg,Q114242462
-"Kuzbarī, ʻAbd al-Raḥmān ibn Muḥammad, 1770 or 1771-1845 or 1846",scribe,,,human,ʻAbd al-Raḥmān ibn Muḥammad Kuzbarī,Q105241218
 "Kuzi, Yitzhak Nahum",former owner,,,human,Yitzhak Nahum Kuzi,Q116452995
 "L., K",former owner,,,organization,K-L,Q5492826
 "Labbey-de-Billy, Nicolas-Antoine, 1753-1825",former owner,,http://id.loc.gov/authorities/names/no2011112789,human,Nicolas Antoine Labbey de Billy,Q60840320
@@ -2796,7 +2593,6 @@ Konrad Kyeser,author,,,human,Konrad Kyeser,Q77543
 Lactantius,author,,,human,Lactantius,Q209102
 "Lactantius, approximately 240-approximately 320.",author,,,human,Lactantius,Q209102
 Lactantius ca. 240-ca. 320.,author,,,human,Lactantius,Q209102
-"Lādhiqī, ʻAbd al-Razzāq ibn ʻAbd al-Fattāḥ, -1853 or 1854",author,لاذقاني، عبد الرزاق بن عبد الفتاح,http://id.loc.gov/authorities/names/nr94013804,human,ʻAbd al-Razzāq ibn ʻAbd al-Fattāḥ Lādhiqī,Q122946970
 "Lady Margaret Ayloffe, 1704?-1797",former owner,,,human,Lady Margaret Ayloffe,Q122873483
 "Lafferde, Henricus",former owner,,,human,Henricus Lafferde,Q114242463
 "Lagnier, Antoine",former owner,,,human,Antoine Lagnier,Q122873484
@@ -2897,7 +2693,6 @@ Lepelletier de Rosanbo,former owner,,,organization,Lepeletier de Rosanbo,Q114413
 "Lewis, John Frederick, 1860-1932","former owner,",,,human,John Frederick Lewis,Q78163033
 Lewis Gould purchased from Galena Books from the Los Angeles Book Fair. Gift of Lewis Gould to the Nelson-Atkins Museum of Art in 2015 in his wife's memory.,former owner,,,human,Lewis L. Gould,Q112391468
 "Liberale, da Verona, approximately 1445-1529",artist,,,human,Liberale da Verona,Q1374872
-"Librairie Damascène Morgand (Edouard Rahir et cie, successeurs)","former owner,",,http://id.loc.gov/authorities/names/n82088942 http://id.loc.gov/authorities/names/n82088942 http://viaf.org/viaf/sourceID/LC%7cn82088942,organization,Librairie Damascène Morgand,Q116784968
 Librairie Tross,former owner,,,organization,Librairie Tross,Q114242602
 Library of the Dominicans of Paris,former owner,,,organization,Library of the Dominicans of Paris,Q122873663
 Libreria antiquaria Mediolanum,former owner,,,organization,Libreria antiquaria Mediolanum,Q120442751
@@ -3006,15 +2801,12 @@ Maffeo Vegio,author,,,human,Maffeo Vegio,Q1372875
 "Maggi Spaulding, Angèle Louise",former owner,,,human,Angèle Louise Maggi Spaulding,Q120898802
 Maggs Bros.,former owner,,,organization,Maggs Bros Ltd,Q15067374
 "Maggs cat. 246 (1909), no. 820; Sotheby’s, 21 July 1913, lot 1077; Maggs cat. 380 (1919), no. 1699, and cat. 542 (1930), no. 46;Edward Duff Balken, of Pittsburg, PA, with his bookplate; George A. Poole (bought from H. P. Kraus, cat. 75, 1955, no. 5), and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,human;human;organization,Edward Duff Balken;George Amos Poole;Maggs Bros Ltd,Q112300686;Q64683625;Q15067374
-"Maghribī, ʻĪsá ibn Muḥammad, 1611 or 1612-1669 or 1670",author,مغربي، عيسى بن محمد، 1611 or 1612-1669 or 1670,http://id.loc.gov/authorities/names/no2007114225,human,ʻĪsá ibn Muḥammad Maghribī,Q12228915
 "Magno, Pietro, active 1572-1589",author,,http://id.loc.gov/authorities/names/no92033400,human,Pietro Magno,Q55229164
 "Magno, Pietro, active 1572-1589",author,,,human,Pietro Magno,Q55229164
-"Maḥbūbī, ʻUbayd Allāh ibn Masʻūd, -1346 or 1347",author,محبوبي، عبيد الله بن مسعود، -1346 or 1347,http://id.loc.gov/authorities/names/n86141596,human,ʿUbaidallāh Ibn-Masʿūd al- Maḥbūbī,Q85407023
 "Maḥmūd bin Nāṣir, active 1665",former owner,محمود بن ناصر، active 1665،,,human,Maḥmūd bin Nāṣir,Q116453003
 "Maḥmūd bin Nāṣir, active 1665",former owner,,,human,Maḥmūd bin Nāṣir,Q116453003
 Maḥmūd ibn al-Shaykh al-Fattāḥ,former owner,محمود بن الشيخ الفتاح,,human,Maḥmūd ibn al-Shaykh al-Fattāḥ,Q114242523
 "Maillard, Olivier, approximately 1430-1502",author,,http://viaf.org/viaf/61580903,human,Oliver Maillard,Q3351180
-"Maimonides, Moses, 1135-1204",author,,http://id.loc.gov/authorities/names/n78096039 http://id.loc.gov/authorities/names/n78096039 http://viaf.org/viaf/sourceID/LC%7cn78096039,human,Moshe ben Maimon,Q127398
 Maître François,artist,,,human,Maître François,Q15967017
 "Maître François, style of",artist,,,human,Maître François,Q15967017
 "Majorana, Cristoforo (Italian illuminator, active ca. 1480-1494)",artist,,,human,Cristoforo Majorana,Q5186484
@@ -3025,7 +2817,6 @@ Maître François,artist,,,human,Maître François,Q15967017
 "Malatesta Novello, Domenico, 1418-1465",associated name,,,human,Malatesta Novello,Q1169529
 Malavolti family,author,,,organization,Malavolti family,Q25410360
 "Maliers, Thiebaus de, seigneur de Châtel en Ardenne",author,,,human,Thiebaus de Maliers,Q116452979
-"Mālik ibn Anas, -795",author,مالك بن انس، -795,,human,Malik ibn Anas,Q312299
 "Malvezzi, Jacopo.",author,,,human,Jacobus Malvecius,Q16853755
 "Mandagot, Guillaume de, -1321",author,,http://id.loc.gov/authorities/names/no2009139325,human,Guillaume de Mandagout,Q3120387
 "Mandagot, Guillaume de, -1321",author,,,human,Guillaume de Mandagout,Q3120387
@@ -3042,8 +2833,6 @@ Mannheimer Hofbibliothek,former owner,,,organization,Mannheimer Hofbibliothek,Q4
 Manuel Moschopoulos,author,,,human,Manuel Moschopoulos,Q650448
 Manuscript purchased in Madrid by a former owner (per label); gift in 1959 of Mrs. Monica Franklyn of central New Jersey.,former owner,,,human,Monica Franklyn,Q116860359
 "Manuzio, Paolo 1512-1574.",author,,,human,Paulus Manutius,Q941151
-"Maqrīzī, Aḥmad ibn ʻAlī, 1364-1442",author,مقريزي، احمد بن علي، 1364-1442,,human,Al-Maqrizi,Q293604
-"Maqrīzī, Aḥmad ibn ʻAlī, 1364-1442",author,مقريزي، احمد بن علي، 1364-144,http://id.loc.gov/authorities/names/n80056737,human,Al-Maqrizi,Q293604
 "Marano, Nicolaus de",author,,,human,Nicolaus de Marano,Q116460029
 Marbod,author,,,human,Marbodius of Rennes,Q654307
 "Marcaldi, Francesco, active 16th century",scribe,,http://id.loc.gov/authorities/names/no2009086989,human,Francesco Marcaldi,Q116453021
@@ -3144,10 +2933,8 @@ Matthias de Liegnitz ca. um 1379,author,,https://viaf.org/viaf/32389733,human,Ma
 Maurice Scève,author,,,human,Maurice Scève,Q250321
 "Mawāhidī, Abū ʻAbd al-Raḥmān Yaʻqūb ibn Ayyūb, active 1350-1389",author,مواهدي، ابو عبد الرحمن يعقوب بن ايوب. كان حيا 1350-1389,http://id.loc.gov/authorities/names/no2021032187,human,Abū ʻAbd al-Raḥmān Yaʻqūb ibn Ayyūb Mawāhidī,Q116460016
 "Mawāhidī, Abū ʻAbd al-Raḥmān Yaʻqūb ibn Ayyūb, active 1350-1389",author,,,human,Abū ʻAbd al-Raḥmān Yaʻqūb ibn Ayyūb Mawāhidī,Q116460016
-"Māwardī, ʻAlī ibn Muḥammad, 974?-1058",author,ماوردي، علي بن محمد، 974?-1058,http://id.loc.gov/authorities/names/n83162975,human,Al-Mawardi,Q335635
 "Māwardī, ʻAlī ibn Muḥammad, 974?-1058",author,ماوردي، علي بن محمد، 974؟-1058,http://id.loc.gov/authorities/names/n83162975,human,Al-Mawardi,Q335635
 "Māwardī, ʻAlī ibn Muḥammad, 974?-1058",author,,,human,Al-Mawardi,Q335635
-"Mawṣilī, ʻAbd Allāh ibn Maḥmūd, 1202 or 1203-1284",author,موصلي، عبد الله بن محمود، 1202 or 1203-1284,http://id.loc.gov/authorities/names/n85307246,human,ʻAbd Allāh ibn Maḥmūd Mawṣilī,Q122946971
 "Maximilian Heinrich, Archbishop and Elector of Cologne, 1621-1688",former owner,,http://id.loc.gov/authorities/names/n85215184,human,Maximilian Henry of Bavaria,Q76722
 "Maximilian Heinrich, Archbishop and Elector of Cologne, 1621-1688",former owner,,,human,Maximilian Henry of Bavaria,Q76722
 "Maximilian II, Holy Roman Emperor, 1527-1576",author,,http://id.loc.gov/authorities/names/n80073725,human,"Maximilian II, Holy Roman Emperor",Q150862
@@ -3155,8 +2942,6 @@ Maurice Scève,author,,,human,Maurice Scève,Q250321
 "Maximus, bp. of Turin",author,,,human,Maximus of Turin,Q1230495
 "Maximus, of Turin, Saint, active 4th century-5th century",author,,http://viaf.org/viaf/7309730,human,Maximus of Turin,Q1230495
 Maximus of Turin,author,,,human,Maximus of Turin,Q1230495
-"Maydānī, Aḥmad ibn Muḥammad, -1124",author,ميداني، احمد بن محمد، -1124,,human,Aḥmad Ibn-Muḥammad al- Maidānī,Q5669370
-"Maydānī, Aḥmad ibn Muḥammad, -1124",author,ميداني، احمد بن محمد، 1124,,human,Aḥmad Ibn-Muḥammad al- Maidānī,Q5669370
 Mayer Sulzberger.,former owner,,,human,Mayer Sulzberger,Q6797076
 "Mayner, Joseph",former owner,,,human,Joseph Mayner,Q122873496
 "Mazzolla Vicentino, Calisto",author,,,human,Calisto Mazzolla Vicentino,Q116453188
@@ -3226,9 +3011,6 @@ Miles Hogarde,author,,,human,Miles Huggarde,Q6851419
 "Minns, Susan",former owner,,,human,Susan Minns,Q97586047
 "Minns, Susan B.",former owner,,,human,Susan B. Minns,Q122873499
 "Minucci, Minuccio 1551-1604.",author,,,human,Minuccio Minucci,Q282495
-"Mīrghanī, ʻAbd Allāh ibn Ibrāhīm, -1792 or 1793",author,ميرغني، عبد الله بن ابراهيم، -1792 or 1793,http://id.loc.gov/authorities/names/n88241509,human,ʻAbd Allāh ibn Ibrāhīm Mīrghanī,Q122946973
-"Mīrghanī, ʻAbd Allāh ibn Ibrāhīm, -1792 or 1793",author,ميرغني، عبد الله بن ابراهيم، -1792 or 1793,,human,ʻAbd Allāh ibn Ibrāhīm Mīrghanī,Q122946973
-"Mīrim Chalabī, Maḥmūd ibn Muḥammad, 1475-1524 or 1525",author,ميرم چلبي، محمود بن محمد، 1475-1524 or 1525,http://id.loc.gov/authorities/names/no2013013957 http://id.loc.gov/authorities/names/no2013013957 http://viaf.org/viaf/sourceID/LC%7cno2013013957,human,Maḥmūd ibn Muḥammad Mīrim Chalabī,Q122946974
 "Mocenigo, Alvise I, 1507-1577",author,,http://id.loc.gov/authorities/names/n95010092,human,Alvise I Mocenigo,Q449435
 "Mocenigo, Alvise I, 1507-1577",author,,,human,Alvise I Mocenigo,Q449435
 "Modestus, Saint, -approximately 300.",associated name,,,human,Modestus,Q1942111
@@ -3236,8 +3018,6 @@ Mohammed Ibn Musa (Al-Khwarizmi),author,,,human,Al-Khwarizmi,Q9038
 "Mol, Robert de, 16th century",former owner,,,human,Robert de Mol,Q116454897
 "Molac, Sébastien de Rosmadec, marquis de, -1693",former owner,,,human,"Sébastien de Rosmadec, marquis de Molac",Q114242533
 "Molac, Sébastien de Rosmadec, marquis de, d. 1693",former owner,,,human,"Sébastien de Rosmadec, marquis de Molac",Q114242533
-"Molla Lûtfi, -1494",author,ملا لطفى، -1494,,human,Molla Lutfî,Q20472625
-"Molla Lûtfi, -1494",author,ملا لطفي، -1494,,human,Molla Lutfî,Q20472625
 Monaldus (Monaldus de Iustinopoli),author,,,human,Monaldus Iustinopolitanus,Q12797003
 "Monastero di S. Ambrogio (Milan, Italy)",former owner,,,organization,Basilica of Sant'Ambrogio,Q1071570
 "Monastero di Santo Spirito (Verona, Italy)",former owner,,,organization,Monastero di Santo Spirito in Verona,Q116707249
@@ -3288,12 +3068,10 @@ Muḥammad al-Raʼīs,former owner,محمد الرأيس،,,human,Muḥammad al
 Muḥammad Dhará,former owner,محمد ذرى،,,human,Muḥammad Dhará,Q116486527
 Muḥammad Dhará,former owner,,,human,Muḥammad Dhará,Q116486527
 Muḥammad Hādī ibn Mīrzā ʻArab al-Shīrāzī,scribe,محمد هادي بن ميرزا عرب الشيرازي,,human,Muḥammad Hādī ibn Mīrzā ʻArab al-Shīrāzī,Q114242536
-Muḥammad ibn Abī Bakr,author,محمد بن ابي بكر,http://id.loc.gov/authorities/names/n2017056543(uri) http://id.loc.gov/authorities/names/n2017056543(uri) http://viaf.org/viaf/sourceID/LC%7cn2017056543,human,Muhammad ibn Abi Bakr,Q1112754
 "Muḥammad ibn al-Ḥusayn al-Ḥasan, active 1411",scribe,محمد بن الحسين الحسن، active 1411,,human,Muḥammad ibn al-Ḥusayn al-Ḥasan,Q116486756
 "Muḥammad ibn al-Ḥusayn al-Ḥasan, active 1411",scribe,,,human,Muḥammad ibn al-Ḥusayn al-Ḥasan,Q116486756
 Muḥammad ibn Jaʻfar Yaḥyá,former owner,محمد بن جعفر يحيى,,human,Muḥammad ibn Jaʻfar Yaḥyá,Q116486426
 Muḥammad ibn Jaʻfar Yaḥyá,former owner,,,human,Muḥammad ibn Jaʻfar Yaḥyá,Q116486426
-Muḥammad ibn Nājī,author,محمد بن ناجي,,human,Muhammad bin Nayef,Q455341
 Muḥammad Nāṣir al-Dawlah,former owner,"محمد ناصر الدولة, ǂe former owner",,human,Muḥammad Nāṣir al-Dawlah,Q116486771
 Muḥammad Nāṣir al-Dawlah,former owner,,,human,Muḥammad Nāṣir al-Dawlah,Q116486771
 "Muḥammad Riz̤ā, active 1860",former owner,محمد رضا، active 1860،,,human,Muḥammad Riz̤ā,Q116486444
@@ -3302,30 +3080,20 @@ Muḥammad ʻAbd al-Ḥayy ibn ʻAbd al-Kabīr al-Kinānī al-Ḥasanī,form
 Muḥammad ʻAbd al-Ḥayy ibn ʻAbd al-Kabīr al-Kinānī al-Ḥasanī,former owner,,,human,Muḥammad ʻAbd al-Ḥayy ibn ʻAbd al-Kabīr al-Kinānī al-Ḥasanī,Q114242537
 Muḥammad ʻĀbid,scribe,محمد عابد،,,human,Muḥammad ʻĀbid,Q116192635
 Muḥammad ʻĀbid,scribe,,,human,Muḥammad ʻĀbid,Q116192635
-"Muhtadī, Naṣr ibn Yaḥyá",author,مهتدي، نصر بن يحيى,http://id.loc.gov/authorities/names/nr91004073 http://id.loc.gov/authorities/names/nr91004073 http://viaf.org/viaf/sourceID/LC%7cnr91004073,human,Naṣr ibn Yaḥyá Muhtadī,Q122946972
 "Mullā ʻAbbās Zīvarī, -1898",former owner,ملا عباس زيوري، -1898,,human,Mullā ʻAbbās Zīvarī,Q114242539
-"Munāwī, ʻAbd al-Raʼūf ibn Tāj al-ʻĀrifīn, -1621",author,مناوي، عبد الرءوف بن تاج العارفين، -1621,http://id.loc.gov/authorities/names/n80013467,human,Muhammad al-Munawi,Q3594807
-"Munāwī, ʻAbd al-Raʼūf ibn Tāj al-ʻĀrifīn, -1621",author,مناوي، عبد الرأوف بن تاج العارفين، -1621,http://id.loc.gov/authorities/names/n80013467,human,Muhammad al-Munawi,Q3594807
 "Munby, A. N. L. 1913-1974",former owner,,http://id.loc.gov/authorities/names/n50031793,human,Alan Noel Latimer Munby,Q3607762
 "Munby, A. N. L. 1913-1974",former owner,,,human,Alan Noel Latimer Munby,Q3607762
-"Mundhirī, ʻAbd al-ʻAẓīm ibn ʻAbd al-Qawī, 1185-1258",author,منذري، عبد العظيم بن عبد القوي، 1185-1258,,human,Mundhirī,Q12193844
 "Muoni, Damiano, 1820-1894",former owner,,http://id.loc.gov/authorities/names/n94077334,human,Damiano Muoni,Q15648540
 "Muoni, Damiano, 1820-1894",former owner,,,human,Damiano Muoni,Q15648540
-"Muqātil ibn Sulaymān al-Balkhī, -767",author,مقاتل بن سليمان البلخي، -767,http://id.loc.gov/authorities/names/n83175347 http://id.loc.gov/authorities/names/n83175347 http://viaf.org/viaf/sourceID/LC%7cn83175347,human,Muqātil ibn Sulaymān,Q14095767
 "Murianus, Hieronymus",scribe,,,human,Hieronymus Murianus,Q116486880
-"Murtaḍá al-Zabīdī, Muḥammad ibn Muḥammad, 1732 or 1733-1791",author,مرتضى الزبيدي، محمد بن محمد، 1732 or 1733-1791,,human,Murtaḍá al-Zabīdī,Q4120098
 Musaeus Grammaticus.,author,,,human,Musaeus Grammaticus,Q1954009
-"Muṣannifak, ʻAlī ibn Majd al-Dīn Muḥammad, 1400 or 1401-1470 or 1471",author,مصنفك، علي بن مجد الدين محمد، 1400 or 1401-1470 or 1471,,human,Ali al-Bistami,Q42343964
 "Mūsawī, ʻAbd al-Razzāq",former owner,موسوي، عبد الرزاق,,human,ʻAbd al-Razzāq Mūsawī,Q116486724
 "Mūsawī, ʻAbd al-Razzāq",former owner,,,human,ʻAbd al-Razzāq Mūsawī,Q116486724
 "Muscarello, Pietro Paolo",author,,,human,Pietro Paolo Muscarello,Q114242415
-"Muslim ibn al-Ḥajjāj al-Qushayrī, approximately 821-875",author,مسلم بن الحجاج القشيري، approximately 821-875,http://id.loc.gov/authorities/names/n82164848 http://id.loc.gov/authorities/names/n82164848 http://viaf.org/viaf/sourceID/LC%7cn82164848,human,Muslim ibn al-Ḥajjāj,Q140124
 "Mustafa Sıdkı, -1769",former owner,مصطفى صدقي، -1769,http://id.loc.gov/authorities/names/no2020124330,human,Muṣṭafa Ṣidḳī,Q116172276
 "Mustafa Sıdkı, -1769",former owner,,,human,Muṣṭafa Ṣidḳī,Q116172276
-"Muttaqī, ʻAlī ibn ʻAbd al-Malik, -1567",author,متقي، علي بن عبد الملك، -1567,http://id.loc.gov/authorities/names/n88099511,human,Ali ibn Abd-al-Malik al-Hindi,Q12192249
 "Muʻāfá ibn Ismāʻīl, 1156 or 1157-1232 or 1233",author,,http://id.loc.gov/authorities/names/no2007040478,human,Muʻāfá ibn Ismāʻīl,Q114242407
 "Nabi, 1641 or 1642-1712",author,نابی، 1641 ياخود 1642-1712,,human,Yusuf Nabi,Q2351863
-"Nābulusī, ʻAbd al-Ghanī ibn Ismāʻīl, 1641-1731",author,نابلسي، عبد الغني بن اسماعيل، 1641-1731,http://id.loc.gov/authorities/names/n83198301,human,Abd al-Ghani al-Nabulsi,Q4164547
 "Nābulusī, ʻAbd al-Ghanī ibn Ismāʻīl, 1641-1731",author,,http://id.loc.gov/authorities/names/n83198301,human,Abd al-Ghani al-Nabulsi,Q4164547
 Naevius,author,,,human,Gnaeus Naevius,Q212667
 "Naldi, Naldo 1439-ca. 1520.",author,,,human,Naldo Naldi,Q12901157
@@ -3335,18 +3103,8 @@ Naples (Kingdom). Sacro regio consiglio,author,,http://id.loc.gov/authorities/na
 Naples (Kingdom). Sacro regio consiglio,author,,,organization,Sacro Regio Consiglio,Q3944697
 Naples (Kingdom). Sovereign (1458-1494 : Ferdinand I),author,,,human,Ferdinand I of Naples,Q437838
 "Nardi Galatheo, Giovan Theseo de",author,,,human,Giovan Theseo de Nardi Galatheo,Q116486782
-"Nasafī, ʻAbd Allāh ibn Aḥmad, -1310",author,نسفي، عبد الله بن احمد، -1310,http://id.loc.gov/authorities/names/n82144374,human,ʿAbdallāh Ibn-Aḥmad Nasafī,Q12223449
-"Nasafī, ʻAbd Allāh ibn Aḥmad, -1310",author,نسفي، عبد الله بن احمد، -1310,,human,ʿAbdallāh Ibn-Aḥmad Nasafī,Q12223449
 "Nasafī, ʻAbd Allāh ibn Aḥmad, -1310",author,نسفي، عبد الله بن احمد، -1310,,human,ʿAbdallāh Ibn-Aḥmad Nasafī,Q12223449
-"Nasafī, ʻUmar ibn Muḥammad, 1068?-1142",author,نسفي، عمر بن محمد، 1068?-1142,,human,Abu Hafs Omar al-Nasafi,Q5701959
-"Nasafī, ʻUmar ibn Muḥammad, 1068?-1142",author,نسفي، عمر بن محمد، 1068?-1142,http://id.loc.gov/authorities/names/n79106197,human,Abu Hafs Omar al-Nasafi,Q5701959
-"Nasāʼī, Aḥmad ibn Shuʻayb, 830 or 831-915",author,نسائي، احمد بن شعيب، 830 or 831-915,,human,Al-Nasa'i,Q293535
-"Nashshār, ʻUmar ibn Qāsim, -1531 or 1532",author,نشار، عمر بن قاسم، -1531 or 1532,http://id.loc.gov/authorities/names/nr93046183,human,ʻUmar ibn Qāsim Nashshār,Q122946975
-"Nashwān ibn Saʻīd al-Ḥimyarī, -1178",author,نشوان بن سعيد الحميري، -1178,http://id.loc.gov/authorities/names/n83043258,human,Nashwān ibn Saʻīd al-Ḥimyarī,Q16123037
 Natalis Gaver,author,,,human,Nadal Gàver,Q11938317
-"Nawājī, Muḥammad ibn Ḥasan, 1386-1455",author,نواجي، محمد بن حسن، 1386-1455,,human,Muḥammad Ibn-Ḥasan an- Nawāǧī,Q94907625
-"Nawawī, 1233-1277",author,نووي، 1233-1277,http://id.loc.gov/authorities/names/n82009538 http://id.loc.gov/authorities/names/n82009538 http://viaf.org/viaf/sourceID/LC%7cn82009538,human,Al-Nawawi,Q293571
-"Nawawī, 1233-1277",author,نووي، 1233-1277,,human,Al-Nawawi,Q293571
 Nene,author,,,human,Nene,Q121957090
 "Nepos, Cornelius.",author,,,human,Cornelius Nepos,Q109594
 "Nevill, Robert, 1404-1457",former owner,,,human,Robert Neville,Q6013428
@@ -3409,8 +3167,6 @@ Nonius Marcellus 4th cent.,author,,,human,Nonius Marcellus,Q183420
 "Northumberland, Henry Percy, Earl of, 1564-1632",former owner,,,human,"Henry Percy, 9th Earl of Northumberland",Q359143
 "note by their son, Charles Holte Bracebridge (1799-1872), formerly enclosed, ""This Missal dated 1640 has been preserved in my family up to this time"", Atherstone, 20 May 1871 (mistaking a number ‘1640’ on the front pastedown for a date); Leighton, cat. II, 3 (May 1921), no. 1726; C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Charles Holte Bracebridge;Coella Lindsay Ricketts,Q52305816;Q116771179
 Nr̥siṃhāśrama,author,,,human,Nr̥siṃhāśrama,Q114242422
-"Nuqrahkār, ʻAbd Allāh ibn Muḥammad al-Ḥusaynī, 1306-1374",author,نقرهكار، عبد الله بن محمد الحسيني، 1306-1374,,human,ʻAbd Allah ibn Muhammad al-Husayni Nuqrahkar,Q6407970
-"Nūr al-Dīn al-Ḥalabī, ʻAlī ibn Ibrāhīm, 1567 or 1568-1635",author,نور الدين الحلبي، علي بن ابراهيم، 1567 or 1568-1635,,human,ʻAlī Ḥasan ʻAlī ʻAbd al-Ḥamīd,Q12198098
 Nūr al-Dīn Arslān Shah,former owner,نور الدين ارسلان شاه،,,human,Nur al-Din Arslan Shah I,Q20101351
 Nūr al-Dīn Arslān Shah,former owner,,,human,Nur al-Din Arslan Shah I,Q20101351
 Nūr al-Dīn Darvīsh,former owner,نور الدين درويش،,,human,Nūr al-Dīn Darvīsh,Q114242540
@@ -3488,7 +3244,6 @@ Ovid 43 B.C.-17 or 18 A.D.,author,,,human,Ovid,Q7198
 Ownership stamp of a Jesuit institution in Valencia; acquired in 1989 from P. Pirages.,former owner,,,organization,Phillip J. Pirages Fine Books & Manuscripts,Q116790542
 "Pacioli, Luca, approximately 1445-1517",author,,http://id.loc.gov/authorities/names/n81089368,human,Luca Pacioli,Q87620
 "Pacioli, Luca, approximately 1445-1517",author,,,human,Luca Pacioli,Q87620
-"Páez de Castro, Juan, active 16th century",author,,http://id.loc.gov/authorities/names/n79099103 http://id.loc.gov/authorities/names/n79099103 http://viaf.org/viaf/sourceID/LC%7cn79099103,human,Juan Paez de Castro,Q1946977
 "Paganthus, L",former owner,,,human,L. Paganthus,Q116486982
 "Page-Turner, Gregory Osborne, Sir, 1785-1843",former owner,,,human,"Sir Gregory Osborne Page-Turner, 4th Bt.",Q75874518
 "Palladinus, Jacobus, de Theramo, bp. of Spoleto, 1349-1417.",author,,,human,Jacobus de Teramo,Q3805915
@@ -3579,7 +3334,6 @@ Perfecto Corazini,author,,,human,Perfecto Corazini,Q114242542
 "Perhaps the Cistercian Abbey of Aulne (founded c. 656, Cistercian in 1147, suppressed 1796), and possibly from the Petrus Longobardus in Paulumrecorded at Aulne in the early seventeenth century (Sanderus 1641, I, p. 239); over 100 manuscripts from Aulne were bought in Brussels c. 1823 by Sir Thomas Phillipps (1792-1872), his MSS 4621-4734, together with an unknown number of fragments;",former owner,,,organization;human,Aulne Abbey;Thomas Phillipps,Q333832;Q2147709
 "Périon, Joachim 1499?-1559.",author,,,human,Joachim Périon,Q3179496
 "Perkins, Oliver Henry, -1912",former owner,,,human,Oliver Henry Perkins,Q114242410
-"Perrins, Charles William Dyson, 1864-1958",former owner,,,human,Charles William Dyson Perrins,Q5083550
 "Perry, Preston A.",former owner,,,human,Preston A. Perry,Q114242543
 Persius,author,,http://id.loc.gov/authorities/names/n79060980,human,Persius,Q332785
 Persius,author,,,human,Persius,Q332785
@@ -3768,7 +3522,6 @@ Poblet (Monastery),former owner,,,organization,Poblet Monastery,Q645157
 Poggio Bracciolini,author,,,human,Poggio Bracciolini,Q318254
 "Poliziano, Angelo, 1454-1494",author,,http://id.loc.gov/authorities/names/n79134158,human,Poliziano,Q250414
 "Poliziano, Angelo, 1454-1494",author,,,human,Poliziano,Q250414
-"Polo, Marco, 1254-1323",author,,http://id.loc.gov/authorities/names/n79055818,human,Marco Polo,Q6101
 Polyaenus.,author,,,human,Polyaenus,Q537755
 "Pompeius Trogus, extracted author",other,,,human,Gnaeus Pompeius Trogus,Q316119
 "‎Ponchier‏, Étienne‏,‎ 1446-1524","author,",,,human,Étienne de Poncher,Q3592337
@@ -3792,8 +3545,6 @@ Porphyry ca. 234-ca. 305.,author,,,human,Porphyry,Q203445
 Possidius,author,,,human,Possidius of Calama,Q718003
 "Poulin, George",former owner,,,human,Skinner Poulin,Q940008
 "Poveri Ingesuati of San Giusto, Florence",former owner,,,organization,Convento di San Giusto alle Mura,Q122873666
-"Powis, Edward Herbert, Earl of, 1785-1848",former owner,,,human,"Edward Herbert, 2nd Earl of Powis",Q5343428
-"Powis, Edward James Herbert, Earl of, 1818-1891",former owner,,,human,"Edward Herbert, 3rd Earl of Powis",Q5343429
 Praepositanus de Cremona,author,,,human,Praepositinus,Q7237544
 "Prediger (Schwäbisch Gmünd, Germany)",former owner,,,organization,Prediger (Schwäbisch Gmünd),Q1751370
 "Premonstratensian abbey of Steinfeld, near Cologne, founded in 1130 and suppressed in 1802, with the contemporary inscription and curse against theft on fol. 1r, liber ecclesie sancte marie de steinfelt Si quis abstulerit anathema sit amen and the late medieval inscription on fol. 158v, Liber Ecclesie Sancte marie virginis in steinfelt(the last two words in slightly paler ink);",former owner,,,organization,Steinfeld Abbey,Q883617
@@ -3900,27 +3651,18 @@ Purchased from Bernard M. Rosenthal in 1975,former owner,,,human,Bernard M. Rose
 "Qāḍīʹzādah, Mūsá ibn Muḥammad, -approximately 1436",author,"قاضي‌زاده، موسى بن محمد, -approximately 1436",,human,Qāḍī Zāda al-Rūmī,Q1386256
 "Qājār, Manūchihr Nukhastīn Āṣaf",former owner,قاجار، منوچهر نخستين آصف،,,human,Manūchihr Nukhastīn Āṣaf Qājār,Q116570983
 "Qājār, Manūchihr Nukhastīn Āṣaf",former owner,,,human,Manūchihr Nukhastīn Āṣaf Qājār,Q116570983
-"Qalaṣādī, ʻAlī ibn Muḥammad, 1412 or 1413-1486 or 1487",author,قلصادي، علي بن محمد، 1412 or 1413-1486 or 1487,,human,Abū al-Ḥasan ibn ʿAlī al-Qalaṣādī,Q2462319
 "Qalqashandī, Ibrāhīm ibn ʻAlī, -1516 or 1517",author,قلقشندي، ابراهيم بن علي. -1516 or 1517,http://id.loc.gov/authorities/names/no2006084990,human,Ibrāhīm ibn ʻAlī Qalqashandī,Q116570341
 "Qalqashandī, Ibrāhīm ibn ʻAlī, -1516 or 1517",author,,,human,Ibrāhīm ibn ʻAlī Qalqashandī,Q116570341
-"Qalyūbī, Shihāb al-Dīn Aḥmad ibn Aḥmad, -1659",author,قليوبي، شهاب الدين احمد بن احمد، -1659,,human,Syihabuddin al-Qaliyubi,Q16123954
 "Qarabāghī, Muḥammad ibn ʻAlī, -1535 or 1536",author,,http://id.loc.gov/authorities/names/no2006104905,human,Muḥammad ibn ʻAlī Qarabāghī,Q114242406
-"Qarāfī, ʻAlī ibn Aḥmad, -approximately 1533",author,قرافي، علي بن احمد، -approximately 1533,http://id.loc.gov/authorities/names/n98950774,human,ʻAlī ibn Aḥmad Qarāfī,Q122946976
-"Qārī al-Harawī, ʻAlī ibn Sulṭān Muḥammad, -1605 or 1606",author,قاري الهروي، علي بن سلطان محمد، -1605 or 1606,http://id.loc.gov/authorities/names/n82091823,human,Ali al-Qari,Q2836379
 "Qārī al-Harawī, ʻAlī ibn Sulṭān Muḥammad, -1605 or 1606",author,,http://id.loc.gov/authorities/names/n82091823,human,Ali al-Qari,Q2836379
 "Qāsim Anvār, ʻAlī ibn Naṣīr, 1356-1433",author,قاسم انوار، على بن نصير، 1356-1433,http://id.loc.gov/authorities/names/n2003070314,human,Qasem-e Anvar,Q2561764
 "Qāsim Anvār, ʻAlī ibn Naṣīr, 1356-1433",author,,,human,Qasem-e Anvar,Q2561764
 "Qasṭallānī, Aḥmad ibn Muḥammad, 1447 or 1448-1517 or 1518",author,قسطلاني، احمد بن محمد، 1447 أو 1448-1517 أو 1518,,human,Al-Qastallani,Q2829271
-"Qaysī, Makkī ibn Ḥammūsh, 966-1045",author,قيسي، مكي بن حموش، 966-1045,,human,Makkī ibn Ḥammūsh Qaysī,Q22690123
-"Qazwīnī, Jalāl al-Dīn Muḥammad ibn ʻAbd al-Raḥmān, 1267 or 1268-1338",author,قزويني، جلال الدين محمد بن عبد الرحمن، 1267 or 1268-1338,,human,Jalal al-Din al-Qazwini,Q12187054
-"Qazwīnī, ʻAbd al-Ghaffār ibn ʻAbd al-Karīm, -1266 or 1267",author,قزويني، عبد الغفار بن عبد الكريم، -1266 or 1267,http://id.loc.gov/authorities/names/nr90015801,human,ʻAbd al-Ghaffār ibn ʻAbd al-Karīm Qazwīnī,Q109260136
 "Quaile, Edward",former owner,,,human,Edward Quaile,Q117085125
 "Quaritch, Bernard",former owner,,,human,Bernard Quaritch,Q119818
 "Quaritch, cat. 211 (January 1902), no. 24, and cat. 290 (June 1910), no. 448; bought by C. L. Ricketts from W. M. Voynich, January 1917, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,organization;human;human,Bernard Quaritch Ltd;Coella Lindsay Ricketts;Wilfrid Voynich,Q65034936;Q116771179;Q336453
 "Quaritch, Handlist of Books offered for Sale by Bernard Quaritch Ltd., of 11 Grafton Street, London, W.1, whose representative, Mr. F. S. Ferguson, will have them on view at the Vanderbilt Hotel, Park Avenue, New York, towards the end of February, 1923, and for some weeks thereafter, 1923, no. 26; bought by C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,organization;human;human,Bernard Quaritch Ltd;Frederic Sutherland Ferguson;Coella Lindsay Ricketts,Q65034936;Q5497139;Q116771179
 "Quawden, Francis",former owner,,,human,Francis Quawden,Q116571199
-"Quḍāʻī, Muḥammad ibn Salāmah, -1062",author,قضاعي، محمد بن سلامة، -1062,http://id.loc.gov/authorities/names/n88059513,human,Al-Quda'i,Q15431116
-"Qudūrī, Aḥmad ibn Muḥammad, 972 or 973-1037",author,قدوري، احمد بن محمد، 972 or 973-1037,http://id.loc.gov/authorities/names/n85098183,human,Aḥmad Ibn-Muḥammad al-Qudūrī,Q12191204
 "Quintilian, Marcus Fabius ca. 35-ca. A. D. 100",author,,,human,Quintilian,Q193769
 Quintus Aemilianus Cimbriacus.,author,,,human,Giovanni Stefano Emiliano,Q59357483
 "Qūnawī, ʻAlī",author,,,human,"Qūnawī, ʻAlī",Q114407047
@@ -3931,7 +3673,6 @@ Quodvultdeus of Carthage,author,,,human,Quodvultdeus,Q608506
 "Qūshjī, ʻAlī ibn Muḥammad, -1474 or 1475",author,"قوشجي، على بن محمد, -1474 or 1475",http://id.loc.gov/authorities/names/nr90029107,human,Ali Qushji,Q423644
 "Qūshjī, ʻAlī ibn Muḥammad, -1474 or 1475",author,,,human,Ali Qushji,Q423644
 Qusṭanṭīn ibn Lūdūlf,former owner,قسطنطين بن لودولف,,human,Qusṭanṭīn ibn Lūdūlf,Q114242510
-"Qūṣūnī, Madyan ibn ʻAbd al-Raḥmān, active 17th century",former owner,قوصوني، مدين بن عبد الرحمن,http://id.loc.gov/authorities/names/n80036282,human,Madyan Qusuni,Q105338234
 "Quṭb al-Dīn al-Iznīqī, Muḥammad ibn Muḥammad, d. 1418",author,,,human,Muḥammad ibn Muḥammad Quṭb al-Dīn al-Iznīqī,Q114242509
 "Quṭb al-Shīrāzī, Maḥmūd ibn Masʻūd, 1236 or 1237-1310 or 1311",author,قطب الشيرازي، محمود بن مسعود، 1236 أو 1237-1310 أو 1311,,human,Qutb al-Din al-Shirazi,Q729903
 "Quṭb al-Taḥtānī, Muḥammad ibn Muḥammad, 1294 or 1295-1364 or 1365",author,قطب التحتاني، محمد بن محمد، 1294 أو 1295-1364 أو 1365,,human,Muḥammad ibn Muḥammad Quṭb al-Taḥtānī,Q12233267
@@ -3941,7 +3682,6 @@ Rabanus Maurus,author,,,human,Rabanus Maurus,Q160441
 Rabanus Maurus?,author,,,human,Rabanus Maurus,Q160441
 Rabanus Maurus Archbishop of Mainz 784?-856.,author,,,human,Rabanus Maurus,Q160441
 Rabanus Maurus c. 780-856,author,,,human,Rabanus Maurus,Q160441
-"Rabaʻī, ʻĪsá ibn Ibrāhīm, -1087 or 1088",author,ربعي، عيسى بن ابراهيم، -1087 or 1088,,human,ʿĪsā b. Ibrāhīm al-Rabaʿī,Q61626919
 "Rabbinovicz, Raphael Nathan Nata, 1835-1888",former owner,,http://id.loc.gov/authorities/names/n96039187,human,Raphael Nathan Nata Rabinowitz,Q2131393
 "Rabbinovicz, Raphael Nathan Nata, 1835-1888",former owner,,,human,Raphael Nathan Nata Rabinowitz,Q2131393
 Radulphus Brito,author,,,human,Radulphus Brito,Q1222132
@@ -3960,11 +3700,7 @@ Ranulf Higden . 1280-1364,author,,,human,Ranulf Higden,Q770348
 "Raphael de Mediolano, Frater",former owner,,,human,Raphael de Mediolano,Q114242548
 Rapolano Terme (Italy). Consilium,author,,,organization,Rapolano Terme,Q91395
 "Raqqī, Ibrāhīm ibn Aḥmad, 1249 or 1250-1303 or 1304",author,,http://id.loc.gov/authorities/names/nr93038801,human,Ibrāhīm Ibn-Aḥmad ar- Raqqī,Q60844447
-"Rashīdī, Muḥammad ibn Salāmah, active 19th century",author,رشيدي، محمد بن سلامة، active 19th century,,human,Muḥammad ibn Salāmah Rashīdī,Q121322487
-"Rashīdī, Muḥammad ibn Salāmah, active 19th century",scribe,رشيدي، محمد بن سلامة، active 19th century,,human,Muḥammad ibn Salāmah Rashīdī,Q121322487
-"Rashīdī, Muḥammad ibn Salāmah, active 19th century",author,رشيدي محمد بن سلامة، active 19th century,,human,Muḥammad ibn Salāmah Rashīdī,Q121322487
 "Ravenoldus, Johannes Betrus",former owner,,,human,Johannes Betrus Ravenoldus,Q116571762
-"Ravignani, Benintendi, approximately 1317-approximately 1360",author,,http://id.loc.gov/authorities/names/no2019066768,human,Benintendi Ravegnani,Q16531977
 "Rawghanī, Muḥammad Ṣāliḥ ibn Muḥammad Bāqir, -1632 or 1633",author,روغنى، محمد صالح بن محمد باقر، - -1632 or 1633,,human,Muḥammad Ṣāliḥ ibn Muḥammad Bāqir Rawghanī,Q114242506
 "Raymond, of Peñafort, Saint, 1175?-1275",author,,http://id.loc.gov/authorities/names/n81074464.html,human,Raymond of Penyafort,Q318980
 "Raymond, of Peñafort, Saint, 1175?-1275",author,,http://id.loc.gov/authorities/names/n81074464,human,Raymond of Penyafort,Q318980
@@ -3994,7 +3730,6 @@ Reichskartause Buxheim,former owner,,,organization,Buxheim Charterhouse,Q460224
 Remigius of Auxerre,author,,,human,Remigius of Auxerre,Q1383306
 Remigius of Auxerre ca. 841-908.,author,,,human,Remigius of Auxerre,Q1383306
 "Renesse-Breidbach, Clément Wenceslas de 1776-1833",former owner,,,human,Clément de Renesse-Breidbach,Q3323218
-"Renouard, Ant. Aug. 1765-1853",former owner,,,human,Antoine-Augustin Renouard,Q2853443
 Requesens family,author,,,organization,Requesens,Q3933282
 "Rérolle, Antoine Joseph, 1850-1924",former owner,,,human,Antoine Joseph Rérolle,Q116574766
 Ressani family,author,,,organization,Ressani family,Q116707628
@@ -4065,10 +3800,8 @@ Rolandus de Asillo filius ser Odarici,scribe,,,human,Rolandus de Asillo,Q1173519
 "Rolevinck, Werner, 1425-1502",author,,,human,Werner Rolevinck,Q75631
 "Rolevinck, Werner, 1425-1502.",associated name,,,human,Werner Rolevinck,Q75631
 "Rolfe, John 1585-1622.",author,,,human,John Rolfe,Q433948
-"Rolle, Richard, 1290?-1349",author,,http://id.loc.gov/authorities/names/n79045084,human,Richard Rolle,Q2345308
 "Rolle, Richard of Hampole 1290?-1349.",author,,,human,Richard Rolle,Q2345308
 "Rollenhagen, Georg 1542-1609.",author,,,human,Georg Rollenhagen,Q1505776
-"Roloff, Friedrich Wilhelm, 1714-1741",former owner,,,human,Friedrich Wilhelm Roloff,Q55916138
 Romanus Morienus,author,,,human,Morienus,Q17493693
 "Romero, Bernardo.",author,,,human,Bernardo Romero Pereiro,Q4893951
 "Rooryck, André",former owner,,,human,André Rooryck,Q116573665
@@ -4094,7 +3827,6 @@ Royaumont Abbey(?),former owner,,,organization,Royaumont Abbey,Q377882
 Roy Vernon Sowers (Firm),former owner,,,organization,Roy Vernon Sowers (Firm),Q120442753
 "Rubeus, Raginaldus Collus",author,,,human,Raginaldus Collus Rubeus,Q116574973
 "Rubinstein, Joseph, 1918-1973",former owner,,,human,Joseph Rubinstein,Q120442582
-"Rūdānī, Muḥammad ibn Muḥammad, 1627 or 1628-1682 or 1683",author,روداني، محمد بن محمد، 1627 or 1628-1682 or 1683,http://id.loc.gov/authorities/names/nr90008302 http://id.loc.gov/authorities/names/nr90008302 http://viaf.org/viaf/sourceID/LC%7cnr90008302,human,Mohammed al-Rudani,Q6893439
 "Rudolf II, Holy Roman Emperor, 1552-1612",author,,http://id.loc.gov/authorities/names/n81004066,human,Emperor Rudolf II,Q150586
 "Rudolf II, Holy Roman Emperor, 1552-1612",author,,,human,Emperor Rudolf II,Q150586
 "Rudolf of Lindau, donor",other,,,human,Rudolf Lindau,Q85309
@@ -4108,30 +3840,22 @@ Rudolf von Ems,author,,,human,Rudolf von Ems,Q697801
 "Rufinus, of Aquileia, 345-410",associated name,,,human,Tyrannius Rufinus,Q365835
 "Rufus, Jordanus, fl. ca. 1225-1250.",author,,,human,Giordano Ruffo,Q3106874
 "Rufus, Sextus",author,,,human,Festus,Q666127
-"Rūmī, Aḥmad ibn ʻAbd al-Qādir, -1631",author,رومي، احمد بن عبد القادر، -1631,http://id.loc.gov/authorities/names/nr95013930,human,Aḥmad Ibn-ʿAbd-al-Qāhir ar- Rūmī,Q113782405
 "Rusius, Laurentius.",author,,,human,Lorenzo Rusio,Q17478120
 "Ruskin, John",former owner,,,human,John Ruskin,Q179126
 "Ruskin, John, 1819-1900",former owner,,http://id.loc.gov/authorities/names/n79006950,human,John Ruskin,Q179126
 "Ruskin, John, 1819-1900",former owner,,,human,John Ruskin,Q179126
 Ruy de Pina,author,,,human,Rui de Pina,Q2015448
 Sa'di 1210-1292,author,,,human,Saadi,Q170302
-"Ṣabbān, Muḥammad ibn ʻAlī, -1791 or 1792",author,صبان، محمد بن علي، -1791 or 1792,http://id.loc.gov/authorities/names/n85091885,human,Muḥammad ibn ʻAlī Ṣabbān,Q122946988
 Sabellico 1436?-1506.,author,,,human,Marcus Antonius Coccius Sabellicus,Q708493
 Sabin,former owner,,,human,Sabin,Q122873522
 "Ṣābir, Muḥammad, active 1841",former owner,صابر، محمد، active 1841،,,human,Muḥammad Ṣābir,Q116619897
 "Ṣābir, Muḥammad, active 1841",former owner,,,human,Muḥammad Ṣābir,Q116619897
 "Ṣabrī, ʻAbd al-Raḥmān ibn Aḥmad, d. 1726 or 7",author,,,human,ʻAbd al-Raḥmān ibn Aḥmad Ṣabrī,Q114242504
-"Ṣābūnī, Aḥmad ibn Maḥmūd, -1184",author,صابوني، احمد بن محمود، -1184,,human,Nur al-Din al-Sabuni,Q25451999
 "Saccardini, Giuseppe Antonio",former owner,,,human,Giuseppe Antonio Saccardini,Q116576183
 "Sacro Bosco, Joannes de, active 1230",author,,http://id.loc.gov/authorities/names/n84006968,human,Johannes de Sacrobosco,Q433841
 "Sacro Bosco, Joannes de, active 1230",author,,,human,Johannes de Sacrobosco,Q433841
 "Sacro Bosco, Joannes de fl. 1230.",author,,,human,Johannes de Sacrobosco,Q433841
-"Ṣadr al-Dīn al-Qūnawī, Muḥammad ibn Isḥāq, -1273 or 1274",author,صدر الدين القونوي، محمد بن اسحاق، -1273 or 1274,http://id.loc.gov/authorities/names/n84011667 http://id.loc.gov/authorities/names/n84011667 http://viaf.org/viaf/sourceID/LC%7cn84011667,human,Sadr al-Din al-Qunawi,Q770298
-"Ṣadr al-Shahīd, ʻUmar ibn ʻAbd al-ʻAzīz, 1090 or 1091-1141",author,صدر الشهيد، عمر بن عبد العزيز، 1090 or 1091-1141,http://id.loc.gov/authorities/names/n80157539,human,Ṣadr al-Shahīd,Q31299422
-"Ṣafadī, Khalīl ibn Aybak, approximately 1297-1363",author,صفدي، خليل بن ايبك، approximately 1297-1363,,human,"Ṣafadī, Khalīl ibn Aybak",Q12220160
 "Saffārīnī, Muḥammad ibn Aḥmad, 1702 or 1703-1774",author,,http://id.loc.gov/authorities/names/n85212066,human,Muḥammad ibn Aḥmad al-Saffārīnī,Q12240064
-"Ṣaghānī, al-Ḥasan ibn Muḥammad, 1181-1252",author,صغاني، الحسن بن محمد، 1181-1252,http://id.loc.gov/authorities/names/n84238396 http://id.loc.gov/authorities/names/n84238396 http://viaf.org/viaf/sourceID/LC%7cn84238396,human,al-Ḥasan Ibn-Muḥammad Ṣaġānī,Q12186422
-"Ṣaghānī, al-Ḥasan ibn Muḥammad, 1181-1252",author,صغاني، الحسن بن محمد، 1181-1252,,human,al-Ḥasan Ibn-Muḥammad Ṣaġānī,Q12186422
 "Ṣāḥibdād, Sayyid ʻImād al-Dīn ibn Sayyid Mubārak",scribe,صاحب‌داد، سيد عماد الدىن بن سيد مبارک,,human,Sayyid ʻImād al-Dīn ibn Sayyid Mubārak Ṣāḥibdād,Q114242503
 "Saibante, Giovanni, of Verona, active 18th century",associated name,,,human,Giovanni Saibante,Q114438164
 "Saint Antoninus, Archbishop of Florence",author,,,human,Antoninus of Florence,Q773822
@@ -4170,14 +3894,11 @@ Śaṅkarācārya,author,,,human,Adi Shankara,Q180967
 Santa María de Benevívere (Monastery : Spain),former owner,,,organization,Monastery of Benevívere,Q6898311
 Santa Maria delle Grazie,former owner,,,organization,Santa Maria delle Grazie Church,Q244952
 "Santillana, Iñigo López de Mendoza marqués de 1398-1458.",author,,,human,"Íñigo López de Mendoza, 1st Marquis of Santillana",Q28779
-"Sanūsī, Muḥammad ibn Yūsuf, approximately 1427-approximately 1490",author,سنوسي، محمد بن يوسف، approximately 1427-approximately 1490,http://id.loc.gov/authorities/names/n84016675 http://id.loc.gov/authorities/names/n84016675 http://viaf.org/viaf/sourceID/LC%7cn84016675,human,Senoussi,Q3478584
 "Sarfati, Joseph ben Moses, active approximately 1400-1450",author,,,human,Joseph ben Moses Sarfati,Q116577244
 "Sarti, Emiliano, 19th century",former owner,,,human,Emiliano Sarti,Q78889577
 Sarvajñātman,author,,,human,Sarvajñātman,Q113400090
 "Sassoon, David Solomon, 1880-1942",former owner,,http://id.loc.gov/authorities/names/n82055059,human,David Solomon Sassoon,Q31762617
 "Sassoon, David Solomon, 1880-1942",former owner,,,human,David Solomon Sassoon,Q31762617
-"Savile, Henry, Sir, 1549-1622",former owner,,,human,Sir Henry Savile,Q711589
-"Savile, John, Sir, 1545-1607",former owner,,,human,John Savile,Q16863665
 "Savorgnano, Ascanio",author,,,human,Ascanio Savorgnano,Q116577948
 "Sayre, Robert H. (Robert Heysham), 1824-1907",former owner,,,human,Robert H. Sayre,Q7345101
 "Sayyid Muṣṭafá, active 1849",scribe,سيد مصطفى، active 1849،,,human,Sayyid Muṣṭafá,Q114242502
@@ -4262,10 +3983,7 @@ Sforza,former owner,,,organization,House of Sforza,Q130858
 "Sforza, Ascanio Maria, 1455-1505",author,,http://id.loc.gov/authorities/names/no2003010876,human,Ascanio Sforza,Q561411
 "Sforza, Ascanio Maria, 1455-1505",author,,,human,Ascanio Sforza,Q561411
 "Sforza, Giovanni, 1466-1515",former owner,,,human,Giovanni Sforza,Q1379775
-"Shabrāmallisī, ʻAlī ibn ʻAlī, 1588 or 1589-1676 or 1677",author,شبراملسي، علي بن علي، 1588 or 1589-1676 or 1677,,human,Alshbrāmlsy,Q105359229
 "Shāfiʻī, Shams al-Dīn",author,شافعي، شمس الدين,,human,Shams al-Dīn Shāfiʻī,Q114242501
-"Shāhī, Aḥmad",scribe,شاهي، احمد،,,human,Ahmed al-Shahi,Q113397583
-"Shahrastānī, Muḥammad ibn ʻAbd al-Karīm, 1086?-1153",author,شهرستاني، محمد بن عبد الكريم,http://id.loc.gov/authorities/names/n83043209,human,Al-Shahrastani,Q1050887
 "Shāh ʻAlāʼī, Muṣṭafá",former owner,شاه علائى، مصطفى،,http://id.loc.gov/authorities/names/n2021068217,human,Muṣṭafá Shāh ʻAlāʼī,Q116619759
 "Shāh ʻAlāʼī, Muṣṭafá",former owner,,,human,Muṣṭafá Shāh ʻAlāʼī,Q116619759
 "Shakūrī, Ibrāhīm, active 1698",former owner,شكوري، ابراهيم، active 1698،,,human,Ibrāhīm al-Shakūrī,Q116619748
@@ -4273,13 +3991,8 @@ Sforza,former owner,,,organization,House of Sforza,Q130858
 "Shams al-Dīn ibn ʻAbbās, active 1562",scribe,شمس الدين بن عباس، active 1562,,human,Shams al-Dīn ibn ʻAbbās,Q116579514
 "Shams al-Dīn ibn ʻAbbās, active 1562",scribe,,,human,Shams al-Dīn ibn ʻAbbās,Q116579514
 "Shanley, J.A",former owner,,,human,J. A. Shanley,Q116192833
-"Shāṭibī, al-Qāsim ibn Fīrruh, 1144-1194",author,شاطبي، القاسم بن فيره,http://id.loc.gov/authorities/names/n84227571 http://id.loc.gov/authorities/names/n84227571 http://viaf.org/viaf/sourceID/LC%7cn84227571,human,Abu-l-Qāsim ibn Fīrruh Shāṭibī,Q12182523
-"Shāṭibī, al-Qāsim ibn Fīrruh, 1144-1194",author,شاطبي، القاسم بن فيره، 1144-1194,,human,Abu-l-Qāsim ibn Fīrruh Shāṭibī,Q12182523
-"Shāṭibī, al-Qāsim ibn Fīrruh, 1144-1194",author,شاطبي، القاسم بن فيره، 1144-1194,http://id.loc.gov/authorities/names/n84227571 http://id.loc.gov/authorities/names/n84227571 http://viaf.org/viaf/sourceID/LC%7cn84227571,human,Abu-l-Qāsim ibn Fīrruh Shāṭibī,Q12182523
 Shaykh Ṭāhir,author,شيخ طاهر,,human,Shaykh Ṭāhir,Q116192777
 Shaykh Ṭāhir,author,,,human,Shaykh Ṭāhir,Q116192777
-"Shibshīrī, Muḥammad ibn ʻAlī, -1581 or 1582",author,شبشيري، محمد بن علي، -1581 or 1582,http://id.loc.gov/authorities/names/nr00023145,human,Muḥammad ibn ʻAlī Shibshīrī,Q122946978
-"Shihāb al-Ḥijāzī, Aḥmad ibn Muḥammad, 1388 or 1389-1470 or 1471",author,شهاب الحجازي، احمد بن محمد، 1388 or 1389-1470 or 1471,,human,Shahab al-Din al-Hijazi,Q28712808
 Shimshon ben Gavriʼel,scribe,"שמשון בן גביאל, מעתיק",,human,Shimshon ben Gavriʼel,Q116619791
 Shimshon ben Gavriʼel,scribe,,,human,Shimshon ben Gavriʼel,Q116619791
 "Shīrāzī, ʻAbd al-Ḥaqq",former owner,شيرازي، عبد الحق,,human,ʻAbd al-Ḥaqq Shīrāzī,Q116192728
@@ -4289,10 +4002,6 @@ Shimshon ben Gavriʼel,scribe,,,human,Shimshon ben Gavriʼel,Q116619791
 "Shirwānī, Muḥammad al-Amīn ibn Ṣadr al-Dīn, -1626 or 1627",author,شرواني، محمد الامين بن صدر الدين، -1626 أو 1627,,human,Muḥammad al-Amīn ibn Ṣadr al-Dīn Shirwānī,Q114242426
 Shop assistant to Jean Pichore,artist,,,human,Shop assistant to Jean Pichore,Q122873526
 "Shore, Offley Bohun Stovin Fairless, 1863-1922",former owner,,,human,Offley Bohun Stovin Fairless Shore,Q114242408
-"Shurunbulālī, Ḥasan ibn ʻAmmār, 1585 or 1586-1659",author,شرنبلالي، حسن بن عمار، 1585 or 1586-1659,http://id.loc.gov/authorities/names/n90712577,human,Al-Shurunbulali,Q25452012
-"Shushtarī, ʻAlī ibn ʻAbd Allāh, 1213 or 1214-1269",author,ششتري، علي بن عبد الله، 1213 or 1214-1269,,human,Abu al-Hasan al-Shushtari,Q4118240
-"Sibāʻī, Muḥammad ibn Ṣāliḥ, -1851 or 1852",author,سباعي، محمد بن صالح,http://id.loc.gov/authorities/names/no2008028375,human,Muḥammad ibn Ṣāliḥ Sibāʻī,Q122946979
-"Sibṭ al-Māridīnī, Badr al-Dīn Muḥammad ibn Muḥammad, 1423-",author,سبط المارديني، بدر الدين محمد بن محمد، 1423-,,human,Sibt al-Maridini,Q7507290
 Sicco Polenton,author,,,human,Sicco Polenton,Q3960051
 Sidonius Appolinaris,author,,,human,Sidonius Apollinaris,Q302936
 "Ṣidqī, Khalīl",scribe,صدقي، خليل,,human,Khalīl Ṣidqī,Q114242500
@@ -4311,11 +4020,8 @@ Sigebert of Gembloux ca. 1030-1112.,author,,,human,Sigebert of Gembloux,Q670819
 "Sigismund, Holy Roman Emperor, 1368-1437",author,,,human,Sigismund,Q57124
 "Signature Ann MoneyIon fol. 84r, probably eighteenth-century; George C. Thomas (1839-1909), banker and picture collector; his sale, Philadelphia, 18 November 1924, lot 205; C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human;human,Ann Moneylon;George C. Thomas;Coella Lindsay Ricketts,Q117485493;Q76520101;Q116771179
 "signature on fols. 1r and 58v, ""De monchaulx"", early sixteenth century (perhaps related to Gilles Moncheaulx, who signed Arras, Bibliothèque municipale, ms 728, in 1565); bound in Ghent by François Duquesne (1830-1902); given to the Lilly Library by Mrs. Thelma Sansberry, 1984.",former owner,,,human;human,Emile François Duquesne;Thelma Sansberry,Q115828731;Q116785053
-"Sijistānī, Muḥammad ibn ʻUzayr, -941 or 942",author,سجستاني، محمد بن عزير,http://id.loc.gov/authorities/names/n88250931,human,Muḥammad ibn ʻUzayr Sijistānī,Q122946980
 "Silius Italicus, Tiberius Catius.",author,,,human,Silius Italicus,Q316123
 Simeon Monachus.,author,,,human,Symeon of Durham,Q940417
-"Simillāwī, ʻAbd al-Muʻṭī ibn Sālim, -1715",author,سملاوي، عبد المعطي بن سال، -1715,,human,ʻAbd al-Muʻṭī ibn Sālim Simillāwī,Q122947966
-"Simillāwī, ʻAbd al-Muʻṭī ibn Sālim, -1715",author,سملاوي، عبد المعطي بن سالم، 1715,,human,ʻAbd al-Muʻṭī ibn Sālim Simillāwī,Q122947966
 "Simon, de Cremona, -1390",author,,,human,Simon de Cremona,Q120442584
 Simon de Cremona,author,,,human,Simon of Cremona,Q16205160
 Simone Fidati da Cascia d. 1348.,author,,,human,Simon of Cascia,Q2384461
@@ -4348,7 +4054,6 @@ Sir Thomas Wilford,author,,,human,Sir Thomas Wilford,Q76329039
 Sixtus IV,author,,,human,Sixtus IV,Q163514
 "Sixtus V, Pope, 1520-1590",author,,http://id.loc.gov/authorities/names/n80049584,human,Sixtus V,Q133350
 "Sixtus V, Pope, 1520-1590",author,,,human,Sixtus V,Q133350
-"Siyawāsī, Aḥmad ibn Maḥmūd, -1455 or 1456",author,سيواسي، احمد بن محمود,http://id.loc.gov/authorities/names/no2007022716 http://id.loc.gov/authorities/names/no2007022716 http://viaf.org/viaf/sourceID/LC%7cno2007022716,human,Aḥmad ibn Maḥmūd Siyawāsī,Q122946981
 "Smith, David Eugene, 1860-1944",former owner,,,human,David Eugene Smith,Q1174369
 "Smith, Edgar F. 1854-1928",former owner,,,human,Edgar Fahs Smith,Q3047451
 "Smith, William fl. 1596.",author,,,human,William Smith,Q8018559
@@ -4398,7 +4103,6 @@ Spanish Forger,author,,,human,Spanish Forger,Q3222703
 "Spezzani, Alfonso",author,,,human,Alfonso Spezzani,Q116619856
 "Spirito, Lorenzo, -1496",author,,http://id.loc.gov/authorities/names/n86022428,human,Lorenzo Spirito Gualtieri,Q3837084
 "Spirito, Lorenzo, -1496",author,,,human,Lorenzo Spirito Gualtieri,Q3837084
-St. Albans Abbey,former owner,,,organization,St Albans Abbey,Q17645367
 "St. Audries, Alexander Fuller-Acland-Hood, Baron, 1853-1917",former owner,,,human,"Alexander Fuller-Acland-Hood, 1st Baron St Audries",Q4718909
 "St. George, Henry, 1581-1644",former owner,,,human,Henry St George,Q5728579
 "St. John-Mildmay, Henry St. John Carew, Sir, 1791-1845",former owner,,,human,"Sir Henry St John-Mildmay, 4th Baronet",Q24568845
@@ -4441,7 +4145,6 @@ Strabo,author,,,human,Strabo,Q45936
 "Stuart, Bérault seigneur d'Aubigny ca. 1452-1508.",author,,,human,"Bernard Stewart, 4th Lord of Aubigny",Q2747051
 "Stuart, William, 1798-1874",former owner,,,human,William Stuart,Q8018938
 "Styles, Jeremiah, -1832",former owner,,,human,Jeremiah Styles,Q122873532
-"Subkī, Tāj al-Dīn ʻAbd al-Wahhāb ibn ʻAlī, approximately 1327-1370",author,سبكي، تاج الدين عبد الوهاب بن علي، approximately 1327-1370,,human,ʿAbd-al-Wahhāb Ibn-ʿAlī Tāǧ-ad-Dīn as-Subkī,Q12201802
 "Sucher, Hermann",former owner,,,human,Hermann Suchier,Q109415
 "Suchier, Hermann, 1848-1914",former owner,,http://id.loc.gov/authorities/names/nr97017881,human,Hermann Suchier,Q109415
 "Suchier, Hermann, 1848-1914",former owner,,,human,Hermann Suchier,Q109415
@@ -4450,10 +4153,6 @@ Suetonius,author,,,human,Suetonius,Q10133
 "Suetonius, approximately 69-approximately 122",author,,,human,Suetonius,Q10133
 Suetonius (Gaius Suetonius Tranquillus),author,,,human,Suetonius,Q10133
 Suetonius ca. 69-ca. 122.,author,,,human,Suetonius,Q10133
-"Suhaylī, ʻAbd al-Raḥmān ibn ʻAbd Allāh, 1114 or 1115-1185",author,سهيلي، عبد الرحمن بن عبد الله,,human,Al-Suhayli,Q4703267
-"Suhaylī, ʻAbd al-Raḥmān ibn ʻAbd Allāh, 1114 or 1115-1185",author,سهيلي، عبد الرحمن بن عبد الله، 1114 or 1115-1185,http://id.loc.gov/authorities/names/n85230420,human,Al-Suhayli,Q4703267
-"Sujāʻī, Aḥmad ibn Aḥmad, -1783",author,سجاعي، احمد بن احمد، -1783,,human,Aḥmad ibn Aḥmad Sujāʻī,Q122947967
-"Sujāʻī, Aḥmad ibn Aḥmad, -1783",author,سجاعي، احمد بن احمد، -1783؟,,human,Aḥmad ibn Aḥmad Sujāʻī,Q122947967
 "Ṣūlāqʹzādah, Muṣṭafá",scribe,صولاق‌زادة، مصطفى،,,human,Muṣṭafá Ṣūlāqʹzādah,Q116619919
 "Ṣūlāqʹzādah, Muṣṭafá",scribe,,,human,Muṣṭafá Ṣūlāqʹzādah,Q116619919
 Sulaymān ibn Yūsuf ibn Sulaymān,scribe,سليمان بن يوسف بن سليمان,,human,Sulaymān ibn Yūsuf ibn Sulaymān,Q114242547
@@ -4462,12 +4161,10 @@ Sulpicius Severus,author,,,human,Sulpicius Severus,Q336704
 "Sulzberger, Mayer, 1843-1923",former owner,,http://id.loc.gov/authorities/names/n85830512,human,Mayer Sulzberger,Q6797076
 "Sulzberger, Mayer, 1843-1923",former owner,,,human,Mayer Sulzberger,Q6797076
 "Sumner, Charles, 1811-1874",former owner,,,human,Charles Sumner,Q1066198
-"Sunbul, Muḥammad Saʻīd ibn Muḥammad, -1761 or 1762",author,سنبل، محمد سعيد بن محمد، -1761 or 1762,http://id.loc.gov/authorities/names/no2010055528,human,Muḥammad Saʻīd ibn Muḥammad Sunbul,Q122946982
 "Sunbulī, Muḥammad Darvīsh Nūr al-Dīn, active 1862",former owner,سنبلى، محمد درويش نور الدين، active 1862,,human,Muḥammad Darvīsh Nūr al-Dīn Sunbulī,Q114242498
 "Sunbulī, Muḥammad Darvīsh Nūr al-Dīn, active 1862",former owner,سنبلي، محمد درويش نور الدين، active 1862,,human,Muḥammad Darvīsh Nūr al-Dīn Sunbulī,Q114242498
 "Suriano, Michele fl. 1558-1573.",author,,,human,Michele Suriano,Q82948837
 Surkhāb,author,سرخاب,,human,Surkhāb,Q114242497
-"Surūrī, Muṣliḥ al-Dīn, 1492-1562",author,سروري، مصلح الدين، 1492-1562,,human,Muslih al-Din Sururi,Q57976282
 "Survived as part of a binding; ""From Drew T[heological]. Seminary, March 31--1893."" Earlier call number: Ac. 3660.",former owner,,,organization,Drew Theological School,Q93290445
 "Survived as part of a binding; ""From Drew Theological. Seminary, March 31--1893."" Earlier call number: Ac. 3660.",former owner,,,organization,Drew Theological School,Q93290445
 Survived as part of a binding; acquired from H.P. Kraus by Karl F. Morrison (b. 1936); his gift in 2003.,former owner,,,organization;human,H. P. Kraus (firm);Karl F. Morrison,Q113864096;Q16199265
@@ -4475,10 +4172,7 @@ Survived as part of a binding; acquired in 2000 from H.P. Kraus,former owner,,,o
 Survived as part of a binding; acquired in 2000 from H.P. Kraus.,former owner,,,organization,H. P. Kraus (firm),Q113864096
 "Survived as part of a binding with title ""Bulle unionis fratrum minorum""; acquired in 2000 from H.P. Kraus.",former owner,,,organization,H. P. Kraus (firm),Q113864096
 "Sutherland, George Granville Leveson-Gower, Duke of, 1758-1833",former owner,,,human,"George Leveson-Gower, 1st Duke of Sutherland",Q332722
-"Suyūṭī, 1445-1505",author,سيوطي، 1445-1505,http://id.loc.gov/authorities/names/n80081636 http://id.loc.gov/authorities/names/n80081636 http://viaf.org/viaf/sourceID/LC%7cn80081636,human,Jalal al-Din al-Suyuti,Q468432
-"Suyūṭī, 1445-1505",author,سيوطي، 1445-1505,,human,Jalal al-Din al-Suyuti,Q468432
 "Suyūṭī, 1445-1505",author,,http://id.loc.gov/authorities/names/n80081636,human,Jalal al-Din al-Suyuti,Q468432
-"Suyūṭī, Muḥammad ibn Shihāb al-Dīn, 1413 or 1414-1475",author,سيوطي، محمد بن شهاب الدين، 1413 or 1414-1475,http://id.loc.gov/authorities/names/n83039730 http://id.loc.gov/authorities/names/n83039730 http://viaf.org/viaf/sourceID/LC%7cn83039730,human,Muḥammad ibn Shihāb al-Dīn Suyūṭī,Q122946983
 Swarthmore College,former owner,,,organization,Swarthmore College,Q1378320
 "Syddell, Edward",former owner,,,human,Edward Syddell,Q116619878
 "Syddell, Thomas",former owner,,,human,Thomas Syddell,Q116619885
@@ -4486,22 +4180,13 @@ Swarthmore College,former owner,,,organization,Swarthmore College,Q1378320
 "Sylvester II, Pope, approximately 945-1003",author,,,human,Sylvester II,Q172383
 "Sylvester II, Pope, ca. 945-1003",author,,,human,Sylvester II,Q172383
 T. Harrison Garrett (d. 1888).,former owner,,,human,Thomas Harrison Garrett,Q73896539
-"Ṭabarī, ʻAbd al-Qādir ibn Muḥammad, 1568 or 1569-1623 or 1624",author,طبري، عبد القادر بن محمد، 1568 or 1569-1623 or 1624,http://id.loc.gov/authorities/names/nr91022340,human,Abd al-Qadir al-Tabari,Q86075470
 Tacitus,author,,,human,Tacitus,Q2161
 "Tacitus, Cornelius.",author,,,human,Tacitus,Q2161
-"Taftāzānī, Masʻūd ibn ʻUmar, 1322-1389",author,تفتازاني، مسعود بن عمر، 1322-1389؟,,human,Taftazani,Q764947
-"Taftāzānī, Masʻūd ibn ʻUmar, 1322-1389",author,تفتازاني، مسعود بن عمر، 1322-1389,http://id.loc.gov/authorities/names/n79106223,human,Taftazani,Q764947
-"Taftāzānī, Masʻūd ibn ʻUmar, 1322-1389",author,تفتازاني، مسعود بن عمر، 1322-1389,,human,Taftazani,Q764947
-"Taftāzānī, Masʻūd ibn ʻUmar, 1322-1389",author,تفتازاني، مسعود بن عمر، 1322-1389,,human,Taftazani,Q764947
-"Taftāzānī, Masʻūd ibn ʻUmar, 1322-1389",author,تفتازاني، مسعود بن عمر، 1322-1389؟,,human,Taftazani,Q764947
 "Tancredius, Ptolemaeus",author,,,human,Ptolemaeus Tancredius,Q116619924
 Tancredus Bononiensis,author,,,human,Tancred of Bologna,Q2392869
 "Tansillo, Luigi, 1510-1568",author,,http://id.loc.gov/authorities/names/n80128550,human,Luigi Tansillo,Q707853
 "Tansillo, Luigi, 1510-1568",author,,,human,Luigi Tansillo,Q707853
 "Taparelli, Domenico",author,,,human,Domenico Taparelli,Q116250305
-"Taqī al-Dīn Muḥammad ibn Maʻrūf, 1525 or 1526-1585",author,تقي الدين محمد بن معروف، 1525 or 1526-1585,http://id.loc.gov/authorities/names/n80115658,human,Taqi al-Din Muhammad ibn Ma'ruf,Q1379164
-"Ṭarābulusī, Ibrāhīm ibn Mūsá, 1439 or 1440-1516 or 1517",author,طرابلسي، ابراهيم بن موسى، 1439 or 1440-1516 or 1517,http://id.loc.gov/authorities/names/n88250580,human,Ibrāhīm ibn Mūsá Ṭarābulusī,Q122946989
-"Ṭarasūsī, ʻUthmān ibn Muṣṭafá",author,طرسوسي، عثمان بن مصطفى,,human,ʻUthmān ibn Muṣṭafá Ṭarasūsī,Q121323062
 "Tardif, Guillaume, 1440-",author,,http://id.loc.gov/authorities/names/nr88003678,human,Guillaume Tardif,Q15966959
 "Tardif, Guillaume, 1440-",author,,,human,Guillaume Tardif,Q15966959
 "Tardif, Guillaume, b. 1440",author,,,human,Guillaume Tardif,Q15966959
@@ -4517,9 +4202,6 @@ Terence.,author,,,human,Terence,Q172048
 Teutonic Knights,author,,http://id.loc.gov/authorities/names/n50068830,human,knight of the Teutonic Order,Q96651577
 Teutonic Knights,author,,,human,knight of the Teutonic Order,Q96651577
 Thaddeus de Parma,author,,,human,Thaddeus of Parma,Q2408399
-"Thaʻālibī, ʻAbd al-Malik ibn Muḥammad, 961 or 962-1037 or 1038",author,ثعالبي، عبد الملك بن محمد، 961 or 962-1037 or 1038,,human,Tha'ālibī,Q1231017
-"Thaʻālibī, ʻAbd al-Malik ibn Muḥammad, 961 or 962-1037 or 1038",author,ثعالي، عبد المل بن محمد، 961 or 962-1037 or 1038,,human,Tha'ālibī,Q1231017
-"Thaʻlabī, Aḥmad ibn Muḥammad, -1035",author,ثعلبي، احمد بن محمد، -1035,,human,Abu Ishaq al-Tha'labi,Q3015226
 "the abate Luigi Celotti (c. 1768-c. 1846), of Venice; Celotti sale, Sotheby’s, 14 March 1825, lot 51; shelved as' VI. H.e.6', Prince Augustus Frederick, duke of Sussex (1773-1843), with his bookplate; his sale, Evans, 31 July 1844, lot 109;",former owner,,,human;human,"Luigi Celotti;Prince Augustus Frederick, Duke of Sussex",Q113774991;Q375467
 "the abate Luigi Celotti (c. 1768-c. 1846), of Venice;Celotti sale, Sotheby’s, 14 March 1825, lot 51; shelved as' VI. H.e.6', Prince Augustus Frederick, duke of Sussex (1773-1843), with his bookplate; his sale, Evans, 31 July 1844, lot 109; probably Edward Stanley (1799-1869), fourteenth earl of Derby, Prime Minister, with the Derby bookplate, and by descent to the eighteenth earl (1918-1994);",former owner,,,human;human;human;human,"Luigi Celotti;Prince Augustus Frederick, Duke of Sussex;Edward Smith-Stanley, 14th Earl of Derby;John Stanley, 18th Earl of Derby",Q113774991;Q375467;Q237829;Q5345407
 "The abbey of Saint Maximin in Treir (founded c. 500, supressed 1802); Fritz Rörig (1882-1952), of Berlin, bought in Keil (where he taught 1923-35); bought from his widow in 1953 by H.P. Kraus and sold by him in January 1954 to George A. Poole; acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,organization;human;human,St. Maximin's Abbey;Fritz Rörig;George Amos Poole,Q118786;Q1468108;Q64683625
@@ -4590,7 +4272,6 @@ Thomas of Ireland ca. 1265-ca. 1329.,author,,,human,Thomas of Ireland,Q7795517
 "Thomas Thorpe, cat. II (1823), no. 5745, and cat. III (1824), no. 16518; Sir Thomas Phillipps (1792–1872), bought from Thorpe, his MS 2665; his sale, Sotheby’s, 10 June 1896, lot 1182 (it was at one time in the library of the Duc de Chaulnes), unsold, re-offered 5 June 1899, lot 1107;",former owner,,,human,Thomas Phillipps,Q2147709
 Thomas Upton,other,,,human,Thomas Upton,Q110332904
 "Thompson, Henry Yates, 1838-1928",former owner,,,human,Henry Yates Thompson,Q2044609
-"Thompson, Henry Yates, 1838-1928",former owner,,,human,Henry Yates Thompson,Q2044609
 "Thomson, Thomas",former owner,,http://id.loc.gov/authorities/names/n84136464,human,Thomas Thomson,Q116192647
 "Thomson, Thomas",former owner,,,human,Thomas Thomson,Q116192647
 "Thoresby, Ralph, 1658-1725",former owner,,,human,Ralph Thoresby,Q7288161
@@ -4603,7 +4284,6 @@ Tibullus,author,,,human,Tibullus,Q109598
 Tibullus.,author,,,human,Tibullus,Q109598
 "Tiptoft Master, in the style of. The illumination is close to that of the Paduan painter of the 1460s known as the Tiptoft Master",artist,,,human,Tiptoft Master,Q117463943
 "Tiraboschi, Jacopo, active 1470-1479",scribe,,,human,Jacopo Tiraboschi,Q120442587
-"Tirmidhī, Muḥammad ibn ʻĪsá, -892",author,ترمذي، محمد بن عيسى، -892,,human,Abu Isa at-Tirmidhi,Q293578
 Titus Livius of Forli,author,,https://viaf.org/viaf/79274162,human,Tito Livio Frulovisi,Q2436996
 "Todd, Albert May, 1850-1931",former owner,,http://id.loc.gov/authorities/names/n95016564,human,Albert M. Todd,Q2638433
 "Todd, Albert May, 1850-1931",former owner,,,human,Albert M. Todd,Q2638433
@@ -4637,25 +4317,20 @@ Tristano Caracciolo,author,,,human,Tristano Caracciolo,Q1324187
 "Trivet, Nicholas 1258?-1328.",author,,,human,Nicholas Trivet,Q1751724
 Trotula,author,,,human,Trota of Salerno,Q16206163
 "Tuberinus, Joannes Mathias.",author,,,human,Giovanni Mattia Tabarino,Q100153512
-"Ṭughrāʼī, al-Ḥusayn ibn ʻAlī, 1061 or 1062-1121",author,طغرائي، الحسين بن علي، 1061 or 1062-1121,,human,Al-Tughrai,Q4164865
 "Tūqātī, ʻUbayd Allāh Bektāsh",former owner,توقاتي، عبيد الله بكتاش،,,human,ʻUbayd Allāh Bektāsh Tūqātī,Q116647241
 "Tūqātī, ʻUbayd Allāh Bektāsh",former owner,,,human,ʻUbayd Allāh Bektāsh Tūqātī,Q116647241
 "Turazza, Domenico, 1813-1892",former owner,,,human,Domenico Turazza,Q3713276
-"Turmeda, Anselm, 1352-1432",author,,http://id.loc.gov/authorities/names/n79043912 http://id.loc.gov/authorities/names/n79043912 http://viaf.org/viaf/sourceID/LC%7cn79043912,human,Anselm Turmeda,Q2551187
 "Turner, Robert S. 1818-1887",former owner,,http://id.loc.gov/authorities/names/no2006119069,human,Robert Samuel Turner,Q105382211
 "Turner, Robert S. 1818-1887",former owner,,,human,Robert Samuel Turner,Q105382211
 "Ṭūsī, Naṣīr al-Dīn Muḥammad ibn Muḥammad, 1201-1274",author,طوسي، نصير الدين محمد بن محمد، 1201-1274,http://id.loc.gov/authorities/names/n82136884,human,Nasir al-Din al-Tusi,Q302835
 "Ṭūsī, Naṣīr al-Dīn Muḥammad ibn Muḥammad, 1201-1274",former owner,طوسي، نصير الدين محمد بن محمد، 1201-1274،,,human,Nasir al-Din al-Tusi,Q302835
 "Ṭūsī, Naṣīr al-Dīn Muḥammad ibn Muḥammad, 1201-1274",author,طوسي، نصير الدين محمد بن محمد، 1201-1274,,human,Nasir al-Din al-Tusi,Q302835
-"Ṭūsī, ʻAlī ibn Muḥammad, -1472 or 1473",author,طوسي، علي بن محمد، -1472 or 1473,http://id.loc.gov/authorities/names/nr93001146,human,ʻAlī ibn Muḥammad Ṭūsī,Q122946984
 "Twinger, Jakob von Königshofen 1346-1420.",author,,,human,Jakob Twinger von Königshofen,Q74541
 Tyrtaeus.,author,,,human,Tyrtaeus,Q316094
 "Tzetzes, John 12th cent.",author,,,human,John Tzetzes,Q530515
 "Ubaldini, Antonio",former owner,,,human,Antonio Ubaldini,Q116647059
 Ubertino da Casale,author,,,human,Ubertino of Casale,Q561667
 Uberto Decembrio,author,,,human,Uberto Decembrio,Q670581
-"Udkāwī, ʻAbd Allāh ibn ʻAbd Allāh, 1692 or 1693-1770 or 1771",author,ادكاوي، عبد الله بن عبد الله، 1692 or 1693-1770 or 1771,,human,ʻAbd Allāh ibn ʻAbd Allāh Udkāwī,Q122947968
-"Udkāwī, ʻAbd Allāh ibn ʻAbd Allāh, 1692 or 1693-1770 or 1771",scribe,ادكاوي، عبد الله بن عبد الله، 1692 or 1693-1770 or 1771,,human,ʻAbd Allāh ibn ʻAbd Allāh Udkāwī,Q122947968
 "Uffizio della mercanzia (Florence, Italy)",author,,,organization,Uffizio della mercanzia of Florence,Q116709749
 Ugo de Balma,author,,,human,Hugh of Balma,Q15090859
 Uguccione da Pisa,author,,,human,Huguccio,Q4002974
@@ -4784,19 +4459,15 @@ Viscount Lymington,former owner,,,human,"John Wallop, Viscount Lymington",Q62628
 "Vrelant, Guillaume, -1481, workshop",artist,,,human,Willem Vrelant,Q363720
 "Vremans, Anna",former owner,,,human,Anna Vremans,Q122873541
 "Vyncent, Richard, vicar of Wolford",other,,,human,Richard Vyncent,Q117324262
-Vyšší Brod (Monastery),former owner,,,organization,Vyšší Brod Cistercian Abbey,Q675724
 W.C. Crane,former owner,,,human,Warren C. Crane,Q122873300
 W. H. Crain,former owner,,,human,William H. Crain,Q2579042
 Wace,author,,,human,Wace,Q5382
 "Waghenaer, Lucas Janszoon 1534 or 5-1606.",author,,,human,Lucas Janszoon Waghenaer,Q938869
-"Wāḥī, ʻAlī ibn Ibrāhīm, active 18th century",scribe,واحي، علي بن ابراهيم، active 18th century,,human,ʻAlī ibn Ibrāhīm Wāḥī,Q121502809
-"Wāḥidī, Abū al-Ḥasan ʻAlī ibn Aḥmad, -1075 or 1076",author,واحدي ، أبو الحسن علي بن احمد,http://id.loc.gov/authorities/names/n85821906,human,Wāḥidī Nīsābūrī,Q12227985
 "Wake, Henry T.",former owner,,,human,Henry Thomas Wake,Q114242492
 Walerand ap Adam,author,,,human,Walerand ap Adam,Q114242491
 "Waleys, Thomas, approximately 1287-1350?",author,,http://id.loc.gov/authorities/names/nr96019891.html,human,Thomas Waleys,Q7794824
 "Walker, John",former owner,,,human,John Walker,Q122873542)
 "Walker, T. Shadford",former owner,,,human,Thomas Shadford Walker,Q114242411
-"Wallfahrtskirche zur Heiligsten Dreifaltigkeit (Gössweinstein, Germany)",former owner,,,organization,Basilica Gößweinstein,Q810087
 "Wallop (Conduit), Catherine, Viscountess Lymington",former owner,,,human,Catherine Conduitt,Q75439560
 "Walsingham, Francis Sir 1530?-90.",author,,,human,Francis Walsingham,Q56185430
 Walter Burley,author,,,human,Walter Burley,Q1862572
@@ -4821,7 +4492,6 @@ Walter Raglan Hubbard (1890),former owner,,,human,Walter Raglan Hubbard,Q1142424
 "Wells, Gabriel, 1862-1946",former owner,,,human,Gabriel Wells,Q17627120
 Werner Rolevinck,author,,,human,Werner Rolevinck,Q75631
 Wernigerode (Germany). Rath,author,,,organization,Wernigerode,Q15982
-"Weyhe, Erhard, 1882-1972",former owner,,,human,Erhard Weyhe,Q15808327
 "White, Henry",former owner,,,human,Henry White,Q108945762
 "Wichfeld, Josephine Widener",former owner,,,human,Josephine Widener Wichfield,Q122873543
 "Wichfield, Josephine Widener",former owner,,,human,Josephine Widener Wichfield,Q122873543
@@ -4912,7 +4582,6 @@ Workshop of the Master of the Échevinage de Rouen,artist,,,organization,Worksho
 "Written in Flanders in the third quarter of the fifteenth century for use in England. Early ownership by the family whose coat of arms appears on f. 23v, possibly the Barons Lovell as reported by the HMC and De Ricci; owned later by the Bowntyene family, possibly specifically Johane Bowntyene in the early sixteenth century, as reported by De Ricci;",former owner,,,human,Johane Bowntyene,Q116958831
 "Written in France (possibly northern?) s. XIV (early in the century according to De Ricci). Obtained by General Theological Seminary in 1912 from Joseph (Giuseppe) Martini (1870-1944), as reported by De Ricci.",former owner,,,human,Giuseppe Martini,Q98834332
 "Written in the third quarter of the fifteenth century in France for use in England. Apparently in the hands of English Protestants at some point in the s. XVI#^2# (see notes on calendar). Obtained by General Theological Seminary from P.M. Barnard, as reported by De Ricci.",former owner,,,human,Percy Mordaunt Barnard,Q94925072
-"Wunder, Andreas, active 19th century",former owner,,,human,Andreas Wunder,Q121502712
 "Wylie, Theodore W. J. 1818-1897",former owner,,,human,Theodore William John Wylie,Q114298229
 Xenophon,author,,,human,Xenophon,Q129772
 Xenophon.,author,,,human,Xenophon,Q129772
@@ -4925,17 +4594,12 @@ Ysidorus,scribe,,,human,Isidorus,Q11714977
 "Zabarella, Francesco 1360-1417.",author,,,human,Francesco Zabarella,Q1338205
 "Zacchi, Gaspare.",author,,,human,Gaspare Zacchi,Q115182617
 "Zāhid, Aḥmad ibn Muḥammad, -1416",author,,http://id.loc.gov/authorities/names/n2012000135,human,Aḥmad ibn Muḥammad Zāhid,Q114242405
-"Zamakhsharī, Maḥmūd ibn ʻUmar, 1075-1144",author,زمخشري، محمود بن عمر، 1075-1144,,human,Al-Zamakhshari,Q482451
-"Zamakhsharī, Maḥmūd ibn ʻUmar, 1075-1144",author,"زمخشري، محمود بن عمر, 1075-1144",,human,Al-Zamakhshari,Q482451
-"Zamakhsharī, Maḥmūd ibn ʻUmar, 1075-1144",author,زمخشري، محمود بن عمر، 1075-1144,,human,Al-Zamakhshari,Q482451
 "Z̤amāqavī, Aḥmad Rifʻat ibn al-Ḥājj Muḥammad Fākhir",former owner,ضماقوى، احمد رفعت بن الحاج محمد فاخر,,human,Aḥmad Rifʻat ibn al-Ḥājj Muḥammad Fākhir Z̤amāqavī,Q114242474
 "Zandawaysitī, ʻAlī ibn Yaḥyá, d. 922",author,,,human,ʻAlī ibn Yaḥyá Zandawaysitī,Q114242472
 Zapparin family,other,,,organization,Zapparin,Q117463760
 Zāwiyah al-Nāṣiriyah,former owner,,http://id.loc.gov/authorities/names/no2007068112,human,Zāwiyah al-Nāṣiriyah,Q116649436
 Zāwiyah al-Nāṣiriyah,former owner,,,human,Zāwiyah al-Nāṣiriyah,Q116649436
 "Zaynī, Muḥammad ibn Maḥmūd, fl. 1613",author,,,human,Muḥammad ibn Maḥmūd Zaynī,Q114242473
-"Zaynīʹzādah, Ḥusayn ibn Aḥmad, -1754 or 1755",author,زينيزادة، حسين بن احمد، -1754 or 1755,,human,Ḥusayn ibn Aḥmad Zaynīʹzādah,Q122947969
-"Zaynīʹzādah, Ḥusayn ibn Aḥmad, -1754 or 1755",author,زيني‌زادة، حسين بن احمد، -1754 or 1755,,human,Ḥusayn ibn Aḥmad Zaynīʹzādah,Q122947969
 "Zeno, Jacopo 1417-1481.",author,,,human,Jacopo Zeno,Q26265689
 Zenonus de Tergulina,scribe,,,human,Zenonus de Tergulina,Q117463758
 "Zonaras, Joannes, active 12th century.",author,,,human,John Zonaras,Q32052
@@ -4944,7 +4608,6 @@ Zenonus de Tergulina,scribe,,,human,Zenonus de Tergulina,Q117463758
 "Zuccati, Giovanni Battista",author,,,human,Giovanni Battista Zuccato,Q23622004
 "Zucchero Bencivenni, translator from French to Italian",other,,,human,Zucchero Bencivenni,Q4024905
 "zu Reitheim, Johannes",former owner,,,human,Johannes zu Reitheim,Q114242471
-"Zurqānī, Muḥammad ibn ʻAbd al-Bāqī, 1645-1710",author,زرقاني، محمد بن عبد الباقي، 1645-1710,http://id.loc.gov/authorities/names/n82078406,human,Muhammad al-Zurqani,Q16859425
 "Zurqānī, ʻAbd al-Bāqī ibn Yūsuf, 1611-1688",author,زرقاني، عبد الباقي بن يوسف,,human,Abd-al-Baqi al-Zurqani,Q4664516
 "ʻAbbāsī, Ḥājī ʻIzz al-Dīn Shīr Bīk",former owner,عباسي، حاجي عاز الدين شير بيك,,human,Ḥājī ʻIzz al-Dīn Shīr Bīk ʻAbbāsī,Q114242477
 ʻAbd al-Ḍayf Mūsá ibn Walī ibn Ḥasan,author,عبد الضيف موسى بن ولي بن حسن,,human,ʻAbd al-Ḍayf Mūsá ibn Walī ibn Ḥasan,Q114242478
@@ -4952,7 +4615,6 @@ Zenonus de Tergulina,scribe,,,human,Zenonus de Tergulina,Q117463758
 "ʻAbd al-Fattāḥ al-Qāṭin, active 1698",former owner,,,human,ʻAbd al-Fattāḥ al-Qāṭin,Q116250311
 "ʻAbd Allāh al-Asṭawānī, active 1824",former owner,عبد الله الاسطواني، active 1824،,,human,ʻAbd Allāh al-Asṭawānī,Q116649165
 "ʻAbd Allāh al-Asṭawānī, active 1824",former owner,,,human,ʻAbd Allāh al-Asṭawānī,Q116649165
-"ʻAbd al-Laṭīf al-Baghdādī, Muwaffaq al-Dīn, 1162-1231",author,عبد اللطيف البغدادي، موفق الدين، 1162-1231,,human,Abd al-Latif al-Baghdadi,Q307277
 ʻAbd al-Laṭīf Qalandar Ibn ʻAbd Allāh ibn Khaz̤r Sabzavārī,scribe,عبد اللطیف قلندر ابن عبد الله بن خضر سبزوارى,,human,ʻAbd al-Laṭīf Qalandar Ibn ʻAbd Allāh ibn Khaz̤r Sabzavārī,Q114242479
 "ʻAbd al-Raḥmān ibn al-Qurrā, active 1742",former owner,عبد الرحمن بن القرا، active 1742،,,human,ʻAbd al-Raḥmān ibn al-Qurrā,Q116648952
 "ʻAbd al-Raḥmān ibn al-Qurrā, active 1742",former owner,,,human,ʻAbd al-Raḥmān ibn al-Qurrā,Q116648952
@@ -4961,19 +4623,11 @@ Zenonus de Tergulina,scribe,,,human,Zenonus de Tergulina,Q117463758
 "ʻAbduh, Muḥammad",former owner,عبده، محمد،,http://id.loc.gov/authorities/names/n88263211,human,Muḥammad ʻAbduh,Q116192766
 "ʻAbduh, Muḥammad",former owner,,,human,Muḥammad ʻAbduh,Q116192766
 "ʻAjamī, Kurdī Sayyidī Maḥmūd",author,عجمي، كردي سيدي محمود,,human,Kurdī Sayyidī Maḥmūd ʻAjamī,Q114242480
-"ʻAlāʼī, Khalīl ibn Kaykaldī, 1295-1359",author,علائي، خليل بن كيكلدي، 1295-1359,,human,Ṣalāḥ al-Dīn al-ʻAlāʾī,Q12190370
 "ʻAlī ibn al-Dhahab, Shaykh",scribe,علي بن الذهب، شيخ,,human,Shaykh 'Alī ibn al-Dhahab,Q114242481
-"ʻĀmilī, Bahāʼ al-Dīn Muḥammad ibn Ḥusayn, 1547-1621",author,عاملي، بهاء الدين محمد بن حسين، 1547-1621,http://id.loc.gov/authorities/names/n83196143,human,Bahāʾ al-dīn al-ʿĀmilī,Q2658411
 "ʻĀmilī, Bahāʼ al-Dīn Muḥammad ibn Ḥusayn, 1547-1621",author,عاملي، بهاء الدين محمد بن حسين، 1547-1621,,human,Bahāʾ al-dīn al-ʿĀmilī,Q2658411
 "ʻAshāfī, Ḥāfiẓ Muṣṭafá al-Nāfawī",scribe,عشافي، حافظ مصطفى النافوي,,human,"ʻAshāfī, Ḥāfiẓ Muṣṭafá al-Nāfawī",Q114242483
 "ʻAṭṭār, Muḥammad Amīn",former owner,عطار، محمد امين,,human,Muḥammad Amīn ʻAṭṭār,Q114242484
 "ʻAṭṭār, Muḥammad ibn Ḥusayn, 1764-1827 or 1828",author,عطار، محمد بن حسين، 1764-1827 or 1828,,human,Muḥammad ibn Ḥusayn ʻAṭṭār,Q114242485
 "ʻAymakī, Abū Bakr ibn Muʻāwiyah",author,,,human,Abū Bakr ibn Muʻāwiyah ʻAymakī,Q114242486
-"ʻIrāqī, ʻAbd al-Raḥīm ibn al-Ḥusayn, 1325-1404",author,عراقي، عبد الرحيم بن الحسين، 1325-1404,,human,Abd al-Rahim ibn al-Husain al-'Iraqi,Q4664581
-"ʻIrāqī, ʻAbd al-Raḥīm ibn al-Ḥusayn, 1325-1404",author,عراقي، عبد الرحيم بن الحسين، 1325-1404,http://id.loc.gov/authorities/names/n84199018,human,Abd al-Rahim ibn al-Husain al-'Iraqi,Q4664581
-"ʻIṣām al-Asfarāyīnī, Ibrāhīm ibn Muḥammad, 1468 or 1469-1538 or 1539",author,عصام الاسفراييني، ابراهيم بن محمد، 1468 or 1469-1538 or 1539,,human,ʿIṣām al-Dīn al-Isfarāyīnī,Q25452064
-"ʻIṣām al-Asfarāyīnī, Ibrāhīm ibn Muḥammad, 1468 or 1469-1538 or 1539",author,عصام الاسفراييني، ابراهيم بن محمد، 1468 or 1469-1538 or 1539,,human,ʿIṣām al-Dīn al-Isfarāyīnī,Q25452064
 "ʻIyāḍ ibn Mūsá, 1083-1149",author,عاياض بن موسى، 1083-1149,http://id.loc.gov/authorities/names/n83017679,human,Qadi Ayyad,Q3101035
 "ʻIyāḍ ibn Mūsá, 1083-1149",author,عياض بن موسى، 1083-1149,,human,Qadi Ayyad,Q3101035
-"ʻUjaymī, Ḥasan ibn ʻAlī",author,عجيمي، حسن بن علي,http://id.loc.gov/authorities/names/n84038556,human,Ḥasan ibn ʻAlī ʻUjaymī,Q122946985
-"ʻUkbarī, ʻAbd Allāh ibn al-Ḥusayn, 1143 or 1144-1219",author,عكبري، عبد الله بن الحسين، 1143 or 1144-1219,,human,ʾAbū al-Baqāʾ al-ʿUkbariyy,Q3535817
