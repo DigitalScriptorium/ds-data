@@ -117,7 +117,6 @@ Bavaria,Bavaria,http://vocab.getty.edu/tgn/7003669
 "Bavaria?, Southern Germany",Bavaria;South Germany,http://vocab.getty.edu/tgn/7003669;http://vocab.getty.edu/tgn/4004316
 Bavaria or Austria,Bavaria;Austria,http://vocab.getty.edu/tgn/7003669;http://vocab.getty.edu/tgn/1000062
 Bayt al-Faqīh Yemen,Bayt al Faqīh,http://vocab.getty.edu/tgn/1087306
-Beijing,Beijing,http://vocab.getty.edu/tgn/7001758
 "Belém, Portugal",Belém;Portugal,http://vocab.getty.edu/tgn/7010773;http://vocab.getty.edu/tgn/1000090
 Belgium,Belgium,http://vocab.getty.edu/tgn/1000063
 "Belgium, Antwerp",Belgium;Antwerp,http://vocab.getty.edu/tgn/1000063;http://vocab.getty.edu/tgn/7007856
@@ -254,7 +253,6 @@ Dimashq,Damascus,http://vocab.getty.edu/tgn/7002261
 "Dimashq, al-Shām",Damascus;Syria,http://vocab.getty.edu/tgn/7002261;http://vocab.getty.edu/tgn/7594765
 "Dimashq, al-Shām",Damascus;Syria,http://vocab.getty.edu/tgn/7002261;http://vocab.getty.edu/tgn/7594765
 Dimashq ;,Damascus,http://vocab.getty.edu/tgn/7002261
-"Diocese of Brixen, Tyrol, Austria",Tyrol;Austria,http://vocab.getty.edu/tgn/7003029;http://vocab.getty.edu/tgn/1000062
 "Diocese of Treviso, Montello, Italy",Treviso;Volpago del Montello;Italy,http://vocab.getty.edu/tgn/7002996;http://vocab.getty.edu/tgn/1047496;http://vocab.getty.edu/tgn/1000080
 Diyārbakr,Diyarbakır,http://vocab.getty.edu/tgn/7002338
 Douai,Douai,http://vocab.getty.edu/tgn/7008458
@@ -648,8 +646,6 @@ Greek East,Greece,http://vocab.getty.edu/tgn/1000074
 "Hainault, Belgium","Hainaut, Province de;Belgium",http://vocab.getty.edu/tgn/7007877;http://vocab.getty.edu/tgn/1000063
 Ḥalab,Aleppo,http://vocab.getty.edu/tgn/7002252
 "Hamburg?, Germany",Hamburg;Germany,http://vocab.getty.edu/tgn/7005289;http://vocab.getty.edu/tgn/7000084
-Hanshan Xian,Hanshan,http://vocab.getty.edu/tgn/8203227
-Henan,Henan,http://vocab.getty.edu/tgn/7016672
 "Herat, Afghanistan",Herāt;Afghanistan,http://vocab.getty.edu/tgn/7002243;http://vocab.getty.edu/tgn/7016612
 "Hildesheim?, Germany",Hildesheim;Germany,http://vocab.getty.edu/tgn/7005248;http://vocab.getty.edu/tgn/7000084
 "Holland, Netherlands",Holland;Netherlands,http://vocab.getty.edu/tgn/1003759;http://vocab.getty.edu/tgn/7016845
@@ -976,7 +972,7 @@ Moscow,Moscow,http://vocab.getty.edu/tgn/7012974
 "Mosul?, Iraq",Al-Mawṣil;Iraq,http://vocab.getty.edu/tgn/7002471;http://vocab.getty.edu/tgn/1000118
 Mt. Sinai; Constantinople,"Mūsá, Jabal;Istanbul",http://vocab.getty.edu/tgn/7001247;http://vocab.getty.edu/tgn/7002473
 Munich,Munich,http://vocab.getty.edu/tgn/7004333
-n.p,undetermined,http://vocab.getty.edu/tgn/7544559
+n.p,,
 N.pl.,undetermined,http://vocab.getty.edu/tgn/7544559
 N. pl.,undetermined,http://vocab.getty.edu/tgn/7544559
 Najaf,An-Najaf,http://vocab.getty.edu/tgn/1079401
@@ -1023,7 +1019,6 @@ Nuremberg,Nuremberg,http://vocab.getty.edu/tgn/7004334
 "Nuremberg?, Germany",Nuremberg;Germany,http://vocab.getty.edu/tgn/7004334;http://vocab.getty.edu/tgn/7000084
 "Nuremburg, Germany",Nuremberg;Germany,http://vocab.getty.edu/tgn/7004334;http://vocab.getty.edu/tgn/7000084
 "Nuremburg ?, Germany",Nuremberg;Germany,http://vocab.getty.edu/tgn/7004334;http://vocab.getty.edu/tgn/7000084
-Ōmi no kuni Takashima-gun,Takashima-shi,http://vocab.getty.edu/tgn/8743324
 Ottoman Empire,Ottoman Empire,http://vocab.getty.edu/tgn/7024412
 "Oxford, England",Oxford;England,http://vocab.getty.edu/tgn/7011931;http://vocab.getty.edu/tgn/7002445
 "Oxford?, England",Oxford;England,http://vocab.getty.edu/tgn/7011931;http://vocab.getty.edu/tgn/7002445
@@ -1056,7 +1051,6 @@ Pisa,Pisa,http://vocab.getty.edu/tgn/7006082
 "Pisa, Italy",Pisa;Italy,http://vocab.getty.edu/tgn/7006082;http://vocab.getty.edu/tgn/1000080
 Place not identified,undetermined,http://vocab.getty.edu/tgn/7544559
 Place of production unknown,undetermined,http://vocab.getty.edu/tgn/7544559
-Place of publication not identified,undetermined,http://vocab.getty.edu/tgn/7544559
 Poland,Poland,http://vocab.getty.edu/tgn/7006366
 "Poland, Bohemia",Poland;Bohemia,http://vocab.getty.edu/tgn/7006366;http://vocab.getty.edu/tgn/7006470
 Poland (?),Poland,http://vocab.getty.edu/tgn/7006366
@@ -1122,7 +1116,6 @@ Scotland?,Scotland,http://vocab.getty.edu/tgn/7002444
 Serbia,Serbia,http://vocab.getty.edu/tgn/7006669
 "Seville, Spain",Seville;Spain,http://vocab.getty.edu/tgn/7008676;http://vocab.getty.edu/tgn/1000095
 "Seville?, Spain",Seville;Spain,http://vocab.getty.edu/tgn/7008676;http://vocab.getty.edu/tgn/1000095
-Shaanxi Sheng,Shaanxi,http://vocab.getty.edu/tgn/7002084
 "Šibenik, Croatia",Šibenik;Croatia,http://vocab.getty.edu/tgn/7015447;http://vocab.getty.edu/tgn/7006663
 Sicily,Sicily,http://vocab.getty.edu/tgn/7003122
 Siena,Siena,http://vocab.getty.edu/tgn/7011179
@@ -1173,7 +1166,6 @@ Spain or Portugal,Spain;Portugal,http://vocab.getty.edu/tgn/1000095;http://vocab
 Spain or Portugal ?,Spain;Portugal,http://vocab.getty.edu/tgn/1000095;http://vocab.getty.edu/tgn/1000090
 Spain or southern France,Spain;Southern France,http://vocab.getty.edu/tgn/1000095;http://vocab.getty.edu/tgn/4004037
 Sri Lanka,Sri Lanka,http://vocab.getty.edu/tgn/1000110
-St. Albans,Saint Albans,http://vocab.getty.edu/tgn/7011871
 "St. Albans, England",Saint Albans;England,http://vocab.getty.edu/tgn/7011871;http://vocab.getty.edu/tgn/7002445
 "St. Albans?, England",Saint Albans;England,http://vocab.getty.edu/tgn/7011871;http://vocab.getty.edu/tgn/7002445
 "St. Dié, France",Saint-Dié;France,http://vocab.getty.edu/tgn/7009618;http://vocab.getty.edu/tgn/1000070
@@ -1201,7 +1193,6 @@ Terranuova Bracciolini,Terranuova Bracciolini,http://vocab.getty.edu/tgn/1047093
 The Netherlands,Netherlands,http://vocab.getty.edu/tgn/7016845
 The Netherlands (Leeuwarden),Netherlands;Leeuwarden,http://vocab.getty.edu/tgn/7016845;http://vocab.getty.edu/tgn/7007006
 Thessalonikē,Salonika,http://vocab.getty.edu/tgn/7011182
-Toledo,Toledo,http://vocab.getty.edu/tgn/7008719
 "Toledo, Spain",Toledo;Spain,http://vocab.getty.edu/tgn/7008719;http://vocab.getty.edu/tgn/1000095
 Toul,Toul,http://vocab.getty.edu/tgn/7009506
 "Toulouse, France",Toulouse;France,http://vocab.getty.edu/tgn/7008441;http://vocab.getty.edu/tgn/1000070
@@ -1267,5 +1258,4 @@ Yakīshahr Turkey?,Turkey,http://vocab.getty.edu/tgn/1000144
 Yemen,Yemen,http://vocab.getty.edu/tgn/7000261
 "Yugoslavia, Yugoslavia",Yugoslavia,http://vocab.getty.edu/tgn/8713918
 Zaragoza,Zaragoza,http://vocab.getty.edu/tgn/7008813
-Zhejiang,Zhejiang,http://vocab.getty.edu/tgn/7002076
 ,undetermined,http://vocab.getty.edu/tgn/7544559

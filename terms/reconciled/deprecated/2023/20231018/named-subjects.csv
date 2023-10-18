@@ -6,7 +6,6 @@ subject_as_recorded,subfield_codes,vocab,source_authority_uri,authorized_label,s
 1442-1707.,a,fast,,1442-1707,http://id.worldcat.org/fast/1355537
 14th century.,a,fast,,Fourteenth century,http://id.worldcat.org/fast/933420
 15th century.,a,fast,,Fifteenth century,http://id.worldcat.org/fast/923962
-1600-1868,a,fast,,1600-1868,http://id.worldcat.org/fast/1355642
 16th century.,a,fast,,Sixteenth century,http://id.worldcat.org/fast/1119851
 17th century.,a,fast,,Seventeenth century,http://id.worldcat.org/fast/1113663
 18th century.,a,fast,,Eighteenth century,http://id.worldcat.org/fast/904058
@@ -203,7 +202,6 @@ Bible. Song of Solomon--Commentaries--Early works to 1800.,a;p--v--v,0,,Bible. S
 Bible. Song of Solomon--Early works to 1800.,a;p--v,0,,Bible. Song of Solomon;Early works,http://id.worldcat.org/fast/1892948;http://id.worldcat.org/fast/1411636
 Bible. Wisdom of Solomon,a;p,0,http://id.loc.gov/authorities/names/n85256302,Bible. Wisdom of Solomon,http://id.worldcat.org/fast/1808021
 Bible. Wisdom of Solomon,a;p,fast,http://id.worldcat.org/fast/1808021,Bible. Wisdom of Solomon,http://id.worldcat.org/fast/1808021
-Bible--Commentaries.,a--v,0,http://id.loc.gov/authorities/subjects/sh85013597,Bible;Commentaries,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1423723
 Bible--Commentaries--Early works to 1800.,a--v--v,0,,Bible;Commentaries;Early works,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636
 Bible--Commentaries--Early works to 1800.,a--v--v,0,,Bible;Commentaries;Early works,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636
 "Bible--Criticism, interpretation, etc.",a--x,0,http://id.loc.gov/authorities/subjects/sh85013617,Bible;Criticism and interpretation,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1198648
@@ -531,7 +529,6 @@ Gospel of Nicodemus.,a,fast,http://id.worldcat.org/fast/1359256,Gospel of Nicode
 "Gregory IX, Pope, approximately 1170-1241. Decretales D. Gregorii Papæ IX.",a;b;c;d;t,0,,Decretales Gregorii IX (Catholic Church),http://id.worldcat.org/fast/1361356
 "Gregory XIII, Pope, 1502-1585.",a;b;c;d,0,http://id.loc.gov/authorities/names/n85206079,"Gregory XIII, Pope, 1502-1585",http://id.worldcat.org/fast/190276
 "Gregory XIII, Pope, 1502-1585.",a;b;c;d,fast,http://id.worldcat.org/fast/190276,"Gregory XIII, Pope, 1502-1585",http://id.worldcat.org/fast/190276
-"Guan, Zhong, -645 B.C. Guanzi.",a;d;t,0,http://id.loc.gov/authorities/names/n78059928,"Guanzi (Guan, Zhong)",http://id.worldcat.org/fast/1363308
 "Guido, d'Arezzo",a;c,fast,http://id.worldcat.org/fast/5827,"Guido, d'Arezzo",http://id.worldcat.org/fast/5827
 "Guido, d'Arezzo",a;c,0,http://id.loc.gov/authorities/names/n50018328,"Guido, d'Arezzo",http://id.worldcat.org/fast/5827
 "Ḥarīrī, 1054-1122. Maqāmāt.",a;d;t,0,,Maqāmāt (Ḥarīrī),http://id.worldcat.org/fast/1356801
@@ -664,7 +661,6 @@ Joseph (Son of Jacob),a;c,fast,http://id.worldcat.org/fast/41708,Joseph (Son of 
 Joseph (Son of Jacob)--Poetry.,a;c--v,0,,Joseph (Son of Jacob);Poetry,http://id.worldcat.org/fast/41708;http://id.worldcat.org/fast/1423828
 Judas Iscariot--Poetry--Early works to 1800.,a--v--v,0,,Judas Iscariot;Poetry;Early works,http://id.worldcat.org/fast/90737;http://id.worldcat.org/fast/1423828;http://id.worldcat.org/fast/1411636
 Jugurthine War (111-105 B.C.),a;d,fast,http://id.worldcat.org/fast/984778,Jugurthine War (111-105 B.C.),http://id.worldcat.org/fast/984778
-"Julian, of Eclanum, Bishop, 380-approximately 455.",a;c;d,0,http://id.loc.gov/authorities/names/n84178627,"Julian, of Eclanum, Bishop, 380-approximately 455",http://id.worldcat.org/fast/1827683
 "Julius III, Pope, 1487-1555.",a;b;c;d,fast,http://id.worldcat.org/fast/165546,"Julius III, Pope, 1487-1555",http://id.worldcat.org/fast/165546
 "Julius III, Pope, 1487-1555.",a;b;c;d,0,http://id.loc.gov/authorities/names/n85216481,"Julius III, Pope, 1487-1555",http://id.worldcat.org/fast/165546
 Kabāʼir (Muḥammad ibn ʻAbd al-Wahhāb),a,fast,(OCoLC)fst01400055,Kabāʼir (Muḥammad ibn ʻAbd al-Wahhāb),http://id.worldcat.org/fast/1400055
@@ -1052,7 +1048,6 @@ Socrates.,a,0,http://id.loc.gov/authorities/names/n79055329,Socrates,http://id.w
 Socrates.,a,fast,http://id.worldcat.org/fast/35600,Socrates,http://id.worldcat.org/fast/35600
 "Soderini, Piero, 1452-1522.",a;d,fast,http://id.worldcat.org/fast/140988,"Soderini, Piero, 1452-1522",http://id.worldcat.org/fast/140988
 "Soderini, Piero, 1452-1522.",a;d,0,http://id.loc.gov/authorities/names/n84183374,"Soderini, Piero, 1452-1522",http://id.worldcat.org/fast/140988
-"Spalatin, Georg, 1484-1545.",a;d,0,http://id.loc.gov/authorities/names/no92026089,"Spalatin, Georg, 1484-1545",http://id.worldcat.org/fast/311875
 "Spanish rule, 1442-1707.",a,fast,,1442-1707,http://id.worldcat.org/fast/1355537
 "Spedale di Santa Maria della Scala (Siena, Italy)",a,0,http://id.loc.gov/authorities/names/n85279657,"Spedale di Santa Maria della Scala (Siena, Italy)",http://id.worldcat.org/fast/611263
 "Spedale di Santa Maria della Scala (Siena, Italy)",a,fast,http://id.worldcat.org/fast/611263,"Spedale di Santa Maria della Scala (Siena, Italy)",http://id.worldcat.org/fast/611263
@@ -1084,7 +1079,6 @@ SS. Trinità e S. Michele Arcangelo di Brondolo (Monastery),a,0,http://id.loc.g
 "Taftāzānī, Masʻūd ibn ʻUmar, 1322-1389? Tahdhīb al-manṭiq wa-al-kalām.",a;d;t,0,,"Tahdhīb al-manṭiq wa-al-kalām (Taftāzānī, Masʻūd ibn ʻUmar)",http://id.worldcat.org/fast/1917295
 "Tahdhīb al-Kamāl fī asmāʼ al-rijāl (Mizzī, Yūsuf ibn al-Zakī ʻAbd
 				al-Raḥmān)",a,fast,(OCoLC)fst01380469,"Tahdhīb al-Kamāl fī asmāʼ al-rijāl (Mizzī, Yūsuf ibn al-Zakī ʻAbd al-Raḥmān)",http://id.worldcat.org/fast/1380469
-Taira family--Fiction.,a--v,0,,Taira family;Fiction,http://id.worldcat.org/fast/220258;http://id.worldcat.org/fast/1423787
 "Tajrīd al-iʻtiqād (Ṭūsī, Naṣīr al-Dīn Muḥammad ibn
 				Muḥammad)",a,fast,(OCoLC)fst01377889,"Tajrīd al-iʻtiqād (Ṭūsī, Naṣīr al-Dīn Muḥammad ibn Muḥammad)",http://id.worldcat.org/fast/1377889
 "Talkhīṣ Miftāḥ al-ʻulūm (Qazwīnī, Jalāl al-Dīn Muḥammad ibn ʻAbd
@@ -1117,8 +1111,6 @@ Tibullus--Criticism and interpretation.,a--x,0,,Tibullus;Criticism and interpret
 "Toledo, Pedro de, 1484-1553.",a;d,fast,http://id.worldcat.org/fast/161386,"Toledo, Pedro de, 1484-1553",http://id.worldcat.org/fast/161386
 "Toledo, Pedro de, 1484-1553.",a;d,0,http://id.loc.gov/authorities/names/n85191905,"Toledo, Pedro de, 1484-1553",http://id.worldcat.org/fast/161386
 "Tresham family,",a,0,,Tresham family,http://id.worldcat.org/fast/303344
-Tripiṭaka. Sūtrapiṭaka. Mahāvairocanasūtra,a;p;p,fast,(OCoLC)fst01361520,Tripiṭaka. Sūtrapiṭaka. Mahāvairocanasūtra,http://id.worldcat.org/fast/1361520
-Tripiṭaka. Sūtrapiṭaka. Mahāvairocanasūtra.,a;p;p,0,,Tripiṭaka. Sūtrapiṭaka. Mahāvairocanasūtra,http://id.worldcat.org/fast/1361520
 Tristan (Legendary character),a;c,fast,http://id.worldcat.org/fast/1157190,Tristan (Legendary character),http://id.worldcat.org/fast/1157190
 Tristan (Legendary character)--Romances.,a;c--v,0,,Tristan (Legendary character);Romances,http://id.worldcat.org/fast/1157190;http://id.worldcat.org/fast/1423856
 Trojan War.,a,fast,http://id.worldcat.org/fast/1157294,Trojan War,http://id.worldcat.org/fast/1157294
