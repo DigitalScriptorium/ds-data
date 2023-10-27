@@ -1,0 +1,40 @@
+File,language_as_recorded,language_code,authorized_label,structured_value
+20230814-languages-princeton-marcxml-enriched.csv,;cop,;cop,Coptic,Q36155
+20230814-languages-princeton-marcxml-enriched.csv,;dut,;dut,Dutch,Q7411
+20230814-languages-princeton-marcxml-enriched.csv,;eng,;eng,English,Q1860
+20230814-languages-princeton-marcxml-enriched.csv,;frm;ita,;frm;ita,Middle French;Italian,Q1473289;Q652
+20230814-languages-princeton-marcxml-enriched.csv,;ger,;ger,German,Q188
+20230814-languages-princeton-marcxml-enriched.csv,;grc,;grc,Ancient Greek,Q35497
+20230814-languages-princeton-marcxml-enriched.csv,;ita;gre,;ita;gre,Italian;Greek,Q652;Q9129
+20230814-languages-princeton-marcxml-enriched.csv,;lat,;lat,Latin,Q397
+20230814-languages-princeton-marcxml-enriched.csv,Arabic,,Arabic,Q13955
+20230814-languages-princeton-marcxml-enriched.csv,arc,arc,Imperial Aramaic,Q7079491
+20230814-languages-princeton-marcxml-enriched.csv,Catalan,,Catalan,Q7026
+20230814-languages-princeton-marcxml-enriched.csv,English,,English,Q1860
+20230814-languages-princeton-marcxml-enriched.csv,Greek,;grc,Greek,Q9129
+20230814-languages-princeton-marcxml-enriched.csv,Greek,;gre,Greek,Q9129
+20230814-languages-princeton-marcxml-enriched.csv,Greek,,Greek,Q9129
+20230814-languages-princeton-marcxml-enriched.csv,Hebrew,,Hebrew,Q9288
+20230814-languages-princeton-marcxml-enriched.csv,Hebrew and Aramaic,;heb;arc,Hebrew;Aramaic,Q9288;Q28602
+20230814-languages-princeton-marcxml-enriched.csv,In English and Marquesan,,English;Marquesan,Q1860;Q33781
+20230814-languages-princeton-marcxml-enriched.csv,In Latin,,Latin,Q397
+20230814-languages-princeton-marcxml-enriched.csv,In Middle English and Latin,;enm;lat,Middle English;Latin,Q36395;Q397
+20230814-languages-princeton-marcxml-enriched.csv,Italian,,Italian,Q652
+20230814-languages-princeton-marcxml-enriched.csv,Latin,,Latin,Q397
+20230814-languages-princeton-marcxml-enriched.csv,Latin,;lat,Latin,Q397
+20230814-languages-princeton-marcxml-enriched.csv,Latin and French,;lat;fre,Latin;French,Q397;Q150
+20230814-languages-princeton-marcxml-enriched.csv,Latin and Italian,;lat;ita,Latin;Italian,Q397;Q652
+20230814-languages-princeton-marcxml-enriched.csv,myn,myn,Yucatec Maya,Q13354
+20230814-languages-princeton-marcxml-enriched.csv,mynspa,mynspa,Yucatec Maya;Spanish,Q13354;Q1321
+20230814-languages-princeton-marcxml-enriched.csv,Ottoman Turkish,;ota,Ottoman Turkish,Q36730
+20230814-languages-princeton-marcxml-enriched.csv,Ottoman Turkish and Arabic,;ota;ara,Ottoman Turkish;Arabic,Q36730;Q13955
+20230814-languages-princeton-marcxml-enriched.csv,per,per,Persian,Q9168
+20230814-languages-princeton-marcxml-enriched.csv,Persian,,Persian,Q9168
+20230814-languages-princeton-marcxml-enriched.csv,Persian and Arabic,;ara;per,Persian;Arabic,Q9168;Q13955
+20230814-languages-princeton-marcxml-enriched.csv,Text in Greek,,Greek,Q9129
+20230814-languages-princeton-marcxml-enriched.csv,Text in Hebrew and Aramaic,,Hebrew;Aramaic,Q9288;Q28602
+20230814-languages-princeton-marcxml-enriched.csv,Text in K'iche' and Spanish,;myn;spa,K’iche’;Spanish,Q36494;Q1321
+20230814-languages-princeton-marcxml-enriched.csv,Text in K'iche' and Spanish,;mynspa,K’iche’;Spanish,Q36494;Q1321
+20230814-languages-princeton-marcxml-enriched.csv,Text in Korean,,Korean,Q9176
+20230814-languages-princeton-marcxml-enriched.csv,Text in Middle English and Latin,;enm;lat,Middle English;Latin,Q36395;Q397
+20230814-languages-princeton-marcxml-enriched.csv,Text in Yucatec with some Spanish,;myn;spa,Yucatec Maya;Spanish,Q13354;Q1321

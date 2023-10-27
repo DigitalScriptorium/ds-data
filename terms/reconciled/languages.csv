@@ -1,10 +1,24 @@
 language_as_recorded,language_code,authorized_label,structured_value
+;ara,;ara,Arabic,Q13955
+;ara;ota,;ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730
+;ara;ota;per,;ara;ota;per,Arabic;Ottoman Turkish;Persian,Q13955;Q36730;Q9168
+;ara;per,;ara;per,Arabic;Persian,Q13955;Q9168
+;cop,;cop,Coptic,Q36155
+;dut,;dut,Dutch,Q7411
+;eng,;eng,English,Q1860
+;frm;ita,;frm;ita,Middle French;Italian,Q1473289;Q652
+;ger,;ger,German,Q188
+;grc,;grc,Ancient Greek,Q35497
+;ita;gre,;ita;gre,Italian;Greek,Q652;Q9129
+;lat,;lat,Latin,Q397
 [English],,English,Q1860
 [French],,French,Q150
 [Latin],,Latin,Q397
 [no text],,no linguistic content,Q22282939
 Added notes in Italian (Volume 1),zxx;ita,Italian,Q652
 Ancient Greek,grc,Ancient Greek,Q35497
+Ancient Greek (to 1453),grc,Ancient Greek,Q35497
+ang,ang,Old English,Q42365
 Anglo-Norman,,Anglo-Norman,Q35214
 Anglo-Norman,xno,Anglo-Norman,Q35214
 Anglo-Norman; English; Latin,,Anglo-Norman;English;Latin,Q35214;Q1860;Q397
@@ -13,16 +27,19 @@ Anglo-Norman French; Middle English,,Anglo-Norman;Middle English,Q35214;Q36395
 Anglo-Saxon,,Old English,Q42365
 Anglo-Saxon; Latin,,Old English;Latin,Q42365;Q397
 ara,ara,Arabic,Q13955
-Arabic,ara;eng,Arabic,Q13955
 Arabic,,Arabic,Q13955
+Arabic,ara;eng,Arabic,Q13955
 Arabic,ara,Arabic,Q13955
+"Arabic, Persian and Ottoman Turkish",;ara;per;ota,Arabic;Persian;Ottoman Turkish,Q13955;Q9168;Q36730
 "Arabic, with colophon in Arabic and Ottoman Turkish (in Arabic script, f. 8v)",ara,Arabic;Ottoman Turkish,Q13955;Q36730
 "Arabic, with commentary in Ottoman Turkish",ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730
 "Arabic, with some Persian",ara;per,Arabic;Persian,Q13955;Q9168
 Arabic;,,Arabic,Q13955
 Arabic; Persian,,Arabic;Persian,Q13955;Q9168
 Arabic; some notes in Persian,ara;per,Arabic;Persian,Q13955;Q9168
+Arabic and Ottoman Turkish,;ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730
 Arabic and Persian,ara;per,Arabic;Persian,Q13955;Q9168
+Arabic and Turkish,;ara;ota,Arabic;Turkish,Q13955;Q256
 "Arabic headwords, Ottoman definitions",ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730
 Arabic text with Persian marginalia,ara;per,Arabic;Persian,Q13955;Q9168
 Arabic with 13 pages in Ottoman Turkish,ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730
@@ -33,31 +50,42 @@ Arabic with some Ottoman Turkish,ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730
 Arabic with some Persian marginalia,ara;per,Arabic;Persian,Q13955;Q9168
 Arabic with translation in Persian,ara;per,Arabic;Persian,Q13955;Q9168
 Aramaic,heb,Aramaic,Q28602
+arc,arc,Imperial Aramaic,Q7079491
 arm,arm,Armenian,Q8785
 Armenian,,Armenian,Q8785
 Armenian,arm,Armenian,Q8785
 ber,ber,Berber,Q25448
+"Castilian, Spanish",spa,Spanish,Q1321
+"Castilian, Spanish; Latin",spa;lat,Spanish;Latin,Q1321;Q397
 cat,cat,Catalan,Q7026
 Catalan,,Catalan,Q7026
 "Catalan, with prologue in Latin",cat;lat,Catalan;Latin,Q7026;Q397
 Catalan;,,Catalan,Q7026
 chi,chi,Chinese,Q7850
+chi;jpn,chi;jpn,Chinese;Japanese,Q7850;Q5287
 Chiefly Ottoman Turkish with Persian and Arabic vocabulary and headings in Arabic,ota;ara;per,Persian;Arabic;Ottoman Turkish,Q9168;Q13955;Q36730
 chu,chu,Church Slavonic,Q33251
 Church Slavic,chu,Church Slavonic,Q33251
+"Church Slavic, Church Slavonic, Old Bulgarian, Old Church Slavonic, Old Slavonic",chu,Church Slavonic;Old Church Slavonic,Q33251;Q35499
 Church Slavonic,,Church Slavonic,Q33251
 "Condition in Middle English, obligation in Latin, and later summary in English",enm;lat;eng,Middle English;Latin;English,Q36395;Q397;Q1860
 cop,cop,Coptic,Q36155
+Coptic,cop,Coptic,Q36155
 cze,cze,Czech,Q9056
 Czech,,Czech,Q9056
 dan,dan,Danish,Q9035
 Danish,,Danish,Q9035
+dum,dum,Middle Dutch,Q178806
+dum;lat,dum;lat,Middle Dutch;Latin,Q178806;Q397
 dut,dut,Dutch,Q7411
 Dutch,,Dutch,Q7411
 Dutch,dut,Dutch,Q7411
+"Dutch, Flemish",dut,Dutch;Flemish,Q7411;Q34147
 Dutch; Latin,,Dutch;Latin,Q7411;Q397
 Dutch; Latin; French,,Dutch;Latin;French,Q7411;Q397;Q150
 East Middle Dutch,,Middle Dutch,Q178806
+egy,egy,Egyptian,Q50868
+Egyptian (Ancient),egy,Egyptian,Q50868
 eng,eng,English,Q1860
 eng;dut;gre;lat,eng;dut;gre;lat,English;Dutch;Greek;Latin,Q1860;Q7411;Q9129;Q397
 eng;fre,eng;fre,English;French,Q1860;Q150
@@ -69,6 +97,7 @@ eng;ita;lat,eng;ita;lat,English;Italian;Latin,Q1860;Q652;Q397
 eng;lat,eng;lat,English;Latin,Q1860;Q397
 eng;lat;spa,eng;lat;spa,English;Latin;Spanish,Q1860;Q397;Q1321
 eng;spa,eng;spa,English;Spanish,Q1860;Q1321
+English,eng,English,Q1860
 English,,English,Q1860
 "English, with a few words in Latin",eng;lat,English;Latin,Q1860;Q397
 "English, with a fragment from a document in Latin (f. 76-78)",eng;lat,English;Latin,Q1860;Q397
@@ -81,14 +110,18 @@ English; Old French; Latin,,English;Old French;Latin,Q1860;Q35222;Q397
 English.,,English,Q1860
 English (Northern dialect),,English;Northern English,Q1860;Q1321639
 enm,enm,Middle English,Q36395
+enm;lat,enm;lat,Middle English;Latin,Q36395;Q397
 Ethiopic,gez,Ge'ez,Q35667
 Flemish,,Flemish,Q34147
 fre,fre,French,Q150
 French,,French,Q150
 French,fre,French,Q150
 French,frm,French,Q150
+"French, Middle (ca.1300-1600)",frm,Middle French,Q1473289
+"French, Middle (ca. 1300-1600), Latin",frm;lat,Middle French;Latin,Q1473289;Q397
 "French, Middle (ca. 1300-1600), Latin.",,Middle French;Latin,Q1473289;Q397
 "French, Middle (ca.1300-1600).",,Middle French,Q1473289
+"French, Old (ca. 842-1300)",fro,Old French,Q35222
 "French, Old (ca. 842-1300)",,Old French,Q35222
 "French, with citations and margin notes in Latin",fre;lat,French;Latin,Q150;Q397
 French; English; Italian; Latin; Spanish,,French;English;Italian;Latin;Spanish,Q150;Q1860;Q652;Q397;Q1321
@@ -111,14 +144,18 @@ German,ger,German,Q188
 "German, with some letters in Latin",ger;lat,German;Latin,Q188;Q397
 German; French; Spanish; Flemish; Italian,,German;French;Spanish;Flemish;Italian,Q188;Q150;Q1321;Q34147;Q652
 German; Italian; Latin,,German;Italian;Latin,Q188;Q652;Q397
+German; Latin,ger;lat,German;Latin,Q188;Q397
 German; Latin,,German;Latin,Q188;Q397
 German; liturgical text on covers in Latin,ger;lat,German;Latin,Q188;Q397
 German (Middle High German),,German;Middle High German,Q188;Q837985
 German with Latin calendar and colophon,gmh;lat,German;Latin,Q188;Q397
 gez,gez,Ge'ez,Q35667
 gmh,gmh,Middle High German,Q837985
+goh,goh,Old High German,Q35218
 grc,grc,Ancient Greek,Q35497
 gre,gre,Greek,Q9129
+Greek,;grc,Greek,Q9129
+Greek,;gre,Greek,Q9129
 Greek,,Greek,Q9129
 Greek,grc,Greek,Q9129
 "Greek, with Greek and Latin annotations",grc;lat,Greek;Greek;Latin,Q9129;Q9129;Q397
@@ -126,26 +163,38 @@ Greek;,,Greek,Q9129
 Greek; Latin,,Greek;Latin,Q9129;Q397
 Greek.,,Greek,Q9129
 Greek (modern),,Modern Greek,Q36510
+Greek and Arabic,grc;gre;ara,Greek;Arabic,Q9129;Q13955
 heb,heb,Hebrew,Q9288
 Hebrew,,Hebrew,Q9288
 Hebrew,heb,Hebrew,Q9288
 "Hebrew, with occasional notes in Italian (f. 22r, 24v, 26v, 27v, 82v, 83v)",heb;ita,Hebrew;Italian,Q9288;Q652
 "Hebrew, with one interlinear glossed word in Latin (f. 54r)",heb;lat,Hebrew;Latin,Q9288;Q397
+Hebrew; Aramaic,heb;arc,Hebrew;Aramaic,Q9288;Q28602
 Hebrew; Aramaic,,Hebrew;Aramaic,Q9288;Q28602
 Hebrew; introduction in Italian,heb;ita,Hebrew;Italian,Q9288;Q652
 Hebrew; Latin,,Hebrew;Latin,Q9288;Q397
 Hebrew.,,Hebrew,Q9288
 Hebrew (vocalized),heb,Hebrew,Q9288
 Hebrew (vocalized and with accents),heb,Hebrew,Q9288
+Hebrew and Aramaic,;heb;arc,Hebrew;Aramaic,Q9288;Q28602
 Hebrew and Aramaic.,,Hebrew;Aramaic,Q9288;Q28602
 Hebrew and Latin,heb;lat,Hebrew;Latin,Q9288;Q397
+Homiletic texts in Old English. Calendar and gospels in Latin. Some English additions,ang;lat;eng,Old English;Latin;English,Q42365;Q397;Q1860
 ice,ice,Icelandic,Q294
 Icelandic,,Icelandic,Q294
+In Arabic,,Arabic,Q13955
+In Arabic,ara,Arabic,Q13955
+"In Arabic, Persian, Ottoman Turkish, and Greek",;ara;per;gre;ota,Arabic;Persian;Ottoman Turkish;Greek,Q13955;Q9168;Q36730;Q9129
+"In Arabic, some notes in Persian",;ara;per,Arabic;Persian,Q13955;Q9168
+In Arabic with some fawāʼid in Persian,;ara;per,Arabic;Persian,Q13955;Q9168
 In Catalan,cat,Catalan,Q7026
+In Chinese,chi,Chinese,Q7850
+"In Chinese, with Japanese reading marks",jpn,Chinese;Japanese,Q7850;Q5287
 "In Coptic, with a few marginal notations of later date in Arabic and German",cop;ara;ger,Coptic;Arabic;German,Q36155;Q13955;Q188
 In Danish,dan,Danish,Q9035
 In Dutch,dut,Dutch,Q7411
 "In English, with endorsement in Latin",eng;lat,English;Latin,Q1860;Q397
+In English and Marquesan,,English;Marquesan,Q1860;Q33781
 In English and Marquesan.,,English;Marquesan,Q1860;Q33781
 In Flemish,lat,Flemish,Q34147
 In French,fre,French,Q150
@@ -155,6 +204,7 @@ In German,ger,German,Q188
 "In German, with Latin phrase",ger;lat,German;Latin,Q188;Q397
 In Greek,grc,Greek,Q9129
 In Hebrew,heb,Hebrew,Q9288
+In Hebrew with Aramaic translation,heb;arc,Hebrew;Aramaic,Q9288;Q28602
 In Icelandic,ice,Icelandic,Q294
 In Italian,ita,Italian,Q652
 "In Italian, Latin, and Spanish",ita;lat;spa,Italian;Latin;Spanish,Q652;Q397;Q1321
@@ -169,6 +219,7 @@ In Italian,ita,Italian,Q652
 "In Italian, with two leaves in Latin",ita;lat,Italian;Latin,Q652;Q397
 In Italian and Latin,ita,Italian;Latin,Q652;Q397
 In Italian and Latin,ita;lat,Italian;Latin,Q652;Q397
+In Latin,,Latin,Q397
 In Latin,dut,Latin,Q397
 In Latin,eng,Latin,Q397
 In Latin,lat,Latin,Q397
@@ -189,7 +240,9 @@ In Latin (highly abbreviated),lat,Latin,Q397
 In Latin and Italian,lat;ita,Latin;Italian,Q397;Q652
 In Latin and Middle French,lat;frm,Latin;Middle French,Q397;Q1473289
 In Latin with extensive rubrics in German,lat;ger,Latin;German,Q397;Q188
+In Middle Dutch,dut,Middle Dutch,Q178806
 In Middle English,enm,Middle English,Q36395
+In Middle English and Latin,;enm;lat,Middle English;Latin,Q36395;Q397
 In Middle English and Latin.,,Middle English;Latin,Q36395;Q397
 In Middle French,frm,Middle French,Q1473289
 In Middle French,fre,Middle French,Q1473289
@@ -211,6 +264,7 @@ Italian,eng,Italian,Q652
 "Italian, in the Venetian dialect; list of indulgences in Latin (f. 56r-61v)",ita;lat,Italian;Venetian;Latin,Q652;Q32724;Q397
 "Italian, in Tuscan dialect",ita,Italian;Tuscan,Q652;Q1990745
 "Italian, last item in Latin",ita;lat,Italian;Latin,Q652;Q397
+"Italian, Latin",ita;lat,Italian;Latin,Q652;Q397
 "Italian, Latin",,Italian;Latin,Q652;Q397
 "Italian, Latin, and Spanish",ita;lat;spa,Italian;Latin;Spanish,Q652;Q397;Q1321
 "Italian, Latin, Spanish",,Italian;Latin;Spanish,Q652;Q397;Q1321
@@ -239,6 +293,7 @@ Italian,eng,Italian,Q652
 "Italian, with three documents in Latin (f.7-8 and f.37)",ita;lat,Italian;Latin,Q652;Q397
 Italian; English,,Italian;English,Q652;Q1860
 Italian; French,,Italian;French,Q652;Q150
+Italian; Latin,ita;lat,Italian;Latin,Q652;Q397
 Italian; Latin,,Italian;Latin,Q652;Q397
 Italian; Latin; Hebrew (some notes),,Italian;Latin;Hebrew,Q652;Q397;Q9288
 Italian; Latin; Spanish,,Italian;Latin;Spanish,Q652;Q397;Q1321
@@ -257,24 +312,38 @@ Italian and Spanish,ita;spa,Italian;Spanish,Q652;Q1321
 Italian with a short section in Latin (f. 49r-49v),ita;lat,Italian;Latin,Q652;Q397
 Japanese,,Japanese,Q5287
 Javanese,,Javanese,Q33549
+jpn,jpn,Japanese,Q5287
 jrb,jrb,Judeo-Arabic,Q37733
 "Judeo-Arabic, with a brief work in Hebrew (f. 25r-39v); notes in Samaritan (f. 1v-7v, 21r-22v, 3 bifolia laid in after f. 22v, marginal notes as on f. 281v), Arabic (f. 1r, marginal notes on Samaritan bifolia), and Latin letters (f. 20v, 25v, 238r, 239v)",jrb;heb;sam,Arabic;Hebrew;Samaritan Hebrew;Arabic;Samaritan Hebrew;Latin,Q13955;Q9288;Q56502;Q13955;Q56502;Q397
+kor,kor,Korean,Q9176
 lad,lad,Judaeo-Spanish,Q36196
 Ladino,lad,Judaeo-Spanish,Q36196
 Language: Latin. Cover flyleaf and rear board contain notes written in Italian,lat,Italian;Latin,Q652;Q397
 lat,lat,Latin,Q397
+lat;dum,lat;dum,Latin;Middle Dutch,Q397;Q178806
+lat;dut,lat;dut,Latin;Dutch,Q397;Q7411
 lat;eng,lat;eng,Latin;English,Q397;Q1860
 lat;enm,lat;enm,Latin;Middle English,Q397;Q36395
 lat;frm,lat;frm,Latin;Middle French,Q397;Q1473289
+lat;frm;fre,lat;frm;fre,Latin;Middle French;French,Q397;Q1473289;Q150
+lat;ger,lat;ger,Latin;German,Q397;Q188
 lat;ger;cze,lat;ger;cze,Latin;German;Czech,Q397;Q188;Q9056
+lat;gmh,lat;gmh,Latin;Middle High German,Q397;Q837985
+lat;grc;frm,lat;grc;frm,Latin;Ancient Greek;Middle French,Q397;Q35497;Q1473289
 lat;ita,lat;ita,Latin;Italian,Q397;Q652
+lat;nds,lat;nds,Latin;Low German,Q397;Q25433
 lat;xno;frm,lat;xno;frm,Latin;Anglo-Norman;Middle French,Q397;Q35214;Q1473289
+Latin,ita,Latin,Q397
+Latin,frm,Latin,Q397
 Latin,,Latin,Q397
+Latin,;lat,Latin,Q397
 LAtin,,Latin,Q397
 Latin,lat,Latin,Q397
 Latin,lat;ita,Latin,Q397
 "Latin, except for one document in Italian",lat;ita,Latin;Italian,Q397;Q652
+"Latin, French",lat;fre,Latin;French,Q397;Q150
 "Latin, French",,Latin;French,Q397;Q150
+"Latin, French; later annotations in Italian",lat;fre,Latin;French;Italian,Q397;Q150;Q652
 "Latin, French; later annotations in Italian",,Latin;French;Italian,Q397;Q150;Q652
 "Latin, German",,Latin;German,Q397;Q188
 "Latin, Italian",,Latin;Italian,Q397;Q652
@@ -342,7 +411,9 @@ Latin,lat;ita,Latin,Q397
 "Latin, with words and names in Ancient Greek and Hebrew",lat;grc;heb,Latin;Ancient Greek;Hebrew,Q397;Q35497;Q9288
 "Latin, with words transcribed from Arabic",lat,Latin;Arabic,Q397;Q13955
 Latin;,,Latin,Q397
+Latin; accompanying materials in Latin and Italian,lat,Latin;Latin;Italian,Q397;Q397;Q652
 Latin; accompanying materials in Latin and Italian.,,Latin;Latin;Italian,Q397;Q397;Q652
+Latin; Ancient Greek (to 1453); Middle French (ca. 1400-1600),lat;grc;frm,Latin;Ancient Greek;Middle French,Q397;Q35497;Q1473289
 Latin; Anglo-Norman,,Latin;Anglo-Norman,Q397;Q35214
 Latin; Anglo-Norman; Middle English,,Latin;Anglo-Norman;Middle English,Q397;Q35214;Q36395
 Latin; Anglo-Norman; Middle French (ca. 1400-1600),lat;xno;frm,Latin;Anglo-Norman;Middle French,Q397;Q35214;Q1473289
@@ -354,12 +425,14 @@ Latin; Catalan,,Latin;Catalan,Q397;Q7026
 Latin; Czech; German; Arabic; Polish,,Latin;Czech;German;Arabic;Polish,Q397;Q9056;Q188;Q13955;Q809
 Latin; Czech; German; Hebrew,,Latin;Czech;German;Hebrew,Q397;Q9056;Q188;Q9288
 Latin; Dutch,,Latin;Dutch,Q397;Q7411
+"Latin; Dutch, Flemish",lat;dut,Latin;Dutch;Flemish,Q397;Q7411;Q34147
 Latin; English,,Latin;English,Q397;Q1860
 Latin; English,lat;eng,Latin;English,Q397;Q1860
 Latin; English; Czech,,Latin;English;Czech,Q397;Q1860;Q9056
 Latin; English; French,,Latin;English;French,Q397;Q1860;Q150
 Latin; English; Welsh,,Latin;English;Welsh,Q397;Q1860;Q9309
 Latin; Flemish,,Latin;Flemish,Q397;Q34147
+Latin; French,lat;fre,Latin;French,Q397;Q150
 Latin; French,,Latin;French,Q397;Q150
 Latin; French; Dutch,,Latin;French;Dutch,Q397;Q150;Q7411
 Latin; French; English,,Latin;French;English,Q397;Q150;Q1860
@@ -368,10 +441,13 @@ Latin; French; Middle English,,Latin;French;Middle English,Q397;Q150;Q36395
 Latin; French.,,Latin;French,Q397;Q150
 "Latin; French (calendar, prayers ff. 156r-165v, and rubrics)",,Latin;French,Q397;Q150
 Latin; French (calendar and rubrics),,Latin;French,Q397;Q150
+Latin; German,lat,Latin;German,Q397;Q188
+Latin; German,lat;ger,Latin;German,Q397;Q188
 Latin; German,,Latin;German,Q397;Q188
 Latin; German; French,,Latin;German;French,Q397;Q188;Q150
 Latin; German; French; English,,Latin;German;French;English,Q397;Q188;Q150;Q1860
 Latin; German.,,Latin;German,Q397;Q188
+Latin; Greek,lat,Latin;Greek,Q397;Q9129
 Latin; Greek,,Latin;Greek,Q397;Q9129
 Latin; Greek; Dutch,,Latin;Greek;Dutch,Q397;Q9129;Q7411
 Latin; Greek; Hebrew; English,,Latin;Greek;Hebrew;English,Q397;Q9129;Q9288;Q1860
@@ -388,27 +464,41 @@ Latin; Italian; French; Spanish,,Latin;Italian;French;Spanish,Q397;Q652;Q150;Q13
 Latin; Italian; Spanish,,Latin;Italian;Spanish,Q397;Q652;Q1321
 Latin; Italian.,,Latin;Italian,Q397;Q652
 Latin; Law French,,Latin;Law French,Q397;Q2044323
+Latin; Law French; Anglicana,lat,Latin;Law French,Q397;Q2044323
 Latin; Law French; Anglicana.,,Latin;Law French,Q397;Q2044323
 Latin; Law French; Middle English,,Latin;Law French;Middle English,Q397;Q2044323;Q36395
 Latin; Low German,,Latin;Low German,Q397;Q25433
+"Latin; Low German, Low Saxon",lat;nds,Latin;Low German;Low Saxon,Q397;Q25433;Q168446
+Latin; Middle Dutch (ca. 1050-1350),lat;dum,Latin;Middle Dutch,Q397;Q178806
 Latin; Middle English,,Latin;Middle English,Q397;Q36395
 Latin; Middle French,,Latin;Middle French,Q397;Q1473289
 Latin; Middle-French,,Latin;Middle French,Q397;Q1473289
 Latin; Middle French (ca. 1400-1600),lat;frm,Latin;Middle French,Q397;Q1473289
+Latin; Middle French (ca. 1400-1600); French,lat;frm;fre,Latin;Middle French;French,Q397;Q1473289;Q150
+Latin; Middle High German (ca. 1050-1500),lat;gmh,Latin;Middle High German,Q397;Q837985
+Latin; Occitan,lat,Latin;Occitan,Q397;Q14185
 Latin; Occitan,,Latin;Occitan,Q397;Q14185
+Latin; Old English,lat;ang,Latin;Old English,Q397;Q42365
 Latin; Old English,,Latin;Old English,Q397;Q42365
+Latin; Old High German,lat,Latin;Old High German,Q397;Q35218
+Latin; Old High German,goh,Latin;Old High German,Q397;Q35218
 Latin; Old High German,,Latin;Old High German,Q397;Q35218
 Latin; Rhenish,,Latin;Rhine Franconian,Q397;Q707007
 Latin; Spanish,,Latin;Spanish,Q397;Q1321
+Latin; with some Greek,lat;gre,Latin;Greek,Q397;Q9129
+Latin; with some Italian,lat;ita,Latin;Italian,Q397;Q652
+Latin; with some Middle English,lat;enm,Latin;Middle English,Q397;Q36395
 Latin.,,Latin,Q397
 "Latin (f. 1r-56v), with some Spanish (f. 78r-169v) and sections of German",lat;spa;ger,Latin;Spanish;German,Q397;Q1321;Q188
 Latin (f. 1r-5r) and Italian with rubrics in Latin (f. 5v-20r),lat;ita,Latin;Italian,Q397;Q652
 "Latin (f. 1r-77r, and table of contents, f. 88v) and French (f. 77v-88v)",fre;lat,Latin;French,Q397;Q150
+Latin and French,;lat;fre,Latin;French,Q397;Q150
 Latin and French,,Latin;French,Q397;Q150
 Latin and French,lat;fre,Latin;French,Q397;Q150
 Latin and French.,,Latin;French,Q397;Q150
 Latin and German (lower Alemannic with middle German idioms),lat;ger,Latin;German;Central German,Q397;Q188;Q704841
 Latin and Greek,,Latin;Greek,Q397;Q9129
+Latin and Italian,;lat;ita,Latin;Italian,Q397;Q652
 Latin and Italian,,Latin;Italian,Q397;Q652
 Latin and Italian,lat;ita,Latin;Italian,Q397;Q652
 Latin and Italian,lat,Latin;Italian,Q397;Q652
@@ -428,6 +518,8 @@ Law French,,Law French,Q2044323
 Low German,,Low German,Q25433
 Low German,nds,Low German,Q25433
 Middle Dutch,,Middle Dutch,Q178806
+Middle Dutch (ca. 1050-1350),dum,Middle Dutch,Q178806
+Middle Dutch (ca. 1050-1350); Latin,dum;lat,Middle Dutch;Latin,Q178806;Q397
 Middle English,,Middle English,Q36395
 Middle English,enm,Middle English,Q36395
 Middle English,eng;enm,Middle English,Q36395
@@ -436,8 +528,10 @@ Middle English,eng;enm,Middle English,Q36395
 "Middle English, with some Latin notations",enm,Middle English;Latin,Q36395;Q397
 Middle English; Latin,,Middle English;Latin,Q36395;Q397
 Middle English; Latin; French,,Middle English;Latin;French,Q36395;Q397;Q150
+Middle English; prefatory matter in Latin,;enm;lat,Middle English;Latin,Q36395;Q397
 Middle English; some works in Latin,enm;lat,Middle English;Latin,Q36395;Q397
 Middle English.,,Middle English,Q36395
+Middle English (1100-1500); Latin,enm;lat,Middle English;Latin,Q36395;Q397
 Middle English and Latin,enm;lat,Middle English;Latin,Q36395;Q397
 Middle French,,Middle French,Q1473289
 Middle French,frm,Middle French,Q1473289
@@ -446,6 +540,7 @@ Middle French,fro,Middle French,Q1473289
 Middle French,fre,Middle French,Q1473289
 "Middle French, with some sections in Latin (f. 77r-81v, 85v-87r, 93r-98r, 137v, 141r)",frm;lat,Middle French;Latin,Q1473289;Q397
 "Middle French, with verses in Old French",frm;fro,Middle French;Old French,Q1473289;Q35222
+Middle French (ca. 1400-1600),frm,Middle French,Q1473289
 Middle French (ca. 1400-1600); Latin,frm;lat,Middle French;Latin,Q1473289;Q397
 Middle French and Latin,frm,Middle French;Latin,Q1473289;Q397
 Middle High German,,Middle High German,Q837985
@@ -458,6 +553,10 @@ Middle High German (ca. 1050-1500),gmh,Middle High German,Q837985
 Middle Scots,,Middle Scots,Q3327000
 "Mostly German, with benedictions in Latin (f. 22v-23r)",ger;lat,German;Latin,Q188;Q397
 "Mostly in German, with significant sections of the text in Latin. Some notations on the front and back end-leaves (dating from later than the text itself) are in Latin",ger,German;Latin;Latin,Q188;Q397;Q397
+mul,mul,multiple languages,Q20923490
+mul;grc;cop,mul;grc;cop,multiple languages;Ancient Greek;Coptic,Q20923490;Q35497;Q36155
+myn,myn,Yucatec Maya,Q13354
+mynspa,mynspa,Yucatec Maya;Spanish,Q13354;Q1321
 Nahuatl; Spanish,,Nahuatl;Spanish,Q13300;Q1321
 nds,nds,Low German,Q25433
 "No linguistic content, Not applicable",zxx,no linguistic content,Q22282939
@@ -466,14 +565,19 @@ Occitan,,Occitan,Q14185
 oci,oci,Occitan,Q14185
 Old Church Slavonic,,Old Church Slavonic,Q35499
 Old English,,Old English,Q42365
+Old English; Latin,ang;lat,Old English;Latin,Q42365;Q397
 Old English; Latin,,Old English;Latin,Q42365;Q397
 Old French,,Old French,Q35222
 Old French,fro,Old French,Q35222
 "Old French, last section has some Latin",fro;lat,Old French;Latin,Q35222;Q397
 Old French (842-ca. 1400),fro,Old French,Q35222
+One article in Dutch,jpn;dut,Dutch,Q7411
 ota,ota,Ottoman Turkish,Q36730
+ota;ara,ota;ara,Ottoman Turkish;Arabic,Q36730;Q13955
+Ottoman Turkish,;ota,Ottoman Turkish,Q36730
 Ottoman Turkish,ota,Ottoman Turkish,Q36730
 Ottoman Turkish.,,Ottoman Turkish,Q36730
+Ottoman Turkish and Arabic,;ota;ara,Ottoman Turkish;Arabic,Q36730;Q13955
 Ottoman Turkish and Arabic.,,Ottoman Turkish;Arabic,Q36730;Q13955
 Ottoman Turkish and Persian,ota;per,Ottoman Turkish;Persian,Q36730;Q9168
 Ottoman Turkish and Persian with some Arabic quotations and headings,ota;per;ara,Ottoman Turkish;Persian;Arabic,Q36730;Q9168;Q13955
@@ -486,6 +590,7 @@ Persian,,Persian,Q9168
 Persian,per,Persian,Q9168
 Persian,ara,Persian,Q9168
 Persian.,,Persian,Q9168
+Persian and Arabic,;ara;per,Persian;Arabic,Q9168;Q13955
 Persian and Arabic,per;ara,Persian;Arabic,Q9168;Q13955
 Persian and Arabic.,,Persian;Arabic,Q9168;Q13955
 Persian translations and commentary with Arabic source-text,per,Persian;Arabic,Q9168;Q13955
@@ -514,6 +619,7 @@ Sicilian,,Sicilian,Q33973
 sla,sla,Slavic,Q23526
 "Some items in Latin, some in Italian",lat;ita,Latin;Italian,Q397;Q652
 spa,spa,Spanish,Q1321
+spa;lat,spa;lat,Spanish;Latin,Q1321;Q397
 Spanish,,Spanish,Q1321
 Spanish,spa,Spanish,Q1321
 "Spanish, with heading in Latin",spa,Spanish;Latin,Q1321;Q397
@@ -521,17 +627,34 @@ Spanish,spa,Spanish,Q1321
 Spanish; Latin,,Spanish;Latin,Q1321;Q397
 Spanish; Nahuatl,,Spanish;Nahuatl,Q1321;Q13300
 Spanish (Valencian dialect),,Spanish;Valencian,Q1321;Q32641
+syr,syr,Syriac,Q33538
 Syriac,,Syriac,Q33538
 Tamil,,Tamil,Q5885
 Tashelhit / Shilha,ber,Shilha,Q34152
+Text in Anglo-Saxon,ang,Old English,Q42365
+Text in Greek,,Greek,Q9129
 Text in Greek.,,Greek,Q9129
+Text in Hebrew,heb,Hebrew,Q9288
+Text in Hebrew and Aramaic,,Hebrew;Aramaic,Q9288;Q28602
 Text in Hebrew and Aramaic.,,Hebrew;Aramaic,Q9288;Q28602
+Text in K'iche' and Spanish,;myn;spa,K’iche’;Spanish,Q36494;Q1321
+Text in K'iche' and Spanish,;mynspa,K’iche’;Spanish,Q36494;Q1321
 Text in K'iche' and Spanish.,,K’iche’;Spanish,Q36494;Q1321
 Text in Korean,,Korean,Q9176
 Text in Latin,lat,Latin,Q397
+Text in Middle English and Latin,;enm;lat,Middle English;Latin,Q36395;Q397
 Text in Middle English and Latin.,,Middle English;Latin,Q36395;Q397
 Text in Old French,fro,Old French,Q35222
+Text in Syriac,syr,Syriac,Q33538
+Text in Yucatec with some Spanish,;myn;spa,Yucatec Maya;Spanish,Q13354;Q1321
 Text in Yucatec with some Spanish.,,Yucatec Maya;Spanish,Q13354;Q1321
+Texts in English,enm,English,Q1860
+Texts in Latin,lat,Latin,Q397
+Texts in Latin and English,lat,Latin;English,Q397;Q1860
+Translated from the Persian,;ara,Persian,Q9168
+Turkish in Arabic script,;ota,Turkish;Arabic,Q256;Q13955
+Turkish in Arabic script,,Turkish;Arabic,Q256;Q13955
+"Turkish in Arabic script, Persian and Arabic",;ota;per;ara,Turkish;Arabic;Persian;Arabic,Q256;Q13955;Q9168;Q13955
 und,und,undetermined language,Q22282914
 und;eng,und;eng,undetermined language;English,Q22282914;Q1860
 Unidentified Cipher,,undetermined language,Q22282914

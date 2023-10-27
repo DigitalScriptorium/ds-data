@@ -1,0 +1,47 @@
+language_as_recorded,language_code,authorized_label,structured_value
+Dutch,dut,Dutch,Q7411
+English,eng,English,Q1860
+French,fre,French,Q150
+"French, Middle (ca. 1300-1600), Latin",frm;lat,Middle French;Latin,Q1473289;Q397
+"French, Middle (ca.1300-1600)",frm,Middle French,Q1473289
+"French, Old (ca. 842-1300)",fro,Old French,Q35222
+German,ger,German,Q188
+German; Latin,ger;lat,German;Latin,Q188;Q397
+Greek,gre,Greek,Q9129
+Hebrew; Aramaic,heb;arc,Hebrew;Aramaic,Q9288;Q28602
+Italian,ita,Italian,Q652
+Italian and Latin,ita;lat,Italian;Latin,Q652;Q397
+"Italian, Latin",ita;lat,Italian;Latin,Q652;Q397
+Italian; Latin,ita;lat,Italian;Latin,Q652;Q397
+Latin,lat,Latin,Q397
+Latin,ita,Latin,Q397
+Latin,frm,Latin,Q397
+"Latin, French",lat;fre,Latin;French,Q397;Q150
+"Latin, French; later annotations in Italian",lat;fre,Latin;French;Italian,Q397;Q150;Q652
+Latin; French,lat;fre,Latin;French,Q397;Q150
+Latin; German,lat,Latin;German,Q397;Q188
+Latin; German,lat;ger,Latin;German,Q397;Q188
+Latin; Greek,lat,Latin;Greek,Q397;Q9129
+Latin; Italian,lat;ita,Latin;Italian,Q397;Q652
+Latin; Law French; Anglicana,lat,Latin;Law French,Q397;Q2044323
+Latin; Occitan,lat,Latin;Occitan,Q397;Q14185
+Latin; Old English,lat;ang,Latin;Old English,Q397;Q42365
+Latin; Old High German,lat,Latin;Old High German,Q397;Q35218
+Latin; Old High German,goh,Latin;Old High German,Q397;Q35218
+Latin; accompanying materials in Latin and Italian,lat,Latin;Latin;Italian,Q397;Q397;Q652
+Middle English,enm,Middle English,Q36395
+Old English; Latin,ang;lat,Old English;Latin,Q42365;Q397
+ang,ang,"",""
+arc,arc,"",""
+dut,dut,Dutch,Q7411
+eng,eng,English,Q1860
+enm,enm,Middle English,Q36395
+fre,fre,French,Q150
+frm,frm,Middle French,Q1473289
+fro,fro,Old French,Q35222
+ger,ger,German,Q188
+goh,goh,"",""
+gre,gre,Greek,Q9129
+heb,heb,Hebrew,Q9288
+ita,ita,Italian,Q652
+lat,lat,Latin,Q397
