@@ -34,7 +34,7 @@ Apocryphal and legendary literature,fast,,Apocryphal and legendary literature,ht
 Apologetic writings,fast,,Apologetic writings,http://id.worldcat.org/fast/1423698
 Apologetic writings,lcgft,,Apologetic writings,http://id.worldcat.org/fast/1423698
 Archives,fast,,Archives,http://id.worldcat.org/fast/1423700
-Armorial bindings (Binding),rbbin,,Armorial bindings ,http://id.loc.gov/vocabulary/rbmscv/cv00132
+Armorial bindings (Binding),rbbin,,Armorial bindings,http://id.loc.gov/vocabulary/rbmscv/cv00132
 Art,fast,,Art,http://id.worldcat.org/fast/815177
 Art,lcgft,,Art,http://id.worldcat.org/fast/815177
 Articles of incorporation,aat,,articles of incorporation,http://vocab.getty.edu/aat/300027597
@@ -82,7 +82,7 @@ Bylaws,aat,,bylaws (administrative records),http://vocab.getty.edu/aat/300027433
 Bylaws (administrative records),aat,,bylaws (administrative records),http://vocab.getty.edu/aat/300027433
 Calendars (documents by form),aat,,calendars (documents),http://vocab.getty.edu/aat/300026741
 Calendars--14th century,rbgenr,,Calendars;Fourteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01058;http://id.worldcat.org/fast/933420
-Calf bindings (Binding),rbbin,,Calf bindings ,http://id.loc.gov/vocabulary/rbmscv/cv00454
+Calf bindings (Binding),rbbin,,Calf bindings,http://id.loc.gov/vocabulary/rbmscv/cv00454
 Calf bindings (Binding)--17th century,rbbin,,Calf bindings ;Seventeenth century,http://id.loc.gov/vocabulary/rbmscv/cv00454;http://id.worldcat.org/fast/1113663
 Calf bindings (Binding)--18th century,rbbin,,Calf bindings ;Eighteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00454;http://id.worldcat.org/fast/904058
 Calf bindings (Binding)--19th century,rbbin,,Calf bindings ;Nineteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00454;http://id.worldcat.org/fast/1037841
@@ -242,7 +242,7 @@ Glossaries,aat,,glossaries,http://vocab.getty.edu/aat/300026189
 "Glossaries, vocabularies, etc",fast,,"Glossaries, vocabularies, etc.",http://id.worldcat.org/fast/1423786
 Glossed Bibles,aat,,glossed Bibles,http://vocab.getty.edu/aat/300263404
 Glosses (annotations),aat,,glosses (annotations),http://vocab.getty.edu/aat/300211708
-Goatskin bindings (Binding),rbbin,,Goatskin bindings ,http://id.loc.gov/vocabulary/rbmscv/cv00547
+Goatskin bindings (Binding),rbbin,,Goatskin bindings,http://id.loc.gov/vocabulary/rbmscv/cv00547
 Goatskin bindings (Binding)--14th century,rbbin,,Goatskin bindings ;Fourteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00547;http://id.worldcat.org/fast/933420
 Gold-tooled (decoration),lobt,,gold-tooled (decoration),http://w3id.org/lob/concept/1371
 Gold tooled bindings (Binding),rbbin,,Gold tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00551
@@ -301,7 +301,7 @@ Illuminated manuscripts--11th century,aat,,illuminated manuscripts;Eleventh cent
 Illuminated manuscripts--12th century,aat,,illuminated manuscripts;Twelfth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1159791
 Illuminated manuscripts--14th century,aat,,illuminated manuscripts;Fourteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/933420
 Illuminated manuscripts--16th century,aat,,illuminated manuscripts;Sixteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1119851
-Illuminated manuscripts--Belgium--Mons--15th century,aat,,illuminated manuscripts;;Belgium--Mons;Fifteenth century,http://vocab.getty.edu/aat/300265483;;http://id.worldcat.org/fast/1206359;http://id.worldcat.org/fast/923962
+Illuminated manuscripts--Belgium--Mons--15th century,aat,,illuminated manuscripts;Belgium--Mons;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1206359;http://id.worldcat.org/fast/923962
 Illuminated manuscripts--England--14th century,aat,,illuminated manuscripts;England;Fourteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/933420
 Illuminated manuscripts--England--15th century,aat,,illuminated manuscripts;England;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/923962
 Illuminated manuscripts--France--12th century,aat,,illuminated manuscripts;France;Twelfth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1159791
@@ -575,7 +575,7 @@ Missals,rbgenr,,Missals,http://id.loc.gov/vocabulary/rbmscv/cv01605
 Missals,aat,,missals,http://vocab.getty.edu/aat/300026472
 Missals (Service books),fast,,Missals (Service books),http://id.worldcat.org/fast/1920241
 Missals (Service books),lcgft,,Missals (Service books),http://id.worldcat.org/fast/1920241
-Morocco bindings (Binding),rbbin,,Morocco bindings ,http://id.loc.gov/vocabulary/rbmscv/cv00548
+Morocco bindings (Binding),rbbin,,Morocco bindings,http://id.loc.gov/vocabulary/rbmscv/cv00548
 Morocco bindings (Binding)--17th century,rbbin,,Morocco bindings ;Seventeenth century,http://id.loc.gov/vocabulary/rbmscv/cv00548;http://id.worldcat.org/fast/1113663
 Morocco bindings (Binding)--18th century,rbbin,,Morocco bindings ;Eighteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00548;http://id.worldcat.org/fast/904058
 Morocco bindings (Binding)--19th century,rbbin,,Morocco bindings ;Nineteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00548;http://id.worldcat.org/fast/1037841
@@ -696,7 +696,7 @@ Romances (literary genre),aat,,romances (medieval narratives),http://vocab.getty
 Romances (medieval narratives),aat,,romances (medieval narratives),http://vocab.getty.edu/aat/300191065
 Rotunda (script),aat,,rotunda (script),http://vocab.getty.edu/aat/300417901
 Rules,fast,,Rules,http://id.worldcat.org/fast/1423857
-Russia leather (Binding),rbbin,,Russia leather ,http://id.loc.gov/vocabulary/rbmscv/cv00692
+Russia leather (Binding),rbbin,,Russia leather,http://id.loc.gov/vocabulary/rbmscv/cv00692
 Russia leather (Binding)--18th century,rbbin,,Russia leather ;Eighteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00692;http://id.worldcat.org/fast/904058
 Russia leather bindings (Binding)--19th century,rbbin,,Russia leather bindings ;Nineteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00692;http://id.worldcat.org/fast/1037841
 Sacred books,fast,,Sacred books,http://id.worldcat.org/fast/1423905
@@ -799,7 +799,7 @@ Wills,aat,,wills,http://vocab.getty.edu/aat/300027764
 Wills--England--10th century,aat,,wills;England;Tenth century,http://vocab.getty.edu/aat/300027764;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/1147737
 Woodcuts (prints),aat,,woodcuts (prints),http://vocab.getty.edu/aat/300041405
 Wooden bindings (Binding),rbbin,,Wooden bindings,http://id.loc.gov/vocabulary/rbmscv/cv00600
-Wooden boards (Binding),rbbbin,,Wooden boards ,http://id.loc.gov/vocabulary/rbmscv/cv00601
+Wooden boards (Binding),rbbbin,,Wooden boards,http://id.loc.gov/vocabulary/rbmscv/cv00601
 Wooden boards (Binding),rbbin,,Wooden boards,http://id.loc.gov/vocabulary/rbmscv/cv00601
 Wooden boards (Binding)--14th century,rbbin,,Wooden boards ;Fourteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00601;http://id.worldcat.org/fast/933420
 Wooden boards (Bindings),rbbin,,Wooden boards,http://id.loc.gov/vocabulary/rbmscv/cv00601
