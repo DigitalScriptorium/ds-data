@@ -87,20 +87,11 @@ East Middle Dutch,,Middle Dutch,Q178806
 egy,egy,Egyptian,Q50868
 Egyptian (Ancient),egy,Egyptian,Q50868
 eng,eng,English,Q1860
-eng;dut,eng;dut,English;Dutch,Q1860;Q7411
 eng;dut;gre;lat,eng;dut;gre;lat,English;Dutch;Greek;Latin,Q1860;Q7411;Q9129;Q397
-eng;dut;lat,eng;dut;lat,English;Dutch;Latin,Q1860;Q7411;Q397
-eng;enm,eng;enm,English;Middle English,Q1860;Q36395
 eng;fre,eng;fre,English;French,Q1860;Q150
 eng;fre;ger;lat,eng;fre;ger;lat,English;French;German;Latin,Q1860;Q150;Q188;Q397
 eng;fre;gre;heb;lat,eng;fre;gre;heb;lat,English;French;Greek;Hebrew;Latin,Q1860;Q150;Q9129;Q9288;Q397
-eng;fre;lat,eng;fre;lat,English;French;Latin,Q1860;Q150;Q397
-eng;ger,eng;ger,English;German,Q1860;Q188
-eng;ger;lat,eng;ger;lat,English;German;Latin,Q1860;Q188;Q397
-eng;gre,eng;gre,English;Greek,Q1860;Q9129
-eng;gre;heb;lat,eng;gre;heb;lat,English;Greek;Hebrew;Latin,Q1860;Q9129;Q9288;Q397
 eng;gre;lat,eng;gre;lat,English;Greek;Latin,Q1860;Q9129;Q397
-eng;heb,eng;heb,English;Hebrew,Q1860;Q9288
 eng;ita,eng;ita,English;Italian,Q1860;Q652
 eng;ita;lat,eng;ita;lat,English;Italian;Latin,Q1860;Q652;Q397
 eng;lat,eng;lat,English;Latin,Q1860;Q397
@@ -123,7 +114,6 @@ enm;lat,enm;lat,Middle English;Latin,Q36395;Q397
 Ethiopic,gez,Ge'ez,Q35667
 Flemish,,Flemish,Q34147
 fre,fre,French,Q150
-fre;lat,fre;lat,French;Latin,Q150;Q397
 French,,French,Q150
 French,fre,French,Q150
 French,frm,French,Q150
@@ -229,7 +219,6 @@ In Italian,ita,Italian,Q652
 "In Italian, with two leaves in Latin",ita;lat,Italian;Latin,Q652;Q397
 In Italian and Latin,ita,Italian;Latin,Q652;Q397
 In Italian and Latin,ita;lat,Italian;Latin,Q652;Q397
-In Italian with some Latin,ita;it;lat,Italian;Latin,Q652;Q397
 In Latin,,Latin,Q397
 In Latin,dut,Latin,Q397
 In Latin,eng,Latin,Q397
@@ -243,13 +232,11 @@ In Latin,ita,Latin,Q397
 "In Latin, with later summaries in French (verso)",lat;fre,Latin;French,Q397;Q150
 "In Latin, with some documents in Italian",lat;ita,Latin;Italian,Q397;Q652
 "In Latin, with some documents in Italian and Spanish",ita;lat;spa,Latin;Italian;Spanish,Q397;Q652;Q1321
-"In Latin, with some French",lat,Latin;French,Q397;Q150
 "In Latin, with some Hungarian and Turkish",lat,Latin;Hungarian;Turkish,Q397;Q9067;Q256
 "In Latin, with some Italian (f. 1r)",lat;ita,Latin;Italian,Q397;Q652
 "In Latin, with the words of the bride and groom and the note of the bride's brother in Middle English",lat,Latin;Middle English,Q397;Q36395
 In Latin.,,Latin,Q397
 In Latin (highly abbreviated),lat,Latin,Q397
-In Latin and French,lat;fre,Latin;French,Q397;Q150
 In Latin and Italian,lat;ita,Latin;Italian,Q397;Q652
 In Latin and Middle French,lat;frm,Latin;Middle French,Q397;Q1473289
 In Latin with extensive rubrics in German,lat;ger,Latin;German,Q397;Q188
@@ -267,9 +254,7 @@ In Sanskrit,san,Sanskrit,Q11059
 In Spanish,spa,Spanish,Q1321
 In Spanish with two quotations in Latin (f. 3v),spa;lat,Spanish;Latin,Q1321;Q397
 In Valencian Catalan,cat,Valencian,Q32641
-it,it,Italian,Q652
 ita,ita,Italian,Q652
-ita;lat,ita;lat,Italian;Latin,Q652;Q397
 Italian,,Italian,Q652
 Italian,ita,Italian,Q652
 Italian,eng,Italian,Q652
@@ -333,14 +318,12 @@ jrb,jrb,Judeo-Arabic,Q37733
 kor,kor,Korean,Q9176
 lad,lad,Judaeo-Spanish,Q36196
 Ladino,lad,Judaeo-Spanish,Q36196
-"Language: Latin, English, and Anglo-Norman",mul;lat;eng;fre,Latin;English;Anglo-Norman,Q397;Q1860;Q35214
 Language: Latin. Cover flyleaf and rear board contain notes written in Italian,lat,Italian;Latin,Q652;Q397
 lat,lat,Latin,Q397
 lat;dum,lat;dum,Latin;Middle Dutch,Q397;Q178806
 lat;dut,lat;dut,Latin;Dutch,Q397;Q7411
 lat;eng,lat;eng,Latin;English,Q397;Q1860
 lat;enm,lat;enm,Latin;Middle English,Q397;Q36395
-lat;fre,lat;fre,Latin;French,Q397;Q150
 lat;frm,lat;frm,Latin;Middle French,Q397;Q1473289
 lat;frm;fre,lat;frm;fre,Latin;Middle French;French,Q397;Q1473289;Q150
 lat;ger,lat;ger,Latin;German,Q397;Q188
@@ -349,7 +332,6 @@ lat;gmh,lat;gmh,Latin;Middle High German,Q397;Q837985
 lat;grc;frm,lat;grc;frm,Latin;Ancient Greek;Middle French,Q397;Q35497;Q1473289
 lat;ita,lat;ita,Latin;Italian,Q397;Q652
 lat;nds,lat;nds,Latin;Low German,Q397;Q25433
-lat;spa,lat;spa,Latin;Spanish,Q397;Q1321
 lat;xno;frm,lat;xno;frm,Latin;Anglo-Norman;Middle French,Q397;Q35214;Q1473289
 Latin,ita,Latin,Q397
 Latin,frm,Latin,Q397
