@@ -11,7 +11,6 @@ subject_as_recorded,subfield_codes,vocab,source_authority_uri,authorized_label,s
 17th century.,a,fast,,Seventeenth century,http://id.worldcat.org/fast/1113663
 18th century.,a,fast,,Eighteenth century,http://id.worldcat.org/fast/904058
 600-1500,a,fast,,500-1500,http://id.worldcat.org/fast/1355938
-"Abbazia di Santa Giustina (Padua, Italy)--Manuscripts--Early works to 1800.",a--x--v,0,,"Abbazia di Santa Giustina (Padua, Italy);Manuscripts;Early works",http://id.worldcat.org/fast/544580;http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1411636
 Absalom (Biblical figure),a;c,fast,http://id.worldcat.org/fast/1801890,Absalom (Biblical figure),http://id.worldcat.org/fast/1801890
 Absalom (Biblical figure),a;c,0,http://id.loc.gov/authorities/names/n88240985,Absalom (Biblical figure),http://id.worldcat.org/fast/1801890
 "Abū al-Jaysh, Muḥammad ibn Ḥusayn, -1228 or 1229. ʻArūḍ al-Andalusī.",a;d;t,0,,"ʻArūḍ al-Andalusī (Abū al-Jaysh, Muḥammad ibn Ḥusayn)",http://id.worldcat.org/fast/2058679
@@ -144,34 +143,18 @@ Benavides family--Drama.,a--v,0,,Benavides family;Drama,http://id.worldcat.org/f
 "Benedict, Saint, Abbot of Monte Cassino. Regula--Commentaries.",a;c;t--v,0,,"Regula (Benedict, Saint, Abbot of Monte Cassino);Commentaries",http://id.worldcat.org/fast/1357012;http://id.worldcat.org/fast/1423723
 "Benedict, Saint, Abbot of Monte Cassino. Regula--Criticism and interpretation.",a;c;t--x,0,,"Regula (Benedict, Saint, Abbot of Monte Cassino);Criticism and interpretation",http://id.worldcat.org/fast/1357012;http://id.worldcat.org/fast/1198648
 "Benedict, Saint, Abbot of Monte Cassino--Early works to 1800.",a;c--v,0,,"Benedict, Saint, Abbot of Monte Cassino;Early works",http://id.worldcat.org/fast/33151;http://id.worldcat.org/fast/1411636
-"Benedict, Saint Abbot of Monte Cassino. Regula.",a;c;t,0,,"Regula (Benedict, Saint, Abbot of Monte Cassino)",http://id.worldcat.org/fast/1357012
 Benedictines.,a,fast,http://id.worldcat.org/fast/553736,Benedictines,http://id.worldcat.org/fast/553736
 Benedictines.,a,0,http://id.loc.gov/authorities/names/n81012408,Benedictines,http://id.worldcat.org/fast/553736
-Benedictines--Flanders.,a--z,0,,Benedictines;Europe--Flanders,http://id.worldcat.org/fast/553736;http://id.worldcat.org/fast/1245991
-Benedictines--France--Early works to 1800.,a--z--x,0,,Benedictines;France;Early works,http://id.worldcat.org/fast/553736;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1411636
-Benedictines--Italy--Manuscripts.,a--z--x,0,,Benedictines;Italy;Manuscripts,http://id.worldcat.org/fast/553736;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1424060
 Benedictines--Liturgy.,a--x,0,,Benedictines;Liturgics,http://id.worldcat.org/fast/553736;http://id.worldcat.org/fast/1000579
-Benedictines--Liturgy--Early works to 1800.,a--x--v,0,,Benedictines;Liturgics;Early works,http://id.worldcat.org/fast/553736;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1411636
-Benedictines--Liturgy--Manuscripts--Early works to 1800.,a--x--x--v,0,,Benedictines;Liturgics;Manuscripts;Early works,http://id.worldcat.org/fast/553736;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1411636
-Benedictines--Netherlands--Early works to 1800.,a--z--v,0,,Benedictines;Netherlands;Early works,http://id.worldcat.org/fast/553736;http://id.worldcat.org/fast/1204034;http://id.worldcat.org/fast/1411636
-Benedictines--Privileges and immunities--Texts.,a--x--v,0,,Benedictines;Privileges and immunities;Texts,http://id.worldcat.org/fast/553736;http://id.worldcat.org/fast/1774297;http://id.worldcat.org/fast/1423705
-Benedictines--Rules--Manuscripts--Texts.,a--x--x--v,0,,Benedictines;Rules;Manuscripts;Texts,http://id.worldcat.org/fast/553736;http://id.worldcat.org/fast/1423857;http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1423705
-"Bernardino, da Siena, Saint, 1380-1444--Portraits.",a;c;d--x,0,,"Bernardino, da Siena, Saint, 1380-1444;Portraits",http://id.worldcat.org/fast/2411;http://id.worldcat.org/fast/1423831
-"Berry, Jean de France, duc de, 1340-1416--Finance, Personal.",a;c;d--x,0,,"Berry, Jean de France, duc de, 1340-1416;Finance, Personal",http://id.worldcat.org/fast/2074;http://id.worldcat.org/fast/924449
 Bible.,a,fast,http://id.worldcat.org/fast/1356024,Bible,http://id.worldcat.org/fast/1356024
 Bible.,a,0,http://id.loc.gov/authorities/names/n00020514,Bible,http://id.worldcat.org/fast/1356024
-Bible. Acts--Commentaries--Early works to 1800.,a;p--x--v,0,,Bible. Acts;Commentaries;Early works,http://id.worldcat.org/fast/1892885;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636
-Bible. Acts--Paraphrases--Early works to 1800.,a;p--x--v,0,,Bible. Acts;Paraphrases;Early works,http://id.worldcat.org/fast/1892885;http://id.worldcat.org/fast/1423839;http://id.worldcat.org/fast/1411636
 "Bible. Corinthians, 2nd",a;p,fast,http://id.worldcat.org/fast/1892892,"Bible. Corinthians, 2nd",http://id.worldcat.org/fast/1892892
 "Bible. Corinthians, 2nd--Criticism, interpretation, etc.--Early works to 1800.",a;p--x--v,0,,"Bible. Corinthians, 2nd;Criticism and interpretation;Early works",http://id.worldcat.org/fast/1892892;http://id.worldcat.org/fast/1198648;http://id.worldcat.org/fast/1411636
 Bible.--English (Middle English)--Versions--Wycliffe.,a--l--x--x,0,http://id.loc.gov/authorities/subjects/sh85013746,Bible;English language--Middle English,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1710955
-Bible. Esther--Manuscripts--Early works to 1800.,a;p--x--v,0,,Bible. Esther;Manuscripts;Early works,http://id.worldcat.org/fast/1892901;http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1411636
 Bible. Exodus,a;p,fast,http://id.worldcat.org/fast/1892902,Bible. Exodus,http://id.worldcat.org/fast/1892902
 Bible. Exodus--Commentaries--Early works to 1800.,a;p--v--v,0,,Bible. Exodus;Commentaries;Early works,http://id.worldcat.org/fast/1892902;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636
 Bible. Genesis,a;p,fast,http://id.worldcat.org/fast/1808046,Bible. Genesis,http://id.worldcat.org/fast/1808046
 Bible. Genesis,a;p,0,http://id.loc.gov/authorities/names/n80017837,Bible. Genesis,http://id.worldcat.org/fast/1808046
-Bible. Genesis--Commentaries--Early works to 1800.,a;p--v--v,0,,Bible. Genesis;Commentaries;Early works,http://id.worldcat.org/fast/1808046;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636
-"Bible. Genesis--Criticism, interpretation, etc.--Early works to 1800.",a;p--x--v,0,,Bible. Genesis;Criticism and interpretation;Early works,http://id.worldcat.org/fast/1808046;http://id.worldcat.org/fast/1198648;http://id.worldcat.org/fast/1411636
 "Bible. Genesis--Paraphrases, Italian.",a;p--v,0,,Bible. Genesis;Paraphrases,http://id.worldcat.org/fast/1808046;http://id.worldcat.org/fast/1423839
 Bible. Gospels,a;p,fast,http://id.worldcat.org/fast/1808065,Bible. Gospels,http://id.worldcat.org/fast/1808065
 Bible. Gospels,a;p,0,http://id.loc.gov/authorities/names/n79063688,Bible. Gospels,http://id.worldcat.org/fast/1808065
@@ -180,9 +163,7 @@ Bible. Gospels--Early works to 1800.,a;p--v,0,,Bible. Gospels;Early works,http:/
 Bible. Gospels--Early works to 1800.,a;p--v,0,,Bible. Gospels;Early works,http://id.worldcat.org/fast/1808065;http://id.worldcat.org/fast/1411636
 Bible. Gospels--Sermons--Early works to 1800.,a;p--x--v,0,,Bible. Gospels;Sermons;Early works,http://id.worldcat.org/fast/1808065;http://id.worldcat.org/fast/1113216;http://id.worldcat.org/fast/1411636
 Bible. Isaiah,a;p,fast,(OCoLC)fst01808068,Bible. Isaiah,http://id.worldcat.org/fast/1808068
-Bible. Isaiah--Commentaries.,a;p--v,0,,Bible. Isaiah;Commentaries,http://id.worldcat.org/fast/1808068;http://id.worldcat.org/fast/1423723
 Bible. Isaiah--Commentaries--Early works to 1800.,a;p--v--v,0,(uri) http://id.loc.gov/authorities/names/n80002952--(uri) http://viaf.org/viaf/sourceID/LC%7cn80002952,Bible. Isaiah;Commentaries;Early works,http://id.worldcat.org/fast/1808068;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636
-"Bible. Isaiah--Criticism, interpretation, etc.--Early works to 1800.",a;p--x--v,0,,Bible. Isaiah;Criticism and interpretation;Early works,http://id.worldcat.org/fast/1808068;http://id.worldcat.org/fast/1198648;http://id.worldcat.org/fast/1411636
 Bible. Job--Commentaries--Early works to 1800.,a;p--v--v,0,,Bible. Job;Commentaries;Early works,http://id.worldcat.org/fast/1892916;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636
 Bible. John,a;p,0,http://id.loc.gov/authorities/names/n79060414,Bible. John,http://id.worldcat.org/fast/1696638
 Bible. John,a;p,fast,http://id.worldcat.org/fast/1696638,Bible. John,http://id.worldcat.org/fast/1696638
@@ -199,12 +180,9 @@ Bible. Matthew.,a;p,0,,Bible. Matthew,http://id.worldcat.org/fast/1808086
 Bible. Matthew--Commentaries--Early works to 1800.,a;p--v--v,0,,Bible. Matthew;Commentaries;Early works,http://id.worldcat.org/fast/1808086;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636
 Bible. Matthew--Early works to 1800.,a;p--v,0,,Bible. Matthew;Early works,http://id.worldcat.org/fast/1808086;http://id.worldcat.org/fast/1411636
 Bible. New Testament--Commentaries--Early works to 1800.,a;p--v--v,0,,Bible. New Testament;Commentaries;Early works,http://id.worldcat.org/fast/1808090;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636
-"Bible. New Testament--Criticism, interpretation, etc.",a;p--x,0,,Bible. New Testament;Criticism and interpretation,http://id.worldcat.org/fast/1808090;http://id.worldcat.org/fast/1198648
 Bible. Numbers.,a;p,fast,(OCoLC)fst01892933,Bible. Numbers,http://id.worldcat.org/fast/1892933
 Bible. Numbers--Commentaries--Early works to 1800.,a;p--x--v,0,,Bible. Numbers;Commentaries;Early works,http://id.worldcat.org/fast/1892933;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636
 Bible. Old Testament,a;p,fast,http://id.worldcat.org/fast/1808092,Bible. Old Testament,http://id.worldcat.org/fast/1808092
-Bible. Old Testament.--French.,a;p--l,0,,Bible. Old Testament;French language,http://id.worldcat.org/fast/1808092;http://id.worldcat.org/fast/934333
-Bible. Old Testament--Abridgements.,a;p--x,0,,Bible. Old Testament;Abridgments,http://id.worldcat.org/fast/1808092;http://id.worldcat.org/fast/1726571
 "Bible. Old Testament--Manuscripts, Hebrew.",a;p--x,0,,"Bible. Old Testament;Manuscripts, Hebrew",http://id.worldcat.org/fast/1808092;http://id.worldcat.org/fast/1008360
 Bible. Pentateuch,a;p,fast,http://id.worldcat.org/fast/1808093,Bible. Pentateuch,http://id.worldcat.org/fast/1808093
 "Bible. Pentateuch--Criticism, interpretation, etc.--Early works to 1800.",a;p--x--v,0,,Bible. Pentateuch;Criticism and interpretation;Early works,http://id.worldcat.org/fast/1808093;http://id.worldcat.org/fast/1198648;http://id.worldcat.org/fast/1411636
@@ -215,9 +193,7 @@ Bible. Psalms,a;p,0,http://id.loc.gov/authorities/names/n79056804,Bible. Psalms,
 "Bible. Psalms, CXIX--Commentaries--Early works to 1800.",a;p--v--v,0,,Bible. Psalms;Commentaries;Early works,http://id.worldcat.org/fast/1808097;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636
 "Bible. Psalms--Criticism, interpretation, etc.",a;p--x,0,,Bible. Psalms;Criticism and interpretation,http://id.worldcat.org/fast/1808097;http://id.worldcat.org/fast/1198648
 "Bible. Psalms--Criticism, interpretation, etc.--Early works to 1800.",a;p--x--v,0,,Bible. Psalms;Criticism and interpretation;Early works,http://id.worldcat.org/fast/1808097;http://id.worldcat.org/fast/1198648;http://id.worldcat.org/fast/1411636
-Bible. Psalms--Criticism and interpretation.,a;p--x,0,,Bible. Psalms;Criticism and interpretation,http://id.worldcat.org/fast/1808097;http://id.worldcat.org/fast/1198648
 Bible. Psalms--Poetry.,a;p--v,0,,Bible. Psalms;Poetry,http://id.worldcat.org/fast/1808097;http://id.worldcat.org/fast/1423828
-Bible. Revelation--Sermons.,a;p--v,0,,Bible. Revelation;Sermons,http://id.worldcat.org/fast/1892943;http://id.worldcat.org/fast/1423904
 Bible. Romans,a;p,0,http://id.loc.gov/authorities/names/n79026730,Bible. Romans,http://id.worldcat.org/fast/1892944
 Bible. Romans,a;p,fast,http://id.worldcat.org/fast/1892944,Bible. Romans,http://id.worldcat.org/fast/1892944
 Bible. Song of Solomon,a;p,fast,http://id.worldcat.org/fast/1892948,Bible. Song of Solomon,http://id.worldcat.org/fast/1892948
@@ -235,12 +211,9 @@ Bible--Dictionaries.,a--v,0,http://id.loc.gov/authorities/subjects/sh85013633,Bi
 "Bible--Glossaries, vocabularies, etc.",a--v,0,,"Bible;Glossaries, vocabularies, etc.",http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1423786
 Bible--History of Biblical events--Early works to 1800.,a--x--v,0,,Bible;History of Biblical events;Early works,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1865053;http://id.worldcat.org/fast/1411636
 Bible--History of Biblical events--Poetry.,a--x--v,0,http://id.loc.gov/authorities/subjects/sh85013657,Bible;History of Biblical events;Poetry,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1865053;http://id.worldcat.org/fast/1423828
-Bible--Manuscripts.,a--x,0,,Bible;Manuscripts,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1424060
 Bible--Paraphrases.,a--v,0,http://id.loc.gov/authorities/subjects/sh85013693,Bible;Paraphrases,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1423839
 Bible--Paraphrases--Early works to 1800.,a--v--v,0,,Bible;Paraphrases;Early works,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1423839;http://id.worldcat.org/fast/1411636
-Bible--Picture Bibles--Early works to 1800.,a--v--v,0,,Bible;Early works,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1411636
 Bible--Reading--Early works to 1800.,a--x--v,0,(uri) http://id.loc.gov/authorities/names/n00020514--(uri) http://viaf.org/viaf/sourceID/LC%7cn00020514,Bible;Reading;Early works,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1090626;http://id.worldcat.org/fast/1411636
-Bible--Versification--Early works to 1800.,a--x--v,0,,Bible;Versification;Early works,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1165529;http://id.worldcat.org/fast/1411636
 "Birgivî Mehmet Efendi, approximately 1522-1573. Iẓhār al-asrār.",a;d;t,0,,Iẓhār al-asrār (Birgivî Mehmet Efendi),http://id.worldcat.org/fast/2057905
 "Blaise, Saint, -approximately 316.",a;c;d,0,http://id.loc.gov/authorities/names/n86062161,"Blaise, Saint, -approximately 316",http://id.worldcat.org/fast/1808451
 "Blaise, Saint, -approximately 316.",a;c;d,fast,http://id.worldcat.org/fast/1808451,"Blaise, Saint, -approximately 316",http://id.worldcat.org/fast/1808451
@@ -342,15 +315,12 @@ Catholic Church--Foreign relations--Spain.,a--x--z,0,,Catholic Church;Internatio
 Catholic Church--Foreign relations--Turkey.,a--x--z,0,,Catholic Church;International relations;Turkey,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/977053;http://id.worldcat.org/fast/1208963
 Catholic Church--France--Douai--Finance.,a--z--z--x,0,,Catholic Church;France--Douai;Finance,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1213826;http://id.worldcat.org/fast/924349
 Catholic Church--France--History--To 1500.,a--z--x--y,0,,Catholic Church;France;History,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/958235
-Catholic Church--Germany--Liturgy--Early works to 1800.,a--z--x--v,0,,Catholic Church;Germany;Liturgics;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1411636
-Catholic Church--Germany--Sermons--Early works to 1800.,a--z--x--v,0,,Catholic Church;Germany;Sermons;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/1113216;http://id.worldcat.org/fast/1411636
 Catholic Church--Government.,a--x,0,http://id.loc.gov/authorities/subjects/sh85021112,Catholic Church;Politics and government,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1919741
 Catholic Church--History.,a--x,0,http://id.loc.gov/authorities/subjects/sh85021115,Catholic Church;History,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1411628
 Catholic Church--History--13th century.,a--x--y,0,,Catholic Church;History;Thirteenth century,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1411628;http://id.worldcat.org/fast/1150138
 Catholic Church--History--14th century.,a--x--y,0,,Catholic Church;History;Fourteenth century,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1411628;http://id.worldcat.org/fast/933420
 Catholic Church--History--15th century.,a--x--y,0,,Catholic Church;History;Fifteenth century,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1411628;http://id.worldcat.org/fast/923962
 Catholic Church--History--16th century.,a--x--y,0,http://id.loc.gov/authorities/subjects/sh85021116,Catholic Church;History;Sixteenth century,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1411628;http://id.worldcat.org/fast/1119851
-Catholic Church--Hymns--Early works to 1800.,a--x--v,0,,Catholic Church;Hymns;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1423701;http://id.worldcat.org/fast/1411636
 Catholic Church--Hymns--Texts--Early works to 1800.,a--v--v--v,0,,Catholic Church;Hymns;Texts;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1423701;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636
 Catholic Church--Italy--Finance.,a--z--x,0,,Catholic Church;Italy;Finance,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/924349
 Catholic Church--Italy--Tuscany--History.,a--z--z--x,0,,Catholic Church;Italy--Tuscany;History,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1204477;http://id.worldcat.org/fast/1411628
@@ -359,7 +329,6 @@ Catholic Church--Liturgy.,a--x,0,http://id.loc.gov/authorities/subjects/sh850211
 Catholic Church--Liturgy--Calendar--Early works to 1800.,a--x--v--v,0,,Catholic Church;Liturgics;Calendars;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423764;http://id.worldcat.org/fast/1411636
 Catholic Church--Liturgy--Calendar--Early works to 1800.,a--x--v--v,0,,Catholic Church;Liturgics;Calendars;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423764;http://id.worldcat.org/fast/1411636
 Catholic Church--Liturgy--Early works to 1800.,a--x--v,0,,Catholic Church;Liturgics;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1411636
-Catholic Church--Liturgy--Manuscripts--Texts.,a--x--x--v,0,,Catholic Church;Liturgics;Manuscripts;Texts,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1423705
 Catholic Church--Liturgy--Texts.,a--x--v,0,http://id.loc.gov/authorities/subjects/sh85021135,Catholic Church;Liturgics;Texts,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705
 Catholic Church--Liturgy--Texts--Early works to 1800.,a--x--v--v,0,,Catholic Church;Liturgics;Texts;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636
 Catholic Church--Liturgy--Texts--Early works to 1800.,a--x--v--v,0,,Catholic Church;Liturgics;Texts;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636
@@ -375,17 +344,13 @@ Catholic Church--Sermons.,a--v,0,http://id.loc.gov/authorities/subjects/sh850211
 Catholic Church--Sermons--Early works to 1800.,a--v--v,0,,Catholic Church;Sermons;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1423904;http://id.worldcat.org/fast/1411636
 "Catholic Church--Societies, etc.",a--x,0,http://id.loc.gov/authorities/subjects/sh85021174,Catholic Church;Societies,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1123785
 Catholic Church--Spain--Aragon.,a--z--z,0,,Catholic Church;Spain--Aragon,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1227604
-Catholic Church--Theology--Early works to 1800.,a--x--v,0,,Catholic Church;Theology;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1149559;http://id.worldcat.org/fast/1411636
 "Catholic Church--Theology--Middle Ages, 600-1500.",a--x--y,0,,Catholic Church;Theology;500-1500,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1149559;http://id.worldcat.org/fast/1355938
 "Catiline, approximately 108 B.C.-62 B.C.",a;d,0,http://id.loc.gov/authorities/names/n79026681,"Catiline, approximately 108 B.C.-62 B.C.",http://id.worldcat.org/fast/1811802
 "Catiline, approximately 108 B.C.-62 B.C.",a;d,fast,http://id.worldcat.org/fast/1811802,"Catiline, approximately 108 B.C.-62 B.C.",http://id.worldcat.org/fast/1811802
 "Cecco, d'Ascoli, 1269-1327.",a;c;d,fast,http://id.worldcat.org/fast/77327,"Cecco, d'Ascoli, 1269-1327",http://id.worldcat.org/fast/77327
 "Cecco, d'Ascoli, 1269-1327.",a;c;d,0,http://id.loc.gov/authorities/names/n81089867,"Cecco, d'Ascoli, 1269-1327",http://id.worldcat.org/fast/77327
-Celestines--Early works to 1800.,a--v,0,,Celestines;Early works,http://id.worldcat.org/fast/597998;http://id.worldcat.org/fast/1411636
-Celestines--Manuscripts.,a--x,0,,Celestines;Manuscripts,http://id.worldcat.org/fast/597998;http://id.worldcat.org/fast/1424060
 "Cesare d'Este, Duke of Modena and Reggio, 1552-1628.",a;c;d,0,http://id.loc.gov/authorities/names/n90683516,"Cesare d'Este, Duke of Modena and Reggio, 1552-1628",http://id.worldcat.org/fast/274432
 "Cesare d'Este, Duke of Modena and Reggio, 1552-1628.",a;c;d,fast,http://id.worldcat.org/fast/274432,"Cesare d'Este, Duke of Modena and Reggio, 1552-1628",http://id.worldcat.org/fast/274432
-"Charlemagne, Emperor, 742-814.",a;c;d,0,,"Charlemagne, Emperor, 742-814",http://id.worldcat.org/fast/34181
 "Charles, Duke of Burgundy, 1433-1477.",a;c;d,0,http://id.loc.gov/authorities/names/n80056901,"Charles, Duke of Burgundy, 1433-1477",http://id.worldcat.org/fast/54638
 "Charles, Duke of Burgundy, 1433-1477.",a;c;d,fast,http://id.worldcat.org/fast/54638,"Charles, Duke of Burgundy, 1433-1477",http://id.worldcat.org/fast/54638
 "Charles I, 1516-1556.",a,fast,,1516-1556,http://id.worldcat.org/fast/1355580
@@ -393,7 +358,6 @@ Celestines--Manuscripts.,a--x,0,,Celestines;Manuscripts,http://id.worldcat.org/f
 "Charles V, 1519-1556.",a,fast,,1519-1556,http://id.worldcat.org/fast/1355581
 "Charles V, Holy Roman Emperor, 1500-1558.",a;b;c;d,fast,http://id.worldcat.org/fast/43382,"Charles V, Holy Roman Emperor, 1500-1558",http://id.worldcat.org/fast/43382
 "Charles V, Holy Roman Emperor, 1500-1558.",a;b;c;d,0,http://id.loc.gov/authorities/names/n79112289,"Charles V, Holy Roman Emperor, 1500-1558",http://id.worldcat.org/fast/43382
-"Charles V, Holy Roman Emperor, 1500-1558--Correspondence.",a;b;c;d--v,0,,"Charles V, Holy Roman Emperor, 1500-1558;Correspondence",http://id.worldcat.org/fast/43382;http://id.worldcat.org/fast/2003288
 "Charles VI, King of France, 1368-1422.",a;b;c;d,0,http://id.loc.gov/authorities/names/n80123242,"Charles VI, King of France, 1368-1422",http://id.worldcat.org/fast/61233
 "Charles VI, King of France, 1368-1422.",a;b;c;d,fast,http://id.worldcat.org/fast/61233,"Charles VI, King of France, 1368-1422",http://id.worldcat.org/fast/61233
 "Charles VIII, King of France, 1470-1498.",a;b;c;d,fast,http://id.worldcat.org/fast/102718,"Charles VIII, King of France, 1470-1498",http://id.worldcat.org/fast/102718
@@ -412,7 +376,6 @@ Cistercians.,a,fast,http://id.worldcat.org/fast/554661,Cistercians,http://id.wor
 Cistercians--Liturgy--Texts.,a--x--v,0,,Cistercians;Liturgics;Texts,http://id.worldcat.org/fast/554661;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705
 Cistercians--Rules--Early works to 1800.,a--x--v,0,,Cistercians;Rules;Early works,http://id.worldcat.org/fast/554661;http://id.worldcat.org/fast/1423857;http://id.worldcat.org/fast/1411636
 "Clare, of Assisi, Saint, 1194-1253.",a;c;d,fast,http://id.worldcat.org/fast/109466,"Clare, of Assisi, Saint, 1194-1253",http://id.worldcat.org/fast/109466
-"Clare, of Assisi, Saint, 1194-1253--Early works to 1800.",a;c;d--v,0,,"Clare, of Assisi, Saint, 1194-1253;Early works",http://id.worldcat.org/fast/109466;http://id.worldcat.org/fast/1411636
 "Clare, of Assisi, Saint, 1194-1253--Legends--Early works to 1800.",a;c;d--v--v,0,,"Clare, of Assisi, Saint, 1194-1253;Legends;Early works",http://id.worldcat.org/fast/109466;http://id.worldcat.org/fast/1423803;http://id.worldcat.org/fast/1411636
 "Clement VII, Pope, 1478-1534.",a;b;c;d,0,http://id.loc.gov/authorities/names/n88002890,"Clement VII, Pope, 1478-1534",http://id.worldcat.org/fast/232633
 "Clement VII, Pope, 1478-1534.",a;b;c;d,fast,http://id.worldcat.org/fast/232633,"Clement VII, Pope, 1478-1534",http://id.worldcat.org/fast/232633
@@ -462,13 +425,8 @@ Demetrius. On style.,a;t,0,http://id.loc.gov/authorities/names/n96059487,On styl
 Dominicans.,a,fast,http://id.worldcat.org/fast/533548,Dominicans,http://id.worldcat.org/fast/533548
 Dominicans.,a,0,http://id.loc.gov/authorities/names/n79063273,Dominicans,http://id.worldcat.org/fast/533548
 Dominicans--England.,a--z,0,,Dominicans;England,http://id.worldcat.org/fast/533548;http://id.worldcat.org/fast/1219920
-Dominicans--Germany--Early works to 1800.,a--z--v,0,,Dominicans;Germany;Early works,http://id.worldcat.org/fast/533548;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/1411636
 Dominicans--In art.,a--v,0,,Dominicans,http://id.worldcat.org/fast/533548
 Dominicans--Liturgy.,a--x,0,,Dominicans;Liturgics,http://id.worldcat.org/fast/533548;http://id.worldcat.org/fast/1000579
-Dominicans--Liturgy--Early works to 1800.,a--x--v,0,,Dominicans;Liturgics;Early works,http://id.worldcat.org/fast/533548;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1411636
-Dominicans--Liturgy--Manuscripts.,a--x--x,0,,Dominicans;Liturgics;Manuscripts,http://id.worldcat.org/fast/533548;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1424060
-Dominicans--Liturgy--Manuscripts--Early works to 1800.,a--x--x--v,0,,Dominicans;Liturgics;Manuscripts;Early works,http://id.worldcat.org/fast/533548;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1411636
-Dominicans--Manuscripts.,a--x,0,,Dominicans;Manuscripts,http://id.worldcat.org/fast/533548;http://id.worldcat.org/fast/1424060
 Dominicans--Sermons--Early works to 1800.,a--x--v,0,,Dominicans;Sermons;Early works,http://id.worldcat.org/fast/533548;http://id.worldcat.org/fast/1113216;http://id.worldcat.org/fast/1411636
 "Domitian, Emperor of Rome, 51-96.",a;c;d,fast,http://id.worldcat.org/fast/39095,"Domitian, Emperor of Rome, 51-96",http://id.worldcat.org/fast/39095
 "Domitian, Emperor of Rome, 51-96--Drama.",a;c;d--v,0,,"Domitian, Emperor of Rome, 51-96;Drama",http://id.worldcat.org/fast/39095;http://id.worldcat.org/fast/1423879
@@ -525,25 +483,18 @@ Flavian family--Drama.,a--v,0,,Flavian family;Drama,http://id.worldcat.org/fast/
 "Foix, Pierre de, 1386-1464.",a;d,0,http://id.loc.gov/authorities/names/n78001791,"Foix, Pierre de, 1386-1464",http://id.worldcat.org/fast/21749
 Fortuna (Roman deity),a;c,0,http://id.loc.gov/authorities/names/n2014070334,Fortuna (Roman deity),http://id.worldcat.org/fast/933052
 Fortuna (Roman deity),a;c,fast,http://id.worldcat.org/fast/933052,Fortuna (Roman deity),http://id.worldcat.org/fast/933052
-France. Marine,a;b,0,,France. Marine,http://id.worldcat.org/fast/572933
 "Francesco I, Grand-Duke of Tuscany, 1541-1587.",a;b;c;d,0,http://id.loc.gov/authorities/names/n79043909,"Francesco I, Grand-Duke of Tuscany, 1541-1587",http://id.worldcat.org/fast/34274
 "Francesco I, Grand-Duke of Tuscany, 1541-1587.",a;b;c;d,fast,http://id.worldcat.org/fast/34274,"Francesco I, Grand-Duke of Tuscany, 1541-1587",http://id.worldcat.org/fast/34274
 "Francesco Sforza, Duke of Milan, 1401-1466.",a;c;d,0,http://id.loc.gov/authorities/names/n82024667,"Francesco Sforza, Duke of Milan, 1401-1466",http://id.worldcat.org/fast/87572
 "Francesco Sforza, Duke of Milan, 1401-1466.",a;c;d,fast,http://id.worldcat.org/fast/87572,"Francesco Sforza, Duke of Milan, 1401-1466",http://id.worldcat.org/fast/87572
 "Francis, of Assisi, Saint, 1182-1226.",a;c;d,fast,http://id.worldcat.org/fast/29126,"Francis, of Assisi, Saint, 1182-1226",http://id.worldcat.org/fast/29126
 "Francis, of Assisi, Saint, 1182-1226--Art.",a;c;d--v,0,http://id.loc.gov/authorities/subjects/sh85051529,"Francis, of Assisi, Saint, 1182-1226;Art",http://id.worldcat.org/fast/29126;http://id.worldcat.org/fast/1423702
-"Francis, of Assisi, Saint, 1182-1226--Early works to 1800.",a;c;d--v,0,,"Francis, of Assisi, Saint, 1182-1226;Early works",http://id.worldcat.org/fast/29126;http://id.worldcat.org/fast/1411636
 "Francis, of Assisi, Saint, 1182-1226--Legends--Early works to 1800.",a;c;d--v--v,0,,"Francis, of Assisi, Saint, 1182-1226;Legends;Early works",http://id.worldcat.org/fast/29126;http://id.worldcat.org/fast/1423803;http://id.worldcat.org/fast/1411636
 Franciscans.,a,0,http://id.loc.gov/authorities/names/n79015671,Franciscans,http://id.worldcat.org/fast/530004
 Franciscans.,a,fast,http://id.worldcat.org/fast/530004,Franciscans,http://id.worldcat.org/fast/530004
-Franciscans--Directories--Early works to 1800.,a--v--v,0,,Franciscans;Directories;Early works,http://id.worldcat.org/fast/530004;http://id.worldcat.org/fast/1423796;http://id.worldcat.org/fast/1411636
 Franciscans--Early works to 1800.,a--v,0,,Franciscans;Early works,http://id.worldcat.org/fast/530004;http://id.worldcat.org/fast/1411636
-Franciscans--History--Early works to 1800.,a--x--v,0,,Franciscans;History;Early works,http://id.worldcat.org/fast/530004;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636
 Franciscans--Italy--History--Sources.,a--z--x--v,0,,Franciscans;Italy;History--Sources;Sources,http://id.worldcat.org/fast/530004;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/958295;http://id.worldcat.org/fast/1423900
-Franciscans--Liturgy--Manuscripts--Early works to 1800.,a--x--x--v,0,,Franciscans;Liturgics;Manuscripts;Early works,http://id.worldcat.org/fast/530004;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1411636
 Franciscans--Liturgy--Texts--Early works to 1800.,a--x--v--v,0,,Franciscans;Liturgics;Texts;Early works,http://id.worldcat.org/fast/530004;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636
-Franciscans--Manuscripts.,a--x,0,,Franciscans;Manuscripts,http://id.worldcat.org/fast/530004;http://id.worldcat.org/fast/1424060
-Franciscans--Rules--Early works to 1800.,a--x--v,0,,Franciscans;Rules;Early works,http://id.worldcat.org/fast/530004;http://id.worldcat.org/fast/1423857;http://id.worldcat.org/fast/1411636
 Franciscans--Sermons--Early works to 1800.,a--x--v,0,,Franciscans;Sermons;Early works,http://id.worldcat.org/fast/530004;http://id.worldcat.org/fast/1113216;http://id.worldcat.org/fast/1411636
 Franciscans--Theology.,a--x,0,,Franciscans;Theology,http://id.worldcat.org/fast/530004;http://id.worldcat.org/fast/1149559
 "Francis I, King of France, 1494-1547.",a;b;c;d,fast,http://id.worldcat.org/fast/13189,"Francis I, King of France, 1494-1547",http://id.worldcat.org/fast/13189
@@ -551,7 +502,6 @@ Franciscans--Theology.,a--x,0,,Franciscans;Theology,http://id.worldcat.org/fast/
 "Frederick I, Holy Roman Emperor, approximately 1123-1190.",a;b;c;d,0,http://id.loc.gov/authorities/names/n50047907,"Frederick I, Holy Roman Emperor, approximately 1123-1190",http://id.worldcat.org/fast/1819256
 "Frederick I, Holy Roman Emperor, approximately 1123-1190.",a;b;c;d,fast,http://id.worldcat.org/fast/1819256,"Frederick I, Holy Roman Emperor, approximately 1123-1190",http://id.worldcat.org/fast/1819256
 French Occupation of Egypt (Egypt : 1798-1801),a;c;d,fast,(OCoLC)fst01353130,French Occupation of Egypt (Egypt : 1798-1801),http://id.worldcat.org/fast/1353130
-"Fridolin, Saint.",a;c,0,,"Fridolin, Saint",http://id.worldcat.org/fast/144899
 Fuentes family.,a,0,http://id.loc.gov/authorities/subjects/sh96012128,Fuentes family,http://id.worldcat.org/fast/387374
 Fuentes family.,a,fast,http://id.worldcat.org/fast/387374,Fuentes family,http://id.worldcat.org/fast/387374
 Fuṣūṣ al-ḥikam (Ibn al-ʻArabī),a,fast,(OCoLC)fst01371634,Fuṣūṣ al-ḥikam (Ibn al-ʻArabī),http://id.worldcat.org/fast/1371634
@@ -674,7 +624,6 @@ Jāmiʻ al-ṣaḥīḥ (Muslim ibn al-Ḥajjāj al-Qushayrī),a,fast,(OCoLC
 				ʻAlī)",a,fast,(OCoLC)fst01378154,"Jamʻ al-jawāmiʻ fī al-uṣūl (Subkī, Tāj al-Dīn ʻAbd al-Wahhāb ibn ʻAlī)",http://id.worldcat.org/fast/1378154
 "János I Zápolya, King of Hungary, 1487-1540.",a;b;c;d,0,http://id.loc.gov/authorities/names/n2002040065,"János I Zápolya, King of Hungary, 1487-1540",http://id.worldcat.org/fast/482354
 "János I Zápolya, King of Hungary, 1487-1540.",a;b;c;d,fast,http://id.worldcat.org/fast/482354,"János I Zápolya, King of Hungary, 1487-1540",http://id.worldcat.org/fast/482354
-"Jerome, Saint, -419 or 420--Early works to 1800.",a;c;d--v,0,,"Jerome, Saint, -419 or 420;Early works",http://id.worldcat.org/fast/1827079;http://id.worldcat.org/fast/1411636
 Jesuits.,a,fast,http://id.worldcat.org/fast/532143,Jesuits,http://id.worldcat.org/fast/532143
 Jesuits--History--16th century.,a--x--y,0,http://id.loc.gov/authorities/subjects/sh87004991,Jesuits;History;Sixteenth century,http://id.worldcat.org/fast/532143;http://id.worldcat.org/fast/1411628;http://id.worldcat.org/fast/1119851
 Jesuits--Rules--Early works to 1800.,a--v--v,0,,Jesuits;Rules;Early works,http://id.worldcat.org/fast/532143;http://id.worldcat.org/fast/1423857;http://id.worldcat.org/fast/1411636
@@ -682,7 +631,6 @@ Jesus Christ.,a,fast,http://id.worldcat.org/fast/40116,Jesus Christ,http://id.wo
 Jesus Christ.,a,0,http://id.loc.gov/authorities/names/n79084784,Jesus Christ,http://id.worldcat.org/fast/40116
 Jesus Christ--Art.,a--v,0,http://id.loc.gov/authorities/subjects/sh85069964,Jesus Christ;Art,http://id.worldcat.org/fast/40116;http://id.worldcat.org/fast/1423702
 Jésus-Christ--Art.,a--v,6,,Jesus Christ;Art,http://id.worldcat.org/fast/40116;http://id.worldcat.org/fast/1423702
-Jesus Christ--Art--Early works to 1800.,a--v--v,0,,Jesus Christ;Art;Early works,http://id.worldcat.org/fast/40116;http://id.worldcat.org/fast/1423702;http://id.worldcat.org/fast/1411636
 Jesus Christ--Baptism.,a--x,0,http://id.loc.gov/authorities/subjects/sh85069967,Baptism of Jesus Christ,http://id.worldcat.org/fast/1351993
 Jesus Christ--Biography--Apocryphal and legendary literature.,a--v--v,0,http://id.loc.gov/authorities/subjects/sh85069971,Jesus Christ;Biographies;Apocryphal and legendary literature,http://id.worldcat.org/fast/40116;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1424027
 Jesus Christ--Biography--Early works to 1800.,a--v--v,0,,Jesus Christ;Biographies;Early works,http://id.worldcat.org/fast/40116;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636
@@ -693,13 +641,11 @@ Jesus Christ--Family--Early works to 1800.,a--x--v,0,,Jesus Christ;Families;Earl
 Jesus Christ--Genealogy--Early works to 1800.,a--v--v,0,,Jesus Christ;Genealogy;Early works,http://id.worldcat.org/fast/40116;http://id.worldcat.org/fast/1423818;http://id.worldcat.org/fast/1411636
 Jesus Christ--Genealogy--Early works to 1800.,a--v--v,0,,Jesus Christ;Genealogy;Early works,http://id.worldcat.org/fast/40116;http://id.worldcat.org/fast/1423818;http://id.worldcat.org/fast/1411636
 Jesus Christ--In literature.,a--x,0,http://id.loc.gov/authorities/subjects/sh85070141,Jesus Christ,http://id.worldcat.org/fast/40116
-Jesus Christ--Meditations--Early works to 1800.,a--v--v,0,,Jesus Christ;Meditations;Early works,http://id.worldcat.org/fast/40116;http://id.worldcat.org/fast/1423849;http://id.worldcat.org/fast/1411636
 Jesus Christ--Nativity--In art.,a--x--v,0,,Nativity of Jesus Christ;Art,http://id.worldcat.org/fast/1353868;http://id.worldcat.org/fast/1423702
 Jesus Christ--Passion.,a--x,0,http://id.loc.gov/authorities/subjects/sh85070073,Passion of Jesus Christ,http://id.worldcat.org/fast/1353950
 Jesus Christ--Passion--Drama--Early works to 1800.,a--x--v--v,0,,Passion of Jesus Christ;Drama;Early works,http://id.worldcat.org/fast/1353950;http://id.worldcat.org/fast/1423879;http://id.worldcat.org/fast/1411636
 Jesus Christ--Passion--Early works to 1800.,a--x--v,0,,Passion of Jesus Christ;Early works,http://id.worldcat.org/fast/1353950;http://id.worldcat.org/fast/1411636
 Jesus Christ--Passion--Poetry--Early works to 1800.,a--x--v--v,0,,Passion of Jesus Christ;Poetry;Early works,http://id.worldcat.org/fast/1353950;http://id.worldcat.org/fast/1423828;http://id.worldcat.org/fast/1411636
-Jesus Christ--Physical appearance--Early works to 1800.,a--x--v,0,,Physical appearance of Jesus Christ;Early works,http://id.worldcat.org/fast/1353982;http://id.worldcat.org/fast/1411636
 Jesus Christ--Poetry.,a--v,0,http://id.loc.gov/authorities/subjects/sh85070087,Jesus Christ;Poetry,http://id.worldcat.org/fast/40116;http://id.worldcat.org/fast/1423828
 Jesus Christ--Resurrection.,a--x,0,http://id.loc.gov/authorities/subjects/sh85070108,Resurrection of Jesus Christ,http://id.worldcat.org/fast/1354440
 Jesus Christ--Transfiguration--Early works to 1800.,a--x--v,0,,Transfiguration of Jesus Christ;Early works,http://id.worldcat.org/fast/1355154;http://id.worldcat.org/fast/1411636
@@ -738,7 +684,6 @@ Knights of Malta--Early works to 1800.,a--v,0,,Knights of Malta;Early works,http
 Knights of Malta--Italy--History.,a--z--x,0,,Knights of Malta;Italy;History,http://id.worldcat.org/fast/537438;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1411628
 Kölner Dom.,a,0,http://id.loc.gov/authorities/names/n80113882,Kölner Dom,http://id.worldcat.org/fast/548583
 Kölner Dom.,a,fast,http://id.worldcat.org/fast/548583,Kölner Dom,http://id.worldcat.org/fast/548583
-"Lamoignon de Basville, M. de (Nicolas), 1648-1724.",a;c;q;d,0,,"Lamoignon de Basville, M. de (Nicolas), 1648-1724",http://id.worldcat.org/fast/195069
 "Lefèvre d'Étaples, Jacques, -1536.",a;d,fast,http://id.worldcat.org/fast/1830400,"Lefèvre d'Étaples, Jacques, -1536",http://id.worldcat.org/fast/1830400
 "Lefèvre d'Étaples, Jacques, -1536.",a;d,0,http://id.loc.gov/authorities/names/n83196765,"Lefèvre d'Étaples, Jacques, -1536",http://id.worldcat.org/fast/1830400
 "Leicester, Robert Dudley, Earl of, 1532?-1588.",a;c;d,fast,http://id.worldcat.org/fast/16504,"Leicester, Robert Dudley, Earl of, 1532?-1588",http://id.worldcat.org/fast/16504
@@ -795,10 +740,8 @@ Malatesta family.,a,fast,http://id.worldcat.org/fast/216051,Malatesta family,htt
 "Mary, Blessed Virgin, Saint--Annunciation--Art.",a;c--x--v,0,,Annunciation to the Blessed Virgin Mary;Art,http://id.worldcat.org/fast/1351679;http://id.worldcat.org/fast/1423702
 "Mary, Blessed Virgin, Saint--Art.",a;c--v,0,http://id.loc.gov/authorities/subjects/sh85081698,"Mary, Blessed Virgin, Saint;Art",http://id.worldcat.org/fast/68107;http://id.worldcat.org/fast/1423702
 "Mary, Blessed Virgin, Saint--Assumption--Sermons--Early works to 1800.",a;c--x--x--v,0,,Assumption of the Blessed Virgin Mary;Sermons;Early works,http://id.worldcat.org/fast/1351964;http://id.worldcat.org/fast/1423904;http://id.worldcat.org/fast/1411636
-"Mary, Blessed Virgin, Saint--Devotion to--Early works to 1800.",a;c--x--v,0,,Devotion to the Blessed Virgin Mary;Early works,http://id.worldcat.org/fast/1352703;http://id.worldcat.org/fast/1411636
 "Mary, Blessed Virgin, Saint--In literature.",a;c--x,0,,"Mary, Blessed Virgin, Saint",http://id.worldcat.org/fast/68107
 "Mary, Blessed Virgin, Saint--Legends.",a;c--v,0,http://id.loc.gov/authorities/subjects/sh85081717,"Mary, Blessed Virgin, Saint;Legends",http://id.worldcat.org/fast/68107;http://id.worldcat.org/fast/1423803
-"Mary, Blessed Virgin, Saint--Liturgy--Manuscripts.",a;c--x--x,0,,"Mary, Blessed Virgin, Saint;Liturgics;Manuscripts",http://id.worldcat.org/fast/68107;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1424060
 "Mary, Blessed Virgin, Saint--Poetry.",a;c--v,0,,"Mary, Blessed Virgin, Saint;Poetry",http://id.worldcat.org/fast/68107;http://id.worldcat.org/fast/1423828
 "Mary, Blessed Virgin, Saint--Prayers and devotions--Early works to 1800.",a;c--v--v,0,,"Mary, Blessed Virgin, Saint;Prayers and devotions;Early works",http://id.worldcat.org/fast/68107;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636
 "Mary, Blessed Virgin, Saint--Sermons.",a;c--v,0,,"Mary, Blessed Virgin, Saint;Sermons",http://id.worldcat.org/fast/68107;http://id.worldcat.org/fast/1423904
@@ -918,7 +861,6 @@ Orthodox Eastern Church--Prayers and devotions.,a--v,0,,Orthodox Eastern Church;
 "Ospedale degli Innocenti (Florence, Italy)--History.",a--x,0,,"Ospedale degli Innocenti (Florence, Italy);History",http://id.worldcat.org/fast/658780;http://id.worldcat.org/fast/1411628
 "Otto I, Holy Roman Emperor, 912-973.",a;b;c;d,0,http://id.loc.gov/authorities/names/n82136785,"Otto I, Holy Roman Emperor, 912-973",http://id.worldcat.org/fast/100265
 "Otto I, Holy Roman Emperor, 912-973.",a;b;c;d,fast,http://id.worldcat.org/fast/100265,"Otto I, Holy Roman Emperor, 912-973",http://id.worldcat.org/fast/100265
-"Oviedo, Rodrigo de, active 1514,--Trials, litigation, etc.",a;d--x,0,,"Trials, litigation, etc.",http://id.worldcat.org/fast/1423712
 "Paul, the Apostle, Saint.",a;c,fast,(OCoLC)fst00037330,"Paul, the Apostle, Saint",http://id.worldcat.org/fast/37330
 "Paul, the Apostle, Saint--Art.",a;c--v,0,,"Paul, the Apostle, Saint;Art",http://id.worldcat.org/fast/37330;http://id.worldcat.org/fast/1423702
 "Paul III, Pope, 1468-1549.",a;b;c;d,fast,http://id.worldcat.org/fast/88996,"Paul III, Pope, 1468-1549",http://id.worldcat.org/fast/88996
@@ -934,7 +876,6 @@ Persius--Criticism and interpretation.,a--x,0,,Persius;Criticism and interpretat
 "Peter, the Apostle, Saint.",a;c,fast,(OCoLC)fst00031923,"Peter, the Apostle, Saint",http://id.worldcat.org/fast/31923
 "Peter, the Apostle, Saint--Art.",a;c--v,0,,"Peter, the Apostle, Saint;Art",http://id.worldcat.org/fast/31923;http://id.worldcat.org/fast/1423702
 "Peter Lombard, Bishop of Paris, approximately 1100-1160. Sententiarum libri IV.",a;c;d;t,0,http://id.loc.gov/authorities/names/n84142222,"Sententiarum libri IV (Peter Lombard, Bishop of Paris)",http://id.worldcat.org/fast/1356925
-"Peter Martyr, Saint, approximately 1205-1252--Early works to 1800.",a;c;d--v,0,,"Peter Martyr, Saint, approximately 1205-1252;Early works",http://id.worldcat.org/fast/1841040;http://id.worldcat.org/fast/1411636
 "Petrucci, Pandolfo, 1452-1512.",a;d,0,http://id.loc.gov/authorities/names/n98053135,"Petrucci, Pandolfo, 1452-1512",http://id.worldcat.org/fast/418813
 "Petrucci, Pandolfo, 1452-1512.",a;d,fast,http://id.worldcat.org/fast/418813,"Petrucci, Pandolfo, 1452-1512",http://id.worldcat.org/fast/418813
 "Peurbach, Georg von, 1423-1461. Theoricae novae planetarum.",a;d;t,0,http://id.loc.gov/authorities/names/n90666422,"Theoricae novae planetarum (Peurbach, Georg von)",http://id.worldcat.org/fast/1365351
@@ -972,8 +913,6 @@ Plato--Criticism and interpretation--Early works to 1800.,a--x--v,0,,Plato;Criti
 "Poliziano, Angelo, 1454-1494.",a;d,0,http://id.loc.gov/authorities/names/n79134158,"Poliziano, Angelo, 1454-1494",http://id.worldcat.org/fast/45945
 "Poliziano, Angelo, 1454-1494.",a;d,fast,http://id.worldcat.org/fast/45945,"Poliziano, Angelo, 1454-1494",http://id.worldcat.org/fast/45945
 "Polo, Marco, 1254-1323?--Travel--Asia.",a;d--x--z,0,,"Polo, Marco, 1254-1323?;Travel;Asia",http://id.worldcat.org/fast/35719;http://id.worldcat.org/fast/1155558;http://id.worldcat.org/fast/1240495
-Poor Clares--Early works to 1800.,a--v,0,,Poor Clares;Early works,http://id.worldcat.org/fast/520925;http://id.worldcat.org/fast/1411636
-Poor Clares--Manuscripts.,a--x,0,,Poor Clares;Manuscripts,http://id.worldcat.org/fast/520925;http://id.worldcat.org/fast/1424060
 "Porphyry, approximately 234-approximately 305. Isagoge.",a;d;t,0,http://id.loc.gov/authorities/names/no98124862,Isagoge (Porphyry),http://id.worldcat.org/fast/1356577
 "Portaleone, Abraham ben David, 1542-1612.",a;d,fast,http://id.worldcat.org/fast/1579589,"Portaleone, Abraham ben David, 1542-1612",http://id.worldcat.org/fast/1579589
 "Portaleone, Abraham ben David, 1542-1612.",a;d,0,http://id.loc.gov/authorities/names/nb2003036066,"Portaleone, Abraham ben David, 1542-1612",http://id.worldcat.org/fast/1579589
@@ -1113,7 +1052,6 @@ Socrates.,a,0,http://id.loc.gov/authorities/names/n79055329,Socrates,http://id.w
 Socrates.,a,fast,http://id.worldcat.org/fast/35600,Socrates,http://id.worldcat.org/fast/35600
 "Soderini, Piero, 1452-1522.",a;d,fast,http://id.worldcat.org/fast/140988,"Soderini, Piero, 1452-1522",http://id.worldcat.org/fast/140988
 "Soderini, Piero, 1452-1522.",a;d,0,http://id.loc.gov/authorities/names/n84183374,"Soderini, Piero, 1452-1522",http://id.worldcat.org/fast/140988
-Spain. Armada--16th century.,a;b--y,0,,Spain. Armada;Sixteenth century,http://id.worldcat.org/fast/533161;http://id.worldcat.org/fast/1119851
 "Spalatin, Georg, 1484-1545.",a;d,0,http://id.loc.gov/authorities/names/no92026089,"Spalatin, Georg, 1484-1545",http://id.worldcat.org/fast/311875
 "Spanish rule, 1442-1707.",a,fast,,1442-1707,http://id.worldcat.org/fast/1355537
 "Spedale di Santa Maria della Scala (Siena, Italy)",a,0,http://id.loc.gov/authorities/names/n85279657,"Spedale di Santa Maria della Scala (Siena, Italy)",http://id.worldcat.org/fast/611263
@@ -1167,9 +1105,6 @@ Teutonic Knights--History--Sources.,a--x--v,0,,Teutonic Knights;History;Sources,
 Teutonic Knights--Privileges and immunities.,a--x,0,,Teutonic Knights;Privileges and immunities,http://id.worldcat.org/fast/517645;http://id.worldcat.org/fast/1774297
 "Thaʻlab, Aḥmad ibn Yaḥyá, 815-904. Faṣīḥ.",a;d;t,0,,"Faṣīḥ (Thaʻlab, Aḥmad ibn Yaḥyá)",http://id.worldcat.org/fast/1370827
 "Theseus, King of Athens--In literature.",a;c--x,0,,"Theseus, King of Athens",http://id.worldcat.org/fast/1149949
-Third Order Regular of St. Francis.,a,0,,Third Order Regular of St. Francis,http://id.worldcat.org/fast/538533
-Third Order Regular of St. Francis--Early works to 1800.,a--v,0,,Third Order Regular of St. Francis;Early works,http://id.worldcat.org/fast/538533;http://id.worldcat.org/fast/1411636
-Third Order Regular of St. Francis--Manuscripts.,a--x,0,,Third Order Regular of St. Francis;Manuscripts,http://id.worldcat.org/fast/538533;http://id.worldcat.org/fast/1424060
 Third Order Secular of St. Francis.,a,fast,http://id.worldcat.org/fast/655590,Third Order Secular of St. Francis,http://id.worldcat.org/fast/655590
 Third Order Secular of St. Francis.,a,0,http://id.loc.gov/authorities/names/n90608542,Third Order Secular of St. Francis,http://id.worldcat.org/fast/655590
 "Thomas, Aquinas, Saint, 1225?-1274.",a;c;d,fast,http://id.worldcat.org/fast/29176,"Thomas, Aquinas, Saint, 1225?-1274",http://id.worldcat.org/fast/29176
