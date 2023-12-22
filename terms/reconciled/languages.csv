@@ -688,11 +688,11 @@ Portuguese; Latin,,Portuguese;Latin,Q5146;Q397
 "Predominant work in Hebrew (p. 19-234), with shorter works in Judeo-Arabic",heb;jrb,Hebrew;Judeo-Arabic,Q9288;Q37733
 pro,pro,Old Occitan,Q2779185
 Provençal,,Provençal,Q241243
-Provençal,pro,Occitan,Q14185
+Provençal,pro,Provençal,Q241243
 "Provençal, Middle French",,Provençal;Middle French,Q241243;Q1473289
 "Provençal, Occitan (modern Provençal), and one document in Latin",pro;oci;lat,Provençal;Occitan;Latin,Q241243;Q14185;Q397
 "Provençal (f. 1-13, 25-26) and Old French (f. 14-23)",pro;fro,Provençal;Old French,Q241243;Q35222
-"Provençal language, Quercy dialect",pro,Old Occitan,Q2779185
+"Provençal language, Quercy dialect",pro,Provençal,Q241243
 sam,sam,Samaritan Aramaic,Q56612
 sam;ara,sam;ara,Samaritan Aramaic;Arabic,Q56612;Q13955
 Samaritan Aramaic with some headings and comments in Arabic,sam;ara,Samaritan Aramaic;Arabic,Q56612;Q13955
