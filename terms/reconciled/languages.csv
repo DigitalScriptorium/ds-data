@@ -99,7 +99,7 @@ Church Slavonic,,Church Slavonic,Q33251
 cop,cop,Coptic,Q36155
 cop;ara,cop;ara,Coptic;Arabic,Q36155;Q13955
 Coptic,cop,Coptic,Q36155
-"Coptic, Bohairic dialect, with a few notations in Arabic",cop,Coptic;Arabic,Q36155;Q13955
+"Coptic, Bohairic dialect, with a few notations in Arabic",cop,Coptic;Bohairic;Arabic,Q36155;Q890733;Q13955
 cze,cze,Czech,Q9056
 Czech,,Czech,Q9056
 dan,dan,Danish,Q9035
