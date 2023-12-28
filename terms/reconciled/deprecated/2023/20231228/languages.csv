@@ -79,9 +79,7 @@ Armenian,arm,Armenian,Q8785
 ave,ave,Avestan,Q29572
 Avestan (in Pahlavi script) and Pahlavi with one line in Gujarati,ave,Avestan;Middle Persian;Gujarati,Q29572;Q32063;Q5137
 Avestan and Persian with some Pahlavi,ave,Avestan;Persian;Middle Persian,Q29572;Q9168;Q32063
-awa,awa,Awadhi,Q29579
 ber,ber,Berber,Q25448
-bra,bra,Braj Bhasha,Q35243
 "Castilian, Spanish",spa,Spanish,Q1321
 "Castilian, Spanish; Latin",spa;lat,Spanish;Latin,Q1321;Q397
 cat,cat,Catalan,Q7026
@@ -209,7 +207,6 @@ Greek; Latin,,Greek;Latin,Q9129;Q397
 Greek.,,Greek,Q9129
 Greek (modern),,Modern Greek,Q36510
 Greek and Arabic,grc;gre;ara,Greek;Arabic,Q9129;Q13955
-guj,guj,Gujarati,Q5137
 "Handwritten in German, cursive script",ger,German,Q188
 "Handwritten in Italian, cursive script",ita,Italian,Q652
 heb,heb,Hebrew,Q9288
@@ -240,11 +237,6 @@ In Arabic,ara,Arabic,Q13955
 "In Arabic, some notes in Persian",;ara;per,Arabic;Persian,Q13955;Q9168
 In Arabic with some fawāʼid in Persian,;ara;per,Arabic;Persian,Q13955;Q9168
 "In Avestan. Colophons in Pahlavi, Persian and Gujarati",ave,Avestan;Middle Persian;Persian;Gujarati,Q29572;Q32063;Q9168;Q5137
-In Awadhi,awa,Awadhi,Q29579
-In Awadhi and Braj,awa,Awadhi;Braj Bhasha,Q29579;Q35243
-In Braj,san,Braj Bhasha,Q35243
-In Braj,bra,Braj Bhasha,Q35243
-In Braj and Sanskrit,bra,Braj Bhasha;Sanskrit,Q35243;Q11059
 inc,inc,Indo-Aryan,Q33577
 inc;per,inc;per,Indo-Aryan;Persian,Q33577;Q9168
 In Catalan,cat,Catalan,Q7026
@@ -265,11 +257,6 @@ In German,ger,German,Q188
 In Greek,grc,Greek,Q9129
 In Hebrew,heb,Hebrew,Q9288
 In Hebrew with Aramaic translation,heb;arc,Hebrew;Aramaic,Q9288;Q28602
-In Hindi,hin,Hindi,Q1568
-In Hindi,san,Hindi,Q1568
-In Hindi and Bengali,hin,Hindi;Bangla,Q1568;Q9610
-In Hindi and Sanskrit,hin;san,Hindi;Sanskrit,Q1568;Q11059
-In Hindi and Urdu,san,Hindi;Urdu,Q1568;Q1617
 In Icelandic,ice,Icelandic,Q294
 In Italian,ita,Italian,Q652
 "In Italian, Latin, and Spanish",ita;lat;spa,Italian;Latin;Spanish,Q652;Q397;Q1321
@@ -285,7 +272,6 @@ In Italian,ita,Italian,Q652
 In Italian and Latin,ita,Italian;Latin,Q652;Q397
 In Italian and Latin,ita;lat,Italian;Latin,Q652;Q397
 In Italian with some Latin,ita;it;lat,Italian;Latin,Q652;Q397
-"In Jaina Prakrit, Sanskrit, and Apabhramsa",san,Prakrit;Sanskrit;Apabhraṃśa,Q192170;Q11059;Q616419
 In Latin,,Latin,Q397
 In Latin,dut,Latin,Q397
 In Latin,eng,Latin,Q397
@@ -311,52 +297,19 @@ In Latin and Italian,lat;ita,Latin;Italian,Q397;Q652
 In Latin and Middle French,lat;frm,Latin;Middle French,Q397;Q1473289
 In Latin with extensive rubrics in German,lat;ger,Latin;German,Q397;Q188
 In Latin with some German,lat;ger,Latin;German,Q397;Q188
-In Mahārāṣṭrī Prakrit (?),pra,Maharashtri,Q2586773
-In Marathi,mar,Marathi,Q1571
-In Marathi and Sanskrit,mar;san,Marathi;Sanskrit,Q1571;Q11059
-In Marathi and Sanskrit,mar,Marathi;Sanskrit,Q1571;Q11059
-In Marwari,mwr,Marwari,Q56312
 In Middle Dutch,dut,Middle Dutch,Q178806
 In Middle English,enm,Middle English,Q36395
 In Middle English and Latin,;enm;lat,Middle English;Latin,Q36395;Q397
 In Middle English and Latin.,,Middle English;Latin,Q36395;Q397
 In Middle French,frm,Middle French,Q1473289
 In Middle French,fre,Middle French,Q1473289
-In Nepali,san,Nepali,Q33823
 In Old French,fro,Old French,Q35222
 In Old Norse,non,Old Norse,Q35505
-In Pali,pli,Pali,Q36727
-In Pali and Khmer,pli;khm,Pali;Khmer,Q36727;Q9205
-In Panjabi,pan,Punjabi,Q58635
-In Panjabi,lah,Punjabi,Q58635
 In Persian,per,Persian,Q9168
 In Persian; written in a professional nastaʻlīq script in black ink; ʻunwān and illustrations in colors and gold ; text rubricated,per,Persian,Q9168
-In Persian with colophon in Arabic,per;ara,Persian;Arabic,Q9168;Q13955
-In Prakrit,pra,Prakrit,Q192170
-In Prakrit and Gujarati,pra,Prakrit;Gujarati,Q192170;Q5137
-In Rajasthani,raj,Rajasthani,Q13196
 In Sanskrit,san,Sanskrit,Q11059
-"In Sanskrit, Tamil, and Telugu",san;tam;tel,Sanskrit;Tamil;Telugu,Q11059;Q5885;Q8097
-In Sanskrit (Devanāgari),san,Sanskrit,Q11059
-In Sanskrit (Devanāgarī),san,Sanskrit,Q11059
-In Sanskrit (Newari),san,Sanskrit,Q11059
-In Sanskrit and Gujarati,san,Sanskrit;Gujarati,Q11059;Q5137
-In Sanskrit and Gujarati,pra;san;guj,Sanskrit;Gujarati,Q11059;Q5137
-In Sanskrit and Gujurati,san,Sanskrit;Gujarati,Q11059;Q5137
-In Sanskrit and Hindi,san;hin,Sanskrit;Hindi,Q11059;Q1568
-In Sanskrit and Hindi,san,Sanskrit;Hindi,Q11059;Q1568
-In Sanskrit and Marathi,san;mar,Sanskrit;Marathi,Q11059;Q1571
-In Sanskrit and Marathi,san,Sanskrit;Marathi,Q11059;Q1571
-In Sanskrit and Nepali,san,Sanskrit;Nepali,Q11059;Q33823
-In Sanskrit and Nepali,san;nep,Sanskrit;Nepali,Q11059;Q33823
-In Sanskrit and Prakrit,san,Sanskrit;Prakrit,Q11059;Q192170
-In Sanskrit and Urdu,san;urd,Sanskrit;Urdu,Q11059;Q1617
-In Sanskrit with a closing prayer in Marathi,san;mar,Sanskrit;Marathi,Q11059;Q1571
-In Sinhalese,sin,Sinhala,Q13267
-"In Sinhalese, Jaffna Tamil, and Malayalam",sin;tam;mal,Sinhala;Jaffna Tamil dialect;Malayalam,Q13267;Q12988285;Q36236
 In Spanish,spa,Spanish,Q1321
 In Spanish with two quotations in Latin (f. 3v),spa;lat,Spanish;Latin,Q1321;Q397
-In Thai and Pali,tha;pli,Thai;Pali,Q9217;Q36727
 In Valencian Catalan,cat,Valencian,Q32641
 it,it,Italian,Q652
 ita,ita,Italian,Q652
@@ -419,11 +372,9 @@ Javanese,,Javanese,Q33549
 jpn,jpn,Japanese,Q5287
 jrb,jrb,Judeo-Arabic,Q37733
 "Judeo-Arabic, with a brief work in Hebrew (f. 25r-39v); notes in Samaritan (f. 1v-7v, 21r-22v, 3 bifolia laid in after f. 22v, marginal notes as on f. 281v), Arabic (f. 1r, marginal notes on Samaritan bifolia), and Latin letters (f. 20v, 25v, 238r, 239v)",jrb;heb;sam,Judeo-Arabic;Hebrew;Samaritan Aramaic;Arabic;Latin,Q37733;Q9288;Q56502;Q13955;Q397
-khm,khm,Khmer,Q9205
 kor,kor,Korean,Q9176
 lad,lad,Judaeo-Spanish,Q36196
 Ladino,lad,Judaeo-Spanish,Q36196
-lah,lah,Lahnda,Q112670533
 "Language: Latin, English, and Anglo-Norman",mul;lat;eng;fre,Latin;English;Anglo-Norman,Q397;Q1860;Q35214
 Language: Latin. Cover flyleaf and rear board contain notes written in Italian,lat,Italian;Latin,Q652;Q397
 lat,lat,Latin,Q397
@@ -630,8 +581,6 @@ Layout: 5 lines per page,ara,,
 Layout: 5 long lines,ara,,
 Low German,,Low German,Q25433
 Low German,nds,Low German,Q25433
-mal,mal,Malayalam,Q36236
-mar,mar,Marathi,Q1571
 Middle Dutch,,Middle Dutch,Q178806
 Middle Dutch (ca. 1050-1350),dum,Middle Dutch,Q178806
 Middle Dutch (ca. 1050-1350); Latin,dum;lat,Middle Dutch;Latin,Q178806;Q397
@@ -671,12 +620,10 @@ Middle Scots,,Middle Scots,Q3327000
 "Mostly in German, with significant sections of the text in Latin. Some notations on the front and back end-leaves (dating from later than the text itself) are in Latin",ger,German;Latin;Latin,Q188;Q397;Q397
 mul,mul,multiple languages,Q20923490
 mul;grc;cop,mul;grc;cop,multiple languages;Ancient Greek;Coptic,Q20923490;Q35497;Q36155
-mwr,mwr,Marwari,Q56312
 myn,myn,Yucatec Maya,Q13354
 mynspa,mynspa,Yucatec Maya;Spanish,Q13354;Q1321
 Nahuatl; Spanish,,Nahuatl;Spanish,Q13300;Q1321
 nds,nds,Low German,Q25433
-nep,nep,Nepali,Q33823
 "No linguistic content, Not applicable",zxx,no linguistic content,Q22282939
 non,non,Old Norse,Q35505
 Occitan,,Occitan,Q14185
@@ -707,7 +654,6 @@ Ottoman with translations from Arabic; inserts in Persian laid in,ota;ara,Ottoma
 Pahlavi and Persian,pal,Middle Persian;Persian,Q32063;Q9168
 pal,pal,Middle Persian,Q32063
 Pali,,Pali,Q36727
-pan,pan,Punjabi,Q58635
 Patois du pays de caux,,Cauchois,Q2943069
 per,per,Persian,Q9168
 per;ara,per;ara,Persian;Arabic,Q9168;Q13955
@@ -736,11 +682,9 @@ Persian with two leaves in Sanskrit; colophon in Urdu,per,Persian;Sanskrit;Urdu,
 Persian with two pages in Arabic (f. 1v-2r),per,Persian;Arabic,Q9168;Q13955
 Persian with two pages in Arabic (f. 23r/v),per,Persian;Arabic,Q9168;Q13955
 "Plant names in Latin, with a few words in Italian (f. 2r-53v); texts about Morocco in English, Spanish, and Latin (54r-97v); glossary of words in Arabic, Spanish, and Latin (f. 98r-101r)",lat;ita;eng;spa;ara,Latin;Italian;English;Spanish;Latin;Arabic;Spanish;Latin,Q397;Q652;Q1860;Q1321;Q397;Q13955;Q1321;Q397
-pli,pli,Pali,Q36727
 pol,pol,Polish,Q809
 Portuguese,,Portuguese,Q5146
 Portuguese; Latin,,Portuguese;Latin,Q5146;Q397
-pra,pra,Prakrit,Q192170
 "Predominant work in Hebrew (p. 19-234), with shorter works in Judeo-Arabic",heb;jrb,Hebrew;Judeo-Arabic,Q9288;Q37733
 pro,pro,Old Occitan,Q2779185
 Provençal,,Provençal,Q241243
@@ -749,7 +693,6 @@ Provençal,pro,Provençal,Q241243
 "Provençal, Occitan (modern Provençal), and one document in Latin",pro;oci;lat,Provençal;Occitan;Latin,Q241243;Q14185;Q397
 "Provençal (f. 1-13, 25-26) and Old French (f. 14-23)",pro;fro,Provençal;Old French,Q241243;Q35222
 "Provençal language, Quercy dialect",pro,Provençal,Q241243
-raj,raj,Rajasthani,Q13196
 sam,sam,Samaritan Aramaic,Q56612
 sam;ara,sam;ara,Samaritan Aramaic;Arabic,Q56612;Q13955
 Samaritan Aramaic with some headings and comments in Arabic,sam;ara,Samaritan Aramaic;Arabic,Q56612;Q13955
@@ -758,7 +701,6 @@ Sanskrit,,Sanskrit,Q11059
 scn,scn,Sicilian,Q33973
 Serbian Slavonic,,Slavonic-Serbian,Q1639124
 Sicilian,,Sicilian,Q33973
-sin,sin,Sinhala,Q13267
 sla,sla,Slavic,Q23526
 "Some items in Latin, some in Italian",lat;ita,Latin;Italian,Q397;Q652
 spa,spa,Spanish,Q1321
@@ -775,10 +717,8 @@ syc;syr;ara,syc;syr;ara,Syriac;Arabic,Q33538;Q13955
 syr,syr,Syriac,Q33538
 Syriac,,Syriac,Q33538
 Syriac; Serto,syc;syr;ara,Syriac;Western Syriac script,Q33538;Q12057990
-tam,tam,Tamil,Q5885
 Tamil,,Tamil,Q5885
 Tashelhit / Shilha,ber,Shilha,Q34152
-tel,tel,Telugu,Q8097
 Text in Anglo-Saxon,ang,Old English,Q42365
 Text in Arabic,ara,Arabic,Q13955
 Text in Arabic and Coptic,ara;cop,Arabic;Coptic,Q13955;Q36155
@@ -807,7 +747,6 @@ Text in Yucatec with some Spanish.,,Yucatec Maya;Spanish,Q13354;Q1321
 Texts in English,enm,English,Q1860
 Texts in Latin,lat,Latin,Q397
 Texts in Latin and English,lat,Latin;English,Q397;Q1860
-tha,tha,Thai,Q9217
 Translated from the Persian,;ara,Persian,Q9168
 Turkish in Arabic script,;ota,Turkish;Arabic,Q256;Q13955
 Turkish in Arabic script,,Turkish;Arabic,Q256;Q13955
@@ -816,7 +755,6 @@ Turkish with source text in Arabic,ota,Turkish;Arabic,Q256;Q13955
 und,und,undetermined language,Q22282914
 und;eng,und;eng,undetermined language;English,Q22282914;Q1860
 Unidentified Cipher,,undetermined language,Q22282914
-urd,urd,Urdu,Q1617
 Written in Latin with a small amount of Italian (f. 91r-94v),lat;ita,Latin;Italian,Q397;Q652
 xno,xno,Anglo-Norman,Q35214
 zxx,zxx,no linguistic content,Q22282939
