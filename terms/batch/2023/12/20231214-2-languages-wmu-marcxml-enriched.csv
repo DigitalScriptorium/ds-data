@@ -1,0 +1,33 @@
+language_as_recorded,language_code,authorized_label,structured_value
+Dutch,dut,Dutch,Q7411
+Flemish (Belgium Dutch),dut,Flemish;Belgian Dutch,Q34147;Q1404296
+Flemish (Belgium Flemish),dut,Flemish,Q34147
+French,fre,French,Q150
+In Latin,lat,Latin,Q397
+In Latin with some German,lat;ger,Latin;German,Q397;Q188
+"In Latin, with notes in German",lat;ger,Latin;German,Q397;Q188
+Latin,lat,Latin,Q397
+Latin and French,lat;fre,Latin;French,Q397;Q150
+Latin words,lat,Latin,Q397
+Middle Dutch,dum,Middle Dutch,Q178806
+Middle French language,frm,Middle French,Q1473289
+"Provençal language, Quercy dialect",pro,Provençal,Q241243
+Text in Arabic,ara,Arabic,Q13955
+Text in Arabic and Coptic,ara;cop,Arabic;Coptic,Q13955;Q36155
+Text in French,fre,French,Q150
+Text in French and Dutch,fre;dut,French;Dutch,Q150;Q7411
+Text in French and Latin,fre;lat,French;Latin,Q150;Q397
+Text in Latin,lat,Latin,Q397
+ara,ara,Arabic,Q13955
+cop,cop,Coptic,Q36155
+dum,dum,Middle Dutch,Q178806
+dut,dut,Dutch,Q7411
+eng,eng,English,Q1860
+eng;lat,eng;lat,English;Latin,Q1860;Q397
+fre,fre,French,Q150
+frm,frm,Middle French,Q1473289
+ger,ger,German,Q188
+lat,lat,Latin,Q397
+lat;fre,lat;fre,Latin;French,Q397;Q150
+pro,pro,Old Occitan,Q2779185
+zxx,zxx,no linguistic content,Q22282939

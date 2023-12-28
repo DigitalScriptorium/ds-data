@@ -1,0 +1,59 @@
+language_as_recorded,language_code,authorized_label,structured_value
+Arabic,ara,Arabic,Q13955
+Arabic and Coptic,ara,Arabic;Coptic,Q13955;Q36155
+Arabic and Ottoman Turkish,ara,Arabic;Ottoman Turkish,Q13955;Q36730
+Arabic and Persian,ara,Arabic;Persian,Q13955;Q9168
+Arabic and Turkish,ara,Arabic;Turkish,Q13955;Q256
+Arabic with 13 pages in Ottoman Turkish,ara,Arabic;Ottoman Turkish,Q13955;Q36730
+Arabic with Persian heading and marginalia,ara,Arabic;Persian,Q13955;Q9168
+Arabic with Persian translation and marginal notes,ara,Arabic;Persian,Q13955;Q9168
+Arabic with a few pages in Ottoman Turkish,ara,Arabic;Ottoman Turkish,Q13955;Q36730
+Arabic with a few statements in Persian,ara,Arabic;Persian,Q13955;Q9168
+Arabic with a short introduction in Persian,ara,Arabic;Persian,Q13955;Q9168
+Arabic with interlinear Persian translation,ara,Arabic;Persian,Q13955;Q9168
+Arabic with one line in Ottoman Turkish,ara,Arabic;Ottoman Turkish,Q13955;Q36730
+Arabic with one page in Ottoman Turkish,ara,Arabic;Ottoman Turkish,Q13955;Q36730
+Arabic with one page translated into Persian,ara,Arabic;Persian,Q13955;Q9168
+Arabic with one work in Persian (number 8),ara,Arabic;Persian,Q13955;Q9168
+Arabic with some Ottoman Turkish,ara,Arabic;Ottoman Turkish,Q13955;Q36730
+Arabic with some Persian annotations,ara,Arabic;Persian,Q13955;Q9168
+Arabic with some Persian marginalia,ara,Arabic;Persian,Q13955;Q9168
+Arabic with some notes in Persian,ara,Arabic;Persian,Q13955;Q9168
+Arabic with translation in Persian,ara,Arabic;Persian,Q13955;Q9168
+Avestan (in Pahlavi script) and Pahlavi with one line in Gujarati,ave,Avestan;Middle Persian;Gujarati,Q29572;Q32063;Q5137
+Avestan and Persian with some Pahlavi,ave,Avestan;Persian;Middle Persian,Q29572;Q9168;Q32063
+Chiefly Arabic with some Persian,ara,Arabic;Persian,Q13955;Q9168
+Chiefly Arabic with some Samaritan Aramaic,ara,Arabic;Samaritan Aramaic,Q13955;Q56612
+Chiefly Ottoman Turkish with Persian and Arabic vocabulary and headings in Arabic,ota,Persian;Arabic;Ottoman Turkish,Q9168;Q13955;Q36730
+"Coptic, Bohairic dialect, with a few notations in Arabic",cop,Coptic;Bohairic;Arabic,Q36155;Q890733;Q13955
+"In Avestan. Colophons in Pahlavi, Persian and Gujarati",ave,Avestan;Middle Persian;Persian;Gujarati,Q29572;Q32063;Q9168;Q5137
+Layout: 5 lines per page,ara;eng,,
+Layout: 5 lines per page,ara,,
+Layout: 5 long lines,ara,,
+Ottoman Turkish,ota,Ottoman Turkish,Q36730
+Ottoman Turkish with titles and vocabulary in Persian,ota,Ottoman Turkish;Persian,Q36730;Q9168
+Ottoman Turkish with two pages in Arabic,ota,Ottoman Turkish;Arabic,Q36730;Q13955
+Ottoman with translations from Arabic; inserts in Persian laid in,ota,Ottoman Turkish;Arabic;Persian,Q36730;Q13955;Q9168
+Pahlavi and Persian,pal,Middle Persian;Persian,Q32063;Q9168
+Persian,per,Persian,Q9168
+Persian,ara,Persian,Q9168
+Persian and Arabic,per,Persian;Arabic,Q9168;Q13955
+Persian translations and commentary with Arabic source-text,per,Persian;Arabic,Q9168;Q13955
+Persian with Arabic source-text,per,Persian;Arabic,Q9168;Q13955
+Persian with some English glosses,per,Persian,Q9168
+Persian with some phrases in Arabic,per,Persian;Arabic,Q9168;Q13955
+Persian with source-text in Arabic,per,Persian;Arabic,Q9168;Q13955
+Persian with titles in Arabic,per,Persian;Arabic,Q9168;Q13955
+Persian with two leaves in Sanskrit; colophon in Urdu,per,Persian;Sanskrit;Urdu,Q9168;Q11059;Q1617
+Persian with two pages in Arabic (f. 1v-2r),per,Persian;Arabic,Q9168;Q13955
+Persian with two pages in Arabic (f. 23r/v),per,Persian;Arabic,Q9168;Q13955
+Spanish,spa,Spanish,Q1321
+Turkish with source text in Arabic,ota,Turkish;Arabic,Q256;Q13955
+ara,ara,Arabic,Q13955
+ave,ave,Avestan,Q29572
+cop,cop,Coptic,Q36155
+eng,eng,English,Q1860
+ota,ota,Ottoman Turkish,Q36730
+pal,pal,Middle Persian,Q32063
+per,per,Persian,Q9168
+spa,spa,Spanish,Q1321

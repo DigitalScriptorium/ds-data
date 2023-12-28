@@ -1,0 +1,12 @@
+language_as_recorded,language_code,authorized_label,structured_value
+"Handwritten in German, cursive script",ger,German,Q188
+"Handwritten in Italian, cursive script",ita,Italian,Q652
+"In Italian, with some Latin",ita;lat,Italian;Latin,Q652;Q397
+Text in English,eng,English,Q1860
+Text in Latin,lat,Latin,Q397
+Text in Latin and English,lat,Latin;English,Q397;Q1860
+Text in Latin and English,lat;eng,Latin;English,Q397;Q1860
+eng,eng,English,Q1860
+ger,ger,German,Q188
+ita,ita,Italian,Q652
+lat,lat,Latin,Q397
