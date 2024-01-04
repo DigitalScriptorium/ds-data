@@ -1,38 +1,34 @@
 genre_as_recorded,vocabulary,source_authority_uri,authorized_label,structured_value
-Abridgements,openn-form/genre,,abridgements,http://vocab.getty.edu/aat/300202489
 Abridgements,aat,,abridgements,http://vocab.getty.edu/aat/300202489
+Abridgements,openn-form/genre,,abridgements,http://vocab.getty.edu/aat/300202489
 Abridgments,fast,,Abridgments,http://id.worldcat.org/fast/1726571
 Abridgments,lcgft,,Abridgments,http://id.worldcat.org/fast/1726571
 Abstracts (summaries),aat,,abstracts (summaries),http://vocab.getty.edu/aat/300026032
 Account books,aat,,account books,http://vocab.getty.edu/aat/300027483
 Account books,rbgenr,,Account books,http://id.loc.gov/vocabulary/rbmscv/cv00027
-accounts,aat,,accounts,http://vocab.getty.edu/aat/300145802
 Accounts,aat,,accounts,http://vocab.getty.edu/aat/300145802
 Addresses,rbgenr,,Addresses,http://id.loc.gov/vocabulary/rbmscv/cv00038
 Agreements,aat,,agreements,http://vocab.getty.edu/aat/300027628
 Albums (Books),lcgft,,Albums (Books),http://id.worldcat.org/fast/1726784
 Allegories,aat,,allegories (literary works),http://vocab.getty.edu/aat/300202507
+Almanacs,lcgft,,Almanacs,http://id.worldcat.org/fast/1423872
 Almanacs,aat,,almanacs,http://vocab.getty.edu/aat/300026705
 Almanacs,fast,,Almanacs,http://id.worldcat.org/fast/1423872
-Almanacs,lcgft,,Almanacs,http://id.worldcat.org/fast/1423872
 Alphabets (symbols),aat,,alphabets (symbols),http://vocab.getty.edu/aat/300255216
-Amulets,openn-form/genre,,amulets,http://vocab.getty.edu/aat/300266585
-amulets,openn-form/genre,,amulets,http://vocab.getty.edu/aat/300266585
 Amulets,aat,,amulets,http://vocab.getty.edu/aat/300266585
-Annals and chronicles,fast,,Annals and chronicles,http://id.worldcat.org/fast/1919892
+Amulets,openn-form/genre,,amulets,http://vocab.getty.edu/aat/300266585
 Annals and chronicles,lcgft,,Annals and chronicles,http://id.worldcat.org/fast/1919892
-annotations,aat,,annotations,http://vocab.getty.edu/aat/300026100
+Annals and chronicles,fast,,Annals and chronicles,http://id.worldcat.org/fast/1919892
 Annotations,aat,,annotations,http://vocab.getty.edu/aat/300026100
-Annotations (Provenance),openn-form/genre,,Annotations,http://id.loc.gov/vocabulary/rbmscv/cv00102
 Annotations (Provenance),rbprov,,Annotations,http://id.loc.gov/vocabulary/rbmscv/cv00102
-Anthologies,openn-form/genre,,anthologies,http://vocab.getty.edu/aat/300026037
-anthologies,aat,,anthologies,http://vocab.getty.edu/aat/300026037
+Annotations (Provenance),openn-form/genre,,Annotations,http://id.loc.gov/vocabulary/rbmscv/cv00102
 Anthologies,aat,,anthologies,http://vocab.getty.edu/aat/300026037
+Anthologies,openn-form/genre,,anthologies,http://vocab.getty.edu/aat/300026037
 Anthropomorphic initials,rbgenr,,Anthropomorphic letters,http://id.loc.gov/vocabulary/rbmscv/cv00943
-Antiphonaries,rbgenr,,Antiphonaries,http://id.loc.gov/vocabulary/rbmscv/cv00118
 Antiphonaries,aat,,antiphonaries,http://vocab.getty.edu/aat/300188812
-Antiphonaries (Service books),fast,,Antiphonaries (Service books),http://id.worldcat.org/fast/1920004
+Antiphonaries,rbgenr,,Antiphonaries,http://id.loc.gov/vocabulary/rbmscv/cv00118
 Antiphonaries (Service books),lcgft,,Antiphonaries (Service books),http://id.worldcat.org/fast/1920004
+Antiphonaries (Service books),fast,,Antiphonaries (Service books),http://id.worldcat.org/fast/1920004
 Antiphonaries--Italy--14th century,aat,,antiphonaries;Italy;Fourteenth century,http://vocab.getty.edu/aat/300188812;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/933420
 Antiphonaries--Spain--Toledo--14th century,aat,,antiphonaries;Spain--Toledo;Fourteenth century,http://vocab.getty.edu/aat/300188812;http://id.worldcat.org/fast/1204571;http://id.worldcat.org/fast/933420
 Aphorisms,aat,,aphorisms,http://vocab.getty.edu/aat/300253001
@@ -41,23 +37,23 @@ Apocryphal and legendary literature,fast,,Apocryphal and legendary literature,ht
 Apologetic writings,fast,,Apologetic writings,http://id.worldcat.org/fast/1423698
 Apologetic writings,lcgft,,Apologetic writings,http://id.worldcat.org/fast/1423698
 Archives,fast,,Archives,http://id.worldcat.org/fast/1423700
-Armorial bindings,rbmscv,,Armorial bindings,http://id.loc.gov/vocabulary/rbmscv/cv00132
 Armorial bindings,rbbin,,Armorial bindings,http://id.loc.gov/vocabulary/rbmscv/cv00132
+Armorial bindings,rbmscv,,Armorial bindings,http://id.loc.gov/vocabulary/rbmscv/cv00132
 Armorial bindings (Binding),rbbin,,Armorial bindings,http://id.loc.gov/vocabulary/rbmscv/cv00132
 Armorial bookplates,rbmscv,,Armorial bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00136
-Armorials,rbmscv,,Armorials,http://id.loc.gov/vocabulary/rbmscv/cv00965
 Armorial stamps,rbmscv,,Armorial stamps,http://id.loc.gov/vocabulary/rbmscv/cv00139
+Armorials,rbmscv,,Armorials,http://id.loc.gov/vocabulary/rbmscv/cv00965
 Art,fast,,Art,http://id.worldcat.org/fast/815177
 Art,lcgft,,Art,http://id.worldcat.org/fast/815177
 Articles of incorporation,aat,,articles of incorporation,http://vocab.getty.edu/aat/300027597
 Artificial grains,lobt,,artificial grains,http://w3id.org/lob/concept/1507
 Atlases,aat,,atlases,http://vocab.getty.edu/aat/300028053
-Autographs,aat,,autographs (manuscripts),http://vocab.getty.edu/aat/300028571
+Autographs,rbmscv ,,Autographs,http://id.loc.gov/vocabulary/rbmscv/cv00177
 Autographs,fast,,Autographs,http://id.worldcat.org/fast/822653
 Autographs,rbmscv,,Autographs,http://id.loc.gov/vocabulary/rbmscv/cv00177
-Autographs,rbmscv ,,Autographs,http://id.loc.gov/vocabulary/rbmscv/cv00177
-Autographs (manuscripts),aat,,autographs (manuscripts),http://vocab.getty.edu/aat/300028571
+Autographs,aat,,autographs (manuscripts),http://vocab.getty.edu/aat/300028571
 Autographs (Provenance),rbprov,,Autographs,http://id.loc.gov/vocabulary/rbmscv/cv00177
+Autographs (manuscripts),aat,,autographs (manuscripts),http://vocab.getty.edu/aat/300028571
 Bevelled edge boards,rbmscv,,Bevelled edge boards,http://id.loc.gov/vocabulary/rbmscv/cv00211
 Bevelled edge-boards,rbmscv,,Bevelled edge boards,http://id.loc.gov/vocabulary/rbmscv/cv00211
 Bibles,aat,,Bibles,http://vocab.getty.edu/aat/300264513
@@ -65,44 +61,42 @@ Bibles,lcsh,,Bible,http://id.worldcat.org/fast/1356024
 Bibliographies,fast,,Bibliographies,http://id.worldcat.org/fast/1919895
 Binders' tickets (Binding)--19th century,rbbin,,Binders' tickets;Nineteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00702;http://id.worldcat.org/fast/1037841
 Biographies,rvmgf,,Biographies,http://id.worldcat.org/fast/1919896
-Biographies,fast,,Biographies,http://id.worldcat.org/fast/1919896
-Biographies,lcgft,,Biographies,http://id.worldcat.org/fast/1919896
 Biographies,rbgenr,,Biographies,http://id.loc.gov/vocabulary/rbmscv/cv00185
+Biographies,lcgft,,Biographies,http://id.worldcat.org/fast/1919896
+Biographies,fast,,Biographies,http://id.worldcat.org/fast/1919896
 Biographies (literary works),aat,,biographies (literary works),http://vocab.getty.edu/aat/300080102
 Biography,openn-form/genre,,biographies (literary works),http://vocab.getty.edu/aat/300080102
-Blind tooled (decoration),openn-form/genre,,blind-tooled (decoration),http://w3id.org/lob/concept/2288
 Blind tooled (decoration),lobt,,blind-tooled (decoration),http://w3id.org/lob/concept/2288
+Blind tooled (decoration),openn-form/genre,,blind-tooled (decoration),http://w3id.org/lob/concept/2288
 Blind tooled bindings,rbmscv,,Blind tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00632
 Blind tooled bindings (Binding),rbbin,,Blind tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00632
 Blind tooled bindings (Binding) ǂ2 rbbin,,,Blind tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00632
-Blocked bindings,rbmscv,,Blocked bindings,http://id.loc.gov/vocabulary/rbmscv/cv00438
 Block-stamped leather,lobt,,block-stamped leather,http://w3id.org/lob/concept/3586
-"Bookbinding, Islamic",lcsh,,Islamic bookbinding,http://id.worldcat.org/fast/1730288
+Blocked bindings,rbmscv,,Blocked bindings,http://id.loc.gov/vocabulary/rbmscv/cv00438
 Book catalogs,aat,,book catalogs,http://vocab.getty.edu/aat/300026606
+"Bookbinding, Islamic",lcsh,,Islamic bookbinding,http://id.worldcat.org/fast/1730288
 Bookplates,rbmscv,,Bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00138
-Bookplates (Provenance),openn-form/genre,,Bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00138
 Bookplates (Provenance),rbprov,,Bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00138
+Bookplates (Provenance),openn-form/genre,,Bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00138
 Bookplates (Provenance)--Denmark--20th century,rbprov,,Bookplates;Denmark;Twentieth century,http://id.loc.gov/vocabulary/rbmscv/cv00138;http://id.worldcat.org/fast/1204558;http://id.worldcat.org/fast/1159810
 Bookplates (Provenance)--United States--20th century,rbprov,,Bookplates;United States;Twentieth century,http://id.loc.gov/vocabulary/rbmscv/cv00138;http://id.worldcat.org/fast/1204155;http://id.worldcat.org/fast/1159810
+Books of hours,openn-form/genre,http://vocab.getty.edu/aat/300026457,books of hours,http://vocab.getty.edu/aat/300026457
+Books of hours,rbmscv,,Books of hours,http://id.loc.gov/vocabulary/rbmscv/cv01037
+Books of hours,aat,,books of hours,http://vocab.getty.edu/aat/300026457
+Books of hours,rbgenr,,Books of hours,http://id.loc.gov/vocabulary/rbmscv/cv01037
 Bookseller's copies,rbmscv,,Booksellers' copies,http://id.loc.gov/vocabulary/rbmscv/cv00150
 Booksellers' copies,rbmscv,,Booksellers' copies,http://id.loc.gov/vocabulary/rbmscv/cv00150
 Booksellers' labels,rbmscv,,Booksellers' labels,http://id.loc.gov/vocabulary/rbmscv/cv00228
 Booksellers' labels (Provenance),rbprov,,Booksellers' labels,http://id.loc.gov/vocabulary/rbmscv/cv00228
-Books of hours,openn-form/genre,http://vocab.getty.edu/aat/300026457,books of hours,http://vocab.getty.edu/aat/300026457
-Books of hours,rbgenr,,Books of hours,http://id.loc.gov/vocabulary/rbmscv/cv01037
-books of hours,aat,,books of hours,http://vocab.getty.edu/aat/300026457
-Books of hours,aat,,books of hours,http://vocab.getty.edu/aat/300026457
-Books of hours,rbmscv,,Books of hours,http://id.loc.gov/vocabulary/rbmscv/cv01037
 Bosses,lobt,,bosses,http://w3id.org/lob/concept/1230
 Bosses (Binding),rbbin,,Bosses (Bindings),http://id.loc.gov/vocabulary/rbmscv/cv00444
 Bosses (Binding)--20th century,rbbin,,Bosses (Bindings);Twentieth century,http://id.loc.gov/vocabulary/rbmscv/cv00444;http://id.worldcat.org/fast/1159810
-botanical illustrations,aat,,botanical illustrations,http://vocab.getty.edu/page/aat/300386711
 Braided secondary endband sewing,lobt,,braided secondary endband sewing,http://w3id.org/lob/concept/2547
+Breviaries,rbmscv,,Breviaries,http://id.loc.gov/vocabulary/rbmscv/cv01045
 Breviaries,rbgenr,,Breviaries,http://id.loc.gov/vocabulary/rbmscv/cv01045
 Breviaries,lcgft,,Breviaries,http://id.worldcat.org/fast/1922430
 Breviaries,aat,,breviaries,http://vocab.getty.edu/aat/300026459
 Breviaries,lcsh,,Breviaries,http://id.worldcat.org/fast/838495
-Breviaries,rbmscv,,Breviaries,http://id.loc.gov/vocabulary/rbmscv/cv01045
 Broadsides,rbmscv,,Broadsides,http://id.loc.gov/vocabulary/rbmscv/cv00912
 Brocade bindings (Binding),rbbin,,Brocade bindings,http://id.loc.gov/vocabulary/rbmscv/cv00449
 Bullae (seals),aat,,bullae (seals),http://vocab.getty.edu/aat/300266223
@@ -133,23 +127,23 @@ Certificates,rbgenr,,Certificates,http://id.loc.gov/vocabulary/rbmscv/cv02106
 Chained bindings,rbmscv,,Chained bindings,http://id.loc.gov/vocabulary/rbmscv/cv00546
 Chained bindings (Binding),rbbin,,Chained bindings,http://id.loc.gov/vocabulary/rbmscv/cv00546
 Chants,lcgft,,Chants,http://id.worldcat.org/fast/1920060
-Charters,aat,,charters,http://vocab.getty.edu/aat/300027621
 Charters,rbgenr,,Charters,http://id.loc.gov/vocabulary/rbmscv/cv01095
+Charters,aat,,charters,http://vocab.getty.edu/aat/300027621
 "Charts, diagrams, etc",openn-form/genre,,"Charts, diagrams, etc.",http://id.worldcat.org/fast/1423732
 Chemises,rbmscv,,Chemises,http://id.loc.gov/vocabulary/rbmscv/cv00732
 Choirbooks,aat,,choirbooks,http://vocab.getty.edu/aat/300026422
 Christian poetry,fast,,Christian poetry,http://id.worldcat.org/fast/859372
-Chronicles,rbgenr,,Chronicles,http://id.loc.gov/vocabulary/rbmscv/cv00842
 Chronicles,aat,,chronicles,http://vocab.getty.edu/aat/300026361
+Chronicles,rbgenr,,Chronicles,http://id.loc.gov/vocabulary/rbmscv/cv00842
 Chronologies,lcgft,,Chronologies,http://id.worldcat.org/fast/1423901
 Chronologies (lists),aat,,chronologies (lists),http://vocab.getty.edu/aat/300252008
 Church records,aat,,church records,http://vocab.getty.edu/aat/300027967
 Civil court records,aat,,civil court records,http://vocab.getty.edu/aat/300027866
+Clasp straps,lobt,,Clasp straps,https://www.ligatus.org.uk/lob/concept/2858
 Clasps,rbmscv,,Clasps,http://id.loc.gov/vocabulary/rbmscv/cv00448
 Clasps (Binding),rbbin,,Clasps,http://id.loc.gov/vocabulary/rbmscv/cv00448
 Clasps (Bindings),rbbin,,Clasps,http://id.loc.gov/vocabulary/rbmscv/cv00448
 Clasps (components),lobt,,clasps (components),http://w3id.org/lob/concept/1254
-Clasp straps,lobt,,Clasp straps,https://www.ligatus.org.uk/lob/concept/2858
 Cloth bindings (Binding),rbbin,,Cloth bindings,http://id.loc.gov/vocabulary/rbmscv/cv00451
 Coats of arms,aat,,coats of arms,http://vocab.getty.edu/aat/300126352
 Codes,rbmscv,,Codes (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00231
@@ -157,40 +151,37 @@ Codes (Provenances),rbmscv,,Codes (Provenance),http://id.loc.gov/vocabulary/rbms
 Codices,aat,,codices (bound manuscripts),http://vocab.getty.edu/aat/300224200
 Codices,,,Manuscripts,http://id.worldcat.org/fast/1008230
 Codices (bound manuscipts),openn-form/genre,,codices (bound manuscripts),http://vocab.getty.edu/aat/300224200
-Codices (bound manuscripts),openn-form/genre,,codices (bound manuscripts),http://vocab.getty.edu/aat/300224200
-codices (bound manuscripts),openn-form/genre,,codices (bound manuscripts),http://vocab.getty.edu/aat/300224200
-codices (bound manuscripts),aat,,codices (bound manuscripts),http://vocab.getty.edu/aat/300224200
 Codices (bound manuscripts),aat,,codices (bound manuscripts),http://vocab.getty.edu/aat/300224200
+Codices (bound manuscripts),openn-form/genre,,codices (bound manuscripts),http://vocab.getty.edu/aat/300224200
 Collages (visual works),aat,,collages (visual works),http://vocab.getty.edu/aat/300033963
 Collations,aat,,collations,http://vocab.getty.edu/aat/300311715
 Colored papers (Paper),rbpap,,Colored papers,http://id.loc.gov/vocabulary/rbmscv/cv01138
 Comedy plays,fast,,Comedy plays,http://id.worldcat.org/fast/1921567
 Comedy plays,lcgft,,Comedy plays,http://id.worldcat.org/fast/1921567
-Commentaries,openn-form/genre,,commentaries,http://vocab.getty.edu/aat/300026098
-commentaries,aat,,commentaries,http://vocab.getty.edu/aat/300026098
 Commentaries,aat,,commentaries,http://vocab.getty.edu/aat/300026098
-Commentaries,fast,,Commentaries,http://id.worldcat.org/fast/1423723
+Commentaries,openn-form/genre,,commentaries,http://vocab.getty.edu/aat/300026098
 Commentaries,lcsh,,Commentaries,http://id.worldcat.org/fast/1423723
+Commentaries,fast,,Commentaries,http://id.worldcat.org/fast/1423723
 Commentries,aat,,commentaries,http://vocab.getty.edu/aat/300026098
 Commissions,aat,,commissions (permissions),http://vocab.getty.edu/aat/300026876
-Commonplace books,aat,,commonplace books,http://vocab.getty.edu/aat/300027093
 Commonplace books,rbgenr,,Commonplace books,http://id.loc.gov/vocabulary/rbmscv/cv01149
+Commonplace books,aat,,commonplace books,http://vocab.getty.edu/aat/300027093
 Compendiums,aat,,compendiums,http://vocab.getty.edu/aat/300026106
-Compilation manuscripts,openn-form/genre,,compilation manuscripts,http://vocab.getty.edu/aat/300403970
 Compilation manuscripts,aat,,compilation manuscripts,http://vocab.getty.edu/aat/300403970
+Compilation manuscripts,openn-form/genre,,compilation manuscripts,http://vocab.getty.edu/aat/300403970
 Compound endbands,lobt,,compound endbands,http://w3id.org/lob/concept/3621
 Constitutions,aat,,constitutions,http://vocab.getty.edu/aat/300027437
 Contemporary bindings (Binding),rbbin,,Contemporary bindings,http://id.loc.gov/vocabulary/rbmscv/cv00480
 Continuous sewing guards,lobt,,continuous sewing guards,http://w3id.org/lob/concept/4919
-Contracts,aat,,contracts,http://vocab.getty.edu/aat/300027649
 Contracts,rbgenr,,Contracts,http://id.loc.gov/vocabulary/rbmscv/cv01170
+Contracts,aat,,contracts,http://vocab.getty.edu/aat/300027649
 Controlled vocabularies,fast,,Controlled vocabularies,http://id.worldcat.org/fast/1919906
 Controlled vocabularies,lcgft,,Controlled vocabularies,http://id.worldcat.org/fast/1919906
 Controversial literature,fast,,Controversial literature,http://id.worldcat.org/fast/1423907
 Cookbooks,aat,,cookbooks,http://vocab.getty.edu/aat/300026109
 Corners (furniture),lobt,,Corners (furniture),https://www.ligatus.org.uk/lob/concept/2866
-Correspondence,aat,,correspondence,http://vocab.getty.edu/aat/300026877
 Correspondence,rbgenr,,Correspondence,http://id.loc.gov/vocabulary/rbmscv/cv01184
+Correspondence,aat,,correspondence,http://vocab.getty.edu/aat/300026877
 Correspondence--15th century,aat,,correspondence;Fifteenth century,http://vocab.getty.edu/aat/300026877;http://id.worldcat.org/fast/923962
 Correspondence--16th century,aat,,correspondence;Sixteenth century,http://vocab.getty.edu/aat/300026877;http://id.worldcat.org/fast/1119851
 Correspondence--Germany--16th century,aat,,correspondence;Germany;Sixteenth century,http://vocab.getty.edu/aat/300026877;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/1119851
@@ -198,7 +189,6 @@ Credit records,aat,,credit records,http://vocab.getty.edu/aat/300027521
 Criminal court records,aat,,criminal court records,http://vocab.getty.edu/aat/300027883
 "Criticism, interpretation, etc",fast,,"Criticism, interpretation, etc.",http://id.worldcat.org/fast/1411635
 Customaries,aat,,customaries,http://vocab.getty.edu/aat/300256491
-cut-paper work,aat,,cut-paper work,http://vocab.getty.edu/page/aat/300068579
 Dates,rbmscv,,Dates (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00234
 Death certificates,aat,,death certificates,http://vocab.getty.edu/aat/300027410
 Death registers,aat,,death registers,http://vocab.getty.edu/aat/300027405
@@ -207,35 +197,31 @@ Decorated edges (Binding),rbbin,,Decorated edges,http://id.loc.gov/vocabulary/rb
 Decorated initials,aat,,decorated initials,http://vocab.getty.edu/aat/300417548
 Decrees,aat,,decrees,http://vocab.getty.edu/aat/300026925
 Decretals,aat,,decretals,http://vocab.getty.edu/aat/300026927
-Deeds,aat,,deeds,http://vocab.getty.edu/aat/300027249
 Deeds,rbgenr,,Deeds,http://id.loc.gov/vocabulary/rbmscv/cv01234
+Deeds,aat,,deeds,http://vocab.getty.edu/aat/300027249
 Deeds--Italy--10th century,aat,,deeds;Italy;Tenth century,http://vocab.getty.edu/aat/300027249;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1147737
 Deerskin bindings,rbmscv,,Deerskin bindings,http://id.loc.gov/vocabulary/rbmscv/cv00504
 Detached leaves,aat,,detached leaves,http://vocab.getty.edu/aat/300379890
-detached leaves (gathered matter),openn-form/genre,,detached leaves,http://vocab.getty.edu/aat/300379890
 Devices (Provenance),rbprov,,Devices (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00140
-devotional calendars,aat,,devotional calendars,http://vocab.getty.edu/aat/300026750
 Devotional calendars,aat,,devotional calendars,http://vocab.getty.edu/aat/300026750
-Devotional literature,openn-form/genre,,devotional literature,http://vocab.getty.edu/aat/300254377
 Devotional literature,aat,,devotional literature,http://vocab.getty.edu/aat/300254377
 Devotional literature,fast,,Devotional literature,http://id.worldcat.org/fast/892015
 Devotional literature,lcgft,,Devotional literature,http://id.worldcat.org/fast/892015
+Devotional literature,openn-form/genre,,devotional literature,http://vocab.getty.edu/aat/300254377
 Devotional literature,rbgenr,,Devotional literature,http://id.loc.gov/vocabulary/rbmscv/cv01040
-Diagrams,openn-form/genre,,diagrams,http://vocab.getty.edu/aat/300015387
-diagrams,openn-form/genre,,diagrams,http://vocab.getty.edu/aat/300015387
-diagrams,aat,,diagrams,http://vocab.getty.edu/aat/300015387
 Diagrams,aat,,diagrams,http://vocab.getty.edu/aat/300015387
+Diagrams,openn-form/genre,,diagrams,http://vocab.getty.edu/aat/300015387
 Dialogues,aat,,dialogues,http://vocab.getty.edu/aat/300026185
 Diaries,aat,,diaries,http://vocab.getty.edu/aat/300027112
 Diaries,rbgenr,,Diaries,http://id.loc.gov/vocabulary/rbmscv/cv01150
 Diced leather bindings (Binding),rbbin,,Diced leather bindings,http://id.loc.gov/vocabulary/rbmscv/cv00507
-Dictionaries,openn-form/genre,,dictionaries,http://vocab.getty.edu/aat/300026186
+Dictionaries,lcgft,,Dictionaries,http://id.worldcat.org/fast/1423826
 Dictionaries,aat,,dictionaries,http://vocab.getty.edu/aat/300026186
 Dictionaries,fast,,Dictionaries,http://id.worldcat.org/fast/1423826
-Dictionaries,lcgft,,Dictionaries,http://id.worldcat.org/fast/1423826
+Dictionaries,openn-form/genre,,dictionaries,http://vocab.getty.edu/aat/300026186
 "Didactic poetry, Latin",fast,,"Didactic poetry, Latin",http://id.worldcat.org/fast/893018
-Digital images,lcsh,,Digital images,http://id.worldcat.org/fast/1739927
 Digital images,,,Digital images,http://id.worldcat.org/fast/1739927
+Digital images,lcsh,,Digital images,http://id.worldcat.org/fast/1739927
 Diplomas,aat,,diplomas,http://vocab.getty.edu/aat/300028011
 Discours,rvmgf,,Speeches,http://id.worldcat.org/fast/1774286
 Dispatches,aat,,dispatches,http://vocab.getty.edu/aat/300026930
@@ -243,14 +229,12 @@ Documents (object genre),aat,,documents (object genre),http://vocab.getty.edu/aa
 Doublures (Binding),rbbin,,Doublures,http://id.loc.gov/vocabulary/rbmscv/cv00513
 Drama,fast,,Drama,http://id.worldcat.org/fast/1423879
 Drama,lcgft,,Drama,http://id.worldcat.org/fast/1423879
-drawings,aat,,drawings (visual works),http://vocab.getty.edu/aat/300033973
 Drawings,aat,,drawings (visual works),http://vocab.getty.edu/aat/300033973
-drawings (visual works),aat,,drawings (visual works),http://vocab.getty.edu/aat/300033973
 Drawings (visual works),aat,,drawings (visual works),http://vocab.getty.edu/aat/300033973
 Drolleries--England--14th century,aat,,drolleries;England;Fourteenth century,http://vocab.getty.edu/aat/300165093;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/933420
 Dutch gilt papers (Binding),rbbin,,Dutch gilt paper bindings,http://id.loc.gov/vocabulary/rbmscv/cv00517
-Early maps,fast,,Early maps,http://id.worldcat.org/fast/1752681
 Early maps,lcgft,,Early maps,http://id.worldcat.org/fast/1752681
+Early maps,fast,,Early maps,http://id.worldcat.org/fast/1752681
 Early works,openn-form/genre,,Early works,http://id.worldcat.org/fast/1411636
 Early works,fast,,Early works,http://id.worldcat.org/fast/1411636
 Early works to 1800,,,Early works,http://id.worldcat.org/fast/1411636
@@ -264,14 +248,14 @@ Endleaves,lobt,,endleaves,http://w3id.org/lob/concept/1317
 Endpapers (Binding),rbbin,,Endpapers,http://id.loc.gov/vocabulary/rbmscv/cv00528
 Engravings (prints),aat,,engravings (prints),http://vocab.getty.edu/aat/300041340
 Engravings--Germany--15th century,aat,,engravings (prints);Germany;Fifteenth century,http://vocab.getty.edu/aat/300041340;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/923962
-Envelope flaps (features),openn-form/genre,,envelope flaps (features),http://w3id.org/lob/concept/1343
 Envelope flaps (features),lobt,,envelope flaps (features),http://w3id.org/lob/concept/1343
+Envelope flaps (features),openn-form/genre,,envelope flaps (features),http://w3id.org/lob/concept/1343
 Envelopes,aat,,envelopes,http://vocab.getty.edu/aat/300197601
-Ephemerides,fast,,Ephemerides,http://id.worldcat.org/fast/913680
 Ephemerides,lcgft,,Ephemerides,http://id.worldcat.org/fast/913680
+Ephemerides,fast,,Ephemerides,http://id.worldcat.org/fast/913680
 Epic poems,openn-form/genre,,epic poems,http://vocab.getty.edu/aat/300253035
-Epic poetry,fast,,Epic poetry,http://id.worldcat.org/fast/913799
 Epic poetry,gsafd,,Epic poetry,http://id.worldcat.org/fast/1726596
+Epic poetry,fast,,Epic poetry,http://id.worldcat.org/fast/913799
 Epic poetry,lcgft,,Epic poetry,http://id.worldcat.org/fast/913799
 "Epic poetry, Latin (Medieval and modern)",lcsh,,"Epic poetry, Latin (Medieval and modern)",http://id.worldcat.org/fast/913967
 Epigrams,aat,,epigrams,http://vocab.getty.edu/aat/300202533
@@ -280,21 +264,20 @@ Estate records,aat,,estate records,http://vocab.getty.edu/aat/300113285
 Etymological dictionaries,aat,,etymological dictionaries,http://vocab.getty.edu/aat/300026200
 Evangeliaries,aat,,evangeliaries,http://vocab.getty.edu/aat/300026466
 Evangeliaries,lcsh,,Evangeliaries,http://id.worldcat.org/fast/916991
-Excerpts,aat,,excerpts,http://vocab.getty.edu/aat/300026939
 Excerpts,fast,,Excerpts,http://id.worldcat.org/fast/1692837
+Excerpts,aat,,excerpts,http://vocab.getty.edu/aat/300026939
 Excerpts,lcgft,,Excerpts,http://id.worldcat.org/fast/1692837
 Executive records,aat,,executive records,http://vocab.getty.edu/aat/300172756
 Expurgated copies,rbmscv,,Expurgated copies,http://id.loc.gov/vocabulary/rbmscv/cv00239
+Facsimiles,lcgft,,Facsimiles,http://id.worldcat.org/fast/1411642
 Facsimiles,aat,,facsimiles (reproductions),http://vocab.getty.edu/aat/300121391
 Facsimiles,fast,,Facsimiles,http://id.worldcat.org/fast/1411642
-Facsimiles,lcgft,,Facsimiles,http://id.worldcat.org/fast/1411642
 Family histories,fast,,Family histories,http://id.worldcat.org/fast/1919924
 Family histories,lcgft,,Family histories,http://id.worldcat.org/fast/1919924
-Fiction,fast,,Fiction,http://id.worldcat.org/fast/1423787
 Fiction,lcgft,,Fiction,http://id.worldcat.org/fast/1423787
-figure initials,aat,,figure initials,http://vocab.getty.edu/page/aat/300199991
-Filigree,openn-form/genre,,filigree,http://w3id.org/lob/concept/2895
+Fiction,fast,,Fiction,http://id.worldcat.org/fast/1423787
 Filigree,lobt,,filigree,http://w3id.org/lob/concept/2895
+Filigree,openn-form/genre,,filigree,http://w3id.org/lob/concept/2895
 Financial documents,aat,,financial records,http://vocab.getty.edu/aat/300027473
 Financial records,aat,,financial records,http://vocab.getty.edu/aat/300027473
 Flap bindings,openn-form/genre,,Flap bindings,http://id.loc.gov/vocabulary/rbmscv/cv00468
@@ -304,25 +287,23 @@ Fore-edge paintings (Binding)--England--14th century,rbbin,,Fore-edge paintings;
 Formularies,aat,,formularies,http://vocab.getty.edu/aat/300253016
 "Formulas, recipes, etc",aat,,formulas (instructions),http://vocab.getty.edu/aat/300438609
 Fragments,aat,,fragments (object portions),http://vocab.getty.edu/aat/300117130
-fragments (object portions),aat,,fragments (object portions),http://vocab.getty.edu/aat/300117130
 Fragments (object portions),aat,,fragments (object portions),http://vocab.getty.edu/aat/300117130
 Frame covers,lobt,,frame covers,http://w3id.org/lob/concept/1345
 Full covers,openn-form/genre,,full covers,http://w3id.org/lob/concept/1348
 Full covers,lobt,,full covers,http://w3id.org/lob/concept/1348
 Furniture,rbmscv,,Furniture,http://id.loc.gov/vocabulary/rbmscv/cv00445
 Furniture (components),lobt,,Furniture (components),https://www.ligatus.org.uk/lob/concept/1353
-Gatherings (gathered matter components),openn-form/genre,,gatherings (gathered matter components),http://vocab.getty.edu/aat/300194226
 Gatherings (gathered matter components),aat,,gatherings (gathered matter components),http://vocab.getty.edu/aat/300194226
+Gatherings (gathered matter components),openn-form/genre,,gatherings (gathered matter components),http://vocab.getty.edu/aat/300194226
 Gauffered edges,rbmscv,,Gauffered edges,http://id.loc.gov/vocabulary/rbmscv/cv00745
 Gauffered edges (Binding),rbbin,,Gauffered edges,http://id.loc.gov/vocabulary/rbmscv/cv00745
-Genealogical tables,openn-form/genre,,genealogical tables,http://vocab.getty.edu/aat/300027016
 Genealogical tables,aat,,genealogical tables,http://vocab.getty.edu/aat/300027016
+Genealogical tables,openn-form/genre,,genealogical tables,http://vocab.getty.edu/aat/300027016
 Genealogies,aat,,genealogies (histories),http://vocab.getty.edu/aat/300027015
 Genealogies (Genre/Form),rbgenr,,Genealogies,http://id.loc.gov/vocabulary/rbmscv/cv01398
 Genealogies (histories),aat,,genealogies (histories),http://vocab.getty.edu/aat/300027015
 Genealogy,fast,,Genealogy,http://id.worldcat.org/fast/1423818
 Gilt edges (Binding),rbbin,,Gilt edges,http://id.loc.gov/vocabulary/rbmscv/cv00748
-Glossaries,aat,,glossaries,http://vocab.getty.edu/aat/300026189
 Glossaries,aat,,glossaries,http://vocab.getty.edu/aat/300026189
 "Glossaries, vocabularies, etc",fast,,"Glossaries, vocabularies, etc.",http://id.worldcat.org/fast/1423786
 Glossed Bibles,aat,,glossed Bibles,http://vocab.getty.edu/aat/300263404
@@ -330,10 +311,10 @@ Glosses (annotations),aat,,glosses (annotations),http://vocab.getty.edu/aat/3002
 Goatskin bindings,rbmscv,,Goatskin bindings,http://id.loc.gov/vocabulary/rbmscv/cv00547
 Goatskin bindings (Binding),rbbin,,Goatskin bindings,http://id.loc.gov/vocabulary/rbmscv/cv00547
 Goatskin bindings (Binding)--14th century,rbbin,,Goatskin bindings;Fourteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00547;http://id.worldcat.org/fast/933420
-Gold-tooled (decoration),lobt,,gold-tooled (decoration),http://w3id.org/lob/concept/1371
 Gold tooled bindings,rbmscv,,Gold tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00551
 Gold tooled bindings (Binding),rbbin,,Gold tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00551
 Gold tooled bindings (Provenance),rbprov,,Gold tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00551
+Gold-tooled (decoration),lobt,,gold-tooled (decoration),http://w3id.org/lob/concept/1371
 Gospel books,rbmscv,,Gospel books,http://id.loc.gov/vocabulary/rbmscv/cv01317
 Gothic scripts,aat,,Gothic scripts,http://vocab.getty.edu/aat/300195226
 Government records,aat,,government records,http://vocab.getty.edu/aat/300027777
@@ -343,9 +324,9 @@ Graduals (Service books),lcgft,,Graduals (Service books),http://id.worldcat.org/
 Graduals (service books),lcgft,,Graduals (Service books),http://id.worldcat.org/fast/1920168
 Grammars (instructional materials),aat,,grammars (instructional materials),http://vocab.getty.edu/aat/300252962
 Greek style bindings,rbmscv,,Greek style bindings,http://id.loc.gov/vocabulary/rbmscv/cv00330
+Gregorian chants,lcgft,,Gregorian chants,http://id.worldcat.org/fast/947816
 Gregorian chants,aat,,Gregorian chants,http://vocab.getty.edu/aat/300265207
 Gregorian chants,fast,,Gregorian chants,http://id.worldcat.org/fast/947816
-Gregorian chants,lcgft,,Gregorian chants,http://id.worldcat.org/fast/947816
 Grotesques,aat,,grotesques,http://vocab.getty.edu/aat/300010211
 Hagiographies,rvmgf,,Hagiographies,http://id.worldcat.org/fast/1922442
 Hagiographies,fast,,Hagiographies,http://id.worldcat.org/fast/1922442
@@ -359,7 +340,6 @@ Handbooks,aat,,handbooks,http://vocab.getty.edu/aat/300311807
 Handbooks and manuals,fast,,Handbooks and manuals,http://id.worldcat.org/fast/1423877
 Handbooks and manuals,lcgft,,Handbooks and manuals,http://id.worldcat.org/fast/1423877
 Headbands (Binding),rbbin,,Headbands,http://id.loc.gov/vocabulary/rbmscv/cv00453
-headpieces (layout features),aat,,headpieces (layout features),http://vocab.getty.edu/page/aat/300207342
 Headpieces (layout features)--10th century,aat,,headpieces (layout features);Tenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1147737
 Headpieces (layout features)--11th century,aat,,headpieces (layout features);Eleventh century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/908096
 Herbals,aat,,herbals (reference sources),http://vocab.getty.edu/aat/300185352
@@ -372,17 +352,15 @@ Historiated initials--Germany--14th century,aat,,historiated initials;Germany;Fo
 Historiated initials--Italy--14th century,aat,,historiated initials;Italy;Fourteenth century,http://vocab.getty.edu/aat/300194390;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/933420
 Historiated initials--Italy--15th century,aat,,historiated initials;Italy;Fifteenth century,http://vocab.getty.edu/aat/300194390;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/923962
 Historiated initials--Italy--16th century,aat,,historiated initials;Italy;Sixteenth century,http://vocab.getty.edu/aat/300194390;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1119851
-histories,aat,,histories (literary works),http://vocab.getty.edu/aat/300026358
 Histories,aat,,histories (literary works),http://vocab.getty.edu/aat/300026358
 Histories (literary works),aat,,histories (literary works),http://vocab.getty.edu/aat/300026358
 History,openn-form/genre,,History,http://id.worldcat.org/fast/1411628
 History,fast,,History,http://id.worldcat.org/fast/1411628
-holographs (autographs),aat,,holographs (autographs),http://vocab.getty.edu/page/aat/300028573
 Homiliaries,aat,,homiliaries,http://vocab.getty.edu/aat/300211641
 Homiliaries,lcsh,,Homiliaries,http://id.worldcat.org/fast/959694
-Humanistic scripts,aat,,humanistic scripts,http://vocab.getty.edu/aat/300210204
-Humanistic scripts,aat.,,humanistic scripts,http://vocab.getty.edu/aat/300210204
 Humanist scripts,aat,,humanistic scripts,http://vocab.getty.edu/aat/300210204
+Humanistic scripts,aat.,,humanistic scripts,http://vocab.getty.edu/aat/300210204
+Humanistic scripts,aat,,humanistic scripts,http://vocab.getty.edu/aat/300210204
 Hymnals,aat,,hymnals,http://vocab.getty.edu/aat/300026463
 Hymns,openn-form/genre,,hymns,http://vocab.getty.edu/aat/300167054
 Hymns,aat,,hymns,http://vocab.getty.edu/aat/300167054
@@ -391,7 +369,6 @@ Hymns,lcgft,,Hymns,http://id.worldcat.org/fast/1423701
 Hymns (documents),aat,,hymns,http://vocab.getty.edu/aat/300167054
 Illegible markings,rbmscv,,Illegible markings,http://id.loc.gov/vocabulary/rbmscv/cv00159
 Illuminated initials (layout features),aat,,decorated initials,http://vocab.getty.edu/aat/300417548
-illuminated manuscripts,aat,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483
 Illuminated manuscripts,aat,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483
 Illuminated manuscripts--10th century,aat,,illuminated manuscripts;Tenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1147737
 Illuminated manuscripts--11th century,aat,,illuminated manuscripts;Eleventh century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/908096
@@ -412,21 +389,16 @@ Illuminated manuscripts--Italy--14th century,aat,,illuminated manuscripts;Italy;
 Illuminated manuscripts--Italy--15th century,aat,,illuminated manuscripts;Italy;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/923962
 Illuminated manuscripts--Italy--Florence--15th century,aat,,illuminated manuscripts;Italy--Florence;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204699;http://id.worldcat.org/fast/923962
 Illuminated manuscripts--Italy--Siena--14th century,aat,,illuminated manuscripts;Italy--Siena;Fourteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204409;http://id.worldcat.org/fast/933420
-Illuminations,openn-form/genre,,illuminations (paintings),http://vocab.getty.edu/aat/300264522
-illuminations,aat,,illuminations (paintings),http://vocab.getty.edu/aat/300264522
 Illuminations,aat,,illuminations (paintings),http://vocab.getty.edu/aat/300264522
+Illuminations,openn-form/genre,,illuminations (paintings),http://vocab.getty.edu/aat/300264522
 Illuminations,gmgpc,,Illumination of books and manuscripts,http://id.worldcat.org/fast/967235
 Illuminations (painting),openn-form/genre,,illuminations (paintings),http://vocab.getty.edu/aat/300264522
-illuminations (painting),aat,,illuminations (paintings),http://vocab.getty.edu/aat/300264522
 Illuminations (painting),aat,,illuminations (paintings),http://vocab.getty.edu/aat/300264522
 Illuminations (paintings),openn-form/genre,,illuminations (paintings),http://vocab.getty.edu/aat/300264522
-illuminations (paintings),aat,,illuminations (paintings),http://vocab.getty.edu/aat/300264522
-illuminations (visual works),aat,,illuminations (paintings),http://vocab.getty.edu/aat/300264522
 Illuminations (visual works),aat,,illuminations (paintings),http://vocab.getty.edu/aat/300264522
 Illustrated works,rbgenr,,Illustrated works,http://id.loc.gov/vocabulary/rbmscv/cv00860
 Illustrated works,fast,,Illustrated works,http://id.worldcat.org/fast/1423873
 Illustrated works,lcgft,,Illustrated works,http://id.worldcat.org/fast/1423873
-impressed watermarks,aat,,impressed watermarks,http://vocab.getty.edu/page/aat/300028754
 Incunabula,lcsh,,Incunabula,http://id.worldcat.org/fast/968842
 Indentures,aat,,indentures,http://vocab.getty.edu/aat/300027753
 Indentures--15th century,aat,,indentures;Fifteenth century,http://vocab.getty.edu/aat/300027753;http://id.worldcat.org/fast/923962
@@ -435,7 +407,6 @@ Indexes,aat,,indexes (reference sources),http://vocab.getty.edu/aat/300026554
 Indulgences (documents),aat,,indulgences (documents),http://vocab.getty.edu/aat/300201452
 Inhabited initials--England--14th century,aat,,inhabited initials;England;Fourteenth century,http://vocab.getty.edu/aat/300198398;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/933420
 Initials,rbmscv,,Initials (Abbreviations),http://id.loc.gov/vocabulary/rbmscv/cv00244
-initials (layout features),aat,,initials (layout features),http://vocab.getty.edu/page/aat/300168055
 Initials (layout features)--11th century,aat,,initials (layout features);Eleventh century,http://vocab.getty.edu/aat/300168055;http://id.worldcat.org/fast/908096
 Initials (layout features)--12th century,aat,,initials (layout features);Twelfth century,http://vocab.getty.edu/aat/300168055;http://id.worldcat.org/fast/1159791
 Initials (layout features)--13th century,aat,,initials (layout features);Thirteenth century,http://vocab.getty.edu/aat/300168055;http://id.worldcat.org/fast/1150138
@@ -446,8 +417,8 @@ Initials (layout features)--Italy--16th century,aat,,initials (layout features);
 Initials (layout features)--Spain--14th century,aat,,initials (layout features);Spain;Fourteenth century,http://vocab.getty.edu/aat/300168055;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/933420
 Ink stamps,rbmscv,,Ink stamps,http://id.loc.gov/vocabulary/rbmscv/cv00246
 Inlaying,openn-form/genre,,inlaying,http://w3id.org/lob/concept/4236
-Inlays (decorative components),openn-form/genre,,inlays (decorative components),http://w3id.org/lob/concept/3533
 Inlays (decorative components),lobt,,inlays (decorative components),http://w3id.org/lob/concept/3533
+Inlays (decorative components),openn-form/genre,,inlays (decorative components),http://w3id.org/lob/concept/3533
 Inscriptions,rbmscv,,Inscriptions,http://id.loc.gov/vocabulary/rbmscv/cv00180
 Inscriptions (Provenance),rbprov,,Inscriptions,http://id.loc.gov/vocabulary/rbmscv/cv00180
 Insertions,rbmscv,,Insertions (Production),http://id.loc.gov/vocabulary/rbmscv/cv00768
@@ -458,6 +429,7 @@ Islamic bookbinding,lcsh,,Islamic bookbinding,http://id.worldcat.org/fast/173028
 Journals,rbgenr,,Diaries,http://id.loc.gov/vocabulary/rbmscv/cv01150
 Judicial records,aat,,judicial records,http://vocab.getty.edu/aat/300027850
 Kapitalbünde,lobt,,Kapitalbünde,http://w3id.org/lob/concept/1406
+Kapitalbünde,lobt,,Kapitalbünde,http://w3id.org/lob/concept/1406
 Lacquered bindings (Binding),openn-form/genre,,Lacquered bindings,http://id.loc.gov/vocabulary/rbmscv/cv00578
 Land surveys,aat,,land surveys,http://vocab.getty.edu/aat/300027257
 Laws,aat,,laws (documents),http://vocab.getty.edu/aat/300027894
@@ -484,16 +456,16 @@ Legends,fast,,Legends,http://id.worldcat.org/fast/995592
 Legends,lcgft,,Legends,http://id.worldcat.org/fast/995592
 Letters,aat,,letters (correspondence),http://vocab.getty.edu/aat/300026879
 Letters (correspondence),aat,,letters (correspondence),http://vocab.getty.edu/aat/300026879
+Letters patent,aat,,letters patent,http://vocab.getty.edu/aat/300027820
 Letters--15th century,aat,,letters (correspondence);Fifteenth century,http://vocab.getty.edu/aat/300026879;http://id.worldcat.org/fast/923962
 Letters--16th century,aat,,letters (correspondence);Sixteenth century,http://vocab.getty.edu/aat/300026879;http://id.worldcat.org/fast/1119851
 Letters--Germany--16th century,aat,,letters (correspondence);Germany;Sixteenth century,http://vocab.getty.edu/aat/300026879;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/1119851
-Letters patent,aat,,letters patent,http://vocab.getty.edu/aat/300027820
 Library copies,rbmscv,,Library copies,http://id.loc.gov/vocabulary/rbmscv/cv00154
 Licenses,aat,,licenses,http://vocab.getty.edu/aat/300027759
 Limp bindings,rbmscv,,Limp bindings,http://id.loc.gov/vocabulary/rbmscv/cv00590
 Limp covers,lobt,,limp covers,http://w3id.org/lob/concept/1423
-Lists,aat,,lists (document genres),http://vocab.getty.edu/aat/300027119
 Lists,fast,,Lists,http://id.worldcat.org/fast/1424058
+Lists,aat,,lists (document genres),http://vocab.getty.edu/aat/300027119
 Lists (document genres),aat,,lists (document genres),http://vocab.getty.edu/aat/300027119
 Litanies (prayers),aat,,litanies (prayers),http://vocab.getty.edu/aat/300026470
 Liturgical books,openn-form/genre,,Liturgical books,http://id.worldcat.org/fast/1922455
@@ -501,19 +473,29 @@ Liturgical books,lcgft,,Liturgical books,http://id.worldcat.org/fast/1922455
 Liturgical poetry,openn-form/genre,,Liturgical poetry,http://id.worldcat.org/fast/1921717
 Liturgical use,openn-form/genre,http://id.loc.gov/authorities/subjects/sh2002011416.html,Liturgics,http://id.worldcat.org/fast/1000579
 Livres de chant liturgique,rvmgf,,Service books (Music),http://id.worldcat.org/fast/1113403
-magic squares,aat,,magic squares,http://vocab.getty.edu/page/aat/300222283
 Manicules,rbprov,,Manicules,http://id.loc.gov/vocabulary/rbmscv/cv00248
 Manicules,rbmscv,,Manicules,http://id.loc.gov/vocabulary/rbmscv/cv00248
 Manicules (Provenance),rbprov,,Manicules,http://id.loc.gov/vocabulary/rbmscv/cv00248
 "Mansucripts, Hebrew",lcsh,,"Manuscripts, Hebrew",http://id.worldcat.org/fast/1008360
-manuals (instructional materials),aat,,manuals (instructional materials),http://vocab.getty.edu/aat/300026395
 Manuals (instructional materials),aat,,manuals (instructional materials),http://vocab.getty.edu/aat/300026395
-Manuscript maps,lcgft,,Manuscript maps,http://id.worldcat.org/fast/1752677
 Manuscript maps,fast,,Manuscript maps,http://id.worldcat.org/fast/1752677
+Manuscript maps,lcgft,,Manuscript maps,http://id.worldcat.org/fast/1752677
+Manuscript waste,rbbin,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568
+Manuscript waste,rbmscv ,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568
+Manuscript waste,rbmscv,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568
+Manuscript waste (Binding),rbbin,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568
+Manuscript waste (Binding),rbgenr,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568
+Manuscript waste (Binding)--15th century,rbbin,,Manuscript waste;Fifteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01568;http://id.worldcat.org/fast/923962
+Manuscript waste (Binding)--16th century,rbbin,,Manuscript waste;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01568;http://id.worldcat.org/fast/1119851
+Manuscript waste (Bindings),rbbin,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568
 Manuscripts,lcgft,,Manuscripts,http://id.worldcat.org/fast/1424060
 Manuscripts,aat,,manuscripts (documents),http://vocab.getty.edu/aat/300028569
 Manuscripts,fast,,Manuscripts,http://id.worldcat.org/fast/1424060
 Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060
+Manuscripts (documents),openn-form/genre,,manuscripts (documents),http://vocab.getty.edu/aat/300028569
+Manuscripts (documents),aat.,,manuscripts (documents),http://vocab.getty.edu/aat/300028569
+Manuscripts (documents),aat,,manuscripts (documents),http://vocab.getty.edu/aat/300028569
+Manuscripts Latin (Medieval and modern)--Italy,lcsh,,"Manuscripts, Latin (Medieval and modern);Italy",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204565
 "Manuscripts, 13th century",lcsh,,Manuscripts;Thirteenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1150138
 "Manuscripts, 14th century",lcsh,,Manuscripts;Fourteenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/933420
 "Manuscripts, 15th century",lcsh,,Manuscripts;Fifteenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/923962
@@ -521,10 +503,10 @@ Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060
 "Manuscripts, 16th century",lcsh,,Manuscripts;Sixteenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1119851
 "Manuscripts, 17th century",openn-form/genre,,Manuscripts;Seventeenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1113663
 "Manuscripts, 17th century",lcsh,,Manuscripts;Seventeenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1113663
-"Manuscripts, 18th century",openn-form/genre,,Manuscripts;Eighteenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/904058
 "Manuscripts, 18th century",lcsh,,Manuscripts;Eighteenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/904058
-"Manuscripts, 19th century",openn-form/genre,,Manuscripts;Nineteenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1037841
+"Manuscripts, 18th century",openn-form/genre,,Manuscripts;Eighteenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/904058
 "Manuscripts, 19th century",lcsh,,Manuscripts;Nineteenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1037841
+"Manuscripts, 19th century",openn-form/genre,,Manuscripts;Nineteenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1037841
 "Manuscripts, African",lcsh,,"Manuscripts, African",http://id.worldcat.org/fast/1008267
 "Manuscripts, Arabic",openn-form/genre,,"Manuscripts, Arabic",http://id.worldcat.org/fast/1008278
 "Manuscripts, Arabic",lcsh,,"Manuscripts, Arabic",http://id.worldcat.org/fast/1008278
@@ -533,19 +515,19 @@ Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060
 "Manuscripts, Arabic--10th century",lcsh,,"Manuscripts, Arabic;Tenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1147737
 "Manuscripts, Arabic--11th century",aat,,"Manuscripts, Arabic;Eleventh century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/908096
 "Manuscripts, Arabic--13th century",lcsh,,"Manuscripts, Arabic;Thirteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1150138
-"Manuscripts, Arabic--14th century",lcsh,,"Manuscripts, Arabic;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/933420
 "Manuscripts, Arabic--14th century",,,"Manuscripts, Arabic;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/933420
+"Manuscripts, Arabic--14th century",lcsh,,"Manuscripts, Arabic;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/933420
 "Manuscripts, Arabic--15th century",openn-form/genre,,"Manuscripts, Arabic;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/923962
 "Manuscripts, Arabic--15th century",lcsh,,"Manuscripts, Arabic;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/923962
 "Manuscripts, Arabic--16th century",openn-form/genre,,"Manuscripts, Arabic;Sixteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1119851
 "Manuscripts, Arabic--16th century",local,,"Manuscripts, Arabic;Sixteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1119851
-"Manuscripts, Arabic--17th century",openn-form/genre,,"Manuscripts, Arabic;Seventeenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1113663
 "Manuscripts, Arabic--17th century",lcsh,,"Manuscripts, Arabic;Seventeenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1113663
-"Manuscripts, Arabic--18th century",openn-form/genre,,"Manuscripts, Arabic;Eighteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/904058
+"Manuscripts, Arabic--17th century",openn-form/genre,,"Manuscripts, Arabic;Seventeenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1113663
 "Manuscripts, Arabic--18th century",lcsh,,"Manuscripts, Arabic;Eighteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/904058
+"Manuscripts, Arabic--18th century",openn-form/genre,,"Manuscripts, Arabic;Eighteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/904058
 "Manuscripts, Arabic--18th century",local,,"Manuscripts, Arabic;Eighteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/904058
-"Manuscripts, Arabic--19th century",openn-form/genre,,"Manuscripts, Arabic;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1037841
 "Manuscripts, Arabic--19th century",local,,"Manuscripts, Arabic;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1037841
+"Manuscripts, Arabic--19th century",openn-form/genre,,"Manuscripts, Arabic;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1037841
 "Manuscripts, Arabic--20th century",local,,"Manuscripts, Arabic;Twentieth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1159810
 "Manuscripts, Armenian",lcsh,,"Manuscripts, Armenian",http://id.worldcat.org/fast/1008290
 "Manuscripts, Armenian--Armenia",lcsh,,"Manuscripts, Armenian;Armenia",http://id.worldcat.org/fast/1008290;http://id.worldcat.org/fast/1206470
@@ -572,26 +554,26 @@ Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060
 "Manuscripts, Ethiopic",lcsh,,"Manuscripts, Ethiopic",http://id.worldcat.org/fast/1008334
 "Manuscripts, European",lcsh,,"Manuscripts, European",http://id.worldcat.org/fast/1008335
 "Manuscripts, French",lcsh,,"Manuscripts, French",http://id.worldcat.org/fast/1008338
-"Manuscripts, French--14th century",lcsh,,"Manuscripts, French;Fourteenth century",http://id.worldcat.org/fast/1008338;http://id.worldcat.org/fast/933420
 "Manuscripts, French--14th century",local,,"Manuscripts, French;Fourteenth century",http://id.worldcat.org/fast/1008338;http://id.worldcat.org/fast/933420
-"Manuscripts, French--15th century",lcsh,,"Manuscripts, French;Fifteenth century",http://id.worldcat.org/fast/1008338;http://id.worldcat.org/fast/923962
+"Manuscripts, French--14th century",lcsh,,"Manuscripts, French;Fourteenth century",http://id.worldcat.org/fast/1008338;http://id.worldcat.org/fast/933420
 "Manuscripts, French--15th century",local,,"Manuscripts, French;Fifteenth century",http://id.worldcat.org/fast/1008338;http://id.worldcat.org/fast/923962
+"Manuscripts, French--15th century",lcsh,,"Manuscripts, French;Fifteenth century",http://id.worldcat.org/fast/1008338;http://id.worldcat.org/fast/923962
 "Manuscripts, French--16th century",local,,"Manuscripts, French;Sixteenth century",http://id.worldcat.org/fast/1008338;http://id.worldcat.org/fast/1119851
 "Manuscripts, French--England",lcsh,,"Manuscripts, French;England",http://id.worldcat.org/fast/1008338;http://id.worldcat.org/fast/1219920
 "Manuscripts, French--France",lcsh,,"Manuscripts, French;France",http://id.worldcat.org/fast/1008338;http://id.worldcat.org/fast/1204289
 "Manuscripts, German",lcsh,,"Manuscripts, German",http://id.worldcat.org/fast/1008346
 "Manuscripts, German--13th century",local,,"Manuscripts, German;Thirteenth century",http://id.worldcat.org/fast/1008346;http://id.worldcat.org/fast/1150138
 "Manuscripts, German--15th century",lcsh,,"Manuscripts, German;Fifteenth century",http://id.worldcat.org/fast/1008346;http://id.worldcat.org/fast/923962
-"Manuscripts, German--16th century",lcsh,,"Manuscripts, German;Sixteenth century",http://id.worldcat.org/fast/1008346;http://id.worldcat.org/fast/1119851
 "Manuscripts, German--16th century",,,"Manuscripts, German;Sixteenth century",http://id.worldcat.org/fast/1008346;http://id.worldcat.org/fast/1119851
+"Manuscripts, German--16th century",lcsh,,"Manuscripts, German;Sixteenth century",http://id.worldcat.org/fast/1008346;http://id.worldcat.org/fast/1119851
 "Manuscripts, German--Germany",lcsh,,"Manuscripts, German;Germany",http://id.worldcat.org/fast/1008346;http://id.worldcat.org/fast/1210272
 "Manuscripts, Greek",lcsh,,"Manuscripts, Greek",http://id.worldcat.org/fast/1008349
 "Manuscripts, Greek (Medieval and modern)",lcsh,,"Manuscripts, Greek (Medieval and modern)",http://id.worldcat.org/fast/1008354
 "Manuscripts, Greek (Medieval and modern)--15th century",local,,"Manuscripts, Greek (Medieval and modern);Fifteenth century",http://id.worldcat.org/fast/1008354;http://id.worldcat.org/fast/923962
 "Manuscripts, Greek (Medieval and modern)--Greece",lcsh,,"Manuscripts, Greek (Medieval and modern);Greece",http://id.worldcat.org/fast/1008354;http://id.worldcat.org/fast/1208380
 "Manuscripts, Greek (Medieval and modern)--Italy",lcsh,,"Manuscripts, Greek (Medieval and modern);Italy",http://id.worldcat.org/fast/1008354;http://id.worldcat.org/fast/1204565
-"Manuscripts, Greek--11th century",aat,,"Manuscripts, Greek;Eleventh century",http://id.worldcat.org/fast/1008349;http://id.worldcat.org/fast/908096
 "Manuscripts, Greek--11th century",local,,"Manuscripts, Greek;Eleventh century",http://id.worldcat.org/fast/1008349;http://id.worldcat.org/fast/908096
+"Manuscripts, Greek--11th century",aat,,"Manuscripts, Greek;Eleventh century",http://id.worldcat.org/fast/1008349;http://id.worldcat.org/fast/908096
 "Manuscripts, Hebrew",lcsh,,"Manuscripts, Hebrew",http://id.worldcat.org/fast/1008360
 "Manuscripts, Hebrew--14th century",local,,"Manuscripts, Hebrew;Fourteenth century",http://id.worldcat.org/fast/1008360;http://id.worldcat.org/fast/933420
 "Manuscripts, Hebrew--15th century",lcsh,,"Manuscripts, Hebrew;Fifteenth century",http://id.worldcat.org/fast/1008360;http://id.worldcat.org/fast/923962
@@ -601,65 +583,64 @@ Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060
 "Manuscripts, Hebrew--Germany",lcsh,,"Manuscripts, Hebrew;Germany",http://id.worldcat.org/fast/1008360;http://id.worldcat.org/fast/1210272
 "Manuscripts, Indic",openn-form/genre,,"Manuscripts, Indic",http://id.worldcat.org/fast/1008370
 "Manuscripts, Italian",lcsh,,"Manuscripts, Italian",http://id.worldcat.org/fast/1008378
+"Manuscripts, Italian -- Italy",lcsh,,"Manuscripts, Italian;Italy",http://id.worldcat.org/fast/1008378;http://id.worldcat.org/fast/1204565
 "Manuscripts, Italian--14th century",local,,"Manuscripts, Italian;Fourteenth century",http://id.worldcat.org/fast/1008378;http://id.worldcat.org/fast/933420
-"Manuscripts, Italian--15th century",lcsh,,"Manuscripts, Italian;Fifteenth century",http://id.worldcat.org/fast/1008378;http://id.worldcat.org/fast/923962
 "Manuscripts, Italian--15th century",local,,"Manuscripts, Italian;Fifteenth century",http://id.worldcat.org/fast/1008378;http://id.worldcat.org/fast/923962
+"Manuscripts, Italian--15th century",lcsh,,"Manuscripts, Italian;Fifteenth century",http://id.worldcat.org/fast/1008378;http://id.worldcat.org/fast/923962
 "Manuscripts, Italian--16th century",lcsh,,"Manuscripts, Italian;Sixteenth century",http://id.worldcat.org/fast/1008378;http://id.worldcat.org/fast/1119851
 "Manuscripts, Italian--16th century",local,,"Manuscripts, Italian;Sixteenth century",http://id.worldcat.org/fast/1008378;http://id.worldcat.org/fast/1119851
 "Manuscripts, Italian--17th century",lcsh,,"Manuscripts, Italian;Seventeenth century",http://id.worldcat.org/fast/1008378;http://id.worldcat.org/fast/1113663
 "Manuscripts, Italian--17th century",local,,"Manuscripts, Italian;Seventeenth century",http://id.worldcat.org/fast/1008378;http://id.worldcat.org/fast/1113663
 "Manuscripts, Italian--18th century",lcsh,,"Manuscripts, Italian;Eighteenth century",http://id.worldcat.org/fast/1008378;http://id.worldcat.org/fast/904058
-"Manuscripts, Italian -- Italy",lcsh,,"Manuscripts, Italian;Italy",http://id.worldcat.org/fast/1008378;http://id.worldcat.org/fast/1204565
 "Manuscripts, Italian--Italy",lcsh,,"Manuscripts, Italian;Italy",http://id.worldcat.org/fast/1008378;http://id.worldcat.org/fast/1204565
 "Manuscripts, Judeo-Arabic",lcsh,,"Manuscripts, Judeo-Arabic",http://id.worldcat.org/fast/1008384
 "Manuscripts, Judeo-Arabic--15th century",,,"Manuscripts, Judeo-Arabic;Fifteenth century",http://id.worldcat.org/fast/1008384;http://id.worldcat.org/fast/923962
 "Manuscripts, Latin",lcsh,,"Manuscripts, Latin",http://id.worldcat.org/fast/1008395
-"Manuscripts, Latin (medieval and modern)",lcsh,,"Manuscripts, Latin (Medieval and modern)",http://id.worldcat.org/fast/1008399
 "Manuscripts, Latin (Medieval and Modern)--Austria",lcsh,,"Manuscripts, Latin (Medieval and modern);Austria",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204901
+"Manuscripts, Latin (Medieval and Modern)--France",lcsh,,"Manuscripts, Latin (Medieval and modern);France",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204289
+"Manuscripts, Latin (Medieval and Modern)--Germany",lcsh,,"Manuscripts, Latin (Medieval and modern);Germany",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1210272
+"Manuscripts, Latin (Medieval and Modern)--Italy",lcsh,,"Manuscripts, Latin (Medieval and modern);Italy",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204565
 "Manuscripts, Latin (Medieval and modern)--Austria",lcsh,,"Manuscripts, Latin (Medieval and modern);Austria",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204901
 "Manuscripts, Latin (Medieval and modern)--Belgium",lcsh,,"Manuscripts, Latin (Medieval and modern);Belgium",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1210278
 "Manuscripts, Latin (Medieval and modern)--England",lcsh,,"Manuscripts, Latin (Medieval and modern);England",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1219920
 "Manuscripts, Latin (Medieval and modern)--Flanders",lcsh,,"Manuscripts, Latin (Medieval and modern)",http://id.worldcat.org/fast/1008399
-"Manuscripts, Latin (Medieval and Modern)--France",lcsh,,"Manuscripts, Latin (Medieval and modern);France",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204289
 "Manuscripts, Latin (Medieval and modern)--France",lcsh,,"Manuscripts, Latin (Medieval and modern);France",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204289
 "Manuscripts, Latin (Medieval and modern)--France--Orléans",lcsh,,"Manuscripts, Latin (Medieval and modern);France--Orléans",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1207560
-"Manuscripts, Latin (Medieval and Modern)--Germany",lcsh,,"Manuscripts, Latin (Medieval and modern);Germany",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1210272
+"Manuscripts, Latin (Medieval and modern)--France--Orléans",lcsh,,"Manuscripts, Latin (Medieval and modern);France--Orléans",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1207560
 "Manuscripts, Latin (Medieval and modern)--Germany",lcsh,,"Manuscripts, Latin (Medieval and modern);Germany",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1210272
-"Manuscripts, Latin (Medieval and Modern)--Italy",lcsh,,"Manuscripts, Latin (Medieval and modern);Italy",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204565
 "Manuscripts, Latin (Medieval and modern)--Italy",lcsh,,"Manuscripts, Latin (Medieval and modern);Italy",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204565
 "Manuscripts, Latin (Medieval and modern)--Massachusetts--Boston",lcsh,,"Manuscripts, Latin (Medieval and modern);Massachusetts--Boston",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1205012
 "Manuscripts, Latin (Medieval and modern)--Netherlands",lcsh,,"Manuscripts, Latin (Medieval and modern);Netherlands",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204034
 "Manuscripts, Latin (Medieval and modern)--Spain",lcsh,,"Manuscripts, Latin (Medieval and modern);Spain",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204303
+"Manuscripts, Latin (medieval and modern)",lcsh,,"Manuscripts, Latin (Medieval and modern)",http://id.worldcat.org/fast/1008399
 "Manuscripts, Latin--11th century",local,,"Manuscripts, Latin;Eleventh century",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/908096
 "Manuscripts, Latin--11th century",,,"Manuscripts, Latin;Eleventh century",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/908096
 "Manuscripts, Latin--12th century",local,,"Manuscripts, Latin;Twelfth century",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/1159791
-"Manuscripts, Latin--13th century",lcsh,,"Manuscripts, Latin;Thirteenth century",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/1150138
 "Manuscripts, Latin--13th century",local,,"Manuscripts, Latin;Thirteenth century",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/1150138
+"Manuscripts, Latin--13th century",lcsh,,"Manuscripts, Latin;Thirteenth century",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/1150138
 "Manuscripts, Latin--14th century",lcsh,,"Manuscripts, Latin;Fourteenth century",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/933420
 "Manuscripts, Latin--14th century",local,,"Manuscripts, Latin;Fourteenth century",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/933420
-"Manuscripts, Latin--15th century",lcsh,,"Manuscripts, Latin;Fifteenth century",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/923962
 "Manuscripts, Latin--15th century",local,,"Manuscripts, Latin;Fifteenth century",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/923962
+"Manuscripts, Latin--15th century",lcsh,,"Manuscripts, Latin;Fifteenth century",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/923962
 "Manuscripts, Latin--15th century",,,"Manuscripts, Latin;Fifteenth century",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/923962
-"Manuscripts, Latin--16th century",lcsh,,"Manuscripts, Latin;Sixteenth century",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/1119851
 "Manuscripts, Latin--16th century",local,,"Manuscripts, Latin;Sixteenth century",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/1119851
+"Manuscripts, Latin--16th century",lcsh,,"Manuscripts, Latin;Sixteenth century",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/1119851
 "Manuscripts, Latin--17th century",local,,"Manuscripts, Latin;Seventeenth century",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/1113663
 "Manuscripts, Latin--9th century",lcsh,,"Manuscripts, Latin;Ninth century",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/1037854
 "Manuscripts, Latin--9th century",,,"Manuscripts, Latin;Ninth century",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/1037854
 "Manuscripts, Latin--Italy",lcsh,,"Manuscripts, Latin;Italy",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/1204565
-"Manuscripts, Medieval",lcsh,,"Manuscripts, Medieval",http://id.worldcat.org/fast/1008422
 "Manuscripts, Medieval",local,,"Manuscripts, Medieval",http://id.worldcat.org/fast/1008422
+"Manuscripts, Medieval",lcsh,,"Manuscripts, Medieval",http://id.worldcat.org/fast/1008422
+"Manuscripts, Medieval -- Italy",lcsh,,"Manuscripts, Medieval;Italy",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204565
 "Manuscripts, Medieval--Armenia",lcsh,,"Manuscripts, Medieval;Armenia",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1206470
 "Manuscripts, Medieval--Austria",lcsh,,"Manuscripts, Medieval;Austria",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204901
 "Manuscripts, Medieval--Belgium",lcsh,,"Manuscripts, Medieval;Belgium",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1210278
 "Manuscripts, Medieval--England",lcsh,,"Manuscripts, Medieval;England",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1219920
 "Manuscripts, Medieval--Flanders",lcsh,,"Manuscripts, Medieval;Europe--Flanders",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1245991
-"Manuscripts,Medieval--France",lcsh,,"Manuscripts, Medieval;France",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204289
 "Manuscripts, Medieval--France",lcsh,,"Manuscripts, Medieval;France",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204289
 "Manuscripts, Medieval--Germany",lcsh,,"Manuscripts, Medieval;Germany",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1210272
 "Manuscripts, Medieval--Greece",lcsh,,"Manuscripts, Medieval;Greece",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1208380
-"Manuscripts,Medieval--Iran",lcsh,,"Manuscripts, Medieval;Iran",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204889
 "Manuscripts, Medieval--Iran",lcsh,,"Manuscripts, Medieval;Iran",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204889
-"Manuscripts, Medieval -- Italy",lcsh,,"Manuscripts, Medieval;Italy",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204565
 "Manuscripts, Medieval--Italy",lcsh,,"Manuscripts, Medieval;Italy",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204565
 "Manuscripts, Medieval--Massachusetts--Boston",lcsh,,"Manuscripts, Medieval;Massachusetts--Boston",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1205012
 "Manuscripts, Medieval--Massachusetts--England",lcsh,,"Manuscripts, Medieval;Massachusetts;England",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204307;http://id.worldcat.org/fast/1219920
@@ -681,11 +662,12 @@ Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060
 "Manuscripts, Persian--17th century",local,,"Manuscripts, Persian;Seventeenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1113663
 "Manuscripts, Persian--18th century",openn-form/genre,,"Manuscripts, Persian;Eighteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/904058
 "Manuscripts, Persian--18th century",local,,"Manuscripts, Persian;Eighteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/904058
+"Manuscripts, Persian--19th century",local,,"Manuscripts, Persian;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1037841
 "Manuscripts, Persian--19th century",openn-form/genre,,"Manuscripts, Persian;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1037841
 "Manuscripts, Persian--19th century",lcsh,,"Manuscripts, Persian;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1037841
-"Manuscripts, Persian--19th century",local,,"Manuscripts, Persian;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1037841
 "Manuscripts, Persian--Iran",lcsh,,"Manuscripts, Persian;Iran",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1204889
 "Manuscripts, Provençal",lcsh,,"Manuscripts, Provençal",http://id.worldcat.org/fast/1008469
+"Manuscripts, Provençal",lcsh,,"Manuscripts, Provençal",http://id.worldcat.org/fast/1008469
 "Manuscripts, Renaissance",lcsh,,"Manuscripts, Renaissance",http://id.worldcat.org/fast/1008472
 "Manuscripts, Renaissance--England",lcsh,,"Manuscripts, Renaissance;England",http://id.worldcat.org/fast/1008472;http://id.worldcat.org/fast/1219920
 "Manuscripts, Renaissance--Italy",lcsh,,"Manuscripts, Renaissance;Italy",http://id.worldcat.org/fast/1008472;http://id.worldcat.org/fast/1204565
@@ -695,26 +677,23 @@ Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060
 "Manuscripts, Sanskrit--18th century",lcsh,,"Manuscripts, Sanskrit;Eighteenth century",http://id.worldcat.org/fast/1008482;http://id.worldcat.org/fast/904058
 "Manuscripts, Sanskrit--19th century",lcsh,,"Manuscripts, Sanskrit;Nineteenth century",http://id.worldcat.org/fast/1008482;http://id.worldcat.org/fast/1037841
 "Manuscripts, Spanish",lcsh,,"Manuscripts, Spanish",http://id.worldcat.org/fast/1008500
-"Manuscripts, Spanish--16th century",lcsh,,"Manuscripts, Spanish;Sixteenth century",http://id.worldcat.org/fast/1008500;http://id.worldcat.org/fast/1119851
 "Manuscripts, Spanish--16th century",local,,"Manuscripts, Spanish;Sixteenth century",http://id.worldcat.org/fast/1008500;http://id.worldcat.org/fast/1119851
+"Manuscripts, Spanish--16th century",lcsh,,"Manuscripts, Spanish;Sixteenth century",http://id.worldcat.org/fast/1008500;http://id.worldcat.org/fast/1119851
 "Manuscripts, Spanish--17th century",local,,"Manuscripts, Spanish;Seventeenth century",http://id.worldcat.org/fast/1008500;http://id.worldcat.org/fast/1113663
 "Manuscripts, Spanish--Belgium",lcsh,,"Manuscripts, Spanish;Belgium",http://id.worldcat.org/fast/1008500;http://id.worldcat.org/fast/1210278
 "Manuscripts, Spanish--Spain",lcsh,,"Manuscripts, Spanish;Spain",http://id.worldcat.org/fast/1008500;http://id.worldcat.org/fast/1204303
 "Manuscripts, Syriac",openn-form/genre,,"Manuscripts, Syriac",http://id.worldcat.org/fast/1008506
 "Manuscripts, Tashelhit--18th century",local,,"Manuscripts, Tashelhit;Eighteenth century",http://id.worldcat.org/fast/1008493;http://id.worldcat.org/fast/904058
 "Manuscripts, Tashelhit--19th century",local,,"Manuscripts, Tashelhit;Nineteenth century",http://id.worldcat.org/fast/1008493;http://id.worldcat.org/fast/1037841
-"Manuscripts, Turkish",openn-form/genre,,"Manuscripts, Turkish",http://id.worldcat.org/fast/1008521
 "Manuscripts, Turkish",lcsh,,"Manuscripts, Turkish",http://id.worldcat.org/fast/1008521
+"Manuscripts, Turkish",openn-form/genre,,"Manuscripts, Turkish",http://id.worldcat.org/fast/1008521
 "Manuscripts, Turkish--16th century",local,,"Manuscripts, Turkish;Sixteenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/1119851
 "Manuscripts, Turkish--18th century",openn-form/genre,,"Manuscripts, Turkish;Eighteenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/904058
 "Manuscripts, Turkish--18th century",lcsh,,"Manuscripts, Turkish;Eighteenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/904058
 "Manuscripts, Turkish--19th century",openn-form/genre,,"Manuscripts, Turkish;Nineteenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/1037841
 "Manuscripts, Turkish--19th century",local,,"Manuscripts, Turkish;Nineteenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/1037841
-Manuscripts (documents),openn-form/genre,,manuscripts (documents),http://vocab.getty.edu/aat/300028569
-manuscripts (documents),openn-form/genre,,manuscripts (documents),http://vocab.getty.edu/aat/300028569
-Manuscripts (documents),aat.,,manuscripts (documents),http://vocab.getty.edu/aat/300028569
-manuscripts (documents),aat,,manuscripts (documents),http://vocab.getty.edu/aat/300028569
-Manuscripts (documents),aat,,manuscripts (documents),http://vocab.getty.edu/aat/300028569
+"Manuscripts,Medieval--France",lcsh,,"Manuscripts, Medieval;France",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204289
+"Manuscripts,Medieval--Iran",lcsh,,"Manuscripts, Medieval;Iran",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204889
 Manuscripts--14th century,aat,,manuscripts (documents);Fourteenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/933420
 Manuscripts--Armenia--13th century,aat,,manuscripts (documents);Armenia;Thirteenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1206470;http://id.worldcat.org/fast/1150138
 Manuscripts--Armenia--17th century,aat,,manuscripts (documents);Armenia;Seventeenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1206470;http://id.worldcat.org/fast/1113663
@@ -730,32 +709,22 @@ Manuscripts--Germany--12th century,aat,,manuscripts (documents);Germany;Twelfth 
 Manuscripts--Germany--15th century,aat,,manuscripts (documents);Germany;Fifteenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/923962
 Manuscripts--India--17th century,lcsh,,Manuscripts;India;Seventeenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/1113663
 Manuscripts--India--18th century,lcsh,,Manuscripts;India;Eighteenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/904058
-Manuscripts--India--19th century,lcsh,,Manuscripts;India;Nineteenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/1037841
 Manuscripts--India--19th century,local,,Manuscripts;India;Nineteenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/1037841
+Manuscripts--India--19th century,lcsh,,Manuscripts;India;Nineteenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/1037841
 Manuscripts--Iraq--12th century,aat,,manuscripts (documents);Iraq;Twelfth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1205757;http://id.worldcat.org/fast/1159791
 Manuscripts--Italy--11th century,aat,,manuscripts (documents);Italy;Eleventh century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/908096
 Manuscripts--Italy--14th century,aat,,manuscripts (documents);Italy;Fourteenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/933420
 Manuscripts--Italy--15th century,aat,,manuscripts (documents);Italy;Fifteenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/923962
 Manuscripts--Italy--16th century,aat,,manuscripts (documents);Italy;Sixteenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1119851
 Manuscripts--Italy--9th century,,,Manuscripts;Italy;Ninth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1037854
-Manuscripts Latin (Medieval and modern)--Italy,lcsh,,"Manuscripts, Latin (Medieval and modern);Italy",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204565
 Manuscripts--Netherlands--15th century,aat,,manuscripts (documents);Netherlands;Fifteenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1204034;http://id.worldcat.org/fast/923962
 Manuscripts--Spain--15th century,aat,,manuscripts (documents);Spain;Fifteenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/923962
-Manuscript waste,rbbin,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568
-Manuscript waste,rbmscv,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568
-Manuscript waste,rbmscv ,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568
-Manuscript waste (Binding),rbgenr,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568
-Manuscript waste (Binding),rbbin,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568
-Manuscript waste (Binding)--15th century,rbbin,,Manuscript waste;Fifteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01568;http://id.worldcat.org/fast/923962
-Manuscript waste (Binding)--16th century,rbbin,,Manuscript waste;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01568;http://id.worldcat.org/fast/1119851
-Manuscript waste (Bindings),rbbin,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568
 Maps,aat,,maps (documents),http://vocab.getty.edu/aat/300028094
 Maps,fast,,Maps,http://id.worldcat.org/fast/1423704
 Maps,lcgft,,Maps,http://id.worldcat.org/fast/1423704
 Maps (documents),aat,,maps (documents),http://vocab.getty.edu/aat/300028094
 Marbled paper bindings (Binding),rbbin,,Marbled paper bindings,http://id.loc.gov/vocabulary/rbmscv/cv00496
 Marginalia,rbmscv,,Marginalia,http://id.loc.gov/vocabulary/rbmscv/cv00255
-marginalia (annotations),aat,,marginalia (annotations),http://vocab.getty.edu/aat/300026102
 Marginalia (annotations),aat,,marginalia (annotations),http://vocab.getty.edu/aat/300026102
 Marriage certificates,aat,,marriage certificates,http://vocab.getty.edu/aat/300027418
 Maxims,aat,,maxims,http://vocab.getty.edu/aat/300264591
@@ -764,7 +733,6 @@ Menus,aat,,menus,http://vocab.getty.edu/aat/300027191
 Metal clasps,rbmscv,,Metal clasps,http://id.loc.gov/vocabulary/rbmscv/cv00602
 Metal cuts,aat,,metal cuts,http://vocab.getty.edu/aat/300041396
 Metalcuts--Germany--15th century,aat,,metal cuts;Germany;Fifteenth century,http://vocab.getty.edu/aat/300041396;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/923962
-military commissions,aat,,military commissions,http://vocab.getty.edu/aat/300027824
 Military history,fast,,Military history,http://id.worldcat.org/fast/1411630
 Miniature books,rbmscv,,Miniature books,http://id.loc.gov/vocabulary/rbmscv/cv00867
 Miniatures,aat,,Miniatures (paintings),http://vocab.getty.edu/aat/300033936
@@ -775,9 +743,8 @@ Miniatures (Illuminations)--France--Rouen--15th century,gmgpc,,Illumination of b
 Miniatures (Illuminations)--Italy--14th century,gmgpc,,Illumination of books and manuscripts;Italy;Fourteenth century,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/933420
 Miniatures (Illuminations)--Italy--15th century,gmgpc,,"Illumination of books and manuscripts, Italian;Fifteenth century",http://id.worldcat.org/fast/967315;http://id.worldcat.org/fast/923962
 Miniatures (Illuminations)--Italy--Siena--14th century,gmgpc,,Illumination of books and manuscripts;Italy--Siena;Fourteenth century,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1204409;http://id.worldcat.org/fast/933420
-Miniatures (paintings),openn-form/genre,,miniatures (paintings),http://vocab.getty.edu/aat/300033936
-miniatures (paintings),openn-form/genre,,miniatures (paintings),http://vocab.getty.edu/aat/300033936
 Miniatures (paintings),aat,,miniatures (paintings),http://vocab.getty.edu/aat/300033936
+Miniatures (paintings),openn-form/genre,,miniatures (paintings),http://vocab.getty.edu/aat/300033936
 Minuscule,aat,,minuscule,http://vocab.getty.edu/aat/300194448
 Minuscule--12th century,aat,,minuscule;Twelfth century,http://vocab.getty.edu/aat/300194448;http://id.worldcat.org/fast/1159791
 Minutes,aat,,minutes (administrative records),http://vocab.getty.edu/aat/300027440
@@ -802,8 +769,8 @@ Musical notation--France--12th century,lcsh,,Musical notation;France;Twelfth cen
 Musical works,rbgenr,,Musical works,http://id.loc.gov/vocabulary/rbmscv/cv00117
 Mystery plays,aat,,mystery plays,http://vocab.getty.edu/aat/300055914
 Naskhī,aat,,naskhī,http://vocab.getty.edu/aat/300195195
+Naskhī,aat,,naskhī,http://vocab.getty.edu/aat/300195195
 Neumes,lcsh,,Neumes,http://id.worldcat.org/fast/1036242
-notarial documents,aat,,notarial documents,http://vocab.getty.edu/aat/300164785
 Notarial documents,aat,,notarial documents,http://vocab.getty.edu/aat/300164785
 Notes (documents),openn-form/genre,,notes (documents),http://vocab.getty.edu/aat/300027200
 Notes (documents),aat,,notes (documents),http://vocab.getty.edu/aat/300027200
@@ -817,10 +784,8 @@ Orations,aat,,orations,http://vocab.getty.edu/aat/300026674
 Ordinances,aat,,ordinances,http://vocab.getty.edu/aat/300027895
 Painted (decoration),lobt,,painted (decoration),http://w3id.org/lob/concept/2325
 Paintings (visual works),aat,,paintings (visual works),http://vocab.getty.edu/aat/300033618
-palimpsests,aat,,palimpsests (manuscripts),http://vocab.getty.edu/aat/300028576
 Palimpsests,aat,,palimpsests (manuscripts),http://vocab.getty.edu/aat/300028576
 Palimpsests,lcsh,,Palimpsests,http://id.worldcat.org/fast/1051671
-palimpsests (manuscripts),aat,,palimpsests (manuscripts),http://vocab.getty.edu/aat/300028576
 Pamphlets,fast,,Pamphlets,http://id.worldcat.org/fast/1423837
 Panel-stamped bindings,rbmscv,,Panel-stamped bindings,http://id.loc.gov/vocabulary/rbmscv/cv00441
 Papal briefs,aat,,papal briefs,http://vocab.getty.edu/aat/300152022
@@ -832,10 +797,10 @@ Paraphrases,fast,,Paraphrases,http://id.worldcat.org/fast/1423839
 Parchment,aat,,parchment (animal material),http://vocab.getty.edu/aat/300011851
 Parchment (Paper),rbpap,,Parchment (Paper),http://id.loc.gov/vocabulary/rbmscv/cv01678
 Passion plays,aat,,passion plays,http://vocab.getty.edu/aat/300055915
-Pasteboard,rbmscv,,Pasteboard,http://id.loc.gov/vocabulary/rbmscv/cv00622
-Pastedowns,aat,,pastedowns,http://vocab.getty.edu/aat/300208775
 Paste paper bindings,rbmscv,,Paste paper bindings,http://id.loc.gov/vocabulary/rbmscv/cv00498
 Paste paper bindings (Binding),rbbin,,Paste paper bindings,http://id.loc.gov/vocabulary/rbmscv/cv00498
+Pasteboard,rbmscv,,Pasteboard,http://id.loc.gov/vocabulary/rbmscv/cv00622
+Pastedowns,aat,,pastedowns,http://vocab.getty.edu/aat/300208775
 Pen and wash drawings,aat,,pen and wash drawings,http://vocab.getty.edu/aat/300266219
 Penitentials,aat,,penitentials,http://vocab.getty.edu/aat/300211673
 Personal correspondence,lcgft,,Personal correspondence,http://id.worldcat.org/fast/1919948
@@ -843,49 +808,46 @@ Petitions,aat,,petitions,http://vocab.getty.edu/aat/300027219
 Petitions,rbgenr,,Petitions,http://id.loc.gov/vocabulary/rbmscv/cv01522
 Pictorial maps,fast,,Pictorial maps,http://id.worldcat.org/fast/1423807
 Pictorial maps,lcgft,,Pictorial maps,http://id.worldcat.org/fast/1423807
-Pictorial works,openn-form/genre,,Pictorial works,http://id.worldcat.org/fast/1423874
 Pictorial works,fast,,Pictorial works,http://id.worldcat.org/fast/1423874
+Pictorial works,openn-form/genre,,Pictorial works,http://id.worldcat.org/fast/1423874
 Pigskin bindings,rbmscv,,Pigskin bindings,http://id.loc.gov/vocabulary/rbmscv/cv00624
 Pigskin bindings (Binding)--16th century,rbbin,,Pigskin bindings;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00624;http://id.worldcat.org/fast/1119851
 Plays (document genre),aat,,plays (literary genre),http://vocab.getty.edu/aat/300451696
 Plays (performing arts compositions),aat,,plays (performing arts compositions),http://vocab.getty.edu/aat/300201028
-Poems,openn-form/genre,,poems,http://vocab.getty.edu/aat/300026451
-poems,aat,,poems,http://vocab.getty.edu/aat/300026451
-Poems,aat,,poems,http://vocab.getty.edu/aat/300026451
 Poems,rbgenr,,Poems,http://id.loc.gov/vocabulary/rbmscv/cv00203
-Poésie,rvmgf,,Poetry,http://id.worldcat.org/fast/1423828
+Poems,openn-form/genre,,poems,http://vocab.getty.edu/aat/300026451
+Poems,aat,,poems,http://vocab.getty.edu/aat/300026451
 Poetry,openn-form/genre,,Poetry,http://id.worldcat.org/fast/1423828
-Poetry,,,Poetry,http://id.worldcat.org/fast/1423828
-poetry,aat,,poetry,http://vocab.getty.edu/page/aat/300055931
-Poetry,fast,,Poetry,http://id.worldcat.org/fast/1423828
 Poetry,lcgft,,Poetry,http://id.worldcat.org/fast/1423828
+Poetry,fast,,Poetry,http://id.worldcat.org/fast/1423828
+Poetry,,,Poetry,http://id.worldcat.org/fast/1423828
+Poésie,rvmgf,,Poetry,http://id.worldcat.org/fast/1423828
 Pointille tooling,rbmscv,,Pointillé tooling,http://id.loc.gov/vocabulary/rbmscv/cv00627
 Polemics,aat,,polemics,http://vocab.getty.edu/aat/300252982
 Pontificals,aat,,pontificals,http://vocab.getty.edu/aat/300202602
 Pontificals,rbgenr,,Pontificals,http://id.loc.gov/vocabulary/rbmscv/cv01751
-Portolan charts,lcgft,,Portolan charts,http://id.worldcat.org/fast/1752683
-Portolan charts,fast,,Portolan charts,http://id.worldcat.org/fast/1752683
 Portolan charts,rbgenr,,Portolan charts,http://id.loc.gov/vocabulary/rbmscv/cv01753
+Portolan charts,fast,,Portolan charts,http://id.worldcat.org/fast/1752683
+Portolan charts,lcgft,,Portolan charts,http://id.worldcat.org/fast/1752683
 Portolanos,aat,,portolanos,http://vocab.getty.edu/aat/300137376
-Portraits,openn-form/genre,,portraits,http://vocab.getty.edu/aat/300015637
-Portraits,aat,,portraits,http://vocab.getty.edu/aat/300015637
-Portraits,fast,,Portraits,http://id.worldcat.org/fast/1423831
 Portraits,lcgft,,Portraits,http://id.worldcat.org/fast/1423831
+Portraits,openn-form/genre,,portraits,http://vocab.getty.edu/aat/300015637
+Portraits,fast,,Portraits,http://id.worldcat.org/fast/1423831
+Portraits,aat,,portraits,http://vocab.getty.edu/aat/300015637
+Poésie,rvmgf,,Poetry,http://id.worldcat.org/fast/1423828
 Prayer books,openn-form/genre,,prayer books,http://vocab.getty.edu/aat/300026476
-Prayer books,aat,,prayer books,http://vocab.getty.edu/aat/300026476
-Prayer books,lcsh,,Prayer books,http://id.worldcat.org/fast/1074734
 Prayer books,rbmscv,,Prayer books,http://id.loc.gov/vocabulary/rbmscv/cv01759
+Prayer books,lcsh,,Prayer books,http://id.worldcat.org/fast/1074734
+Prayer books,aat,,prayer books,http://vocab.getty.edu/aat/300026476
 Prayers,openn-form/genre,,prayers (literary works),http://vocab.getty.edu/aat/300026452
-Prayers,aat,,prayers (literary works),http://vocab.getty.edu/aat/300026452
-Prayers,fast,,Prayers,http://id.worldcat.org/fast/1074737
 Prayers,lcgft,,Prayers,http://id.worldcat.org/fast/1074737
+Prayers,fast,,Prayers,http://id.worldcat.org/fast/1074737
+Prayers,aat,,prayers (literary works),http://vocab.getty.edu/aat/300026452
 Prayers (documents),aat,,prayers (literary works),http://vocab.getty.edu/aat/300026452
 Prayers (literary works),openn-form/genre,,prayers (literary works),http://vocab.getty.edu/aat/300026452
 Prayers (literary works),aat,,prayers (literary works),http://vocab.getty.edu/aat/300026452
-Prayers and devotions,openn-form/genre,,Prayers and devotions,http://id.worldcat.org/fast/1423909
 Prayers and devotions,fast,,Prayers and devotions,http://id.worldcat.org/fast/1423909
-prayer scrolls,aat,,prayer scrolls,http://vocab.getty.edu/aat/300430768
-prescriptions,aat,,prescriptions,http://vocab.getty.edu/aat/300027231
+Prayers and devotions,openn-form/genre,,Prayers and devotions,http://id.worldcat.org/fast/1423909
 Prescriptions,aat,,prescriptions,http://vocab.getty.edu/aat/300027231
 "Prescriptions, formulae, receipts, etc",fast,,"Prescriptions, formulae, receipts, etc.",http://id.worldcat.org/fast/1424054
 Prices,rbmscv,,Prices (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00263
@@ -904,45 +866,45 @@ Protogothic,aat,,Protogothic,http://vocab.getty.edu/aat/300379143
 Provenance labels (Provenance),rbprov,,Provenance labels,http://id.loc.gov/vocabulary/rbmscv/cv00226
 Psalms (documents),aat,,psalms,http://vocab.getty.edu/aat/300379856
 Psalter,aat,,psalters (books),http://vocab.getty.edu/aat/300026477
-Psalters,fast,,Psalters,http://id.worldcat.org/fast/1922512
-Psalters,lcgft,,Psalters,http://id.worldcat.org/fast/1922512
-Psalters,aat,,psalters (books),http://vocab.getty.edu/aat/300026477
-Psalters,lcsh,,Psalters,http://id.worldcat.org/fast/1080778
 Psalters,rbmscv,,Psalters,http://id.loc.gov/vocabulary/rbmscv/cv01544
 Psalters,rbgenr,,Psalters,http://id.loc.gov/vocabulary/rbmscv/cv01544
+Psalters,lcsh,,Psalters,http://id.worldcat.org/fast/1080778
+Psalters,aat,,psalters (books),http://vocab.getty.edu/aat/300026477
+Psalters,lcgft,,Psalters,http://id.worldcat.org/fast/1922512
+Psalters,fast,,Psalters,http://id.worldcat.org/fast/1922512
 Psalters (books),aat,,psalters (books),http://vocab.getty.edu/aat/300026477
 Psautiers,rvmgf,,Psalters,http://id.worldcat.org/fast/1922512
 Pull-off boxes,openn-form/genre,,pull-off boxes,http://w3id.org/lob/concept/4465
 Quarter bindings (Binding),rbbin,,Quarter bindings,http://id.loc.gov/vocabulary/rbmscv/cv00333
 Quarter covers,lobt,,quarter covers,http://w3id.org/lob/concept/1530
-Quotations,fast,,Quotations,http://id.worldcat.org/fast/1423792
 Quotations,lcgft,,Quotations,http://id.worldcat.org/fast/1423792
+Quotations,fast,,Quotations,http://id.worldcat.org/fast/1423792
 Qur'ans,openn-form/genre,,Qur'ans,http://vocab.getty.edu/aat/300265128
 Qur'ans,aat,,Qur'ans,http://vocab.getty.edu/aat/300265128
 Qurʼans,openn-form/genre,,Qur'ans,http://vocab.getty.edu/aat/300265128
 Qurʼans,aat,,Qur'ans,http://vocab.getty.edu/aat/300265128
 Raised bands (Binding),rbbin,,Raised bands,http://id.loc.gov/vocabulary/rbmscv/cv00665
+Re-used (material),lobt,,re-used (materials),http://w3id.org/lob/concept/1535
+Re-used (materials),lobt,,re-used (materials),http://w3id.org/lob/concept/1535
 Reading lists,aat,,reading lists,http://vocab.getty.edu/aat/300027166
 Receipts,aat,,receipts (financial records),http://vocab.getty.edu/aat/300027573
 Receipts (financial records),aat,,receipts (financial records),http://vocab.getty.edu/aat/300027573
 Recessed sewing supports,lobt,,recessed sewing supports,http://w3id.org/lob/concept/2527
+Recipes,lcgft,,Recipes,http://id.worldcat.org/fast/1424190
 Recipes,aat,,recipes,http://vocab.getty.edu/aat/300027043
 Recipes,fast,,Recipes,http://id.worldcat.org/fast/1424190
-Recipes,lcgft,,Recipes,http://id.worldcat.org/fast/1424190
-Registers (lists),aat,,registers (lists),http://vocab.getty.edu/aat/300027168
-Registers (Lists),fast,,Registers (Lists),http://id.worldcat.org/fast/1919964
 Registers (Lists),lcgft,,Registers (Lists),http://id.worldcat.org/fast/1919964
+Registers (Lists),fast,,Registers (Lists),http://id.worldcat.org/fast/1919964
+Registers (lists),aat,,registers (lists),http://vocab.getty.edu/aat/300027168
 Regulations (executive records),aat,,regulations (executive records),http://vocab.getty.edu/aat/300027842
 Reports,aat,,reports,http://vocab.getty.edu/aat/300027267
-Re-used (material),lobt,,re-used (materials),http://w3id.org/lob/concept/1535
-Re-used (materials),lobt,,re-used (materials),http://w3id.org/lob/concept/1535
 Reversed leather bindings (Binding),rbbin,,Reversed leather bindings,http://id.loc.gov/vocabulary/rbmscv/cv00688
 Riddles,lcgft,,Riddles,http://id.worldcat.org/fast/1097588
 Riddles (document genres),aat,,riddles (documents),http://vocab.getty.edu/aat/300255244
 Rituals,rbgenr,,Rituals,http://id.loc.gov/vocabulary/rbmscv/cv01826
 Rituals (liturgical books),aat,,rituals (liturgical books),http://vocab.getty.edu/aat/300212285
-Romances,fast,,Romances,http://id.worldcat.org/fast/1423856
 Romances,lcgft,,Romances,http://id.worldcat.org/fast/1423856
+Romances,fast,,Romances,http://id.worldcat.org/fast/1423856
 Romances (document genre),aat,,romances (medieval narratives),http://vocab.getty.edu/aat/300191065
 Romances (literary genre),aat,,romances (medieval narratives),http://vocab.getty.edu/aat/300191065
 Romances (medieval narratives),aat,,romances (medieval narratives),http://vocab.getty.edu/aat/300191065
@@ -963,11 +925,9 @@ Satires (literary works),aat,,satires (literary works),http://vocab.getty.edu/aa
 Sayings,fast,,Aphorisms and apothegms,http://id.worldcat.org/fast/811330
 Sayings,lcgft,,Sayings,http://id.worldcat.org/fast/1920779
 Scientific illustrations,aat,,scientific illustrations (images),http://vocab.getty.edu/aat/300015595
-scientific illustrations (images),aat,,scientific illustrations (images),http://vocab.getty.edu/page/aat/300015595
-Scrolls,gmgpc,,Scrolls,http://id.worldcat.org/fast/1109413
 Scrolls,lcsh,,Scrolls,http://id.worldcat.org/fast/1109413
+Scrolls,gmgpc,,Scrolls,http://id.worldcat.org/fast/1109413
 Scrolls (information artifacts),openn-form/genre,,scrolls (information artifacts),http://vocab.getty.edu/aat/300028629
-scrolls (information artifacts),aat,,scrolls (information artifacts),http://vocab.getty.edu/aat/300028629
 Scrolls (information artifacts),aat,,scrolls (information artifacts),http://vocab.getty.edu/aat/300028629
 Seals,rbmscv,,Seals,http://id.loc.gov/vocabulary/rbmscv/cv00267
 Seals,rbgenr,,Seals,http://id.loc.gov/vocabulary/rbmscv/cv00267
@@ -976,18 +936,18 @@ Seals (marks),aat,,seals (marks),http://vocab.getty.edu/aat/300417667
 Secondary sewing (endband techniques),lobt,,secondary sewing (endband techniques),http://w3id.org/lob/concept/2536
 Separate pastedowns,lobt,,separate pastedowns,http://w3id.org/lob/concept/1575
 Separate sewing guards,lobt,,separate sewing guards,http://w3id.org/lob/concept/4921
-Sermons,rvmgf,,Sermons,http://id.worldcat.org/fast/1423904
 Sermons,aat,,sermons,http://vocab.getty.edu/aat/300026669
-Sermons,fast,,Sermons,http://id.worldcat.org/fast/1423904
-Sermons,lcgft,,Sermons,http://id.worldcat.org/fast/1423904
-Sermons,rbmscv,,Sermons,http://id.loc.gov/vocabulary/rbmscv/cv00099
+Sermons,rvmgf,,Sermons,http://id.worldcat.org/fast/1423904
 Sermons,rbgenr,,Sermons,http://id.loc.gov/vocabulary/rbmscv/cv00099
+Sermons,rbmscv,,Sermons,http://id.loc.gov/vocabulary/rbmscv/cv00099
+Sermons,lcgft,,Sermons,http://id.worldcat.org/fast/1423904
+Sermons,fast,,Sermons,http://id.worldcat.org/fast/1423904
 Sermons--14th century,aat,,sermons;Fourteenth century,http://vocab.getty.edu/aat/300026669;http://id.worldcat.org/fast/933420
-Service books (Music),lcgft,,Service books (Music),http://id.worldcat.org/fast/1920350
 Service books (Music),fast,,Service books (Music),http://id.worldcat.org/fast/1920350
+Service books (Music),lcgft,,Service books (Music),http://id.worldcat.org/fast/1920350
 Service books (religious texts),aat,,service books (religious texts),http://vocab.getty.edu/aat/300202605
-Shelfmarks,rbmscv,,Shelf marks,http://id.loc.gov/vocabulary/rbmscv/cv00268
 Shelf marks,rbmscv,,Shelf marks,http://id.loc.gov/vocabulary/rbmscv/cv00268
+Shelfmarks,rbmscv,,Shelf marks,http://id.loc.gov/vocabulary/rbmscv/cv00268
 Side labels,lobt,,side labels,http://w3id.org/lob/concept/4444
 Signed bindings,rbmscv,,Signed bindings,http://id.loc.gov/vocabulary/rbmscv/cv00701
 Silk doublures (Binding),rbbin,,Silk doublures,http://id.loc.gov/vocabulary/rbmscv/cv00661
@@ -998,12 +958,11 @@ Songs,aat,,songs (musical compositions),http://vocab.getty.edu/aat/300167056
 "Songs, Italian",fast,,"Songs, Italian",http://id.worldcat.org/fast/1126381
 Sonnets,aat,,sonnets,http://vocab.getty.edu/aat/300266382
 Sources,fast,,Sources,http://id.worldcat.org/fast/1423900
-Specimens,openn-form/genre,,Specimens,http://id.worldcat.org/fast/1423861
 Specimens,fast,,Specimens,http://id.worldcat.org/fast/1423861
+Specimens,openn-form/genre,,Specimens,http://id.worldcat.org/fast/1423861
 Speeches,aat,,speeches (documents),http://vocab.getty.edu/aat/300026671
-Speeches,fast,,Speeches,http://id.worldcat.org/fast/1774286
 Speeches,lcgft,,Speeches,http://id.worldcat.org/fast/1774286
-speeches (documents),aat,,speeches (documents),http://vocab.getty.edu/aat/300026671
+Speeches,fast,,Speeches,http://id.worldcat.org/fast/1774286
 Sprinkled edges (Binding),rbbin,,Sprinkled edges,http://id.loc.gov/vocabulary/rbmscv/cv00753
 Sprinkled paper bindings,rbmscv,,Sprinkled paper bindings,http://id.loc.gov/vocabulary/rbmscv/cv00500
 Sprinkled papers (Paper),rbpap,,Sprinkled papers,http://id.loc.gov/vocabulary/rbmscv/cv01920
@@ -1022,26 +981,22 @@ Tables,openn-form/genre,,tables (documents),http://vocab.getty.edu/aat/300027364
 Tables (Data),fast,,Tables (Data),http://id.worldcat.org/fast/1919974
 Tables (Data),lcgft,,Tables (Data),http://id.worldcat.org/fast/1919974
 Tables (documents),openn-form/genre,,tables (documents),http://vocab.getty.edu/aat/300027364
-tables (documents),openn-form/genre,,tables (documents),http://vocab.getty.edu/aat/300027364
-tables (documents),aat,,tables (documents),http://vocab.getty.edu/aat/300027364
 Tables (documents),aat,,tables (documents),http://vocab.getty.edu/aat/300027364
 Tables of contents,aat,,tables of contents,http://vocab.getty.edu/aat/300195187
 Tacketed bindings,rbmscv,,Tacketed bindings,http://id.loc.gov/vocabulary/rbmscv/cv00677
 Tacketed bindings (Binding),rbbin,,Tacketed bindings,http://id.loc.gov/vocabulary/rbmscv/cv00677
-tailpieces (layout features),aat,,tailpieces (layout features),http://vocab.getty.edu/page/aat/300207353
 Tariff schedules,aat,,tariff schedules,http://vocab.getty.edu/aat/300136689
 Tax records,aat,,tax records,http://vocab.getty.edu/aat/300027371
-Témoin,lobt,,témoin,http://w3id.org/lob/concept/5640
 Terminology,fast,,Terminology,http://id.worldcat.org/fast/1423880
 Testimonies,aat,,testimonies,http://vocab.getty.edu/aat/300027861
-Textbooks,lcgft,,Textbooks,http://id.worldcat.org/fast/1423863
-Textbooks,fast,,Textbooks,http://id.worldcat.org/fast/1423863
 Text guards,lobt,,text guards,http://w3id.org/lob/concept/3697
 Text-hook endleaves,lobt,,text-hook endleaves,http://w3id.org/lob/concept/1662
+Textbooks,lcgft,,Textbooks,http://id.worldcat.org/fast/1423863
+Textbooks,fast,,Textbooks,http://id.worldcat.org/fast/1423863
 Textile bindings,rbmscv,,Cloth bindings,http://id.loc.gov/vocabulary/rbmscv/cv00451
 Texts,fast,,Texts,http://id.worldcat.org/fast/1423705
 Textura (Gothic script),aat,,textura (Gothic script),http://vocab.getty.edu/aat/300202638
-textura (Gothic script),aat,,textura (Gothic script),http://vocab.getty.edu/aat/300202638
+Témoin,lobt,,témoin,http://w3id.org/lob/concept/5640
 Thumb indexes,rbmscv,,Thumb indexes,http://id.loc.gov/vocabulary/rbmscv/cv00754
 Ties,rbmscv,,Ties,http://id.loc.gov/vocabulary/rbmscv/cv00463
 Ties (Binding),rbbin,,Ties,http://id.loc.gov/vocabulary/rbmscv/cv00463
@@ -1052,12 +1007,10 @@ Translations (documents),openn-form/genre,,translations (documents),http://vocab
 Translations (documents),aat,,translations (documents),http://vocab.getty.edu/aat/300027389
 Transverse spine linings,lobt,,transverse spine linings,http://w3id.org/lob/concept/1680
 Treasure bindings,rbbin,,Treasure bindings,http://id.loc.gov/vocabulary/rbmscv/cv00526
-treatises,aat,,treatises,http://vocab.getty.edu/aat/300026681
 Treatises,aat,,treatises,http://vocab.getty.edu/aat/300026681
 Trials,aat,,trials,http://vocab.getty.edu/aat/300069665
 Trough-marbled paper,lobt,,trough-marbled paper,http://w3id.org/lob/concept/3990
-tuǧras,aat,,tuǧras,http://vocab.getty.edu/page/aat/300310091
-tuǧras,aat,,tuǧras,http://vocab.getty.edu/page/aat/300310091
+Témoin,lobt,,témoin,http://w3id.org/lob/concept/5640
 Vellum,aat,,vellum (parchment),http://vocab.getty.edu/aat/300011852
 Vellum (parchment),aat,,vellum (parchment),http://vocab.getty.edu/aat/300011852
 Vellum bindings,rbmscv,,Vellum bindings,http://id.loc.gov/vocabulary/rbmscv/cv00543
@@ -1070,7 +1023,6 @@ Velvet bindings,rbmscv,,Velvet bindings,http://id.loc.gov/vocabulary/rbmscv/cv00
 Velvet bindings (Binding),rbbin,,Velvet bindings,http://id.loc.gov/vocabulary/rbmscv/cv00708
 Velvet bindings (Binding)--19th century,rbbin,,Velvet bindings;Nineteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00708;http://id.worldcat.org/fast/1037841
 Volvelles,rbgenr,,Volvelles,http://id.loc.gov/vocabulary/rbmscv/cv02024
-volvelles,aat,,volvelles,http://vocab.getty.edu/aat/300247651
 Volvelles,aat,,volvelles,http://vocab.getty.edu/aat/300247651
 Volvelles,rbmscv,,Volvelles,http://id.loc.gov/vocabulary/rbmscv/cv02024
 Watercolors,aat,,watercolors (paintings),http://vocab.getty.edu/aat/300078925
@@ -1078,8 +1030,8 @@ Watercolors (paintings),aat,,watercolors (paintings),http://vocab.getty.edu/aat/
 Watermarks,aat,,watermarks,http://vocab.getty.edu/aat/300028749
 Watermarks (Paper),rbpap,,Watermarks,http://id.loc.gov/vocabulary/rbmscv/cv01089
 Watermarks (Provenance),rbprov,,Watermarks,http://id.loc.gov/vocabulary/rbmscv/cv01089
-Wills,openn-form/genre,,wills,http://vocab.getty.edu/aat/300027764
 Wills,aat,,wills,http://vocab.getty.edu/aat/300027764
+Wills,openn-form/genre,,wills,http://vocab.getty.edu/aat/300027764
 Wills--England--10th century,aat,,wills;England;Tenth century,http://vocab.getty.edu/aat/300027764;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/1147737
 Woodblock printed papers,rbmscv,,Woodblock-printed papers,http://id.loc.gov/vocabulary/rbmscv/cv01011
 Woodcuts (prints),aat,,woodcuts (prints),http://vocab.getty.edu/aat/300041405
@@ -1092,3 +1044,56 @@ Wooden boards (Bindings),rbbin,,Wooden boards,http://id.loc.gov/vocabulary/rbmsc
 World maps,aat,,world maps,http://vocab.getty.edu/aat/300028442
 Writs,aat,,writs,http://vocab.getty.edu/aat/300027864
 Yapp style bindings (Binding),rbbin,,Yapp style bindings,http://id.loc.gov/vocabulary/rbmscv/cv00469
+accounts,aat,,accounts,http://vocab.getty.edu/aat/300145802
+amulets,openn-form/genre,,amulets,http://vocab.getty.edu/aat/300266585
+annotations,aat,,annotations,http://vocab.getty.edu/aat/300026100
+anthologies,aat,,anthologies,http://vocab.getty.edu/aat/300026037
+books of hours,aat,,books of hours,http://vocab.getty.edu/aat/300026457
+botanical illustrations,aat,,botanical illustrations,http://vocab.getty.edu/page/aat/300386711
+codices (bound manuscripts),openn-form/genre,,codices (bound manuscripts),http://vocab.getty.edu/aat/300224200
+codices (bound manuscripts),aat,,codices (bound manuscripts),http://vocab.getty.edu/aat/300224200
+commentaries,aat,,commentaries,http://vocab.getty.edu/aat/300026098
+cut-paper work,aat,,cut-paper work,http://vocab.getty.edu/page/aat/300068579
+detached leaves (gathered matter),openn-form/genre,,detached leaves,http://vocab.getty.edu/aat/300379890
+devotional calendars,aat,,devotional calendars,http://vocab.getty.edu/aat/300026750
+diagrams,aat,,diagrams,http://vocab.getty.edu/aat/300015387
+diagrams,openn-form/genre,,diagrams,http://vocab.getty.edu/aat/300015387
+drawings,aat,,drawings (visual works),http://vocab.getty.edu/aat/300033973
+drawings (visual works),aat,,drawings (visual works),http://vocab.getty.edu/aat/300033973
+figure initials,aat,,figure initials,http://vocab.getty.edu/page/aat/300199991
+fragments (object portions),aat,,fragments (object portions),http://vocab.getty.edu/aat/300117130
+headpieces (layout features),aat,,headpieces (layout features),http://vocab.getty.edu/page/aat/300207342
+histories,aat,,histories (literary works),http://vocab.getty.edu/aat/300026358
+holographs (autographs),aat,,holographs (autographs),http://vocab.getty.edu/page/aat/300028573
+illuminated manuscripts,aat,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483
+illuminations,aat,,illuminations (paintings),http://vocab.getty.edu/aat/300264522
+illuminations (painting),aat,,illuminations (paintings),http://vocab.getty.edu/aat/300264522
+illuminations (paintings),aat,,illuminations (paintings),http://vocab.getty.edu/aat/300264522
+illuminations (visual works),aat,,illuminations (paintings),http://vocab.getty.edu/aat/300264522
+impressed watermarks,aat,,impressed watermarks,http://vocab.getty.edu/page/aat/300028754
+initials (layout features),aat,,initials (layout features),http://vocab.getty.edu/page/aat/300168055
+magic squares,aat,,magic squares,http://vocab.getty.edu/page/aat/300222283
+manuals (instructional materials),aat,,manuals (instructional materials),http://vocab.getty.edu/aat/300026395
+manuscripts (documents),openn-form/genre,,manuscripts (documents),http://vocab.getty.edu/aat/300028569
+manuscripts (documents),aat,,manuscripts (documents),http://vocab.getty.edu/aat/300028569
+marginalia (annotations),aat,,marginalia (annotations),http://vocab.getty.edu/aat/300026102
+military commissions,aat,,military commissions,http://vocab.getty.edu/aat/300027824
+miniatures (paintings),openn-form/genre,,miniatures (paintings),http://vocab.getty.edu/aat/300033936
+notarial documents,aat,,notarial documents,http://vocab.getty.edu/aat/300164785
+palimpsests,aat,,palimpsests (manuscripts),http://vocab.getty.edu/aat/300028576
+palimpsests (manuscripts),aat,,palimpsests (manuscripts),http://vocab.getty.edu/aat/300028576
+poems,aat,,poems,http://vocab.getty.edu/aat/300026451
+poetry,aat,,poetry,http://vocab.getty.edu/page/aat/300055931
+prayer scrolls,aat,,prayer scrolls,http://vocab.getty.edu/aat/300430768
+prescriptions,aat,,prescriptions,http://vocab.getty.edu/aat/300027231
+scientific illustrations (images),aat,,scientific illustrations (images),http://vocab.getty.edu/page/aat/300015595
+scrolls (information artifacts),aat,,scrolls (information artifacts),http://vocab.getty.edu/aat/300028629
+speeches (documents),aat,,speeches (documents),http://vocab.getty.edu/aat/300026671
+tables (documents),aat,,tables (documents),http://vocab.getty.edu/aat/300027364
+tables (documents),openn-form/genre,,tables (documents),http://vocab.getty.edu/aat/300027364
+tailpieces (layout features),aat,,tailpieces (layout features),http://vocab.getty.edu/page/aat/300207353
+textura (Gothic script),aat,,textura (Gothic script),http://vocab.getty.edu/aat/300202638
+treatises,aat,,treatises,http://vocab.getty.edu/aat/300026681
+tuǧras,aat,,tuǧras,http://vocab.getty.edu/page/aat/300310091
+tuǧras,aat,,tuǧras,http://vocab.getty.edu/page/aat/300310091
+volvelles,aat,,volvelles,http://vocab.getty.edu/aat/300247651
