@@ -147,7 +147,7 @@ Aesop,author,,,human,Aesop,Q43423
 Aesop.,author,,,human,Aesop,Q43423
 Aethelgifu,author,,,human,Æthelgifu,Q20056428
 "Affaticati, Benedetto",former owner,,,human,"Affaticati, Benedetto",Q123274720
-A follower of the Masters of the Golden Fleece,artist,,,human,Masters of the Golden Fleece,Q122872878
+A follower of the Masters of the Golden Fleece,artist,,,human,A follower of the Masters of the Golden Fleece,Q122872878
 "Africanus, Sextus Julius",author,,,human,Sextus Julius Africanus,Q317014
 "Africanus, Sextus Julius.",author,,,human,Sextus Julius Africanus,Q317014
 "a Fridenreich, Georgius Rudolpus",former owner,,,human,Georgius Rudolpus a Fridenreich,Q114242475
@@ -809,7 +809,7 @@ Bede?,author,,,human,Bede,Q154938
 "Bede the Venerable, Saint 673-735.",author,,,human,Bede,Q154938
 "Bedford, John Plantagenet, Duke of, 1389-1435",author,,http://id.loc.gov/authorities/names/nr94011215,human,"John of Lancaster, 1st Duke of Bedford",Q348441
 "Bedford, John Plantagenet, Duke of, 1389-1435",author,,,human,"John of Lancaster, 1st Duke of Bedford",Q348441
-"Bedford Master, follower",artist,,,human,Bedford Master,Q726437
+"Bedford Master, follower",artist,,,human,Follower of the Bedford Master,Q122873228
 Bedford Master Workshop,artist,,,human,Bedford Master,Q726437
 "Beer, John T. approximately 1826-1903",former owner,,,human,John Thomas Beer,Q116250783
 "Beer, John T. approximately 1826-1903",former owner,,http://id.loc.gov/authorities/names/nr93022576,human,John Thomas Beer,Q116250783
@@ -2342,8 +2342,8 @@ Florence (Tuscany). Otto di guardia e balia,author,,,organization,"Otto di guard
 Florus of Lyon,author,,,human,Florus of Lyon,Q3074346
 "Fogg, Sam",former owner,,,organization,Sam Fogg Rare Books & Manuscripts,Q116189818
 "Follower of Birago, Giovan Pietro, active 1471-1513 and Master B. F. (sometimes identified as Francisco Binasco)",artist,,,human,Giovanni Pietro Birago,Q1901175
-Follower of Jean Pucelle,artist,,,human,Jean Pucelle,Q175888
-Follower of the master of the vitae imperatorum,artist,,,human,Master of the Vitae Imperatorum,Q1673214
+Follower of Jean Pucelle,artist,,,human,Follower of Jean Pucelle,Q122873316
+Follower of the master of the vitae imperatorum,artist,,,human,Follower of the master of the vitae imperatorum,Q122873317
 "Fontaine, Charles, approximately 1514-",former owner,,,human,Charles Fontaine,Q17992861
 "Fontana, Bartolomeo",author,,http://id.loc.gov/authorities/names/n90710726,human,Bartolomeo Fontana,Q109969410
 "Fontana, Bartolomeo",author,,,human,Bartolomeo Fontana,Q109969410
@@ -3597,7 +3597,7 @@ Ignatios the Deacon,author,,,human,Ignatios the Deacon,Q3148188
 Ildibrandinus,author,,,human,Ildibrandinus,Q116417464
 "Illuminated for Marie d’Avaugour, duchesse de Montbazon (1610-1657), daughter of Claude d’Avaugour, comte de Vertus, and wife of Hercule de Rohan, duc de Montbazon (1568-1654), governor of Paris, with their arms on the title and elsewhere",former owner,,,human;human,"Marie de Bretagne d’Avaugour;Hercule de Rohan, Duke of Montbazon",Q1152648;Q673298
 "Illuminated for Marie d’Avaugour, duchesse de Montbazon (1610-1657), daughter of Claude d’Avaugour, comte de Vertus, and wife of Hercule de Rohan, duc de Montbazon (1568-1654), governor of Paris, with their arms on the title and elsewhere;",former owner,,,human;human,"Marie de Bretagne d’Avaugour;Hercule de Rohan, Duke of Montbazon",Q1152648;Q673298
-"Illuminator, Master of the Vitae Imperatorum, active 1402-1459",artist,,,human,Master of the Vitae Imperatorum,Q1673214
+"Illuminator, Master of the Vitae Imperatorum, active 1402-1459",artist,,,human,Meister der Vitae Imperatorum,Q1673214
 "Ilyās ibn Khamzah ʻAlī Niyat ʻAlī ibn Khamzah, active 1484",scribe,,,human,Ilyās ibn Khamzah ʻAlī Niyat ʻAlī ibn Khamzah,Q116417213
 "Ilyās ibn Khamzah ʻAlī Niyat ʻAlī ibn Khamzah, active 1484",scribe,"الياس بن خمزه علي نيت علي بن خمزه, d",,human,Ilyās ibn Khamzah ʻAlī Niyat ʻAlī ibn Khamzah,Q116417213
 "Ilyās ibn Khamzah ʻAlī Niyat ʻAlī ibn Khamzah, active 1484",scribe,,,human,Ilyās ibn Khamzah ʻAlī Niyat ʻAlī ibn Khamzah,Q116417213
@@ -3833,7 +3833,7 @@ Jayarāmanyāyapañcānana,author,,http://id.loc.gov/authorities/names/n88123581
 "Jean-Baptiste Joseph Barrois, of Lille (1784-1855), his 297 (green label on spine); the collection bought in 1849 by Bertram, fourth earl of Ashburnham (1797-1878); the fifth earl’s sale, Sotheby’s, 10 June 1901, lot 33",former owner,,,human;human;human,"Joseph Barrois;Bertram Ashburnham, 4th Earl of Ashburnham;Bertram Ashburnham, 5th Earl of Ashburnham",Q97783947;Q21855104;Q19894272
 "Jean-Baptiste Joseph Barrois, of Lille (1784-1855), his 297 (green label on spine); the collection bought in 1849 by Bertram, fourth earl of Ashburnham (1797-1878); the fifth earl’s sale, Sotheby’s, 10 June 1901, lot 33;",former owner,,,human;human;human,"Joseph Barrois;Bertram Ashburnham, 4th Earl of Ashburnham;Bertram Ashburnham, 5th Earl of Ashburnham",Q97783947;Q21855104;Q19894272
 Jean Bourdichon,artist,,,human,Jean Bourdichon,Q348333
-"Jean Bourdichon, follower of",artist,,,human,Jean Bourdichon,Q348333
+"Jean Bourdichon, follower of",artist,,,human,Follower of Jean Bourdichon,Q122873475
 Jean Bourdichon?,artist,,,human,Jean Bourdichon,Q348333
 Jean Calvin,author,,,human,John Calvin,Q37577
 Jean de Blois,author,,,human,John I of Blois-Châtillon,Q2478500
@@ -4233,7 +4233,6 @@ Kṛṣṇānanda,former owner,,,human,Kṛṣṇānanda Āgamavāgīśa Bhaṭ�
 "Kuzbarī, ʻAbd al-Raḥmān ibn Muḥammad, 1770 or 1771-1845 or 1846",scribe,,,human,ʻAbd al-Raḥmān ibn Muḥammad Kuzbarī,Q105241218
 "Kuzi, Yitzhak Nahum",former owner,,,human,Yitzhak Nahum Kuzi,Q116452995
 "L., K",former owner,,,organization,K-L,Q5492826
-La Bibliofila,former owner,,,organization,Libreria la Bibliofila,Q123285058
 "Labbey-de-Billy, Nicholas Antoine, 1753-1825",former owner,,,human,Nicolas Antoine Labbey de Billy,Q60840320
 "Labbey-de-Billy, Nicolas-Antoine, 1753-1825",former owner,,,human,Nicolas Antoine Labbey de Billy,Q60840320
 "Labbey-de-Billy, Nicolas-Antoine, 1753-1825",former owner,,http://id.loc.gov/authorities/names/no2011112789,human,Nicolas Antoine Labbey de Billy,Q60840320
@@ -4398,7 +4397,7 @@ Librairie Tross,former owner,,,organization,Librairie Tross,Q114242602
 Library of the Dominicans of Paris,former owner,,,organization,Library of the Dominicans of Paris,Q122873663
 Libreria antiquaria Hoepli,former owner,,,organization,Libreria antiquaria Hoepli,Q3831782
 Libreria antiquaria Mediolanum,former owner,,,organization,Libreria antiquaria Mediolanum,Q120442751
-Libreria la Bibliofila (Firm : Milan),former owner,,,organization,Libreria la Bibliofila,Q123285058
+Libreria la Bibliofila (Firm : Milan),former owner,,,organization,Libreria la Bibliofila (Firm : Milan),Q123285058
 "Libri, Girolamo dai, 1474-1555",artist,,,human,Girolamo dai Libri,Q1440424
 "Libri, Guillaume, 1803-1869",former owner,,,human,Guglielmo Libri Carucci dalla Sommaja,Q1251586
 "Libri, Guillaume, 1803-1869",former owner,,http://id.loc.gov/authorities/names/n91076026,human,Guglielmo Libri Carucci dalla Sommaja,Q1251586
@@ -7552,7 +7551,7 @@ Wolfram von Eschenbach 12th cent.,author,,,human,Wolfram von Eschenbach,Q18821
 "Woodward, William Harrison, 1856-1941",former owner,,http://id.loc.gov/authorities/names/n88666834,human,William Harrison Woodward,Q47876566
 "Woodward, William Harrison, 1856-1941",former owner,,,human,William Harrison Woodward,Q47876566
 Workshop of the Master of Jacques de Besançon,artist,,,human,Master of Jacques de Besançon,Q1918551
-Workshop of the Master of the Échevinage de Rouen,artist,,,human,Master of the Rouen Echevinage,Q18402643
+Workshop of the Master of the Échevinage de Rouen,artist,,,organization,Workshop of the Master of the Échevinage de Rouen,Q122873669
 "Wrenn, John Henry, 1841-1911",former owner,,,human,John Henry Wrenn,Q114242412
 "Wright, Harrison",former owner,,,human,Harrison Wright,Q114242489
 "Wright, Harrison, Esq",former owner,,,human,Harrison Wright,Q114242489
