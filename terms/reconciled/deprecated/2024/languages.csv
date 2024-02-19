@@ -1,6 +1,4 @@
 language_as_recorded,language_code,authorized_label,structured_value
-   ,   ,undetermined language,Q22282914
-;;;,|||,undetermined language,Q22282914
 ;ara,;ara,Arabic,Q13955
 ;ara;ota,;ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730
 ;ara;ota;per,;ara;ota;per,Arabic;Ottoman Turkish;Persian,Q13955;Q36730;Q9168
@@ -17,7 +15,6 @@ language_as_recorded,language_code,authorized_label,structured_value
 [French],,French,Q150
 [Latin],,Latin,Q397
 [no text],,no linguistic content,Q22282939
-|||,|||,undetermined language,Q22282914
 Added notes in Italian (Volume 1),zxx;ita,Italian,Q652
 Ancient Greek,grc,Ancient Greek,Q35497
 Ancient Greek (to 1453),grc,Ancient Greek,Q35497
@@ -29,7 +26,6 @@ Anglo-Norman; Latin,,Anglo-Norman;Latin,Q35214;Q397
 Anglo-Norman French; Middle English,,Anglo-Norman;Middle English,Q35214;Q36395
 Anglo-Saxon,,Old English,Q42365
 Anglo-Saxon; Latin,,Old English;Latin,Q42365;Q397
-ar,ar,Arabic,Q13955
 ara,ara,Arabic,Q13955
 ara;cop,ara;cop,Arabic;Coptic,Q13955;Q36155
 ara;ota,ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730
@@ -198,7 +194,6 @@ fro,fro,Old French,Q35222
 Ge'ez (Ethopic),,Ge'ez,Q35667
 ger,ger,German,Q188
 ger;lat,ger;lat,German;Latin,Q188;Q397
-ger;nds;lat,ger;nds;lat,German;Low German;Latin,Q188;Q25433;Q397
 German,,German,Q188
 German,ger,German,Q188
 "German, with chapter and closing rubrics in Latin",ger;lat,German;Latin,Q188;Q397
@@ -537,7 +532,6 @@ In Syriac,syr,Syriac,Q33538
 In Syriac,,Syriac,Q33538
 In Syriac.,syr,Syriac,Q33538
 In Syriac.,,Syriac,Q33538
-In Syriac and Arabic,syr;syrara,Syriac;Arabic,Q33538;Q13955
 In Syriac and Arabic(some in Karshuni),syr,Syriac;Arabic;Garshuni,Q33538;Q13955;Q1494558
 In Syriac and Arabic(some in Karshuni),syrara,Syriac;Arabic;Garshuni,Q33538;Q13955;Q1494558
 In Syriac and Arabic(some in Karshuni).,syr,Syriac;Arabic;Garshuni,Q33538;Q13955;Q1494558
@@ -546,7 +540,6 @@ In Thai and Pali,tha;pli,Thai;Pali,Q9217;Q36727
 In Valencian Catalan,cat,Valencian,Q32641
 it,it,Italian,Q652
 ita,ita,Italian,Q652
-ita;italat,ita;italat,Italian;Latin,Q652;Q397
 ita;lat,ita;lat,Italian;Latin,Q652;Q397
 italat,italat,Italian;Latin,Q652;Q397
 Italian,eng,Italian,Q652
@@ -1024,7 +1017,6 @@ sla,sla,Slavic,Q23526
 "Some items in Latin, some in Italian",lat;ita,Latin;Italian,Q397;Q652
 spa,spa,Spanish,Q1321
 spa;lat,spa;lat,Spanish;Latin,Q1321;Q397
-spa;spalat,spa;spalat,Spanish;Latin,Q1321;Q397
 spalat,spalat,Spanish;Latin,Q1321;Q397
 Spanish,,Spanish,Q1321
 Spanish,spa,Spanish,Q1321
@@ -1039,7 +1031,6 @@ syr,syr,Syriac,Q33538
 syr;ar;cop,syr;ar;cop,Syriac;Arabic;Coptic,Q33538;Q13955;Q36155
 syr;ara,syr;ara,Syriac;Arabic,Q33538;Q13955
 syr;grc,syr;grc,Syriac;Ancient Greek,Q33538;Q35497
-syr;syrarm,syr;syrarm,Syriac;Armenian,Q33538;Q8785
 syrara,syrara,Syriac;Arabic,Q33538;Q13955
 syrarm,syrarm,Syriac;Armenian,Q33538;Q8785
 Syriac,,Syriac,Q33538

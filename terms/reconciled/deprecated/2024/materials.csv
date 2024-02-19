@@ -205,7 +205,6 @@ European laid paper with watermarks,paper,http://vocab.getty.edu/aat/300014109
 "European watermarked paper, illuminations",paper,http://vocab.getty.edu/aat/300014109
 fine vellum,parchment,http://vocab.getty.edu/aat/300011851
 glazed paper,paper,http://vocab.getty.edu/aat/300014109
-"ill., vellum",parchment,http://vocab.getty.edu/aat/300011851
 "illustrations (woodcuts), parchment",parchment,http://vocab.getty.edu/aat/300011851
 "inset paper, illuminations",paper,http://vocab.getty.edu/aat/300014109
 Lacquered color painting framed in wood mounted on metal stand,wood,http://vocab.getty.edu/aat/300011914
@@ -267,16 +266,13 @@ paper,paper,http://vocab.getty.edu/aat/300014109
 "paper, slight pen-work ornament",paper,http://vocab.getty.edu/aat/300014109
 "paper, slight pen-work ornament.",paper,http://vocab.getty.edu/aat/300014109
 "paper, tables",paper,http://vocab.getty.edu/aat/300014109
-"paper, vellum",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851
 paper;,paper,http://vocab.getty.edu/aat/300014109
 paper ;,paper,http://vocab.getty.edu/aat/300014109
 Paper.,paper,http://vocab.getty.edu/aat/300014109
 paper.,paper,http://vocab.getty.edu/aat/300014109
 paper (?),paper;undetermined,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300379012
 paper (2 leaves parchment),paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851
-paper (ff. 1-4) and vellum (ff. 5-10),paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851
 paper (palimpsest),paper,http://vocab.getty.edu/aat/300014109
-"paper (silked), ill.",paper,http://vocab.getty.edu/aat/300014109
 paper|paper and parchment,paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851
 paper|parchment,paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851
 "paper - 1^24^ 2^26^ 3^22^ 4^24^ 5^24^ [through f. 120; change of watermark and format between ff. 120v and 121] 6^12^ 7^14^ 8^12^ 9^12^(- 9, 10, 11, 12)",paper,http://vocab.getty.edu/aat/300014109
@@ -290,7 +286,6 @@ paper and parchment ;,paper;parchment,http://vocab.getty.edu/aat/300014109;http:
 paper and parchment.,paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851
 paper and parchment|paper,paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851
 paper and parchment|parchment,paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851
-paper and vellum,paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851
 paper illustrations,paper,http://vocab.getty.edu/aat/300014109
 "paper on card, illuminations",paper,http://vocab.getty.edu/aat/300014109
 "paper reinforced by card, color illustrations",paper,http://vocab.getty.edu/aat/300014109
@@ -395,19 +390,9 @@ vellum,parchment,http://vocab.getty.edu/aat/300011851
 "vellum, col. ill ",parchment,http://vocab.getty.edu/aat/300011851
 "vellum, col. ill.;",parchment,http://vocab.getty.edu/aat/300011851
 "vellum, color illustrations",parchment,http://vocab.getty.edu/aat/300011851
-"vellum, historiated miniatures",parchment,http://vocab.getty.edu/aat/300011851
-"vellum, ill",parchment,http://vocab.getty.edu/aat/300011851
-"vellum , ill",parchment,http://vocab.getty.edu/aat/300011851
-"vellum, ill.",parchment,http://vocab.getty.edu/aat/300011851
-"vellum , ill.",parchment,http://vocab.getty.edu/aat/300011851
 "vellum, illuminated in gold and colors",parchment,http://vocab.getty.edu/aat/300011851
-"vellum, illustration",parchment,http://vocab.getty.edu/aat/300011851
 "vellum, music",parchment,http://vocab.getty.edu/aat/300011851
-"vellum, paper",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109
-"vellum, paper, ill.",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109
 vellum and paper,parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109
-"vellum and paper, ill.",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109
-vellum with paper repairs,parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109
 "watermarked European laid paper, illuminations",paper,http://vocab.getty.edu/aat/300014109
 wood,wood,http://vocab.getty.edu/aat/300011914
 wove paper,paper,http://vocab.getty.edu/aat/300014109
