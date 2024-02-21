@@ -413,7 +413,6 @@ In Latin,,Latin,Q397
 "In Latin, with some Hungarian and Turkish",lat,Latin;Hungarian;Turkish,Q397;Q9067;Q256
 "In Latin, with some Italian (f. 1r)",lat;ita,Latin;Italian,Q397;Q652
 "In Latin, with the words of the bride and groom and the note of the bride's brother in Middle English",lat,Latin;Middle English,Q397;Q36395
-In Latin; calendar in French,lat;fre,Latin;French,Q397;Q150
 In Latin; liturgical calendar in French,lat,Latin;French,Q397;Q150
 In Latin; liturgical calendar in French,lat;fre,Latin;French,Q397;Q150
 In Latin; liturgical calendar in French.,lat,Latin;French,Q397;Q150
@@ -481,7 +480,6 @@ In Middle French.,,Middle French,Q1473289
 "In Middle High German, the text probably composed in the Alemannic region (Switzerland) in the second half of the 13th century",,Middle High German;Alemannic,Q837985;Q131339
 "In Middle High German, the text probably composed in the Alemannic region (Switzerland) in the second half of the 13th century.",gmh,Middle High German;Alemannic,Q837985;Q131339
 "In Middle High German, the text probably composed in the Alemannic region (Switzerland) in the second half of the 13th century.",,Middle High German;Alemannic,Q837985;Q131339
-"In modern Javanese, rendered from the original Kawi",jav,Javanese;Kawi,Q33549;Q49341
 In Nepali,san,Nepali,Q33823
 In Old Church Slavonic,chu,Old Church Slavonic,Q35499
 In Old Church Slavonic,,Old Church Slavonic,Q35499
@@ -544,7 +542,6 @@ In Syriac and Arabic(some in Karshuni),syr,Syriac;Arabic;Garshuni,Q33538;Q13955;
 In Syriac and Arabic(some in Karshuni),syrara,Syriac;Arabic;Garshuni,Q33538;Q13955;Q1494558
 In Syriac and Arabic(some in Karshuni).,syr,Syriac;Arabic;Garshuni,Q33538;Q13955;Q1494558
 In Syriac and Arabic(some in Karshuni).,syrara,Syriac;Arabic;Garshuni,Q33538;Q13955;Q1494558
-In Tamil,tam,Tamil,Q5885
 In Thai and Pali,tha;pli,Thai;Pali,Q9217;Q36727
 In Valencian Catalan,cat,Valencian,Q32641
 it,it,Italian,Q652
@@ -615,7 +612,6 @@ Item 3 is in Latin and English.,eng;lat,Latin;English,Q397;Q1860
 Japanese,,Japanese,Q5287
 Japanese.,jpn,Japanese,Q5287
 Japanese.,,Japanese,Q5287
-jav,jav,Javanese,Q33549
 Javanese,,Javanese,Q33549
 jpn,jpn,Japanese,Q5287
 jrb,jrb,Judeo-Arabic,Q37733
@@ -1037,7 +1033,6 @@ Spanish,spa,Spanish,Q1321
 Spanish; Latin,,Spanish;Latin,Q1321;Q397
 Spanish; Nahuatl,,Spanish;Nahuatl,Q1321;Q13300
 Spanish (Valencian dialect),,Spanish;Valencian,Q1321;Q32641
-syc,syc,Syriac,Q33538
 syc;syr,syc;syr,Syriac,Q33538
 syc;syr;ara,syc;syr;ara,Syriac;Arabic,Q33538;Q13955
 syr,syr,Syriac,Q33538
