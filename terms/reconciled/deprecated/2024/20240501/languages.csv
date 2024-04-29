@@ -76,7 +76,6 @@ Arabic with some Persian,ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic with some Persian annotations,ara,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic with some Persian marginalia,ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic with translation in Persian,ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
-Aramaic,,Aramaic,Q28602,Q3663
 Aramaic,heb,Aramaic,Q28602,Q3663
 arc,arc,Imperial Aramaic,Q7079491,Q38091
 arm,arm,Armenian,Q8785,Q792
@@ -106,7 +105,6 @@ Church Slavonic,,Church Slavonic,Q33251,Q16427
 "Condition in Middle English, obligation in Latin, and later summary in English",enm;lat;eng,Middle English;Latin;English,Q36395;Q397;Q1860,Q119;Q113;Q109
 cop,cop,Coptic,Q36155,Q4335
 cop;ara,cop;ara,Coptic;Arabic,Q36155;Q13955,Q4335;Q118
-Coptic,,Coptic,Q36155,Q4335
 Coptic,cop,Coptic,Q36155,Q4335
 "Coptic, Bohairic dialect, with a few notations in Arabic",cop,Coptic;Bohairic;Arabic,Q36155;Q890733;Q13955,Q4335;Q27517;Q118
 cze,cze,Czech,Q9056,Q3107
@@ -166,7 +164,6 @@ enm,enm,Middle English,Q36395,Q119
 enm;frm,enm;frm,Middle English;Middle French,Q36395;Q1473289,Q119;Q110
 enm;lat,enm;lat,Middle English;Latin,Q36395;Q397,Q119;Q113
 Ethiopic,gez,Ge'ez,Q35667,Q3664
-Farsi,,Persian,Q9168,Q120
 Flemish,,Flemish,Q34147,Q10832
 Flemish (Belgium Dutch),dut,Flemish;Belgian Dutch,Q34147;Q1404296,Q10832;Q27512
 Flemish (Belgium Flemish),dut,Flemish,Q34147,Q10832
@@ -191,7 +188,6 @@ French; German,,French;German,Q150;Q188,Q111;Q112
 French; Italian,,French;Italian,Q150;Q652,Q111;Q116
 French; Latin,,French;Latin,Q150;Q397,Q111;Q113
 French (Middle French) and Latin,frm,Middle French;Latin,Q1473289;Q397,Q110;Q113
-French (Picard dialect),,French;Picard,Q150;Q34024,Q111;Q40058
 French and English,fre,French;English,Q150;Q1860,Q111;Q109
 French and German,fre;ger,French;German,Q150;Q188,Q111;Q112
 French and Latin,,French;Latin,Q150;Q397,Q111;Q113
@@ -493,10 +489,10 @@ In Old Church Slavonic.,chu,Old Church Slavonic,Q35499,Q20366
 In Old Church Slavonic.,,Old Church Slavonic,Q35499,Q20366
 In Old French,fro,Old French,Q35222,Q3106
 In Old Norse,non,Old Norse,Q35505,Q38103
-In Old Spanish,roa,Old Spanish,Q1088025,Q40060
-In Old Spanish,,Old Spanish,Q1088025,Q40060
-In Old Spanish.,roa,Old Spanish,Q1088025,Q40060
-In Old Spanish.,,Old Spanish,Q1088025,Q40060
+In Old Spanish,roa,Spanish,Q1321,Q114
+In Old Spanish,,Spanish,Q1321,Q114
+In Old Spanish.,roa,Spanish,Q1321,Q114
+In Old Spanish.,,Spanish,Q1321,Q114
 In Ottoman Turkish,ota,Ottoman Turkish,Q36730,Q3104
 In Ottoman Turkish,,Ottoman Turkish,Q36730,Q3104
 In Ottoman Turkish.,ota,Ottoman Turkish,Q36730,Q3104
@@ -623,7 +619,6 @@ jav,jav,Javanese,Q33549,Q38105
 Javanese,,Javanese,Q33549,Q38105
 jpn,jpn,Japanese,Q5287,Q12711
 jrb,jrb,Judeo-Arabic,Q37733,Q38106
-Judeo-Arabic,,Judeo-Arabic,Q37733,Q38106
 "Judeo-Arabic, with a brief work in Hebrew (f. 25r-39v); notes in Samaritan (f. 1v-7v, 21r-22v, 3 bifolia laid in after f. 22v, marginal notes as on f. 281v), Arabic (f. 1r, marginal notes on Samaritan bifolia), and Latin letters (f. 20v, 25v, 238r, 239v)",jrb;heb;sam,Judeo-Arabic;Hebrew;Samaritan Aramaic;Arabic;Latin,Q37733;Q9288;Q56612;Q13955;Q397,Q38106;Q117;Q6995;Q118;Q113
 khm,khm,Khmer,Q9205,Q27499
 kor,kor,Korean,Q9176,Q12712
@@ -825,16 +820,12 @@ Latin.,,Latin,Q397,Q113
 "Latin (f. 1r-56v), with some Spanish (f. 78r-169v) and sections of German",lat;spa;ger,Latin;Spanish;German,Q397;Q1321;Q188,Q113;Q114;Q112
 Latin (f. 1r-5r) and Italian with rubrics in Latin (f. 5v-20r),lat;ita,Latin;Italian,Q397;Q652,Q113;Q116
 "Latin (f. 1r-77r, and table of contents, f. 88v) and French (f. 77v-88v)",fre;lat,Latin;French,Q397;Q150,Q113;Q111
-Latin (with some Italian rubrics),,Latin;Italian,Q397;Q652,Q113;Q116
-Latin (with some Spanish rubrics),,Latin;Spanish,Q397;Q1321,Q113;Q114
-Latin and Dutch,,Latin;Dutch,Q397;Q7411,Q113;Q793
 Latin and English,lat,Latin;English,Q397;Q1860,Q113;Q109
 Latin and English,lat;eng,Latin;English,Q397;Q1860,Q113;Q109
 Latin and French,;lat;fre,Latin;French,Q397;Q150,Q113;Q111
 Latin and French,,Latin;French,Q397;Q150,Q113;Q111
 Latin and French,lat;fre,Latin;French,Q397;Q150,Q113;Q111
 Latin and French.,,Latin;French,Q397;Q150,Q113;Q111
-Latin and German,,Latin;German,Q397;Q188,Q113;Q112
 Latin and German,lat;ger,Latin;German,Q397;Q188,Q113;Q112
 Latin and German,lat,Latin;German,Q397;Q188,Q113;Q112
 Latin and German (lower Alemannic with middle German idioms),lat;ger,Latin;German;Central German,Q397;Q188;Q704841,Q113;Q112;Q3105
@@ -852,7 +843,6 @@ Latin and legal French.,lat;fre,Latin;French,Q397;Q150,Q113;Q111
 Latin and Low German,lat;nds,Latin;Low German,Q397;Q25433,Q113;Q5013
 Latin and Middle High German,lat;gmh,Latin;Middle High German,Q397;Q837985,Q113;Q115
 Latin and Occitan,lat;pro,Latin;Occitan,Q397;Q14185,Q113;Q4338
-Latin and Old Catalan,,Latin;Old Catalan,Q397;Q15478520,Q113;Q40059
 Latin and Old French,lat;fro,Latin;Old French,Q397;Q35222,Q113;Q3106
 Latin and some English,lat,Latin;English,Q397;Q1860,Q113;Q109
 Latin and some English,lat;eng,Latin;English,Q397;Q1860,Q113;Q109
@@ -1047,7 +1037,6 @@ Spanish,spa,Spanish,Q1321,Q114
 Spanish; Latin,,Spanish;Latin,Q1321;Q397,Q114;Q113
 Spanish; Nahuatl,,Spanish;Nahuatl,Q1321;Q13300,Q114;Q38112
 Spanish (Valencian dialect),,Spanish;Valencian,Q1321;Q32641,Q114;Q8381
-Spanish and Nahuatl,,Spanish;Nahuatl,Q1321;Q13300,Q114;Q38112
 syc,syc,Syriac,Q33538,Q12713
 syc;syr,syc;syr,Syriac,Q33538,Q12713
 syc;syr;ara,syc;syr;ara,Syriac;Arabic,Q33538;Q13955,Q12713;Q118
