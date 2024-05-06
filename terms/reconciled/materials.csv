@@ -2,7 +2,7 @@ material_as_recorded,authorized_label,structured_value,ds_qid
 ?,undetermined,http://vocab.getty.edu/aat/300379012,Q38412
 """""",undetermined,http://vocab.getty.edu/aat/300379012,Q38412
 """Chancery 2° paper""",paper,http://vocab.getty.edu/aat/300014109,Q31
-"""embroidered silk over parchment""",silk;parchment,http://vocab.getty.edu/aat/300243428;http://vocab.getty.edu/aat/300011851,Q34;Q33
+"""embroidered silk over parchment""",silk;parchment,http://vocab.getty.edu/aat/300014072;http://vocab.getty.edu/aat/300011851,Q34;Q33
 """fine vellum""",parchment,http://vocab.getty.edu/aat/300011851,Q33
 """on cloth""",cloth,http://vocab.getty.edu/aat/300162391,Q26528
 """paper, charts""",paper,http://vocab.getty.edu/aat/300014109,Q31
@@ -99,7 +99,7 @@ material_as_recorded,authorized_label,structured_value,ds_qid
 """wove paper""",paper,http://vocab.getty.edu/aat/300014109,Q31
 "[""""]",undetermined,http://vocab.getty.edu/aat/300379012,Q38412
 "[""Chancery 2° paper""]",paper,http://vocab.getty.edu/aat/300014109,Q31
-"[""embroidered silk over parchment""]",silk;parchment,http://vocab.getty.edu/aat/300243428;http://vocab.getty.edu/aat/300011851,Q34;Q33
+"[""embroidered silk over parchment""]",silk;parchment,http://vocab.getty.edu/aat/300014072;http://vocab.getty.edu/aat/300011851,Q34;Q33
 "[""fine vellum""]",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "[""on cloth""]",cloth,http://vocab.getty.edu/aat/300162391,Q26528
 "[""paper, charts""]",paper,http://vocab.getty.edu/aat/300014109,Q31
@@ -379,7 +379,7 @@ parchment (goat),parchment,http://vocab.getty.edu/aat/300011851,Q33
 parchment|paper,parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 parchment|paper|paper and parchment,parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 parchment|paper and parchment,parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
-parchment|silk,parchment;silk,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300243428,Q33;Q34
+parchment|silk,parchment;silk,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014072,Q33;Q34
 parchment and paper,parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 "parchment and paper, color illustrations",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 "parchment and paper, color illustrations, music",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
