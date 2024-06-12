@@ -1,4 +1,4 @@
-genre_as_recorded,vocabulary,source_authority_uri,authorized_label,structured_value,ds_qid
+genre_as_recorded,vocab,source_authority_uri,authorized_label,structured_value,ds_qid
 Abridgements,aat,,abridgements,http://vocab.getty.edu/aat/300202489,Q2797
 Abridgements,openn-form/genre,,abridgements,http://vocab.getty.edu/aat/300202489,Q2797
 Abridgments,fast,,Abridgments,http://id.worldcat.org/fast/1726571,Q3638
