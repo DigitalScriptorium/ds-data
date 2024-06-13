@@ -27,7 +27,7 @@ place_as_recorded,authorized_label,structured_value,ds_qid
 "[Morimondo, Italy],",Morimondo;Italy,http://vocab.getty.edu/tgn/4007527;http://vocab.getty.edu/tgn/1000080,Q12692;Q134
 "[Morimondo, Italy] :",Morimondo;Italy,http://vocab.getty.edu/tgn/4007527;http://vocab.getty.edu/tgn/1000080,Q12692;Q134
 [Netherlands] :,Netherlands,http://vocab.getty.edu/tgn/7016845,Q651
-"[Picady, France] :",Picardy;France,http://vocab.getty.edu/tgn/7002890;http://vocab.getty.edu/tgn/1000070,Q859;Q122
+"[Picady, France] :",Picardy;France,http://vocab.getty.edu/tgn/7024273;http://vocab.getty.edu/tgn/1000070,Q859;Q122
 "[Piombino?, Italy] :",Piombino;Italy,http://vocab.getty.edu/tgn/7006194;http://vocab.getty.edu/tgn/1000080,Q38281;Q134
 "[Rome, Italy],",Rome;Italy,http://vocab.getty.edu/tgn/7000874;http://vocab.getty.edu/tgn/1000080,Q123;Q134
 [Spain]:,Spain,http://vocab.getty.edu/tgn/1000095,Q129
@@ -507,8 +507,8 @@ France,France,http://vocab.getty.edu/tgn/1000070,Q122
 "France, Paris",France;Paris,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7008038,Q122;Q136
 "France, Paris, France",France;Paris,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7008038,Q122;Q136
 "France, Paris; Rouen",France;Paris;Rouen,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7008038;http://vocab.getty.edu/tgn/7008929,Q122;Q136;Q1244
-"France, Picardy",France;Picardy,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7002890,Q122;Q859
-"France, Picardy?",France;Picardy,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7002890,Q122;Q859
+"France, Picardy",France;Picardy,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7024273,Q122;Q859
+"France, Picardy?",France;Picardy,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7024273,Q122;Q859
 "France, probably between 1425 and 1450",France,http://vocab.getty.edu/tgn/1000070,Q122
 "France, Provence",France;Provence,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7012209,Q122;Q128
 "France, Provence-Alpes-Côte d'Azur",France;Provence-Alpes-Côte d'Azur,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7002895,Q122;Q38287
@@ -1188,7 +1188,7 @@ Perugia,Perugia,http://vocab.getty.edu/tgn/7000526,Q3083
 Pesaro,Pesaro,http://vocab.getty.edu/tgn/7003991,Q16406
 Philippines,Philippines,http://vocab.getty.edu/tgn/1000135,Q38280
 Piacenza,Piacenza,http://vocab.getty.edu/tgn/7004939,Q4999
-"Picady, France",Picardy;France,http://vocab.getty.edu/tgn/7002890;http://vocab.getty.edu/tgn/1000070,Q859;Q122
+"Picady, France",Picardy;France,http://vocab.getty.edu/tgn/7024273;http://vocab.getty.edu/tgn/1000070,Q859;Q122
 "Pieve de Cadore, Italy",Pieve di Cadore;Italy,http://vocab.getty.edu/tgn/7003332;http://vocab.getty.edu/tgn/1000080,Q5011;Q134
 Pinerolo,Pinerolo,http://vocab.getty.edu/tgn/7005728,Q4988
 "Piombino?, Italy",Piombino;Italy,http://vocab.getty.edu/tgn/7006194;http://vocab.getty.edu/tgn/1000080,Q38281;Q134
