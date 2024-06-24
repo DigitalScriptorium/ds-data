@@ -40,7 +40,7 @@ Abbot von Heselwang,former owner,,,human,Abbot von Heselwang,Q114242549,DSNAME27
 "Abhinanda, active 9th century",author,,http://id.loc.gov/authorities/names/n88147689,human,Abhinanda,Q99972294,DSNAME3397,Q28181
 "Abhinavagupta, Rājānaka",author,,http://id.loc.gov/authorities/names/n50034836,human,Abhinavagupta,Q320619,DSNAME3292,Q28076
 Abhinavanārāyaṇendrasarasvatī,author,,http://id.loc.gov/authorities/names/n79033269,human,Abhinavanārāyaṇendrasarasvatī,Q124252802,DSNAME3467,Q28251
-"Abīwardī, Muḥammad ibn Aḥmad, -1113",author,ابيوردي، محمد بن احمد، -1113,,human,Muḥammad ibn Aḥmad Abīwardī,Q112875441,DSNAME1797,Q12327
+"Abīwardī, Muḥammad ibn Aḥmad, -1113",author,ابيوردي، محمد بن احمد، -1113,,human,Muḥammad ibn Aḥmad Abīwardī,Q30088060,DSNAME1797,Q12327
 "Abraham, active 1457",former owner,,,human,Abraham,Q124617911,DSNAME3622,Q40067
 Abraham Abulafia,author,,,human,Abraham Abulafia,Q323448,DSNAME3623,Q40068
 Abraham bar Hiyya ha-Nasi,author,,,human,Abraham bar Hiyya,Q31439,DSNAME896,Q3736
@@ -1497,8 +1497,8 @@ Buddhabhaṭṭa,author,,http://id.loc.gov/authorities/names/n89145947,human,Bud
 "Budé, Jean, 1430-1502",former owner,,,human,Jean Budé,Q3171023,DSNAME2280,Q16582
 "Budé, Jean, 1430-1502",former owner,,,human,Jean Budé,Q3171023,DSNAME2280,Q16582
 Budhakauśika,author,,http://id.loc.gov/authorities/names/n84048369,human,Budhakauśika,Q124252827,DSNAME3381,Q28165
-"Bukhārī, Muḥammad ibn Ismāʻīl, 810-870",author,بخاري، محمد بن اسماعيل، 810-870,,human,Muḥammad ibn Ismā‘īl al-Bukhārī,Q241026,DSNAME3133,Q12270
-"Bukhārī, Muḥammad ibn Ismāʻīl, 810-870",author,بخاري، محمد بن اسماعيل,http://id.loc.gov/authorities/names/n81055666,human,Muḥammad ibn Ismā‘īl al-Bukhārī,Q241026,DSNAME3133,Q12270
+"Bukhārī, Muḥammad ibn Ismāʻīl, 810-870",author,بخاري، محمد بن اسماعيل، 810-870,,human,Muḥammad ibn Ismaeel al-Bukhārī,Q241026,DSNAME3133,Q12270
+"Bukhārī, Muḥammad ibn Ismāʻīl, 810-870",author,بخاري، محمد بن اسماعيل,http://id.loc.gov/authorities/names/n81055666,human,Muḥammad ibn Ismaeel al-Bukhārī,Q241026,DSNAME3133,Q12270
 "Bukhārī, Muḥammad ibn Yaḥyá, fl. 1527",author,,,human,Muḥammad ibn Yaḥyá Bukhārī,Q113817796,DSNAME3923,Q40368
 "Bukhārī, Muḥammad ibn Yaḥyá, fl. 1527",author,,,human,Muḥammad ibn Yaḥyá Bukhārī,Q113817796,DSNAME3923,Q40368
 "Bullard, William N. 1853-1931",former owner,,,human,William N. Bullard,Q123274732,DSNAME2187,Q16495
@@ -6153,7 +6153,7 @@ Mutianus Scholasticus,author,,,human,Mutianus Scholasticus,Q20101250,DSNAME5788,
 "Muttaqī, ʻAlī ibn ʻAbd al-Malik, -1567",author,متقي، علي بن عبد الملك، -1567,http://id.loc.gov/authorities/names/n88099511,human,Ali ibn Abd-al-Malik al-Hindi,Q12192249,DSNAME1931,Q12461
 "Muʻāfá ibn Ismāʻīl, 1156 or 1157-1232 or 1233",author,,http://id.loc.gov/authorities/names/no2007040478,human,Muʻāfá ibn Ismāʻīl,Q114242407,DSNAME4861,Q41306
 "Muʻāfá ibn Ismāʻīl, 1156 or 1157-1232 or 1233",author,,http://id.loc.gov/authorities/names/no2007040478,human,Muʻāfá ibn Ismāʻīl,Q114242407,DSNAME4861,Q41306
-"Muʻāwiyah ibn Abī Sufyān, Caliph, -680",author,,,human,Muawiyah I,Q181154,DSNAME4862,Q41307
+"Muʻāwiyah ibn Abī Sufyān, Caliph, -680",author,,,human,Mu'awiya I,Q181154,DSNAME4862,Q41307
 "Muʻaẓẓam, Sultan of Damascus, 1180-1227",author,معظم، سلطان دمشق، 1180-1227,,human,Al-Mu'azzam Isa,Q286553,DSNAME3233,Q28017
 "Muʻīn al-Dīn Yazdī, -1387",author,معين الدين يزدى، -1387,,human,Muín-ad-Din,Q11938144,DSNAME3205,Q27989
 "Muʻīn Juvaynī, active 14th century",author,معين جوينى،,,human,Muʻīn Juvaynī,Q123581750,DSNAME2660,Q18707
@@ -6326,9 +6326,9 @@ Nityanātha,author,,http://id.loc.gov/authorities/names/n84086528,human,Gorakṣ
 "Nix, Richard, Bishop of Norwich, approximately 1447-1535",author,,http://id.loc.gov/authorities/names/no2015163899,human,Richard Nykke,Q7328116,DSNAME4899,Q41344
 "Nix, Richard, Bishop of Norwich, approximately 1447-1535",former owner,,http://id.loc.gov/authorities/names/no2015163899,human,Richard Nykke,Q7328116,DSNAME4899,Q41344
 "Niẓām al-Dīn, active 1832",scribe,نظام الدين،,,human,Niẓām al-Dīn,Q123581766,DSNAME2653,Q18701
-"Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203",author,نظامى گنجوى، 1140 یا 1141-1202 یا 1203,,human,Nezami Ganjavi,Q234908,DSNAME2172,Q16480
-"Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203",author,نظامى گنجوى، 1140 یا 1141-1202 یا 1203,,human,Nezami Ganjavi,Q234908,DSNAME2172,Q16480
-Niẓāmī Ganjavī ca.1141-ca.1209,author,,,human,Nezami Ganjavi,Q234908,DSNAME2172,Q16480
+"Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203",author,نظامى گنجوى، 1140 یا 1141-1202 یا 1203,,human,Nizami Ganjavi,Q234908,DSNAME2172,Q16480
+"Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203",author,نظامى گنجوى، 1140 یا 1141-1202 یا 1203,,human,Nizami Ganjavi,Q234908,DSNAME2172,Q16480
+Niẓāmī Ganjavī ca.1141-ca.1209,author,,,human,Nizami Ganjavi,Q234908,DSNAME2172,Q16480
 Nonius Marcellus 4th cent,author,,,human,Nonius Marcellus,Q183420,DSNAME4900,Q41345
 Nonius Marcellus 4th cent.,author,,,human,Nonius Marcellus,Q183420,DSNAME4900,Q41345
 Nonnberg (Abbey),former owner,,http://id.loc.gov/authorities/names/n90695192,organization,Nonnberg Abbey,Q693876,DSNAME5572,Q42017
