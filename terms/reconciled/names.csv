@@ -1022,8 +1022,8 @@ Benedict the deacon,author,,,human,Benedict Levita,Q4887294,DSNAME3818,Q40263
 Benedict the deacon.,author,,,human,Benedict Levita,Q4887294,DSNAME3818,Q40263
 Benedict XII,author,,,human,Benedict XII,Q170389,DSNAME3096,Q27883
 "Benedict XII, Pope, -1342",author,,,human,Benedict XII,Q170389,DSNAME3096,Q27883
-Benedict XIII [antipope,author,,,human,Benedict XIII of Avignon,Q310371,DSNAME3819,Q40264
-Benedict XIII [antipope],author,,,human,Benedict XIII of Avignon,Q310371,DSNAME3819,Q40264
+Benedict XIII [antipope,author,,,human,Benedict XIII,Q310371,DSNAME3819,Q40264
+Benedict XIII [antipope],author,,,human,Benedict XIII,Q310371,DSNAME3819,Q40264
 Benediktinerabtei Weingarten,former owner,,,organization,Weingarten Abbey,Q334353,DSNAME5498,Q41943
 "Benediktinerinnenabtei St. Walburg (Eichstätt, Germany)",former owner,,,organization,Benediktinerinnenabtei St. Walburg,Q1776124,DSNAME5499,Q41944
 "Benediktinerinnenabtei St. Walburg (Eichstätt, Germany)",former owner,,,organization,Benediktinerinnenabtei St. Walburg,Q1776124,DSNAME5499,Q41944
@@ -1398,7 +1398,7 @@ Bought in 1909 by C. L. Ricketts from Tregaskis; acquired by the Lilly Library w
 "Bracton, Henry de, -1268",author,,http://id.loc.gov/authorities/names/n83055716,human,Henry de Bracton,Q1197107,DSNAME3888,Q40333
 "Bracton, Henry de -1268",author,,,human,Henry de Bracton,Q1197107,DSNAME3888,Q40333
 "Bracton, Henry de -1268.",author,,,human,Henry de Bracton,Q1197107,DSNAME3888,Q40333
-Bragadin family,author,,,organization,Bragadìn,Q2923529,DSNAME1366,Q7307
+Bragadin family,author,,,organization,Bragadin,Q2923529,DSNAME1366,Q7307
 "Bragge, William",former owner,,,human,William Bragge,Q15453218,DSNAME615,Q1850
 "Bragge, William, 1823-1884",former owner,,,human,William Bragge,Q15453218,DSNAME615,Q1850
 "Brahmānandasarasvatī, active 17th century",author,,http://id.loc.gov/authorities/names/n79103977,human,Brahmānanda Giri,Q113400059,DSNAME3419,Q28203
@@ -4331,8 +4331,8 @@ Ibrāhīm Ibn al-Ḥusn,scribe,,,human,Ibrāhīm Ibn al-Ḥusn,Q116417782,DSNAME
 Ibrāhīm ibn Qāsim ibn ʻAlī ibn Yūsuf,scribe,ابراهيم بن قاسم بن علي بن يوسف,,human,Ibrāhīm ibn Qāsim ibn ʻAlī ibn Yūsuf,Q114242444,DSNAME4497,Q40942
 Ibrāhīm ibn Qāsim ibn ʻAlī ibn Yūsuf,scribe,ابراهيم بن قاسم بن علي بن يوسف,,human,Ibrāhīm ibn Qāsim ibn ʻAlī ibn Yūsuf,Q114242444,DSNAME4497,Q40942
 "Ibrāhīmʹzādah Ismāʻīl Z̲ihnī, active 1830",former owner,ابراهيم‌ز‌اده اسماعيل ذهنى، active 1830،,,human,Ibrāhīmʹzādah Ismāʻīl Z̲ihnī,Q124130471,DSNAME3265,Q28049
-"Ibshīhī, Muḥammad ibn Aḥmad, 1388-approximately 1446",author,ابشيهي، محمد بن احمد، 1388-approximately 1446,,human,Al-Abshihi,Q3607421,DSNAME1822,Q12352
-"Ibshīhī, Muḥammad ibn Aḥmad, 1388-approximately 1446",author,ابشيهي، محمد بن احمد، 1388-approximately 1446,,human,Al-Abshihi,Q3607421,DSNAME1822,Q12352
+"Ibshīhī, Muḥammad ibn Aḥmad, 1388-approximately 1446",author,ابشيهي، محمد بن احمد، 1388-approximately 1446,,human,Al-Ibshīhī,Q3607421,DSNAME1822,Q12352
+"Ibshīhī, Muḥammad ibn Aḥmad, 1388-approximately 1446",author,ابشيهي، محمد بن احمد، 1388-approximately 1446,,human,Al-Ibshīhī,Q3607421,DSNAME1822,Q12352
 Iceland,author,,,organization,Iceland,Q189,DSNAME5548,Q41993
 Ignatios the Deacon,author,,,human,Ignatios the Deacon,Q3148188,DSNAME4498,Q40943
 Ignatius (Augustinian Hermit of Milan),scribe,,,human,Ignatius de Mediolano,Q124380421,DSNAME4499,Q40944
@@ -5356,7 +5356,7 @@ Livy (Titus Livius),author,,,human,Titus Livius,Q2039,DSNAME712,Q1947
 "Lomer, Petrus",scribe,,,human,Petrus Lomer,Q114242519,DSNAME194,Q467
 "Londono, Juan de",former owner,,,human,Juan de Londono,Q122873492,DSNAME2819,Q20138
 Long Island Historical Society. Library,former owner,,http://id.loc.gov/authorities/names/n80153817,organization,"Long Island Historical Society, Maine",Q71863962,DSNAME5563,Q42008
-Lope de Vega,author,,,human,Lope de Vega,Q165257,DSNAME1343,Q7284
+Lope de Vega,author,,,human,Félix Lope de Vega y Carpio,Q165257,DSNAME1343,Q7284
 "López de Ayala, Pedro 1332-1407",author,,,human,Pero López de Ayala,Q81678,DSNAME4699,Q41144
 "López de Ayala, Pedro 1332-1407.",author,,,human,Pero López de Ayala,Q81678,DSNAME4699,Q41144
 "López de Gómara, Francisco, 1511-1564",author,,,human,Francisco López de Gómara,Q721423,DSNAME4700,Q41145
@@ -8308,7 +8308,7 @@ Sulpicius Severus,author,,,human,Sulpicius Severus,Q336704,DSNAME366,Q1530
 "Sunbulī, Muḥammad Darvīsh Nūr al-Dīn, active 1862",former owner,سنبلي، محمد درويش نور الدين، active 1862,,human,Muḥammad Darvīsh Nūr al-Dīn Sunbulī,Q114242498,DSNAME5286,Q41731
 "Sunbulī, Muḥammad Darvīsh Nūr al-Dīn, active 1862",former owner,سنبلي، محمد درويش نور الدين، active 1862,,human,Muḥammad Darvīsh Nūr al-Dīn Sunbulī,Q114242498,DSNAME5286,Q41731
 "Sunbulī, Muḥammad Darvīsh Nūr al-Dīn, active 1862",former owner,سنبلى، محمد درويش نور الدين، active 1862,,human,Muḥammad Darvīsh Nūr al-Dīn Sunbulī,Q114242498,DSNAME5286,Q41731
-"Sunderland, Anne Churchill, Countess of, 1674-1722",former owner,,,human,"Anne Spencer, Countess of Sunderland",Q2755975,DSNAME2088,Q12897
+"Sunderland, Anne Churchill, Countess of, 1674-1722",former owner,,,human,"Anne Churchill, Countess of Sunderland",Q2755975,DSNAME2088,Q12897
 "Sunderland, Charles Spencer, Earl of, 1674-1722",former owner,,http://id.loc.gov/authorities/names/n81131857,human,"Charles Spencer, 3rd Earl of Sunderland",Q332619,DSNAME2089,Q12898
 Sureśvarācārya,author,,http://id.loc.gov/authorities/names/n50079753,human,Sureśvarācārya,Q124252943,DSNAME3471,Q28255
 "Sūri, Bālabrahmānanda",author,,http://id.loc.gov/authorities/names/no2017074363,human,Bālabrahmānanda Sūri,Q124252946,DSNAME3465,Q28249
@@ -9270,7 +9270,7 @@ Zachariah ben Yosef Alkarni,former owner,,,human,Zachariah ben Yosef Alkarni,Q12
 "Zane, Hieronymus",former owner,,,human,"Zane, Hieronymus",Q123274824,DSNAME2297,Q16598
 Zapparin family,other,,,organization,Zapparin,Q117463760,DSNAME5620,Q42065
 "Zarandī, ʻAlī ibn Yūsuf, -1370",author,زرندي، علي بن يوسف، -1370,,human,ʻAlī ibn Yūsuf Zarandī,Q124566982,DSNAME5451,Q41896
-"Zarnūjī, Burhān al-Dīn, active 12th century-13th century",author,زرنوجي، برهان الدين،,,human,Burhan al-Din Al-Zarnuyi,Q55989354,DSNAME2612,Q18660
+"Zarnūjī, Burhān al-Dīn, active 12th century-13th century",author,زرنوجي، برهان الدين،,,human,Al-Zarnuji,Q55989354,DSNAME2612,Q18660
 Zavattari school,illuminator,,,human,Franceschino Zavattari,Q3080890,DSNAME5477,Q41922
 Zāwiyah al-Nāṣiriyah,former owner,,http://id.loc.gov/authorities/names/no2007068112,human,Zāwiyah al-Nāṣiriyah,Q116649436,DSNAME910,Q3749
 Zāwiyah al-Nāṣiriyah,former owner,,,human,Zāwiyah al-Nāṣiriyah,Q116649436,DSNAME910,Q3749
