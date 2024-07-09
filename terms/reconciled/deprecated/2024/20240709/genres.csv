@@ -199,13 +199,8 @@ Breviaries,aat,,breviaries,http://vocab.getty.edu/aat/300026459,Q4135
 Breviaries,lcsh,,Breviaries,http://id.worldcat.org/fast/1922430,Q38440
 breviaries,ds-genre,,breviaries,http://vocab.getty.edu/aat/300026459,Q4135
 Breviaries--Belgium--14th century,aat,,breviaries;Belgium;Fourteenth century,http://vocab.getty.edu/aat/300026459;http://id.worldcat.org/fast/1210278;http://id.worldcat.org/fast/933420,Q4135;Q16301;Q295
-Breviaries--England--14th century,aat,,breviaries;England;Fourteenth century,http://vocab.getty.edu/aat/300026459;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/933420,Q4135;Q320;Q295
-Breviaries--England--15th century,aat,,breviaries;England;Fifteenth century,http://vocab.getty.edu/aat/300026459;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/923962,Q4135;Q320;Q154
-Breviaries--France--15th century,aat,,breviaries;France;Fifteenth century,http://vocab.getty.edu/aat/300026459;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/923962,Q4135;Q152;Q154
 Breviaries--Germany,rbgenr,,Breviaries,http://id.loc.gov/vocabulary/rbmscv/cv01045,Q17492
 Breviaries--Germany--15th century,aat,,breviaries;Germany;Fifteenth century,http://vocab.getty.edu/aat/300026459;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/923962,Q4135;Q3032;Q154
-Breviaries--Italy--12th century,aat,,breviaries;Italy;Twelfth century,http://vocab.getty.edu/aat/300026459;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1159791,Q4135;Q249;Q304
-Breviaries--Spain--16th century,aat,,breviaries;Spain;Sixteenth century,http://vocab.getty.edu/aat/300026459;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/1119851,Q4135;Q343;Q335
 Breviaries--Switzerland--14th century,aat,,breviaries;Switzerland;Fourteenth century,http://vocab.getty.edu/aat/300026459;http://id.worldcat.org/fast/1205401;http://id.worldcat.org/fast/933420,Q4135;Q4281;Q295
 Broadsides,rbmscv,,Broadsides,http://id.loc.gov/vocabulary/rbmscv/cv00912,Q16265
 Brocade bindings (Binding),rbbin,,Brocade bindings,http://id.loc.gov/vocabulary/rbmscv/cv00449,Q5937
@@ -313,18 +308,9 @@ Clasp straps,lobt,,Clasp straps,https://www.ligatus.org.uk/lob/concept/2858,Q175
 Cloth bindings (Binding),rbbin,,Cloth bindings,http://id.loc.gov/vocabulary/rbmscv/cv00451,Q11478
 Coats of arms,aat,,coats of arms,http://vocab.getty.edu/aat/300126352,Q8147
 Coats of arms.--Italy--16th century,aat,,coats of arms;Italy;Sixteenth century,http://vocab.getty.edu/aat/300126352;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1119851,Q8147;Q249;Q335
-Coats of arms--15th century,aat,,coats of arms;Fifteenth century,http://vocab.getty.edu/aat/300126352;http://id.worldcat.org/fast/923962,Q8147;Q154
-Coats of arms--16th century,aat,,coats of arms;Sixteenth century,http://vocab.getty.edu/aat/300126352;http://id.worldcat.org/fast/1119851,Q8147;Q335
-Coats of arms--Belgium--15th century,aat,,coats of arms;Belgium;Fifteenth century,http://vocab.getty.edu/aat/300126352;http://id.worldcat.org/fast/1210278;http://id.worldcat.org/fast/923962,Q8147;Q16301;Q154
 Coats of arms--England,aat,,coats of arms;England,http://vocab.getty.edu/aat/300126352;http://id.worldcat.org/fast/1219920,Q8147;Q320
-Coats of arms--England--14th century,aat,,coats of arms;England;Fourteenth century,http://vocab.getty.edu/aat/300126352;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/933420,Q8147;Q320;Q295
-Coats of arms--England--15th century,aat,,coats of arms;England;Fifteenth century,http://vocab.getty.edu/aat/300126352;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/923962,Q8147;Q320;Q154
-Coats of arms--England--16th century,aat,,coats of arms;England;Sixteenth century,http://vocab.getty.edu/aat/300126352;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/1119851,Q8147;Q320;Q335
-Coats of arms--France,aat,,coats of arms;France,http://vocab.getty.edu/aat/300126352;http://id.worldcat.org/fast/1204289,Q8147;Q152
-Coats of arms--France--15th century,aat,,coats of arms;France;Fifteenth century,http://vocab.getty.edu/aat/300126352;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/923962,Q8147;Q152;Q154
 Coats of arms--France--16th century,aat,,coats of arms;France;Sixteenth century,http://vocab.getty.edu/aat/300126352;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1119851,Q8147;Q152;Q335
 Coats of arms--Holy Roman Empire--16th century,aat,,coats of arms;Europe--Holy Roman Empire;Sixteenth century,http://vocab.getty.edu/aat/300126352;http://id.worldcat.org/fast/1205344;http://id.worldcat.org/fast/1119851,Q8147;Q4317;Q335
-Coats of arms--Netherlands--15th century,aat,,coats of arms;Netherlands;Fifteenth century,http://vocab.getty.edu/aat/300126352;http://id.worldcat.org/fast/1204034;http://id.worldcat.org/fast/923962,Q8147;Q5863;Q154
 Coats of arms--Spain--16th century,aat,,coats of arms;Spain;Sixteenth century,http://vocab.getty.edu/aat/300126352;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/1119851,Q8147;Q343;Q335
 Coats of arms--Spain--Valladolid--16th century,aat,,coats of arms;Spain--Valladolid;Sixteenth century,http://vocab.getty.edu/aat/300126352;http://id.worldcat.org/fast/1207327;http://id.worldcat.org/fast/1119851,Q8147;Q38450;Q335
 Codes,rbmscv,,Codes (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00231,Q16404
@@ -392,24 +378,6 @@ Declarations,aat,,declarations,http://vocab.getty.edu/aat/300167036,Q26897
 Decorated edges (Binding),rbbin,,Decorated edges,http://id.loc.gov/vocabulary/rbmscv/cv00740,Q11215
 Decorated initials,aat,,decorated initials,http://vocab.getty.edu/aat/300417548,Q10807
 Decorated initials (Layout features)--Spain--16th century,aat,,decorated initials;Spain;Sixteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/1119851,Q10807;Q343;Q335
-Decorated initials--Czech Republic--15th century,aat,,decorated initials;Czech Republic;Fifteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1256743;http://id.worldcat.org/fast/923962,Q10807;Q19848;Q154
-Decorated initials--England--13th century,aat,,decorated initials;England;Thirteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/1150138,Q10807;Q320;Q245
-Decorated initials--England--14th century,aat,,decorated initials;England;Fourteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/933420,Q10807;Q320;Q295
-Decorated initials--England--15th century,aat,,decorated initials;England;Fifteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/923962,Q10807;Q320;Q154
-Decorated initials--Flanders--13th century,aat,,decorated initials;Europe--Flanders;Thirteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1245991;http://id.worldcat.org/fast/1150138,Q10807;Q4193;Q245
-Decorated initials--Flanders--15th century,aat,,decorated initials;Europe--Flanders;Fifteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1245991;http://id.worldcat.org/fast/923962,Q10807;Q4193;Q154
-Decorated initials--France--13th century,aat,,decorated initials;France;Thirteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1150138,Q10807;Q152;Q245
-Decorated initials--France--14th century,aat,,decorated initials;France;Fourteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/933420,Q10807;Q152;Q295
-Decorated initials--France--15th century,aat,,decorated initials;France;Fifteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/923962,Q10807;Q152;Q154
-Decorated initials--Germany--15th century,aat,,decorated initials;Germany;Fifteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/923962,Q10807;Q3032;Q154
-Decorated initials--Italy,aat,,decorated initials;Italy,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1204565,Q10807;Q249
-Decorated initials--Italy--12th century,aat,,decorated initials;Italy;Twelfth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1159791,Q10807;Q249;Q304
-Decorated initials--Italy--14th century,aat,,decorated initials;Italy;Fourteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/933420,Q10807;Q249;Q295
-Decorated initials--Italy--15th century,aat,,decorated initials;Italy;Fifteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/923962,Q10807;Q249;Q154
-Decorated initials--Italy--15th centuy,aat,,decorated initials;Italy;Fifteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/923962,Q10807;Q249;Q154
-Decorated initials--Netherlands--13th century,aat,,decorated initials;Netherlands;Thirteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1204034;http://id.worldcat.org/fast/1150138,Q10807;Q5863;Q245
-Decorated initials--Netherlands--15th century,aat,,decorated initials;Netherlands;Fifteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1204034;http://id.worldcat.org/fast/923962,Q10807;Q5863;Q154
-Decorated initialszSpain--16th century,aat,,decorated initials;Spain;Sixteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/1119851,Q10807;Q343;Q335
 Decrees,aat,,decrees,http://vocab.getty.edu/aat/300026925,Q2789
 Decretals,aat,,decretals,http://vocab.getty.edu/aat/300026927,Q241
 Deeds,rbgenr,,Deeds,http://id.loc.gov/vocabulary/rbmscv/cv01234,Q17486
@@ -429,7 +397,6 @@ Detached leaves--Belgium--15th century,aat,,detached leaves;Belgium;Fifteenth ce
 Detached leaves--Burma--18th century,aat,,detached leaves;Burma;Eighteenth century,http://vocab.getty.edu/aat/300379890;http://id.worldcat.org/fast/1207835;http://id.worldcat.org/fast/904058,Q2954;Q26915;Q3024
 Detached leaves--Egypt--17th century,aat,,detached leaves;Egypt;Seventeenth century,http://vocab.getty.edu/aat/300379890;http://id.worldcat.org/fast/1208755;http://id.worldcat.org/fast/1113663,Q2954;Q11259;Q2771
 Detached leaves--Egypt--19th century,aat,,detached leaves;Egypt;Nineteenth century,http://vocab.getty.edu/aat/300379890;http://id.worldcat.org/fast/1208755;http://id.worldcat.org/fast/1037841,Q2954;Q11259;Q3538
-Detached leaves--England--14th century,aat,,detached leaves;England;Fourteenth century,http://vocab.getty.edu/aat/300379890;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/933420,Q2954;Q320;Q295
 Detached leaves--France--13th century,aat,,detached leaves;France;Thirteenth century,http://vocab.getty.edu/aat/300379890;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1150138,Q2954;Q152;Q245
 Detached leaves--France--14th century,aat,,detached leaves;France;Fourteenth century,http://vocab.getty.edu/aat/300379890;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/933420,Q2954;Q152;Q295
 Detached leaves--France--15th century,aat,,detached leaves;France;Fifteenth century,http://vocab.getty.edu/aat/300379890;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/923962,Q2954;Q152;Q154
@@ -442,7 +409,6 @@ Detached leaves--Indonesia--19th century,aat,,detached leaves;Indonesia;Nineteen
 Detached leaves--Iran--16th century,aat,,detached leaves;Iran;Sixteenth century,http://vocab.getty.edu/aat/300379890;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1119851,Q2954;Q16384;Q335
 Detached leaves--Iran--19th century,aat ,,detached leaves;Iran;Nineteenth century,http://vocab.getty.edu/aat/300379890;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1037841,Q2954;Q16384;Q3538
 Detached leaves--Iran--20th century,aat,,detached leaves;Iran;Twentieth century,http://vocab.getty.edu/aat/300379890;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1159810,Q2954;Q16384;Q5942
-Detached leaves--Italy,aat,,detached leaves;Italy,http://vocab.getty.edu/aat/300379890;http://id.worldcat.org/fast/1204565,Q2954;Q249
 Detached leaves--Italy--13th century,aat,,detached leaves;Italy;Thirteenth century,http://vocab.getty.edu/aat/300379890;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1150138,Q2954;Q249;Q245
 Detached leaves--Italy--14th century,aat,,detached leaves;Italy;Fourteenth century,http://vocab.getty.edu/aat/300379890;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/933420,Q2954;Q249;Q295
 Detached leaves--Italy--15th century,aat,,detached leaves;Italy;Fifteenth century,http://vocab.getty.edu/aat/300379890;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/923962,Q2954;Q249;Q154
@@ -474,7 +440,6 @@ diagrams,aat,,diagrams,http://vocab.getty.edu/aat/300015387,Q276
 diagrams,openn-form/genre,,diagrams,http://vocab.getty.edu/aat/300015387,Q276
 Diagrams--France--13th century,gmgpc,,Graphs;France;Thirteenth century,http://id.worldcat.org/fast/1919900;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1150138,Q38458;Q152;Q245
 Diagrams--France--17th century,gmgpc,,Graphs;France;Seventeenth century,http://id.worldcat.org/fast/1919900;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1113663,Q38458;Q152;Q2771
-Diagrams--Germany--16th century,aat,,diagrams;Germany;Sixteenth century,http://vocab.getty.edu/aat/300015387;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/1119851;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/1119851,Q276;Q3032;Q335;Q3032;Q335
 Dialogues,aat,,dialogues,http://vocab.getty.edu/aat/300026185,Q330
 dialogues,ds-genre,,dialogues,http://vocab.getty.edu/aat/300026185,Q330
 Diaries,aat,,diaries,http://vocab.getty.edu/aat/300027112,Q7960
@@ -698,7 +663,6 @@ graduals,ds-genre,,graduals,http://vocab.getty.edu/aat/300026462,Q4165
 Graduals (Service books),lcgft,,Graduals (Service books),http://id.worldcat.org/fast/1920168,Q16317
 Graduals (service books),lcgft,,Graduals (Service books),http://id.worldcat.org/fast/1920168,Q16317
 Graduals--Czech Republic--15th century,rbgenr,,Graduals;Czech Republic;Fifteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01414;http://id.worldcat.org/fast/1256743;http://id.worldcat.org/fast/923962,Q10816;Q19848;Q154
-Graduals--France--13th century,aat,,graduals;France;Thirteenth century,http://vocab.getty.edu/aat/300026462;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1150138;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1150138,Q4165;Q152;Q245;Q152;Q245
 Graduals--Italy--15th century,rbgenr,,Graduals;Italy;Fifteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01414;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/923962,Q10816;Q249;Q154
 Graduals--Italy--16th century,rbgenr,,Graduals;Italy;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01414;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1119851,Q10816;Q249;Q335
 Graduals--Italy--17th century,rbgenr,,Graduals;Italy;Seventeenth century,http://id.loc.gov/vocabulary/rbmscv/cv01414;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1113663,Q10816;Q249;Q2771
