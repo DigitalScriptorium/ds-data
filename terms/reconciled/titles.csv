@@ -14,7 +14,7 @@ title_as_recorded,title_as_recorded_agr,uniform_title_as_recorded,uniform_title_
 [Enchiridion] (fragmentary).,,,,Enchiridion,Q1245
 [Missal].,,,,Missal,Q662
 [Psalter],,,,Psalter,Q660
-12 miniatures with Biblical Scenes,,,,Miniature;Biblical scenes,Q19998;Q20507
+12 miniatures with Biblical Scenes,,,,Miniature;Biblical scenes,Q19998|Q20507
 14 leaves from a mid-13th-century Bible,,Bible.,,Bible,Q661
 "15th century breviary for feast of August 29,30, September 8",,,,Breviary,Q657
 15th century calendar,,,,Calendar,Q1122
@@ -31,10 +31,10 @@ Abbreviatio Summae Guillelmi Altissiodorensis /,,,,Summae Guillelmi Altissiodore
 Abregé cosmographique; divisé en deux livres,,,,Cartographic text,Q38344
 "Abrégé des graces, et des merveilles opérées dans le monastère, des religieuses Ursulines de Magny",,,,Works of the Ursulines at Magny,Q17571
 A breviatt concerning the memorable states and conditions of the Queenes Majesties honorable courts of records; kept in and about the Cittys of London and Westm[inster,,,,Summary of court records,Q39155
-Abridged Latin translation of the Nichomachean ethics and some commentaries on Aristotle,,,,Nichomachean ethics;Commentary on Aristotle,Q6012;Q3120
+Abridged Latin translation of the Nichomachean ethics and some commentaries on Aristotle,,,,Nichomachean ethics;Commentary on Aristotle,Q6012|Q3120
 Abscondita naturae,,,,Abscondita naturae,Q39156
 Ab urbe condita,,,,History of Rome,Q1324
-"Academic exercise (prolusion) on rising early, including an essay on the saying mane citus lectum fuge, and two poems, Surge, age surge, leves, iam convenit arcere somnes ; and Ignavus satrapam dedecet inclytum",,,,Academic texts;Poetry;Carmina elegiaca,Q17598;Q1330;Q17605
+"Academic exercise (prolusion) on rising early, including an essay on the saying mane citus lectum fuge, and two poems, Surge, age surge, leves, iam convenit arcere somnes ; and Ignavus satrapam dedecet inclytum",,,,Academic texts;Poetry;Carmina elegiaca,Q17598|Q1330|Q17605
 A carrier to a kinge and three poems by Francis Quarles,,,,A carrier to a kinge and three poems,Q17586
 A caveat for the quene,,,,Discussion of customs abuses,Q39157
 Acciaiuoli family correspondence,,,,Family documents,Q6997
@@ -470,7 +470,7 @@ Anglezarke indenture,,,,Indenture,Q8388
 "Anicii Severini Boecii, viri consolatorii de philosophica (sic) consolatione",,De consolatione philosophiae,,De consolatione philosophiae,Q2832
 "An inventary of all and singular the goodes and chattells and debtes of John Ffox, late of Chacumbe in the countie of Northampton, gentleman deceased",,,,Inventory,Q5073
 Aniṭkārikāḥ,,,,Aniṭkārikāḥ,Q39196
-Anna Peirce vs. John Stevens,,,,Document;Anna Peirce vs. John Stevens,Q8301;Q20404
+Anna Peirce vs. John Stevens,,,,Document;Anna Peirce vs. John Stevens,Q8301|Q20404
 Anne de Montmorency nomination,,,,Nomination,Q8049
 Annotata in libellos Aristotelis Parva naturalia appellatos,,,,Commentary on Aristotle,Q3120
 Annotated copy of Tacitus' Germania,,,,Germania,Q7012
@@ -481,7 +481,7 @@ Anthems; known as the Gostling manuscript,,,,Anthems,Q17613
 Anthology,,,,Anthology,Q1327
 Anthology of devotional prose and verse,,,,Devotional texts,Q5966
 Anthology of Latin humanistic poetry,,,,Latin humanistic poetry,Q39198
-"Antiphon, psalm, and versicle for the aspersion of holy water",,,,Antiphonary;Psalms;Versicle,Q654;Q5972;Q38347
+"Antiphon, psalm, and versicle for the aspersion of holy water",,,,Antiphonary;Psalms;Versicle,Q654|Q5972|Q38347
 Antiphonal,,,,Antiphonary,Q654
 "Antiphonal, leaf",,,,Antiphonary,Q654
 "Antiphonal, Temporal (Summer)",,,,Antiphonary,Q654
@@ -505,7 +505,7 @@ Antiphonary,,Antiphonary  (Manuscript Kenneth Spencer Research Library. MS J5:1)
 Antiphonary (Ambrosian rite),,Antiphonary,,Antiphonary,Q654
 "Antiphonary (Ambrosian rite), summer part",,Antiphonary,,Antiphonary,Q654
 Antiphonary (Winter Temporale),,,,Antiphonary,Q654
-Antiphonary and lectionary,,,,Antiphonary;Lectionary,Q654;Q663
+Antiphonary and lectionary,,,,Antiphonary;Lectionary,Q654|Q663
 Antiphonary for Christmas,,,,Antiphonary,Q654
 Antiphonary for Palm Sunday,,Antiphonary,,Antiphonary,Q654
 Antiphonary for the feast of a virgin,,,,Antiphonary,Q654
@@ -515,7 +515,7 @@ Antiphonary leaf with historiated D depicting St. John the Baptist,,,,Antiphonar
 "Antiphonary - Pentecost, three days following",,,,Antiphonary,Q654
 Antiphonary single leaf,,Antiphonary,,Antiphonary,Q654
 Antiphoner,,,,Antiphonary,Q654
-"Antiphoner, Gradual",,,,Antiphonary;Gradual,Q654;Q1121
+"Antiphoner, Gradual",,,,Antiphonary;Gradual,Q654|Q1121
 Antiphons and prayers for Marian feasts,,,,Antiphonary,Q654
 Antiquitates Judaicae,,,,Antiquitates Judaicae,Q20464
 "Antoninus Florentinus: Summa Sacrae Theologiae, luris Pontifici et Caesarei",,,,Summa theologiae,Q1118
@@ -545,7 +545,7 @@ Apāmārjanastotra,अपामार्जनस्तोत्र,Puranas,,Pur
 Aparokṣānubhava,अपरोक्षानुभव,Aparokṣānubhūti,,Aparokṣānubhūti,Q27595
 Apocalypse,,,,Apocalypse,Q1456
 Apologia cuiusdam regiae famae studiosi,,Apologia cuiusdam regiae famae studiosi,,Apologia cuiusdam regiae famae studiosi,Q39199
-Apostol with liturgical calendar,,Bible,,Bible;Calendar,Q661;Q1122
+Apostol with liturgical calendar,,Bible,,Bible;Calendar,Q661|Q1122
 Apparatus domini Bernardi Raymundi in sexto libro decretalium,,,,Decretals of Gregory IX,Q2831
 Apparatus in quinque libros Decretalium,,,,Apparatus super libros decretalium,Q1339
 Apparatus super constitutionibus Concilii Viennensis,,,,Constitutionibus concilii viennensis,Q7544
@@ -557,8 +557,8 @@ Appointment of mediator,,,,Appointment,Q8180
 Appointment of mediators,,,,Appointment,Q8180
 Arabic commentary,,,,Arabic commentary,Q39200
 Arabic miscellany,,,,Arabic texts,Q12258
-Arabic poem with painting,,,,Arabic poetry;Painting,Q12007;Q38348
-Arabic poem with painting],,,,Arabic poetry;Painting,Q12007;Q38348
+Arabic poem with painting,,,,Arabic poetry;Painting,Q12007|Q38348
+Arabic poem with painting],,,,Arabic poetry;Painting,Q12007|Q38348
 Arabic text,,,,Arabic text,Q38349
 Arabic-Turkish vocabulary,,,,Arabic-Turkish vocabulary,Q12198
 Arabic-Turkish vocabulary ... etc,,,,Arabic-Turkish vocabulary,Q12198
@@ -570,7 +570,7 @@ Archdiocese of Siena nomination,,,,Nomination,Q8049
 Archeion; or of the highe courtes of justice in England,,Archaionomia,,Archaionomia,Q39202
 Arezzo Laude,,,,Arezzo laude,Q6006
 Argumenta,,,,Argument,Q12730
-"Aristotelis Politica, rhetorica et magna moralia",,Politics.Rhetoric.Magna moralia,,Politics (Aristotle);Rhetoric (Aristotle);Magna moralia,Q1448;Q38377;Q38378
+"Aristotelis Politica, rhetorica et magna moralia",,Politics.Rhetoric.Magna moralia,,Politics (Aristotle);Rhetoric (Aristotle);Magna moralia,Q1448|Q38377|Q38378
 Arithmetica theorica,,,,Arithmetic,Q39203
 Arma Christi roll,,,,Arma Christi roll,Q39204
 Armada de España para Inglaterra,,,,Armada de España para Inglaterra,Q39205
@@ -589,8 +589,8 @@ Ars epistolandi ... etc,,,,Ars epistolandi,Q5064
 Ars gramatici caesariensis,,Institutio de arte grammatica,,Institutio de arte grammatica,Q39907
 Ars moriendi,,Ars moriendi.,,Ars moriendi,Q39208
 Ars poetica,,,,Ars poetica,Q20009
-Ars Poetica (Art of Poetry); Carmen seculare; Epistolae (Epistles); Odes,,,,Ars poetica;Carmen saeculare;Epistulae;Carmina,Q20009;Q19914;Q38387;Q38388
-Ars Poetica and Epistulae,,,,Ars poetica;Epistulae,Q20009;Q38387
+Ars Poetica (Art of Poetry); Carmen seculare; Epistolae (Epistles); Odes,,,,Ars poetica;Carmen saeculare;Epistulae;Carmina,Q20009|Q19914|Q38387|Q38388
+Ars Poetica and Epistulae,,,,Ars poetica;Epistulae,Q20009|Q38387
 Arte della lana legal decision,,,,Legal decision,Q8288
 Artis metrice practice compilatio,,,,Artis metrice practice compilatio,Q12771
 Artis Prisciani viri eloquentissimi grammatici Cesariensis,,Institutio de arte grammatica,,Institutio de arte grammatica,Q39907
@@ -611,14 +611,14 @@ Aṣṭamaskandhacaturthādhyāya,अष्टमस्कन्धचतुर�
 Aṣṭasāhasrikā prajñāpāramitā,अष्टसाहस्रिका प्रज्ञापारमिता,Tripiṭaka,,Tripiṭaka,Q12750
 Aṣṭāvakra,अष्टावक्र,Aṣṭāvakragītā,,Aṣṭāvakragītā,Q27674
 Astrolabium,,,,Astrolabium,Q39210
-Astrological and medical compilation,,,,Astrological texts;Medical texts,Q3123;Q817
-"Astrological and religious text, single leaf (Pius XII Memorial Library. Manuscript. VFL MS 044)",,,,Astrological text;Religious text,Q20378;Q1465
+Astrological and medical compilation,,,,Astrological texts;Medical texts,Q3123|Q817
+"Astrological and religious text, single leaf (Pius XII Memorial Library. Manuscript. VFL MS 044)",,,,Astrological text;Religious text,Q20378|Q1465
 "Astrological prophecies, medical and metallurgical recipes",,,,"Astrological prophecies, medical and metallurgical recipes",Q39211
 Astrological treatise,,,,Astrological text,Q20378
 "Astrological treatises, in English (composite volume, fragment)",,,,Astrological texts,Q3123
 Astronomica,,,,Astronomica,Q16439
 Astronomica /,,,,Astronomica,Q16439
-Astronomical and astrological tables,,,,Astronomical texts;Astrological texts,Q3129;Q3123
+Astronomical and astrological tables,,,,Astronomical texts;Astrological texts,Q3129|Q3123
 Astronomical anthology,,,,Astronomical texts,Q3129
 Astronomical canon tables,,,,Astronomical texts,Q3123
 Astronomical charts for Fatḥ-ʻAlī Shāh Qājār,,,,Astronomical charts for Fatḥ-ʻAlī Shāh Qājār,Q18481
@@ -671,7 +671,7 @@ A treatice concerninge the nauie of England; written in anno 1570 by John Mountg
 A treatise concerninge the maintenance of the Nauye,,,,Naval text,Q39908
 "A true translation into Englishe of the Litle Office of the blessed Virgine Mary, for the encrease of theire Devotion which understande not the Latine tongue",,Book of hours,,Book of hours,Q795
 Auctoritates logicae veteris,,,,Auctoritates logicae veteris,Q39213
-August calendar labor,,,,Calendar;August,Q1122;Q20437
+August calendar labor,,,,Calendar;August,Q1122|Q20437
 Augustinian missal (use of Rome),,Missal (Augustinian),,Missal,Q662
 Auli Flacci Persii; Poete satyrarum opus,,Works,,Works,Q5989
 Auli persii vulterani vel arentini secundum aliquos; Satyrarum liber incipit,,Works,,Works,Q5989
@@ -782,74 +782,74 @@ Bhūtaviveka,भूतविवेक,Pañcadaśī,,Pañcadaśī,Q27684
 Bible,,Bible.,,Bible,Q661
 Bible,,,,Bible,Q661
 "Bible, Atlantic Bible",,,,Bible,Q661
-"Bible, Epistles",,,,Bible;Epistles,Q661;Q1466
+"Bible, Epistles",,,,Bible;Epistles,Q661|Q1466
 "Bible, glossed",,,,Bible,Q661
-"Bible, glossed Epistles of Paul",,,,Bible;Pauline Epistles,Q661;Q38384
-"Bible, glossed Mark",,,,Bible;Gospel of Mark,Q661;Q1347
-"Bible, glossed minor prophets; Missal",,,,Bible;Minor prophets;Missal,Q661;Q19984;Q662
-"Bible, Gospel of John",,,,Bible;Gospel of John,Q661;Q665
-"Bible, Gospels",,,,Bible;Gospels,Q661;Q6034
-"Bible, II Kings 13:5 - II Kings 15:10",,,,Bible;Second Book of Kings,Q661;Q1117
+"Bible, glossed Epistles of Paul",,,,Bible;Pauline Epistles,Q661|Q38384
+"Bible, glossed Mark",,,,Bible;Gospel of Mark,Q661|Q1347
+"Bible, glossed minor prophets; Missal",,,,Bible;Minor prophets;Missal,Q661|Q19984|Q662
+"Bible, Gospel of John",,,,Bible;Gospel of John,Q661|Q665
+"Bible, Gospels",,,,Bible;Gospels,Q661|Q6034
+"Bible, II Kings 13:5 - II Kings 15:10",,,,Bible;Second Book of Kings,Q661|Q1117
 "Bible, imperfect",,Bible,,Bible,Q661
-"Bible, Latin (Daniel fragment)",,Bible.,,Bible;Book of Daniel,Q661;Q20511
-"Bible, Matthew",,,,Bible;Gospel of Matthew,Q661;Q1389
+"Bible, Latin (Daniel fragment)",,Bible.,,Bible;Book of Daniel,Q661|Q20511
+"Bible, Matthew",,,,Bible;Gospel of Matthew,Q661|Q1389
 "Bible, Middle English",,Bible.,,Bible,Q661
-"Bible, N.T",,,,Bible;New testament,Q661;Q655
-"Bible, N.T.",,,,Bible;New testament,Q661;Q655
-"Bible, N.T., Acts",,,,Bible;New testament;Acts of the apostles,Q661;Q655;Q6009
-"Bible, N. T., Acts of the Apostles",,,,Bible;New testament;Acts of the apostles,Q661;Q655;Q6009
-"Bible, N.T., Apocrypha",,,,Bible;New testament;Apocrypha,Q661;Q655;Q6007
-"Bible, N.T., Epistles of James, Peter, and the First Epistle of John",,,,Bible;New testament;Epistle of James;First Epistle of Peter;Second Epistle of Peter;First Epistle of John,Q661;Q655;Q38351;Q38352;Q38357;Q38353
-"Bible, N.T., Ezekiel",,,,Bible;New testament;Book of Ezekiel,Q661;Q655;Q1342
-"Bible, N. T. , glossed",,,,Bible;New testament,Q661;Q655
-"Bible, N.T., Gospel of John",,,,Bible;New testament;Gospel of John,Q661;Q655;Q665
-"Bible, N.T., Gospel of Matthew, glossed",,,,Bible;New testament;Gospel of Matthew,Q661;Q655;Q1389
-"Bible, N.T., Gospels",,,,Bible;New testament;Gospels,Q661;Q655;Q6034
-"Bible, N.T., John",,,,Bible;New testament;Gospel of John,Q661;Q655;Q665
-"Bible, N.T., Luke",,,,Bible;New testament;Gospel of Luke,Q661;Q655;Q1437
-"Bible, N. T., Mark",,,,Bible;New testament;Gospel of Mark,Q661;Q655;Q1347
-"Bible, N.T., Numbers",,,,Bible;New testament;Book of Numbers,Q661;Q655;Q1408
-"Bible, N.T., Revelations",,,,Bible;New testament;Book of Revelation,Q661;Q655;Q1484
-"Bible, N.T., Timothy",,,,Bible;New testament;First Epistle to Timothy;Second Epistle to Timothy,Q661;Q655;Q1427;Q38354
-"Bible, N.T. Gospels",,,,Bible;New testament;Gospels,Q661;Q655;Q6034
-"Bible, New Testament, Middle English",,Bible.,,Bible;New testament,Q661;Q655
-"Bible, NT",,,,Bible;New testament,Q661;Q655
-"Bible, O.T",,,,Bible;Old testament,Q661;Q664
-"Bible, O. T",,,,Bible;Old testament,Q661;Q664
-"Bible, O.T.",,,,Bible;Old testament,Q661;Q664
-"Bible, O. T.",,,,Bible;Old testament,Q661;Q664
-"Bible, O. T., Ecclesiasticus",,,,Bible;Old testament;Ecclesiastes,Q661;Q664;Q6052
-"Bible, O.T., Genesis, glossed",,,,Bible;Old testament;Book of Genesis,Q661;Q664;Q7274
-"Bible, O.T., Psalter",,,,Bible;Old testament;Psalter,Q661;Q664;Q660
-"Bible, OT",,,,Bible;Old testament,Q661;Q664
+"Bible, N.T",,,,Bible;New testament,Q661|Q655
+"Bible, N.T.",,,,Bible;New testament,Q661|Q655
+"Bible, N.T., Acts",,,,Bible;New testament;Acts of the apostles,Q661|Q655|Q6009
+"Bible, N. T., Acts of the Apostles",,,,Bible;New testament;Acts of the apostles,Q661|Q655|Q6009
+"Bible, N.T., Apocrypha",,,,Bible;New testament;Apocrypha,Q661|Q655|Q6007
+"Bible, N.T., Epistles of James, Peter, and the First Epistle of John",,,,Bible;New testament;Epistle of James;First Epistle of Peter;Second Epistle of Peter;First Epistle of John,Q661|Q655|Q38351|Q38352|Q38357|Q38353
+"Bible, N.T., Ezekiel",,,,Bible;New testament;Book of Ezekiel,Q661|Q655|Q1342
+"Bible, N. T. , glossed",,,,Bible;New testament,Q661|Q655
+"Bible, N.T., Gospel of John",,,,Bible;New testament;Gospel of John,Q661|Q655|Q665
+"Bible, N.T., Gospel of Matthew, glossed",,,,Bible;New testament;Gospel of Matthew,Q661|Q655|Q1389
+"Bible, N.T., Gospels",,,,Bible;New testament;Gospels,Q661|Q655|Q6034
+"Bible, N.T., John",,,,Bible;New testament;Gospel of John,Q661|Q655|Q665
+"Bible, N.T., Luke",,,,Bible;New testament;Gospel of Luke,Q661|Q655|Q1437
+"Bible, N. T., Mark",,,,Bible;New testament;Gospel of Mark,Q661|Q655|Q1347
+"Bible, N.T., Numbers",,,,Bible;New testament;Book of Numbers,Q661|Q655|Q1408
+"Bible, N.T., Revelations",,,,Bible;New testament;Book of Revelation,Q661|Q655|Q1484
+"Bible, N.T., Timothy",,,,Bible;New testament;First Epistle to Timothy;Second Epistle to Timothy,Q661|Q655|Q1427|Q38354
+"Bible, N.T. Gospels",,,,Bible;New testament;Gospels,Q661|Q655|Q6034
+"Bible, New Testament, Middle English",,Bible.,,Bible;New testament,Q661|Q655
+"Bible, NT",,,,Bible;New testament,Q661|Q655
+"Bible, O.T",,,,Bible;Old testament,Q661|Q664
+"Bible, O. T",,,,Bible;Old testament,Q661|Q664
+"Bible, O.T.",,,,Bible;Old testament,Q661|Q664
+"Bible, O. T.",,,,Bible;Old testament,Q661|Q664
+"Bible, O. T., Ecclesiasticus",,,,Bible;Old testament;Ecclesiastes,Q661|Q664|Q6052
+"Bible, O.T., Genesis, glossed",,,,Bible;Old testament;Book of Genesis,Q661|Q664|Q7274
+"Bible, O.T., Psalter",,,,Bible;Old testament;Psalter,Q661|Q664|Q660
+"Bible, OT",,,,Bible;Old testament,Q661|Q664
 "Bible, single leaf",,Bible,,Bible,Q661
 "Bible, single leaves",,Bible,,Bible,Q661
 "Bible, subject index to",,,,Bible index,Q39911
 "Bible, Tours",,,,Bible,Q661
 "Bible, verbal index to",,,,Bible index,Q39911
-"Bible, with glossa ordinaria",,,,Bible;Glossa ordinaria,Q661;Q8061
-Bible; Notes on a church synod,,,,Bible;Notes on a church synod,Q661;Q20008
-Bible: Book of Tobit,,,,Bible;Book of Tobit,Q661;Q19991
-Bible: Colossians 4 - Thessalonians 1,,,,Bible;Colossians;First Epistle to the Thessalonians,Q661;Q38355;Q38356
-Bible: Ecclesiastes,,,,Bible;Ecclesiastes,Q661;Q6052
-Bible: Ecclesiastes 16:18 - 25:2,,,,Bible;Ecclesiastes,Q661;Q6052
+"Bible, with glossa ordinaria",,,,Bible;Glossa ordinaria,Q661|Q8061
+Bible; Notes on a church synod,,,,Bible;Notes on a church synod,Q661|Q20008
+Bible: Book of Tobit,,,,Bible;Book of Tobit,Q661|Q19991
+Bible: Colossians 4 - Thessalonians 1,,,,Bible;Colossians;First Epistle to the Thessalonians,Q661|Q38355|Q38356
+Bible: Ecclesiastes,,,,Bible;Ecclesiastes,Q661|Q6052
+Bible: Ecclesiastes 16:18 - 25:2,,,,Bible;Ecclesiastes,Q661|Q6052
 Bible: Esther 16:10 - end; Jerome's Prologue to Esdra; excerpts from I Esdra and II Esdra,,,,Bible,Q661
-"Bible: Exodus 22:28 - 23:3,11-15",,,,Bible;Book of Exodus,Q661;Q20415
-"Bible: Ezra, Chapter 6",,,,Bible;Book of Ezra,Q661;Q20502
+"Bible: Exodus 22:28 - 23:3,11-15",,,,Bible;Book of Exodus,Q661|Q20415
+"Bible: Ezra, Chapter 6",,,,Bible;Book of Ezra,Q661|Q20502
 "Bible: Ezra 2() - 6:4; Tobias, Prologue 1:1-4, 23",,,,Bible,Q661
-Bible: Hebrews 1:1-9,,,,Bible;Epistle to the Hebrews,Q661;Q20387
-Bible: Jeremiah 5:27 - 6:27,,,,Bible;Book of Jeremiah,Q661;Q20500
-Bible: Job 35:10-37:21,,,,Bible;Book of Job,Q661;Q20456
-Bible: Judith 5:2 - 8:1; Job 1:15 - 6:29,,,,Bible;Book of Judith;Book of Job,Q661;Q20493;Q20456
-Bible: Judith 8:1 - 11:10,,,,Bible;Book of Judith,Q661;Q20493
-Bible: Kings III 22:54 - Kings IV 1:3,,,,Bible;Third Book of Kings;Fourth Book of Kings,Q661;Q38358;Q38359
-Bible: Luke 15:15-27; 16:19 - 17:2,,,,Bible;Gospel of Luke,Q661;Q1437
-Bible: Mark and Prologue to Luke,,,,Bible;Gospel of Mark,Q661;Q1347
-Bible: Numbers,,,,Bible;Book of Numbers,Q661;Q1408
-Bible: Romans,,,,Bible;Epistle to the Romans,Q661;Q20394
+Bible: Hebrews 1:1-9,,,,Bible;Epistle to the Hebrews,Q661|Q20387
+Bible: Jeremiah 5:27 - 6:27,,,,Bible;Book of Jeremiah,Q661|Q20500
+Bible: Job 35:10-37:21,,,,Bible;Book of Job,Q661|Q20456
+Bible: Judith 5:2 - 8:1; Job 1:15 - 6:29,,,,Bible;Book of Judith;Book of Job,Q661|Q20493|Q20456
+Bible: Judith 8:1 - 11:10,,,,Bible;Book of Judith,Q661|Q20493
+Bible: Kings III 22:54 - Kings IV 1:3,,,,Bible;Third Book of Kings;Fourth Book of Kings,Q661|Q38358|Q38359
+Bible: Luke 15:15-27; 16:19 - 17:2,,,,Bible;Gospel of Luke,Q661|Q1437
+Bible: Mark and Prologue to Luke,,,,Bible;Gospel of Mark,Q661|Q1347
+Bible: Numbers,,,,Bible;Book of Numbers,Q661|Q1408
+Bible: Romans,,,,Bible;Epistle to the Romans,Q661|Q20394
 Bible. Latin. Vulgate. 12--,,,,Bible,Q661
-"Bible. New Testament. Gospels, ends imperfectly at John 21:28",,,,Bible;New testament;Gospels,Q661;Q655;Q6034
-Bible and Missal,,Bible,,Bible;Missal,Q661;Q662
+"Bible. New Testament. Gospels, ends imperfectly at John 21:28",,,,Bible;New testament;Gospels,Q661|Q655|Q6034
+Bible and Missal,,Bible,,Bible;Missal,Q661|Q662
 Bible Commentary,,,,Bible commentary,Q1433
 Bible Commentary: Rabanus Maurus on Deuteronomy,,,,Bible commentary,Q1433
 Bible commentary on Canticle of Canticles,,,,Bible commentary,Q1433
@@ -880,10 +880,10 @@ Biblia pequeña,,,,Bible,Q661
 Biblia sacra,,,,Bible,Q661
 Biblia sacra,,Bible.,,Bible,Q661
 Biblia Sacra Latina,,Bible.,,Bible,Q661
-"Biblia sacra Latina, liber Prophetarium",,Bible.,,Bible;Prophets,Q661;Q10849
+"Biblia sacra Latina, liber Prophetarium",,Bible.,,Bible;Prophets,Q661|Q10849
 Biblia sacra manuscripta,,Bible.,,Bible,Q661
 Biblia sacra Sei [sic] Hieronymi,,Bible,,Bible,Q661
-Biblia Veteris et Novi Testamenti,,,,Bible;Old testament;New testament,Q661;Q664;Q655
+Biblia Veteris et Novi Testamenti,,,,Bible;Old testament;New testament,Q661|Q664|Q655
 Biblical Commentary,,,,Bible commentary,Q1433
 Biblical commentary,,,,Bible commentary,Q1433
 Biblical commentary on the Old Testament--I Kings - Esther,,,,Bible commentary,Q1433
@@ -910,10 +910,10 @@ Bill of sale of vineyard land,,,,Bill of sale,Q8289
 Bilvaṣoḍaśakastotra,बिल्वषोडशकस्तोत्र,Puranas,,Puranas,Q27588
 Binding fragment,,,,Binding fragment,Q10843
 Binding fragment],,,,Binding fragment,Q10843
-Binding fragment from Glossa ordinaria,,,,Binding fragment;Glossa ordinaria,Q10843;Q8061
+Binding fragment from Glossa ordinaria,,,,Binding fragment;Glossa ordinaria,Q10843|Q8061
 Binding fragment from Justinian's Corpus Iuris Civilis,,Corpus juris civilis,,Corpus juris civilis,Q5057
-Binding fragment from the Bible of Stephen Harding,,,,Binding fragment;Bible,Q10843;Q661
-Binding fragment from the Bible of Stephen Harding],,,,Binding fragment;Bible,Q10843;Q661
+Binding fragment from the Bible of Stephen Harding,,,,Binding fragment;Bible,Q10843|Q661
+Binding fragment from the Bible of Stephen Harding],,,,Binding fragment;Bible,Q10843|Q661
 "Biographies of noted Sufis and distinguised men in Islam, single leaf (Pius XII Memorial Library. Manuscript. VFL MS 040)",,,,Biographies,Q39912
 Biography of Petrarch,,,,Biography of Petrarch,Q39913
 Biography of Petrarch; Glosse de libris meteororum (Gloss on the Book of Meteors); Glosse de libris meteororum IV (Gloss on the Book of Meteors IV),,,,Miscellany,Q3673
@@ -940,8 +940,8 @@ Booke of good condicions,,Livre de bonnes moeurs,,Livre de bonnes moeurs,Q39230
 Book inscription,,,,Inscription,Q39231
 Book mark,,,,Book mark,Q20389
 Book of deeds to various territorial acquisitions,,,,Deed,Q1319
-Book of Esther,,Bible,,Bible;Book of Esther,Q661;Q39133
-Book of Haggai,,Bible,,Bible;Book of Haggai,Q661;Q39134
+Book of Esther,,Bible,,Bible;Book of Esther,Q661|Q39133
+Book of Haggai,,Bible,,Bible;Book of Haggai,Q661|Q39134
 "Book of heraldry including the history and pedigree of the Tichborne family and several others, compiled in 1623 by John Philpot (circa 1589-1645), Rouge Dragon Pursuivant, continued by Henry St. George, Clarenceux King of Arms to 1686, and by Ralph Bigland, Somerset Herald to 1759",,,,Heraldry,Q17544
 Book of Hours,,,,Book of hours,Q795
 Book of hours,,Book of hours (Manuscript Kenneth Spencer Research Library. MS A16),,Book of hours,Q795
@@ -955,7 +955,7 @@ Book of hours,,Book of hours (Manuscript Kenneth Spencer Research Library. MS A1
 "Book of Hours, in Dutch",,,,Book of hours,Q795
 "Book of Hours, in Dutch",,Book of hours,,Book of hours,Q795
 "Book of Hours, in Latin and French (printed)",,,,Book of hours,Q795
-"Book of Hours, Psalms from Hours of the Virgin",,,,Book of hours;Psalter,Q795;Q660
+"Book of Hours, Psalms from Hours of the Virgin",,,,Book of hours;Psalter,Q795|Q660
 "Book of Hours, Sarum and Utrecht uses, adapted for York use",,,,Book of hours,Q795
 "Book of Hours, Sarum use",,"Book of hours (Diocese of Salisbury, England)",,Book of hours,Q795
 "Book of hours, single leaf",,Book of hours,,Book of hours,Q795
@@ -985,13 +985,13 @@ Book of hours,,Book of hours (Manuscript Kenneth Spencer Research Library. MS A1
 "Book of Hours, use of Rome",,,,Book of hours,Q795
 "Book of Hours, use of Rome, and a Prayerbook",,Book of hours (Usus Romanus),,Book of hours,Q795
 "Book of Hours, Use of Rome, Heures Mixtes",,,,Book of hours,Q795
-"Book of Hours, use of Rome; Litany and Prayers",,,,Book of hours;Litany;Prayers,Q795;Q1378;Q798
+"Book of Hours, use of Rome; Litany and Prayers",,,,Book of hours;Litany;Prayers,Q795|Q1378|Q798
 "Book of hours, use of Rouen",,,,Book of hours,Q795
 "Book of hours, use of Rouen, in Latin and French",,Book of hours,,Book of hours,Q795
 "Book of hours, use of Sarum",,,,Book of hours,Q795
 "Book of Hours, use of Sarum, in Latin, English, and Czech (the ""Felbrigg Hours"")",,Book of hours,,Book of hours,Q795
 "Book of Hours, use of Sarum, in Latin with English additions",,,,Book of hours,Q795
-"Book of Hours, Use of Sarum (""The John Browne Hours"")",,,,Book of hours;John Brown Hours,Q795;Q20492
+"Book of Hours, Use of Sarum (""The John Browne Hours"")",,,,Book of hours;John Brown Hours,Q795|Q20492
 "Book of Hours, use of Sens[?",,,,Book of hours,Q795
 "Book of Hours, Use of Soissons",,,,Book of hours,Q795
 "Book of Hours, Use of Soissons?",,,,Book of hours,Q795
@@ -1001,7 +1001,7 @@ Book of hours,,Book of hours (Manuscript Kenneth Spencer Research Library. MS A1
 "Book of Hours, use of Tours",,,,Book of hours,Q795
 "Book of Hours, Use of Troyes",,,,Book of hours,Q795
 "Book of Hours, Use of Utrecht",,,,Book of hours,Q795
-"Book of Hours, Use of Utrecht; Scenes from the Life of Christ",,,,Book of hours;Scenes from the life of Christ,Q795;Q19961
+"Book of Hours, Use of Utrecht; Scenes from the Life of Christ",,,,Book of hours;Scenes from the life of Christ,Q795|Q19961
 Book of Hours; Miniature,,,,Book of hours,Q795
 Book of hours; use of Paris,,,,Book of hours,Q795
 Book of hours; use of Paris,,Book of hours,,Book of hours,Q795
@@ -1024,22 +1024,22 @@ Book of hours (use of Angers),,Book of hours,,Book of hours,Q795
 Book of Hours (Use of Dol.),,,,Book of hours,Q795
 Book of hours (Use of Paris),,,,Book of hours,Q795
 Book of hours (Use of Rouen),,,,Book of hours,Q795
-Book of Hours and Missal,,Book of hours,,Book of hours;Missal,Q795;Q662
-Book of Hours and Psalter,,,,Book of hours;Psalter,Q795;Q660
+Book of Hours and Missal,,Book of hours,,Book of hours;Missal,Q795|Q662
+Book of Hours and Psalter,,,,Book of hours;Psalter,Q795|Q660
 Book of hours bifolium,,,,Book of hours,Q795
 Book of Hours by the Master of the Dark Eyes,,,,Book of hours,Q795
 Book of hours calendar leaf,,,,Book of hours,Q795
 Book of Hours for Sarum Use,,,,Book of hours,Q795
 Book of hours fragment,,,,Book of hours,Q795
 Book of hours leaf,,,,Book of hours,Q795
-Book of Hours or Psalter,,,,Book of hours;Psalter,Q795;Q660
+Book of Hours or Psalter,,,,Book of hours;Psalter,Q795|Q660
 Book of John Mandeville,,Itinerarium,,Itinerarium,Q1340
 "Book of litanies, single leaf (Pius XII Memorial Library. Manuscript. VFL MS 042)",,,,Litanies,Q39232
 "Book of prayers, single leaf (Pius XII Memorial Library. Manuscript. VFL MS 043)",,,,Prayers,Q798
 Book of privileges of Columbus,,,,Privileges,Q4353
 Book of questions,,,,Quaestiones,Q39914
 Book of the Dead,,,,Book of the dead,Q12780
-"Book of the Gospels, incomplete",,Bible.,,Bible;Gospels,Q661;Q6034
+"Book of the Gospels, incomplete",,Bible.,,Bible;Gospels,Q661|Q6034
 Book of vices and virtues,,Somme le Roi,,Somme le roi,Q7515
 Book on the configuration of the orb,,,,Book on the configuration of the orb,Q3137
 Books III-V of al-Qānūn fī al-ṭibb,,Qānūn fī al-ṭibb.,قانون في الطب.,Qānūn fī al-ṭibb,Q2826
@@ -1070,7 +1070,7 @@ Breviary,,,,Breviary,Q657
 "Breviary, for Dominican use",,Breviary (Dominican),,Breviary,Q657
 "Breviary, noted",,,,Breviary,Q657
 "Breviary, Octave of the Epiphany (Jan. 13), with commemoration of Saints Remigius and Hilary",,,,Breviary,Q657
-"Breviary, Psalter",,,,Breviary;Psalter,Q657;Q660
+"Breviary, Psalter",,,,Breviary;Psalter,Q657|Q660
 "Breviary, Saint Michael the Archangel, Sept. 29",,,,Breviary,Q657
 "Breviary, single leaf",,Breviary,,Breviary,Q657
 "Breviary, Susanna, Aug. 11",,,,Breviary,Q657
@@ -1084,7 +1084,7 @@ Breviary; use of Paris,,Breviary,,Breviary,Q657
 Breviary (April-November),,,,Breviary,Q657
 "Breviary (non-Roman), Saints Firminus, Cyprian and Justina, Cosmas and Damian, Sept. 26-27",,,,Breviary,Q657
 "Breviary (not Roman), Saints Cornelius and Cyprian, Saint Ursula and Companions, Sept. 16 and Oct. 21",,,,Breviary,Q657
-Breviary (or Psalter),,,,Breviary;Psalter,Q657;Q660
+Breviary (or Psalter),,,,Breviary;Psalter,Q657|Q660
 Breviary collages,,,,Breviary,Q657
 Breviary for Augustinian use,,,,Breviary,Q657
 Breviary for Day Offices,,Breviary (Dominican),,Breviary,Q657
@@ -1096,7 +1096,7 @@ Breviary in Latin,,Breviary,,Breviary,Q657
 Breviary leaf,,,,Breviary,Q657
 Breviary leaves,,Breviary,,Breviary,Q657
 Breviary of Elisabeth von Walmden,,,,Breviary,Q657
-Breviary or Sequentiary,,,,Breviary;Sequentiary,Q657;Q1390
+Breviary or Sequentiary,,,,Breviary;Sequentiary,Q657|Q1390
 Breviary with neumes,,,,Breviary,Q657
 Bṛhadāraṇyakopaniṣad,बृहदारण्यकोपनिषद्,Upanishads,,Upanishads,Q27718
 Br̥hadāraṇyakopaniṣad,बृहदारण्यकोपनिषद्,Upanishads,,Upanishads,Q27718
@@ -1140,8 +1140,8 @@ Caius Plinius secundus de Morte Valerii M.,,,,De morte Valerii Martialis,Q39917
 Calendar,,,,Calendar,Q1122
 "Calendar, July-October",,,,Calendar,Q1122
 Calendar for year 1064 AH,,,,Calendar,Q1122
-Calendar from a book of hours,,Book of hours,,Calendar;Book of hours,Q1122;Q795
-Calendarium and ephemerides,,,,Calendar;Ephemerides,Q1122;Q39148
+Calendar from a book of hours,,Book of hours,,Calendar;Book of hours,Q1122|Q795
+Calendarium and ephemerides,,,,Calendar;Ephemerides,Q1122|Q39148
 Calendar leaf from a book of hours or breviary,,,,Calendar,Q1122
 "Calendar May, June",,,,Calendar,Q1122
 "Calendar November, December",,,,Calendar,Q1122
@@ -1163,10 +1163,10 @@ Caṇḍīpāṭhakrama,,Tantras,,Tantras,Q27776
 Canones vel operationes in operando quadrante,,,,Canones vel operationes in operando quadrante,Q3691
 Canonical Epistles,,,,Epistles,Q1466
 Canon law,,,,Canon law,Q1415
-Canon Law: 'De Iure Iurando' and Concerning Emperor Henry by a Pope,,,,De lure lurando;Concerning emperor Henry by a pope,Q20434;Q20370
+Canon Law: 'De Iure Iurando' and Concerning Emperor Henry by a Pope,,,,De lure lurando;Concerning emperor Henry by a pope,Q20434|Q20370
 Canon Law: De Religiosis,,,,De religiosis,Q20383
 Canon Law: Excerpts from the Decretals,,,,Decretals,Q1447
-Canon Law: Treatise on Matrimony,,,,Canon law;Treatise on marriage,Q1415;Q20503
+Canon Law: Treatise on Matrimony,,,,Canon law;Treatise on marriage,Q1415|Q20503
 Canon law (?),,,,Canon law,Q1415
 Canon law collection,,,,Canon law,Q1415
 Canon Law Commentary,,,,Commentary on canon law,Q20393
@@ -1177,7 +1177,7 @@ Canon law text,,,,Canon law,Q1415
 Canon Law Treatise,,,,Treatise on canon law,Q20439
 Canon law with commentary,,,,Canon law,Q1415
 Canon law with gloss,,,,Canon law,Q1415
-Canon super almanach; De 12 signis et eorum naturis in generali,,,,Canon super almanach;De 12 signis et eorum naturis in generali,Q19944;Q20031
+Canon super almanach; De 12 signis et eorum naturis in generali,,,,Canon super almanach;De 12 signis et eorum naturis in generali,Q19944|Q20031
 Canonziere,,,,Canzoniere,Q5956
 "Canterbury Tales, two fragments (Manly and Rickert Ph1)",,,,Canterbury tales,Q12793
 Canterbury tales; manuscript,,,,Canterbury tales,Q12793
@@ -1227,7 +1227,7 @@ Carta executoria a pedimiento de Alonso Mendez de Parada,,,,Carta executoria,Q19
 Carta executoria de hidalguia a pedimiento,,,,Carta executoria de hidalguia,Q3718
 "Carta executoria de hidalguia a pedimiento de Rrodrigo Calera, vezino de Villarrobledo",,,,Carta executoria de hidalguia,Q3718
 "Carta executoria de hidalguía de don Diego, don Alvaro, y don Gonçalo de Salaçar",,,,Carta executoria,Q19952
-Carta pisana; Sententiae (Sentences),,,,Carta pisana;Sentences,Q19974;Q1119
+Carta pisana; Sententiae (Sentences),,,,Carta pisana;Sentences,Q19974|Q1119
 Cartas nupciales,,,,Letters,Q5068
 Cartolarii /,,,,Cartulary,Q3686
 Cartulary,,,,Cartulary,Q3686
@@ -1242,7 +1242,7 @@ Catholicon,,,,Catholicon,Q12729
 Catholicon of Johannes Balbus,,,,Catholicon,Q12729
 "Cato, Distichs, in English",,Catonis disticha,,Catonis disticha,Q39243
 Cato maior vel de senectute,,,,Works of Cato the Elder,Q39149
-Cato maior vel de senectute Paradoxa,,,,Works of Cato the Elder;Paradoxa,Q39149;Q39150
+Cato maior vel de senectute Paradoxa,,,,Works of Cato the Elder;Paradoxa,Q39149|Q39150
 Cāturmāsyamāhātmya,चातुर्मास्यमाहात्म्य,Puranas,,Puranas,Q27588
 Cāturmāsyavratanirṇaya,चातुर्मास्यव्रतनिर्णय,Puranas,,Puranas,Q27588
 Causae juridicae,,,,Causae juridicae,Q7004
@@ -1251,7 +1251,7 @@ Cecco di Nardo deed,,,,Deed,Q1319
 Cena maletractati,,,,Cena maletractati,Q39244
 Cenni Pagliaiolo power of attorney,,,,Power of attorney,Q8176
 Cerca de la buena institucion y criança del Principe n[uest]ro Señor,,,,Instructions to the Infante's tutor,Q39245
-Certain astrological and astronomical figures,,,,Astrological texts;Astronomical texts,Q3123;Q3129
+Certain astrological and astronomical figures,,,,Astrological texts;Astronomical texts,Q3123|Q3129
 Chāgalakṣaṇapariśiṣṭa,छागलक्षणपरिशिष्ट,Kātyāyanaśrautasūtra,,Kātyāyanaśrautasūtra,Q27542
 Chāndogya,छान्दोग्य,Upanishads,,Upanishads,Q27718
 Chāndogyaṣaṣṭha,छान्दोग्यषष्ठ,Upanishads,,Upanishads,Q27718
@@ -1272,7 +1272,7 @@ Charter granting a dowry to his daughter,,,,Charter,Q8385
 Charter granting seigneurial rights to Raimundus Berengarius and his wife Dulcia,,,,Charter,Q8385
 Charter granting the town and castle of Morón to the order of Alcántara,,,,Charter,Q8385
 "Charter of Gaufridus, Dean of Chartres",,,,Charter,Q8385
-Chart of Consanguinity; Schwabenspiegel Landrecht (Common Law of the Swabians),,,,Chart of consanguinity;Schwabenspiegel Landrecht,Q19935;Q19987
+Chart of Consanguinity; Schwabenspiegel Landrecht (Common Law of the Swabians),,,,Chart of consanguinity;Schwabenspiegel Landrecht,Q19935|Q19987
 Chaweng shi,槎翁詩 :,Poems,,Poetry,Q1330
 Checca Serotini power of attorney,,,,Power of attorney,Q8176
 Chess diagrams,,,,Chess,Q39923
@@ -1281,15 +1281,15 @@ Chester mystery cycle,,Chester plays,,Chester plays,Q39247
 Chiarini correspondence,,,,Letters,Q5068
 "Chinese Buddhist canon, single leaf (Pius XII Memorial Library. Manuscript. VFL MS 049)",,,,Chinese Buddhist canon,Q39248
 Choir book,,,,Choir book,Q1449
-"Choir Book, Gradual",,,,Choir book;Gradual,Q1449;Q1121
+"Choir Book, Gradual",,,,Choir book;Gradual,Q1449|Q1121
 Choirbook leaf fragment,,,,Choir book,Q1449
 Choirbook leaf fragment decorated with monastery and two figures,,,,Choir book,Q1449
 Choirbook leaf with hymn dedicated to Saint Hilarion,,,,Choir book,Q1449
 Choir books,,,,Choir book,Q1449
 Choir breviary,,,,Breviary,Q657
 Choir psalter,,,,Psalter,Q660
-Choir psalter; Hymnal,,,,Choir psalter;Hymnal,Q19999;Q17601
-Choir psalter and Hymnal,,,,Choir psalter;Hymnal,Q19999;Q17601
+Choir psalter; Hymnal,,,,Choir psalter;Hymnal,Q19999|Q17601
+Choir psalter and Hymnal,,,,Choir psalter;Hymnal,Q19999|Q17601
 Choir psalter gatherings,,,,Psalter,Q660
 "Chomincia lo libro di lamore di troiolo & da chriseida, Capitulum primum",,,,Filostrato,Q1414
 "Chomincia lo libro di lamore di troiolo & da chriseida, Capitulum primum,",,,,Filostrato,Q1414
@@ -1310,7 +1310,7 @@ Chronicle of England,,,,Chronicle,Q1475
 Chronicle of popes and emperors,,,,Chronicle,Q1475
 "Chronicle of the History of the World from Creation to Woden, with a Genealogy of Edward IV",,,,Chronicle,Q1475
 Chronicles,,,,Chronicle,Q1475
-"Chronicles, a treatise on planets, and poems",,,,Chronicles;Astronomical text;Poetry,Q5963;Q38381;Q1330
+"Chronicles, a treatise on planets, and poems",,,,Chronicles;Astronomical text;Poetry,Q5963|Q38381|Q1330
 Chronicles; in English,,Cronicles qe frere Nichol Tryvet,,Chronicle,Q1475
 Chronicles of the Portuguese kings Duarte and João II,,,,Chronicle,Q1475
 Chronik von Franken,,,,Chronicle,Q1475
@@ -1375,7 +1375,7 @@ Collection of documents,,,,Collection of documents,Q7030
 Collection of documents concerning inheritance,,,,Collection of documents,Q7030
 "Collection of documents from Abbaye Saint-Sulpice-en-Bugey, mostly relating to the foundation of Abbaye de Chassagne-en-Bresse",,,,Document,Q8301
 Collection of French poetry,,,,Collection of poetry,Q7841
-Collection of hymns and antiphons,,,,Hymns;Antiphonary,Q3715;Q654
+Collection of hymns and antiphons,,,,Hymns;Antiphonary,Q3715|Q654
 Collection of ijāzahs,,,,Ijāzah,Q12191
 Collection of Islamic law texts,,Works.,اعمال.,Texts on Islamic law,Q12197
 "Collection of laws, edicts, and proclamations",,,,Collection of laws,Q5083
@@ -1391,8 +1391,8 @@ Collection of prayers,,,,Prayers,Q798
 Collection of prayers],,,,Prayers,Q798
 Collection of prayers and selections from the Qurʼān,,,,Qurʼan,Q3697
 Collection of prayers and selections from the Qurʼān,,,,Qurʼan,Q3697
-Collection of religious and theological treatises,,,,Religious texts;Theological texts,Q5037;Q822
-Collection of religious and theological treatises /,,,,Religious texts;Theological texts,Q5037;Q822
+Collection of religious and theological treatises,,,,Religious texts;Theological texts,Q5037|Q822
+Collection of religious and theological treatises /,,,,Religious texts;Theological texts,Q5037|Q822
 Collection of stories in Hindustani,,,,Collection of stories in Hindustani,Q18489
 Collection of stories in Hindustani.,,,,Collection of stories in Hindustani,Q18489
 Collection of Sufi writings and prayers,,,,Sufi writings and prayers,Q27797
@@ -1418,41 +1418,41 @@ Comincia la prima parte della cantica onero co[m]media chiamata i[n]ferno del ch
 Comitis Gabutii de Montealbodio juveniles & amatoriae epistolae,,,,Letters,Q5068
 Commentaria ad Rhetoricam Ciceronis,,,,Explanationes in Ciceronis Rhetoricam,Q7031
 Commentaria super praedicamenta Aristotelis,,,,Commentary on Aristotle,Q3120
-Commentaries on Acts of the Apostles,,,,Bible commentary;Commentary on Acts,Q1433;Q1463
+Commentaries on Acts of the Apostles,,,,Bible commentary;Commentary on Acts,Q1433|Q1463
 Commentaries on Aristotle,,,,Commentary on Aristotle,Q3120
-Commentaries on Aristotle and Porphyry,,,,Commentary on Aristotle;Commentary on Porphyry,Q3120;Q38360
+Commentaries on Aristotle and Porphyry,,,,Commentary on Aristotle;Commentary on Porphyry,Q3120|Q38360
 Commentaries on canon law,,Corpus juris canonici,,Corpus juris canonici,Q7512
 Commentaries on De generatione et corruptione and Meteorologica,,,,Commentary on Aristotle,Q3120
 Commentaries on Peter Lombard,,,,Commentary on Lombard,Q39255
 Commentaries on the De generatione et corruptione and Analytica,,,,Commentary on Aristotle,Q3120
 Commentarii in Libros VIII Aristotelis de Physica,,,,Commentary on Aristotle,Q3120
 Commentarii in Politicorum Aristotelis libris,,,,Commentary on Aristotle,Q3120
-Commentarii super librum sapientie,,,,Bible commentary;Commentary on Wisdom of Solomon,Q1433;Q38365
-Commentariorum in Matthaeum Libri Octo,,,,Bible commentary;Commentary on Matthew,Q1433;Q1346
+Commentarii super librum sapientie,,,,Bible commentary;Commentary on Wisdom of Solomon,Q1433|Q38365
+Commentariorum in Matthaeum Libri Octo,,,,Bible commentary;Commentary on Matthew,Q1433|Q1346
 Commentarium Biblicum,,,,Bible commentary,Q1433
 Commentarius cum quaestionibus in universam Aristotelis philosophiam naturalem,,,,Commentarius cum quaestionibus in universam Aristotelis philosophiam naturalem,Q7833
-Commentarius in Ezechielem prophetam,,,,Bible commentary;Commentary on Ezekiel,Q1433;Q1342
+Commentarius in Ezechielem prophetam,,,,Bible commentary;Commentary on Ezekiel,Q1433|Q1342
 Commentarius in loca S. Scripturae,,Sermones de sanctis,,Sermones de sanctis,Q39256
 Commentarius In Sphaeram Joannis de Sacrobosco,,,,Commentarius In Sphaeram,Q17619
 Commentary,,,,Commentary,Q1376
-"Commentary, Daniel 2:12-31, sections 8-11",,,,Bible commentary;Commentary on Daniel,Q1433;Q20478
+"Commentary, Daniel 2:12-31, sections 8-11",,,,Bible commentary;Commentary on Daniel,Q1433|Q20478
 "Commentary, literary or historical",,,,Commentary,Q1376
-"Commentary, Luke",,,,Bible commentary;Commentary on Luke,Q1433;Q1345
-"Commentary, Matthew 8:1-4",,,,Bible commentary;Commentary on Matthew,Q1433;Q1346
-"Commentary, Psalms 136:7 - 137:4; Psalms 138:21 - 139:6",,,,Bible commentary;Commentary on Psalms,Q1433;Q20442
+"Commentary, Luke",,,,Bible commentary;Commentary on Luke,Q1433|Q1345
+"Commentary, Matthew 8:1-4",,,,Bible commentary;Commentary on Matthew,Q1433|Q1346
+"Commentary, Psalms 136:7 - 137:4; Psalms 138:21 - 139:6",,,,Bible commentary;Commentary on Psalms,Q1433|Q20442
 Commentary on Andria and Eunuch,,,,Commentary on Terence,Q7003
 "Commentary on Aristotle, Analytica Priora (?)",,,,Commentary on Aristotle,Q3120
 Commentary on Canon Law: Chapter V (De Libellis Famosis),,,,Commentary on canon law,Q20393
 Commentary on Canon Law (dealing with the Mendicants),,,,Commentary on canon law,Q20393
 Commentary on Civil Law,,,,Commentary on civil law,Q20436
-Commentary on Genesis and 1-2 Kings,,,,Bible commentary;Commentary on Genesis;Commentary on First Kings;Commentary on Second Kings,Q1433;Q38363;Q38379;Q17584
-Commentary on John 3:12-13,,,,Bible commentary;Commentary on John,Q1433;Q20515
-Commentary on Luke 9:32-38,,,,Bible commentary;Commentary on Luke,Q1433;Q1345
-Commentary on Psalm 82:10-13,,,,Bible commentary;Commentary on Psalms,Q1433;Q20442
-Commentary on Romans 3-4,,,,Bible commentary;Commentary on Romans,Q1433;Q20445
+Commentary on Genesis and 1-2 Kings,,,,Bible commentary;Commentary on Genesis;Commentary on First Kings;Commentary on Second Kings,Q1433|Q38363|Q38379|Q17584
+Commentary on John 3:12-13,,,,Bible commentary;Commentary on John,Q1433|Q20515
+Commentary on Luke 9:32-38,,,,Bible commentary;Commentary on Luke,Q1433|Q1345
+Commentary on Psalm 82:10-13,,,,Bible commentary;Commentary on Psalms,Q1433|Q20442
+Commentary on Romans 3-4,,,,Bible commentary;Commentary on Romans,Q1433|Q20445
 Commentary on the 25 propositions of Moses Maimonides,,,,Commentary on Maimonides,Q38367
 Commentary on the altar at the temple,,,,Miniature,Q19998
-Commentary on the Apocalypse 16:1-3,,,,Bible commentary;Commentary on Revelation,Q1433;Q20468
+Commentary on the Apocalypse 16:1-3,,,,Bible commentary;Commentary on Revelation,Q1433|Q20468
 Commentary on the Clementines,,,,Commentary on Corpus juris canonici,Q7569
 Commentary on the Doctrinale puerorum,,,,Commentary on Doctrinale puerorum,Q3113
 Commentary on the Ephemerides of Regiomontanus,,,,Commentary on the Ephemerides,Q39257
@@ -1460,24 +1460,24 @@ Commentary on the Ethica Nicomachea,,,,Commentary on Aristotle,Q3120
 "Commentary on the Koran (Arabic), 1276",,,,Qu'ran commentary,Q39258
 Commentary on the Liber Sextusof Boniface VIII,,,,Commentary on Liber sextus decretalium,Q1416
 Commentary on the Lord's Prayer,,,,Commentary on the Lord's prayer,Q20447
-Commentary on the Pauline Epistles,,,,Bible commentary;Commentary on Pauline Epistles,Q1433;Q5954
-Commentary on the Psalms,,,,Bible commentary;Commentary on Psalms,Q1433;Q20442
+Commentary on the Pauline Epistles,,,,Bible commentary;Commentary on Pauline Epistles,Q1433|Q5954
+Commentary on the Psalms,,,,Bible commentary;Commentary on Psalms,Q1433|Q20442
 Commentary on the Sentences of Peter Lombard,,,,Commentary on Sentences,Q7516
-"Commentary or Homilies, John 21",,,,Bible commentary;Commentary on John;Homilies,Q20515;Q1246;Q665
+"Commentary or Homilies, John 21",,,,Bible commentary;Commentary on John;Homilies,Q20515|Q1246|Q665
 "Commissio Domini Gasparis de Molina Procuratoris S. Marci Mag. D. Thome, novissime electi super comissariis de Citra Canale",,,,Commission,Q7020
 Commission,,,,Commission,Q7020
 Commission of Lorenzo Bembo as governor of Paphos,,,,Commission,Q7020
-Commonplace book and recipe book,,,,Commonplace book;Recipe book,Q7822;Q7824
+Commonplace book and recipe book,,,,Commonplace book;Recipe book,Q7822|Q7824
 Communal Constitution,,,,Communal constitution,Q20467
 Comoediae,,,,Comedies,Q7275
-Compendio de la segunda parte de los comentarios sobre el propheta Ezechiel / compuestos por el P. M. Hieronimo de Prado de la compania de Iesus,,,,Bible commentary;Commentary on Ezekiel,Q1433;Q39135
+Compendio de la segunda parte de los comentarios sobre el propheta Ezechiel / compuestos por el P. M. Hieronimo de Prado de la compania de Iesus,,,,Bible commentary;Commentary on Ezekiel,Q1433|Q39135
 Compendio delle istorie di Pisa,,,,Compendio delle istorie di Pisa,Q7266
 "Compendiosa conjurationis nitrati pulveris narratio, a Jesuitis eorumque sequacibus in Britannia contra Regis, Regnique salutem machinata et fabricata",,,,Narrative of a Catholic plot against the Protestant monarch,Q17616
 Compendium historiae in genealogia Christi,,,,Compendium historiae in genealogia Christi,Q5984
 "Compendium historiae in genealogia Christi, incomplete /",,,,Compendium historiae in genealogia Christi,Q5984
 Compendium historiae in genealogia Christi (Historical Compendium of the Genealogy of Christ),,,,Compendium historiae in genealogia Christi,Q5984
-"Compendium historiae in genealogia christi (Historical compendium of the genealogy of Christ), with a treatise on the candelabrum",,,,Compendium historiae in genealogia Christi;Treatise on the candelabrum,Q5984;Q20013
-Compendium historiae in genealogia Christi (The Compendium of History in the Genealogy of Christ); Explanation of the Wheel of Sevens,,,,Compendium historiae in genealogia Christi;Explanation of the wheel of sevens,Q5984;Q19959
+"Compendium historiae in genealogia christi (Historical compendium of the genealogy of Christ), with a treatise on the candelabrum",,,,Compendium historiae in genealogia Christi;Treatise on the candelabrum,Q5984|Q20013
+Compendium historiae in genealogia Christi (The Compendium of History in the Genealogy of Christ); Explanation of the Wheel of Sevens,,,,Compendium historiae in genealogia Christi;Explanation of the wheel of sevens,Q5984|Q19959
 Compendium in Cantica canticorum,,,,Compendium in Cantica canticorum,Q1468
 Compendium iuris canonici,,,,Compendium iuris canonici,Q5080
 Compendium logicae (Compendium of logic),,,,Compendium logicae,Q19919
@@ -1489,7 +1489,7 @@ Compendium sensus litteralis totius Sacrae Scripturae,,,,Compendium sensus litte
 Compendium theologicae veritatis,,,,Compendium theologicae veritatis,Q1426
 Compendium theologicae veritatis /,,,,Compendium theologicae veritatis,Q1426
 Complaint,,,,Complaint,Q20499
-Complaints; containing sundrie small poemes of the worlds vanitie : whereof the next page maketh mention / by Ed. Sp.,,,,Complaints;Poetry,Q39141;Q1330
+Complaints; containing sundrie small poemes of the worlds vanitie : whereof the next page maketh mention / by Ed. Sp.,,,,Complaints;Poetry,Q39141|Q1330
 Complementum in partem III Summae S. Thomae de Aquino (Complement to the third part of the Summae of St. Thomas Aquinas),,,,Complementum in partem III summae S. Thomae de Aquino,Q19968
 Compleynt of Cryst; Guy of Warwick ; etc.,,,,Compleynt of Cryst,Q39261
 Compte des biens rentes et revenues de le livree du commun des chapellains de l'eglise Saint Ame en Douay,,,,Common book,Q7840
@@ -1571,10 +1571,10 @@ Cose di geometria /,,"Summa de arithmetica, geometria, proportioni et proportion
 Cosmographia,,Geographia,,Cosmographia,Q39932
 Cosmographia /,,De chorographia,,De chorographia,Q3711
 Cosmographies,,,,De chorographia,Q3711
-Cosmography; astrological medicine,,,,Cosmographia;Astrological medicine,Q39151;Q39152
+Cosmography; astrological medicine,,,,Cosmographia;Astrological medicine,Q39151|Q39152
 Council notarial document,,,,Notarial document,Q5065
 Court record of proceedings in a lawsuit against Isabel Garcia,,,,Court proceedings,Q7224
-Court Scene,,,,Corpus juris civilis;Miniature,Q5057;Q19998
+Court Scene,,,,Corpus juris civilis;Miniature,Q5057|Q19998
 Crestomazia di poeti italiani del Cinquecento,,,,Chrestomathy,Q7254
 Crispi Sallustii de Catheline conjuracione liber,,Bellum Catilinae,,De coniuratione Catilinae,Q39909
 Cristoforo di Guidantonio de Piccolomini rental agreement,,,,Agreement,Q7276
@@ -1662,7 +1662,7 @@ Ḍawʼ al-sirāj,ضوء السراج.,,,Ḍawʼ al-sirāj,Q3114
 De accidentibus animae rationalis,,,,De accidentibus animae rationalis,Q7860
 De agricultura,,De re rustica,,De agricultura,Q39282
 De Amore Dei,,,,De amore Dei,Q1403
-De amore et dilectione Dei (On the love and favor of God); De doctrina dicendi et tacendi (On the doctrine of speaking and keeping silent); De ritu et moribus Indorum (On the rites and ways of the Indians); Historia de preliis Alexandri Magni (History of the battles of Alexander the Great); Pseudo-Sibylline Prophecy; Sermones quattuor (Four sermons),,,,De amore Dei;Liber de doctrina dicendi et tacendi;De ritu et moribus Indorum;Historia de preliis Alexandri Magni;Sibylline oracles;Sermons,Q1403;Q19982;Q19992;Q20007;Q19918;Q1400
+De amore et dilectione Dei (On the love and favor of God); De doctrina dicendi et tacendi (On the doctrine of speaking and keeping silent); De ritu et moribus Indorum (On the rites and ways of the Indians); Historia de preliis Alexandri Magni (History of the battles of Alexander the Great); Pseudo-Sibylline Prophecy; Sermones quattuor (Four sermons),,,,De amore Dei;Liber de doctrina dicendi et tacendi;De ritu et moribus Indorum;Historia de preliis Alexandri Magni;Sibylline oracles;Sermons,Q1403|Q19982|Q19992|Q20007|Q19918|Q1400
 "De amore et dilectione dei et proximi, ac de forma vitae ... etc",,,,Liber de amore et dilectione dei et proximi et aliarum rerum et de forma vitae,Q7810
 De animalibus,,,,De animalibus,Q5047
 De arca Noe morali et mystica,,,,De arca Noe,Q1401
@@ -1670,9 +1670,9 @@ De arte metrica,,,,De arte metrica,Q1402
 Death of the Blessed Virgin Mary,,,,Death of the Blessed Virgin Mary,Q39283
 "Death with armful of symbols of rank, in a churchyard",,,,Miniature,Q19998
 Débat sur le roman de la rose,,,,"The Debate on the ""Romance of the Rose""",Q39284
-De bello Catelinario; De bello Jugurtino,,,,Bellum Catilinae;Bellum Jugurthinum,Q17541;Q17597
-De bello Catilinae; De bello Iugurthino,,,,Bellum Catilinae;Bellum Jugurthinum,Q17541;Q17597
-De Bello Catilinae and De Bello Jugurthinum,,,,Bellum Catilinae;Bellum Jugurthinum,Q17541;Q17597
+De bello Catelinario; De bello Jugurtino,,,,Bellum Catilinae;Bellum Jugurthinum,Q17541|Q17597
+De bello Catilinae; De bello Iugurthino,,,,Bellum Catilinae;Bellum Jugurthinum,Q17541|Q17597
+De Bello Catilinae and De Bello Jugurthinum,,,,Bellum Catilinae;Bellum Jugurthinum,Q17541|Q17597
 De bello Gotorum,,History of the wars,,De bello Gotorum,Q39285
 De bello Turcico,,,,De bello Turcico,Q39286
 De bestiis et aliis rebus; seu Columba deaurata,,,,De bestiis,Q39287
@@ -1684,7 +1684,7 @@ De casu diaboli (On the Fall of the Devil),,,,De casu diaboli,Q20028
 Deccani portrait album,,,,Portrait album,Q18439
 Deccani portrait album.,,,,Portrait album,Q18439
 De celesti hierarchia; and other texts,,Works,,Astrological text,Q39922
-De censuris ecclesiasticis; Three papal bulls,,,,Tractatus de censuris ecclesiasticis;Papal bull,Q19965;Q1362
+De censuris ecclesiasticis; Three papal bulls,,,,Tractatus de censuris ecclesiasticis;Papal bull,Q19965|Q1362
 Decimi Iunii Iuvenalis Aquinatis satirici libri,,Saturae,,Saturae,Q39935
 De civitate Dei,,,,De civitate Dei,Q6047
 Declaration of receipt of dowry,,,,Receipt,Q5981
@@ -1701,12 +1701,12 @@ De Consideratione,,,,De consideratione,Q10840
 De consideratione (On Consideration),,,,De consideratione,Q10840
 De consolatione philosophiae,,,,De consolatione philosophiae,Q2832
 De consolatione philosophiae,,De consolatione philosophiae,,De consolatione philosophiae,Q2832
-De consolatione philosophiae; De mirabilis mundi; Grammatical treatise ?; Unidentified theological treatise; Miscellany,,,,De consolatione philosophiae;De mirabilibus mundi;Grammatical text;Theological text;Miscellany,Q2832;Q19931;Q6010;Q5950;Q3673
+De consolatione philosophiae; De mirabilis mundi; Grammatical treatise ?; Unidentified theological treatise; Miscellany,,,,De consolatione philosophiae;De mirabilibus mundi;Grammatical text;Theological text;Miscellany,Q2832|Q19931|Q6010|Q5950|Q3673
 De consolatione philosophiae / Boetius,,De consolatione philosohiae,,De consolatione philosophiae,Q2832
 De Consolatione Philosophie /,,De consolatione philosophiae,,De consolatione philosophiae,Q2832
 De consuetudinibus et conditionibus orientalium regionum /,,Travels of Marco Polo.,,Travels of Marco Polo,Q12758
 De contemplatione Christi,,,,De contemplatione Christi,Q39289
-De contractibus mercatorum and other legal and theological texts /,,De contractibus mercatorum,,Legal texts;Theological texts,Q6030;Q822
+De contractibus mercatorum and other legal and theological texts /,,De contractibus mercatorum,,Legal texts;Theological texts,Q6030|Q822
 Decorated border detail,,,,Illuminated initial,Q20505
 Decorated initial A,,,,Decorated initial,Q19949
 Decorated initial B,,,,Decorated initial,Q19949
@@ -1730,7 +1730,7 @@ De corpore et sanguine Domini,,,,De corpore et sanguine Domini,Q812
 Decretales abbreviate,,Decretales Gregorii IX.,,Decretals of Gregory IX,Q2831
 Decretales Gregorii IX,,Decretales Gregorii IX,,Decretals of Gregory IX,Q2831
 Decretals,,,,Decretals,Q1447
-Decretals and other fragments /,,,,Decretals;Fragment,Q1447;Q20461
+Decretals and other fragments /,,,,Decretals;Fragment,Q1447|Q20461
 Decretalsglossed,,,,Decretals,Q1447
 Decretalswith commentary,,,,Decretals,Q1447
 Decretals with Glossa ordinaria of bernardo da parma,,,,Decretals,Q1447
@@ -1769,7 +1769,7 @@ Defensio Civitatis Neapolitane Petri Gravina Canonici Neapolitani Carmen quo Per
 De fide,,,,De fide,Q39295
 De fide catholica ex veteri et novo testamento,,,,De fide catholica,Q39296
 De finibus,,,,De finibus,Q1331
-De forma honestae vitae; De institutione monachorum,,,,De forma honestae vitae;De institutione monachorum,Q19972;Q20026
+De forma honestae vitae; De institutione monachorum,,,,De forma honestae vitae;De institutione monachorum,Q19972|Q20026
 De Genesi ad litteram,,,,De Genesi ad litteram,Q39297
 De gradibus humilitatis et superbiae tractatus,,,,De gradibus humilitatis et superbiae tractatus,Q39298
 De haeresibus,,,,De haeresibus,Q1323
@@ -1863,7 +1863,7 @@ De sacro bello contra Turcos commentarius,,,,De sacro bello,Q7524
 Descriptio Terrae Sanctae,,,,Descriptio terrae sanctae,Q7557
 De secretis mulierum,,De secretis mulierum.,,De secretis mulierum,Q5050
 De seculo et religione; editus a Colutio pyeri de Stignano cancellario florentino ad Fratrem Ieronimum de Uzano ordinis Camaldilensis in monasterio Sancte Marie de Angelis de Florentia,,De saeculo et religione,,De saeculo et religione,Q39322
-De sermone domini in monte habito (On the sermon on the mount) and other treatises; De superbia (On pride) and other treatises; Expositio dominice orationis (Exposition on the lord's prayer),,,,Sermons;De superbia;Orationes,Q1400;Q20021;Q799
+De sermone domini in monte habito (On the sermon on the mount) and other treatises; De superbia (On pride) and other treatises; Expositio dominice orationis (Exposition on the lord's prayer),,,,Sermons;De superbia;Orationes,Q1400|Q20021|Q799
 "Des hochwirdigen Gott Fürsten und Herren Herren Caspers Bischoffs zu Bresslau & obersten Hauptmans in Ober und Nieder Schlesiens; Privilegium den Stedten Neisse, Patschkau, Ottmachau, Ziegnehallss und Weidnau sambt derselben einwonern unnd untterthenigen Baurschafften vorliehen publiciret ihm 1568 Jahre den 9 Februarij",,,,Rights and privileges of the bishops of Breslau,Q39323
 De simplicibus,,,,De simplicibus,Q358
 de somno et vigilia,,,,De somno et vigilia,Q1349
@@ -1905,7 +1905,7 @@ De vita et moribus philosophorum,,,,De vita et moribus philosophorum,Q39336
 De Vita Imperatorum,,,,De vita imperatorum,Q1352
 De vita tirannica /,,Hieron.,,De vita tirannica,Q6039
 De vita xii Caesarum ... etc. /,,,,De vita Caesarum,Q7838
-Devotional and theological texts,,,,Devotional texts;Theological texts,Q5966;Q822
+Devotional and theological texts,,,,Devotional texts;Theological texts,Q5966|Q822
 Devotional book,,,,Devotional book,Q3720
 Devotional exercises on the life of Christ for the seven days of the week,,,,Devotional texts,Q5966
 Devotional extracts from the bible,,,,Devotional texts,Q5966
@@ -1914,7 +1914,7 @@ Devotionalis,,,,Devotional text,Q19956
 Devotional miscellany,,,,Devotional texts,Q5966
 Devotional picture book,,,,Devotional book,Q3720
 Devotional prayer book,,,,Devotional book,Q3720
-Devotional prayers,,,,Devotional texts;Prayers,Q5966;Q798
+Devotional prayers,,,,Devotional texts;Prayers,Q5966|Q798
 Devotional roll,,,,Devotional book,Q3720
 Devotional text,,,,Devotional text,Q19956
 Devotional treatises,,,,Devotional texts,Q5966
@@ -1970,7 +1970,7 @@ Discourses on the Venetian-Ottoman war,,,,Discourses on the Venetian-Ottoman war
 "Discrittione delle cose di Cipro, con le ragioni in favore, ò contra diverse openioni , et delle provisioni, che erano necessarie per quel Regno",,,,"Discrittione delle cose di Cipro, con le ragioni in favore, o contra diverse openioni, et delle provisioni, che erano necessarie per quel Regno",Q7225
 "Discrittione delle cose di Cipro, con le ragioni in favore, ò contra diverse openioni , et delle provisioni, che erano necessarie per quel Regno",,,,"Discrittione delle cose di Cipro, con le ragioni in favore, o contra diverse openioni, et delle provisioni, che erano necessarie per quel Regno",Q7225
 Disputacionis inter corpus et animam,,Dialogus inter corpus et animam,,Dialogus inter corpus et animam,Q39349
-"Disputations on the Physics, Metaphysics and De anima of Aristotle",,,,Disputations on physics;Disputations on metaphysics;Disputations on de anima,Q7854;Q7803;Q7821
+"Disputations on the Physics, Metaphysics and De anima of Aristotle",,,,Disputations on physics;Disputations on metaphysics;Disputations on de anima,Q7854|Q7803|Q7821
 Distinctiones alphabeticae,,,,Distinctiones,Q1472
 Distribution of property,,,,Distribution of property,Q8052
 Dits des philosophes,,,,Dits des philosophes,Q39350
@@ -1995,7 +1995,7 @@ Divinae institutiones,,,,Divinae institutiones,Q5961
 Divinae institutiones,,Works.,,Divinae institutiones,Q5961
 "Divinae institutiones, incomplete /",,Divinae institutiones,,Divinae institutiones,Q5961
 Divine liturgies,,,,Divine liturgies,Q39352
-Divi Pauli Apostoli epistolae,,Bible,,Bible;Pauline Epistles,Q661;Q38384
+Divi Pauli Apostoli epistolae,,Bible,,Bible;Pauline Epistles,Q661|Q38384
 Dīwān,ديوان.,,,Dīwān,Q11912
 Dīwān,ديوان.,,,Dīwān,Q11912
 Dīwān /,ديوان /,,,Dīwān,Q11912
@@ -2021,7 +2021,7 @@ Ḍiyāʼ al-abṣār fī mawlid al-Nabī al-mukhtār,ضياء الابصا
 Diʾatheke ḥdata mapaqta Pšiṭta,,Bible,,Bible,Q661
 Doctrinale,,,,Doctrinal,Q7573
 Doctrinalewith commentary,,,,Doctrinal,Q7573
-Document,,,,Document;Fragment,Q8301;Q20461
+Document,,,,Document;Fragment,Q8301|Q20461
 "Document, 1486 August 9, Quingentialis? mandating the cancellation and annulment of an unlicensed purchase of land made by Parisium de Leffe de Medulas from Acino de Zannis de Castrognifredo",,,,Document,Q8301
 "Document, 1513 August 6, Westfalia, Germany with unidentified text written in or concerning Sassenhausen and Windesheim",,,,Document,Q8301
 "Document, 1513 August 6, Westfalia, Germany with unidentified text written in or concerning Sassenhausen and Windesheim?",,,,Document,Q8301
@@ -2046,7 +2046,7 @@ Dogale granted by Duke of Venice Andrea Gritti to Governor of Verona Hieronymus 
 "Dogale issued by Doge Alvise Mocenigo to Girolamo Pruli, podestà of Brescia",,,,Dogale,Q2827
 "Dogale issued by Doge Leonardo Loredan to Paolo Nani, podestà and capitaneus of Treviso",,,,Dogale,Q2827
 "Dogale issued by Doge Leonardo Loredan to Paolo Nani, podestà and capitaneus of Treviso",,,,Dogale,Q2827
-Dogali and Antiphonal fragments,,,,Antiphonary;Dogale,Q654;Q2827
+Dogali and Antiphonal fragments,,,,Antiphonary;Dogale,Q654|Q2827
 Domenico di Bardo power of attorney,,,,Power of attorney,Q8176
 Domenico Duti power of attorney,,,,Power of attorney,Q8176
 Domenico Ruffaldi and Jacopo de Buralis power of attorney,,,,Power of attorney,Q8176
@@ -2088,7 +2088,7 @@ Drawing of a Man Offering a Cup of Wine to a Woman,,,,Drawing,Q20466
 Drawing of a Man Standing by a Tree with Wine,,,,Drawing,Q20466
 Drawing of a Mughal Nobleman Seated Holding a Flower,,,,Drawing,Q20466
 Drawing of an Unidentified Mughal Nobleman Leaning on His Staff,,,,Drawing,Q20466
-Drawing of an Unidentified Nobleman on a Red Background; Painting of Three Women at a Temple,,,,Drawing;Painting,Q20466;Q38348
+Drawing of an Unidentified Nobleman on a Red Background; Painting of Three Women at a Temple,,,,Drawing;Painting,Q20466|Q38348
 Drawing of a Prince Being Entertained by Musicians,,,,Drawing,Q20466
 Drawing of a Sikh Warrior on Horseback,,,,Drawing,Q20466
 Drawing of a young flute player,,,,Drawing,Q20466
@@ -2126,9 +2126,9 @@ Ecatonfilea; Deifira,,Hecatomphila,,Hecatomphila,Q39358
 Ecclesiae dedicandae ritus,,Ordo dedicationis ecclesiae et altaris,,Ordo dedicationis ecclesiae et altaris,Q39359
 Ecclesiastical history,,,,Ecclesiastical history,Q39949
 Ecclesiastical text,,,,Ecclesiastical document,Q8055
-Ecclesiasticus,,Bible,,Bible;Ecclesiastes,Q661;Q6052
+Ecclesiasticus,,Bible,,Bible;Ecclesiastes,Q661|Q6052
 "Eclipses luminarium; summa fide et accurata diligentia supputatae, ac figuris coloribusque suis artificiose depictae, quarum rationes ab anno domini currente 1554, usque ad annum domini 1600 completum se extendunt, & ad Meridianum Neuburgi Danubiani referuntur",,,,Eclipses luminarium,Q39360
-"Eclogues, Georgics and the Aeneid",,Works,,Bucolica;Georgics;Aeneid,Q38376;Q5049;Q5978
+"Eclogues, Georgics and the Aeneid",,Works,,Bucolica;Georgics;Aeneid,Q38376|Q5049|Q5978
 Edict against reforming tendencies,,,,Edict against reforming tendencies,Q5063
 Edict concerning Jews in Livorno and Pisa,,,,Edicts concerning Jews,Q3128
 Edicts concerning Jews in Mantua,,,,Edicts concerning Jews,Q3128
@@ -2155,7 +2155,7 @@ Emperor Sigismund appointment,,,,Appointment,Q8180
 Enarratio in prophetam Isaiam,,,,Enarratio in prophetam Isaiam,Q19985
 Enarrationes in Psalmos,,,,Enarrationes in Psalmos,Q39951
 Enarrationes in psalmos (Expositions on the Psalms),,,,Enarrationes in psalmos,Q19979
-Enarrationes in psalmos (Expositions on the psalms); Initials (ABC); Prayer,,,,Expositions on the psalms;Prayer,Q19924;Q20014
+Enarrationes in psalmos (Expositions on the psalms); Initials (ABC); Prayer,,,,Expositions on the psalms;Prayer,Q19924|Q20014
 Enarrationes in Psalmos 101-150,,Enarrationes in Psalmos,,Enarrationes in Psalmos,Q39951
 Encheridyon Laurenti pysani presbiteri,,,,Enchiridion,Q1245
 Enchiridion] (fragmentary),,,,Enchiridion,Q1245
@@ -2178,12 +2178,12 @@ Epigrammata,,,,Epigrammata,Q6045
 Epigrammata /,,Epigrammata.,,Epigrammata,Q6045
 Epistle,,,,Epistles,Q1466
 Epistles,,,,Epistles,Q1466
-Epistles and other patristic texts,,Correspondence,,Correspondence;Patristic texts,Q38385;Q20452
+Epistles and other patristic texts,,Correspondence,,Correspondence;Patristic texts,Q38385|Q20452
 Epistles of classical Greek authors in Latin translation,,,,Letters,Q5068
-Epistles of Paul ; Missal bifolium fragment,,Bible,,Bible;Missal,Q661;Q662
+Epistles of Paul ; Missal bifolium fragment,,Bible,,Bible;Missal,Q661|Q662
 "Epistles of St. Paul, with commentary",,Bible.,,Pauline Epistles,Q38384
 Epistola ad heremitas Sancti Augustini,,,,Letters,Q5068
-Epistola ad Iheronimum (Letter to Jerome); Vitae patrum (Lives of the Fathers),,,,Epistola ad Iheronimum;Vitae patrum,Q20030;Q20004
+Epistola ad Iheronimum (Letter to Jerome); Vitae patrum (Lives of the Fathers),,,,Epistola ad Iheronimum;Vitae patrum,Q20030|Q20004
 Epistola ad Nepotianum,,,,Epistola ad Nepotianum,Q39952
 Epistola beati Eusebii discipuli ... de morte gloriosissimi Jheronimi doctoris eximii,,,,Letter,Q1454
 Epistolae,,,,Epistulae,Q38387
@@ -2196,7 +2196,7 @@ Epistolae familiares; Historica Bohemica,,Epistolae familiares,,Epistolae ad fam
 Epistolae in the Italian translation of Bartolomeo Fontio of Florence (1445-1513),,,,Letters,Q5068
 Epistolae latinae,,,,Letters,Q5068
 Epistolae morales ad Lucilium,,,,Epistulae morales ad Lucilium,Q6025
-Epistolae S. Pauli et Senecae,,,,Pauline Epistles;Epistulae morales ad Lucilium,Q38384;Q6025
+Epistolae S. Pauli et Senecae,,,,Pauline Epistles;Epistulae morales ad Lucilium,Q38384|Q6025
 Epistola Mahomethi Turchiae Graeciaeque Imperatoris ad Ferdinandum Regem Siciliae de expugnatione Negropontis. Responsio dicti Ferdinandi Regis Siciliae de eadem re,,,,Letter,Q1454
 Epistola missa cuidam infecto predicatori in praga. Dyalogus lucidarii. Sermo bonus,,,,Letter,Q1454
 Epistola pertinenti ad la perfectione de la vita contemplationeand other writings,,,,Letter,Q1454
@@ -2204,7 +2204,7 @@ Epistola pertinenti ad la perfectione de la vita contemplationeand other writing
 Epistolarum Domini Leonardi liber primus incipit,,,,Letters,Q5068
 Epistolary,,,,Epistolary,Q19936
 Epistola Sancti Augustini,,,,Letters of Augustine,Q39372
-Epistoli Senece ad beatum Paulum apostolum et eius ad Senecam,,,,Epistulae morales ad Lucilium;Pauline Epistles,Q6025;Q38384
+Epistoli Senece ad beatum Paulum apostolum et eius ad Senecam,,,,Epistulae morales ad Lucilium;Pauline Epistles,Q6025|Q38384
 Epistula ad Heliodorum,,Correspondence,,Correspondence,Q39931
 Epistula ad Raymundum,,,,Epistula ad Raymundum,Q862
 Epistulae,,,,Epistulae,Q38387
@@ -2231,17 +2231,17 @@ Etymologiae,,Etymologiae,,Etymologiae,Q27592
 Etymologies and correspondence by Isidore of Seville,,Etymologiae,,Etymologiae,Q27592
 Euchologion,,Euchologion,,Euchologion,Q39377
 Euripidis tragediae octodecim,,Works,,Works of Euripides,Q39378
-Evangelary,,,,Evangeliary;Gospels,Q20460;Q6034
+Evangelary,,,,Evangeliary;Gospels,Q20460|Q6034
 Evangelia IV,,,,Evangelia,Q12783
 Evangeliary,,,,Evangeliary,Q20460
-Evangelistary Fragment,,,,Evangeliary;Gospels,Q20460;Q6034
-Evangelium S. Johannis; cum glossa ordinaria,,Bible,,Bible;Gospel of John,Q661;Q665
+Evangelistary Fragment,,,,Evangeliary;Gospels,Q20460|Q6034
+Evangelium S. Johannis; cum glossa ordinaria,,Bible,,Bible;Gospel of John,Q661|Q665
 Evidentiae contra Durandum,,,,Evidentiae contra Durandum,Q39379
 Evsebii Caesariensis De Evangelica Praeparatione Liber,,De evangelica praeparatione.,,Praeparatio evangelica,Q12782
 Ewangelion d-qeryane mparše d-kuleh ša(n)ta; a(y)k ṭaksa d-ʻumra d-Bet ʻAbe,,Bible,,Bible,Q661
 Examination of witnesses,,,,Examination of witnesses,Q7019
 Excerpta de Scauri et Palladi libris,,,,De Scauri et Palladi libris excerpta,Q39380
-Excerpta orationum Demosthenis et Aeschini (Excerpts of the Orations of Demosthenes and Aeschines); Historia Romana (History of Rome),,,,Excerpta orationum Demosthenis et Aeschini;Historia Romana,Q19928;Q19995
+Excerpta orationum Demosthenis et Aeschini (Excerpts of the Orations of Demosthenes and Aeschines); Historia Romana (History of Rome),,,,Excerpta orationum Demosthenis et Aeschini;Historia Romana,Q19928|Q19995
 Excerpt from Giorgio Valla's De expetendis et fugiendis rebus opus,,,,De expetendis et fugiendis rebus opus,Q39381
 Excerpt from the book of civil cases of the court of San Miniato,,,,Civil cases,Q8292
 Excerpt from the book of statutes of San Genino(?),,,,Book of statutes,Q8296
@@ -2252,37 +2252,37 @@ Excerpts from The golden legend and Sermones de tempore] /,,Legenda aurea,,Golde
 "Excerpts possibly made by Sir Isaac Newton (1642-1727) from Dickinson's alchemical tract, Epistola Edmundi Dickinson MD. & medici regii ad Theodorum Mundanum philosophum adeptum: De quintessentia philosophorum et De vera physiologia, una cum quaestionibus aliquot de secreta materia physica (Oxford: Sheldonian Theatre, 1686)",,,,Alchemical work,Q17585
 Executoria a pedimiento,,,,Execution,Q39383
 Executoria del pedimijento de Diego Jaymes vezino de la cuidad de Seujlla,,,,Carta executoria,Q19952
-Exempla; Homilies; Life of Catherine of Siena,,,,Exempla;Homilies;Life of Catherine of Siena,Q39142;Q1246;Q39144
-Exercise book on Latin grammar and arithmetic,,,,Exercise book;Latin grammatical text,Q5977;Q38404
+Exempla; Homilies; Life of Catherine of Siena,,,,Exempla;Homilies;Life of Catherine of Siena,Q39142|Q1246|Q39144
+Exercise book on Latin grammar and arithmetic,,,,Exercise book;Latin grammatical text,Q5977|Q38404
 Ex Johanne andree super hieronymiano ubi de cupiditate prelatorum edificandi tractat,,,,De conscientia aedificandi,Q39937
 Ex libris Paris de Grassis Bononiensis,,,,Ex libris Paris de Grassis Bononiensis,Q39384
 Explanatio librorum physicorum,,,,Commentary on Aristotle,Q3120
-Explanationes notabiles super lectiones beati Iob,,,,Bible commentary;Commentary on Job,Q1433;Q1450
-Explanatio Psalmorum XII,,,,Bible commentary;Commentary on Psalms,Q1433;Q20442
-Explicit liber de memoria & reminiscentia. Incipit liber de sompno & vigilia,,,,De memoria et reminiscentia;De somno et vigilia,Q1377;Q1349
+Explanationes notabiles super lectiones beati Iob,,,,Bible commentary;Commentary on Job,Q1433|Q1450
+Explanatio Psalmorum XII,,,,Bible commentary;Commentary on Psalms,Q1433|Q20442
+Explicit liber de memoria & reminiscentia. Incipit liber de sompno & vigilia,,,,De memoria et reminiscentia;De somno et vigilia,Q1377|Q1349
 Expositio beati Ambrosii archiepiscopi Mediolanensis civitatis super psalmum,,Expositio Psalmi CXVIII,,Expositio psalmi,Q5975
 Expositio Haimonis svper ysaiam Prophetam,,Annotatio libri Isaiae prophetae,,Biblical expositions,Q12749
-Expositio Iheremie prophete,,,,Bible commentary;Commentary on Jeremiah,Q1433;Q39136
-Expositio in Apocalypsim,,,,Bible commentary;Commentary on Revelation,Q1433;Q20468
-Expositio in artem veterem Porphyrii et Aristotelis,,,,Commentary on Aristotle;Commentary on Porphyry,Q3120;Q38360
+Expositio Iheremie prophete,,,,Bible commentary;Commentary on Jeremiah,Q1433|Q39136
+Expositio in Apocalypsim,,,,Bible commentary;Commentary on Revelation,Q1433|Q20468
+Expositio in artem veterem Porphyrii et Aristotelis,,,,Commentary on Aristotle;Commentary on Porphyry,Q3120|Q38360
 Expositio in civitatem dei S. Augustini (Commentary on St. Augustine's City of god),,,,Expositio in civitatem dei S. Augustini,Q20024
 Expositio in evangelium Mathei,,Expositio in Matthaeum,,Biblical expositions,Q12749
-Expositio in Job,,,,Bible commentary;Commentary on Job,Q1433;Q1450
+Expositio in Job,,,,Bible commentary;Commentary on Job,Q1433|Q1450
 Expositio in libros Posteriorum Aristotelis,,,,Commentary on Aristotle,Q3120
-Expositio in Lucam,,,,Bible commentary;Commentary on Luke,Q1433;Q1345
+Expositio in Lucam,,,,Bible commentary;Commentary on Luke,Q1433|Q1345
 Expositio in regulam S. Benedicti,,,,Expositio in regulam S. Benedicti,Q27625
 Expositio missae,,Expositio missae,,Expositio missae,Q6035
 Expositio missae (Manuscript Kenneth Spencer Research Library. MS D34),,,,Expositio missae,Q6035
 Expositiones difficiliorum vocabulorum de bibliotheca per ordinem alphabeti,,,,Expositiones difficiliorum vocabulorum,Q7567
-Exposition of 2 Kings 17:15-16,,,,Bible commentary;Commentary on Second Kings,Q1433;Q17584
-Expositio psalmi quinquagesimi,,,,Bible commentary;Commentary on Psalms,Q1433;Q20442
-Expositio psalmorum (Commentary on the Psalms),,,,Bible commentary;Commentary on Psalms,Q1433;Q20442
-"Expositio super ""Beati immaculati""",,,,Bible commentary;Commentary on Psalms,Q1433;Q20442
-Expositio super epistolam Pauli ad Romanos,,Commentary on the Epistle to the Romans,,Bible commentary;Commentary on Romans,Q1433;Q20445
+Exposition of 2 Kings 17:15-16,,,,Bible commentary;Commentary on Second Kings,Q1433|Q17584
+Expositio psalmi quinquagesimi,,,,Bible commentary;Commentary on Psalms,Q1433|Q20442
+Expositio psalmorum (Commentary on the Psalms),,,,Bible commentary;Commentary on Psalms,Q1433|Q20442
+"Expositio super ""Beati immaculati""",,,,Bible commentary;Commentary on Psalms,Q1433|Q20442
+Expositio super epistolam Pauli ad Romanos,,Commentary on the Epistle to the Romans,,Bible commentary;Commentary on Romans,Q1433|Q20445
 Expositio super novem lectiones mortuorum /,,,,Expositio super novem lectiones mortuorum,Q12797
-Expositio super orationem dominicam (Exposition on Sunday oration); Expositio super salutationem angelicam (Exposition on the annunciation),,,,Expositio super orationem dominicam;Expositio super salutationem angelicam,Q19925;Q19945
+Expositio super orationem dominicam (Exposition on Sunday oration); Expositio super salutationem angelicam (Exposition on the annunciation),,,,Expositio super orationem dominicam;Expositio super salutationem angelicam,Q19925|Q19945
 Expositio super regulam beati Augustini episcopi,,,,Expositio in regulam beati Augustini,Q7561
-Exposito Libri Numerorum,,,,Bible commentary;Commentary on Numbers,Q1433;Q10834
+Exposito Libri Numerorum,,,,Bible commentary;Commentary on Numbers,Q1433|Q10834
 Ex quo vocabularii autentici varii,,,,Ex quo vocabularii autentici varii,Q5017
 Ex quo vocabularii varii et autentici,,,,Ex quo vocabularii varii et autentici,Q3119
 Extensive handwritten marginal notes in a printed book containing three texts,,,,Marginal notes,Q17617
@@ -2293,7 +2293,7 @@ Extracts from and commentaries on Liber bellorum Domini,,,,Liber bellorum domini
 "Extracts from Heinrich Suso, Peter Damian, & PS. Bernard",,,,Extracts from monastic authorities,Q12725
 Extracts from the Glossa Ordinaria,,,,Glossa ordinaria,Q8061
 Extratto da un libro de razza da cavalli del re Ferrante vechio de Aragona,,,,Libro de razza da cavalli,Q39386
-Exultet--music manuscript,,,,Exultet;Music,Q20501;Q20017
+Exultet--music manuscript,,,,Exultet;Music,Q20501|Q20017
 Fabrizio Celleri will,,,,Will,Q1422
 Facetiarum pogii liber,,Facetiae,,Facetiae,Q39387
 Facta et dicta memorabilia,,,,Factorum et dictorum memorabilium libri IX,Q1469
@@ -2316,12 +2316,12 @@ Fatḥ al-quddūs fī sharḥ khuṭbat al-Qāmūs,فتح القدوس في شر
 Fawāʼid al-ḥabīb. Zinjār al-ḥukamāʼ,فوائد الحبيب. زنجار الحكماء.,,,Fawāʼid al-ḥabīb. Zinjār al-ḥukamāʼ,Q3115
 Fawāʼid al-ḥabīb. Zinjār al-ḥukamāʼ,فوائد الحبيب. زنجار الحكماء.,,,Fawāʼid al-ḥabīb. Zinjār al-ḥukamāʼ,Q3115
 Fazio de Piccolomini claim,,,,Claim,Q8184
-Female Saint with Attendant Transporting a Reliquary by Boat,,,,Historiated initial;Music,Q10850;Q20017
+Female Saint with Attendant Transporting a Reliquary by Boat,,,,Historiated initial;Music,Q10850|Q20017
 Ferdinand I privileges,,,,Privileges,Q4353
 Ferial psalter,,,,Psalter,Q660
 "Ferial Psalter, single leaf",,Psalter,,Psalter,Q660
 "Ferial psalter, single leaves",,Bible,,Bible,Q661
-Ferial Psalter and Hymnal,,,,Psalter;Hymnal,Q660;Q17601
+Ferial Psalter and Hymnal,,,,Psalter;Hymnal,Q660|Q17601
 Ferial psalter bifolium,,Bible.,,Psalter,Q660
 Feudal rents,,,,Rent,Q5029
 Feudal sentence,,,,Sentence,Q8390
@@ -2347,8 +2347,8 @@ Financial records,,,,Record,Q8300
 Fior de virtu,,Fiore di virtù,,Fiore di virtù,Q39390
 Fiorecti del libro de Sancto Francesco ... etc,,Fioretti di San Francesco.,,Fioretti di San Francesco,Q7029
 Fioretti,,Fioretti di San Francesco.,,Fioretti di San Francesco,Q7029
-Flight into Egypt,,,,Miniature;Music,Q19998;Q20017
-Flores; religious miscellany,,,,Flores;Miscellany,Q19980;Q3673
+Flight into Egypt,,,,Miniature;Music,Q19998|Q20017
+Flores; religious miscellany,,,,Flores;Miscellany,Q19980|Q3673
 "Flores historiarum, and other historical works",,,,Flores historiarum,Q39391
 Florigelium,,,,Florilegium,Q1326
 Florilegium,,,,Florilegium,Q1326
@@ -2368,7 +2368,7 @@ Forty homilies on the Gospels,,,,Homiliary,Q1338
 Foundation charter of Bruern Abbey,,,,Foundation charter of Bruern Abbey,Q27792
 Foundation charter of Bruern Abbey],,,,Foundation charter of Bruern Abbey,Q27792
 Four English devotional works,,,,Devotional texts,Q5966
-Four gospels in Latin,,Bible,,Bible;Gospels,Q661;Q6034
+Four gospels in Latin,,Bible,,Bible;Gospels,Q661|Q6034
 Four historiated initials cut from an unidentified manuscript antiphonal,,,,Antiphonary,Q654
 Four leaves from a 15th-century lectionary,,,,Lectionary,Q663
 Four Lines of Calligraphy from the Qasidat al-Burda,,,,Four lines of calligraphy from the Qasidat al-Burda,Q18510
@@ -2499,9 +2499,9 @@ German Missal Fragment,,,,Missal,Q662
 "German Missal Fragment, 14th century]",,,,Missal,Q662
 German Missal Fragment],,,,Missal,Q662
 German prayer book,,,,Prayer book,Q1486
-German religious and literary miscellany,,,,Religious texts;Literary texts,Q5037;Q5081
+German religious and literary miscellany,,,,Religious texts;Literary texts,Q5037|Q5081
 Gesta Regum Anglorum,,,,Gesta regum Anglorum,Q19948
-Gesta regum Anglorum (Deeds of the English Kings); Historia regum Britanniae (History of the Kings of Britain),,,,Gesta regum Anglorum;Historia regum Britanniae,Q19948;Q19930
+Gesta regum Anglorum (Deeds of the English Kings); Historia regum Britanniae (History of the Kings of Britain),,,,Gesta regum Anglorum;Historia regum Britanniae,Q19948|Q19930
 Geste de Monglane,,Geste de Garin de Monglane.,,Geste de Garin de Monglane,Q10852
 Ghaṇṭāpatha,घण्टापथ,Ghaṇṭāpatha,,Ghaṇṭāpatha,Q27639
 Ghāyat al-murād fī wifq al-aʻdād,غاية المراد في وفق الاعداد.,,,Ghāyat al-murād fī wifq al-aʻdād,Q27752
@@ -2551,18 +2551,18 @@ Glossed psalter leaf,,Bible.,,Psalter,Q660
 Golden Bull of Charles IV,,,,Golden bull,Q19950
 Gondi-Medici miscellany,,,,Miscellany,Q3673
 Gopadmakathāvrata,गोपद्मकथाव्रत,Puranas,,Puranas,Q27588
-Gospel book,,Bible.,,Bible;Gospel book,Q661;Q12737
+Gospel book,,Bible.,,Bible;Gospel book,Q661|Q12737
 Gospel lectionary,,,,Lectionary,Q663
 Gospel lectionary for the mass,,Lectionarium missae,,Lectionary,Q663
 Gospel lessons for the Office of the Dead,,Book of hours.,,Book of hours,Q795
-"Gospel of John, incomplete",,Bible.,,Bible;Gospel of John,Q661;Q665
-Gospel of Mark in Latin,,Bible,,Bible;Gospel of Mark,Q661;Q1347
-Gospel of Matthew,,Bible,,Bible;Gospel of Matthew,Q661;Q1389
-"Gospel of Matthew, incomplete",,Bible.,,Bible;Gospel of Matthew,Q661;Q1389
+"Gospel of John, incomplete",,Bible.,,Bible;Gospel of John,Q661|Q665
+Gospel of Mark in Latin,,Bible,,Bible;Gospel of Mark,Q661|Q1347
+Gospel of Matthew,,Bible,,Bible;Gospel of Matthew,Q661|Q1389
+"Gospel of Matthew, incomplete",,Bible.,,Bible;Gospel of Matthew,Q661|Q1389
 Gospel readings for Holy Week,,Bible,,Lectionary,Q663
 Gospels,,,,Gospels,Q6034
-Gospels. Questions and answers about Arabic grammar,,,,Gospels;Arabic grammatical text,Q6034;Q27591
-Gospels. Questions and answers about Arabic grammar.,,,,Gospels;Arabic grammatical text,Q6034;Q27591
+Gospels. Questions and answers about Arabic grammar,,,,Gospels;Arabic grammatical text,Q6034|Q27591
+Gospels. Questions and answers about Arabic grammar.,,,,Gospels;Arabic grammatical text,Q6034|Q27591
 Gospels in Greek,,,,Gospels,Q6034
 Governance of England ; Declaration upon Certain Writings Sent out of Scotland,,Difference between an absolute and limited monarchy,,Difference between an absolute and limited monarchy,Q39409
 Gradual,,,,Gradual,Q1121
@@ -2574,20 +2574,20 @@ Gradual,,,,Gradual,Q1121
 "Gradual, Sanctoral Cycle",,,,Gradual,Q1121
 "Gradual, single leaves",,Gradual,,Gradual,Q1121
 Gradual; Franciscan use,,Gradual (Franciscan),,Gradual,Q1121
-"Gradual: Hymn, 'Te deum laudamus, Agnus dei'",,,,"Gradual;Te deum laudamus, Agnus dei",Q1121;Q20480
+"Gradual: Hymn, 'Te deum laudamus, Agnus dei'",,,,"Gradual;Te deum laudamus, Agnus dei",Q1121|Q20480
 "Gradual: Quinquagesima Sunday, Ash Wednesday, et al",,,,Gradual,Q1121
 "Gradual: Quinquagesima Sunday, Ash Wednesday, et al.",,,,Gradual,Q1121
 "Gradual: Second to Fourth Sundays after Easter, with neumes",,,,Gradual,Q1121
-Gradual and Antiphonary,,,,Gradual;Antiphonary,Q1121;Q654
+Gradual and Antiphonary,,,,Gradual;Antiphonary,Q1121|Q654
 Graduale /,,Gradual (Diocese of Bressanone),,Gradual,Q1121
 Graduale dominicale et feriale totius anni,,Gradual (Pre-Vatican II),,Gradual,Q1121
 Graduale Fratrum Minorum secundum consuetudinem romane curie,,Gradual (Franciscan),,Gradual,Q1121
 Gradual fragment,,,,Gradual,Q1121
 Gradual leaf,,Gradual,,Gradual,Q1121
 Gradual leaf,,,,Gradual,Q1121
-Gradual or antiphonary,,,,Gradual;Antiphonary,Q1121;Q654
-Gradual or Missal,,,,Gradual;Missal,Q1121;Q662
-Gradual or Missal with Neumes,,,,Gradual;Missal,Q1121;Q662
+Gradual or antiphonary,,,,Gradual;Antiphonary,Q1121|Q654
+Gradual or Missal,,,,Gradual;Missal,Q1121|Q662
+Gradual or Missal with Neumes,,,,Gradual;Missal,Q1121|Q662
 Gradual single leaf,,Gradual,,Gradual,Q1121
 Graecismus,,,,Graecismus,Q1471
 Grammatica latina,,,,Grammatica latina,Q7809
@@ -2628,7 +2628,7 @@ Gregorialis,,,,Gregorialis,Q1365
 Gregorio di San Miniato deed,,,,Deed,Q1319
 Gregory de Chastellar agreement,,,,Agreement,Q7276
 Gregory IX's Decretals and other related works,,,,Decretals of Gregory IX,Q2831
-"Gregory the Great, Commentary on Job",,,,Bible commentary;Commentary on Job,Q1433;Q1450
+"Gregory the Great, Commentary on Job",,,,Bible commentary;Commentary on Job,Q1433|Q1450
 "Gregory the Great, Liber Regulae Pastoralis",,,,Liber regulae pastoralis,Q20396
 Grilandas inventum,,,,Grilandas inventum,Q39410
 Guanguang shi ji,觀光詩集 ;,,,Guanguang shi ji,Q39411
@@ -2988,7 +2988,7 @@ Hexameron,,,,Hexameron,Q19967
 Hidāyat al-ḥayārá fī ajwibat al-Yahūd wa-al-Naṣārá /,هداية الحيارى في اجوبة اليهود والنصارى /,,,Hidāyat al-ḥayārá fī ajwibat al-Yahūd wa-al-Naṣārá,Q11658
 Hidāyat al-ḥayārá fī ajwibat al-Yahūd wa-al-Naṣārá /,هداية الحيارى في اجوبة اليهود والنصارى /,,,Hidāyat al-ḥayārá fī ajwibat al-Yahūd wa-al-Naṣārá,Q11658
 Hie hebt sich an dÿ vorredt mayster Hannsen von Türocz in das erst puech der ungrischenn kronigkñ dÿ zw dem erbredigenn her͠n͠ tomã seinē aignē p[er]son der khanzlere ist gebesnñ des durichleuchtigstenn fũrstenñ hernñ Mathias zw wngernñ ze Bechem kűnig etc,,Chronica Hungarorum,,Chronicle,Q1475
-Hieronimi presbiteri in expositionis Danielis prophetae,,Commentarii in Danielem,,Bible commentary;Commentary on Daniel,Q1433;Q20478
+Hieronimi presbiteri in expositionis Danielis prophetae,,Commentarii in Danielem,,Bible commentary;Commentary on Daniel,Q1433|Q20478
 Hieron sive Opusculum de tyrannide,,,,De tyrannide,Q39428
 Ḥikāyat Abī Hiffān,حکاية ابي هفان.,,,Ḥikāyat Abī Hiffān,Q11662
 Ḥikāyat Abī Hiffān,حکاية ابي هفان.,,,Ḥikāyat Abī Hiffān,Q11662
@@ -3086,16 +3086,16 @@ Historical miscellany,,,,Historical texts,Q7021
 Historical miscellany concerning Poland,,,,Historical texts,Q7021
 Histories,,,,History,Q1444
 History,,,,History,Q1444
-"History of France and England during the reigns of Henry IV, Henry V, Henry VI",,,,History of France;History of England,Q819;Q821
+"History of France and England during the reigns of Henry IV, Henry V, Henry VI",,,,History of France;History of England,Q819|Q821
 History of Marechal de Gassion,,,,History of Marechal de Gassion,Q17551
 History of the Reformation in Switzerland from mid-1529 through 1532 ... etc,,,,History of the Reformation in Switzerland,Q5086
 Ḥizb al-baḥr / min taʼlīf al-shaykh al-imām al-ʻālim al-ʻāmil al-walī al-ʻārif al-quṭb al-jāmiʻ al-wārith Abī al-Ḥasan al-Ḥasanī al-Shādhilī,حزب البحر,,,Ḥizb al-baḥr,Q39434
 Homapaddhati,होमपद्धति,Puranas,,Puranas,Q27588
 Homeliae de tempore,,,,Homeliae de tempore,Q1470
-Homeliae in Evangelia,,,,Homilies;Gospels,Q1246;Q6034
+Homeliae in Evangelia,,,,Homilies;Gospels,Q1246|Q6034
 Homeliarum in Ezechielem,,,,Homilies on Ezekiel,Q1351
 Homilarium,,,,Homiliary,Q1338
-Homiliae in Evangelia,,,,Homilies;Gospels,Q1246;Q6034
+Homiliae in Evangelia,,,,Homilies;Gospels,Q1246|Q6034
 Homiliae in evangelia; bifolium fragment,,,,Sermons,Q1400
 Homiliary,,,,Homiliary,Q1338
 Homiliary and saints' lives,,,,Homiliary and saints' lives,Q39435
@@ -3103,7 +3103,7 @@ Homiliary and saints' lives,,,,Homiliary and saints' lives,Q39435
 Homilies,,,,Homilies,Q1246
 Homilies on Ecclesiastes,,,,Homiliary,Q1338
 Homilies on Ezechiel,,,,Homilies on Ezekiel,Q1351
-Homilies on the Gospels,,,,Homilies;Gospels,Q1246;Q6034
+Homilies on the Gospels,,,,Homilies;Gospels,Q1246|Q6034
 Homilies on the Gospels by St Gregory the Great and commentaries on the passion of Christ by Herman Appeldorn,,,,Homilies,Q1246
 Homily,,,,Homilies,Q1246
 Honkishū,本騎集.,,,Honkishū,Q12752
@@ -3121,7 +3121,7 @@ Horologium Sapientiae,,,,Horologium sapientiae,Q7554
 Horoscope for Sultan Amir Zadeh Rustam,,,,Horoscope,Q39436
 "Horti regii Parisiensis Plantarum Catalogus Secundum seriem ordinatam and Arbores Horti Regii, copied by Francisco de Solleysel Equite D. du Clapier, who signs himself as Auditore studiosissimo ipsius Domini Fagon",,,,Catalogus plantarum horti regii parisiensis,Q17608
 Hortulus rosarum,,Hortulus rosarum de valle lacrimarum,,Hortulus rosarum,Q39437
-Hours of Louis XII (formerly Hours of Henry VII),,,,Book of hours;Hours of Louis XII,Q795;Q19941
+Hours of Louis XII (formerly Hours of Henry VII),,,,Book of hours;Hours of Louis XII,Q795|Q19941
 Hours of the Passion,,,,Hours of the Passion,Q39438
 Hours of the Virgin,,,,Book of hours,Q795
 Hṛdaya,वरदगणेशसहस्रनामस्तोत्र,Tantras,,Tantras,Q27776
@@ -3145,7 +3145,7 @@ Hymnary,,,,Hymnal,Q17601
 "Hymnary: Ave maris stella, gaude viscerbus mater, et al.",,,,Hymnal,Q17601
 Hymni cum glossis,,,,Hymns,Q3715
 Hymns and prayers,,,,Hymns,Q3715
-Hymns and prayers for the daily offices,,,,Hymns;Prayers,Q3715;Q798
+Hymns and prayers for the daily offices,,,,Hymns;Prayers,Q3715|Q798
 Hymns for the daily office,,,,Hymns,Q3715
 Hystoria Magni Alexandri regis,,Historia de preliis,,Historia de preliis,Q39963
 Hystoria nichodemi de passione christi,,Gospel of Nicodemus,,Gospel of Nicodemus,Q7264
@@ -3174,11 +3174,11 @@ Illuminated Border,,,,Illuminated leaf,Q20487
 Illuminated Fragment,,,,Illuminated leaf,Q20487
 Illuminated Fragment of Jesus,,,,Illuminated leaf,Q20487
 Illuminated Historiated Initial,,,,Historiated initial,Q10850
-Illuminated Historiated Initial Music Fragment,,,,Historiated initial;Music,Q10850;Q20017
+Illuminated Historiated Initial Music Fragment,,,,Historiated initial;Music,Q10850|Q20017
 Illuminated Initial,,,,Illuminated initial,Q20505
 Illuminated Initial and Partial Border,,,,Illuminated leaf,Q20487
-Illuminated Initial from Music Manuscript,,,,Illuminated initial;Music,Q20505;Q20017
-Illuminated Initial Music Fragment,,,,Illuminated initial;Music,Q20505;Q20017
+Illuminated Initial from Music Manuscript,,,,Illuminated initial;Music,Q20505|Q20017
+Illuminated Initial Music Fragment,,,,Illuminated initial;Music,Q20505|Q20017
 Illuminated Initials Recto,,,,Illuminated initial,Q20505
 Illuminated leaf from a printed book of hours,,Penitential Psalms.,,Penitential psalms,Q7232
 Illuminated Letter and Partial Border,,,,Illuminated leaf,Q20487
@@ -3188,13 +3188,13 @@ Illuminated Manuscript Leaf,,,,Illuminated leaf,Q20487
 Illuminated Medieval Manuscript Fragment,,,,Illuminated leaf,Q20487
 Illuminated Missal,,,,Missal,Q662
 Illuminated missal,,,,Missal,Q662
-Illuminated Music Fragment,,,,Illuminated leaf;Music,Q20487;Q20017
-Illuminated Music Leaf,,,,Illuminated leaf;Music,Q20487;Q20017
+Illuminated Music Fragment,,,,Illuminated leaf;Music,Q20487|Q20017
+Illuminated Music Leaf,,,,Illuminated leaf;Music,Q20487|Q20017
 Illumineirr buch künstlich alle Farben zu machen und bereidenn allen Briefmalern sampt andern solcher kunsten liebhabern nutzlich unnd gutt zu wissen,,,,Illumineirr buch,Q39967
 Illumineirr buch künstlich alle Farben zu machen und bereidenn allen Briefmalern sampt andern solcher kunsten liebhabern nutzlich unnd gutt zu wissen,,,,Illumineirr buch,Q39967
 Illustration of a Group of Men Seated in a Circle,,,,Illustration of a group of men seated in a circle,Q18506
 Illustration of a Man Carrying a Donkey,,,,Illustration of a man carrying a donkey,Q18405
-Illustration of a Man on Horseback Shooting an Arrow at a Man Riding a Large Bird; Illustration of a Man Pouring a Drink for People in a River,,,,Illustration of a man on horseback shooting an arrow at a man riding a large bird;Illustration of a man pouring a drink for people in a river,Q18464;Q18410
+Illustration of a Man on Horseback Shooting an Arrow at a Man Riding a Large Bird; Illustration of a Man Pouring a Drink for People in a River,,,,Illustration of a man on horseback shooting an arrow at a man riding a large bird;Illustration of a man pouring a drink for people in a river,Q18464|Q18410
 Illustration of a Palace Garden,,,,Illustration of a palace garden,Q18370
 Illustration of a Palace Scene,,,,Illustration of a palace scene,Q18483
 Illustration of a Procession on Horseback,,,,Illustration of a procession on horseback,Q18475
@@ -3229,7 +3229,7 @@ Incipit prefatio magistri hugonis in libro de rota vere religionis,,,,De rota ve
 "Incipit Registrum super Tractactum de tribus orbis partibus, ac variis naturis hominum: portentorum, Transformatorum, Necnon de diversis fluminibus aquarum, Insularum et montium",,,,Tractatus de tribus orbis partibus,Q1453
 "Incipit Registrum super Tractactum de tribus orbis partibus, ac variis naturis hominum: portentorum, Transformatorum, Necnon de diversis fluminibus aquarum, Insularum et montium,",,,,Tractatus de tribus orbis partibus,Q1453
 Incipit speculum beati bernardi abbatis ...,,,,Speculum monachorum,Q7566
-Incipit summa magistri petri manducatoris super literam in lucam,,,,Bible commentary;Commentary on Luke,Q1433;Q1345
+Incipit summa magistri petri manducatoris super literam in lucam,,,,Bible commentary;Commentary on Luke,Q1433|Q1345
 Incipit summa penitencie edita a magistro Francisco quondam ...,,,,Summa penitentiae,Q39969
 Incipit tractatus Ricardi Heremite de Ampoll de amore dei contra amatores mundi,,,,De amore Dei contra amatores mundi,Q1423
 Incipit vita beati Materni Coloniensis Archiepiscopi,,,,Life of the Maternus of Cologne,Q1407
@@ -3245,7 +3245,7 @@ Indenture for a messuage of 120 acres,,,,Indenture,Q8388
 "Indenture of apprenticeship to John Gove, clerk",,,,Indenture,Q8388
 Index of Biblical Readings for the Principal Feasts,,,,Liturgical Index,Q20446
 Index rerum et materium in libris Statutorum et Ordinum civitatis Venetiarum contentarum,,,,Legal index,Q12776
-Index to moralia in job; Legenda sanctorum (Lives of the saints),,,,Moralia in Job;Legenda sanctorum,Q863;Q20034
+Index to moralia in job; Legenda sanctorum (Lives of the saints),,,,Moralia in Job;Legenda sanctorum,Q863|Q20034
 Indictio currens,,,,Indictio currens,Q8040
 Indrākṣīstotra,इन्द्राक्षीस्तोत्र,Puranas,,Puranas,Q27588
 Indulgence,,,,Indulgence,Q8174
@@ -3258,7 +3258,7 @@ Infortiatum,,,,Infortiatum,Q19969
 Inhabited Initial,,,,Inhabited Initial,Q19933
 Inhabited initial S,,,,Inhabited Initial,Q19933
 Inhabited initial U,,,,Inhabited Initial,Q19933
-In hoc codice continentur Helianus De instruendis aciebus et Onosander De optimo imperatore,,,,De instruendis aciebus;De optimo imperatore,Q39451;Q39452
+In hoc codice continentur Helianus De instruendis aciebus et Onosander De optimo imperatore,,,,De instruendis aciebus;De optimo imperatore,Q39451|Q39452
 In Ioannis Evangelium tractatus,,,,In Ioannis Evangelium tractatus,Q39453
 In Iohannis Evangelium tractatus CXXIV,,,,In Iohannis Evangelium tractatus,Q1440
 Initial,,,,Decorated initial,Q19949
@@ -3285,24 +3285,24 @@ Initial S with St. Vincent Ferrer,,,,Historiated initial,Q10850
 Initial U with a Prophet,,,,Historiated initial,Q10850
 Initial U with the Ascension,,,,Historiated initial,Q10850
 In Joannis Evangelium Tractatus,,,,In Iohannis Evangelium tractatus,Q1440
-In Johannis Evangelium tractatus : homilies 51-52,,,,Gospel of John;Homilies,Q665;Q1246
+In Johannis Evangelium tractatus : homilies 51-52,,,,Gospel of John;Homilies,Q665|Q1246
 Īn kitāb dar ṭibb,اين کتاب در طب.,Nūr al-fuʼād,نور الفؤاد,Nūr al-fuʼād,Q3674
 Īn kitāb dar ṭibb,اين کتاب در طب.,Nūr al-fuʼād,نور الفؤاد,Nūr al-fuʼād,Q3674
 In metaphysica Aristotelis,,,,Commentary on Aristotle,Q3120
 Inni della Beata Vergine Maria,,,,Hymns,Q3715
 Innocent IV privilege,,,,Privileges,Q4353
 In physicam seu philosophiam naturalem commentarius una cum quaestionibus,,,,Commentary on Aristotle,Q3120
-In psalterium expositio,,,,Bible commentary;Commentary on Psalms,Q1433;Q20442
+In psalterium expositio,,,,Bible commentary;Commentary on Psalms,Q1433|Q20442
 In quatuor Evangelistas,,,,In quatuor evangelistas,Q7555
-Inshā-yi Mādhava Rāma. Inshā-yi Dilkushā,انشاى مادهو‌ رام. انشاى دلکشا.,Inshā-yi Mādhava Rāma.,,Inshā-yi Mādhava Rāma;Inshā-yi Dilkushā,Q39145;Q39146
-Inshā-yi Mādhava Rāma. Inshā-yi Dilkushā,انشاى مادهو‌ رام. انشاى دلکشا.,Inshā-yi Mādhava Rāma.,,Inshā-yi Mādhava Rāma;Inshā-yi Dilkushā,Q39145;Q39146
+Inshā-yi Mādhava Rāma. Inshā-yi Dilkushā,انشاى مادهو‌ رام. انشاى دلکشا.,Inshā-yi Mādhava Rāma.,,Inshā-yi Mādhava Rāma;Inshā-yi Dilkushā,Q39145|Q39146
+Inshā-yi Mādhava Rāma. Inshā-yi Dilkushā,انشاى مادهو‌ رام. انشاى دلکشا.,Inshā-yi Mādhava Rāma.,,Inshā-yi Mādhava Rāma;Inshā-yi Dilkushā,Q39145|Q39146
 Institucion de la regla y hermandad de la Cofadria del Sanctissimo Sacramento,,,,Institucion de la regla y hermandad de la Cofadria del Sanctissimo Sacramento,Q39454
 "Institutio de nomine, pronomine et verbo",,,,Institutio de nomine et pronomine et verbo,Q39455
 Institutiones grammaticae,,,,Institutiones grammaticae,Q1343
 Institutiones juris civilis,,,,Institutiones juris civilis,Q17561
 "Institutions, or Advice to his Grandson, in Three Parts",,,,"Institutions, or Advice to his grandson",Q17552
 Institutionum Arithmeticorum /,,De institutione arithmetica,,De institutione arithmetica,Q12744
-Instructions on how to use a breviary,,,,Instructions;Breviary,Q5044;Q657
+Instructions on how to use a breviary,,,,Instructions;Breviary,Q5044|Q657
 Instructions to give safe passage to Colin de Beauchamp and his family,,,,Instructions to give safe passage,Q39456
 Instructions to his son,,,,Instructions,Q5044
 Instructions to Nicolaus Theupulo,,,,Instructions,Q5044
@@ -3330,7 +3330,7 @@ Iśopaniṣad,इशोपनिषद्,Upanishads,,Upanishads,Q27718
 Istiʻārat Muftīʹzādah,استعارة مفتي‌زادة,Muftīʹzādah ʻalá Istiʻārāt al-ʻIṣām,مفتي‌زادة على استعارات العصام,Muftīʹzādah ʻalá Istiʻārāt al-ʻIṣām,Q11707
 Istiʻārat Muftīʹzādah,استعارة مفتي‌زادة,Muftīʹzādah ʻalá Istiʻārāt al-ʻIṣām,مفتي‌زادة على استعارات العصام,Muftīʹzādah ʻalá Istiʻārāt al-ʻIṣām,Q11707
 "Istromenti di quittanze, ed altri contratti a favore del Sr.? Cesare Ressano &? suoi interessi particolari",,,,Instrument,Q8175
-"Istruzioni, memoriali, lettere, ricordi",,,,Instructions;Memorials;Letters,Q5044;Q7222;Q5068
+"Istruzioni, memoriali, lettere, ricordi",,,,Instructions;Memorials;Letters,Q5044|Q7222|Q5068
 Istruzioni a voi Signor Pietro d'Agostino della relazione che s'aver à Sua Maestà delle cose di Sicilia ... etc,,,,Instructions,Q5044
 Istruzioni a voi Signor Pietro d'Agostino della relazione che s'aver à Sua Maestà delle cose di Sicilia ... etc,,,,Instructions,Q5044
 Italian alchemical miscellany,,,,Alchemical texts,Q3132
@@ -3399,7 +3399,7 @@ John 18:15 - 19:11,,,,Gospel of John,Q665
 John Elys deed,,,,Deed,Q1319
 John Eyr mortgage,,,,Mortgage,Q8393
 "John Gerson, Sermon of Saint Bernard, Incunabulum printed at Strasbourg by Flack, 1494",,,,Sermons,Q1400
-John with Glossa ordinaria,,Bible.,,Bible;Gospel of John,Q661;Q665
+John with Glossa ordinaria,,Bible.,,Bible;Gospel of John,Q661|Q665
 Jónsbók,,Jónsbók.,,Jónsbók,Q39970
 Jónsbók,,Jónsbók.,,Jónsbók,Q39970
 "Journals, 1697 December 8 to 1698 July 5",,,,Journals,Q17559
@@ -3416,7 +3416,7 @@ Kaishihen /,解屍編 /,,,Kaishihen,Q12770
 Kaivalya upaniṣad,कैवल्य उपनिषद्,Upanishads,,Upanishads,Q27718
 Kaivalyopaniṣad,कैवल्योपनिषद्,Upanishads,,Upanishads,Q27718
 Kālāgnirudropaniṣad,कालाग्निरुद्रोपनिषद्,Puranas,,Puranas,Q27588
-Kalendar from Book of Hours,,,,Calendar;Book of hours,Q1122;Q795
+Kalendar from Book of Hours,,,,Calendar;Book of hours,Q1122|Q795
 Kalendis Ianuarii luna prout quota erit require literam,,,,Calendar,Q1122
 Kalibhaviṣya,कलिभविष्य,Puranas,,Puranas,Q27588
 Kālikāsahasranāmastotra,कालिकासहस्रनामस्तोत्र,Tantras,,Tantras,Q27776
@@ -3845,9 +3845,9 @@ Kitāb Kawkab al-Rawḍah /,كتاب كوكب الروضة /,Kawkab al-Rawḍah.
 Kitāb Khizānat al-fiqh ʻalá madhhab al-Imām al-aʻẓam Abī Ḥanīfah al-Nuʻmān ibn al-Thābit /,"كتاب خزانة الفقه على مذهب الامام الاعظم ابي حنيفة النعمان بن الثابت
 				/",Khizānat al-fiqh,خزانة الفقه,Khizānat al-fiqh,Q12014
 Kitāb Khulāṣat al-abḥāth fī sharḥ Nahj al-qirāʼāt al-thalath ; Kitāb Sharḥ al-Rāʼīyah lil-Shāṭibī,"كتاب خلاصة الابحاث في شرح نهج القراءات الثلث ؛ كتاب شرح الرائية
-				للشاطبي",,,Khulāṣat al-abḥāth fī sharḥ Nahj al-qirāʼāt al-thalath;Sharḥ al-Rāʼīyah lil-Shāṭibī,Q11957;Q11700
+				للشاطبي",,,Khulāṣat al-abḥāth fī sharḥ Nahj al-qirāʼāt al-thalath;Sharḥ al-Rāʼīyah lil-Shāṭibī,Q11957|Q11700
 Kitāb Khulāṣat al-abḥāth fī sharḥ Nahj al-qirāʼāt al-thalath ; Kitāb Sharḥ al-Rāʼīyah lil-Shāṭibī,"كتاب خلاصة الابحاث في شرح نهج القراءات الثلث ؛ كتاب شرح الرائية
-				للشاطبي",,,Khulāṣat al-abḥāth fī sharḥ Nahj al-qirāʼāt al-thalath;Sharḥ al-Rāʼīyah lil-Shāṭibī,Q11957;Q11700
+				للشاطبي",,,Khulāṣat al-abḥāth fī sharḥ Nahj al-qirāʼāt al-thalath;Sharḥ al-Rāʼīyah lil-Shāṭibī,Q11957|Q11700
 Kitāb khuṭab ʻAlī ibn Abī Ṭālib,,Khuṭab ʻAlī ibn Abī Ṭālib,,Khuṭab ʻAlī ibn Abī Ṭālib,Q39497
 Kitāb Lamḥat al-mukhtaṭif fī ṣināʻat al-khaṭṭ al-ṣalif /,كتاب لمحة المختطف في صناعة الخط الصل /,Lamḥat al-mukhtaṭif fī ṣināʻat al-khaṭṭ al-ṣalif,لمحة المختطف في صناعة الخط الصلف,Lamḥat al-mukhtaṭif fī ṣināʻat al-khaṭṭ al-ṣalif,Q12029
 Kitāb Lamḥat al-mukhtaṭif fī ṣināʻat al-khaṭṭ al-ṣalif /,كتاب لمحة المختطف في صناعة الخط الصل /,Lamḥat al-mukhtaṭif fī ṣināʻat al-khaṭṭ al-ṣalif,لمحة المختطف في صناعة الخط الصلف,Lamḥat al-mukhtaṭif fī ṣināʻat al-khaṭṭ al-ṣalif,Q12029
@@ -4050,7 +4050,7 @@ Kṛṣṇakvaca,कृष्णक्वच,Puranas,,Puranas,Q27588
 Kṛṣṇaniryāṇa,कृष्णनिर्याण,Puranas,पुराण,Puranas,Q27588
 Kṛṣṇastotra,कृष्णस्तोत्र,Puranas,,Puranas,Q27588
 Ktaba d-mazmore d-Dawid,,Bible,,Bible,Q661
-Ktaba d-ṣemḥe; d-ʾitaw(hi) ʻal turaṣ mamlla ʾUrhaya,,,,Ktaba d-ṣemḥe;d-ʾitaw(hi) ʻal turaṣ mamlla ʾUrhaya,Q39519;Q39520
+Ktaba d-ṣemḥe; d-ʾitaw(hi) ʻal turaṣ mamlla ʾUrhaya,,,,Ktaba d-ṣemḥe;d-ʾitaw(hi) ʻal turaṣ mamlla ʾUrhaya,Q39519|Q39520
 Ktaba d-tašʻyata d-Yaldat ʼAlaha Maryam,,,,Ktaba d-tašʻyata d-Yaldat ʼAlaha Maryam,Q39521
 Ktaba d-zalgē wšūrara d-šetēsē ʻidtanayetē,[ܟܬܒܐ ܕܙܠܓ̈ܐ ܘܫܘܪܪܐ ܕܫܬܐܣ̈ܐ ܥܕܬܢܝ̈ܬܐ],,,Ktaba d-zalgē wšūrara d-šetēsē ʻidtanayetē,Q18395
 Ktaba d-zalgē wšūrara d-šetēsē ʻidtanayetē.,[ܟܬܒܐ ܕܙܠܓ̈ܐ ܘܫܘܪܪܐ ܕܫܬܐܣ̈ܐ ܥܕܬܢܝ̈ܬܐ],,,Ktaba d-zalgē wšūrara d-šetēsē ʻidtanayetē,Q18395
@@ -4104,7 +4104,7 @@ Lāmīyat Ibn al-Wardī,لاميت ابن الوردي.,Sharḥ Lāmīyat Ibn al
 Land sale contract,,,,Contracts,Q5056
 Lanndtafel dess Fürstenthümbs Obern und Nidern Bairn,,,,Lanndtafel dess Fürstenthümbs Obern und Nidern Bairn,Q5061
 Lanndtafel dess Fürstenthümbs Obern und Nidern Bairn,,,,Lanndtafel dess Fürstenthümbs Obern und Nidern Bairn,Q39984
-"Lantrecht van Zallant, van Twenthe, van Vullenhoe, van Drenthe, mit anderen priviligien des landes van Overijssel",,,,Landrecht;Privileges,Q8036;Q4353
+"Lantrecht van Zallant, van Twenthe, van Vullenhoe, van Drenthe, mit anderen priviligien des landes van Overijssel",,,,Landrecht;Privileges,Q8036|Q4353
 Lapa Torti power of attorney,,,,Power of attorney,Q8176
 La physique françoise; an astronomical miscellany,,,,Astronomical texts,Q3129
 Lapo di Michele and Bartolomeo Fiori power of attorney,,,,Power of attorney,Q8176
@@ -4127,7 +4127,7 @@ Laṭāʼif al-kalām fī aḥkām al-aʻwām,لطائف الكلام ف�
 Laṭāʼif al-kalām fī aḥkām al-aʻwām,لطائف الكلام في احكام الاعوام.,,,Laṭāʼif al-kalām fī aḥkām al-aʻwām,Q3706
 "La Teseide, with notes by Pietro Andrea di Bassi",,Teseida,,Teseida,Q7229
 Latin Bible,,Bible,,Bible,Q661
-"Latin Bible, with prologues attributed to St. Jerome and the interpretation of Hebrew names",,,,Bible;Prologues;Interpretation of Hebrew names,Q661;Q38401;Q38400
+"Latin Bible, with prologues attributed to St. Jerome and the interpretation of Hebrew names",,,,Bible;Prologues;Interpretation of Hebrew names,Q661|Q38401|Q38400
 "Latin fragment ""gaudio""",,,,Gaudio,Q6051
 Latin miscellany,,,,Miscellany,Q3673
 Latin Religious Text,,,,Religious text,Q1465
@@ -4136,7 +4136,7 @@ Latin text leaf,,,,Latin text,Q20517
 Latin treatises on religious matters,,,,Religious texts,Q5037
 Laudario (Hymnal),,,,Hymnal,Q17601
 "Laudes, sermones, miracula, exempla, etc. de Beata Maria Virgine",,,,Sermons,Q1400
-"Laurentius Quglielmus Tij, De arte metrica, De pedibus",,,,De arte metrica;De pedibus,Q1402;Q1332
+"Laurentius Quglielmus Tij, De arte metrica, De pedibus",,,,De arte metrica;De pedibus,Q1402|Q1332
 La vasiliade,,,,La vasiliade,Q39529
 La vita de Sancto Orso,,,,La vita de Sancto Orso,Q7530
 La vita e ... la conversione del nostro segniore jhesu christo,,,,La vita e la conversione del nostro segniore jhesu christo,Q7246
@@ -4146,7 +4146,7 @@ Lawāmiʻ al-asrār fī sharḥ Maṭāliʻ al-anwār,لوامع الاسرار 
 Laws promulgated for Bavaria in 1346,,,,Laws,Q39985
 Laylī va Majnūn,[ليلى و مجنون],,,Laylī va Majnūn,Q18445
 Laylī va Majnūn.,[ليلى و مجنون],,,Laylī va Majnūn,Q18445
-Leaf apparently from a harmony of the Gospels,,Bible.,,Bible;Gospels,Q661;Q6034
+Leaf apparently from a harmony of the Gospels,,Bible.,,Bible;Gospels,Q661|Q6034
 "Leaf containing ""Splendor paternae gloriae"" / Ambrose of Milan",,,,Splendor paternae gloriae,Q6046
 "Leaf containing Ecclesiastes xii, 16 to xvi, 22",,Bible.,,Ecclesiastes,Q6052
 Leaf containing Psalm 141 leaf 10 to Psalm 143 leaf 8,,Bible.,,Psalms,Q5972
@@ -4166,11 +4166,11 @@ Leaf from a book of hours containing a miniature of the Crucifixion,,,,Book of h
 Leaf from a book of hours containing Psalms 44 (45) and 45 (46),,Book of hours (Manuscript Kenneth Spencer Research Library. MS 9/2:4),,Book of hours,Q795
 Leaf from a book of hours containing the fifteen joys of Mary (Doulce dame de misericorde),,Book of hours (Kenneth Spencer Research Library. Department of Special Collections. Manuscript. MS 9/2:6),,Book of hours,Q795
 Leaf from a Book of Hours depicting the Last Supper,,,,Book of hours,Q795
-Leaf from a book of hours or breviary,,,,Book of hours;Breviary,Q795;Q657
+Leaf from a book of hours or breviary,,,,Book of hours;Breviary,Q795|Q657
 Leaf from a book of hours printed by Thielman Kerver,,Book of hours,,Book of hours,Q795
 Leaf from a Book of Hours showing nativity scene,,Book of hours.,,Book of hours,Q795
 Leaf from a Breviary,,,,Breviary,Q657
-Leaf from a breviary with an initial F depicting the Assumption of the Virgin,,,,Breviary;Historiated initial,Q657;Q10850
+Leaf from a breviary with an initial F depicting the Assumption of the Virgin,,,,Breviary;Historiated initial,Q657|Q10850
 Leaf from Ab urbe condita,,Ab urbe condita,,History of Rome,Q1324
 Leaf from a censier or rent book of tenant farms in La Chapelle,,,,Rent book,Q27848
 Leaf from a censier or rent book of tenant farms in La Chapelle],,,,Rent book,Q27848
@@ -4189,7 +4189,7 @@ Leaf from a manuscript book of hours,,,,Book of hours,Q795
 Leaf from a manuscript breviary,,,,Breviary,Q657
 Leaf from a manuscript missal,,,,Breviary,Q657
 Leaf from a manuscript Pentateuch containing blessings for the reading of the Megillah of Esther,,,,Pentateuch,Q10847
-Leaf from a manuscript pocket breviary or homiliary,,,,Breviary;Homiliary,Q657;Q1338
+Leaf from a manuscript pocket breviary or homiliary,,,,Breviary;Homiliary,Q657|Q1338
 "Leaf from a manuscript Vulgate Bible, Book of wisdom",,,,Bible,Q661
 Leaf from a medieval book of sermons,,,,Sermons,Q1400
 Leaf from a missal with miniature depicting Jesus washing Peter's feet,,,,Missal,Q662
@@ -4208,7 +4208,7 @@ Leaf from a scribe's advertising specimen,,,,Scribal advertisement,Q20469
 Leaf from a vernacular book of hours,,,,Book of hours,Q795
 Leaf from a Vulgate Bible (Prophecy of Jeremiah),,,,Bible,Q661
 Leaf from Catholicon,,,,Catholicon,Q12729
-Leaf from Computus,,,,Computus;Calendar,Q20412;Q1122
+Leaf from Computus,,,,Computus;Calendar,Q20412|Q1122
 Leaf from De Contemptu Mundi,,,,De contemptu mundi,Q20444
 Leaf from De finibus bonorum et malorum,,,,De finibus bonorum et malorum,Q27735
 Leaf from De Remediis Utriusque Fortunae,,,,De remediis utriusque fortunae,Q20409
@@ -4225,8 +4225,8 @@ Leaf from Khusraw va Shīrīn,,Khusraw va Shīrīn.,خسرو و شيرين.,Khus
 Leaf from Khusraw va Shīrīn],,Khusraw va Shīrīn.,خسرو و شيرين.,Khusraw va Shīrīn,Q27727
 "Leaf from Kulliyat-i Sa'di, a King and His Attendants",,,,Kulliyat-i Sa'di leaf,Q18399
 "Leaf from large choir-book beginning ""Jubilate Deo""",,,,Choir book,Q1449
-Leaf from Magna Glossatura in Epistolas Pauli,,,,Magna glossatura;Bible,Q1481;Q661
-Leaf from Magna Glossatura in Epistolas Pauli],,,,Magna glossatura;Bible,Q1481;Q661
+Leaf from Magna Glossatura in Epistolas Pauli,,,,Magna glossatura;Bible,Q1481|Q661
+Leaf from Magna Glossatura in Epistolas Pauli],,,,Magna glossatura;Bible,Q1481|Q661
 Leaf from Makhzan al-asrār,,Makhzan al-asrār.,مخزن الاسرار.,Makhzan al-asrār,Q27799
 Leaf from Makhzan al-asrār],,Makhzan al-asrār.,مخزن الاسرار.,Makhzan al-asrār,Q27799
 Leaf from medieval manuscript breviary,,,,Breviary,Q657
@@ -4257,7 +4257,7 @@ Leaf of De fide Sanctae Trinitatis shaped into envelope,,,,De fide Sanctae Trini
 "Leaf possibly from ""Legends of the Prophets,"" a Man in a Blue Coat Kneeling",,,,"""Legends of the prophets"" leaf",Q18359
 "Leaf possibly from ""Legends of the Prophets,"" a Portrait of Aristotle",,,,"""Legends of the prophets"" leaf",Q18359
 Leaf possibly from Saint Albertus Magnus's Speculum astronomiae,,,,Speculum astronomiae,Q10835
-Leaf with a decorated initial S beginning the gradual for a requiem mass,,,,Gradual;Decorated initial,Q1121;Q19949
+Leaf with a decorated initial S beginning the gradual for a requiem mass,,,,Gradual;Decorated initial,Q1121|Q19949
 Leaf with ghazal of Ḥāfiẓ,,,,Ghazal,Q27668
 Leaf with ghazal of Ḥāfiẓ],,,,Ghazal,Q27668
 Leaf with miniature of Christ blessing a kneeling couple,,,,Miniature,Q19998
@@ -4427,8 +4427,8 @@ Letter to the Dominicans in Chiapa and Guatemala,,,,Letter to the Dominicans in 
 Letter to the Duke of Arcos,,,,Letter,Q1454
 Letter with monastic connections,,,,Letter,Q1454
 Le uie de Sion piangono,,De mystica theologia.,,De mystica theologia,Q7269
-Leviticus with the ordinary gloss,,Bible,,Bible;Book of Leviticus,Q661;Q38395
-Lewis Psalter,,,,Psalter;Lewis psalter,Q660;Q20022
+Leviticus with the ordinary gloss,,Bible,,Bible;Book of Leviticus,Q661|Q38395
+Lewis Psalter,,,,Psalter;Lewis psalter,Q660|Q20022
 Lexicon (Manuscript Kenneth Spencer Research Library. MS D14),,Lexicon,,Lexicon,Q6005
 "Lex Salica, Chapters XLVII-XLIX",,,,Lex Salica,Q20448
 Li acerba; opera di Cicco d'Ascoli,,,,Li acerba,Q39551
@@ -4469,10 +4469,10 @@ Liber glossarum,,,,Liber glossarum,Q6020
 Liber II Meteorum,,,,Meteorologica,Q656
 Liber IV sententiarum (Four Books of Sentences),,,,Sentences,Q1119
 Liber lapidum,,,,Liber lapidum,Q39557
-Liber machabaeorum,,Bible,,Bible;Book of Maccabees,Q661;Q39138
+Liber machabaeorum,,Bible,,Bible;Book of Maccabees,Q661|Q39138
 Liber mayor Prisciani de ordinatione partium orationis,,Institutio de arte grammaticae,,Institutio de arte grammaticae,Q5058
 Liber meditationum sive orationum /,,,,Liber meditationum,Q6033
-Liber metaphisice ; Liber ethicorum,,Metaphysics,,Metaphysics (Aristotle);Nichomachean ethics,Q361;Q6012
+Liber metaphisice ; Liber ethicorum,,Metaphysics,,Metaphysics (Aristotle);Nichomachean ethics,Q361|Q6012
 Liber mirabilium,,,,Liber mirabilium,Q3684
 Liber Niger Domus Regiae,,,,Liber niger domus regiae,Q17603
 Liber orationum,,,,Liber orationum,Q39558
@@ -4484,7 +4484,7 @@ Liber processionum conventus Augustinianarum S. Sebastiani,,Processionale,,Proce
 Liber Rabani Anglici Horroscopo intitulatus translatus de Hebraico in Latinum a Dandalo Ylardensi ad instantiam abbatis P. de Visula ... etc,,,,Liber Rabani Anglici Horroscopo intitulatus,Q5019
 Liber rethoricorum /,,Rhetorica ad Herennium.,,Rhetorica ad Herennium,Q816
 Liber ruralium commodorum,,Ruralia commoda,,Ruralia commoda,Q367
-"Liber scintillarum, De virtutibus et vitiis, and other collections of excerpts and religious tracts /",,Liber scintillarum,,Liber scintillarum;De virtutibus et vitiis,Q6040;Q6028
+"Liber scintillarum, De virtutibus et vitiis, and other collections of excerpts and religious tracts /",,Liber scintillarum,,Liber scintillarum;De virtutibus et vitiis,Q6040|Q6028
 Liber sententiarum,,,,Liber sententiarum,Q1322
 "Liber Sextus Decretalium, commentary on",,,,Commentary on Liber sextus decretalium,Q1416
 "Liber sextus Decretalium, with the glosses of Joannes Andreae",,Liber sextus Decretalium,,Liber sextus decretalium,Q39559
@@ -4558,7 +4558,7 @@ Liturgy of St. Basil in Greek,,Liturgy of St. Basil,,Liturgy of Saint Basil,Q839
 Lives of the Caesars,,,,Lives of the Caesars,Q1350
 Lives of the fathers,,,,Lives of the fathers,Q1429
 Lives of the Saints,,,,Lives of the saints,Q1483
-Livre de la chass; with Llull's Livre de l'ordre de chevalerie,,,,Livre de la chass;Livre de l'ordre de chevalerie,Q39579;Q39580
+Livre de la chass; with Llull's Livre de l'ordre de chevalerie,,,,Livre de la chass;Livre de l'ordre de chevalerie,Q39579|Q39580
 Livre des cens et rentes,,,,Livre des cens et rentes,Q7273
 Livre des proprietes des choses,,De proprietatibus rerum,,De proprietatibus rerum,Q3154
 "Llangattock Breviary, single leaves",,Breviary,,Breviary,Q657
@@ -4573,7 +4573,7 @@ Lorenzo di Pierfrancesco de' Medici power of attorney,,,,Power of attorney,Q8176
 Los Benavides,,,,Los Benavides,Q39582
 "Los dos tratados del Papa, i de la Misa",,,,Los dos tratados del Papa,Q3723
 Los emblemas comentados y puestos en idioma castellano,,,,Notes on emblems,Q17612
-Lo stvfaivolo; comedia del Doni,,,,Lo stvfaivolo;Comedies,Q39143;Q7275
+Lo stvfaivolo; comedia del Doni,,,,Lo stvfaivolo;Comedies,Q39143|Q7275
 Louis XII debt commitment letter,,,,Letter,Q1454
 Lou ju za zhu,樓居雜著 ;,,,Lou ju za zhu,Q39583
 Loyca parva ... etc,,Logica parva,,Logica parva,Q3136
@@ -4583,10 +4583,10 @@ Lughāt,لغات.,,,Lughāt,Q11659
 Luigi de Covoni power of attorney,,,,Power of attorney,Q8176
 Luigi di Giovanni power of attorney,,,,Power of attorney,Q8176
 Luigi Gaddi power of attorney,,,,Power of attorney,Q8176
-Luke 17:10-24,,,,Bible;Gospel of Luke,Q661;Q1437
+Luke 17:10-24,,,,Bible;Gospel of Luke,Q661|Q1437
 Luke 22:34 - 23:2,,,,Gospel of Luke,Q1437
-Luke in the Old Latin version,,Bible,,Bible;Gospel of Luke,Q661;Q1437
-Luke with Glossa ordinaria,,Bible.,,Bible;Gospel of Luke,Q661;Q1437
+Luke in the Old Latin version,,Bible,,Bible;Gospel of Luke,Q661|Q1437
+Luke with Glossa ordinaria,,Bible.,,Bible;Gospel of Luke,Q661|Q1437
 Lumen confessorum,,,,Lumen confessorum,Q5082
 Lystoria de Alexandro magno figlio di Philippo Re di Macedonia; scripta da Quinto Curcio Ruffo eloquentissimo e traduta in vulgare fidelmente da P. Candido,,Historia Alexandri Magni,,Historia Alexandri Magni,Q39584
 M. T. Ciceronis officiorum ad Marcum Ciceronem filium,,De officiis,,De officiis,Q10836
@@ -4599,7 +4599,7 @@ Madonna and child,,,,Miniature,Q19998
 Mafātīḥ al-jinān wa-maṣābīḥ al-janān,مفاتيح الجنان ومصابيح الجنان.,,,Mafātīḥ al-jinān wa-maṣābīḥ al-janān,Q12158
 Māgha,माघ,Śiśupālavadha,,Śiśupālavadha,Q27800
 Māghamāhātmya,माघमाहात्म्य,Puranas,,Puranas,Q27588
-Magna Carta; Nova statuta,,,,Magna Carta;Nova statuta,Q39147;Q20023
+Magna Carta; Nova statuta,,,,Magna Carta;Nova statuta,Q39147|Q20023
 Magna Glossatura in Epistolas Pauli,,,,Magna glossatura,Q1481
 Magna Glossatura in Psalmost,,,,Magna glossatura,Q1481
 Magna moralia; Liber ethicorum ; Politica ; Economica,,Works,,Works,Q5989
@@ -4760,7 +4760,7 @@ Manuscript leaves from an Ashkenazic Maḥzor for the High Holidays,,Maḥzor.,�
 Manuscript leaves from Defecerunt scrutantes scrutinio,,Defecerunt scrutantes scrutinio.,,Defecerunt scrutantes scrutinio,Q8058
 Manuscript leaves from legal text,,,,Legal text,Q8041
 Manuscript list of manuscript and printed books,,,,List,Q3116
-Manuscript of an evangelist and prebendary of the minor orders,,,,Evangeliary;Document,Q20460;Q8301
+Manuscript of an evangelist and prebendary of the minor orders,,,,Evangeliary;Document,Q20460|Q8301
 Manuscript pastedowns from De proprietatibus rerum,,De proprietatibus rerum.,,De proprietatibus rerum,Q3154
 Manuscript treatise on commercial arithmetic for apprentice cloth merchants,,,,Text on commercial arithmetic,Q39595
 Manuscript waste including a fragment of Miroir historial,,,,Manuscript waste,Q38342
@@ -4786,17 +4786,17 @@ Marci Valerii Marcialis Epigramaton Liber Primus Incipit,,,,Epigrammaton,Q39995
 Mare magno della crucifissa,,,,Mare magno della crucifissa,Q39598
 Margarita decreti,,,,Margarita decreti,Q39599
 Mārgaśīrṣamāhātmya,मार्गशीर्षमाहात्म्य,Puranas,,Puranas,Q27588
-Marginal Miniatures,,,,Fragment;Illuminated initial,Q20461;Q20505
+Marginal Miniatures,,,,Fragment;Illuminated initial,Q20461|Q20505
 Maria de Bonzi record of house sale,,,,Record of sale,Q5052
 Mariale,,,,Mariale,Q39600
 Maria Riccomanni copies of legal proceedings,,,,Legal document,Q3666
 Mariotto Cresci power of attorney,,,,Power of attorney,Q8176
-Mark 12.18-23 in the Syriac Peshitta version,,Bible,,Bible;Gospel of Mark,Q661;Q1347
+Mark 12.18-23 in the Syriac Peshitta version,,Bible,,Bible;Gospel of Mark,Q661|Q1347
 Mark 14:25-66,,,,Gospel of Mark,Q1347
 Mark 14:43 - 15:8,,,,Gospel of Mark,Q1347
 Mārkaṇḍeyapurāṇa,मार्कण्डेयपुराण,Puranas,,Puranas,Q27588
 Marriage document,,,,Legal document,Q3666
-Martini family deed of gift and power of attorney,,,,Power of attorney;Deed,Q8176;Q1319
+Martini family deed of gift and power of attorney,,,,Power of attorney;Deed,Q8176|Q1319
 Martini family power of attorney,,,,Power of attorney,Q8176
 Martyrologium,,,,Martyrology,Q19946
 Martyrology,,,,Martyrology,Q19946
@@ -4822,8 +4822,8 @@ Maṭāliʻ al-anẓār fī sharḥ Ṭawāliʻ al-anwār. Ṭawāliʻ al-
 				الانظار.",,,Maṭāliʻ al-anẓār fī sharḥ Ṭawāliʻ al-anwār. Ṭawāliʻ al-anwār min maṭāliʻ al-anẓār,Q11777
 Maṭāliʻ al-anẓār fī sharḥ Ṭawāliʻ al-anwār. Ṭawāliʻ al-anwār min maṭāliʻ al-anẓār,"مطالع الانظار في شرح طوالع الانوار. طوالع الانوار من مطالع
 				الانظار.",,,Maṭāliʻ al-anẓār fī sharḥ Ṭawāliʻ al-anwār. Ṭawāliʻ al-anwār min maṭāliʻ al-anẓār,Q40001
-"Matheus da Gaio, Portolan chart, 19th or 20th century forgery",,,,Portolan chart;Forgery,Q38411;Q2829
-"Matheus de Chiara, Portolan atlas, 19th or early 20th-century forgery",,,,Portolan atlas;Forgery,Q2828;Q2829
+"Matheus da Gaio, Portolan chart, 19th or 20th century forgery",,,,Portolan chart;Forgery,Q38411|Q2829
+"Matheus de Chiara, Portolan atlas, 19th or early 20th-century forgery",,,,Portolan atlas;Forgery,Q2828|Q2829
 Matines des trespassez. Au lundi [verso,,,,Matins,Q40002
 Matines des trespassez. Au lundi [verso],,,,Matins,Q40002
 Maṭlaʻ al-nayyirayn wa-baʻḍ rasāʼil al-Qīrāṭī,مطلع النيرين وبعض رسائل القيراطي,Maṭlaʻ al-nayyirayn,مطلع النيرين,Maṭlaʻ al-nayyirayn,Q11934
@@ -4835,9 +4835,9 @@ Mattea Petrini power of attorney,,,,Power of attorney,Q8176
 Matteo d'Alessandro d'Andrea Todeschini Piccolomini legal brief,,,,Legal document,Q3666
 Matteo di Santi record of house sale,,,,Record of sale,Q5052
 Matteo Piccolomini land contract,,,,Land contract,Q8050
-Matthew 15; John 4,,,,Gospel of Matthew;Gospel of John,Q1389;Q665
+Matthew 15; John 4,,,,Gospel of Matthew;Gospel of John,Q1389|Q665
 "Matthew Prologue, Chapters 1:1 - 3:15",,,,Gospel of Matthew,Q1389
-Matthew with Glossa ordinaria,,Bible.,,Bible;Gospel of Matthew,Q661;Q1389
+Matthew with Glossa ordinaria,,Bible.,,Bible;Gospel of Matthew,Q661|Q1389
 Mavāhib-i ilāhī,مواهب الهى.,Mavāhib-i ilāhī dar tārīkh-i Āl-i Muẓaffar,مواهب الاهى در تاريخ آل مظفر,Mavāhib-i ilāhī dar tārīkh-i Āl-i Muẓaffar,Q27707
 Mawḍūʻāt al-ʻulūm,موضوعات العلوم,,,Mawḍūʻāt al-ʻulūm,Q12122
 Mawḍūʻāt al-ʻulūm,موضوعات العلوم,,,Mawḍūʻāt al-ʻulūm,Q12122
@@ -4852,13 +4852,13 @@ Mea Lupi power of attorney,,,,Power of attorney,Q8176
 Mecenas atavis edite regibus,,Carmina,,Carmina,Q39920
 Mecmua-yi hadis̲-i arbain,مجموعة حديث اربعين.,,,Mecmua-yi hadis̲-i arbain,Q11766
 Media Glossatura in Epistolas Pauli,,,,Media glossatura in Epistolas Pauli,Q1354
-Medical and astrological miscellany,,,,Medical texts;Astrological texts,Q817;Q3123
-Medical and astronomical miscellany,,,,Medical texts;Astronomical texts,Q817;Q3129
-Medical and magical compendium,,,,Medical texts;Magical texts,Q817;Q38350
+Medical and astrological miscellany,,,,Medical texts;Astrological texts,Q817|Q3123
+Medical and astronomical miscellany,,,,Medical texts;Astronomical texts,Q817|Q3129
+Medical and magical compendium,,,,Medical texts;Magical texts,Q817|Q38350
 Medical manual and prescriptions ... etc,,,,Medical texts,Q817
 Medical miscellany,,,,Medical texts,Q817
 Medical recipes,,,,Medical texts,Q817
-Medical recipes and leaves from a Missal,,,,Medical texts;Missal,Q817;Q662
+Medical recipes and leaves from a Missal,,,,Medical texts;Missal,Q817|Q662
 Medical text,,,,Medical text,Q20372
 Medical Treatise,,,,Medical text,Q20372
 Medical treatises,,,,Medical texts,Q817
@@ -4906,7 +4906,7 @@ Michele di Fidanza power of attorney,,,,Power of attorney,Q8176
 Michele di Niccolò deed,,,,Deed,Q1319
 Michele di Niccolò deed,,,,Deed,Q1319
 Microtegni,,,,Microtegni,Q39612
-"Milke and hony, or a miscellanious collation of many Christian experiences, sayinges contentes and severall pleases =places of scripturs improved",,,,Milk and honey;Miscellany,Q39613;Q3673
+"Milke and hony, or a miscellanious collation of many Christian experiences, sayinges contentes and severall pleases =places of scripturs improved",,,,Milk and honey;Miscellany,Q39613|Q3673
 Mīmāṁsābhāṣya,,Mīmāṁsāsūtra,,Mīmāṁsāsūtra,Q39614
 Miniato di Cimatore and Antonio dei Biffoli power of attorney,,,,Power of attorney,Q8176
 Miniature depicting All Saints,,,,Miniature,Q19998
@@ -4974,7 +4974,7 @@ Miscellany of theological and devotional works,,,,Religious texts,Q5037
 "Miscellany of theological material concerning biblical translation, liturgical matters, laws of the land, and commentary on the Anglican/Catholic divide",,,,Theological texts,Q822
 Miscellany of works of logic and philosophy,,,,Philosophical texts,Q20482
 "Miscellany of works on Catholic doctrine, canon law and religious life",,,,Religious texts,Q5037
-Miscellany with St. Patrick's Purgatory,,,,Miscellany;Saint Patrick's Purgatory,Q3673;Q38394
+Miscellany with St. Patrick's Purgatory,,,,Miscellany;Saint Patrick's Purgatory,Q3673|Q38394
 Misogonus,,,,Misogonus,Q39618
 Missal,,Missal (Manuscript Kenneth Spencer Research Library. MS 9/1:B4),,Missal,Q662
 Missal,,,,Missal,Q662
@@ -5163,7 +5163,7 @@ Nārāyaṇātharvaśira,नारायणाथर्वशिर,Upanishads,,
 Nārāyaṇa upaniṣad,नारायण उपनिषद्,Upanishads,,Upanishads,Q27718
 Nārāyaṇopaniṣad,नारायणोपनिषद्,Upanishads,,Upanishads,Q27718
 Nārāyaṇopaniṣad,नारायणोपनिषद्,Vedas,,Vedas,Q27715
-Narratione dell'imperio e stato della casa Ottomana; narratione delle cose di Spagna,,,,Narratione dell'imperio e stato della casa Ottomana;Narratione delle cose di Spagna,Q39631;Q39632
+Narratione dell'imperio e stato della casa Ottomana; narratione delle cose di Spagna,,,,Narratione dell'imperio e stato della casa Ottomana;Narratione delle cose di Spagna,Q39631|Q39632
 Nashr kabīr,نشر كبير.,Nashr fī al-qirāʼāt al-ʻashr,نشر في القراآت العشر,Nashr fī al-qirāʼāt al-ʻashr,Q11637
 Nashr kabīr,نشر كبير.,Nashr fī al-qirāʼāt al-ʻashr,نشر في القراآت العشر,Nashr fī al-qirāʼāt al-ʻashr,Q11637
 Nasihat-nâme-yi Muhyî,نصيحت نامه محيي,,,Nasihat-nâme-yi Muhyî,Q39633
@@ -5187,15 +5187,15 @@ Nayl al-saʻādah,نيل السعادة.,Nayl al-saʻādāt fī ʻilm al-maqu
 Naẓm al-Ghāyah al-musammá bi-al-Kifāyah,نظم الغاية المسمى بالكفاية.,Kifāyah naẓm al-Ghāyah,کفاية نظم الغاية,Kifāyah naẓm al-Ghāyah,Q12112
 Nec fonte labra prolui caballino,,Works,,Works,Q5989
 Nec labra fonte prolui caballino,,Works,,Works,Q5989
-Neoplatonic and neopythagorean translations,,,,Neoplatonic translations;Neopythagorean translations,Q3149;Q3159
+Neoplatonic and neopythagorean translations,,,,Neoplatonic translations;Neopythagorean translations,Q3149|Q3159
 Nepo Brunelleschi power of attorney,,,,Power of attorney,Q8176
 Neüe Stadtrecht; Bücher der alten Stadt Prag,,,,Neüe stadtrecht,Q39637
-New Testament,,Bible,,Bible;New testament,Q661;Q655
-"New Testament; in the English translation of John Wycliffe, revised by John Purvey",,Bible,,Bible;New testament,Q661;Q655
-"New Testament. Gospel of St. Matthew and a bilingual Greek/Coptic text, Doxology V 1-39",,Bible.,,Bible;New testament;Gospel of Matthew,Q661;Q655;Q1389
-New Testament in Latin,,Bible,,Bible;New testament,Q661;Q655
+New Testament,,Bible,,Bible;New testament,Q661|Q655
+"New Testament; in the English translation of John Wycliffe, revised by John Purvey",,Bible,,Bible;New testament,Q661|Q655
+"New Testament. Gospel of St. Matthew and a bilingual Greek/Coptic text, Doxology V 1-39",,Bible.,,Bible;New testament;Gospel of Matthew,Q661|Q655|Q1389
+New Testament in Latin,,Bible,,Bible;New testament,Q661|Q655
 New Testament in the translation of John Wycliffe,,Bible.,,Bible,Q661
-New Testament-Psalter,,,,Psalter;New testament,Q660;Q655
+New Testament-Psalter,,,,Psalter;New testament,Q660|Q655
 Niccolò de Marignis power of attorney,,,,Power of attorney,Q8176
 Niccolò de Marignis power of attorney,,,,Power of attorney,Q8176
 Niccolò di Giovanni Machiavelli receipt,,,,Receipt,Q5981
@@ -5258,9 +5258,9 @@ Note of Obligation and Condition,,,,Note of obligation and condition,Q20403
 Note on land transaction,,,,Transaction,Q3683
 Notes,,,,Notes,Q40007
 "Notes, circa 1693, concerning Terra lemnia, Terra Sigillata, and the distillation of metals from them, information obtained from Nicholas Fatio de Duillier (1664-1753)",,,,Notes on distillation of metals,Q17627
-Notes on Aristotle's Ethics and Metaphysics,,,,Nichomachean ethics;Metaphysics (Aristotle),Q6012;Q361
+Notes on Aristotle's Ethics and Metaphysics,,,,Nichomachean ethics;Metaphysics (Aristotle),Q6012|Q361
 Notizie di mercatura /; scritte da Ippolito Libri,,,,Notizie di mercatura,Q39641
-Notulae super Mattheum et Marcum,,,,Bible commentary;Commentary on Matthew;Commentary on Mark,Q1433;Q1346;Q39137
+Notulae super Mattheum et Marcum,,,,Bible commentary;Commentary on Matthew;Commentary on Mark,Q1433|Q1346|Q39137
 "Nova statuta, 1-50 Edward III and 1-12 Richard II",,,,Nova statuta,Q40009
 Novum Testamentum,,Bible,,New testament,Q655
 Novum testamentum domini nostri Jesu Christi,,Bible.,,Bible,Q661
@@ -5299,7 +5299,7 @@ of humanist texts,,,,Humanist texts,Q39649
 of kabbalistic texts,,,,Kabbalistic texts,Q39650
 Old Believer personal anthology of edificatory literature,,,,Anthology,Q1327
 "Old Tenures, Natura brevium and Subject index to the statutes, Accusacions to Wurstede",,,,Miscellany,Q3673
-"Old Testament. Ezekiel, xix.12-xxxix.29",,Bible.,,Bible;Old testament;Book of Ezekiel,Q661;Q664;Q1342
+"Old Testament. Ezekiel, xix.12-xxxix.29",,Bible.,,Bible;Old testament;Book of Ezekiel,Q661|Q664|Q1342
 Old Testament in Latin,,Bible,,Old testament,Q664
 Oleum effusum nomine tuum,,,,Oleum effusum nomine tuum,Q39651
 Omnes ad praeda venient,,,,Omnes ad praeda venient,Q5048
@@ -5311,7 +5311,7 @@ On charms and talismans,,,,On charms and talismans,Q27751
 On Diphthongs,,,,On diphthongs,Q39653
 One leaf of a 13th century Latin Bible,,Bible.,,Bible,Q661
 on Genesis,,,,Book of Genesis,Q7274
-"on Matthew IV, 3-V, 22",,Bible,,Bible;Gospel of Matthew,Q661;Q1389
+"on Matthew IV, 3-V, 22",,Bible,,Bible;Gospel of Matthew,Q661|Q1389
 On the calibration of sundials,,,,On the calibration of sundials,Q39654
 Opera,,,,Opera,Q19943
 Opera omnia,,Works.,,Works,Q5989
@@ -5378,39 +5378,39 @@ Painted manuscript leaves,,,,Painted manuscript leaves,Q27673
 Painting of a Battle between a Man on Horseback and a Man on an Elephant,,,,Painting,Q38348
 Painting of a Couple and Their Attendants in a Domed Alcove,,,,Painting,Q38348
 Painting of a Court Scene with Emperor Akbar,,,,Painting,Q38348
-Painting of a Green Magpie; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348;Q18587
-Painting of a Grey Bird Catching a Fly; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348;Q18587
+Painting of a Green Magpie; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348|Q18587
+Painting of a Grey Bird Catching a Fly; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348|Q18587
 Painting of a Group of Men in a Pavilion,,,,Painting,Q38348
 Painting of a Group Outside a Palace,,,,Painting,Q38348
-Painting of a Hawk Standing; Verses from Sadi,,,,Painting;Sadi verses,Q38348;Q18516
-Painting of a Honey Buzzard; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348;Q18587
-Painting of a Horned Pheasant; Verses from the Divan-i-Hafiz,,,,Painting;Divan-i-Hafiz verses,Q38348;Q18412
+Painting of a Hawk Standing; Verses from Sadi,,,,Painting;Sadi verses,Q38348|Q18516
+Painting of a Honey Buzzard; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348|Q18587
+Painting of a Horned Pheasant; Verses from the Divan-i-Hafiz,,,,Painting;Divan-i-Hafiz verses,Q38348|Q18412
 Painting of a Hunting Scene,,,,Painting,Q38348
 Painting of a Man Offering a Woman a Cup of Wine,,,,Painting,Q38348
 Painting of a Man Offering Fruit to a Woman Under a Tree,,,,Painting,Q38348
 Painting of a Mosque Scene,,,,Painting,Q38348
 Painting of a Mughal Princess and Attendant on a Terrace,,,,Painting,Q38348
-Painting of an Unidentified Bird Standing by Purple Flowers; Arabic Calligraphy,,,,Painting;Persian calligraphy,Q38348;Q18587
-Painting of an Unidentified Gold Bird Standing; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348;Q18587
-Painting of an Unidentified Hawk in Jesses; Verses by Mir Ali Tabrizi,,,,Painting;Verses,Q38348;Q18551
-Painting of an Unidentified Tan and White Bird; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348;Q18587
+Painting of an Unidentified Bird Standing by Purple Flowers; Arabic Calligraphy,,,,Painting;Persian calligraphy,Q38348|Q18587
+Painting of an Unidentified Gold Bird Standing; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348|Q18587
+Painting of an Unidentified Hawk in Jesses; Verses by Mir Ali Tabrizi,,,,Painting;Verses,Q38348|Q18551
+Painting of an Unidentified Tan and White Bird; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348|Q18587
 Painting of a Panther Attacking Two Men on Horseback,,,,Painting,Q38348
-Painting of a Pheasant Pasted on Marbled Paper; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348;Q18587
+Painting of a Pheasant Pasted on Marbled Paper; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348|Q18587
 Painting of a Princess on a Terrace with Attendants,,,,Painting,Q38348
-Painting of a Red Turtle Dove; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348;Q18587
-Painting of a Rose-Chested Bird; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348;Q18587
+Painting of a Red Turtle Dove; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348|Q18587
+Painting of a Rose-Chested Bird; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348|Q18587
 Painting of a Tavern Scene,,,,Painting,Q38348
-Painting of a Unidentified Partridge; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348;Q18587
+Painting of a Unidentified Partridge; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348|Q18587
 Painting of a Woman with Her Attendants Looking in a Mirror,,,,Painting,Q38348
 Painting of a Young Man Kneeling Before a Young Woman,,,,Painting,Q38348
 Painting of a Young Woman under a Tree,,,,Painting,Q38348
 Painting of Christ crowned with thorns,,,,Miniature,Q19998
 Painting of Emperor Jahangir and Attendants by a Stream,,,,Painting,Q38348
 Painting of Men Waiting in Line in a Palace Courtyard,,,,Painting,Q38348
-Painting of Two Brahminy Mynas; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348;Q18587
+Painting of Two Brahminy Mynas; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348|Q18587
 Painting of Two Camels Fighting,,,,Painting,Q38348
 Painting of Two Elephants Fighting,,,,Painting,Q38348
-Painting of Two Men with Hawk; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348;Q18587
+Painting of Two Men with Hawk; Persian Calligraphy,,,,Painting;Persian calligraphy,Q38348|Q18587
 Painting of Two Mullahs in Discussion,,,,Painting,Q38348
 Pakṣatājāgadīśīpatrikā,পক্ষতাজাগদীশীপত্রিকা,Jāgadīśī,,Jāgadīśī,Q27719
 Pakṣatāṭippanī,पक्षताटिप्पनी,Gādādharī,,Gādādharī,Q27605
@@ -5422,7 +5422,7 @@ Pañcabhūtaviveka,पञ्चभूतविवेक,Pañcadaśī,,Pañcadaś
 Pañcādhyāya,पञ्चाध्याय,Rāsapañcādhyāyī,,Rāsapañcādhyāyī,Q27575
 Pañcakośaviveka,पञ्चकोशविवेक,Pañcadaśī,,Pañcadaśī,Q27684
 Pañcakrośīmāhātmya,पञ्चक्रोशीमाहात्म्य,Puranas,,Puranas,Q27588
-Pañcalakṣaṇī,पञ्चलक्षणी,Gādādharī,,Gādādharī;Pañcalakṣaṇī,Q27605;Q38398
+Pañcalakṣaṇī,पञ्चलक्षणी,Gādādharī,,Gādādharī;Pañcalakṣaṇī,Q27605|Q38398
 Pañcalakṣaṇī,पञ्चलक्षणी,Jāgadīśī,,Jāgadīśī,Q27719
 Pañcamāraṇyaka,पञ्चमारण्यक,Aranyakas,,Aranyakas,Q27607
 Paṅcamāranyakam,,Aranyakas,,Aranyakas,Q27607
@@ -5446,7 +5446,7 @@ Papal bull],,,,Papal bull,Q1362
 "Papal bulls relating to the Benedictine abbey of S. Giustina of Padua, 1433-1437",,,,Papal bull,Q1362
 Pāpamocany ekādaśīmāhātmya,पापमोचन्येकादशीमाहात्म्य,Puranas,,Puranas,Q27588
 Papyrus Fragments with Hieroglyphs,,,,Papyrus fragments with hieroglyphs,Q20401
-"Parabole Salomonis; Ecclesiastes, sapientia, cantica, ecclesiasticus cum glossis",,Bible,,Bible;Sapiential Books,Q661;Q38396
+"Parabole Salomonis; Ecclesiastes, sapientia, cantica, ecclesiasticus cum glossis",,Bible,,Bible;Sapiential Books,Q661|Q38396
 Paradoxa,,,,Paradoxa,Q40013
 Paraklētikē,,Octoechos,,Octoechos,Q39668
 "Paralipomenon, single leaves",,Bible,,Bible,Q661
@@ -5465,7 +5465,7 @@ Pasquillus in aulicos,,,,Pasquillus in aulicos,Q4348
 Passionale,,,,Passional,Q40014
 Passionarium omnes quatuor passiones,,,,Passional,Q40014
 Passione del nostro signore cio e del venerdi sancto,,,,Passione del nostro signore,Q7263
-Passion gospels and prayers in Latin,,,,Passion gospels;Prayers,Q38397;Q798
+Passion gospels and prayers in Latin,,,,Passion gospels;Prayers,Q38397|Q798
 "Passion of Christ and apocryphal stories, including translations from the Nicodemus Gospel",,,,Gospel of Nicodemus,Q7264
 Passion of Saint Catherine of Alexandria,,,,Life of Saint Catherine of Alexandria,Q20481
 Passio sancti Blasii ... etc,,,,Passio sancti Blasii,Q3160
@@ -5522,9 +5522,9 @@ Phaedon,,Phaedo.,,Phaedo,Q10855
 Phalaridis Epistolae,,,,Letters of Phalaris,Q823
 Pharsalia,,,,Pharsalia,Q39930
 Pharsalia ad Neronem,,Pharsalia,,Pharsalia,Q39930
-Philosophical and Theological Notes,,,,Philosophical texts;Theological texts,Q20482;Q822
+Philosophical and Theological Notes,,,,Philosophical texts;Theological texts,Q20482|Q822
 Philosophical text,,,,Philosophical text,Q5996
-"Philosophical Text: Aristotle's Physics, or On Generation and Corruption",,,,Physics (Aristotle);De generatione et corruptione,Q371;Q5034
+"Philosophical Text: Aristotle's Physics, or On Generation and Corruption",,,,Physics (Aristotle);De generatione et corruptione,Q371|Q5034
 Phrasebook,,,,Phrasebook,Q39680
 Physica,,,,Physics (Aristotle),Q371
 Physiological material,,,,Physiological text,Q39681
@@ -5547,9 +5547,9 @@ Podestà of Fucecchio order,,,,Order,Q8304
 Podestà of Fucecchio order,,,,Order,Q8304
 Poem,,,,Poetry,Q1330
 Poems,,,,Poetry,Q1330
-"Poems, letters, prose",,,,Poetry;Letters,Q1330;Q5068
+"Poems, letters, prose",,,,Poetry;Letters,Q1330|Q5068
 Poems; manuscript copy written by Philips' friend Sir Edward Dering (1625-1684),,,,Poetry,Q1330
-Poems and epistles; with novellas by other authors,,,,Poetry;Letters;Novellas,Q1330;Q5068;Q38386
+Poems and epistles; with novellas by other authors,,,,Poetry;Letters;Novellas,Q1330|Q5068|Q38386
 Poems based on the Seven Penitential Psalms,,,,Poems on the seven penitential psalms,Q17628
 Poems by Catullus and Tibullus,,,,Poetry,Q1330
 Poems on monastic life,,,,Poetry,Q1330
@@ -5562,13 +5562,13 @@ Polychronicon,,,,Polychronicon,Q1120
 Polyglot compendium of English chronicles,,,,Chronicle,Q1475
 Pontifical,,,,Pontifical,Q1375
 Pontifical (Fragment Kenneth Spencer Research Library. MS 9/2:28),,,,Pontifical,Q1375
-Pontifical and Missal,,,,Pontifical;Missal,Q1375;Q662
+Pontifical and Missal,,,,Pontifical;Missal,Q1375|Q662
 Pontifical bifolium,,,,Pontifical,Q1375
 Pontificalis liber,,Pontificale,,Pontifical,Q1375
 Pontifical of the Abbey of Montier-en-Der,,Pontifical,,Pontifical,Q1375
 Pope Adrian VI bull,,,,Bull,Q1362
 Pope Alexander VI bull,,,,Bull,Q1362
-Pope Boniface VIII and attendants,,,,Legal text;Miniature,Q8041;Q19998
+Pope Boniface VIII and attendants,,,,Legal text;Miniature,Q8041|Q19998
 Pope Clement VII bull,,,,Bull,Q1362
 Pope Gregory XIII papal brief,,,,Bull,Q1362
 Pope Gregory XIV bull,,,,Bull,Q1362
@@ -5640,11 +5640,11 @@ Portrait of an Unidentified Princess Holding a Jeweled Cup and Jug,,,,Portrait,Q
 Portrait of an Unidentified Raja Holding a Flower on a Terrace,,,,Portrait,Q38393
 Portrait of a Princess Holding a Flower and a Berry,,,,Portrait,Q38393
 Portrait of a Prince Standing by a Flowering Shrub,,,,Portrait,Q38393
-Portrait of a Prince with Two Attendants; Persian Calligraphy,,,,Portrait;Persian calligraphy,Q38393;Q18587
+Portrait of a Prince with Two Attendants; Persian Calligraphy,,,,Portrait;Persian calligraphy,Q38393|Q18587
 Portrait of Aqa Muhammad Sadiq Holding a Fruit,,,,Portrait,Q38393
 Portrait of Asaf Jah,,,,Portrait,Q38393
 Portrait of a Seated Man with Bow Smoking a Hookah,,,,Portrait,Q38393
-Portrait of a Seated Woman Holding a Flower; Persian Calligraphy,,,,Portrait;Persian calligraphy,Q38393;Q18587
+Portrait of a Seated Woman Holding a Flower; Persian Calligraphy,,,,Portrait;Persian calligraphy,Q38393|Q18587
 Portrait of a Woman Sitting on a Rug Holding a Bouquet,,,,Portrait,Q38393
 Portrait of a Young Man Wearing Orange and Green,,,,Portrait,Q38393
 Portrait of a Young Man with Hookah,,,,Portrait,Q38393
@@ -5652,12 +5652,12 @@ Portrait of a Young Mughal Prince Holding a Flower,,,,Portrait,Q38393
 Portrait of a Young Nobleman on a Terrace with Attendant,,,,Portrait,Q38393
 Portrait of Emperor Akbar Holding a Hawk in Jesses,,,,Portrait,Q38393
 Portrait of Emperor Akbar II,,,,Portrait,Q38393
-Portrait of Emperor Akbar with his Hawk; Persian Calligraphy,,,,Portrait;Persian calligraphy,Q38393;Q18587
+Portrait of Emperor Akbar with his Hawk; Persian Calligraphy,,,,Portrait;Persian calligraphy,Q38393|Q18587
 Portrait of Emperor Aurangzeb on His Throne,,,,Portrait,Q38393
 Portrait of Emperor Aurangzeb on His Throne on a Terrace,,,,Portrait,Q38393
 Portrait of Emperor Aurangzeb Standing with Halo,,,,Portrait,Q38393
-Portrait of Emperor Babur Seated on a Terrace; Persian Calligraphy,,,,Portrait;Persian calligraphy,Q38393;Q18587
-Portrait of Emperor Jahangir as a Young Prince; Persian Poetry,,,,Portrait;Persian poetry,Q38393;Q18530
+Portrait of Emperor Babur Seated on a Terrace; Persian Calligraphy,,,,Portrait;Persian calligraphy,Q38393|Q18587
+Portrait of Emperor Jahangir as a Young Prince; Persian Poetry,,,,Portrait;Persian poetry,Q38393|Q18530
 Portrait of Emperor Muhammad Shah with Blue Halo,,,,Portrait,Q38393
 Portrait of Guru Hargobind on Horseback,,,,Portrait,Q38393
 Portrait of Guru Nanak and a Musician,,,,Portrait,Q38393
@@ -5692,8 +5692,8 @@ Portrait of Unidentified Mughal General with Shield,,,,Portrait,Q38393
 "Portrait of Zafar Ali Khan, Who Died in Battle",,,,Portrait,Q38393
 Postilla epistolarum dominicalium,,,,Postilla epistolarum dominicalium,Q19971
 Postillae super evangelia de tempore,,,,Postillae super evangelia de tempore,Q39687
-Postilla in libro Ecclesiastico,,,,Bible commentary;Commentary on Ecclesiastes,Q1433;Q38371
-"Postilla litteralis in vetus testamentum, pars",,,,Bible commentary;Commentary on the Old testament,Q1433;Q27665
+Postilla in libro Ecclesiastico,,,,Bible commentary;Commentary on Ecclesiastes,Q1433|Q38371
+"Postilla litteralis in vetus testamentum, pars",,,,Bible commentary;Commentary on the Old testament,Q1433|Q27665
 Postilla super totam Bibliam,,,,Bible commentary,Q1433
 Power of attorney,,,,Power of attorney,Q8176
 Practica geometriae,,,,Geometry text,Q12727
@@ -5713,7 +5713,7 @@ Pratiyogyasamnādhikaraṇa,प्रतियोग्यसम्नाधि�
 Pratyaktattvaviveka,प्रत्यक्तत्त्वविवेक,Pañcadaśī,,Pañcadaśī,Q27684
 Pratyaktatvaviveka,प्रत्यक्तत्वविवेक,Pañcadaśī,,Pañcadaśī,Q27684
 Pratyaṅgirāstotra,,Tantras,,Tantras,Q27776
-Prauḍhamanoramā ; Vaidikīprakriyā,,,,Prauḍhamanoramā;Vaidikīprakriyā,Q27572;Q38399
+Prauḍhamanoramā ; Vaidikīprakriyā,,,,Prauḍhamanoramā;Vaidikīprakriyā,Q27572|Q38399
 Prauḍhmanoramā,प्रौढ्मनोरमा,Prauḍhamanoramā,,Prauḍhamanoramā,Q27572
 Pravacanasāroddhārasūtra,प्रवचनसारोद्धारसूत्र,Pravacanasāroddhāra,,Pravacanasāroddhāra,Q27704
 Prayāgamāhātmya,प्रयागमाहात्म्य,Puranas,,Puranas,Q27588
@@ -5735,10 +5735,10 @@ Prayer roll,,,,Prayer roll,Q39691
 Prayers,,,,Prayers,Q798
 "Prayers, with rubrics in French",,,,Prayers,Q798
 Prayers and commentary,,,,Prayer book,Q1486
-Prayers and devotional poems,,,,Prayers;Devotional texts,Q798;Q5966
-Prayers and hymns to the Virgin Mary,,,,Prayers;Hymns,Q798;Q3715
-Prayers and Qur'ānic verses,,,,Prayers;Qur'anic verses,Q798;Q12720
-Prayers and Qur'ānic verses,,,,Prayers;Qur'anic verses,Q798;Q12720
+Prayers and devotional poems,,,,Prayers;Devotional texts,Q798|Q5966
+Prayers and hymns to the Virgin Mary,,,,Prayers;Hymns,Q798|Q3715
+Prayers and Qur'ānic verses,,,,Prayers|Qur'anic verses,Q798|Q12720
+Prayers and Qur'ānic verses,,,,Prayers|Qur'anic verses,Q798|Q12720
 Prayers based on the Psalms,,,,Prayers,Q798
 Prayers in honor of virgins,,,,Prayers,Q798
 Prayogaratnam,,Prayogaratna,,Prayogaratna,Q27783
@@ -5773,11 +5773,11 @@ Procès criminel contre Girard Didelot blasphémateur (1569) (Dossier original),
 Processi contra il vescovo di Valva del 1500 ... etc,,,,Processi contra il vescovo,Q5020
 Processional,,,,Processional,Q1336
 "Processional, Sarum use",,Processional (Salisbury),,Processional,Q1336
-Processional; Astronomical Text binding fragment,,,,Processional;Astronomical text;Binding fragment,Q1336;Q38381;Q10843
+Processional; Astronomical Text binding fragment,,,,Processional;Astronomical text;Binding fragment,Q1336|Q38381|Q10843
 Processional (Cistercian use),,Processional,,Processional,Q1336
 Processional (Roman rite),,Processionale,,Processional,Q1336
 Processional hymns and excerpts of other texts,,Processional,,Processional,Q1336
-"Processional or Gradual: Holy Saturday and Easter, with neumes",,,,Processional;Gradual,Q1336;Q1121
+"Processional or Gradual: Holy Saturday and Easter, with neumes",,,,Processional;Gradual,Q1336|Q1121
 Processi per la signora Francesca di Vincenzo de' Medici... etc,,,,Processi per la signora Francesca,Q7011
 "Processo contra Ysabel Rodriguez, natural dela Salceda en Portugal, muger de Manuel Diaz, mercader de Mexico ... etc",,,,Processo contra Ysabel Rodriguez,Q7825
 Processus? honorabilis procuratoris fiscalis heretice et apostatice pravitatis Archiepiscopatus civitatis Ceserauguste contra Johannem de Gurrea Pelliparinum habitatorem ville Exee militum super causa fidei,,,,Processus honorabilis procuratoris fiscalis,Q4342
@@ -5785,7 +5785,7 @@ Proces verbal de la response faicte sur les lectres de Messieurs les Agens Gener
 Pro Cluentio,,,,Pro Cluentio,Q1382
 Profectus religiosorum,,De exterioris et interioris hominis compositione,,De exterioris et interioris hominis compositione,Q39696
 Professiones fratrum qui professi sunt in isto conventu S. Dominici de Benfica ab anno domini 1551,,,,Professions,Q39697
-Profession ritual and Benedictine rule for nuns,,,,Ritual;Benedictine rule,Q17539;Q39140
+Profession ritual and Benedictine rule for nuns,,,,Ritual;Benedictine rule,Q17539|Q39140
 Progenies regum Britanniae,,,,Progenies regum Britanniae,Q39698
 Prognostication manual,,,,Prognostication manual,Q39699
 Prolegomena in Aristotelem,,,,Prolegomena in Aristotelem,Q4354
@@ -5805,12 +5805,12 @@ Pros mathēmatikous ... etc,,,,Pros mathēmatikous,Q3151
 Prosper of Aquitaine,,,,Life of Saint Prosper of Aquitaine,Q20419
 "Prothocolus abreuiatura, copies of notarial instruments documenting purchases, sales, debts, and last wills and testaments, etc",,,,Legal document,Q3666
 Protocol-book B,,,,Protocols,Q6024
-"Proverbs 13:21 - 14:18, with marginal and interlinear commentary",,,,Bible;Book of Proverbs,Q661;Q20508
+"Proverbs 13:21 - 14:18, with marginal and interlinear commentary",,,,Bible;Book of Proverbs,Q661|Q20508
 Provinciale secundum provincias,,,,Provinciale secundum provincias,Q7556
 Psalm 117:16-28,,,,Psalms,Q5972
 "Psalm 143:9 - end, with canticles",,,,Psalms,Q5972
 Psalm 73:2-23,,,,Psalms,Q5972
-Psalmi penitentiales septem,,Book of hours,,Book of hours;Seven Penitential Psalms,Q795;Q39139
+Psalmi penitentiales septem,,Book of hours,,Book of hours;Seven Penitential Psalms,Q795|Q39139
 Psalms,,,,Psalms,Q5972
 "Psalms 10:7 - 12:6, with contemporary and later interlinear and marginal glosses",,,,Psalms,Q5972
 Psalms 102:14 - 103:4,,,,Psalms,Q5972
@@ -5841,11 +5841,11 @@ Psalter (Smith College Ms. 291),,,,Psalter,Q660
 Psalter and breviary,,,,Psalter and breviary,Q39704
 Psalter and Litany,,,,Psalter and Litany,Q12726
 Psalter and prayers,,,,Psalter,Q660
-Psalter bifolium,,Bible.,,Bible;Psalter,Q661;Q660
+Psalter bifolium,,Bible.,,Bible;Psalter,Q661|Q660
 Psalter commentary,,,,Psalter,Q660
 Psalter for choir use,,,,Psalter,Q660
-Psalter fragment,,Bible.,,Bible;Psalter,Q661;Q660
-Psalter-Hours,,,,Psalter;Book of hours,Q660;Q795
+Psalter fragment,,Bible.,,Bible;Psalter,Q661|Q660
+Psalter-Hours,,,,Psalter;Book of hours,Q660|Q795
 "Psalter-Hours, use of Sarum",,,,Psalter-Hours,Q39705
 Psalter in Church Slavonic,,Bible,,Psalter,Q660
 Psalter in Latin,,,,Psalter,Q660
@@ -5853,14 +5853,14 @@ Psalter in Syriac and Arabic,,Bible,,Psalter,Q660
 Psalterium,,,,Psalter,Q660
 Psalterium abreviatum,,,,Psalms,Q5972
 Psalterium cum canticis,,,,Psalter,Q660
-Psalter leaf,,Bible.,,Bible;Psalter,Q661;Q660
-Psalter of the Breviary,,,,Psalter;Breviary,Q660;Q657
+Psalter leaf,,Bible.,,Bible;Psalter,Q661|Q660
+Psalter of the Breviary,,,,Psalter;Breviary,Q660|Q657
 Psalter of the Virgin,,,,Psalter,Q660
-Psalter or Breviary,,,,Psalter;Breviary,Q660;Q657
+Psalter or Breviary,,,,Psalter;Breviary,Q660|Q657
 Psalter with canticles,,Psalter,,Psalter,Q660
 "Psalter with canticles, Latin and Middle English",,Bible.,,Psalter,Q660
 Psalter with devotional apparatus,,Bible,,Psalter,Q660
-Psalter with Hours of the Virgin,,Book of hours,,Psalter;Book of hours,Q660;Q795
+Psalter with Hours of the Virgin,,Book of hours,,Psalter;Book of hours,Q660|Q795
 "Pseudo-Gilbertus, Liber Sex Principiorum",,,,Liber sex Principiorum,Q27571
 "Pseudo-Gilbertus, Liber Sex Principiorum; manuscript leaf",,,,Liber sex Principiorum,Q27571
 "Ptolemy, Geographia; cartographic material",,Geographia,,Geography,Q39706
@@ -6072,7 +6072,7 @@ Religious manual,,,,Religious text,Q1465
 Religious prose and verse,,,,Religious texts,Q5037
 Religious stories,,,,Religious texts,Q40023
 Religious text,,,,Religious text,Q1465
-Religious tracts and sermons,,,,Sermons;Sermons,Q1400;Q1400
+Religious tracts and sermons,,,,Sermons;Sermons,Q1400|Q1400
 Religious verse,,,,Religious verse,Q20463
 Remission of land taxes to the Cistercian order,,,,Remission,Q39730
 Renaissance miscellany,,,,Miscellany,Q3673
@@ -6084,7 +6084,7 @@ Repertorium juris civilis (Catalog of Civil Law),,,,Repertorium juris civilis,Q1
 Report of a miracle,,,,Miracles,Q39731
 Report on Switzerland,,,,Report on Switzerland,Q39732
 Report on the conclave electing Alexander VII,,,,Report on the conclave electing Alexander VII,Q39733
-"Reports, letters, discourses and treaties",,,,Report;Letters;Discourses;Treaties,Q7243;Q5068;Q7559;Q7563
+"Reports, letters, discourses and treaties",,,,Report;Letters;Discourses;Treaties,Q7243|Q5068|Q7559|Q7563
 Requesens family papers,,,,Family documents,Q6997
 Requiem Mass and Office for the dead,,,,Office for the dead,Q17604
 "Rerum vulgarium fragmenta, etc",,Rime,,Rime sparse,Q40024
@@ -6201,7 +6201,7 @@ Rule,,,,Rules,Q1432
 "Rule, statutes, and customs of the Teutonic Order",,,,"Rule, statutes, and customs",Q5041
 "Rule and testament of St. Clare of Assisi, in Dutch",,,,Rule of Saint Clare,Q40029
 Rule of Living,,,,Rule of living,Q1335
-Rule of Saint Augustine; Sermon on Matthew 25:6,,,,Regula (Augustine);Sermons,Q5976;Q1400
+Rule of Saint Augustine; Sermon on Matthew 25:6,,,,Regula (Augustine);Sermons,Q5976|Q1400
 Rule of St. Augustine /,,Regula,,Regula (Augustine),Q5976
 Rule of St. Benedict,,Regula,,Regula,Q5997
 Rule of St. Clare,,Rule of Saint Clare.,,Rule of Saint Clare,Q40029
@@ -6210,7 +6210,7 @@ Rule of the Heilig-Geist-Spital in Eichstätt,,,,Rule of the heilig Geist,Q5021
 Rule of the Heilig-Geist-Spital in Eichstätt,,,,Rule of the heilig Geist,Q5021
 "Rule of the order of the Jesuati of San Giusto alle mura, Florence",,,,Rule of Jesuati of San Giusto alle mura,Q20001
 Rule of the Third Order of Franciscans,,,,Franciscan Rule,Q39748
-Rules and homilies for postulants at a Dominican convent,,,,Rules;Homilies,Q1432;Q1246
+Rules and homilies for postulants at a Dominican convent,,,,Rules;Homilies,Q1432|Q1246
 Rules of the Brotherhood of the Archangel Michael,,,,Rules of the Brotherhood of the Archangel Michael,Q1384
 Rules of the confraternity and school,,,,Rules,Q1432
 Rumori di Napoli in tempo del governo del vicere Don Pietro di Toledo,,,,Rumori di Napoli,Q39749
@@ -6380,7 +6380,7 @@ Selections of works against heresy,,,,Texts against heresy,Q39766
 Semper ego auditor tantum nunquam ne reponam,,Saturae,,Saturae,Q39935
 Senjas y carta de hidalguia de Diego Ximenes de Ençiso Vizino,,,,Senjas y carta de hidalguia de Diego Ximenes de Ençiso Vizino,Q39767
 Sentencia contra el Almine,,,,Sentencia contra el almine,Q7009
-"Sentencias y carta executoria de hidalguía apedimento da Alonso de Angulo, vezino de la villa de Atienca",,,,Carta executoria;Sentences,Q19952;Q19996
+"Sentencias y carta executoria de hidalguía apedimento da Alonso de Angulo, vezino de la villa de Atienca",,,,Carta executoria;Sentences,Q19952|Q19996
 Sentencie magistri Ugonis ordinis predicatorum cardinalis,,,,Sentence,Q8390
 "Sententia declaratoria contra Elisabeth praetensam Angliae reginam; et ei ad haereticos qua etiam declarantur absoluti omnes subditi a Turamento fidelitatis, et quocunque alio debito, et deinceps obedientes anathemate illaqueantur",,,,Sententia declaratoria contra Elisabeth,Q39768
 Sententiae,,,,Sentences,Q1119
@@ -6392,7 +6392,7 @@ Sentenzia arbitraria ... por los conzejos de Quintana? y Valdenozeda y Lapuente,
 "Sentenzia arbitraria ... sobre el monte de Axzaedo, y otras cosas ano 1459 ante Juan Alfonso de Bene",,,,Sentenzia arbitraria,Q7000
 Sentenzie,,,,Sentences,Q1119
 Sentiarium libri quatuor,,,,Sentences,Q1119
-Septem psalmi penitentiales,,Bible,,Bible;Seven Penitential Psalms,Q661;Q39139
+Septem psalmi penitentiales,,Bible,,Bible;Seven Penitential Psalms,Q661|Q39139
 Septem Psalmi poenitentiales,,,,Seven Penitential Psalms,Q40035
 Sequentiary with commentary,,,,Sequentiary,Q1390
 Sequitur ad complectorium,,,,Ad complectorium,Q39770
@@ -6421,7 +6421,7 @@ Sermones anonymi,,,,Sermons,Q1400
 Sermones de mortuis secundum evangelia dominicalia /,,,,Sermons,Q1400
 Sermones de sanctis,,,,Sermons,Q1400
 "Sermones de tempore, sanctis et variis causis",,,,Sermons,Q1400
-Sermones de Tempore et de Sanctis; Summa Sermonum (fragment),,,,Sermones de tempore et de sanctis;Summa sermonum,Q39771;Q39772
+Sermones de Tempore et de Sanctis; Summa Sermonum (fragment),,,,Sermones de tempore et de sanctis;Summa sermonum,Q39771|Q39772
 Sermones de Tempore et de Sanctis ; Summa Sermonum (fragment),,,,Summa sermonem,Q10837
 Sermones de tribus partibus penitencie ... etc,,,,Sermons,Q1400
 Sermones de vitiis et de penitentia,,,,Sermons,Q1400
@@ -6444,7 +6444,7 @@ Sermons,,,,Sermons,Q1400
 Sermons (Manuscript Kenneth Spencer Research Library. MS 9/1:A21),,,,Sermons,Q1400
 Sermons (Manuscript Kenneth Spencer Research Library. MS 9/1:B9),,,,Sermons,Q1400
 Sermons against the Turks,,,,Sermons against the Turks,Q39774
-Sermons and Epistles,,,,Sermons;Epistles,Q1400;Q1466
+Sermons and Epistles,,,,Sermons;Epistles,Q1400|Q1466
 Sermons and selections from Meditationes de passione Christi,,,,Meditationes de passione Christi,Q39775
 "Sermons by Ephraem, Syrus, Paulinus Aquileiensis' Liber exhortationis and De vita christiana",,,,Sermons,Q1400
 "Sermons by Johann Herolt and Peregrinus, de Opole",,,,Sermons,Q1400
@@ -6655,10 +6655,10 @@ Simone di Nicholo Petroni petition,,,,Petition,Q8048
 Simone di San Miniato will,,,,Will,Q1422
 Ṣināʻat al-jabr wa-al-muqābalah,صناعة الجبر والمقابلة.,Risālah fī al-barāhīn ʻalá masāʼil al-jabr wa-al-muqābalah,رسالة في البراهين على مسائل الجبر والمقابلة,Risālah fī al-barāhīn ʻalá masāʼil al-jabr wa-al-muqābalah,Q27843
 Sinceri testimoni di vn cuore segace di belta incomparabile; dedicati all' illustrissima Signora mia Colendissima la Signora Claudia Del Bene,,,,Poetry,Q1330
-Single initial A from a 15th-century antiphonal,,,,Antiphonary;Initial,Q654;Q20384
-Single initial cut from a 15th-century missal,,,,Missal;Initial,Q662;Q20384
-Single initial D cut from a 16th-century antiphonal,,,,Antiphonary;Initial,Q654;Q20384
-Single initial T cut from a 15th-century antiphonal,,,,Antiphonary;Initial,Q654;Q20384
+Single initial A from a 15th-century antiphonal,,,,Antiphonary;Initial,Q654|Q20384
+Single initial cut from a 15th-century missal,,,,Missal;Initial,Q662|Q20384
+Single initial D cut from a 16th-century antiphonal,,,,Antiphonary;Initial,Q654|Q20384
+Single initial T cut from a 15th-century antiphonal,,,,Antiphonary;Initial,Q654|Q20384
 Single leaf from a 10th-/11th-century Qur'an,,Qur'an (Manuscript Boston Public Library. MS pb Med.238b),,Qur'an,Q40044
 Single leaf from a 10th-century Qur'an,,Qur'an (Manuscript Boston Public Library.MS pb Med.238a),,Qur'an,Q40044
 Single leaf from a 12th-century lectionary,,,,Lectionary,Q663
@@ -6683,7 +6683,7 @@ Single leaf from a late 15th-century biblical commentary,,,,Bible commentary,Q14
 Single leaf from a late 15th-century book of hours,,,,Book of hours,Q795
 Single leaf from a late 15th- or early 16th-century evangeliarium,,,,Evangelary,Q39790
 Single leaf from a mid-15th-century lectionary,,,,Lectionary,Q663
-Single leaf from an unidentified 15th-century commentary on Isaiah 3 and 4,,,,Bible commentary;Commentary on Isaiah,Q1433;Q38370
+Single leaf from an unidentified 15th-century commentary on Isaiah 3 and 4,,,,Bible commentary;Commentary on Isaiah,Q1433|Q38370
 Single leaf from Les fais et les dis des Romains et de autres gens,,Factorum et dictorum memorabilium libri IX,,Factorum et dictorum memorabilium libri IX,Q1469
 Single leaf with illustration,,,,Illustrated leaf,Q27784
 Single leaves from Syriac manuscripts,,,,Syriac manuscripts,Q39791
@@ -6728,7 +6728,7 @@ Somme le roi,,Somme des vices et vertus,,Somme le roi,Q7515
 Sompnium vurdavii,,Somnium viridarii,,Somnium viridarii,Q39797
 "Sonetti, Canzioni, Trionfi",,,,Poetry,Q1330
 "Sonetti, capitoli, canzoni, et madrigali di Ms. Pietro Bembo",,,,Poetry,Q1330
-Song of Solomon and Ecclesiastes,,Bible,,Bible;Song of Solomon;Ecclesiastes,Q661;Q38389;Q6052
+Song of Solomon and Ecclesiastes,,Bible,,Bible;Song of Solomon;Ecclesiastes,Q661|Q38389|Q6052
 Song ren shi you jing hua,宋人詩囿精華 :,,,Song ren shi you jing hua,Q39798
 Sonnets,,,,Sonnets,Q39799
 Spandakārikā,,Spandakārikā,,Spandakārikā,Q27833
@@ -6859,7 +6859,7 @@ Summa de matrimonio,,,,Summa de matrimonio,Q39812
 Summa de poenitentia,,,,Summa de poenitentia,Q363
 Summa de poenitentiae,,,,Summa penitentiae,Q39969
 Summa de poenitentia et matrimonio,,Summa de poenitentia et matrimonio,,Summa de poenitentia et matrimonio,Q40045
-Summa de virtutibus (Treatise on the virtues); Summa vitiorum (Treatise on the vices),,,,Summa de virtutibus;Summa vitiorum,Q19966;Q19954
+Summa de virtutibus (Treatise on the virtues); Summa vitiorum (Treatise on the vices),,,,Summa de virtutibus;Summa vitiorum,Q19966|Q19954
 Summa de vitiis,,Summa de vitiis,,Summa de vitiis,Q5074
 Summa dictaminis ...etc,,,,Summa dictaminis,Q7267
 Summa metrica,,,,Summa metrica,Q7572
@@ -7030,9 +7030,9 @@ The Canterbury tales,,,,Canterbury tales,Q12793
 The churl and the bird,,,,The churl and the bird,Q16437
 The clergy may not hold property,,,,Miscellany,Q3673
 The first booke of Modus tenendi Parliamentum apud Anglos ...,,,,Modus tenendi Parliamentum apud Anglos,Q17545
-The four gospels in Greek,,Bible,,Bible;Gospels,Q661;Q6034
-The four gospels in Greek with commentary,,Bible,,Bible;Gospels;Bible commentary,Q661;Q6034;Q1433
-The gospel of Mark,,Bible,,Bible;Gospel of Mark,Q661;Q1347
+The four gospels in Greek,,Bible,,Bible;Gospels,Q661|Q6034
+The four gospels in Greek with commentary,,Bible,,Bible;Gospels;Bible commentary,Q661|Q6034|Q1433
+The gospel of Mark,,Bible,,Bible;Gospel of Mark,Q661|Q1347
 "The history of Rama, single leaf",,Râmâyaṇa (Old Javanese kakawin),,Râmâyaṇa,Q39822
 The life and death of our saviour Jesus Christ; wrote very curiously,,,,The life and death of our saviour Jesus Christ,Q39823
 "The life and death of Sir Thomas Moore knight, sometimes Lord Chancellour of Englande",,,,The life and death of Sir Thomas Moore,Q39824
@@ -7056,7 +7056,7 @@ Theological Treatise on Love as a Virtue,,,,Theological text,Q5950
 Theological Treatise on the State of Man Before Sin,,,,Theological text,Q5950
 Theological Treatise on Virtues,,,,Theological text,Q5950
 Theological works,,,,Theological texts,Q822
-Theological works of Richard of St. Victor and Bernard of Clairvaux,,,,Theological texts;Works of Richard of Saint Victor;Works of Bernard of Clairvaux,Q822;Q38409;Q38410
+Theological works of Richard of St. Victor and Bernard of Clairvaux,,,,Theological texts;Works of Richard of Saint Victor;Works of Bernard of Clairvaux,Q822|Q38409|Q38410
 "The opinion of ye L. Gray, Sr Francis Knowles, Sr John Norris, Sr Rich. Bingham, Sr Roger Willms and others, what places were most meete to be done to make head against him with theire answere to certeine other propositions and heades set downe by my LLo. of the Councell",,,,Lists of English ports,Q39827
 "The Ordinary of Christian Men, printed by Wynkyn de Worde, 1502",,,,The ordinary of Christian men,Q20374
 Theoricae novae planetarum ... etc,,,,Astronomical text,Q38381
@@ -7071,19 +7071,19 @@ The romance of Troilus and Criseida,,,,Troilus and Criseida,Q1392
 Thesaurus pauperum ... etc,,,,Thesaurus pauperum,Q348
 Théseus de Cologne,,,,Théseus de Cologne,Q39830
 The siege of Thebes,,,,The siege of Thebes,Q39831
-The statuts and ordynicys of the most noble ordre of saynte George named the gartier,,,,Statute;Ordinances,Q7024;Q12786
+The statuts and ordynicys of the most noble ordre of saynte George named the gartier,,,,Statute;Ordinances,Q7024|Q12786
 The voyages and travels of Sir John Mandeville /,,Itinerarium.,,Voyages and travels,Q5952
 Þhe lyf and martirdom of seynt kateryne virgyne and martir,,,,Life of Saint Catherine of Alexandria,Q20481
 Thomas Campegius iuris utriusque doctor dei,,,,Thomas Campegius iuris utriusque doctor dei,Q39832
 Three devotional works,,,,Devotional texts,Q5966
 Three itineraries,,,,Itinerary,Q6019
 Three leaves from a noted breviary,,Breviary,,Breviary,Q657
-"Three legal treatises on civil and ecclesiastical law, with medicinal recipes, and notes and accounts related to the quartering of soldiers, probably in and near Hertfordshire (Broxbourne, Hoddesdon, and Epping), dated from 1639-1647",,,,Legal text;Medicinal recipes,Q8041;Q17546
+"Three legal treatises on civil and ecclesiastical law, with medicinal recipes, and notes and accounts related to the quartering of soldiers, probably in and near Hertfordshire (Broxbourne, Hoddesdon, and Epping), dated from 1639-1647",,,,Legal text;Medicinal recipes,Q8041|Q17546
 Three Marys at the tomb,,,,Historiated initial,Q10850
 Three poems on piety,,,,Three poems on piety,Q18523
 Three poems on piety.,,,,Three poems on piety,Q18523
-Three treatises on astronomy and arithmetic,,,,Astronomical texts;Mathematical texts,Q3129;Q38402
-Three treatises on astronomy and arithmetic],,,,Astronomical texts;Mathematical texts,Q3129;Q38402
+Three treatises on astronomy and arithmetic,,,,Astronomical texts;Mathematical texts,Q3129|Q38402
+Three treatises on astronomy and arithmetic],,,,Astronomical texts;Mathematical texts,Q3129|Q38402
 Tian ma shan fang yi gao /,天馬山房遺稿 /,Selections.,,Selections,Q12769
 Tianmu xian sheng ji,天目先生集 :,,,Tianmu xian sheng ji,Q39833
 Tiantai Lin Gongfu xian sheng wen ji,天台林公輔先生文集.,Selections.,,Selections,Q12769
@@ -7092,7 +7092,7 @@ Tīmūrnāmah,[تيمورنامه],,,Tīmūrnāmah,Q3696
 Tīmūrnāmah.,[تيمورنامه],,,Tīmūrnāmah,Q3696
 Tituli Metrici de S.o Martino or Sylloge Epigraphica Turonensis de Sancto Martino,,,,Sylloge epigraphica Turonensis de S. Martino,Q1420
 Titus Flavius et alii opera tragica manuscripta,,,,Titus Flavius et alii opera tragica,Q7815
-Tobias (History of Tobias),,,,Bible;Book of Tobit,Q661;Q19991
+Tobias (History of Tobias),,,,Bible;Book of Tobit,Q661|Q19991
 to Christofore Felici,,,,Letter,Q1454
 Tōiki dentō mokuroku,東域傳燈目錄 :,,,Tōiki dentō mokuroku,Q40051
 Tōiki dentō mokuroku,東域傳燈目錄 :,,,Tōiki dentō mokuroku,Q40051
@@ -7222,8 +7222,8 @@ Two letters concerning the territories of the late Amaury de Sevrac,,,,Letters,Q
 Two mounted Qurʼān leaves,,Qurʼan.,قرآن.,Qurʼan,Q3697
 Two mounted Qurʼān leaves],,Qurʼan.,قرآن.,Qurʼan,Q3697
 Two Persian miniatures,,,,Miniature,Q19998
-"Two treatises on the nobility by Werner Rolevinck and Jean Gerson, and selected passages from Poggio Bracciolini's Invectivae",,,,Treatises on the nobility;Invectivae,Q17568;Q5971
-Two vellum manuscript leaves with anthropomorphized capitals from an antiphonal,,,,Antiphonary;Inhabited Initial,Q654;Q19933
+"Two treatises on the nobility by Werner Rolevinck and Jean Gerson, and selected passages from Poggio Bracciolini's Invectivae",,,,Treatises on the nobility;Invectivae,Q17568|Q5971
+Two vellum manuscript leaves with anthropomorphized capitals from an antiphonal,,,,Antiphonary;Inhabited Initial,Q654|Q19933
 Two works on astronomy in Persian,,,,Astronomical texts,Q3129
 Udārarāghavamahākāvya,उदारराघवमहाकाव्य,Udārarāghava,,Udārarāghava,Q27698
 Udu tyaṃ jātavedasaṃ devaṃ,उदुत्यंजातवेदसंदेवं,Vedas,,Vedas,Q27715
@@ -7236,13 +7236,13 @@ Una epistola ma[n]data p[er] uno seruo di dio a la prior e suore del monistiero 
 Undetermined,,,,Unknown,Q19938
 undetermined,,,,Unknown,Q19938
 Unfinished Drawing of a Man Holding a Staff,,,,Unfinished drawing,Q18477
-Unfinished Drawing of a Man with a Hookah; Drawing of Musicians,,,,Unfinished drawing;Drawing,Q18477;Q20466
+Unfinished Drawing of a Man with a Hookah; Drawing of Musicians,,,,Unfinished drawing;Drawing,Q18477|Q20466
 Unfinished Drawing of Heads in Profile,,,,Unfinished drawing,Q18477
 Unfinished Drawing of Mullahs,,,,Unfinished drawing,Q18477
 Unfinished Drawing of Shah Abbas,,,,Unfinished drawing,Q18477
 Unfinished Drawing of the Faces of Mughal Emperors,,,,Unfinished drawing,Q18477
 Unfinished Painting of an Emperor on His Throne,,,,Unfinished painting,Q18461
-Unfinished Painting of a Seated Man Wearing a Taqiyah; Unfinished Drawing of a Woman with a Jeweled Nose Ring,,,,Unfinished painting;Unfinished drawing,Q18461;Q18477
+Unfinished Painting of a Seated Man Wearing a Taqiyah; Unfinished Drawing of a Woman with a Jeweled Nose Ring,,,,Unfinished painting;Unfinished drawing,Q18461|Q18477
 Università de' mercanti minutes,,,,Minutes,Q8037
 Università de' mercanti minutes,,,,Minutes,Q8037
 Unknown,,,,Unknown,Q19938
@@ -7360,7 +7360,7 @@ Vitae patrum (Lives of the Fathers),,,,Lives of the fathers,Q1429
 Vitae sanctorum,,,,Lives of the saints,Q1483
 Vitae Sanctorum: Saints Remigius and Dionysius (Remy and Denis),,,,Lives of Sts. Remy and Denis,Q20420
 Vita et gesti Alexandri Magni,,,,Life and miracles of Alexander the Great,Q17620
-"Vitae XII caesarium (Lives of the twelve caesars), fragment and Book of Hours leaf",,,,Lives of the twelve Caesars;Book of hours,Q20027;Q795
+"Vitae XII caesarium (Lives of the twelve caesars), fragment and Book of Hours leaf",,,,Lives of the twelve Caesars;Book of hours,Q20027|Q795
 Vita Petrarce,,,,Life of Petrarch,Q39872
 Vita S. Pauli primi eremitae,,,,Life of Saint Paul,Q39873
 Vita Sanctae Katharinae de Alexandria,,,,Life of Catherine of Alexandria,Q5070
@@ -7409,26 +7409,26 @@ Will?,,,,Will,Q1422
 Will of Aethelgifu,,,,Will of Aethelgifu,Q12722
 Will of Johanna Girard,,,,Will,Q1422
 Wiqāyat al-riwāyah /,وقاية الرواية /,,,Wiqāyat al-riwāyah,Q11691
-Wisdom of Solomon,,Bible,,Bible;Wisdom of Solomon,Q661;Q38366
+Wisdom of Solomon,,Bible,,Bible;Wisdom of Solomon,Q661|Q38366
 Wisdom personified,,,,Miniature,Q19998
 Wooden writing tablet for teaching grammar and religion,,,,Wooden writing tablet,Q27569
 Wooden writing tablet for teaching grammar and religion],,,,Wooden writing tablet,Q27569
 Works,,,,Works,Q5989
-Works and days; The shield of Heracles ; Theogony,,Works,,Works and days;Shield of Heracles;Theogony,Q39882;Q39883;Q39884
+Works and days; The shield of Heracles ; Theogony,,Works,,Works and days;Shield of Heracles;Theogony,Q39882|Q39883|Q39884
 "Works by Aegidius Romanus [i.e. Giles of Rome, Archbishop of Bourges] and Nicholas Trevet",,,,Works,Q5989
 Works by and attributed to Ovid,,,,Works of Ovid,Q39885
 Works by Augustine and Julianus Pomerius,,,,Works,Q5989
-Works by Ephraem and othe church fathers,,,,Works;Patristic texts,Q5989;Q20452
+Works by Ephraem and othe church fathers,,,,Works;Patristic texts,Q5989|Q20452
 "Works by Gautier de Metz, Jean de Meun, Geoffroi de Paris and Jacobus de Cessolis",,,,Works,Q5989
 Works by Thomas Claxton; Robert Cowton; etc.,,,,Works,Q5989
-"Works of Aristotle, Theophrastus, Ammonius, Porphyrius, and Pseudo-Galen",,Works,,Works of Aristotle;Works of Theophrastus;Works of Ammonius;Works of Porphyrius;Works of Pseudo-Galen,Q6003;Q38372;Q38373;Q38374;Q38375
+"Works of Aristotle, Theophrastus, Ammonius, Porphyrius, and Pseudo-Galen",,Works,,Works of Aristotle;Works of Theophrastus;Works of Ammonius;Works of Porphyrius;Works of Pseudo-Galen,Q6003|Q38372|Q38373|Q38374|Q38375
 Works of St. Gregory,,,,Opera,Q19943
 Works on civil law,,,,Works on civil law,Q5089
 Works on knighthood and tournaments,,,,Texts on knighthood and tournaments,Q39886
 Writ,,,,Writ,Q1367
 "Writ, 1682/3 February 7, Westminster to the Commissioners of the Treasury and the Chamberlain of the Exchequer",,,,Writ,Q1367
-Writings of Gregory I and other patristic texts,,,,Works of Gregory I;Patristic texts,Q38392;Q20452
-Writings of Jerome and other patristic texts,,Adversus Jovinianum,,Works of Jerome;Patristic texts,Q38391;Q20452
+Writings of Gregory I and other patristic texts,,,,Works of Gregory I;Patristic texts,Q38392|Q20452
+Writings of Jerome and other patristic texts,,Adversus Jovinianum,,Works of Jerome;Patristic texts,Q38391|Q20452
 Writings on Islamic divination,,,,Islamic divination,Q39887
 Writ of indulgence to the brothers of St. Maria de Maralania de Montefalcone,,,,Writ of indulgence,Q39888
 Writ of Praecipe,,,,Writ,Q1367
@@ -7471,7 +7471,7 @@ Zād al-maʻād,زاد المعاد.,,,Zād al-maʻād,Q27611
 Z̲akhīrah-ʹi Khvārazmshāhī,ذخيره‌ خوارزم‌شاهى.,,,Z̲akhīrah-ʹi Khvārazmshāhī,Q40055
 Z̲akhīrah-ʹi Khvārazmshāhī,ذخيره‌ خوارزم‌شاهى.,,,Z̲akhīrah-ʹi Khvārazmshāhī,Q40055
 Zawāl al-taraḥ fī fī sic manẓūmat Ibn Faraḥ /,زوال الترح في في كذا منظومة ابن فرح /,Zawāl al-taraḥ fī sharḥ manẓūmat Ibn Faraḥ,زوال الترح في شرح منظومة ابن فرح,Zawāl al-taraḥ fī sharḥ manẓūmat Ibn Faraḥ,Q11719
-Zechariah 11:16 - 12:4,,,,Bible;Book of Zachariah,Q661;Q20430
+Zechariah 11:16 - 12:4,,,,Bible;Book of Zachariah,Q661|Q20430
 Zeng ding Taibaishanren man gao,增定太白山人漫稿 :,,,Zeng ding Taibaishanren man gao,Q39896
 Zhenggu Xiao xian sheng ji,正固萧先生集.,Selections.,,Selections,Q12769
 Zhexuan ji,柘軒集 :,Works.,,Works,Q5989
