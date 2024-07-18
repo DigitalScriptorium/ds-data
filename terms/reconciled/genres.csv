@@ -134,8 +134,8 @@ Biographies,rvmgf,,Biographies,http://id.worldcat.org/fast/1919896,Q3051
 Biographies,rbgenr,,Biographies,http://id.loc.gov/vocabulary/rbmscv/cv00185,Q38436
 Biographies,lcgft,,Biographies,http://id.worldcat.org/fast/1919896,Q3051
 Biographies,fast,,Biographies,http://id.worldcat.org/fast/1919896,Q3051
-Biographies (literary works),aat,,biographies (literary works),http://vocab.getty.edu/aat/300080102,Q4223
-Biography,openn-form/genre,,biographies (literary works),http://vocab.getty.edu/aat/300080102,Q4223
+Biographies (literary works),aat,,biographies (literary genre),http://vocab.getty.edu/aat/300080102,Q4223
+Biography,openn-form/genre,,biographies (literary genre),http://vocab.getty.edu/aat/300080102,Q4223
 Blind tooled (decoration),lobt,,blind-tooled (decoration),http://w3id.org/lob/concept/2288,Q27291
 Blind tooled (decoration),openn-form/genre,,blind-tooled (decoration),http://w3id.org/lob/concept/2288,Q27291
 Blind tooled bindings,rbmscv,,Blind tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00632,Q5877
