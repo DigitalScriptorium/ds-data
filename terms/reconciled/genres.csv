@@ -134,8 +134,8 @@ Biographies,rvmgf,,Biographies,http://id.worldcat.org/fast/1919896,Q3051
 Biographies,rbgenr,,Biographies,http://id.loc.gov/vocabulary/rbmscv/cv00185,Q38436
 Biographies,lcgft,,Biographies,http://id.worldcat.org/fast/1919896,Q3051
 Biographies,fast,,Biographies,http://id.worldcat.org/fast/1919896,Q3051
-Biographies (literary works),aat,,biographies (literary works),http://vocab.getty.edu/aat/300080102,Q4223
-Biography,openn-form/genre,,biographies (literary works),http://vocab.getty.edu/aat/300080102,Q4223
+Biographies (literary works),aat,,biographies (literary genre),http://vocab.getty.edu/aat/300080102,Q4223
+Biography,openn-form/genre,,biographies (literary genre),http://vocab.getty.edu/aat/300080102,Q4223
 Blind tooled (decoration),lobt,,blind-tooled (decoration),http://w3id.org/lob/concept/2288,Q27291
 Blind tooled (decoration),openn-form/genre,,blind-tooled (decoration),http://w3id.org/lob/concept/2288,Q27291
 Blind tooled bindings,rbmscv,,Blind tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00632,Q5877
@@ -343,7 +343,7 @@ Collages (visual works),aat,,collages (visual works),http://vocab.getty.edu/aat/
 Collations,aat,,collations,http://vocab.getty.edu/aat/300311715,Q2805
 Collective biographies--Afghanistan--15th century,aat,,collective biographies;Afghanistan;Fifteenth century,http://vocab.getty.edu/aat/300080111;http://id.worldcat.org/fast/1205406;http://id.worldcat.org/fast/923962,Q38451;Q38444;Q154
 Colored papers (Paper),rbpap,,Colored papers,http://id.loc.gov/vocabulary/rbmscv/cv01138,Q11569
-Comedies,aat,http://vocab.getty.edu/aat/300201014,comedies,http://vocab.getty.edu/aat/300201014,Q26946
+Comedies,aat,http://vocab.getty.edu/aat/300201014,comedies (literary genre),http://vocab.getty.edu/aat/300201014,Q26946
 Comedy plays,fast,,Comedy plays,http://id.worldcat.org/fast/1921567,Q3034
 Comedy plays,lcgft,,Comedy plays,http://id.worldcat.org/fast/1921567,Q3034
 Commentaries,aat,,commentaries,http://vocab.getty.edu/aat/300026098,Q298
