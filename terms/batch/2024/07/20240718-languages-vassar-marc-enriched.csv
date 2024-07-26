@@ -1,0 +1,9 @@
+language_as_recorded,language_code,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Latin,,,,,Latin,Q397,"Q113"
+German,,,,,German,Q188,"Q112"
+Latin with marginal annotations in French,,Latin;French,Q397;Q150,Q113;Q111,,,
+Italian,,,,,Italian,Q652,"Q116"
+Latin and French,,,,,Latin;French,Q397;Q150,"Q113;Q111"
+French and Latin,,,,,French;Latin,Q150;Q397,"Q111;Q113"
+In English,,,,,English,Q1860,"Q109"
+Latin with insertions in English,,Latin;English,Q397;Q1860,Q113;Q109,,,

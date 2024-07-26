@@ -1,0 +1,43 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Illuminated manuscripts,aat,(CStmoGRI)aatgf300265483http://vocab.getty.edu/aat/300265483,,,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,"Q4268"
+Gothic scripts,aat,(CStmoGRI)aatgf300195226http://vocab.getty.edu/aat/300195226,,,,Gothic scripts,http://vocab.getty.edu/aat/300195226,"Q16360"
+Early works,fast,(OCoLC)fst01411636http://id.worldcat.org/fast/1411636,,,,Early works,http://id.worldcat.org/fast/1411636,"Q300"
+Breviaries,lcgft,http://id.loc.gov/authorities/genreForms/gf2015026078,,,,Breviaries,http://id.worldcat.org/fast/1922430,"Q38440"
+Bookplates,rbmscv,,,,,Bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00138,"Q5847"
+Texts,fast,(OCoLC)fst01423705http://id.worldcat.org/fast/1423705,,,,Texts,http://id.worldcat.org/fast/1423705,"Q3066"
+Liturgical books,lcgft,http://id.loc.gov/authorities/genreForms/gf2015026039,,,,Liturgical books,http://id.worldcat.org/fast/1922455,"Q5822"
+Manuscripts,lcgft,http://id.loc.gov/authorities/genreForms/gf2022026088,,,,Manuscripts,http://id.worldcat.org/fast/1424060,"Q331"
+Inscriptions,rbmscv,,,,,Inscriptions,http://id.loc.gov/vocabulary/rbmscv/cv00180,"Q5875"
+Gothic scripts,aat,http://vocab.getty.edu/aat/300195226,,,,Gothic scripts,http://vocab.getty.edu/aat/300195226,"Q16360"
+Annotations,rbmscv,,Annotations,http://id.loc.gov/vocabulary/rbmscv/cv00102,Q2982,,,
+Autographs,rbmscv,,,,,Autographs,http://id.loc.gov/vocabulary/rbmscv/cv00177,"Q38431"
+Gothic scripts,aat,,,,,Gothic scripts,http://vocab.getty.edu/aat/300195226,"Q16360"
+Illuminatedmanuscripts,aat,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,Q4268,,,
+Early works,fast,(OCoLC)fst01411636,,,,Early works,http://id.worldcat.org/fast/1411636,"Q300"
+Graduals,rbmscv,,Graduals,http://id.loc.gov/vocabulary/rbmscv/cv01414,Q10816,,,
+Armorial bookplates,rbmscv,,,,,Armorial bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00136,"Q16277"
+Prayers and devotions,fast,(OCoLC)fst01423909http://id.worldcat.org/fast/1423909,,,,Prayers and devotions,http://id.worldcat.org/fast/1423909,"Q3052"
+Psalters,lcgft,http://id.loc.gov/authorities/genreForms/gf2015026080,,,,Psalters,http://id.worldcat.org/fast/1922512,"Q38533"
+Illuminatedmanuscripts,aat,http://vocab.getty.edu/aat/300265483,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,Q4268,,,
+Books of hours,rbmscv,,,,,Books of hours,http://id.loc.gov/vocabulary/rbmscv/cv01037,"Q38439"
+Bookhands,aat,http://vocab.getty.edu/aat/300200668,book hands,http://vocab.getty.edu/aat/300200668,Q48502,,,
+Commentaries,fast,(OCoLC)fst01423723http://id.worldcat.org/fast/1423723,,,,Commentaries,http://id.worldcat.org/fast/1423723,"Q2812"
+Dictionaries,fast,(OCoLC)fst01423826http://id.worldcat.org/fast/1423826,,,,Dictionaries,http://id.worldcat.org/fast/1423826,"Q3041"
+Notarial documents,aat,http://vocab.getty.edu/aat/300164785,,,,notarial documents,http://vocab.getty.edu/aat/300164785,"Q2777"
+History,fast,(OCoLC)fst01411628http://id.worldcat.org/fast/1411628,,,,History,http://id.worldcat.org/fast/1411628,"Q279"
+Sources,fast,(OCoLC)fst01423900http://id.worldcat.org/fast/1423900,,,,Sources,http://id.worldcat.org/fast/1423900,"Q2769"
+manuscripts (documents),aat,(CStmoGRI)aatgf300028569,,,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,"Q10789"
+History,fast,(OCoLC)fst01411628,,,,History,http://id.worldcat.org/fast/1411628,"Q279"
+Annalsandchronicles,lcgft,,Annals and chronicles,http://id.worldcat.org/fast/1919892,Q336,,,
+Manuscripts,lcgft,,,,,Manuscripts,http://id.worldcat.org/fast/1424060,"Q331"
+Illuminatedmanuscripts,aat,(CStmoGRI)aatgf300265483http://vocab.getty.edu/aat/300265483,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,Q4268,,,
+Gothic scripts,aat,(CStmoGRI)aatgf300195226,,,,Gothic scripts,http://vocab.getty.edu/aat/300195226,"Q16360"
+illuminated manuscripts,aat,(CStmoGRI)aatgf300265483,,,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,"Q4268"
+Sermons,lcgft,http://id.loc.gov/authorities/genreForms/gf2015026051,,,,Sermons,http://id.worldcat.org/fast/1423904,"Q180"
+Cursivescripts,aat,,cursive scripts,http://vocab.getty.edu/aat/300375118,Q48503,,,
+Texts,fast,(OCoLC)fst01423705,,,,Texts,http://id.worldcat.org/fast/1423705,"Q3066"
+Psalters,lcgft,,,,,Psalters,http://id.worldcat.org/fast/1922512,"Q38533"
+illuminatedmanuscripts,aat,(CStmoGRI)aatgf300265483,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,Q4268,,,
+Prayers and devotions,fast,(OCoLC)fst01423909,,,,Prayers and devotions,http://id.worldcat.org/fast/1423909,"Q3052"
+Armorial stamps,rbmscv,,,,,Armorial stamps,http://id.loc.gov/vocabulary/rbmscv/cv00139,"Q16391"
+Blind stamps,rbmscv,,Blind stamps,http://id.loc.gov/vocabulary/rbmscv/cv00225,Q48501,,,

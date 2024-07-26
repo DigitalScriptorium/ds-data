@@ -1,0 +1,14 @@
+material_as_recorded,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+"parchment, col. illuminations",parchment,http://vocab.getty.edu/aat/300011851,Q33,,,
+"parchment, paper, music",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31,,,
+paper,,,,paper,http://vocab.getty.edu/aat/300014109,"Q31"
+parchment,,,,parchment,http://vocab.getty.edu/aat/300011851,"Q33"
+"parchment, illustrations, music",,,,parchment,http://vocab.getty.edu/aat/300011851,"Q33"
+"parchment, illustrations, illuminations",parchment,http://vocab.getty.edu/aat/300011851,Q33,,,
+"parchment, col. ill.",,,,parchment,http://vocab.getty.edu/aat/300011851,"Q33"
+"parchment, ill.",,,,parchment,http://vocab.getty.edu/aat/300011851,"Q33"
+"paper, col. illuminations ; 220 x 150 (130 x 90) mm bound to 230 x 160 mm",paper,http://vocab.getty.edu/aat/300014109,Q31,,,
+"paper, col. illuminations",paper,http://vocab.getty.edu/aat/300014109,Q31,,,
+"parchment, col. ill., illuminations",parchment,http://vocab.getty.edu/aat/300011851,Q33,,,
+"parchment, col. ill., illuminations, music",parchment,http://vocab.getty.edu/aat/300011851,Q33,,,
+"parchment, illustrations",parchment,,,parchment,http://vocab.getty.edu/aat/300011851,"Q33"
