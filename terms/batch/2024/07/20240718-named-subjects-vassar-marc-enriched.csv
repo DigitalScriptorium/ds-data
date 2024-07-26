@@ -1,16 +1,16 @@
 subject_as_recorded,subfield_codes,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
-Catholic Church--Liturgy--Early works to 1800,a--x--v,0,,,,,Catholic Church;Liturgics;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1411636,"Q310;Q207;Q300"
+Catholic Church--Liturgy--Early works to 1800,a--x--v,0,,,,,Catholic Church;Liturgics;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1411636,Q310;Q207;Q300
 Franciscans--Liturgy--Early works to 1800,a--x--v,0,,Franciscans;Liturgics;Early works,http://id.worldcat.org/fast/530004;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1411636,Q5840;Q207;Q300,,,
-Catholic Church,a,fast,(OCoLC)fst00531720--http://id.worldcat.org/fast/531720,,,,Catholic Church,http://id.worldcat.org/fast/531720,"Q310"
-Franciscans,a,fast,(OCoLC)fst00530004--http://id.worldcat.org/fast/530004,,,,Franciscans,http://id.worldcat.org/fast/530004,"Q5840"
-Catholic Church--Liturgy--Texts--Early works to 1800,a--x--v--v,0,,,,,Catholic Church;Liturgics;Texts;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636,"Q310;Q207;Q3066;Q300"
-Catholic Church,a,fast,(OCoLC)fst00531720,,,,Catholic Church,http://id.worldcat.org/fast/531720,"Q310"
-Catholic Church--Prayers and devotions--Early works to 1800,a--v--v,0,,,,,Catholic Church;Prayers and devotions;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,"Q310;Q3052;Q300"
+Catholic Church,a,fast,(OCoLC)fst00531720--http://id.worldcat.org/fast/531720,,,,Catholic Church,http://id.worldcat.org/fast/531720,Q310
+Franciscans,a,fast,(OCoLC)fst00530004--http://id.worldcat.org/fast/530004,,,,Franciscans,http://id.worldcat.org/fast/530004,Q5840
+Catholic Church--Liturgy--Texts--Early works to 1800,a--x--v--v,0,,,,,Catholic Church;Liturgics;Texts;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636,Q310;Q207;Q3066;Q300
+Catholic Church,a,fast,(OCoLC)fst00531720,,,,Catholic Church,http://id.worldcat.org/fast/531720,Q310
+Catholic Church--Prayers and devotions--Early works to 1800,a--v--v,0,,,,,Catholic Church;Prayers and devotions;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q310;Q3052;Q300
 Bible--Dictionaries--Early works to 1800,a--v--v,0,,Bible;Dictionaries;Early works,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1423826;http://id.worldcat.org/fast/1411636,Q4267;Q3041;Q300,,,
 Lord's prayer--Commentaries--Early works to 1800,a--v--v,0,,Lord's prayer;Commentaries;Early works,http://id.worldcat.org/fast/1356166;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q7132;Q2812;Q300,,,
 Vitae patrum.--Selections,a--k,0,,Vitae patrum;Excerpts,http://id.worldcat.org/fast/1361599;http://id.worldcat.org/fast/1692837,Q48504;Q3547,,,
-Bible,a,fast,(OCoLC)fst01356024--http://id.worldcat.org/fast/1356024,,,,Bible,http://id.worldcat.org/fast/1356024,"Q4267"
-Lord's prayer,a,fast,(OCoLC)fst01356166--http://id.worldcat.org/fast/1356166,,,,Lord's prayer,http://id.worldcat.org/fast/1356166,"Q7132"
+Bible,a,fast,(OCoLC)fst01356024--http://id.worldcat.org/fast/1356024,,,,Bible,http://id.worldcat.org/fast/1356024,Q4267
+Lord's prayer,a,fast,(OCoLC)fst01356166--http://id.worldcat.org/fast/1356166,,,,Lord's prayer,http://id.worldcat.org/fast/1356166,Q7132
 Vitae patrum,a,fast,(OCoLC)fst01361599--http://id.worldcat.org/fast/1361599,Vitae patrum,http://id.worldcat.org/fast/1361599,Q48504,,,
 Cistercians--Liturgy--Early works to 1800,a--x--v,0,,Cistercians;Liturgics;Early works,http://id.worldcat.org/fast/554661;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1411636,Q2799;Q207;Q300,,,
-Cistercians,a,fast,(OCoLC)fst00554661,,,,Cistercians,http://id.worldcat.org/fast/554661,"Q2799"
+Cistercians,a,fast,(OCoLC)fst00554661,,,,Cistercians,http://id.worldcat.org/fast/554661,Q2799
