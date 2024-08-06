@@ -1,0 +1,16 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+ecclesiastical laws,ds-genre,,ecclesiastical laws,http://vocab.getty.edu/aat/300417750,Q48673,,,
+Bibles,ds-genre,,,,,Bibles,http://vocab.getty.edu/aat/300264513,Q3561
+commentaries,ds-genre,,,,,commentaries,http://vocab.getty.edu/aat/300026098,Q298
+catalogs (documents),ds-genre,,catalogs (documents),http://vocab.getty.edu/aat/300026059,Q48674,,,
+legal documents,ds-genre,,,,,legal documents,http://vocab.getty.edu/aat/300027590,Q236
+antiphonaries,ds-genre,,,,,antiphonaries,http://vocab.getty.edu/aat/300188812,Q6845
+hagiographies (works),ds-genre,,hagiographies (literary genre),http://vocab.getty.edu/aat/300201063,Q2966,,,
+prayer books,ds-genre,,,,,prayer books,http://vocab.getty.edu/aat/300026476,Q6896
+choirbooks,ds-genre,,choirbooks,http://vocab.getty.edu/aat/300201063,Q4269,,,
+liturgical texts,ds-genre,,,,,liturgical texts,http://vocab.getty.edu/aat/300202991,Q38493
+gospels,ds-genre,,gospels,http://vocab.getty.edu/aat/300404696,Q48675,,,
+treatises,ds-genre,,,,,treatises,http://vocab.getty.edu/aat/300026681,Q160
+epic poetry,ds-genre,,epic poetry,http://vocab.getty.edu/aat/300404208,Q48676,,,
+missals,ds-genre,,,,,missals,http://vocab.getty.edu/aat/300026472,Q4244
+psalters (books),ds-genre,,,,,psalters (books),http://vocab.getty.edu/aat/300026477,Q4134
