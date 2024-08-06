@@ -40,7 +40,6 @@ place_as_recorded,authorized_label,structured_value,ds_qid
 "[Venice, Italy] :",Venice;Italy,http://vocab.getty.edu/tgn/7018159;http://vocab.getty.edu/tgn/1000080,Q2823;Q134
 "16th century., Netherlands",Netherlands,http://vocab.getty.edu/tgn/7016845,Q651
 Aachen,Aachen,http://vocab.getty.edu/tgn/7004799,Q4990
-Abarqūh,Abarkūh,http://vocab.getty.edu/tgn/8881087,Q48704
 "Abbey of Saint-Amand, France",Saint-Amand;France,http://vocab.getty.edu/tgn/7610229;http://vocab.getty.edu/tgn/1000070,Q19887;Q122
 Afghanistan,Afghanistan,http://vocab.getty.edu/tgn/7016612,Q3101
 Agadir (Morocco),Agadir;Morocco,http://vocab.getty.edu/tgn/1091336;http://vocab.getty.edu/tgn/1000179,Q42072;Q3657
@@ -74,8 +73,6 @@ Andorra,Andorra,http://vocab.getty.edu/tgn/1000061,Q38138
 "Aquitaine?, France",Aquitaine;France,http://vocab.getty.edu/tgn/7002878;http://vocab.getty.edu/tgn/1000070,Q12693;Q122
 Arabian Peninsula,Arabian Peninsula,http://vocab.getty.edu/tgn/1012700,Q27492
 "Aragon, Spain",Aragon;Spain,http://vocab.getty.edu/tgn/7024276;http://vocab.getty.edu/tgn/1000095,Q38142;Q129
-Arak,Arāk,http://vocab.getty.edu/tgn/1078967,Q48706
-Ārān,Ārān,http://vocab.getty.edu/tgn/1078919,Q48689
 Arequipa,Arequipa,http://vocab.getty.edu/tgn/7005825,Q38144
 Arles,Arles,http://vocab.getty.edu/tgn/7008775,Q8029
 Armenia,Armenia,http://vocab.getty.edu/tgn/7006651,Q791
@@ -128,7 +125,6 @@ Austro-Bavaria,Bavaria,http://vocab.getty.edu/tgn/7003669,Q1303
 Avignon,Avignon,http://vocab.getty.edu/tgn/7008799,Q4328
 "Avignon, France",Avignon;France,http://vocab.getty.edu/tgn/7008799;http://vocab.getty.edu/tgn/1000070,Q4328;Q122
 "Avignon?, France",Avignon;France,http://vocab.getty.edu/tgn/7008799;http://vocab.getty.edu/tgn/1000070,Q4328;Q122
-Baghdad,Baghdad,http://vocab.getty.edu/tgn/7002482,Q11612
 Baghdād,Baghdad,http://vocab.getty.edu/tgn/7002482,Q11612
 Baghdād,Baghdad,http://vocab.getty.edu/tgn/7002482,Q11612
 Baldat Shām,Syria (region),http://vocab.getty.edu/tgn/7594765,Q38306
@@ -139,7 +135,6 @@ Bamberg,Bamberg,http://vocab.getty.edu/tgn/7004325,Q6976
 Barcelona,Barcelona,http://vocab.getty.edu/tgn/7007426,Q16423
 "Barcelona, Spain",Barcelona;Spain,http://vocab.getty.edu/tgn/7007426;http://vocab.getty.edu/tgn/1000095,Q16423;Q129
 Barga,Barga,http://vocab.getty.edu/tgn/7006242,Q38151
-Barūdah,Vadodara,http://vocab.getty.edu/tgn/7001505,Q48686
 "Basel-Landschaft?, Switzerland",Basle-Country;Switzerland,http://vocab.getty.edu/tgn/7003740;http://vocab.getty.edu/tgn/7011731,Q5002;Q652
 Bavaria,Bavaria,http://vocab.getty.edu/tgn/7003669,Q1303
 "Bavaria, Germany",Bavaria;Germany,http://vocab.getty.edu/tgn/7003669;http://vocab.getty.edu/tgn/7000084,Q1303;Q131
@@ -190,8 +185,6 @@ Bergamo?,Bergamo,http://vocab.getty.edu/tgn/7005025,Q38154
 "Besançon, France",Besançon;France,http://vocab.getty.edu/tgn/7008356;http://vocab.getty.edu/tgn/1000070,Q10831;Q122
 "Besançon, France",Besançon;France,http://vocab.getty.edu/tgn/7008356;http://vocab.getty.edu/tgn/1000070,Q10831;Q122
 "Besançon?, France",Besançon;France,http://vocab.getty.edu/tgn/7008356;http://vocab.getty.edu/tgn/1000070,Q10831;Q122
-Bharūch,Bharūch,http://vocab.getty.edu/tgn/7545012,Q48692
-Bījāpūr,Bijāpur,http://vocab.getty.edu/tgn/7001686,Q48687
 Bobbio,Bobbio,http://vocab.getty.edu/tgn/7004992,Q16407
 "Bodensee, Germany",Bodensee;Germany,http://vocab.getty.edu/tgn/7212103;http://vocab.getty.edu/tgn/7000084,Q19909;Q131
 "Bodensee?, Germany",Bodensee;Germany,http://vocab.getty.edu/tgn/7212103;http://vocab.getty.edu/tgn/7000084,Q19909;Q131
@@ -209,7 +202,6 @@ Bologna,Bologna,http://vocab.getty.edu/tgn/7004847,Q3087
 "Bologna, Italy?",Bologna;Italy,http://vocab.getty.edu/tgn/7004847;http://vocab.getty.edu/tgn/1000080,Q3087;Q134
 "Bologna?, Italy",Bologna;Italy,http://vocab.getty.edu/tgn/7004847;http://vocab.getty.edu/tgn/1000080,Q3087;Q134
 "Bologna or Padua?, Italy",Bologna;Padua;Italy,http://vocab.getty.edu/tgn/7004847;http://vocab.getty.edu/tgn/7003085;http://vocab.getty.edu/tgn/1000080,Q3087;Q3091;Q134
-Bombay,Bombay,http://vocab.getty.edu/tgn/7001518,Q48707
 Bordeaux,Bordeaux,http://vocab.getty.edu/tgn/7008161,Q7508
 "Bourges, France",Bourges;France,http://vocab.getty.edu/tgn/7017415;http://vocab.getty.edu/tgn/1000070,Q19908;Q122
 "Bourges, France?",Bourges;France,http://vocab.getty.edu/tgn/7017415;http://vocab.getty.edu/tgn/1000070,Q19908;Q122
@@ -249,7 +241,6 @@ Byzantium?,Istanbul,http://vocab.getty.edu/tgn/7002473,Q11605
 "Cabrières, France",Cabrières;France,http://vocab.getty.edu/tgn/7656498;http://vocab.getty.edu/tgn/1000070,Q42465;Q122
 "Cadiz, Spain",Cádiz;Spain,http://vocab.getty.edu/tgn/7007512;http://vocab.getty.edu/tgn/1000095,Q42458;Q129
 Cairo,Cairo,http://vocab.getty.edu/tgn/7001215,Q3093
-Calcutta,Kolkata,http://vocab.getty.edu/tgn/7030776,Q48690
 "Cambrai, diocese of, France (northeastern)",Cambrai;France,http://vocab.getty.edu/tgn/7008456;http://vocab.getty.edu/tgn/1000070,Q19889;Q122
 "Cambridge, England",Cambridge;England,http://vocab.getty.edu/tgn/7010874;http://vocab.getty.edu/tgn/7002445,Q38162;Q133
 Cancon,Cancon,http://vocab.getty.edu/tgn/1032406,Q7794
@@ -310,7 +301,6 @@ Dauphiné,Dauphiné,http://vocab.getty.edu/tgn/7007764,Q1310
 Dauphiné,Dauphiné,http://vocab.getty.edu/tgn/7007764,Q1310
 "Deccan, India",Deccan;India,http://vocab.getty.edu/tgn/7001693;http://vocab.getty.edu/tgn/7000198,Q121;Q138
 Delft,Delft,http://vocab.getty.edu/tgn/7006804,Q16420
-Delhi,Delhi,http://vocab.getty.edu/tgn/7001535,Q48703
 Denmark,Denmark,http://vocab.getty.edu/tgn/1000066,Q38185
 "Denmark, Denmark (?)",Denmark,http://vocab.getty.edu/tgn/1000066,Q38185
 "Denmark, Denmark (Sjaelland)",Denmark;Sjælland,http://vocab.getty.edu/tgn/1000066;http://vocab.getty.edu/tgn/7594008,Q38185;Q38299
@@ -475,7 +465,6 @@ Flanders or France,Flanders;France,http://vocab.getty.edu/tgn/7024097;http://voc
 Florence,Florence,http://vocab.getty.edu/tgn/7000457,Q3084
 "Florence, Italy",Florence;Italy,http://vocab.getty.edu/tgn/7000457;http://vocab.getty.edu/tgn/1000080,Q3084;Q134
 "Florence, Italy?",Florence;Italy,http://vocab.getty.edu/tgn/7000457;http://vocab.getty.edu/tgn/1000080,Q3084;Q134
-Florence?,Florence,http://vocab.getty.edu/tgn/7000457,Q3084
 "Florence?, Italy",Florence;Italy,http://vocab.getty.edu/tgn/7000457;http://vocab.getty.edu/tgn/1000080,Q3084;Q134
 France,France,http://vocab.getty.edu/tgn/1000070,Q122
 "France, Aix-en-Provence",France;Aix-en-Provence,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7010786,Q122;Q38134
@@ -793,7 +782,6 @@ Germany or Netherlands,Germany;Netherlands,http://vocab.getty.edu/tgn/7000084;ht
 Germany or Switzerland,Germany;Switzerland,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/7011731,Q131;Q652
 Ghent,Ghent,http://vocab.getty.edu/tgn/7007887,Q16408
 "Ghent?, Belgium",Ghent;Belgium,http://vocab.getty.edu/tgn/7007887;http://vocab.getty.edu/tgn/1000063,Q16408;Q1243
-Gjirokastër,Gjirokastër,http://vocab.getty.edu/tgn/7010755,Q48700
 "Glastonbury, England",Glastonbury;England,http://vocab.getty.edu/tgn/7011239;http://vocab.getty.edu/tgn/7002445,Q12695;Q133
 Goa,Goa,http://vocab.getty.edu/tgn/7018161,Q38204
 Goa?,Goa,http://vocab.getty.edu/tgn/7018161,Q38204
@@ -819,14 +807,10 @@ Greek East,Greece,http://vocab.getty.edu/tgn/1000074,Q16421
 "Hainaut, Belgium","Hainaut, Province de;Belgium",http://vocab.getty.edu/tgn/7007877;http://vocab.getty.edu/tgn/1000063,Q1300;Q1243
 "Hainaut, Belgium]","Hainaut, Province de;Belgium",http://vocab.getty.edu/tgn/7007877;http://vocab.getty.edu/tgn/1000063,Q1300;Q1243
 Ḥalab,Aleppo,http://vocab.getty.edu/tgn/7002252,Q3095
-Hamadān,Hamadan,http://vocab.getty.edu/tgn/7002115,Q48701
 "Hamburg?, Germany",Hamburg;Germany,http://vocab.getty.edu/tgn/7005289;http://vocab.getty.edu/tgn/7000084,Q20352;Q131
 Hanshan Xian,Hanshan,http://vocab.getty.edu/tgn/8203227,Q12697
-Harāt,Herat,http://vocab.getty.edu/tgn/7002243,Q3092
-Ḥaydarābād,Hyderābād,http://vocab.getty.edu/tgn/7001541,Q48685
 Henan,Henan,http://vocab.getty.edu/tgn/7016672,Q12710
 Herat,Herat,http://vocab.getty.edu/tgn/7002243,Q3092
-Herāt,Herat,http://vocab.getty.edu/tgn/7002243,Q3092
 "Herat, Afghanistan",Herat;Afghanistan,http://vocab.getty.edu/tgn/7002243;http://vocab.getty.edu/tgn/7016612,Q3092;Q3101
 Herat],Herat,http://vocab.getty.edu/tgn/7002243,Q3092
 "Hildesheim, Germany",Hildesheim;Germany,http://vocab.getty.edu/tgn/7005248;http://vocab.getty.edu/tgn/7000084,Q19892;Q131
@@ -1108,8 +1092,6 @@ Jerusalem,Jerusalem,http://vocab.getty.edu/tgn/7001371,Q11620
 Kaisaria,Kayseri,http://vocab.getty.edu/tgn/7002465,Q11614
 Kaisaria ;,Kayseri,http://vocab.getty.edu/tgn/7002465,Q11614
 Kandahār,Kandahar,http://vocab.getty.edu/tgn/7002248,Q38414
-Kāshān,Kashan,http://vocab.getty.edu/tgn/1079129,Q48698
-Kashmir,Kashmir,http://vocab.getty.edu/tgn/7029388,Q18345
 Kashmīr,Kashmir,http://vocab.getty.edu/tgn/7029388,Q18345
 "Kashmir, India",Kashmir;India,http://vocab.getty.edu/tgn/7029388;http://vocab.getty.edu/tgn/7000198,Q18345;Q138
 "Kent, England",Kent;England,http://vocab.getty.edu/tgn/7008153;http://vocab.getty.edu/tgn/7002445,Q1294;Q133
@@ -1124,7 +1106,6 @@ Kraków and Malogoszcz,Cracow;Świętokrzyskie Voivodeship,http://vocab.getty.ed
 Kūtāhyawī Turkey,Turkey,http://vocab.getty.edu/tgn/1000144,Q3079
 Kūtāhyawī Turkey,Turkey,http://vocab.getty.edu/tgn/1000144,Q3079
 Lahore,Lahore,http://vocab.getty.edu/tgn/7001560,Q27479
-Laknaʾū,Lucknow,http://vocab.getty.edu/tgn/7001561,Q48693
 "Lambach?, Austria",Lambach;Austria,http://vocab.getty.edu/tgn/7003278;http://vocab.getty.edu/tgn/1000062,Q26524;Q132
 "Lancashire, England",Lancashire;England,http://vocab.getty.edu/tgn/7008154;http://vocab.getty.edu/tgn/7002445,Q20358;Q133
 "Langres, France",Langres;France,http://vocab.getty.edu/tgn/7008343;http://vocab.getty.edu/tgn/1000070,Q19895;Q122
@@ -1198,7 +1179,6 @@ Māridīn,Mardin,http://vocab.getty.edu/tgn/7002596,Q11628
 Māridīn,Mardin,http://vocab.getty.edu/tgn/7002596,Q11628
 Marseilles,Marseilles,http://vocab.getty.edu/tgn/7008781,Q38244
 Marʻash,Maras,http://vocab.getty.edu/tgn/7018751,Q11625
-Mashhad,Mashhad,http://vocab.getty.edu/tgn/7002247,Q48702
 "Massa Marittima?, Italy",Massa Marittima;Italy,http://vocab.getty.edu/tgn/7006080;http://vocab.getty.edu/tgn/1000080,Q20362;Q134
 Mecca,Mecca,http://vocab.getty.edu/tgn/7003870,Q11615
 Mecca?,Mecca,http://vocab.getty.edu/tgn/7003870,Q11615
@@ -1224,7 +1204,6 @@ Miṣr,Egypt,http://vocab.getty.edu/tgn/7016833,Q3086
 Miṣr,Egypt,http://vocab.getty.edu/tgn/7016833,Q3086
 "Modena, Italy",Modena;Italy,http://vocab.getty.edu/tgn/7009565;http://vocab.getty.edu/tgn/1000080,Q4327;Q134
 "Modena?, Italy",Modena;Italy,http://vocab.getty.edu/tgn/7009565;http://vocab.getty.edu/tgn/1000080,Q4327;Q134
-Mons,Mons,http://vocab.getty.edu/tgn/7007961,Q19891
 "Mons?, Belgium",Mons;Belgium,http://vocab.getty.edu/tgn/7007961;http://vocab.getty.edu/tgn/1000063,Q19891;Q1243
 Montalboddo,Ostra,http://vocab.getty.edu/tgn/7007555,Q5006
 Montedoglio,Montedoglio,http://vocab.getty.edu/tgn/4007415,Q7795
@@ -1242,7 +1221,6 @@ Mt. Sinai; Constantinople,"Mūsá, Jabal;Istanbul",http://vocab.getty.edu/tgn/70
 "Muḥammadʹābād, Banāras",Muhammadābād;Benares,http://vocab.getty.edu/tgn/1076267;http://vocab.getty.edu/tgn/7001509,Q18346;Q18349
 Munich,Munich,http://vocab.getty.edu/tgn/7004333,Q5010
 Muradiye (Turkey),Muradiye;Turkey,http://vocab.getty.edu/tgn/1140822;http://vocab.getty.edu/tgn/1000144,Q16417;Q3079
-Murshidābād,Murshidabad,http://vocab.getty.edu/tgn/1076286,Q48710
 N. France,Northern France,http://vocab.getty.edu/tgn/4004036,Q1114
 N. France / Flanders,Northern France;Flanders,http://vocab.getty.edu/tgn/4004036;http://vocab.getty.edu/tgn/7024097,Q1114;Q126
 N. Italy (likely Tuscany),Northern Italy;Tuscany,http://vocab.getty.edu/tgn/4005363;http://vocab.getty.edu/tgn/7009760,Q7507;Q860
@@ -1326,7 +1304,6 @@ Ōmi no kuni Takashima-gun,Takashima-shi,http://vocab.getty.edu/tgn/8743324,Q12
 Orléans,Orléans,http://vocab.getty.edu/tgn/7008337,Q16422
 Orléans,Orléans,http://vocab.getty.edu/tgn/7008337,Q16422
 Ottoman Empire,Ottoman Empire,http://vocab.getty.edu/tgn/7024412,Q38274
-Oxford,Oxford,http://vocab.getty.edu/tgn/7011931,Q3654
 "Oxford, England",Oxford;England,http://vocab.getty.edu/tgn/7011931;http://vocab.getty.edu/tgn/7002445,Q3654;Q133
 "Oxford?, England",Oxford;England,http://vocab.getty.edu/tgn/7011931;http://vocab.getty.edu/tgn/7002445,Q3654;Q133
 Paderborn,Paderborn,http://vocab.getty.edu/tgn/7005101,Q38276
@@ -1392,12 +1369,8 @@ Prague,Prague,http://vocab.getty.edu/tgn/7006464,Q135
 "Provence, France",Provence;France,http://vocab.getty.edu/tgn/7012209;http://vocab.getty.edu/tgn/1000070,Q128;Q122
 Provence or Spain,Provence;Spain,http://vocab.getty.edu/tgn/7012209;http://vocab.getty.edu/tgn/1000095,Q128;Q129
 "Provins, France",Provins;France,http://vocab.getty.edu/tgn/7008028;http://vocab.getty.edu/tgn/1000070,Q38415;Q122
-Punjab,Punjab,http://vocab.getty.edu/tgn/7558524,Q48691
 Qarah Ḥiṣārī,Afyon,http://vocab.getty.edu/tgn/7002512,Q18347
 Qasṭamūnī,Kastamonu,http://vocab.getty.edu/tgn/7002555,Q11616
-Qazvīn,Qazvīn,http://vocab.getty.edu/tgn/1079247,Q48699
-Qum,Qom,http://vocab.getty.edu/tgn/1079254,Q48709
-Rāmpūr,Rāmpur,http://vocab.getty.edu/tgn/1076698,Q48694
 "Reading, England?",Reading;England,http://vocab.getty.edu/tgn/7011918;http://vocab.getty.edu/tgn/7002445,Q42473;Q133
 Regensburg,Regensburg,http://vocab.getty.edu/tgn/7013496,Q5000
 "Regensburg, Germany",Regensburg;Germany,http://vocab.getty.edu/tgn/7013496;http://vocab.getty.edu/tgn/7000084,Q5000;Q131
@@ -1453,8 +1426,6 @@ Samarqand,Samarkand,http://vocab.getty.edu/tgn/7012290,Q3098
 "San Francisco, California",San Francisco;California,http://vocab.getty.edu/tgn/7014456;http://vocab.getty.edu/tgn/7007157,Q42486;Q42487
 "Ṣanʻāʼ, Yemen",Sana'a;Yemen,http://vocab.getty.edu/tgn/7004338;http://vocab.getty.edu/tgn/7000261,Q42466;Q2825
 "Saône et Loire, France",Département de Saône-et-Loire;France,http://vocab.getty.edu/tgn/7002962;http://vocab.getty.edu/tgn/1000070,Q42464;Q122
-Sarāb (Āz̲arbāyjān-i Bākhtarī),Sarāb;West Azerbaijan,http://vocab.getty.edu/tgn/8914940;http://vocab.getty.edu/tgn/1001048,Q48705;Q48712
-Sāvaj,Mahābād,http://vocab.getty.edu/tgn/8895832,Q48708
 "Saxony, Germany",Saxony;Germany,http://vocab.getty.edu/tgn/7003685;http://vocab.getty.edu/tgn/7000084,Q19883;Q131
 Scotland,Scotland,http://vocab.getty.edu/tgn/7002444,Q17533
 Scotland?,Scotland,http://vocab.getty.edu/tgn/7002444,Q17533
@@ -1467,7 +1438,6 @@ Seville,Seville,http://vocab.getty.edu/tgn/7008676,Q3102
 "Seville?, Spain",Seville;Spain,http://vocab.getty.edu/tgn/7008676;http://vocab.getty.edu/tgn/1000095,Q3102;Q129
 Shaanxi Sheng,Shaanxi,http://vocab.getty.edu/tgn/7002084,Q12708
 Shīrāz,Shiraz,http://vocab.getty.edu/tgn/7002148,Q27484
-Shiyāpūr [India,India,http://vocab.getty.edu/tgn/7000198,Q138
 "Šibenik, Croatia",Šibenik;Croatia,http://vocab.getty.edu/tgn/7015447;http://vocab.getty.edu/tgn/7006663,Q130;Q137
 "Šibenik, Croatia",Šibenik;Croatia,http://vocab.getty.edu/tgn/7015447;http://vocab.getty.edu/tgn/7006663,Q130;Q137
 Sicily,Sicily,http://vocab.getty.edu/tgn/7003122,Q6993
@@ -1477,9 +1447,7 @@ Siena,Siena,http://vocab.getty.edu/tgn/7011179,Q3651
 "Siena, Italy",Siena;Italy,http://vocab.getty.edu/tgn/7011179;http://vocab.getty.edu/tgn/1000080,Q3651;Q134
 "Siena?, Italy",Siena;Italy,http://vocab.getty.edu/tgn/7011179;http://vocab.getty.edu/tgn/1000080,Q3651;Q134
 Siena and Pavia,Siena;Pavia,http://vocab.getty.edu/tgn/7011179;http://vocab.getty.edu/tgn/7006026,Q3651;Q4995
-Simnān,Semnān,http://vocab.getty.edu/tgn/1001528,Q48688
 Sinigaglia,Senigallia,http://vocab.getty.edu/tgn/7004008,Q38296
-Sīrdān [Iran,Sīrdān;Iran,http://vocab.getty.edu/tgn/1079282;http://vocab.getty.edu/tgn/7000231,Q48681;Q2822
 "Somerset, England",Somerset;England,http://vocab.getty.edu/tgn/7012032;http://vocab.getty.edu/tgn/7002445,Q20364;Q133
 South Asia,South Asia,http://vocab.getty.edu/tgn/7000208,Q18348
 South Asia ;,South Asia,http://vocab.getty.edu/tgn/7000208,Q18348
@@ -1556,7 +1524,6 @@ Stagno,Stagno,http://vocab.getty.edu/tgn/7038830,Q7206
 "Suffolk, England",Suffolk;England,http://vocab.getty.edu/tgn/7008185;http://vocab.getty.edu/tgn/7002445,Q38303;Q133
 "Sumatra, Indonesia",Sumatra;Indonesia,http://vocab.getty.edu/tgn/7016484;http://vocab.getty.edu/tgn/1000116,Q42478;Q38217
 Surat,Sūrat,http://vocab.getty.edu/tgn/7001592,Q27488
-Ṣūrat,Sūrat,http://vocab.getty.edu/tgn/7001592,Q27488
 "Swabia?, Germany",Swabia;Germany,http://vocab.getty.edu/tgn/7017048;http://vocab.getty.edu/tgn/7000084,Q12703;Q131
 "Swabia (Germany), Swabia",Swabia;Germany,http://vocab.getty.edu/tgn/7017048;http://vocab.getty.edu/tgn/7000084,Q12703;Q131
 Switzerland,Switzerland,http://vocab.getty.edu/tgn/7011731,Q652
@@ -1580,21 +1547,17 @@ Syria or Iraq,Syria;Iraq,http://vocab.getty.edu/tgn/1000140;http://vocab.getty.e
 Syria or Turkey,Syria;Turkey,http://vocab.getty.edu/tgn/1000140;http://vocab.getty.edu/tgn/1000144,Q3096;Q3079
 Syria or Turkey?],Syria;Turkey,http://vocab.getty.edu/tgn/1000140;http://vocab.getty.edu/tgn/1000144,Q3096;Q3079
 Tabriz,Tabriz,http://vocab.getty.edu/tgn/7002156,Q27491
-Tabrīz,Tabriz,http://vocab.getty.edu/tgn/7002156,Q48696
 Tabriz?],Tabriz,http://vocab.getty.edu/tgn/7002156,Q27491
 Tangier,Tangier,http://vocab.getty.edu/tgn/7000442,Q27487
 Tangier],Tangier,http://vocab.getty.edu/tgn/7000442,Q27487
 Tarn,Département du Tarn,http://vocab.getty.edu/tgn/7003217,Q5483
 Tarn-et-Garonne,Département de Tarn-et-Garonne,http://vocab.getty.edu/tgn/7003218,Q8031
-Tehran,Tehran,http://vocab.getty.edu/tgn/7002157,Q48695
 Terranuova Bracciolini,Terranuova Bracciolini,http://vocab.getty.edu/tgn/1047093,Q6990
 "Teruel, Spain",Teruel;Spain,http://vocab.getty.edu/tgn/7008717;http://vocab.getty.edu/tgn/1000095,Q6982;Q129
 The Netherlands,Netherlands,http://vocab.getty.edu/tgn/7016845,Q651
 The Netherlands (Leeuwarden),Netherlands;Leeuwarden,http://vocab.getty.edu/tgn/7016845;http://vocab.getty.edu/tgn/7007006,Q651;Q38225
 Thessalonikē,Salonika,http://vocab.getty.edu/tgn/7011182,Q3085
 Thessalonikē,Salonika,http://vocab.getty.edu/tgn/7011182,Q3085
-Tihrān,Tehran,http://vocab.getty.edu/tgn/7002157,Q48695
-Ṭihrān,Tehran,http://vocab.getty.edu/tgn/7002157,Q48695
 Toledo,Toledo,http://vocab.getty.edu/tgn/7008719,Q12701
 "Toledo, Spain",Toledo;Spain,http://vocab.getty.edu/tgn/7008719;http://vocab.getty.edu/tgn/1000095,Q12701;Q129
 Toul,Toul,http://vocab.getty.edu/tgn/7009506,Q8032
@@ -1628,7 +1591,6 @@ Tuscany,Tuscany,http://vocab.getty.edu/tgn/7009760,Q860
 "Tuscany, Siena?, Italy",Tuscany;Siena;Italy,http://vocab.getty.edu/tgn/7009760;http://vocab.getty.edu/tgn/7011179;http://vocab.getty.edu/tgn/1000080,Q860;Q3651;Q134
 "Tuscany?, Italy",Tuscany;Italy,http://vocab.getty.edu/tgn/7009760;http://vocab.getty.edu/tgn/1000080,Q860;Q134
 "Tyrol?, Austria",Tyrol;Austria,http://vocab.getty.edu/tgn/7003029;http://vocab.getty.edu/tgn/1000062,Q12709;Q132
-Tʻbilisi,Tbilisi,http://vocab.getty.edu/tgn/7012268,Q48711
 "Umbria, Italy",Umbria;Italy,http://vocab.getty.edu/tgn/7003125;http://vocab.getty.edu/tgn/1000080,Q1311;Q134
 Uncertain,undetermined,http://vocab.getty.edu/tgn/7544559,Q650
 Undetermined,undetermined,http://vocab.getty.edu/tgn/7544559,Q650
@@ -1638,7 +1600,6 @@ Unknown,undetermined,http://vocab.getty.edu/tgn/7544559,Q650
 Upper Saxony,Obersachsen,http://vocab.getty.edu/tgn/7114973,Q38271
 Utrecht,Utrecht,http://vocab.getty.edu/tgn/7006926,Q10829
 "Utrecht?, Netherlands",Utrecht;Netherlands,http://vocab.getty.edu/tgn/7006926;http://vocab.getty.edu/tgn/7016845,Q10829;Q651
-Vadodara,Vadodara,http://vocab.getty.edu/tgn/7001505,Q48686
 Valdenoceda,Valdenoceda,http://vocab.getty.edu/tgn/7299846,Q6978
 "Valdenoceda?, Spain",Valdenoceda;Spain,http://vocab.getty.edu/tgn/7299846;http://vocab.getty.edu/tgn/1000095,Q6978;Q129
 Valdenoceda (Spain),Valdenoceda;Spain,http://vocab.getty.edu/tgn/7299846;http://vocab.getty.edu/tgn/1000095,Q6978;Q129
@@ -1680,7 +1641,6 @@ Wales,Wales,http://vocab.getty.edu/tgn/7002443,Q7799
 Wales?,Wales,http://vocab.getty.edu/tgn/7002443,Q7799
 "Wambaix, France?",Wambaix;France,http://vocab.getty.edu/tgn/7596307;http://vocab.getty.edu/tgn/1000070,Q42471;Q122
 "Warwick, England",Warwick;England,http://vocab.getty.edu/tgn/7010957;http://vocab.getty.edu/tgn/7002445,Q20357;Q133
-Wazirabad,Wazīrābād,http://vocab.getty.edu/tgn/1083859,Q48697
 West Africa,West Africa,http://vocab.getty.edu/tgn/7032927,Q18344
 West Africa?,West Africa,http://vocab.getty.edu/tgn/7032927,Q18344
 Western Europe,Western Europe,http://vocab.getty.edu/tgn/4003761,Q10830
@@ -1705,4 +1665,6 @@ Zaragoza,Zaragoza,http://vocab.getty.edu/tgn/7008813,Q4330
 "Zaragoza, Spain?",Zaragoza;Spain,http://vocab.getty.edu/tgn/7008813;http://vocab.getty.edu/tgn/1000095,Q4330;Q129
 Zhejiang,Zhejiang,http://vocab.getty.edu/tgn/7002076,Q12706
 Zwolle,Zwolle,http://vocab.getty.edu/tgn/7007077,Q16411
-رامپور،,Rāmpur,http://vocab.getty.edu/tgn/1076698,Q48694
+Florence?,Florence,http://vocab.getty.edu/tgn/7000457,Q3084
+Mons,Mons,http://vocab.getty.edu/tgn/7007961,Q19891
+Oxford,Oxford,http://vocab.getty.edu/tgn/7011931,Q3654
