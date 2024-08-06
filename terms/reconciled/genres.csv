@@ -20,6 +20,7 @@ Account books,lcgft,http://id.loc.gov/authorities/genreForms/gf2017026136,Accoun
 Account books,rbgenr,,Account books,http://id.loc.gov/vocabulary/rbmscv/cv00027,Q17502
 Account books--1855-1864,rbgenr,,Account books,http://id.loc.gov/vocabulary/rbmscv/cv00027,Q17502
 Account books--Belgium--17th century,aat,,account books;Belgium;Seventeenth century,http://vocab.getty.edu/aat/300027483;http://id.worldcat.org/fast/1210278;http://id.worldcat.org/fast/1113663,Q4178;Q16301;Q2771
+Account books--Iran--19th century,aat,,account books;Iran;Nineteenth century,http://vocab.getty.edu/aat/300027483;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1037841,Q4178;Q16384;Q3538
 Account books--Italy--Florence--15th century,aat,,account books;Italy--Florence;Fifteenth century,http://vocab.getty.edu/aat/300027483;http://id.worldcat.org/fast/1204699;http://id.worldcat.org/fast/923962,Q4178;Q3604;Q154
 accounts,aat,,accounts,http://vocab.getty.edu/aat/300145802,Q178
 Accounts,aat,,accounts,http://vocab.getty.edu/aat/300145802,Q178
@@ -36,12 +37,13 @@ Albums (Books),lcgft,,Albums (Books),http://id.worldcat.org/fast/1726784,Q5825
 Allegories,aat,,allegories (literary genre),http://vocab.getty.edu/aat/300202507,Q7395
 Allegories,fast,,Allegories,http://id.worldcat.org/fast/1726523,Q42596
 Allegories,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026218,Allegories,http://id.worldcat.org/fast/1726523,Q42596
-allegories (literary genre),ds-genre,,allegories (literary genre),http://vocab.getty.edu/aat/300202507,Q7395
 Allégories,rvmgf,,Allegories,http://id.worldcat.org/fast/805512,Q26910
+allegories (literary genre),ds-genre,,allegories (literary genre),http://vocab.getty.edu/aat/300202507,Q7395
 Almanacs,aat,,almanacs,http://vocab.getty.edu/aat/300026705,Q3025
 Almanacs,fast,,Almanacs,http://id.worldcat.org/fast/1423872,Q2788
 Almanacs,lcgft,,Almanacs,http://id.worldcat.org/fast/1423872,Q2788
 Almanacs--Germany--15th century,aat,,almanacs;Germany;Fifteenth century,http://vocab.getty.edu/aat/300026705;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/923962,Q3025;Q3032;Q154
+Alphabet books,lcsh,,Alphabet books,http://id.worldcat.org/fast/2015172,Q48759
 Alphabet books--Switzerland--16th century,aat,,alphabet books;Switzerland;Sixteenth century,http://vocab.getty.edu/aat/300202510;http://id.worldcat.org/fast/1205401;http://id.worldcat.org/fast/1119851,Q38418;Q4281;Q335
 Alphabets (symbols),aat,,alphabets (symbols),http://vocab.getty.edu/aat/300255216,Q3629
 Ambrosian chants,lcsh,,Ambrosian chants,http://id.worldcat.org/fast/2071598,Q38423
@@ -109,6 +111,7 @@ Armorials,rbmscv,,Armorials,http://id.loc.gov/vocabulary/rbmscv/cv00965,Q16263
 Armorials--England--16th century,aat,,armorials (reference sources);England;Sixteenth century,http://vocab.getty.edu/aat/300255028;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/1119851,Q19866;Q320;Q335
 Armorials--England--16th century,,,armorials(reference works);England;Sixteenth century,http://vocab.getty.edu/aat/300255028;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/1119851,Q19866;Q320;Q335
 Armorial stamps,rbmscv,,Armorial stamps,http://id.loc.gov/vocabulary/rbmscv/cv00139,Q16391
+Art,lcgft,http://id.loc.gov/authorities/genreForms/gf2017027218,Art,http://id.worldcat.org/fast/1423702,Q38573
 Art,fast,(OCoLC)fst01423702,Art,http://id.worldcat.org/fast/1423702,Q38573
 Art,fast,,Art,http://id.worldcat.org/fast/1423702,Q38573
 Art,lcgft,,Art,http://id.worldcat.org/fast/1423702,Q38573
@@ -145,6 +148,15 @@ Autographs,aat,,autographs (manuscripts),http://vocab.getty.edu/aat/300028571,Q3
 Autographs,fast,,Autographs,http://id.worldcat.org/fast/1423715,Q7185
 Autographs,rbmscv,,Autographs,http://id.loc.gov/vocabulary/rbmscv/cv00177,Q38431
 Autographs (manuscripts),aat,,autographs (manuscripts),http://vocab.getty.edu/aat/300028571,Q3518
+Autographs (manuscripts)--Georgia (Republic)--Tʻbilisi--19th century,aat,,autographs (manuscripts);Georgia (Republic)--Tʻbilisi;Nineteenth century,http://vocab.getty.edu/aat/300028571;http://id.worldcat.org/fast/1206337;http://id.worldcat.org/fast/1037841,Q3518;Q48760;Q3538
+Autographs (manuscripts)--Iran--19th century,aat,,autographs (manuscripts);Iran;Nineteenth century,http://vocab.getty.edu/aat/300028571;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1037841,Q3518;Q16384;Q3538
+Autographs (manuscripts)--Iran--Iṣfahān--17th century,aat,,autographs (manuscripts);Iran--Iṣfahān;Seventeenth century,http://vocab.getty.edu/aat/300028571;http://id.worldcat.org/fast/1220534;http://id.worldcat.org/fast/1113663,Q3518;Q48723;Q2771
+Autographs (manuscripts)--Iran--Mahābād--19th century,aat,,autographs (manuscripts);Iran--Mahābād;Nineteenth century,http://vocab.getty.edu/aat/300028571;http://id.worldcat.org/fast/1302984;http://id.worldcat.org/fast/1037841,Q3518;Q48750;Q3538
+Autographs (manuscripts)--Iran--Tehran--19th century,aat,,autographs (manuscripts);Iran--Tehran;Nineteenth century,http://vocab.getty.edu/aat/300028571;http://id.worldcat.org/fast/1204877;http://id.worldcat.org/fast/1037841,Q3518;Q48736;Q3538
+Autographs (manuscripts)--Islamic countries--17th century,aat,,autographs (manuscripts);Islamic countries;Seventeenth century,http://vocab.getty.edu/aat/300028571;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1113663,Q3518;Q2810;Q2771
+Autographs (manuscripts)--Islamic countries--19th century,aat,,autographs (manuscripts);Islamic countries;Nineteenth century,http://vocab.getty.edu/aat/300028571;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1037841,Q3518;Q2810;Q3538
+Autographs (manuscripts)--Islamic countries--20th century,aat,,autographs (manuscripts);Islamic countries;Twentieth century,http://vocab.getty.edu/aat/300028571;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1159810,Q3518;Q2810;Q5942
+Autographs (manuscripts)--Islamic Empire--15th century,aat,,autographs (manuscripts);Islamic Empire;Fifteenth century,http://vocab.getty.edu/aat/300028571;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/923962,Q3518;Q11211;Q154
 Autographs (Provenance),rbprov,,Autographs,http://id.loc.gov/vocabulary/rbmscv/cv00177,Q38431
 Ballads--France,rbgenr,,Ballads;France,http://id.loc.gov/vocabulary/rbmscv/cv00202;http://id.worldcat.org/fast/1204289,Q42565;Q152
 Bark papers (Paper)--Indonesia,rbpap,,Bark papers;Indonesia,http://id.loc.gov/vocabulary/rbmscv/cv00974;http://id.worldcat.org/fast/1209242,Q42569;Q38456
@@ -169,6 +181,7 @@ Bibliographies,fast,,Bibliographies,http://id.worldcat.org/fast/1919895,Q11383
 Binders' tickets (Binding)--19th century,rbbin,,Binders' tickets;Nineteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00702;http://id.worldcat.org/fast/1037841,Q5842;Q3538
 Bindings and binding components--Spain--17th century,aat,,bindings (gathered matter components);binding components;Spain;Seventeenth century,http://vocab.getty.edu/aat/300055023;http://vocab.getty.edu/aat/300194225;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/1113663,Q38434;Q38435;Q343;Q2771
 Bindings and binding components--Spain--18th century,aat,,bindings (gathered matter components);binding components;Spain;Eighteenth century,http://vocab.getty.edu/aat/300055023;http://vocab.getty.edu/aat/300194225;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/904058,Q38434;Q38435;Q343;Q3024
+Bio-bibliography,fast,,Bio-bibliography,http://id.worldcat.org/fast/1423685,Q48734
 Biographies,fast,(OCoLC)fst01919896,Biographies,http://id.worldcat.org/fast/1919896,Q3051
 Biographies,fast,,Biographies,http://id.worldcat.org/fast/1919896,Q3051
 Biographies,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026049,Biographies,http://id.worldcat.org/fast/1919896,Q3051
@@ -200,6 +213,7 @@ Book catalogs,aat,,book catalogs,http://vocab.getty.edu/aat/300026606,Q3054
 Bookhands,aat,http://vocab.getty.edu/aat/300200668,book hands,http://vocab.getty.edu/aat/300200668,Q48502
 Bookmarks,aat,,bookmarks,http://vocab.getty.edu/aat/300235760,Q38438
 Bookmarks--Germany--12th century,aat,,bookmarks;Germany;Twelfth century,http://vocab.getty.edu/aat/300235760;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/1159791,Q38438;Q3032;Q304
+Book of hours,aat,,books of hours,http://vocab.getty.edu/aat/300026457,Q3618
 Bookplates,rbmscv,,Bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00138,Q5847
 Bookplates (Provenance),openn-form/genre,,Bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00138,Q5847
 Bookplates (Provenance),rbprov,,Bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00138,Q5847
@@ -244,6 +258,7 @@ Bosses (Bindings)--Spain--17th century,rbmscv,,Bosses (Bindings),http://id.loc.g
 botanical illustrations,aat,,botanical illustrations,http://vocab.getty.edu/aat/300386711,Q11331
 Braided secondary endband sewing,lobt,,braided secondary endband sewing,http://w3id.org/lob/concept/2547,Q5876
 Brass bosses (Binding),rbbin,,Brass bosses (Binding),http://id.loc.gov/vocabulary/rbmscv/cv00446,Q42541
+Bréviaires,rvmgf,,Breviaries,http://id.worldcat.org/fast/1922430,Q38440
 breviaries,aat,,breviaries,http://vocab.getty.edu/aat/300026459,Q4135
 breviaries,ds-genre,,breviaries,http://vocab.getty.edu/aat/300026459,Q4135
 Breviaries,lcgft,http://id.loc.gov/authorities/genreForms/gf2015026078,Breviaries,http://id.worldcat.org/fast/1922430,Q38440
@@ -264,7 +279,6 @@ Breviaries--Spain--16th century,aat,,breviaries;Spain;Sixteenth century,http://v
 Breviaries--Switzerland--14th century,aat,,breviaries;Switzerland;Fourteenth century,http://vocab.getty.edu/aat/300026459;http://id.worldcat.org/fast/1205401;http://id.worldcat.org/fast/933420,Q4135;Q4281;Q295
 Broadsides,rbmscv,,Broadsides,http://id.loc.gov/vocabulary/rbmscv/cv00912,Q16265
 Brocade bindings (Binding),rbbin,,Brocade bindings,http://id.loc.gov/vocabulary/rbmscv/cv00449,Q5937
-Bréviaires,rvmgf,,Breviaries,http://id.worldcat.org/fast/1922430,Q38440
 Bullae (seals),aat,,bullae (seals),http://vocab.getty.edu/aat/300266223,Q8139
 Bulls,aat,,bulls (papal records),http://vocab.getty.edu/aat/300152044,Q4158
 Bulls (papal records),aat,,bulls (papal records),http://vocab.getty.edu/aat/300152044,Q4158
@@ -296,6 +310,7 @@ Calf bindings (Binding)--Germany--15th century,rbbin,,Calf bindings;Germany;Fift
 Calf bindings (Binding)--Italy--15th century,rbbin,,Calf bindings;Italy;Fifteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00454;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/923962,Q12556;Q249;Q154
 Calligraphic drawings,local,,calligraphic drawings,http://vocab.getty.edu/aat/300379919,Q38443
 Calligraphy,aat,,calligraphy (visual works),http://vocab.getty.edu/aat/300266660,Q26807
+"Calligraphy, Arabic",lcsh,,"Calligraphy, Arabic",http://id.worldcat.org/fast/844384,Q11395
 calligraphy (visual works),aat,(CStmoGRI)aatgf300266660,calligraphy (visual works),http://vocab.getty.edu/aat/300266660,Q26807
 Calligraphy (visual works),aat,,calligraphy (visual works),http://vocab.getty.edu/aat/300266660,Q26807
 Calligraphy--16th century,aat,,calligraphy (visual works);Sixteenth century,http://vocab.getty.edu/aat/300266660;http://id.worldcat.org/fast/1119851,Q26807;Q335
@@ -338,6 +353,7 @@ Cartularies--England--14th century,aat,,cartularies;England;Fourteenth century,h
 Cartularies--England--15th century,aat,,cartularies;England;Fifteenth century,http://vocab.getty.edu/aat/300027169;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/923962,Q4136;Q320;Q154
 Cartularies--England--16th century,aat,,cartularies;England;Sixteenth century,http://vocab.getty.edu/aat/300027169;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/1119851,Q4136;Q320;Q335
 Casting off,rbmscv,,Casting off,http://id.loc.gov/vocabulary/rbmscv/cv00376,Q16258
+catalogs (documents),ds-genre,,catalogs (documents),http://vocab.getty.edu/aat/300026059,Q48674
 Catches,rbmscv,,Catches,http://id.loc.gov/vocabulary/rbmscv/cv00459,Q16369
 Catches (Binding)--16th century,rbbin,,Catches;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00459;http://id.worldcat.org/fast/1119851,Q16369;Q335
 Catchplates,lobt,,Catchplates,https://www.ligatus.org.uk/lob/concept/1244,Q17482
@@ -362,6 +378,7 @@ Charters--England--1350-1400,lcsh,,Charters;England,http://id.worldcat.org/fast/
 "Charts, diagrams, etc",fast,(OCoLC)fst01423732,"Charts, diagrams, etc.",http://id.worldcat.org/fast/1423732,Q38448
 "Charts, diagrams, etc",openn-form/genre,,"Charts, diagrams, etc.",http://id.worldcat.org/fast/1423732,Q38448
 Chemises,rbmscv,,Chemises,http://id.loc.gov/vocabulary/rbmscv/cv00732,Q16330
+choirbooks,ds-genre,,choirbooks,http://vocab.getty.edu/aat/300201063,Q4269
 Choirbooks,aat,,choirbooks,http://vocab.getty.edu/aat/300026422,Q4269
 choir books,ds-genre,,choirbooks,http://vocab.getty.edu/aat/300026422,Q4269
 Choir books,rbgenr,,Choir books,http://id.loc.gov/vocabulary/rbmscv/cv01100,Q42540
@@ -424,6 +441,7 @@ collective biographies,aat,,collective biographies,http://vocab.getty.edu/aat/30
 Collective biographies--Afghanistan--15th century,aat,,collective biographies;Afghanistan;Fifteenth century,http://vocab.getty.edu/aat/300080111;http://id.worldcat.org/fast/1205406;http://id.worldcat.org/fast/923962,Q38451;Q38444;Q154
 Colored papers (Paper),rbpap,,Colored papers,http://id.loc.gov/vocabulary/rbmscv/cv01138,Q11569
 Comedies,aat,http://vocab.getty.edu/aat/300201014,comedies (literary genre),http://vocab.getty.edu/aat/300201014,Q26946
+Comédies,rvmgf,,Comedy plays,http://id.worldcat.org/fast/1921567,Q3034
 Comedies--Spain--17th century,rbgenr,,Comedies;Spain;Seventeenth century,http://id.loc.gov/vocabulary/rbmscv/cv01142;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/1113663,Q42591;Q343;Q2771
 comedy (general genre),aat,,comedy (general genre),http://vocab.getty.edu/aat/300055911,Q42590
 Comedy plays,fast,,Comedy plays,http://id.worldcat.org/fast/1921567,Q3034
@@ -444,12 +462,15 @@ Commonplace books,rbmscv,,Commonplace books,http://id.loc.gov/vocabulary/rbmscv/
 Commonplace books--England--16th century,aat,,commonplace books;England;Sixteenth century,http://vocab.getty.edu/aat/300027093;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/1119851,Q7696;Q320;Q335
 Commonplace books--Germany--15th century,aat,,commonplace books;Germany;Fifteenth century,http://vocab.getty.edu/aat/300027093;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/923962,Q7696;Q3032;Q154
 Commonplace books--Germany--15th century,,,commonplace books;Germany;Fifteenth century,http://vocab.getty.edu/aat/300027093;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/923962,Q7696;Q3032;Q154
+Commonplace books--Iran--19th century,aat,,commonplace books;Iran;Nineteenth century,http://vocab.getty.edu/aat/300027093;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1037841,Q7696;Q16384;Q3538
+Commonplace books--Islamic countries--17th century,aat,,commonplace books;Islamic countries;Seventeenth century,http://vocab.getty.edu/aat/300027093;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1113663,Q7696;Q2810;Q2771
+Commonplace books--Islamic countries--19th century,aat,,commonplace books;Islamic countries;Nineteenth century,http://vocab.getty.edu/aat/300027093;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1037841,Q7696;Q2810;Q3538
 Compendiums,aat,,compendiums,http://vocab.getty.edu/aat/300026106,Q3556
 Compilation manuscripts,aat,,compilation manuscripts,http://vocab.getty.edu/aat/300403970,Q2790
 Compilation manuscripts,openn-form/genre,,compilation manuscripts,http://vocab.getty.edu/aat/300403970,Q2790
+Composite portraits,aat,,composite portraits,http://vocab.getty.edu/aat/300265220,Q48754
 Compositor's copy (Printing),rbpri,,Compositor's copy,http://id.loc.gov/vocabulary/rbmscv/cv00388,Q38453
 Compound endbands,lobt,,compound endbands,http://w3id.org/lob/concept/3621,Q27122
-Comédies,rvmgf,,Comedy plays,http://id.worldcat.org/fast/1921567,Q3034
 Constitutions,aat,,constitutions,http://vocab.getty.edu/aat/300027437,Q4264
 Contemporary bindings,rbmscv,,Contemporary bindings,http://id.loc.gov/vocabulary/rbmscv/cv00480,Q5930
 Contemporary bindings (Binding),rbbin,,Contemporary bindings,http://id.loc.gov/vocabulary/rbmscv/cv00480,Q5930
@@ -487,6 +508,7 @@ Correspondence--Germany--16th century,aat,,correspondence;Germany;Sixteenth cent
 Credit records,aat,,credit records,http://vocab.getty.edu/aat/300027521,Q3602
 Creeds,lcsh,,Creeds,http://id.worldcat.org/fast/1423878,Q38454
 Criminal court records,aat,,criminal court records,http://vocab.getty.edu/aat/300027883,Q4899
+"Criticism, interpretation, etc",fast,(OCoLC)fst01411635,"Criticism, interpretation, etc.",http://id.worldcat.org/fast/1411635,Q177
 "Criticism, interpretation, etc",fast,,"Criticism, interpretation, etc.",http://id.worldcat.org/fast/1411635,Q177
 Cursivescripts,aat,,cursive scripts,http://vocab.getty.edu/aat/300375118,Q48503
 Customaries,aat,,customaries,http://vocab.getty.edu/aat/300256491,Q4762
@@ -674,6 +696,7 @@ Early works,openn-form/genre,,Early works,http://id.worldcat.org/fast/1411636,Q3
 Early works to 1800,local,,Early works,http://id.worldcat.org/fast/1411636,Q300
 Early works to 1800,,,Early works,http://id.worldcat.org/fast/1411636,Q300
 ecclesiastical,ds-genre,,religious texts,http://vocab.getty.edu/aat/300220519,Q42399
+ecclesiastical laws,ds-genre,,ecclesiastical laws,http://vocab.getty.edu/aat/300417750,Q48673
 Edge titles,rbmscv,,Edge titles,http://id.loc.gov/vocabulary/rbmscv/cv00436,Q16400
 Edge titles (Binding),rbbin,,Edge titles,http://id.loc.gov/vocabulary/rbmscv/cv00436,Q16400
 "Elegiac poetry, Latin",fast,,"Elegiac poetry, Latin",http://id.worldcat.org/fast/1750166,Q38462
@@ -691,9 +714,11 @@ Embroidering,aat,,embroidering,http://vocab.getty.edu/aat/300053653,Q16295
 Embroidery (visual works),aat,,embroidery (visual works),http://vocab.getty.edu/aat/300264024,Q38467
 Enamel bindings (Binding)--Great Britain--16th century,rbbin,,Enamel bindings;Great Britain;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00524;http://id.worldcat.org/fast/1204623;http://id.worldcat.org/fast/1119851,Q38468;Q179;Q335
 encyclopedias,ds-genre,,encyclopedias,http://vocab.getty.edu/aat/300129439,Q303
+Encyclopedias,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026092,Encyclopedias,http://id.worldcat.org/fast/1423798,Q38469
 Encyclopedias,aat,,encyclopedias,http://vocab.getty.edu/aat/300129439,Q303
 Encyclopedias,local,,Encyclopedias,http://id.worldcat.org/fast/1423798,Q38469
 Encyclopedias--China--16th century,aat,,encyclopedias;China;Sixteenth century,http://vocab.getty.edu/aat/300129439;http://id.worldcat.org/fast/1206073;http://id.worldcat.org/fast/1119851,Q303;Q12627;Q335
+Encyclopedias--Islamic Empire--13th century,rbgenr,,Encyclopedias;Islamic Empire;Thirteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01290;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1150138,Q48747;Q11211;Q245
 Endleaves,lobt,,endleaves,http://w3id.org/lob/concept/1317,Q26972
 Endpapers (Binding),rbbin,,Endpapers,http://id.loc.gov/vocabulary/rbmscv/cv00528,Q10811
 Engravings (prints),aat,,engravings (prints),http://vocab.getty.edu/aat/300041340,Q4237
@@ -709,6 +734,7 @@ Ephemerides,fast,,Ephemerides,http://id.worldcat.org/fast/1910826,Q38471
 Ephemerides,lcgft,,Ephemerides,http://id.worldcat.org/fast/1910826,Q38471
 Epic poems,aat,http://vocab.getty.edu/aat/300253035,epic poems,http://vocab.getty.edu/aat/300253035,Q27446
 Epic poems,openn-form/genre,,epic poems,http://vocab.getty.edu/aat/300253035,Q27446
+epic poetry,ds-genre,,epic poetry,http://vocab.getty.edu/aat/300404208,Q48676
 Epic poetry,fast,,Epic poetry,http://id.worldcat.org/fast/1726596,Q38472
 Epic poetry,gsafd,,Epic poetry,http://id.worldcat.org/fast/1726596,Q38472
 Epic poetry,lcgft,,Epic poetry,http://id.worldcat.org/fast/1726596,Q38472
@@ -718,9 +744,11 @@ Epigrams,aat,,epigrams,http://vocab.getty.edu/aat/300202533,Q4259
 epistles,ds-genre,,epistles,http://vocab.getty.edu/aat/300404697,Q42428
 epistolaries,ds-genre,,epistolaries,http://vocab.getty.edu/aat/300026465,Q42405
 epistolary,ds-genre,,epistolaries,http://vocab.getty.edu/aat/300026465,Q42405
+Épitaphes,rvmgf,,Epitaphs,http://id.worldcat.org/fast/1921646,Q42601
 epitaphs,aat,,epitaphs,http://vocab.getty.edu/aat/300028729,Q42564
 Epitaphs,fast,(OCoLC)fst01921646,Epitaphs,http://id.worldcat.org/fast/1921646,Q42601
 Epitaphs,lcgft,,Epitaphs,http://id.worldcat.org/fast/1921646,Q42601
+Erotic painting--India--18th century,lcsh,,Erotic painting;India;Eighteenth century,http://id.worldcat.org/fast/914855;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/904058,Q48752;Q26595;Q3024
 estate inventories,aat,,estate inventories,http://vocab.getty.edu/aat/300027876,Q8002
 Estate inventories,aat,,estate inventories,http://vocab.getty.edu/aat/300027876,Q8002
 Estate inventories--England--17th century,aat,,estate inventories;England;Seventeenth century,http://vocab.getty.edu/aat/300027876;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/1113663,Q8002;Q320;Q2771
@@ -820,6 +848,7 @@ Gold tooled bindings (Binding)--Russia--19th centiry,rbbin,,Gold tooled bindings
 Gold tooled bindings (Binding)--Spain--16th century,rbbin,,Gold tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00551,Q5859
 Gold tooled bindings (Provenance),rbprov,,Gold tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00551,Q5859
 Gospel books,rbmscv,,Gospel books,http://id.loc.gov/vocabulary/rbmscv/cv01317,Q16379
+gospels,ds-genre,,gospels,http://vocab.getty.edu/aat/300404696,Q48675
 Gothic scripts,aat,(CStmoGRI)aatgf300195226http://vocab.getty.edu/aat/300195226,Gothic scripts,http://vocab.getty.edu/aat/300195226,Q16360
 Gothic scripts,aat,(CStmoGRI)aatgf300195226,Gothic scripts,http://vocab.getty.edu/aat/300195226,Q16360
 Gothic scripts,aat,,Gothic scripts,http://vocab.getty.edu/aat/300195226,Q16360
@@ -882,6 +911,7 @@ Hagiographies,fast,,Hagiographies,http://id.worldcat.org/fast/1922442,Q6951
 Hagiographies,lcgft,,Hagiographies,http://id.worldcat.org/fast/1922442,Q6951
 Hagiographies,rvmgf,,Hagiographies,http://id.worldcat.org/fast/1922442,Q6951
 Hagiographies (documents),aat,,hagiographies (literary genre),http://vocab.getty.edu/aat/300201063,Q2966
+hagiographies (works),ds-genre,,hagiographies (literary genre),http://vocab.getty.edu/aat/300201063,Q2966
 Hagiographies (works),aat,,hagiographies (literary genre),http://vocab.getty.edu/aat/300201063,Q2966
 Half bindings (Binding),rbbin,,Half bindings,http://id.loc.gov/vocabulary/rbmscv/cv00332,Q5817
 Half bindings (Binding)--18th century,rbbin,,Half bindings;Eighteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00332;http://id.worldcat.org/fast/904058,Q5817;Q3024
@@ -898,6 +928,24 @@ Headbands (Binding),rbbin,,Headbands,http://id.loc.gov/vocabulary/rbmscv/cv00453
 headpieces (layout features),aat,,headpieces (layout features),http://vocab.getty.edu/aat/300207342,Q11536
 Headpieces (layout features)--10th century,aat,,headpieces (layout features);Tenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1147737,Q11536;Q12530
 Headpieces (layout features)--11th century,aat,,headpieces (layout features);Eleventh century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/908096,Q11536;Q306
+Headpieces (layout features)--Afghanistan--Herat--16th century,aat,,headpieces (layout features);Afghanistan--Herat;Sixteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1215453;http://id.worldcat.org/fast/1119851,Q11536;Q48725;Q335
+Headpieces (layout features)--India--18th century,aat,,headpieces (layout features);India;Eighteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/904058,Q11536;Q26595;Q3024
+Headpieces (layout features)--India--19th century,aat,,headpieces (layout features);India;Nineteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/1037841,Q11536;Q26595;Q3538
+Headpieces (layout features)--Iran--15th century,aat,,headpieces (layout features);Iran;Fifteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/923962,Q11536;Q16384;Q154
+Headpieces (layout features)--Iran--16th century,aat,,headpieces (layout features);Iran;Sixteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1119851,Q11536;Q16384;Q335
+Headpieces (layout features)--Iran--17th century,aat,,headpieces (layout features);Iran;Seventeenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1113663,Q11536;Q16384;Q2771
+Headpieces (layout features)--Iran--19th century,aat,,headpieces (layout features);Iran;Nineteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1037841,Q11536;Q16384;Q3538
+Headpieces (layout features)--Iran--20th century,aat,,headpieces (layout features);Iran;Twentieth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1159810,Q11536;Q16384;Q5942
+Headpieces (layout features)--Iran--Shīrāz--16th century,aat,,headpieces (layout features);Iran--Shīrāz;Sixteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1208873;http://id.worldcat.org/fast/1119851,Q11536;Q48253;Q335
+Headpieces (layout features)--Iran--Shīrāz--19th century,aat,,headpieces (layout features);Iran--Shīrāz;Nineteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1208873;http://id.worldcat.org/fast/1037841,Q11536;Q48253;Q3538
+Headpieces (layout features)--Iraq--Baghdad--15th century,aat,,headpieces (layout features);Iraq--Baghdad;Fifteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1207444;http://id.worldcat.org/fast/923962,Q11536;Q48745;Q154
+Headpieces (layout features)--Islamic countries--17th century,aat,,headpieces (layout features);Islamic countries;Seventeenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1113663,Q11536;Q2810;Q2771
+Headpieces (layout features)--Islamic countries--18th century,aat,,headpieces (layout features);Islamic countries;Eighteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/904058,Q11536;Q2810;Q3024
+Headpieces (layout features)--Islamic countries--19th century,aat,,headpieces (layout features);Islamic countries;Nineteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1037841,Q11536;Q2810;Q3538
+Headpieces (layout features)--Islamic Empire--15th century,aat,,headpieces (layout features);Islamic Empire;Fifteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/923962,Q11536;Q11211;Q154
+Headpieces (layout features)--Islamic Empire--16th century,aat,,headpieces (layout features);Islamic Empire;Sixteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1119851,Q11536;Q11211;Q335
+Headpieces (layout features)--Uzbekistan--Samarqand--17th century,aat,,headpieces (layout features);Uzbekistan--Samarqand;Seventeenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1210007;http://id.worldcat.org/fast/1113663,Q11536;Q11433;Q2771
+Headpieces (layout features) z Islamic countries--17th century,aat,,headpieces (layout features);Islamic countries;Seventeenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1113663,Q11536;Q2810;Q2771
 Helical primary endbands,lobt,,helical endband sewing,http://w3id.org/lob/concept/3643,Q27116
 Herbals,aat,,herbals (reference sources),http://vocab.getty.edu/aat/300185352,Q226
 Herbals (reference sources),aat,,herbals (reference sources),http://vocab.getty.edu/aat/300185352,Q226
@@ -990,6 +1038,7 @@ Illuminated manuscripts--12th century,aat,,illuminated manuscripts;Twelfth centu
 Illuminated manuscripts--14th century,aat,,illuminated manuscripts;Fourteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/933420,Q4268;Q295
 Illuminated manuscripts--15th century,aat,,illuminated manuscripts;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/923962,Q4268;Q154
 Illuminated manuscripts--16th century,aat,,illuminated manuscripts;Sixteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1119851,Q4268;Q335
+Illuminated manuscripts--Afghanistan--Herat--16th century,aat,,illuminated manuscripts;Afghanistan--Herat;Sixteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1215453;http://id.worldcat.org/fast/1119851,Q4268;Q48725;Q335
 Illuminated manuscripts--Belgium--15th century,aat,,illuminated manuscripts;Belgium;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1210278;http://id.worldcat.org/fast/923962,Q4268;Q16301;Q154
 Illuminated manuscripts--Belgium--Bruges--15th century,aat,,illuminated manuscripts;Belgium--Bruges;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204513;http://id.worldcat.org/fast/923962,Q4268;Q38496;Q154
 Illuminated manuscripts--Belgium--Mons--15th century,aat,,illuminated manuscripts;Belgium--Mons;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1206359;http://id.worldcat.org/fast/923962,Q4268;Q12585;Q154
@@ -1011,8 +1060,23 @@ Illuminated manuscripts--India--16th century,aat,,illuminated manuscripts;India;
 Illuminated manuscripts--India--17th century,aat,,illuminated manuscripts;India;Seventeenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/1113663,Q4268;Q26595;Q2771
 Illuminated manuscripts--India--18th century,aat,,illuminated manuscripts;India;Eighteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/904058,Q4268;Q26595;Q3024
 Illuminated manuscripts--India--19th century,aat,,illuminated manuscripts;India;Nineteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/1037841,Q4268;Q26595;Q3538
+Illuminated manuscripts--Iran--15th century,aat,,illuminated manuscripts;Iran;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/923962,Q4268;Q16384;Q154
+Illuminated manuscripts--Iran--16th century,aat,,illuminated manuscripts;Iran;Sixteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1119851,Q4268;Q16384;Q335
+Illuminated manuscripts--Iran--17th century,aat,,illuminated manuscripts;Iran;Seventeenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1113663,Q4268;Q16384;Q2771
 Illuminated manuscripts--Iran--19th century,aat,,illuminated manuscripts;Iran;Nineteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1037841,Q4268;Q16384;Q3538
+Illuminated manuscripts--Iran--20th century,aat,,illuminated manuscripts;Iran;Twentieth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1159810,Q4268;Q16384;Q5942
+Illuminated manuscripts--Iran--Iṣfahān--17th century,aat,,illuminated manuscripts;Iran--Iṣfahān;Seventeenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1220534;http://id.worldcat.org/fast/1113663,Q4268;Q48723;Q2771
+Illuminated manuscripts--Iran--Shīrāz--16th century,aat,,illuminated manuscripts;Iran--Shīrāz;Sixteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1208873;http://id.worldcat.org/fast/1119851,Q4268;Q48253;Q335
+Illuminated manuscripts--Iran--Shīrāz--19th century,aat,,illuminated manuscripts;Iran--Shīrāz;Nineteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1208873;http://id.worldcat.org/fast/1037841,Q4268;Q48253;Q3538
+Illuminated manuscripts--Iraq--Baghdad--15th century,aat,,illuminated manuscripts;Iraq--Baghdad;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1207444;http://id.worldcat.org/fast/923962,Q4268;Q48745;Q154
+Illuminated manuscripts--Islamic countries,aat,,illuminated manuscripts;Islamic countries,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1244130,Q4268;Q2810
 Illuminated manuscripts--Islamic countries--17th century,aat,,illuminated manuscripts;Islamic countries;Seventeenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1113663,Q4268;Q2810;Q2771
+Illuminated manuscripts--Islamic countries--18th century,aat,,illuminated manuscripts;Islamic countries;Eighteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/904058,Q4268;Q2810;Q3024
+Illuminated manuscripts--Islamic countries--19th century,aat,,illuminated manuscripts;Islamic countries;Nineteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1037841,Q4268;Q2810;Q3538
+Illuminated manuscripts--Islamic Empire--15th century,aat,,illuminated manuscripts;Islamic Empire;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/923962,Q4268;Q11211;Q154
+Illuminated manuscripts--Islamic empire--16th century,aat,,illuminated manuscripts;Islamic Empire;Sixteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1119851,Q4268;Q11211;Q335
+Illuminated manuscripts--Islamic Empire--16th century,aat,,illuminated manuscripts;Islamic Empire;Sixteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1119851,Q4268;Q11211;Q335
+Illuminated manuscripts--Islamic empire--17th century,aat,,illuminated manuscripts;Islamic Empire;Seventeenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1113663,Q4268;Q11211;Q2771
 Illuminated manuscripts--Italy--12th century,aat,,illuminated manuscripts;Italy;Twelfth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1159791,Q4268;Q249;Q304
 Illuminated manuscripts--Italy--13th century,aat,,illuminated manuscripts;Italy;Thirteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1150138,Q4268;Q249;Q245
 Illuminated manuscripts--Italy--14th century,aat,,illuminated manuscripts;Italy;Fourteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/933420,Q4268;Q249;Q295
@@ -1022,10 +1086,16 @@ Illuminated manuscripts--Italy--Bologna--14th century,aat,,illuminated manuscrip
 Illuminated manuscripts--Italy--Ferrara--15th century,aat,,illuminated manuscripts;Italy--Ferrara;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204575;http://id.worldcat.org/fast/923962,Q4268;Q7179;Q154
 Illuminated manuscripts--Italy--Florence--15th century,aat,,illuminated manuscripts;Italy--Florence;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204699;http://id.worldcat.org/fast/923962,Q4268;Q3604;Q154
 Illuminated manuscripts--Italy--Siena--14th century,aat,,illuminated manuscripts;Italy--Siena;Fourteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204409;http://id.worldcat.org/fast/933420,Q4268;Q4200;Q295
+Illuminated manuscripts--Pakistan--Lahore--19th century,aat,,illuminated manuscripts;Pakistan--Lahore;Nineteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1205808;http://id.worldcat.org/fast/1037841,Q4268;Q48744;Q3538
 Illuminated manuscripts--Spain--15th century,aat,,illuminated manuscripts;Spain;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/923962,Q4268;Q343;Q154
 Illuminated manuscripts--Spain--16th century,aat,,illuminated manuscripts;Spain;Sixteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/1119851,Q4268;Q343;Q335
 Illuminated manuscripts--Spain--17th century,aat,,illuminated manuscripts;Spain;Seventeenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/1113663,Q4268;Q343;Q2771
 Illuminated manuscripts--Spain--Valladolid--16th century,aat,,illuminated manuscripts;Spain--Valladolid;Sixteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1207327;http://id.worldcat.org/fast/1119851,Q4268;Q38450;Q335
+Illuminated manuscripts--Uzbekistan--Samarqand--17th century,aat,,illuminated manuscripts;Uzbekistan--Samarqand;Seventeenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1210007;http://id.worldcat.org/fast/1113663,Q4268;Q11433;Q2771
+Illuminated title pages--Iran--15th century,local,,Iran;Fifteenth century,http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/923962,Q16384;Q154
+Illuminated title pages--Islamic countries,local,,Islamic countries,http://id.worldcat.org/fast/1244130,Q2810
+Illuminated title pages--Islamic Empire--15th century,local,,Islamic Empire;Fifteenth century,http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/923962,Q11211;Q154
+Illuminated title pages--Islamic Empire--16th century,local,,Islamic Empire;Sixteenth century,http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1119851,Q11211;Q335
 illuminations,aat,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
 Illuminations,aat,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
 Illuminations,gmgpc,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
@@ -1062,6 +1132,10 @@ Illuminations (paintings)--Spain--16th century,aat,,illuminations (paintings);Sp
 Illuminations (visual materials),aat,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
 illuminations (visual works),aat,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
 Illuminations (visual works),aat,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
+Illuminations (visual works)--India--16th century,aat,,illuminations (paintings);India;Sixteenth century,http://vocab.getty.edu/aat/300264522;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/1119851,Q225;Q26595;Q335
+Illuminations (visual works)--Iran--16th century,aat,,illuminations (paintings);Iran;Sixteenth century,http://vocab.getty.edu/aat/300264522;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1119851,Q225;Q16384;Q335
+Illuminations (visual works)--Islamic countries,aat,,illuminations (paintings);Islamic countries,http://vocab.getty.edu/aat/300264522;http://id.worldcat.org/fast/1244130,Q225;Q2810
+Illuminations (visual works)--Islamic empire--17th century,aat,,illuminations (paintings);Islamic Empire;Seventeenth century,http://vocab.getty.edu/aat/300264522;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1113663,Q225;Q11211;Q2771
 Illuminations--England--15th century,gmgpc,,illuminations (paintings);England;Fifteenth century,http://vocab.getty.edu/aat/300264522;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/923962,Q225;Q320;Q154
 Illuminations--England--15th century,gmpg,,illuminations (paintings);England;Fifteenth century,http://vocab.getty.edu/aat/300264522;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/923962,Q225;Q320;Q154
 Illuminations--Germany--13th century,aat,,illuminations (paintings);Germany;Thirteenth century,http://vocab.getty.edu/aat/300264522;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/1150138,Q225;Q3032;Q245
@@ -1114,6 +1188,10 @@ Islamic bindings,rbmscv,,Islamic bindings,http://id.loc.gov/vocabulary/rbmscv/cv
 Islamic bindings (Binding),openn-form/genre,,Islamic bindings,http://id.loc.gov/vocabulary/rbmscv/cv00337,Q16307
 Islamic bindings (Binding),rbbin,,Islamic bindings,http://id.loc.gov/vocabulary/rbmscv/cv00337,Q16307
 Islamic bookbinding,lcsh,,Islamic bookbinding,http://id.worldcat.org/fast/1730288,Q11127
+Islamic painting--India,lcsh,,Islamic painting;India,http://id.worldcat.org/fast/1730356;http://id.worldcat.org/fast/1210276,Q48751;Q26595
+"Islamic poetry, Persian",lcsh,,"Islamic poetry, Persian",http://id.worldcat.org/fast/980025,Q18338
+Islamic stories,lcsh,,Islamic stories,http://id.worldcat.org/fast/1750207,Q48733
+Islamic stories,fast,,Islamic stories,http://id.worldcat.org/fast/1750207,Q48733
 Jeweled binding (Bindings),rbbin,,Jewelled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00573,Q38484
 Journals,rbgenr,,Diaries,http://id.loc.gov/vocabulary/rbmscv/cv01150,Q17515
 Judicial records,aat,,judicial records,http://vocab.getty.edu/aat/300027850,Q3643
@@ -1126,6 +1204,11 @@ Korans--Iran--19th century,aat,,Qur'ans;Iran;Nineteenth century,http://vocab.get
 Kufic,aat,,Kufic,http://vocab.getty.edu/aat/300194434,Q27026
 Lacquered bindings (Binding),openn-form/genre,,Lacquered bindings,http://id.loc.gov/vocabulary/rbmscv/cv00578,Q27295
 Lacquered bindings (Binding),rbbin,,Lacquered bindings,http://id.loc.gov/vocabulary/rbmscv/cv00578,Q27295
+Lacquered bindings--India--19th century,rbbin,,Lacquered bindings;India;Nineteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00578;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/1037841,Q27295;Q26595;Q3538
+Lacquered bindings--Iran--16th century,rbbin,,Lacquered bindings;Iran;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00578;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1119851,Q27295;Q16384;Q335
+Lacquered bindings--Islamic countries,rbbin,,Lacquered bindings;Islamic countries,http://id.loc.gov/vocabulary/rbmscv/cv00578;http://id.worldcat.org/fast/1244130,Q27295;Q2810
+Lacquered bindings--Islamic countries--19th century,rbbin,,Lacquered bindings;Islamic countries;Nineteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00578;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1037841,Q27295;Q2810;Q3538
+Lacquered bindings--Islamic Empire--16th century,rbbin,,Lacquered bindings;Islamic Empire;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00578;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1119851,Q27295;Q11211;Q335
 Land registers--France--16th century,aat,,land registers;France;Sixteenth century,http://vocab.getty.edu/aat/300027247;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1119851,Q38485;Q152;Q335
 Land surveys,aat,,land surveys,http://vocab.getty.edu/aat/300027257,Q5463
 Latin poetry--15th century,lcsh,,Latin poetry;Fifteenth century,http://id.worldcat.org/fast/993373;http://id.worldcat.org/fast/923962,Q6969;Q154
@@ -1189,6 +1272,7 @@ Letters patent--Spain--16th century,aat,,letters patent;Spain;Sixteenth century,
 Letters patent--Spain--16th century,,,letters patent;Spain;Sixteenth century,http://vocab.getty.edu/aat/300027820;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/1119851,Q337;Q343;Q335
 Letters patent--Spain--17th century,aat,,letters patent;Spain;Seventeenth century,http://vocab.getty.edu/aat/300027820;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/1113663,Q337;Q343;Q2771
 lexical / grammatical,ds-genre,,lexicons;grammar (discipline),http://vocab.getty.edu/aat/300048727;http://vocab.getty.edu/aat/300263250,Q42426;Q42415
+Library catalogs--Iran--20th century,rbgenr,,Library catalogs;Iran;Twentieth century,http://id.loc.gov/vocabulary/rbmscv/cv01524;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1159810,Q48735;Q16384;Q5942
 Library catalogues--Italy--12th century,lcsh,,Library catalogs;Italy;Twelfth century,http://id.worldcat.org/fast/997669;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1159791,Q38562;Q249;Q304
 Library copies,rbmscv,,Library copies,http://id.loc.gov/vocabulary/rbmscv/cv00154,Q16329
 Library copies (Provenance),rbprov,,Library copies,http://id.loc.gov/vocabulary/rbmscv/cv00154,Q16329
@@ -1276,6 +1360,7 @@ Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
 "Manuscripts, Arabic--14th century",,,"Manuscripts, Arabic;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/933420,Q256;Q295
 "Manuscripts, Arabic--15th century",lcsh,,"Manuscripts, Arabic;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/923962,Q256;Q154
 "Manuscripts, Arabic--15th century",openn-form/genre,,"Manuscripts, Arabic;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/923962,Q256;Q154
+"Manuscripts, Arabic--16th century",lcsh,,"Manuscripts, Arabic;Sixteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1119851,Q256;Q335
 "Manuscripts, Arabic--16th century",local,,"Manuscripts, Arabic;Sixteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1119851,Q256;Q335
 "Manuscripts, Arabic--16th century",openn-form/genre,,"Manuscripts, Arabic;Sixteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1119851,Q256;Q335
 "Manuscripts, Arabic--17th century",lcsh,,"Manuscripts, Arabic;Seventeenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1113663,Q256;Q2771
@@ -1283,17 +1368,26 @@ Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
 "Manuscripts, Arabic--18th century",lcsh,,"Manuscripts, Arabic;Eighteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/904058,Q256;Q3024
 "Manuscripts, Arabic--18th century",local,,"Manuscripts, Arabic;Eighteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/904058,Q256;Q3024
 "Manuscripts, Arabic--18th century",openn-form/genre,,"Manuscripts, Arabic;Eighteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/904058,Q256;Q3024
+"Manuscripts, Arabic--19th century",lcsh,,"Manuscripts, Arabic;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1037841,Q256;Q3538
 "Manuscripts, Arabic--19th century",local,,"Manuscripts, Arabic;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1037841,Q256;Q3538
 "Manuscripts, Arabic--19th century",openn-form/genre,,"Manuscripts, Arabic;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1037841,Q256;Q3538
+"Manuscripts, Arabic--20th century",lcsh,,"Manuscripts, Arabic;Twentieth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1159810,Q256;Q5942
 "Manuscripts, Arabic--20th century",local,,"Manuscripts, Arabic;Twentieth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1159810,Q256;Q5942
+"Manuscripts, Arabic--Georgia (Republic)--Tʻbilisi--19th century",lcsh,,"Manuscripts, Arabic;Georgia (Republic)--Tʻbilisi;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1206337;http://id.worldcat.org/fast/1037841,Q256;Q48760;Q3538
+"Manuscripts, Arabic--India--19th century",lcsh,,"Manuscripts, Arabic;India;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/1037841,Q256;Q26595;Q3538
+"Manuscripts, Arabic--Iran--19th century",lcsh,,"Manuscripts, Arabic;Iran;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1037841,Q256;Q16384;Q3538
+"Manuscripts, Arabic--Iran--Qazvīn--19th century",lcsh,,"Manuscripts, Arabic;Iran--Qazvīn;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1250763;http://id.worldcat.org/fast/1037841,Q256;Q48740;Q3538
+"Manuscripts, Arabic--Iran--Tehran--19th century",lcsh,,"Manuscripts, Arabic;Iran--Tehran;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204877;http://id.worldcat.org/fast/1037841,Q256;Q48736;Q3538
 "Manuscripts, Armenian",lcsh,,"Manuscripts, Armenian",http://id.worldcat.org/fast/1008290,Q2964
 "Manuscripts, Armenian--Armenia",lcsh,,"Manuscripts, Armenian;Armenia",http://id.worldcat.org/fast/1008290;http://id.worldcat.org/fast/1206470,Q2964;Q3017
 "Manuscripts, Armenian--Turkey",lcsh,,"Manuscripts, Armenian;Turkey",http://id.worldcat.org/fast/1008290;http://id.worldcat.org/fast/1208963,Q2964;Q4294
 "Manuscripts, Awadhi--18th century",lcsh,,Eighteenth century,http://id.worldcat.org/fast/904058,Q3024
 "Manuscripts, Awadhi--19th century",lcsh,,Nineteenth century,http://id.worldcat.org/fast/1037841,Q3538
+"Manuscripts, Azerbaijani--19th century",lcsh,,"Manuscripts, Azerbaijani;Nineteenth century",http://id.worldcat.org/fast/1008297;http://id.worldcat.org/fast/1037841,Q48728;Q3538
 "Manuscripts, Braj--19th century",local,,"Manuscripts, Braj;Nineteenth century",http://id.worldcat.org/fast/1008302;http://id.worldcat.org/fast/1037841,Q26922;Q3538
 "Manuscripts, Catalan",lcsh,,"Manuscripts, Catalan",http://id.worldcat.org/fast/1008308,Q6920
 "Manuscripts, Catalan--16th century",local,,"Manuscripts, Catalan;Sixteenth century",http://id.worldcat.org/fast/1008308;http://id.worldcat.org/fast/1119851,Q6920;Q335
+"Manuscripts, Chagatai",lcsh,,"Manuscripts, Chagatai",http://id.worldcat.org/fast/1894474,Q48257
 "Manuscripts, Church Slavic--19th century",local,,"Manuscripts, Church Slavic;Nineteenth century",http://id.worldcat.org/fast/1008312;http://id.worldcat.org/fast/1037841,Q16394;Q3538
 "Manuscripts, Coptic",lcsh,,Coptic manuscripts,http://id.worldcat.org/fast/1734594,Q4207
 "Manuscripts, Coptic--17th century",openn-form/genre,,Coptic manuscripts;Seventeenth century,http://id.worldcat.org/fast/1734594;http://id.worldcat.org/fast/1113663,Q4207;Q2771
@@ -1362,6 +1456,7 @@ Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
 "Manuscripts, Khmer--19th century",lcsh,,"Manuscripts, Khmer;Nineteenth century",http://id.worldcat.org/fast/1008392;http://id.worldcat.org/fast/1037841,Q27156;Q3538
 "Manuscripts, Latin",lcsh,,"Manuscripts, Latin",http://id.worldcat.org/fast/1008395,Q210
 "Manuscripts, Latin (medieval and modern)",lcsh,,"Manuscripts, Latin (Medieval and modern)",http://id.worldcat.org/fast/1008399,Q10783
+"Manuscripts, Latin (Medieval and modern)",,,"Manuscripts, Latin (Medieval and modern)",http://id.worldcat.org/fast/1008399,Q10783
 "Manuscripts, Latin (Medieval and modern)--Austria",lcsh,,"Manuscripts, Latin (Medieval and modern);Austria",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204901,Q10783;Q2798
 "Manuscripts, Latin (Medieval and Modern)--Austria",lcsh,,"Manuscripts, Latin (Medieval and modern);Austria",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204901,Q10783;Q2798
 "Manuscripts, Latin (Medieval and modern)--Belgium",lcsh,,"Manuscripts, Latin (Medieval and modern);Belgium",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1210278,Q10783;Q16301
@@ -1572,9 +1667,16 @@ Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
 "Manuscripts, Oriental--19th century",openn-form/genre,,"Manuscripts, Oriental;Nineteenth century",http://id.worldcat.org/fast/1008453;http://id.worldcat.org/fast/1037841,Q18304;Q3538
 "Manuscripts, Pali--18th century",lcsh,,"Manuscripts, Pali;Eighteenth century",http://id.worldcat.org/fast/1008460;http://id.worldcat.org/fast/904058,Q27278;Q3024
 "Manuscripts, Pali--19th century",lcsh,,"Manuscripts, Pali;Nineteenth century",http://id.worldcat.org/fast/1008460;http://id.worldcat.org/fast/1037841,Q27278;Q3538
+"Manuscripts, Panjabi--19th century",lcsh,,"Manuscripts, Panjabi;Nineteenth century",http://id.worldcat.org/fast/1008461;http://id.worldcat.org/fast/1037841,Q48758;Q3538
 "Manuscripts, Persian",lcsh,,"Manuscripts, Persian",http://id.worldcat.org/fast/1008462,Q255
 "Manuscripts, Persian",openn-form/genre,,"Manuscripts, Persian",http://id.worldcat.org/fast/1008462,Q255
+"Manuscripts, Persian.--16th century",lcsh,,"Manuscripts, Persian;Sixteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1119851,Q255;Q335
+"Manuscripts, Persian--13th century",lcsh,,"Manuscripts, Persian;Thirteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1150138,Q255;Q245
+"Manuscripts, Persian--14th century",lcsh,,"Manuscripts, Persian;Fourteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/933420,Q255;Q295
+"Manuscripts, Persian--15th century",lcsh,,"Manuscripts, Persian;Fifteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/923962,Q255;Q154
+"Manuscripts, Persian--16th century",lcsh,,"Manuscripts, Persian;Sixteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1119851,Q255;Q335
 "Manuscripts, Persian--16th century",local,,"Manuscripts, Persian;Sixteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1119851,Q255;Q335
+"Manuscripts, Persian--17th century",lcsh,,"Manuscripts, Persian;Seventeenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1113663,Q255;Q2771
 "Manuscripts, Persian--17th century",local,,"Manuscripts, Persian;Seventeenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1113663,Q255;Q2771
 "Manuscripts, Persian--17th century",openn-form/genre,,"Manuscripts, Persian;Seventeenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1113663,Q255;Q2771
 "Manuscripts, Persian--18th century",lcsh,,"Manuscripts, Persian;Eighteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/904058,Q255;Q3024
@@ -1583,7 +1685,68 @@ Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
 "Manuscripts, Persian--19th century",lcsh,,"Manuscripts, Persian;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1037841,Q255;Q3538
 "Manuscripts, Persian--19th century",local,,"Manuscripts, Persian;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1037841,Q255;Q3538
 "Manuscripts, Persian--19th century",openn-form/genre,,"Manuscripts, Persian;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1037841,Q255;Q3538
+"Manuscripts, Persian--20th century",lcsh,,"Manuscripts, Persian;Twentieth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1159810,Q255;Q5942
+"Manuscripts, Persian--Afghanistan--Herat--15th century",lcsh,,"Manuscripts, Persian;Afghanistan--Herat;Fifteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1215453;http://id.worldcat.org/fast/923962,Q255;Q48725;Q154
+"Manuscripts, Persian--Afghanistan--Herāt--15th century",lcsh,,"Manuscripts, Persian;Afghanistan--Herat;Fifteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1215453;http://id.worldcat.org/fast/923962,Q255;Q48725;Q154
+"Manuscripts, Persian--Afghanistan--Herat--16th century",lcsh,,"Manuscripts, Persian;Afghanistan--Herat;Sixteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1215453;http://id.worldcat.org/fast/1119851,Q255;Q48725;Q335
+"Manuscripts, Persian--Albania--Gjirokastër--18th century",lcsh,,"Manuscripts, Persian;Albania--Gjirokastër;Eighteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1208147;http://id.worldcat.org/fast/904058,Q255;Q48741;Q3024
+"Manuscripts, Persian--Illuminations--16th century",aat,,"Manuscripts, Persian;illuminations (paintings);Sixteenth century",http://id.worldcat.org/fast/1008462;http://vocab.getty.edu/aat/300264522;http://id.worldcat.org/fast/1119851,Q255;Q225;Q335
+"Manuscripts, Persian--India--16th century",lcsh,,"Manuscripts, Persian;India;Sixteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/1119851,Q255;Q26595;Q335
+"Manuscripts, Persian--India--17th century",lcsh,,"Manuscripts, Persian;India;Seventeenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/1113663,Q255;Q26595;Q2771
+"Manuscripts, Persian--India--18th century",lcsh,,"Manuscripts, Persian;India;Eighteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/904058,Q255;Q26595;Q3024
+"Manuscripts, Persian--India--19th century",lcsh,,"Manuscripts, Persian;India;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/1037841,Q255;Q26595;Q3538
+"Manuscripts, Persian--India--Bharūch (District)--19th century",lcsh,,"Manuscripts, Persian;India--Bharūch (District);Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1332290;http://id.worldcat.org/fast/1037841,Q255;Q48730;Q3538
+"Manuscripts, Persian--India--Bijāpur (Karnataka)--17th century",lcsh,,"Manuscripts, Persian;India--Bijāpur (Karnataka);Seventeenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1319495;http://id.worldcat.org/fast/1113663,Q255;Q48721;Q2771
+"Manuscripts, Persian--India--Calcatta--19th century",lcsh,,"Manuscripts, Persian;India--Kolkata;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1892339;http://id.worldcat.org/fast/1037841,Q255;Q48727;Q3538
+"Manuscripts, Persian--India--Delhi--19th century",lcsh,,"Manuscripts, Persian;India--Delhi;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1205766;http://id.worldcat.org/fast/1037841,Q255;Q48746;Q3538
+"Manuscripts, Persian--India--Gujarat--19th century",lcsh,,"Manuscripts, Persian;India--Gujarat;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1213726;http://id.worldcat.org/fast/1037841,Q255;Q48729;Q3538
+"Manuscripts, Persian--India--Hyderabad--18th century",lcsh,,"Manuscripts, Persian;India--Hyderabad;Eighteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1207982;http://id.worldcat.org/fast/904058,Q255;Q48718;Q3024
+"Manuscripts, Persian--India--Hyderabad--19th century",lcsh,,"Manuscripts, Persian;India--Hyderabad;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1207982;http://id.worldcat.org/fast/1037841,Q255;Q48718;Q3538
+"Manuscripts, Persian--India--Jammu and Kashmir--17th century",lcsh,,"Manuscripts, Persian;India--Jammu and Kashmir;Seventeenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1207110;http://id.worldcat.org/fast/1113663,Q255;Q18321;Q2771
+"Manuscripts, Persian--India--Lucknow--19th century",lcsh,,"Manuscripts, Persian;India--Lucknow;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1213583;http://id.worldcat.org/fast/1037841,Q255;Q48731;Q3538
+"Manuscripts, Persian--India--Mandi (District)--18th century",lcsh,,"Manuscripts, Persian;India--Mandi (District);Eighteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1331554;http://id.worldcat.org/fast/904058,Q255;Q48720;Q3024
+"Manuscripts, Persian--India--Murshidābād--18th century",lcsh,,"Manuscripts, Persian;India;Eighteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/904058,Q255;Q26595;Q3024
+"Manuscripts, Persian--India--Rampur (Uttar Pradesh)--18th century",lcsh,,"Manuscripts, Persian;India--Rampur (Uttar Pradesh);Eighteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1316023;http://id.worldcat.org/fast/904058,Q255;Q48732;Q3024
+"Manuscripts, Persian--India--Surat--17th century",lcsh,,"Manuscripts, Persian;India--Surat;Seventeenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1210504;http://id.worldcat.org/fast/1113663,Q255;Q48757;Q2771
+"Manuscripts, Persian--India--Vadodara--19th century",lcsh,,"Manuscripts, Persian;India--Vadodara;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1220272;http://id.worldcat.org/fast/1037841,Q255;Q48719;Q3538
 "Manuscripts, Persian--Iran",lcsh,,"Manuscripts, Persian;Iran",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1204889,Q255;Q16384
+"Manuscripts, Persian--Iran--13th century",lcsh,,"Manuscripts, Persian;Iran;Thirteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1150138,Q255;Q16384;Q245
+"Manuscripts, Persian--Iran--14th century",lcsh,,"Manuscripts, Persian;Iran;Fourteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/933420,Q255;Q16384;Q295
+"Manuscripts, Persian--Iran--15th century",lcsh,,"Manuscripts, Persian;Iran;Fifteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/923962,Q255;Q16384;Q154
+"Manuscripts, Persian--Iran--16th century",lcsh,,"Manuscripts, Persian;Iran;Sixteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1119851,Q255;Q16384;Q335
+"Manuscripts, Persian--Iran--17th century",lcsh,,"Manuscripts, Persian;Iran;Seventeenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1113663,Q255;Q16384;Q2771
+"Manuscripts, Persian--Iran--19th century",lcsh,,"Manuscripts, Persian;Iran;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1037841,Q255;Q16384;Q3538
+"Manuscripts, Persian--Iran--20th century",lcsh,,"Manuscripts, Persian;Iran;Twentieth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1159810,Q255;Q16384;Q5942
+"Manuscripts, Persian--Iran--Arak--19th century",lcsh,,"Manuscripts, Persian;Iran--Arak;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1272333;http://id.worldcat.org/fast/1037841,Q255;Q48749;Q3538
+"Manuscripts, Persian--Iran--Ārān va Bīdgul--19th century",lcsh,,"Manuscripts, Persian;Iran--Ārān va Bīdgul;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1719938;http://id.worldcat.org/fast/1037841,Q255;Q48724;Q3538
+"Manuscripts, Persian--Iran--Hamadān--19th century",lcsh,,"Manuscripts, Persian;Iran--Hamadān;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1216535;http://id.worldcat.org/fast/1037841,Q255;Q48742;Q3538
+"Manuscripts, Persian--Iran--Iṣfahān--14th century",lcsh,,"Manuscripts, Persian;Iran--Iṣfahān;Fourteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1220534;http://id.worldcat.org/fast/933420,Q255;Q48723;Q295
+"Manuscripts, Persian--Iran--Iṣfahān--17th century",lcsh,,"Manuscripts, Persian;Iran--Iṣfahān;Seventeenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1220534;http://id.worldcat.org/fast/1113663,Q255;Q48723;Q2771
+"Manuscripts, Persian--Iran--Iṣfahān--18th century",lcsh,,"Manuscripts, Persian;Iran--Iṣfahān;Eighteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1220534;http://id.worldcat.org/fast/904058,Q255;Q48723;Q3024
+"Manuscripts, Persian--Iran--Iṣfahān--19th century",lcsh,,"Manuscripts, Persian;Iran--Iṣfahān;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1220534;http://id.worldcat.org/fast/1037841,Q255;Q48723;Q3538
+"Manuscripts, Persian--Iran--Iṣfahān--20th century",lcsh,,"Manuscripts, Persian;Iran--Iṣfahān;Twentieth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1220534;http://id.worldcat.org/fast/1159810,Q255;Q48723;Q5942
+"Manuscripts, Persian--Iran--Kāshān--17th century",lcsh,,"Manuscripts, Persian;Iran--Kāshān;Seventeenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1229405;http://id.worldcat.org/fast/1113663,Q255;Q48739;Q2771
+"Manuscripts, Persian--Iran--Kāshān--19th century",lcsh,,"Manuscripts, Persian;Iran--Kāshān;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1229405;http://id.worldcat.org/fast/1037841,Q255;Q48739;Q3538
+"Manuscripts, Persian--Iran--Mahābād--19th century",lcsh,,"Manuscripts, Persian;Iran--Mahābād;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1302984;http://id.worldcat.org/fast/1037841,Q255;Q48750;Q3538
+"Manuscripts, Persian--Iran--Mashhad--19th century",lcsh,,"Manuscripts, Persian;Iran--Mashhad;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1206478;http://id.worldcat.org/fast/1037841,Q255;Q48743;Q3538
+"Manuscripts, Persian--Iran--Qazvīn--19th century",lcsh,,"Manuscripts, Persian;Iran--Qazvīn;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1250763;http://id.worldcat.org/fast/1037841,Q255;Q48740;Q3538
+"Manuscripts, Persian--Iran--Qum--19th century",lcsh,,"Manuscripts, Persian;Iran--Qum;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1222001;http://id.worldcat.org/fast/1037841,Q255;Q48756;Q3538
+"Manuscripts, Persian--Iran--Sarāb (Āz̲arbāyjān-i Bākhtarī)--17th century",lcsh,,"Manuscripts, Persian;Iran--Sarāb (Āz̲arbāyjān-i Bākhtarī);Seventeenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1880845;http://id.worldcat.org/fast/1113663,Q255;Q48748;Q2771
+"Manuscripts, Persian--Iran--Shīrāz--16th century",lcsh,,"Manuscripts, Persian;Iran--Shīrāz;Sixteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1208873;http://id.worldcat.org/fast/1119851,Q255;Q48253;Q335
+"Manuscripts, Persian--Iran--Shīrāz--17th century",lcsh,,"Manuscripts, Persian;Iran--Shīrāz;Seventeenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1208873;http://id.worldcat.org/fast/1113663,Q255;Q48253;Q2771
+"Manuscripts, Persian--Iran--Shīrāz--19th century",lcsh,,"Manuscripts, Persian;Iran--Shīrāz;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1208873;http://id.worldcat.org/fast/1037841,Q255;Q48253;Q3538
+"Manuscripts, Persian--Iran--Simnān--17th century",lcsh,,"Manuscripts, Persian;Iran--Simnān;Seventeenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1211113;http://id.worldcat.org/fast/1113663,Q255;Q48722;Q2771
+"Manuscripts, Persian--Iran--Tabrīz--14th century",lcsh,,"Manuscripts, Persian;Iran--Tabrīz;Fourteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1206575;http://id.worldcat.org/fast/933420,Q255;Q48737;Q295
+"Manuscripts, Persian--Iran--Tabrīz--19th century",lcsh,,"Manuscripts, Persian;Iran--Tabrīz;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1206575;http://id.worldcat.org/fast/1037841,Q255;Q48737;Q3538
+"Manuscripts, Persian--Iran--Tehran--18th century",lcsh,,"Manuscripts, Persian;Iran--Tehran;Eighteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1204877;http://id.worldcat.org/fast/904058,Q255;Q48736;Q3024
+"Manuscripts, Persian--Iran--Tehran--19th century",lcsh,,"Manuscripts, Persian;Iran--Tehran;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1204877;http://id.worldcat.org/fast/1037841,Q255;Q48736;Q3538
+"Manuscripts, Persian--Iran--Tehran--20th century",lcsh,,"Manuscripts, Persian;Iran--Tehran;Twentieth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1204877;http://id.worldcat.org/fast/1159810,Q255;Q48736;Q5942
+"Manuscripts, Persian--Iraq--15th century",lcsh,,"Manuscripts, Persian;Iraq;Fifteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1205757;http://id.worldcat.org/fast/923962,Q255;Q11124;Q154
+"Manuscripts, Persian--Iraq--Baghdad--15th century",lcsh,,"Manuscripts, Persian;Iraq--Baghdad;Fifteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1207444;http://id.worldcat.org/fast/923962,Q255;Q48745;Q154
+"Manuscripts, Persian--Pakistan--Lahore--19th century",lcsh,,"Manuscripts, Persian;Pakistan--Lahore;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1205808;http://id.worldcat.org/fast/1037841,Q255;Q48744;Q3538
+"Manuscripts, Persian--Pakistan--Wazīrābād--16th century",lcsh,,"Manuscripts, Persian;Pakistan--Wazīrābād;Sixteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1872258;http://id.worldcat.org/fast/1119851,Q255;Q48738;Q335
+"Manuscripts, Persian--Turkey--Istanbul--18th century",lcsh,,"Manuscripts, Persian;Turkey--Istanbul;Eighteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1204833;http://id.worldcat.org/fast/904058,Q255;Q4823;Q3024
+"Manuscripts, Persian--Uzbekistan--Samarqand--17th century",lcsh,,"Manuscripts, Persian;Uzbekistan--Samarqand;Seventeenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1210007;http://id.worldcat.org/fast/1113663,Q255;Q11433;Q2771
 "Manuscripts, Prakrit",lcsh,,"Manuscripts, Prakrit",http://id.worldcat.org/fast/1008468,Q26612
 "Manuscripts, Prakrit--20th century",lcsh,,"Manuscripts, Prakrit;Twentieth century",http://id.worldcat.org/fast/1008468;http://id.worldcat.org/fast/1159810,Q26612;Q5942
 "Manuscripts, Provençal",lcsh,,"Manuscripts, Provençal",http://id.worldcat.org/fast/1008469,Q4203
@@ -1677,10 +1840,15 @@ Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
 "Manuscripts, Turkish",lcsh,,"Manuscripts, Turkish",http://id.worldcat.org/fast/1008521,Q3068
 "Manuscripts, Turkish",openn-form/genre,,"Manuscripts, Turkish",http://id.worldcat.org/fast/1008521,Q3068
 "Manuscripts, Turkish--16th century",local,,"Manuscripts, Turkish;Sixteenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/1119851,Q3068;Q335
+"Manuscripts, Turkish--17th century",lcsh,,"Manuscripts, Turkish;Seventeenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/1113663,Q3068;Q2771
 "Manuscripts, Turkish--18th century",lcsh,,"Manuscripts, Turkish;Eighteenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/904058,Q3068;Q3024
 "Manuscripts, Turkish--18th century",openn-form/genre,,"Manuscripts, Turkish;Eighteenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/904058,Q3068;Q3024
+"Manuscripts, Turkish--19th century",lcsh,,"Manuscripts, Turkish;Nineteenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/1037841,Q3068;Q3538
 "Manuscripts, Turkish--19th century",local,,"Manuscripts, Turkish;Nineteenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/1037841,Q3068;Q3538
 "Manuscripts, Turkish--19th century",openn-form/genre,,"Manuscripts, Turkish;Nineteenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/1037841,Q3068;Q3538
+"Manuscripts, Turkish--20th century",lcsh,,"Manuscripts, Turkish;Twentieth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/1159810,Q3068;Q5942
+"Manuscripts, Urdu--18th century",lcsh,,"Manuscripts, Urdu;Eighteenth century",http://id.worldcat.org/fast/1008525;http://id.worldcat.org/fast/904058,Q48717;Q3024
+"Manuscripts, Urdu--19th century",lcsh,,"Manuscripts, Urdu;Nineteenth century",http://id.worldcat.org/fast/1008525;http://id.worldcat.org/fast/1037841,Q48717;Q3538
 manuscripts (documents),aat,(CStmoGRI)aatgf300028569,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789
 manuscripts (documents),aat,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789
 manuscripts (documents),openn-form/genre,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789
@@ -1819,6 +1987,7 @@ Manuscripts--Middle East--17th century,aat,,manuscripts (documents);Middle East;
 Manuscripts--Nepal--19th century,local,,Manuscripts;Nepal;Nineteenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1206102;http://id.worldcat.org/fast/1037841,Q331;Q26856;Q3538
 Manuscripts--Netherlands--15th century,aat,,manuscripts (documents);Netherlands;Fifteenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1204034;http://id.worldcat.org/fast/923962,Q10789;Q5863;Q154
 Manuscripts--Nigeria--19th century,aat,,manuscripts (documents);Nigeria;Nineteenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1205229;http://id.worldcat.org/fast/1037841,Q10789;Q38445;Q3538
+Manuscripts--Persian--Illuminations,aat,,manuscripts (documents);Persian (culture);illuminations (paintings),http://vocab.getty.edu/aat/300028569;http://vocab.getty.edu/aat/300019933;http://vocab.getty.edu/aat/300264522,Q10789;Q20348;Q225
 Manuscripts--Portugal,aat,,manuscripts (documents);Portugal,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1208476,Q10789;Q7091
 Manuscripts--Portugal--16th century,aat,,manuscripts (documents);Portugal;Sixteenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1208476;http://id.worldcat.org/fast/1119851,Q10789;Q7091;Q335
 Manuscripts--Portugal--17th century,aat,,manuscripts (documents);Portugal;Seventeenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1208476;http://id.worldcat.org/fast/1113663,Q10789;Q7091;Q2771
@@ -1913,13 +2082,39 @@ military commissions,aat,,military commissions,http://vocab.getty.edu/aat/300027
 Military history,fast,,Military history,http://id.worldcat.org/fast/1411630,Q11456
 Miniature books,rbmscv,,Miniature books,http://id.loc.gov/vocabulary/rbmscv/cv00867,Q16321
 Miniatures,aat,,Miniatures (paintings),http://vocab.getty.edu/aat/300033936,Q262
+Miniatures (Illuminations),gmgpc,,miniatures (paintings),http://vocab.getty.edu/aat/300033936,Q262
 Miniatures (Illuminations),aat,,miniatures (paintings),http://vocab.getty.edu/aat/300033936,Q262
+Miniatures (Illuminations)--16th century,gmgpc,,miniatures (paintings);Sixteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1119851,Q262;Q335
+Miniatures (Illuminations)--Afghanistan--Herat--15th century,gmgpc,,miniatures (paintings);Afghanistan--Herat;Fifteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1215453;http://id.worldcat.org/fast/923962,Q262;Q48725;Q154
 Miniatures (Illuminations)--Armenia--16th century,gmgpc,,miniatures (paintings);Armenia;Sixteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1206470;http://id.worldcat.org/fast/1119851,Q262;Q3017;Q335
 Miniatures (Illuminations)--Belgium--Mons--15th century,gmgpc,,miniatures (paintings);Belgium--Mons;Fifteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1206359;http://id.worldcat.org/fast/923962,Q262;Q12585;Q154
 Miniatures (Illuminations)--France--Rouen--15th century,gmgpc,,miniatures (paintings);France--Rouen;Fifteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1205659;http://id.worldcat.org/fast/923962,Q262;Q2965;Q154
+Miniatures (Illuminations)--India--16th century,gmgpc,,miniatures (paintings);India;Sixteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/1119851,Q262;Q26595;Q335
+Miniatures (Illuminations)--India--17th century,gmgpc,,miniatures (paintings);India;Seventeenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/1113663,Q262;Q26595;Q2771
+Miniatures (Illuminations)--India--18th century,gmgpc,,miniatures (paintings);India;Eighteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/904058,Q262;Q26595;Q3024
+Miniatures (Illuminations)--India--19th century,aat,,miniatures (paintings);India;Nineteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/1037841,Q262;Q26595;Q3538
+Miniatures (Illuminations)--India--19th century,gmgpc,,miniatures (paintings);India;Nineteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/1037841,Q262;Q26595;Q3538
+Miniatures (Illuminations)--Iran--13th century,gmgpc,,miniatures (paintings);Iran;Thirteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1150138,Q262;Q16384;Q245
+Miniatures (Illuminations)--Iran--14th century,gmgpc,,miniatures (paintings);Iran;Fourteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/933420,Q262;Q16384;Q295
+Miniatures (Illuminations)--Iran--15th century,gmgpc,,miniatures (paintings);Iran;Fifteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/923962,Q262;Q16384;Q154
+Miniatures (Illuminations)--Iran--16th century,gmgpc,,miniatures (paintings);Iran;Sixteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1119851,Q262;Q16384;Q335
+Miniatures (Illuminations)--Iran--17th century,gmgpc,,miniatures (paintings);Iran;Seventeenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1113663,Q262;Q16384;Q2771
+Miniatures (Illuminations)--Iran--Iṣfahān--14th century,gmgpc,,miniatures (paintings);Iran--Iṣfahān;Fourteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1220534;http://id.worldcat.org/fast/933420,Q262;Q48723;Q295
+Miniatures (Illuminations)--Iran--Shīrāz--16th century,gmgpc,,miniatures (paintings);Iran--Shīrāz;Sixteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1208873;http://id.worldcat.org/fast/1119851,Q262;Q48253;Q335
+Miniatures (Illuminations)--Iran--Tabrīz--14th century,gmgpc,,miniatures (paintings);Iran--Tabrīz;Fourteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1206575;http://id.worldcat.org/fast/933420,Q262;Q48737;Q295
+Miniatures (Illuminations)--Islamic countries,gmgpc,,miniatures (paintings);Islamic countries,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1244130,Q262;Q2810
+Miniatures (Illuminations)--Islamic countries--17th century,gmgpc,,miniatures (paintings);Islamic countries;Seventeenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1113663,Q262;Q2810;Q2771
+Miniatures (Illuminations)--Islamic countries--18th century,gmgpc,,miniatures (paintings);Islamic countries;Eighteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/904058,Q262;Q2810;Q3024
+Miniatures (Illuminations)--Islamic countries--19th century,gmgpc,,miniatures (paintings);Islamic countries;Nineteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1037841,Q262;Q2810;Q3538
+Miniatures (Illuminations)--Islamic countries--20th century,gmgpc,,miniatures (paintings);Islamic countries;Twentieth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1159810,Q262;Q2810;Q5942
+Miniatures (Illuminations)--Islamic Empire--13th century,gmgpc,,miniatures (paintings);Islamic Empire;Thirteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1150138,Q262;Q11211;Q245
+Miniatures (Illuminations)--Islamic Empire--16th century,gmgpc,,miniatures (paintings);Islamic Empire;Sixteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1119851,Q262;Q11211;Q335
+Miniatures (Illuminations)--Islamic empire--17th century,gmgpc,,miniatures (paintings);Islamic Empire;Seventeenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1113663,Q262;Q11211;Q2771
+Miniatures (Illuminations)--Islamic Empire--17th century,gmgpc,,miniatures (paintings);Islamic Empire;Seventeenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1113663,Q262;Q11211;Q2771
 Miniatures (Illuminations)--Italy--14th century,gmgpc,,miniatures (paintings);Italy;Fourteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/933420,Q262;Q249;Q295
 Miniatures (Illuminations)--Italy--15th century,gmgpc,,miniatures (paintings);Italy;Fifteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/923962,Q262;Q249;Q154
 Miniatures (Illuminations)--Italy--Siena--14th century,gmgpc,,miniatures (paintings);Italy--Siena;Fourteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1204409;http://id.worldcat.org/fast/933420,Q262;Q4200;Q295
+Miniatures (Illuminations)--Pakistan--Lahore--19th century,gmgpc,,miniatures (paintings);Pakistan--Lahore;Nineteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1205808;http://id.worldcat.org/fast/1037841,Q262;Q48744;Q3538
 Miniatures (Illuminations)--Spain--Valladolid--16th century,gmgpc,,miniatures (paintings);Spain--Valladolid;Sixteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1207327;http://id.worldcat.org/fast/1119851,Q262;Q38450;Q335
 Miniatures (Painting)--14th century,aat,,miniatures (paintings);Fourteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/933420,Q262;Q295
 Miniatures (Painting)--Belgium--15th century,aat,,miniatures (paintings);Belgium;Fifteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1210278;http://id.worldcat.org/fast/923962,Q262;Q16301;Q154
@@ -2095,17 +2290,20 @@ Penmanship specimen books--Italy--16th century,,,Penmanship specimen books;Italy
 Penmanship specimen books--Italy--17th century,rbgenr,,Penmanship specimen books;Italy;Seventeenth century,http://id.loc.gov/vocabulary/rbmscv/cv01708;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1113663,Q38523;Q249;Q2771
 Penmanship specimen manuals,aat,,Penmanship specimen books,http://id.loc.gov/vocabulary/rbmscv/cv01708,Q38523
 Penmanship specimen manuals--Italy--16th century,aat,,Penmanship specimen books;Italy;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01708;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1119851,Q38523;Q249;Q335
+Personal correspondence,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026141,Personal correspondence,http://id.worldcat.org/fast/1919948,Q5912
 Personal correspondence,fast,(OCoLC)fst01919948,Personal correspondence,http://id.worldcat.org/fast/1919948,Q5912
 Personal correspondence,lcgft,,Personal correspondence,http://id.worldcat.org/fast/1919948,Q5912
 petitions,aat,,petitions,http://vocab.getty.edu/aat/300027219,Q3594
 Petitions,aat,,petitions,http://vocab.getty.edu/aat/300027219,Q3594
 Petitions,rbgenr,,Petitions,http://id.loc.gov/vocabulary/rbmscv/cv01522,Q17481
+Pétitions,rvmgf,,Legal petitions,http://id.worldcat.org/fast/1774282,Q42546
 philosophical,ds-genre,,philosophy,http://vocab.getty.edu/aat/300054279,Q42419
 Pictorial maps,fast,,Pictorial maps,http://id.worldcat.org/fast/1423807,Q2776
 Pictorial maps,lcgft,,Pictorial maps,http://id.worldcat.org/fast/1423807,Q2776
 Pictorial works,fast,(OCoLC)fst01423874,Pictorial works,http://id.worldcat.org/fast/1423874,Q240
 Pictorial works,fast,,Pictorial works,http://id.worldcat.org/fast/1423874,Q240
 Pictorial works,openn-form/genre,,Pictorial works,http://id.worldcat.org/fast/1423874,Q240
+Pictures,lcgft,http://id.loc.gov/authorities/genreForms/gf2017027251,Pictures,http://id.worldcat.org/fast/1986252,Q48755
 Pigskin bindings,rbmscv,,Pigskin bindings,http://id.loc.gov/vocabulary/rbmscv/cv00624,Q12678
 Pigskin bindings (Binding)--16th century,rbbin,,Pigskin bindings;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00624;http://id.worldcat.org/fast/1119851,Q12678;Q335
 Pigskin bindings (Binding)--Germany--15th century,rbbin,,Pigskin bindings;Germany;Fifteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00624;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/923962,Q12678;Q3032;Q154
@@ -2132,8 +2330,15 @@ Poems--Spain--15th century,aat,,poems;Spain;Fifteenth century,http://vocab.getty
 Poems--Spain--16th century,aat,,poems;Spain;Sixteenth century,http://vocab.getty.edu/aat/300026451;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/1119851,Q273;Q343;Q335
 Poems--Spain--17th century,aat,,poems;Spain;Seventeenth century,http://vocab.getty.edu/aat/300026451;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/1113663,Q273;Q343;Q2771
 Poems--Thailand,rbgenr,,Poems;Thailand,http://id.loc.gov/vocabulary/rbmscv/cv00203;http://id.worldcat.org/fast/1205310,Q17504;Q26903
+Poésie,rvmgf,,Poetry,http://id.worldcat.org/fast/1423828,Q247
+Poésie,rvmgf,,Poetry,http://id.worldcat.org/fast/1423828,Q247
+Poésie lyrique,rvmgf,,Lyric poetry,http://id.worldcat.org/fast/1921718,Q42599
+Poésie macaronique,rvmgf,,Macaronic verse,http://id.worldcat.org/fast/1922458,Q42536
+Poésie populaire,rvmgf,,Folk poetry,http://id.worldcat.org/fast/1921661,Q42600
 poetry,aat,,poetry,http://vocab.getty.edu/aat/300055931,Q11358
 poetry,ds-genre,,poetry,http://vocab.getty.edu/aat/300055931,Q11358
+Poetry,lcgft,"http://id.loc.gov/authorities/genreForms/gf2014026481(uri)
+				http://id.loc.gov/authorities/genreForms/gf2014026481",Poetry,http://id.worldcat.org/fast/1423828,Q247
 Poetry,fast,(OCoLC)fst01423828,Poetry,http://id.worldcat.org/fast/1423828,Q247
 Poetry,fast,,Poetry,http://id.worldcat.org/fast/1423828,Q247
 Poetry,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026481,Poetry,http://id.worldcat.org/fast/1423828,Q247
@@ -2144,7 +2349,6 @@ Poetry--Iran--16th century,aat,,poetry;Iran;Sixteenth century,http://vocab.getty
 Poetry--Iran--20th century,aat,,poetry;Iran;Twentieth century,http://vocab.getty.edu/aat/300055931;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1159810,Q11358;Q16384;Q5942
 Poetry--Italy--15th century,lcsh,,Poetry;Italy;Fifteenth century,http://id.worldcat.org/fast/1423828;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/923962,Q247;Q249;Q154
 Poetry--Italy--16th century,lcsh,,Poetry;Italy;Sixteenth century,http://id.worldcat.org/fast/1423828;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1119851,Q247;Q249;Q335
-Poésie,rvmgf,,Poetry,http://id.worldcat.org/fast/1423828,Q247
 Pointille tooling,rbmscv,,Pointillé tooling,http://id.loc.gov/vocabulary/rbmscv/cv00627,Q16377
 Polemics,aat,,polemics,http://vocab.getty.edu/aat/300252982,Q4285
 political,ds-genre,,politics,http://vocab.getty.edu/aat/300055537,Q42424
@@ -2167,15 +2371,12 @@ Portolanos--Italy--16th century,aat,,portolanos;Italy;Sixteenth century,http://v
 Portolanos--Italy--17th century,aat,,portolanos;Italy;Seventeenth century,http://vocab.getty.edu/aat/300137376;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1113663,Q2795;Q249;Q2771
 Portolanos--Portugal--16th century,aat,,portolanos;Portugal;Sixteenth century,http://vocab.getty.edu/aat/300137376;http://id.worldcat.org/fast/1208476;http://id.worldcat.org/fast/1119851,Q2795;Q7091;Q335
 Portolanos--Spain--16th century,aat,,portolanos;Spain;Sixteenth century,http://vocab.getty.edu/aat/300137376;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/1119851,Q2795;Q343;Q335
+Portraits,lcgft,http://id.loc.gov/authorities/genreForms/gf2017027254,Portraits,http://id.worldcat.org/fast/1423831,Q199
 Portraits,aat,,portraits,http://vocab.getty.edu/aat/300015637,Q7414
 Portraits,fast,,Portraits,http://id.worldcat.org/fast/1423831,Q199
 Portraits,lcgft,,Portraits,http://id.worldcat.org/fast/1423831,Q199
 Portraits,openn-form/genre,,portraits,http://vocab.getty.edu/aat/300015637,Q7414
 Portraits--Belgium--16th century,aat,,portraits;Belgium;Sixteenth century,http://vocab.getty.edu/aat/300015637;http://id.worldcat.org/fast/1210278;http://id.worldcat.org/fast/1119851,Q7414;Q16301;Q335
-Poésie,rvmgf,,Poetry,http://id.worldcat.org/fast/1423828,Q247
-Poésie lyrique,rvmgf,,Lyric poetry,http://id.worldcat.org/fast/1921718,Q42599
-Poésie macaronique,rvmgf,,Macaronic verse,http://id.worldcat.org/fast/1922458,Q42536
-Poésie populaire,rvmgf,,Folk poetry,http://id.worldcat.org/fast/1921661,Q42600
 prayer books,ds-genre,,prayer books,http://vocab.getty.edu/aat/300026476,Q6896
 Prayer books,aat,,prayer books,http://vocab.getty.edu/aat/300026476,Q6896
 Prayer books,lcsh,,Prayer books,http://id.worldcat.org/fast/1939841,Q38528
@@ -2183,6 +2384,7 @@ Prayer books,openn-form/genre,,prayer books,http://vocab.getty.edu/aat/300026476
 Prayer books,rbgenr,,Prayer books,http://id.loc.gov/vocabulary/rbmscv/cv01759,Q38527
 Prayer books,rbmscv,,Prayer books,http://id.loc.gov/vocabulary/rbmscv/cv01759,Q38527
 Prayer books--15th century,aat,,prayer books;Fifteenth century,http://vocab.getty.edu/aat/300026476;http://id.worldcat.org/fast/923962,Q6896;Q154
+Prayer books--17th century,aat,,prayer books;Seventeenth century,http://vocab.getty.edu/aat/300026476;http://id.worldcat.org/fast/1113663,Q6896;Q2771
 Prayer books--Belgium--15th century,rbgenr,,Prayer books;Belgium;Fifteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01759;http://id.worldcat.org/fast/1210278;http://id.worldcat.org/fast/923962,Q38527;Q16301;Q154
 Prayer books--Belgium--16th century,rbgenr,,Prayer books;Belgium;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01759;http://id.worldcat.org/fast/1210278;http://id.worldcat.org/fast/1119851,Q38527;Q16301;Q335
 Prayer books--France--16th century,aat,,prayer books;France;Sixteenth century,http://vocab.getty.edu/aat/300026476;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1119851,Q6896;Q152;Q335
@@ -2242,6 +2444,8 @@ Provenance labels (Provenance),rbprov,,Provenance labels,http://id.loc.gov/vocab
 Proverbs,aat,,proverbs,http://vocab.getty.edu/aat/300188783,Q38531
 Psalms (documents),aat,,psalms,http://vocab.getty.edu/aat/300379856,Q3641
 Psalter,aat,,psalters (books),http://vocab.getty.edu/aat/300026477,Q4134
+Psalters,fast,(OCoLC)fst01922512,Psalters,http://id.worldcat.org/fast/1922512,Q38533
+Psalters,lcgft,,Psalters,http://id.worldcat.org/fast/1922512,Q38533
 Psalters,lcgft,http://id.loc.gov/authorities/genreForms/gf2015026080,Psalters,http://id.worldcat.org/fast/1922512,Q38533
 Psalters,aat,,psalters (books),http://vocab.getty.edu/aat/300026477,Q4134
 Psalters,fast,,Psalters,http://id.worldcat.org/fast/1922512,Q38533
@@ -2249,6 +2453,7 @@ Psalters,lcgft,,Psalters,http://id.worldcat.org/fast/1922512,Q38533
 Psalters,lcsh,,Psalters,http://id.worldcat.org/fast/1080778,Q4323
 Psalters,rbgenr,,Psalters,http://id.loc.gov/vocabulary/rbmscv/cv01544,Q38532
 Psalters,rbmscv,,Psalters,http://id.loc.gov/vocabulary/rbmscv/cv01544,Q38532
+psalters (books),aat,,psalters (books),http://vocab.getty.edu/aat/300026477,Q4134
 psalters (books),ds-genre,,psalters (books),http://vocab.getty.edu/aat/300026477,Q4134
 Psalters (books),aat,,psalters (books),http://vocab.getty.edu/aat/300026477,Q4134
 Psalters (books)--England--14th century,aat,,psalters (books);England;Fourteenth century,http://vocab.getty.edu/aat/300026477;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/933420,Q4134;Q320;Q295
@@ -2261,8 +2466,8 @@ Psalters--France--15th century,aat,,psalters (books);France;Fifteenth century,ht
 Psalters--Italy--15th century,rbgenr,,Psalters;Italy;Fifteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01544;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/923962,Q38532;Q249;Q154
 Psalters--Poland--16th century,rbgenr,,Psalters;Poland;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01544;http://id.worldcat.org/fast/1206891;http://id.worldcat.org/fast/1119851,Q38532;Q4840;Q335
 Psautiers,rvmgf,,Psalters,http://id.worldcat.org/fast/1922512,Q38533
+Psautiers,rvmgf,,Psalters,http://id.worldcat.org/fast/1922512,Q38533
 Pull-off boxes,openn-form/genre,,pull-off boxes,http://w3id.org/lob/concept/4465,Q38534
-Pétitions,rvmgf,,Legal petitions,http://id.worldcat.org/fast/1774282,Q42546
 Quarter bindings (Binding),rbbin,,Quarter bindings,http://id.loc.gov/vocabulary/rbmscv/cv00333,Q5846
 Quarter covers,lobt,,quarter covers,http://w3id.org/lob/concept/1530,Q26825
 Quotations,fast,,Quotations,http://id.worldcat.org/fast/1423792,Q5944
@@ -2273,6 +2478,7 @@ Qur'ans,ds-genre,,Qur'ans,http://vocab.getty.edu/aat/300265128,Q3532
 Qur'ans,openn-form/genre,,Qur'ans,http://vocab.getty.edu/aat/300265128,Q3532
 Qurʼans,aat,,Qur'ans,http://vocab.getty.edu/aat/300265128,Q3532
 Qurʼans,openn-form/genre,,Qur'ans,http://vocab.getty.edu/aat/300265128,Q3532
+Rāgamālā painting,lcsh,,Rāgamālā painting,http://id.worldcat.org/fast/1102721,Q48753
 Raised bands (Binding),rbbin,,Raised bands,http://id.loc.gov/vocabulary/rbmscv/cv00665,Q5936
 Reading lists,aat,,reading lists,http://vocab.getty.edu/aat/300027166,Q4325
 Receipts,aat,,receipts (financial records),http://vocab.getty.edu/aat/300027573,Q219
@@ -2404,6 +2610,7 @@ Sheepskin bindings (Binding),rbbin,,Sheepskin bindings,http://id.loc.gov/vocabul
 Shelfmarks,rbmscv,,Shelf marks,http://id.loc.gov/vocabulary/rbmscv/cv00268,Q16356
 Shelf marks,rbmscv,,Shelf marks,http://id.loc.gov/vocabulary/rbmscv/cv00268,Q16356
 Shelf marks (Provenance),rbprov,,Shelf marks,http://id.loc.gov/vocabulary/rbmscv/cv00268,Q16356
+Short stories,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026542,Short stories,http://id.worldcat.org/fast/1726740,Q48726
 Side labels,lobt,,side labels,http://w3id.org/lob/concept/4444,Q27186
 signatures (names),aat,,signatures (names),http://vocab.getty.edu/aat/300028705,Q42560
 Signed bindings,rbmscv,,Signed bindings,http://id.loc.gov/vocabulary/rbmscv/cv00701,Q16282
@@ -2469,6 +2676,8 @@ Tacketed bindings (Binding),rbbin,,Tacketed bindings,http://id.loc.gov/vocabular
 tailpieces (layout features),aat,,tailpieces (layout features),http://vocab.getty.edu/aat/300207353,Q12565
 Tariff schedules,aat,,tariff schedules,http://vocab.getty.edu/aat/300136689,Q7109
 Tax records,aat,,tax records,http://vocab.getty.edu/aat/300027371,Q8006
+Témoin,lobt,,témoin,http://w3id.org/lob/concept/5640,Q5919
+Témoin,lobt,,témoin,http://w3id.org/lob/concept/5640,Q5919
 Terminology,fast,,Terminology,http://id.worldcat.org/fast/1423880,Q11125
 Testaments,rvmgf,,Wills,http://id.worldcat.org/fast/1774321,Q38554
 Testimonies,aat,,testimonies,http://vocab.getty.edu/aat/300027861,Q4146
@@ -2483,14 +2692,13 @@ Texts,fast,,Texts,http://id.worldcat.org/fast/1423705,Q3066
 Texts,fast,(OCoLC)fst01423705,Texts,http://id.worldcat.org/fast/1423705,Q3066
 textura (Gothic script),aat,,textura (Gothic script),http://vocab.getty.edu/aat/300202638,Q10787
 Textura (Gothic script),aat,,textura (Gothic script),http://vocab.getty.edu/aat/300202638,Q10787
-Témoin,lobt,,témoin,http://w3id.org/lob/concept/5640,Q5919
+Théâtre,rvmgf,,Drama,http://id.worldcat.org/fast/1423879,Q3010
 theological,ds-genre,,theology,http://vocab.getty.edu/aat/300054313,Q42400
 theological / patristic / biblical,ds-genre,,theology;Fathers of the church;biblical,http://vocab.getty.edu/aat/300054313;http://id.worldcat.org/fast/921916;http://vocab.getty.edu/aat/300263186,Q42400;Q19847;Q19856
 theological / scholastic,ds-genre,,theology;scholasticism,http://vocab.getty.edu/aat/300054313;http://vocab.getty.edu/aat/300055974,Q42400;Q42401
+Thèses et écrits académiques,rvmgf,,Academic theses,http://id.worldcat.org/fast/1726453,Q42588
 Thumb indexes,aat,,thumb indexes,http://vocab.getty.edu/aat/300207631,Q38549
 Thumb indexes,rbmscv,,Thumb indexes,http://id.loc.gov/vocabulary/rbmscv/cv00754,Q16314
-Thèses et écrits académiques,rvmgf,,Academic theses,http://id.worldcat.org/fast/1726453,Q42588
-Théâtre,rvmgf,,Drama,http://id.worldcat.org/fast/1423879,Q3010
 Ties,rbmscv,,Ties,http://id.loc.gov/vocabulary/rbmscv/cv00463,Q12522
 Ties (Binding),rbbin,,Ties,http://id.loc.gov/vocabulary/rbmscv/cv00463,Q12522
 Tracts (documents),aat,,tracts (literary works),http://vocab.getty.edu/aat/300027211,Q4956
@@ -2509,10 +2717,11 @@ Treatises,aat,http://vocab.getty.edu/aat/300026681,treatises,http://vocab.getty.
 Tree calf bindings (Binding),rbbin,,Tree calf bindings,http://id.loc.gov/vocabulary/rbmscv/cv00704,Q42582
 Trials,aat,,trials,http://vocab.getty.edu/aat/300069665,Q17498
 "Trials, litigation, etc",fast,(OCoLC)fst01423712,"Trials, litigation, etc.",http://id.worldcat.org/fast/1423712,Q38749
+Trivia and miscellanea,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026201,Trivia and miscellanea,http://id.worldcat.org/fast/1921748,Q26886
+Trivia and miscellanea,lcgft,,Trivia and miscellanea,http://id.worldcat.org/fast/1921748,Q26886
 Trough-marbled paper,lobt,,trough-marbled paper,http://w3id.org/lob/concept/3990,Q27104
 tuǧras,aat,,tuǧras,http://vocab.getty.edu/aat/300310091,Q11262
 tuǧras,aat,,tuǧras,http://vocab.getty.edu/aat/300310091,Q11262
-Témoin,lobt,,témoin,http://w3id.org/lob/concept/5640,Q5919
 Unfinished works,rbgenr,,Unfinished works,http://id.loc.gov/vocabulary/rbmscv/cv02003,Q42539
 Vellum,aat,,vellum (parchment),http://vocab.getty.edu/aat/300011852,Q10802
 Vellum (parchment),aat,,vellum (parchment),http://vocab.getty.edu/aat/300011852,Q10802
@@ -2600,4 +2809,3 @@ Writs,aat,,writs,http://vocab.getty.edu/aat/300027864,Q3630
 Writs--England--15th century,aat,,writs;England;Fifteenth century,http://vocab.getty.edu/aat/300027864;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/923962,Q3630;Q320;Q154
 Yapp style bindings,rbmscv,,Yapp style bindings,http://id.loc.gov/vocabulary/rbmscv/cv00469,Q5861
 Yapp style bindings (Binding),rbbin,,Yapp style bindings,http://id.loc.gov/vocabulary/rbmscv/cv00469,Q5861
-Épitaphes,rvmgf,,Epitaphs,http://id.worldcat.org/fast/1921646,Q42601
