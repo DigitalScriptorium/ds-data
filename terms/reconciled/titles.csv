@@ -2344,7 +2344,7 @@ Doctrinale,,,,Doctrinal,Q7573
 Doctrinale puerorum,,Doctrinale puerorum,,Doctrinale puerorum,Q44081
 Doctrinale puerorum,,,,Doctrinale puerorum,Q44081
 Doctrinalewith commentary,,,,Doctrinal,Q7573
-Document,,,,Document;Fragment,Q8301;Q20461
+Document,,,,Document,Q8301
 "Document, 1386, declaring a moratorium on the debts of Françoise Damose",,,,Legal documents,Q3717
 "Document, 1444 July 22, sale of a piece of land in Lombardy, Italy",,,,Documents concerning land ownership,Q8045
 "Document, 1486 August 9, Quingentialis? mandating the cancellation and annulment of an unlicensed purchase of land made by Parisium de Leffe de Medulas from Acino de Zannis de Castrognifredo",,,,Document,Q8301
@@ -7578,10 +7578,10 @@ Sermons for the temporale,,,,Sermons for the temporale,Q820
 Sermons on the deadly sins,,,,Sermons,Q1400
 Sermons on the Psalms,,,,Sermons,Q1400
 "Sermon-writing aid, in alphabetical order",,,,Sermons,Q1400
-Service book,,Benedictional (Manuscript Kenneth Spencer Research Library. MS 9/2:1),,Missal,Q662
-Service-book,,Missal (Manuscript Kenneth Spencer Research Library. MS 9/2:19),,Missal,Q662
-Service-book,,Gradual (Manuscript Kenneth Spencer Research Library. MS 9/2:18),,Missal,Q662
-Service-book,,Antiphonary (Manuscript Kenneth Spencer Research Library. MS 9/2:20),,Missal,Q662
+Service book,,Benedictional (Manuscript Kenneth Spencer Research Library. MS 9/2:1),,Service book;Benedictional,Q40008;Q39910
+Service-book,,Missal (Manuscript Kenneth Spencer Research Library. MS 9/2:19),,Service book;Missal,Q40008;Q662
+Service-book,,Gradual (Manuscript Kenneth Spencer Research Library. MS 9/2:18),,Service book;Gradual,Q40008;Q1121
+Service-book,,Antiphonary (Manuscript Kenneth Spencer Research Library. MS 9/2:20),,Service book;Antiphonary,Q40008;Q654
 Sette salmi penitenziali ... etc,,Penitential Psalms.,,Penitential psalms,Q7232
 Seven petitions of the Lord's Prayer,,,,Seven petitions of the Lord's Prayer,Q39776
 Sha'arei Orah,שערי אורה,Sha'arei Orah,,Sha'arei Orah,Q44109
