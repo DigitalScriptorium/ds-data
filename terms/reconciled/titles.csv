@@ -1324,21 +1324,21 @@ Caṇḍīpāṭhakrama,,Tantras,,Tantras,Q27776
 Canon,,,,Canon,Q44053
 Canones vel operationes in operando quadrante,,,,Canones vel operationes in operando quadrante,Q3691
 Canonical Epistles,,,,Epistles,Q1466
-Canon law,,,,Canon law,Q1415
+Canon law,,,,Canon law text,Q1415
 Canon Law: 'De Iure Iurando' and Concerning Emperor Henry by a Pope,,,,De lure lurando;Concerning emperor Henry by a pope,Q20434;Q20370
 Canon Law: De Religiosis,,,,De religiosis,Q20383
 Canon Law: Excerpts from the Decretals,,,,Decretals,Q1447
-Canon Law: Treatise on Matrimony,,,,Canon law;Treatise on marriage,Q1415;Q20503
-Canon law (?),,,,Canon law,Q1415
-Canon law collection,,,,Canon law,Q1415
+Canon Law: Treatise on Matrimony,,,,Canon law text;Treatise on marriage,Q1415;Q20503
+Canon law (?),,,,Canon law text,Q1415
+Canon law collection,,,,Canon law text,Q1415
 Canon Law Commentary,,,,Commentary on canon law,Q20393
 "Canon Law Commentary, Chapters 7-8 (examination of candidates for ordination)",,,,Commentary on canon law,Q20393
-Canon law miscellany,,,,Canon law,Q1415
-Canon law summa,,,,Canon law,Q1415
-Canon law text,,,,Canon law,Q1415
-Canon Law Treatise,,,,Treatise on canon law,Q20439
-Canon law with commentary,,,,Canon law,Q1415
-Canon law with gloss,,,,Canon law,Q1415
+Canon law miscellany,,,,Canon law text,Q1415
+Canon law summa,,,,Canon law text,Q1415
+Canon law text,,,,Canon law text,Q1415
+Canon Law Treatise,,,,Canon law text,Q1415
+Canon law with commentary,,,,Canon law text;Commentary on canon law,Q1415;Q20393
+Canon law with gloss,,,,Canon law text,Q1415
 Canon super almanach; De 12 signis et eorum naturis in generali,,,,Canon super almanach;De 12 signis et eorum naturis in generali,Q19944;Q20031
 Canonziere,,,,Canzoniere,Q5956
 "Canterbury Tales, two fragments (Manly and Rickert Ph1)",,,,Canterbury tales,Q12793
@@ -2942,7 +2942,7 @@ Glossary encyclopedia,,,,Glossary,Q1388
 "Glossary of Names, A-B",,,,Glossary,Q1388
 Glossary of Words Applied to the Virgin Mary,,,,Glossary,Q1388
 Glossed Bible,,Bible,,Bible,Q661
-Glossed Canon Law,,,,Canon law,Q1415
+Glossed Canon Law,,,,Canon law text,Q1415
 Glossed Geneva New Testament,,,,New testament,Q655
 Glossed Gospel of Mark,,Bible,,Bible,Q661
 Glossed psalter,,,,Psalter,Q660
@@ -8343,7 +8343,7 @@ Travels of Sir John Mandeville,,,,Travels of Sir John Mandeville,Q39846
 Treatise about the true appearance of praying places; India,,,,Treatise on Muslim sacred places,Q48642
 Treatise of forest law,,,,Treatise on forest law,Q17542
 Treatise on Blessed Virgin Mary,,,,Text on the Virgin Mary,Q39847
-Treatise on canon law,,,,Canon law,Q1415
+Treatise on canon law,,,,Canon law text,Q1415
 Treatise on composing letters,,,,Treatise on composing letters,Q27581
 Treatise on conveyancing,,,,Treatise on conveyancing,Q5969
 Treatise on Ethics,,,,Ethical treatise,Q12100
