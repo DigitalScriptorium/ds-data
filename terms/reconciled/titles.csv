@@ -32,7 +32,7 @@ Abbreviatio Summae Guillelmi Altissiodorensis /,,,,Summae Guillelmi Altissiodore
 Abregé cosmographique; divisé en deux livres,,,,Cartographic text,Q38344
 "Abrégé des graces, et des merveilles opérées dans le monastère, des religieuses Ursulines de Magny",,,,Works of the Ursulines at Magny,Q17571
 A breviatt concerning the memorable states and conditions of the Queenes Majesties honorable courts of records; kept in and about the Cittys of London and Westm[inster,,,,Summary of court records,Q39155
-Abridged Latin translation of the Nichomachean ethics and some commentaries on Aristotle,,,,Nichomachean ethics;Commentary on Aristotle,Q6012;Q3120
+Abridged Latin translation of the Nichomachean ethics and some commentaries on Aristotle,,,,Nicomachean ethics;Commentary on Aristotle,Q369;Q3120
 A brief discoverie of the estate of the kingdomes of Spayne and Portugall; viz. all the Kinges shipping ... all his forces ... all his cleargie and nobilitie ... all his provinces ... besides many other particulars of moment,,,,Property survey,Q8394
 Abscondita naturae,,,,Abscondita naturae,Q39156
 Ab urbe condita,,,,History of Rome,Q1324
@@ -1541,7 +1541,7 @@ Collationes de decem praeceptis,,,,Collationes de decem praeceptis,Q44057
 Collationes patrum,,,,Lives of the Fathers,Q39925
 Collationes patrum XXIV,,Collationes patrum XXIV (Ms. UCB 108),,Lives of the fathers,Q1429
 "Collationes XXIV, incomplete",,,,Collationes,Q19964
-Collation of L'ethica d'Aristotile ridotta in compendio,,,,Nichomachean ethics,Q6012
+Collation of L'ethica d'Aristotile ridotta in compendio,,,,Nicomachean ethics,Q369
 Collecção Corioza de varias noticias,,,,Collecção Corioza de varias noticias,Q48511
 Collectanea opusculorum eruditorum et historicorum,,,,Collectanea opusculorum eruditorum et historicorum,Q7532
 Collectaneorum liber de mirabilibus mundi,,Polyhistor,,De mirabilibus mundi,Q19931
@@ -2578,8 +2578,8 @@ Esposizione sopra la Cantica,,,,Esposizione sopra la Cantica,Q39376
 Essays,,Essays.,,Essays,Q12740
 "Este es el epitome del compendio historial de Estevan de Garibay, recopilado por Don Antonio Pellicer de Ossau ; Apuntamientos dela coronica del emperador Carlos 5 escrita por fr. Prudencio de Sandoual, coronista año 1604",,,,Chronicle,Q1475
 Estoria de España,,Primera crónica general (Ms. UCB 151),,Chronicle,Q1475
-Ethica Nicomachea,,Nicomachean ethics.,,Nichomachean ethics,Q6012
-Ethica secondo la dottrina d'Aristotile,,,,Nichomachean ethics,Q6012
+Ethica Nicomachea,,Nicomachean ethics.,,Nicomachean ethics,Q369
+Ethica secondo la dottrina d'Aristotile,,,,Nicomachean ethics,Q369
 Etsi negotiis familiaribus impediti vix satis ocium studio suppeditare possiumus,,Rhetorica ad Herennium,,Rhetorica ad Herennium,Q816
 Etymologiae,,Etymologiae,,Etymologiae,Q359
 Etymologies and correspondence by Isidore of Seville,,Etymologiae,,Etymologiae,Q359
@@ -5195,7 +5195,7 @@ Les epistres sur le Roman de la rose,,Débat sur le Roman de la rose (Ms. UCB 10
 Le sphere de monde; proprement dicte Cosmographie,,De mundi sphæra,,De mundi sphæra,Q39545
 Les XXI epistres des dames illustes traduicttes d'Ovide; par le Reverend Pere en Dieu Monseigneur l'Evesque de Angoulesme,,Heroides,,Heroides,Q39961
 Le testament maistre Jehan de Mehun,,,,Testament,Q39546
-Leticha /,,,,Nichomachean ethics,Q6012
+Leticha /,,,,Nicomachean ethics,Q369
 Letra missa per Dominicum Caberico? per quendam nuncium ...,,,,Letter,Q1454
 Letter,,,,Letter,Q1454
 "Letter, 1527, from Hanns Vinsterwalder to Matthäus Lang, the Cardinal Archbishop of Salzburg",,,,Letters,Q5068
@@ -5266,9 +5266,9 @@ Liber dialogorvm,,Dialogi,,Dialogi,Q12724
 Liber divine doctrine / date per ... Sancte virginis Katherine de Senis,,Libro della divina dottrina,,Libro della divina dottrina,Q39556
 Liber divisionum. Antidotarium. Liber Almansoris ... etc,,Works.,,Miscellany,Q3673
 Liber epistularum Senecae ad Lucillium,,,,Epistulae morales ad Lucilium,Q6025
-Liber ethicorum Aristotelis,,,,Nichomachean ethics,Q6012
+Liber ethicorum Aristotelis,,,,Nicomachean ethics,Q369
 Liber ethimologiarum,,Etymologiae,,Etymologiae,Q359
-Liber ettichorum Aristottelis in vulgari,,,,Nichomachean ethics,Q6012
+Liber ettichorum Aristottelis in vulgari,,,,Nicomachean ethics,Q369
 Liber evangelistarum,,Bible,,Bible,Q661
 Liber excusationum in causis criminalibus,,,,Liber excusationum in causis criminalibus,Q3680
 Liber exhortationum beati Augustini episcopi ad Julianum comitem,,Contra Julianum,,Contra Julianum,Q12730
@@ -5282,7 +5282,7 @@ Liber lapidum,,,,Liber lapidum,Q39557
 Liber machabaeorum,,Bible,,Bible;Book of Maccabees,Q661;Q39138
 Liber mayor Prisciani de ordinatione partium orationis,,Institutio de arte grammaticae,,Institutio de arte grammaticae,Q5058
 Liber meditationum sive orationum /,,,,Liber meditationum,Q6033
-Liber metaphisice ; Liber ethicorum,,Metaphysics,,Metaphysics (Aristotle);Nichomachean ethics,Q361;Q6012
+Liber metaphisice ; Liber ethicorum,,Metaphysics,,Metaphysics (Aristotle);Nicomachean ethics,Q361;Q369
 Liber minor de coitu,,,,Liber minor de coitu,Q44069
 Liber mirabilium,,,,Liber mirabilium,Q3684
 Liber Niger Domus Regiae,,,,Liber niger domus regiae,Q17603
@@ -6218,7 +6218,7 @@ Note of Obligation and Condition,,,,Note of obligation and condition,Q20403
 Note on land transaction,,,,Transaction,Q3683
 Notes,,,,Notes,Q40007
 "Notes, circa 1693, concerning Terra lemnia, Terra Sigillata, and the distillation of metals from them, information obtained from Nicholas Fatio de Duillier (1664-1753)",,,,Notes on distillation of metals,Q17627
-Notes on Aristotle's Ethics and Metaphysics,,,,Nichomachean ethics;Metaphysics (Aristotle),Q6012;Q361
+Notes on Aristotle's Ethics and Metaphysics,,,,Nicomachean ethics;Metaphysics (Aristotle),Q369;Q361
 Notizie di mercatura /; scritte da Ippolito Libri,,,,Notizie di mercatura,Q39641
 Notulae super Mattheum et Marcum,,,,Bible commentary;Commentary on Matthew;Commentary on Mark,Q1433;Q1346;Q39137
 Nova log[i]ca m[a]g[ist]ri Alberti,,,,Philosophical text,Q5996
