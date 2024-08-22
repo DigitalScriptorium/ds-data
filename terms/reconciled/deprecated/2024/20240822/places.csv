@@ -253,7 +253,7 @@ Calcutta,Kolkata,http://vocab.getty.edu/tgn/7030776,Q48690
 "Cambrai, diocese of, France (northeastern)",Cambrai;France,http://vocab.getty.edu/tgn/7008456;http://vocab.getty.edu/tgn/1000070,Q19889;Q122
 "Cambridge, England",Cambridge;England,http://vocab.getty.edu/tgn/7010874;http://vocab.getty.edu/tgn/7002445,Q38162;Q133
 Cancon,Cancon,http://vocab.getty.edu/tgn/1032406,Q7794
-"Cappadocia (Turkey); Palestine, Eastern Mediterreanean (Cappadocia or Palestine)",Cappadocia;Turkey;Palestine;Eastern Mediterranean,http://vocab.getty.edu/tgn/6003016;http://vocab.getty.edu/tgn/1000144;http://vocab.getty.edu/tgn/7004540;http://vocab.getty.edu/tgn/7593196,Q38166;Q3079;Q38277;Q3658
+"Cappadocia (Turkey); Palestine, Eastern Mediterreanean (Cappadocia or Palestine)",Cappadocia;Turkey;Palestine;Eastern Mediterreanean,http://vocab.getty.edu/tgn/6003016;http://vocab.getty.edu/tgn/1000144;http://vocab.getty.edu/tgn/7004540;http://vocab.getty.edu/tgn/7593196,Q38166;Q3079;Q38277;Q3658
 Carpi,Carpi,http://vocab.getty.edu/tgn/7004950,Q16419
 "Carpi, Italy",Carpi;Italy,http://vocab.getty.edu/tgn/7004950;http://vocab.getty.edu/tgn/1000080,Q16419;Q134
 Castello di Romena,Pratovecchio,http://vocab.getty.edu/tgn/5002845,Q7208
@@ -319,8 +319,8 @@ Denmark (?),Denmark,http://vocab.getty.edu/tgn/1000066,Q38185
 "Dieppe, France",Dieppe;France,http://vocab.getty.edu/tgn/7008922;http://vocab.getty.edu/tgn/1000070,Q38187;Q122
 "Dijon, Burgundy, France",Dijon;Burgundy;France,http://vocab.getty.edu/tgn/7008224;http://vocab.getty.edu/tgn/7029372;http://vocab.getty.edu/tgn/1000070,Q19896;Q7797;Q122
 Dimashq,Damascus,http://vocab.getty.edu/tgn/7002261,Q11626
-"Dimashq, al-Shām",Damascus;Syria (region),http://vocab.getty.edu/tgn/7002261;http://vocab.getty.edu/tgn/7594765,Q11626;Q38306
-"Dimashq, al-Shām",Damascus;Syria (region),http://vocab.getty.edu/tgn/7002261;http://vocab.getty.edu/tgn/7594765,Q11626;Q38306
+"Dimashq, al-Shām",Damascus;Syria,http://vocab.getty.edu/tgn/7002261;http://vocab.getty.edu/tgn/7594765,Q11626;Q38306
+"Dimashq, al-Shām",Damascus;Syria,http://vocab.getty.edu/tgn/7002261;http://vocab.getty.edu/tgn/7594765,Q11626;Q38306
 Dimashq ;,Damascus,http://vocab.getty.edu/tgn/7002261,Q11626
 "Diocese of Brixen, Tyrol, Austria",Tyrol;Austria,http://vocab.getty.edu/tgn/7003029;http://vocab.getty.edu/tgn/1000062,Q12709;Q132
 "Diocese of Treviso, Montello, Italy",Treviso (province);Volpago del Montello;Italy,http://vocab.getty.edu/tgn/7002996;http://vocab.getty.edu/tgn/1047496;http://vocab.getty.edu/tgn/1000080,Q19900;Q19901;Q134
@@ -444,7 +444,6 @@ England and Spain,England;Spain,http://vocab.getty.edu/tgn/7002445;http://vocab.
 England or France,England;France,http://vocab.getty.edu/tgn/7002445;http://vocab.getty.edu/tgn/1000070,Q133;Q122
 England or Northern France,England;Northern France,http://vocab.getty.edu/tgn/7002445;http://vocab.getty.edu/tgn/4004036,Q133;Q1114
 England or Wales,England;Wales,http://vocab.getty.edu/tgn/7002445;http://vocab.getty.edu/tgn/7002443,Q133;Q7799
-Erfurt,Erfurt,http://vocab.getty.edu/tgn/7024031,Q6983
 "Essonne, France",Département de l'Essonne;France,http://vocab.getty.edu/tgn/7002935;http://vocab.getty.edu/tgn/1000070,Q42492;Q122
 Ethiopia,Ethiopia,http://vocab.getty.edu/tgn/7000489,Q3655
 Europe,Europe,http://vocab.getty.edu/tgn/1000003,Q1290
@@ -516,7 +515,7 @@ France,France,http://vocab.getty.edu/tgn/1000070,Q122
 "France, France (Burgundy)",France;Burgundy,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7029372,Q122;Q7797
 "France, France (Citeaux Abbey)",France;Cîteaux,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7656279,Q122;Q38161
 "France, France (Clermont-Ferrand?)",France;Clermont-Ferrand,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7008202,Q122;Q38174
-"France, France (Limany, near Mantes)",France;Limay;Mantes-la-Jolie,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/1034056;http://vocab.getty.edu/tgn/7008063,Q122;Q38227;Q38241
+"France, France (Limany, near Mantes)",France;Limay;Mantes-la-Jolie,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7008131;http://vocab.getty.edu/tgn/7008063,Q122;Q38195;Q38241
 "France, France (Loire valley)",France;Loire Valley,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/4011586,Q122;Q38232
 "France, France (Metz)",France;Metz,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7008418,Q122;Q6981
 "France, France (Paris?)",France;Paris,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7008038,Q122;Q136
@@ -725,7 +724,7 @@ Germany,Germany,http://vocab.getty.edu/tgn/7000084,Q131
 "Germany, North Germany (?)",Germany;Northern Germany,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/4004315,Q131;Q19886
 "Germany, North Rhine-Westphalia",Germany;North Rhine-Westphalia,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/7003677,Q131;Q17538
 "Germany, Northwestern Germany",Germany,http://vocab.getty.edu/tgn/7000084,Q131
-"Germany, Nuerenburg (Dominican Convent of St. Catherine)",Germany;Nuremberg,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/7004334,Q131;Q3080
+"Germany, Nuerenburg (Dominican Convent of St. Catherine)",Germany;Nuremburg,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/7004334,Q131;Q3080
 "Germany, Rhine",Germany;Rhine Valley,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/7032606,Q131;Q38290
 "Germany, Rhine?",Germany;Rhine Valley,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/7032606,Q131;Q38290
 "Germany, Rhineland",Germany;Rhineland,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/7003683,Q131;Q1305
@@ -1071,7 +1070,6 @@ Italy (Bologna),Italy;Bologna,http://vocab.getty.edu/tgn/1000080;http://vocab.ge
 Italy (central),Italy,http://vocab.getty.edu/tgn/1000080,Q134
 Italy (Central),Central Italy,http://vocab.getty.edu/tgn/4005361,Q20356
 Italy (Fabriano),Italy;Fabriano,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7004004,Q134;Q38197
-Italy (Ferrara?),Italy;Ferrara,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7004264,Q134;Q1299
 Italy (Florence?),Italy;Florence,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7000457,Q134;Q3084
 Italy (Florence),Italy;Florence,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7000457,Q134;Q3084
 Italy (likely Bologna),Italy;Bologna,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7004847,Q134;Q3087
@@ -1083,7 +1081,6 @@ Italy (northern?),Italy,http://vocab.getty.edu/tgn/1000080,Q134
 Italy (northern),Italy,http://vocab.getty.edu/tgn/1000080,Q134
 Italy (or possibly southern France),Italy;Southern France,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/4004037,Q134;Q19904
 Italy (or Spain?) (Feltro),Italy;Spain,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/1000095,Q134;Q129
-Italy (Padua?),Italy;Padua,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7003085,Q134;Q3091
 Italy (poss. Florence),Italy;Florence,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7000457,Q134;Q3084
 Italy (possibly Bologna),Italy;Bologna,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7004847,Q134;Q3087
 Italy (possibly Florence),Italy;Florence,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7000457,Q134;Q3084
@@ -1348,7 +1345,6 @@ Paris,Paris,http://vocab.getty.edu/tgn/7008038,Q136
 "Paris, France",Paris;France,http://vocab.getty.edu/tgn/7008038;http://vocab.getty.edu/tgn/1000070,Q136;Q122
 Paris?,Paris,http://vocab.getty.edu/tgn/7008038,Q136
 "Paris?, France",Paris;France,http://vocab.getty.edu/tgn/7008038;http://vocab.getty.edu/tgn/1000070,Q136;Q122
-"Paris? , France",Paris;France,http://vocab.getty.edu/tgn/7008038;http://vocab.getty.edu/tgn/1000070,Q136;Q122
 "Paris(?) or Tours(?), France",Paris;Tours;France,http://vocab.getty.edu/tgn/7008038;http://vocab.getty.edu/tgn/7008323;http://vocab.getty.edu/tgn/1000070,Q136;Q19885;Q122
 Parma,Parma,http://vocab.getty.edu/tgn/7004942,Q4331
 Passau,Passau,http://vocab.getty.edu/tgn/7004407,Q5007
@@ -1362,7 +1358,6 @@ Perugia,Perugia,http://vocab.getty.edu/tgn/7000526,Q3083
 Pesaro,Pesaro,http://vocab.getty.edu/tgn/7003991,Q16406
 Philippines,Philippines,http://vocab.getty.edu/tgn/1000135,Q38280
 Piacenza,Piacenza,http://vocab.getty.edu/tgn/7004939,Q4999
-"Piacenza, Italy",Piacenza;Italy,http://vocab.getty.edu/tgn/7004939;http://vocab.getty.edu/tgn/1000080,Q4999;Q134
 "Piacenza or Milan, Italy",Piacenza;Milan;Italy,http://vocab.getty.edu/tgn/7004939;http://vocab.getty.edu/tgn/7005903;http://vocab.getty.edu/tgn/1000080,Q4999;Q7499;Q134
 "Picady, France",Picardy;France,http://vocab.getty.edu/tgn/7024273;http://vocab.getty.edu/tgn/1000070,Q859;Q122
 "Picardy, France",Picardy;France,http://vocab.getty.edu/tgn/7024273;http://vocab.getty.edu/tgn/1000070,Q859;Q122
@@ -1585,7 +1580,7 @@ Syria or Iraq,Syria;Iraq,http://vocab.getty.edu/tgn/1000140;http://vocab.getty.e
 Syria or Turkey,Syria;Turkey,http://vocab.getty.edu/tgn/1000140;http://vocab.getty.edu/tgn/1000144,Q3096;Q3079
 Syria or Turkey?],Syria;Turkey,http://vocab.getty.edu/tgn/1000140;http://vocab.getty.edu/tgn/1000144,Q3096;Q3079
 Tabriz,Tabriz,http://vocab.getty.edu/tgn/7002156,Q27491
-Tabrīz,Tabriz,http://vocab.getty.edu/tgn/7002156,Q27491
+Tabrīz,Tabriz,http://vocab.getty.edu/tgn/7002156,Q48696
 Tabriz?],Tabriz,http://vocab.getty.edu/tgn/7002156,Q27491
 Tangier,Tangier,http://vocab.getty.edu/tgn/7000442,Q27487
 Tangier],Tangier,http://vocab.getty.edu/tgn/7000442,Q27487
@@ -1704,7 +1699,6 @@ Yānīyah (Greece),Ioannina;Greece,http://vocab.getty.edu/tgn/7011082;http://voc
 "Yazd, Iran",Yazd;Iran,http://vocab.getty.edu/tgn/7002173;http://vocab.getty.edu/tgn/7000231,Q27481;Q2822
 Yemen,Yemen,http://vocab.getty.edu/tgn/7000261,Q2825
 York,York,http://vocab.getty.edu/tgn/7011995,Q16409
-"York, England",York;England,http://vocab.getty.edu/tgn/7011995;http://vocab.getty.edu/tgn/7002445,Q16409;Q133
 "Yugoslavia, Yugoslavia",Yugoslavia,http://vocab.getty.edu/tgn/8713918,Q38329
 Zaragoza,Zaragoza,http://vocab.getty.edu/tgn/7008813,Q4330
 "Zaragoza, Spain",Zaragoza;Spain,http://vocab.getty.edu/tgn/7008813;http://vocab.getty.edu/tgn/1000095,Q4330;Q129

@@ -122,7 +122,6 @@ chu,chu,Church Slavonic,Q33251,Q16427
 Church Slavic,chu,Church Slavonic,Q33251,Q16427
 "Church Slavic, Church Slavonic, Old Bulgarian, Old Church Slavonic, Old Slavonic",chu,Church Slavonic;Old Church Slavonic,Q33251;Q35499,Q16427;Q20366
 Church Slavonic,,Church Slavonic,Q33251,Q16427
-"Collection material in various languages, including Latin, French, German, Spanish, Dutch, and Hebrew",,Latin;French;German;Spanish;Dutch;Hebrew,Q397;Q150;Q188;Q1321;Q7411;Q9288,Q113;Q111;Q112;Q114;Q793;Q117
 "Condition in Middle English, obligation in Latin, and later summary in English",enm;lat;eng,Middle English;Latin;English,Q36395;Q397;Q1860,Q119;Q113;Q109
 cop,cop,Coptic,Q36155,Q4335
 cop;ara,cop;ara,Coptic;Arabic,Q36155;Q13955,Q4335;Q118
@@ -200,7 +199,6 @@ fre,fre,French,Q150,Q111
 fre;ger,fre;ger,French;German,Q150;Q188,Q111;Q112
 fre;ita;lat,fre;ita;lat,French;Italian;Latin,Q150;Q652;Q397,Q111;Q116;Q113
 fre;lat,fre;lat,French;Latin,Q150;Q397,Q111;Q113
-frelat,,French;Latin,Q150;Q397,Q111;Q113
 French,,French,Q150,Q111
 French,frm,French,Q150,Q111
 French,fre,French,Q150,Q111
@@ -301,7 +299,6 @@ Hindustani,inc;per,Hindustani,Q11051,Q18353
 Homiletic texts in Old English. Calendar and gospels in Latin. Some English additions,ang;lat;eng,Old English;Latin;English,Q42365;Q397;Q1860,Q1317;Q113;Q109
 ice,ice,Icelandic,Q294,Q38097
 Icelandic,,Icelandic,Q294,Q38097
-In Anglo-Norman,,Anglo-Norman,Q35214,Q1315
 In Arabic,,Arabic,Q13955,Q118
 In Arabic,ara,Arabic,Q13955,Q118
 "In Arabic, Persian, Ottoman Turkish, and Greek",;ara;per;gre;ota,Arabic;Persian;Ottoman Turkish;Greek,Q13955;Q9168;Q36730;Q9129,Q118;Q120;Q3104;Q1318
@@ -313,7 +310,6 @@ In Arabic,ara,Arabic,Q13955,Q118
 "In Arabic, with Farsi translations of main Arabic text in red beneath each line",,Arabic;Persian,Q13955;Q9168,Q118;Q120
 In Arabic.,ara,Arabic,Q13955,Q118
 In Arabic.,,Arabic,Q13955,Q118
-In Arabic and Ottoman Turkish; written in nastaʻlīq script,,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
 In Arabic and Persian,ara,Arabic;Persian,Q13955;Q9168,Q118;Q120
 In Arabic and Persian,ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
 In Arabic and Persian.,ara,Arabic;Persian,Q13955;Q9168,Q118;Q120
@@ -468,9 +464,6 @@ In Latin,,Latin,Q397,Q113
 "In Latin, with Spanish marginal notes",,Latin;Spanish,Q397;Q1321,Q113;Q114
 "In Latin, with the words of the bride and groom and the note of the bride's brother in Middle English",lat,Latin;Middle English,Q397;Q36395,Q113;Q119
 In Latin; calendar in French,lat;fre,Latin;French,Q397;Q150,Q113;Q111
-In Latin; Carolingian script,,Latin,Q397,Q113
-"In Latin; Gothic script, with annotations and first page (preceding text) in humanistic script",,Latin,Q397,Q113
-In Latin; Gothic Textura script,,Latin,Q397,Q113
 In Latin; liturgical calendar in French,lat,Latin;French,Q397;Q150,Q113;Q111
 In Latin; liturgical calendar in French,lat;fre,Latin;French,Q397;Q150,Q113;Q111
 In Latin; liturgical calendar in French.,lat,Latin;French,Q397;Q150,Q113;Q111
@@ -479,12 +472,10 @@ In Latin; liturgical calendar in Latin and French,lat,Latin;French,Q397;Q150,Q11
 In Latin; liturgical calendar in Latin and French,lat;fre,Latin;French,Q397;Q150,Q113;Q111
 In Latin; liturgical calendar in Latin and French.,lat,Latin;French,Q397;Q150,Q113;Q111
 In Latin; liturgical calendar in Latin and French.,lat;fre,Latin;French,Q397;Q150,Q113;Q111
-In Latin; Textualis Formata (Quadratus) script,,Latin,Q397,Q113
 In Latin.,,Latin,Q397,Q113
 In Latin (highly abbreviated),lat,Latin,Q397,Q113
 In Latin and Castilian,,Latin;Spanish,Q397;Q1321,Q113;Q114
 In Latin and French,lat;fre,Latin;French,Q397;Q150,Q113;Q111
-"In Latin and French; numerous scripts, including Textualis Formata, Gothico-Antiqua, and Hybrida Libraria",,Latin;French,Q397;Q150,Q113;Q111
 In Latin and French.,mul,Latin;French,Q397;Q150,Q113;Q111
 In Latin and French.,lat,Latin;French,Q397;Q150,Q113;Q111
 In Latin and French.,,Latin;French,Q397;Q150,Q113;Q111
@@ -506,7 +497,6 @@ In Latin and Middle Low German,lat,Latin;Middle Low German,Q397;Q505674,Q113;Q38
 In Latin and Middle Low German,lat;nds,Latin;Middle Low German,Q397;Q505674,Q113;Q38101
 In Latin and Middle Low German.,lat,Latin;Middle Low German,Q397;Q505674,Q113;Q38101
 In Latin and Middle Low German.,lat;nds,Latin;Middle Low German,Q397;Q505674,Q113;Q38101
-In Latin and Old French,,Latin;Old French,Q397;Q35222,Q113;Q3106
 In Latin and Spanish,,Latin;Spanish,Q397;Q1321,Q113;Q114
 In Latin with a few lines of marginalia in Middle English (f. 1).,lat,Latin;Middle English,Q397;Q36395,Q113;Q119
 In Latin with a few lines of marginalia in Middle English (f. 1).,,Latin;Middle English,Q397;Q36395,Q113;Q119
@@ -541,12 +531,10 @@ In Middle French,fre,Middle French,Q1473289,Q110
 In Middle French,frm,Middle French,Q1473289,Q110
 In Middle French.,frm,Middle French,Q1473289,Q110
 In Middle French.,,Middle French,Q1473289,Q110
-In Middle High German,,Middle High German,Q837985,Q115
 "In Middle High German, the text probably composed in the Alemannic region (Switzerland) in the second half of the 13th century",gmh,Middle High German;Alemannic,Q837985;Q131339,Q115;Q38102
 "In Middle High German, the text probably composed in the Alemannic region (Switzerland) in the second half of the 13th century",,Middle High German;Alemannic,Q837985;Q131339,Q115;Q38102
 "In Middle High German, the text probably composed in the Alemannic region (Switzerland) in the second half of the 13th century.",gmh,Middle High German;Alemannic,Q837985;Q131339,Q115;Q38102
 "In Middle High German, the text probably composed in the Alemannic region (Switzerland) in the second half of the 13th century.",,Middle High German;Alemannic,Q837985;Q131339,Q115;Q38102
-In Middle High German; Cursiva script,,Middle High German,Q837985,Q115
 "In modern Javanese, rendered from the original Kawi",jav,Javanese;Kawi,Q33549;Q49341,Q38105;Q38413
 In Nepali,san,Nepali,Q33823,Q27514
 In Old Church Slavonic,chu,Old Church Slavonic,Q35499,Q20366
@@ -554,7 +542,6 @@ In Old Church Slavonic,,Old Church Slavonic,Q35499,Q20366
 In Old Church Slavonic.,chu,Old Church Slavonic,Q35499,Q20366
 In Old Church Slavonic.,,Old Church Slavonic,Q35499,Q20366
 In Old French,fro,Old French,Q35222,Q3106
-In Old French; Gothic script,,Old French,Q35222,Q3106
 In Old Norse,non,Old Norse,Q35505,Q38103
 In Old Occitan (Provençal),,Old Occitan,Q2779185,Q38115
 In Old Spanish,roa,Old Spanish,Q1088025,Q40060
@@ -1229,19 +1216,13 @@ Text in K'iche' and Spanish.,,K’iche’;Spanish,Q36494;Q1321,Q38121;Q114
 Text in Korean,,Korean,Q9176,Q12712
 Text in Latin,lat,Latin,Q397,Q113
 Text in Latin,,Latin,Q397,Q113
-Text in Latin; Italian on ff. 67r-v,,Latin;Italian,Q397;Q652,Q113;Q116
 Text in Latin.,lat,Latin,Q397,Q113
 Text in Latin.,,Latin,Q397,Q113
-Text in Latin. Several folios (145r-149r) contain German text,,Latin;German,Q397;Q188,Q113;Q112
-Text in Latin. Several folios also contain German text,,Latin;German,Q397;Q188,Q113;Q112
 Text in Latin and English,lat,Latin;English,Q397;Q1860,Q113;Q109
 Text in Latin and English,lat;eng,Latin;English,Q397;Q1860,Q113;Q109
-Text in Latin and Middle French,,Latin;Middle French,Q397;Q1473289,Q113;Q110
-Text in Middle English,,Middle English,Q36395,Q119
 Text in Middle English and Latin,;enm;lat,Middle English;Latin,Q36395;Q397,Q119;Q113
 Text in Middle English and Latin,,Middle English;Latin,Q36395;Q397,Q119;Q113
 Text in Middle English and Latin.,,Middle English;Latin,Q36395;Q397,Q119;Q113
-Text in Middle French,,Middle French,Q1473289,Q110
 Text in Old French,fro,Old French,Q35222,Q3106
 Text in Syriac,syr,Syriac,Q33538,Q12713
 Text in Yucatec with some Spanish,;myn;spa,Yucatec Maya;Spanish,Q13354;Q1321,Q38111;Q114
@@ -1282,4 +1263,5 @@ urd,urd,Urdu,Q1617,Q27496
 Written in Latin with a small amount of Italian (f. 91r-94v),lat;ita,Latin;Italian,Q397;Q652,Q113;Q116
 xno,xno,Anglo-Norman,Q35214,Q1315
 zxx,,no linguistic content,Q22282939,Q16428
-zxx,zxx,no linguistic content;undetermined language,Q22282939;Q22282914,Q16428;Q12714
+zxx,zxx,no linguistic content,Q22282939,Q16428
+,,undetermined language,Q22282914,Q12714
