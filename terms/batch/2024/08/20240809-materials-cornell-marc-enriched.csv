@@ -1,0 +1,15 @@
+material_as_recorded,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+"parchment, ill.",,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+parchment,,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+"paper (except ff. 1, 5, 6, 10, 11, 20, with are parchment)",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33,,,
+paper,,,,paper,http://vocab.getty.edu/aat/300014109,Q31
+illustration,,,,,,
+"paper, ill.",,,,paper,http://vocab.getty.edu/aat/300014109,Q31
+illustrations,,,,,,
+color illustrations,,,,,,
+"paper, parchment",,,,paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
+ill.,,,,,,
+vellum,,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+"paper (except f. 145, which is parchment)",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33,,,
+paper (2 leaves parchment),,,,paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
+color illustration,,,,,,

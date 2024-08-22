@@ -1,0 +1,50 @@
+name_as_recorded,role,name_agr,source_authority_uri,instance_of_add,authorized_label_add,structured_value_add,ds_id_add,ds_qid_add,instance_of,authorized_label,structured_value,ds_qid
+"Dante Alighieri, 1265-1321",author,,,,,,,,human,Dante Alighieri,Q1067,Q40500
+"Cicero, Marcus Tullius, 106 B.C.-43 B.C.",author,,,human,Cicero,Q1541,DSNAME578,Q1813,,,,
+"Ricardus, de Mediavilla, approximately 1249-1308",author,,,human,Richard of Middleton,Q446656,DSNAME5822,Q42295,,,,
+"Bernard, of Clairvaux, Saint, 1090 or 1091-1153",author,,http://viaf.org/viaf/59875293,,,,,,human,Bernard of Clairvaux,Q188411,Q10865
+"James, of Viterbo, Archbishop of Naples, approximately 1255-1307 or 1308",author,,,,,,,,human,James of Viterbo,Q352625,Q40978
+"Pliny, the Elder",author,,,,,,,,human,Pliny the Elder,Q82778,Q41496
+Reichskartause Buxheim,former owner,,,,,,,,organization,Buxheim Charterhouse,Q460224,Q832
+Juvenal,author,,,,,,,,human,Juvenal,Q193800,Q41056
+"Jerome, Saint, -419 or 420",author,,,,,,,,human,Jerome,Q44248,Q898
+"Duport, Jean Hersmulle",former owner,,,human,Jean Hersmulle Duport,Q129517094,DSNAME6111,Q11903,,,,
+"Bernardino, da Siena, Saint, 1380-1444",author,,,,,,,,human,Bernardino of Siena,Q316295,Q6066
+Pseudo-Cicero,author,,,,,,,,human,Pseudo-Cicero,Q67405713,Q854
+"Boethius, -524",author,,,,,,,,human,Boethius,Q102851,Q398
+"Gregory I, Pope, approximately 540-604",author,,,,,,,,human,Gregory I,Q42827,Q889
+Livy,author,,,,,,,,human,Titus Livius,Q2039,Q1947
+"Thomas, of Breslau",author,,,human,Tomasz II Zaremba,Q331544,DSNAME5868,Q42341,,,,
+"Isidore, of Seville, Saint, -636",author,,http://id.loc.gov/authorities/names/n80139470,,,,,,human,Isidore of Seville,Q166876,Q428
+Catholic Church,author,,http://viaf.org/viaf/130782063,,,,,,organization,Catholic Church,Q9592,Q425
+"Donatus, Aelius",author,,,,,,,,human,Aelius Donatus,Q247137,Q40548
+"Cicero, Marcus Tullius",author,,http://id.loc.gov/authorities/names/n79032166,,,,,,human,Cicero,Q1541,Q1813
+"Innocent V, Pope, approximately 1224-1276",author,,,human,Innocent V,Q170871,DSNAME4502,Q40947,,,,
+"Guillelmus Brito, active 13th century",author,,http://id.loc.gov/authorities/names/nr00014579,,,,,,human,William Brito,Q15430845,Q7648
+"Justinian I, Emperor of the East, 483?-565",author,,http://viaf.org/viaf/88881722,,,,,,human,Justinian I,Q41866,Q1641
+"Love, Nicholas, active 1410",author,,http://id.loc.gov/authorities/names/n82274681,,,,,,human,Nicholas Love,Q7025802,Q4400
+Aristotle,author,,,,,,,,human,Aristotle,Q868,Q395
+Catholic Church. Pope (440-461 : Leo I),author,,,organization;human,Catholic Church;Leo I,Q9592;Q43954,DSNAME152;DSNAME4674,Q425;Q41119,,,,
+"Petrarca, Francesco, 1304-1374",author,,,,,,,,human,Petrarch,Q1401,Q16486
+"Vincent, of Beauvais, -1264",author,,,,,,,,human,Vincent of Beauvais,Q455162,Q381
+"Ampleforth Abbey (York, England)",former owner,,,organization,Ampleforth Abbey,Q3012194,DSNAME6009,Q42701,,,,
+"Jacques, de Lausanne, -1321",author,,,human,James of Lausanne,Q19663889,DSNAME1205,Q6084,,,,
+"Haimo, of Auxerre, -approximately 855",author,,,,,,,,human,Haimo of Auxerre,Q2934990,Q1918
+"Avicenna, 980-1037",author,,,,,,,,human,Avicenna,Q8011,Q2845
+Origen,author,,,,,,,,human,Origen,Q170472,Q41370
+"Ovid, 43 B.C.-17 A.D. or 18 A.D.",author,,,,,,,,human,Ovid,Q7198,Q41379
+"Egidius, theonicus",scribe,,,human,Egidius Theonicus,Q129517329,DSNAME6112,Q11975,,,,
+"Gervase, of Tilbury, approximately 1160-approximately 1211",author,,,,,,,,human,Gervase of Tilbury,Q531883,Q40739
+"Remiet, Perrin, active 1386-1428",author,,,human,Perrin Remiet,Q18508588,DSNAME503,Q1667,,,,
+"Bartholomaeus, Anglicus, active 13th century",author,,,,,,,,human,Bartholomew Anglicus,Q809312,Q3199
+"Peter Lombard, Bishop of Paris, approximately 1100-1160",author,,,,,,,,human,Peter Lombard,Q315347,Q1124
+Valerius Maximus,author,,,,,,,,human,Valerius Maximus,Q379991,Q1847
+"Alexander, ab Alexandria, -1314",author,,,human,Alexander Bonini,Q4718389,DSNAME6113,Q12788,,,,
+"Jacobus, Mediolanensis, active 13th century",author,,,,,,,,human,James of Milan,Q41569767,Q40966
+"Bonaventure, Saint, Cardinal, approximately 1217-1274",attributed author,,,,,,,,human,Bonaventure,Q43746,Q1935
+"Sacro Bosco, Joannes de, active 1230",author,,,,,,,,human,Johannes de Sacrobosco,Q433841,Q391
+"Richard, of St. Victor, -1173",author,,,,,,,,human,Richard of Saint Victor,Q1344799,Q20084
+"Augustine, of Hippo, Saint, 354-430",author,,,,,,,,human,Augustine of Hippo,Q8018,Q1515
+"Gregory, of Nicomedia, -1240",author,,,human,Gregory of Nicomedia,Q129517547,DSNAME6114,Q12515,,,,
+"Bede, the Venerable, Saint, 673-735",author,,,,,,,,human,Bede,Q154938,Q1525
+"William, de Brailes, active 13th century",illuminator,,,,,,,,human,William de Brailes,Q8020766,Q1614

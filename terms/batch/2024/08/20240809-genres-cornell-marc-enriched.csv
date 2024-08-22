@@ -1,0 +1,90 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Gothic scripts,aat,,,,,Gothic scripts,http://vocab.getty.edu/aat/300195226,Q16360
+Parchment,aat,,,,,parchment (animal material),http://vocab.getty.edu/aat/300011851,Q12611
+Palimpsest,aat,,palimpsests (manuscripts),http://vocab.getty.edu/aat/300028576,Q156,,,
+Humanistic scripts,aat,,,,,humanistic scripts,http://vocab.getty.edu/aat/300210204,Q10824
+Bifolia,aat,,bifolia,http://vocab.getty.edu/aat/300201054,Q1353,,,
+Vellum (parchment),aat,,,,,vellum (parchment),http://vocab.getty.edu/aat/300011852,Q10802
+Binding components,aat,,binding components,http://vocab.getty.edu/aat/300194225,Q38435,,,
+Early works,fast,(OCoLC)fst01411636,,,,Early works,http://id.worldcat.org/fast/1411636,Q300
+Breviaries,aat,,,,,breviaries,http://vocab.getty.edu/aat/300026459,Q4135
+Decorated initials,aat,,,,,decorated initials,http://vocab.getty.edu/aat/300417548,Q10807
+Rubrics,aat,,rubrics,http://vocab.getty.edu/aat/300196121,Q7258,,,
+Rinceaux,aat,,rinceaux,http://vocab.getty.edu/aat/300165495,Q7411,,,
+Wooden bindings--15th cent,aat,,Wooden bindings;Fifteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00600;http://id.worldcat.org/fast/923962,Q5918;Q154,,,
+Palimpsests,aat,,,,,palimpsests (manuscripts),http://vocab.getty.edu/aat/300028576,Q156
+Graduals,aat,,,,,graduals,http://vocab.getty.edu/aat/300026462,Q4165
+Commentaries,fast,(OCoLC)fst01423723,,,,Commentaries,http://id.worldcat.org/fast/1423723,Q2812
+Choirbooks,aat,,,,,choirbooks,http://vocab.getty.edu/aat/300026422,Q4269
+Historiated initials,aat,,,,,historiated initials,http://vocab.getty.edu/aat/300194390,Q10800
+Art,fast,(OCoLC)fst01423702,,,,Art,http://id.worldcat.org/fast/1423702,Q38573
+Illuminated manuscripts,aat,,,,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,Q4268
+Miniatures (paintings),aat,,,,,miniatures (paintings),http://vocab.getty.edu/aat/300033936,Q262
+Liturgical books,lcgft,,,,,Liturgical books,http://id.worldcat.org/fast/1922455,Q5822
+Liturgical books,fast,(OCoLC)fst01922455,,,,Liturgical books,http://id.worldcat.org/fast/1922455,Q5822
+Sacred music,lcgft,,,,,Sacred music,http://id.worldcat.org/fast/1920332,Q10791
+Antiphonaries,aat,,,,,antiphonaries,http://vocab.getty.edu/aat/300188812,Q6845
+Missals,aat,,,,,missals,http://vocab.getty.edu/aat/300026472,Q4244
+Manuscript waste (Binding),rbbin,,,,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568,Q5892
+Drawings,aat,,,,,drawings (visual works),http://vocab.getty.edu/aat/300033973,Q192
+Glosses (annotations),aat,,,,,glosses (annotations),http://vocab.getty.edu/aat/300211708,Q4260
+Books of hours,aat,,,,,books of hours,http://vocab.getty.edu/aat/300026457,Q3618
+Wooden bindings (Binding),rbbin,,,,,Wooden bindings,http://id.loc.gov/vocabulary/rbmscv/cv00600,Q5918
+Satire,fast,(OCoLC)fst01726731,,,,Satire,http://id.worldcat.org/fast/1726731,Q7143
+Manuscripts,fast,(OCoLC)fst01424060,,,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
+Wills,aat,,,,,wills,http://vocab.getty.edu/aat/300027764,Q4900
+Antiphonaries--Italy--16th century,rbgenr,,Antiphonaries;Italy;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00118;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1119851,Q10815;Q249;Q335,,,
+Stamps (tools),aat,,stamps (tools),http://vocab.getty.edu/aat/300024819,Q8034,,,
+Psalters,aat,,,,,psalters (books),http://vocab.getty.edu/aat/300026477,Q4134
+Illuminations (visual works),aat,,,,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
+Poetry,fast,(OCoLC)fst01423828,,,,Poetry,http://id.worldcat.org/fast/1423828,Q247
+Scientific illustrations,aat,,,,,scientific illustrations (images),http://vocab.getty.edu/aat/300015595,Q11377
+Spurious and doubtful works,fast,(OCoLC)fst01423886,,,,Spurious and doubtful works,http://id.worldcat.org/fast/1423886,Q7481
+Hymnals,aat,,,,,hymnals,http://vocab.getty.edu/aat/300026463,Q4785
+Illuminations,aat,,,,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
+Vellum,aat,,,,,vellum (parchment),http://vocab.getty.edu/aat/300011852,Q10802
+Biography,fast,(OCoLC)fst01423686,Biographies,http://id.worldcat.org/fast/1919896,Q3051,,,
+Wooden boards,rbbin,,Wooden boards,http://id.loc.gov/vocabulary/rbmscv/cv00601,Q5870,,,
+Prayers and devotions,fast,(OCoLC)fst01423909,,,,Prayers and devotions,http://id.worldcat.org/fast/1423909,Q3052
+Initials (layout features),aat,,,,,initials (layout features),http://vocab.getty.edu/aat/300168055,Q12539
+Books of hours--Egypt--9th century,rbgenr,,Books of hours;Egypt;Ninth century,http://id.loc.gov/vocabulary/rbmscv/cv01037;http://id.worldcat.org/fast/1208755;http://id.worldcat.org/fast/1037854,Q38439;Q11259;Q329,,,
+Dictionaries,fast,(OCoLC)fst01423826,,,,Dictionaries,http://id.worldcat.org/fast/1423826,Q3041
+Marbled calf bindings (Binding),rbbin,,Marbled calf bindings,http://id.loc.gov/vocabulary/rbmscv/cv00594,Q16262,,,
+Speeches,lcgft,,,,,Speeches,http://id.worldcat.org/fast/1774286,Q10810
+Speeches,fast,(OCoLC)fst01774286,,,,Speeches,http://id.worldcat.org/fast/1774286,Q10810
+Psalters (books),aat,,,,,psalters (books),http://vocab.getty.edu/aat/300026477,Q4134
+Sermons,aat,,,,,sermons,http://vocab.getty.edu/aat/300026669,Q3590
+Prayers,fast,(OCoLC)fst01423909,,,,Prayers,http://id.worldcat.org/fast/1939841,Q38528
+Legal documents,aat,,,,,legal documents,http://vocab.getty.edu/aat/300027590,Q236
+Specimens,fast,(OCoLC)fst01423861,,,,Specimens,http://id.worldcat.org/fast/1423861,Q239
+Sermons,rbgenr,,,,,Sermons,http://id.loc.gov/vocabulary/rbmscv/cv00099,Q38542
+Codicils,aat,,codicils,http://vocab.getty.edu/aat/300250949,Q8047,,,
+Vellum (paper),aat,,vellum (paper),http://vocab.getty.edu/aat/300250699,Q8354,,,
+Scores (documents for music),aat,,scores (documents for music),http://vocab.getty.edu/aat/300026427,Q11225,,,
+Wooden boards,aat,,Wooden boards,http://id.loc.gov/vocabulary/rbmscv/cv00601,Q5870,,,
+Accounts,aat,,,,,accounts,http://vocab.getty.edu/aat/300145802,Q178
+Sermons--14th century,rbgenr,,Sermons;Fourteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00099;http://id.worldcat.org/fast/933420,Q38542;Q295,,,
+Cords,rbbin,,Cords,http://id.loc.gov/vocabulary/rbmscv/cv00484,Q16353,,,
+Law commentaries,lcgft,,Law commentaries,http://id.worldcat.org/fast/1774248,Q11571,,,
+Law commentaries,fast,(OCoLC)fst01774248,Law commentaries,http://id.worldcat.org/fast/1774248,Q11571,,,
+bifolia,aat,(CStmoGRI)aatgf300201054,bifolia,http://vocab.getty.edu/aat/300201054,Q1353,,,
+vellum (parchment),aat,(CStmoGRI)aatgf300011852,,,,vellum (parchment),http://vocab.getty.edu/aat/300011852,Q10802
+rubrics,aat,(CStmoGRI)aatgf300196121,rubrics,http://vocab.getty.edu/aat/300196121,Q7258,,,
+decorated initials,aat,(CStmoGRI)aatgf300417548,,,,decorated initials,http://vocab.getty.edu/aat/300417548,Q10807
+Psalms,aat,,psalms,http://vocab.getty.edu/aat/300379856,Q3641,,,
+Marginal illustrations,aat,,marginal illustrations,http://vocab.getty.edu/aat/300200658,Q11498,,,
+Books of hours--France--15th century,rbgenr,,Books of hours;France;Fifteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01037;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/923962,Q38439;Q152;Q154,,,
+Miniatures (Illuminations)--France--15th century,gmgpc,,miniatures (paintings);France;Fifteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/923962,Q262;Q152;Q154,,,
+Marginal illustrations--France--15th century,aat,,marginal illustrations;France;Fifteenth century,http://vocab.getty.edu/aat/300200658;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/923962,Q11498;Q152;Q154,,,
+illuminations (paintings),aat,,,,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
+Books of hours,rbgenr,,,,,Books of hours,http://id.loc.gov/vocabulary/rbmscv/cv01037,Q38439
+folio,aat,(CStmoGRI)aatgf300201054,bifolia,http://vocab.getty.edu/aat/300201054,Q1353,,,
+"Criticism, interpretation, etc",fast,(OCoLC)fst01411635,,,,"Criticism, interpretation, etc.",http://id.worldcat.org/fast/1411635,Q177
+History,fast,(OCoLC)fst01411628,,,,History,http://id.worldcat.org/fast/1411628,Q279
+Manuscripts,lcgft,,,,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
+historiated initials,aat,,,,,historiated initials,http://vocab.getty.edu/aat/300194390,Q10800
+choirbooks,aat,,,,,choirbooks,http://vocab.getty.edu/aat/300026422,Q4269
+Borders (ornament areas),aat,,borders (ornament areas),http://vocab.getty.edu/aat/300010252,Q11304,,,
+Sacred music texts,lcgft,,Sacred music texts,http://id.worldcat.org/fast/1982506,Q12606,,,
+Sacred music texts,fast,(OCoLC)fst01982506,Sacred music texts,http://id.worldcat.org/fast/1982506,Q12606,,,
+Seals (marks),aat,,,,,seals (marks),http://vocab.getty.edu/aat/300417667,Q38540
