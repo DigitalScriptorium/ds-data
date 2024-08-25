@@ -2677,7 +2677,7 @@ Discoveries in geography,0,a,http://id.loc.gov/authorities/subjects/sh85038366,D
 Diseases,fast,a,http://id.worldcat.org/fast/895158,Diseases,http://id.worldcat.org/fast/895158,Q3631
 Diseases--China,0,a--z,,Diseases;China,http://id.worldcat.org/fast/895158;http://id.worldcat.org/fast/1206073,Q3631;Q12627
 Diseases--India,0,a--z,,Diseases;India,http://id.worldcat.org/fast/895158;http://id.worldcat.org/fast/1210276,Q3631;Q26595
-Diseases--India--Religious aspects,0,a--z--x,,Diseases;India,http://id.worldcat.org/fast/895158;http://id.worldcat.org/fast/1210276,Q3631;Q26595
+Diseases--India--Religious aspects,0,a--z--x,,Diseases--Religious aspects;India,http://id.worldcat.org/fast/895186;http://id.worldcat.org/fast/1210276,Q27427;Q26595
 Diseases--Religious aspects,fast,a--x,http://id.worldcat.org/fast/895186,Diseases--Religious aspects,http://id.worldcat.org/fast/895186,Q27427
 Diseases--Religious aspects,0,a--x,http://id.loc.gov/authorities/subjects/sh2001010413,Diseases--Religious aspects,http://id.worldcat.org/fast/895186,Q27427
 Diseases--Religious aspects--Hinduism,fast,a--x--x,http://id.worldcat.org/fast/2006353,Diseases--Religious aspects--Hinduism,http://id.worldcat.org/fast/2006353,Q26573
