@@ -1923,7 +1923,7 @@ Cutting from a 15th-century antiphonal,,,,Antiphonary,Q654
 Cutting from a 15th-century Bible,,Bible (Manuscript Boston Public Library. MS pb Med.175),,Bible,Q661
 Cutting from a 15th-century gradual,,,,Gradual,Q1121
 Cutting from a 15th-century Italian choirbook,,,,Choir book,Q1449
-Cutting from a ca. 15th-century ferial psalter,,,,Ferial Psalter,Q39276
+Cutting from a ca. 15th-century ferial psalter,,,,Ferial Psalter;Psalter,Q39276;Q660
 Cutting from an antiphonary,,,,Antiphonary,Q654
 Cutting from Etymologiae,,,,Etymologiae,Q359
 "Cynthia, seu, Elegarium libri tres",,,,Elegies,Q39277
@@ -2502,7 +2502,7 @@ Dominica IIII verso,,,,Dominica IIII verso,Q6036
 Dominical processional,,Processional (Manuscript Boston Public Library. MS q Med.135),,Processional,Q1336
 Dominican Breviary,,Breviary (Dominican),,Breviary,Q657
 Dominican breviary with calendar,,,,Breviary,Q657
-Dominican ferial psalter,,Psalter,,Psalter,Q660
+Dominican ferial psalter,,Psalter,,Ferial Psalter;Psalter,Q39276;Q660
 Dominican friar,,,,Miniature,Q19998
 Dominican Gradual (Sanctorale),,,,Gradual,Q1121
 Dominican prayer book,,,,Prayer book,Q1486
@@ -2802,13 +2802,13 @@ Fazio de Piccolomini claim,,,,Claim,Q8184
 Female Saint with Attendant Transporting a Reliquary by Boat,,,,Historiated initial;Music,Q10850;Q20017
 "Feoffment, 1547 July 8, of Sir John Gage, with livery, of lands in Ringmer Park, East Sussex",,,,Enfeoffment,Q48592
 Ferdinand I privileges,,,,Privileges,Q4353
-Ferial psalter,,Psalter,,Psalter,Q660
-Ferial psalter,,,,Psalter,Q660
-Ferial Psalter,,,,Psalter,Q660
-"Ferial Psalter, single leaf",,Psalter,,Psalter,Q660
-"Ferial psalter, single leaves",,Bible,,Bible,Q661
-Ferial Psalter and Hymnal,,,,Psalter;Hymnal,Q660;Q666
-Ferial psalter bifolium,,Bible.,,Psalter,Q660
+Ferial psalter,,Psalter,,Ferial Psalter;Psalter,Q39276;Q660
+Ferial psalter,,,,Ferial Psalter;Psalter,Q39276;Q660
+Ferial Psalter,,,,Ferial Psalter;Psalter,Q39276;Q660
+"Ferial Psalter, single leaf",,Psalter,,Ferial Psalter;Psalter,Q39276;Q660
+"Ferial psalter, single leaves",,Bible,,Ferial Psalter;Psalter,Q39276;Q660
+Ferial Psalter and Hymnal,,,,Ferial Psalter;Psalter;Hymnal,Q39276;Q660;Q666
+Ferial psalter bifolium,,Bible.,,Ferial Psalter;Psalter,Q39276;Q660
 Fernán Núñez collection,,,,Fernán Núñez collection,Q48620
 Festivalia,,,,Festivalia,Q44089
 Feudal rents,,,,Rent,Q5029
@@ -9147,7 +9147,7 @@ Tūtīʹnāmah,,Ṭūṭīʹnāmah (4Ms. PK6550.T8 1500z),,Ṭūṭīʹnāmah,Q4
 Tvaritarudravidhāna,त्वरितरुद्रविधान,Tantras,,Tantras,Q27776
 Twelve ivy leaf initials from a French Gothic manuscript,,,,Decorated initial,Q19949
 Two Arabic poems,,,,Two poems,Q11684
-Two bifolia from a ca. 15th-century ferial psalter,,,,Ferial psalter,Q39856
+Two bifolia from a ca. 15th-century ferial psalter,,,,Ferial Psalter;Psalter,Q39276;Q660
 "Two bifolia from the so-called Psalter of St. Mary, with 15 verses of rhyming devotional poetry",,,,Psalter,Q660
 Two binding fragments in University Script,,,,Binding fragment,Q10843
 Two consecutive leaves from a Spanish antiphonary,,Antiphonary,,Antiphonary,Q654
