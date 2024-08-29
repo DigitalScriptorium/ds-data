@@ -1118,7 +1118,7 @@ Bilvaṣoḍaśakastotra,बिल्वषोडशकस्तोत्र,Pur
 Binding fragment,,,,Binding fragment,Q10843
 Binding fragment],,,,Binding fragment,Q10843
 Binding fragment from Glossa ordinaria,,,,Binding fragment;Glossa ordinaria,Q10843;Q8061
-Binding fragment from Justinian's Corpus Iuris Civilis,,Corpus juris civilis,,Corpus juris civilis,Q5057
+Binding fragment from Justinian's Corpus Iuris Civilis,,Corpus juris civilis,,Corpus Juris Civilis,Q5057
 Binding fragment from the Bible of Stephen Harding,,,,Binding fragment;Bible,Q10843;Q661
 Binding fragment from the Bible of Stephen Harding],,,,Binding fragment;Bible,Q10843;Q661
 "Binding strip containing text from the Vulgate Bible, Luke 2",,Bible,,Bible;Gospel of Luke,Q661;Q1437
@@ -1872,13 +1872,13 @@ Coronica del rey Don Enrique quarto despaña /,,,,Chronicle,Q1475
 Coronica del rey don Henrriq[ue] terçero de este nonbre en Castilla que dixeron el doliente /,,Crónicas de los reyes de Castilla,,Chronicle,Q1475
 "Coronica de Nauarra la qual acabo, el Principe Don Carlos de Aragon y Nauarra en el año 1454",,,,Chronologies;Genealogies,Q7990;Q4350
 Coronjca del muy noble rey don Fernando el terçero hijo del rey don Ssancho e njeto del rey don Alfon[so] el Sabio,,Crónica de Fernando IV,,Chronicle,Q1475
-Corpus Iuris Civilis,,,,Corpus juris civilis,Q5057
-"Corpus iuris civilis, with glossing",,,,Corpus juris civilis,Q5057
-Corpus iuris civilis (Corpus of civil law),,,,Corpus juris civilis,Q5057
-Corpus iuris civilis (Corpus of Civil Law),,,,Corpus juris civilis,Q5057
-"Corpus iuris civilis (Digesta), with gloss",,,,Corpus juris civilis,Q5057
-"Corpus juris civilis, single leaf",,Authenticum,,Authenticum,Q39272
-"Corpus juris civilis. Digesta. Digestum vetus. Prooemium, leaf 1",,,,Corpus juris civilis,Q5057
+Corpus Iuris Civilis,,,,Corpus Juris Civilis,Q5057
+"Corpus iuris civilis, with glossing",,,,Corpus Juris Civilis,Q5057
+Corpus iuris civilis (Corpus of civil law),,,,Corpus Juris Civilis,Q5057
+Corpus iuris civilis (Corpus of Civil Law),,,,Corpus Juris Civilis,Q5057
+"Corpus iuris civilis (Digesta), with gloss",,,,Corpus Juris Civilis,Q5057
+"Corpus juris civilis, single leaf",,Authenticum,,Corpus Juris Civilis,Q5057
+"Corpus juris civilis. Digesta. Digestum vetus. Prooemium, leaf 1",,,,Corpus Juris Civilis,Q5057
 Corregidor of the Villa de Oropesa in the Valle de Cochabamba,,,,Corregidor of the villa de Oropesa,Q17615
 Correspondence of Wilhelm IV,,,,Letters,Q5068
 "Correspondencia original de João Gomes da Silva, embaixador de Portugal junto a Carlos IX de Franca, e ao papa Gregorio XIII, nos annos de 1572 a 1579 i dirigida aos reis D. Sebastião e D. Henrique",,,,Correspondence,Q38385
@@ -1889,7 +1889,6 @@ Cosmographies,,,,De chorographia,Q3711
 Cosmography; astrological medicine,,,,Cosmographia;Astrological medicine,Q39151;Q39152
 Council notarial document,,,,Notarial document,Q5065
 Court record of proceedings in a lawsuit against Isabel Garcia,,,,Court proceedings,Q7224
-Court Scene,,,,Corpus juris civilis;Miniature,Q5057;Q19998
 Crestomazia di poeti italiani del Cinquecento,,,,Chrestomathy,Q7254
 Cria[do] dela casa real,,,,Documents concerning the Spanish royal family,Q48635
 Crispi Sallustii de Catheline conjuracione liber,,Bellum Catilinae,,De coniuratione Catilinae,Q39909
@@ -2954,7 +2953,7 @@ Fragments from the Qurʼān,,Qurʼan.,قرآن.,Qurʼan,Q3697
 "Fragments of Books 4, 5, 6, and 8 of Aristotle's Physics",,Physics,,Physics (Aristotle),Q371
 Fragments of Claudian's On the consulship of Stilcho,,De consulatu Stilichonis,,De consulatu Stilichonis,Q48556
 Fragments of Lucian of Samosata's Timon,,Timon,,Timon,Q48555
-"Fragments of the Digests of Justinian, Book 37, Titles 7-9",,Corpus juris civilis.,,Corpus juris civilis,Q5057
+"Fragments of the Digests of Justinian, Book 37, Titles 7-9",,Corpus juris civilis.,,Corpus Juris Civilis,Q5057
 "Fragments recovered from binding, containing sermons by Jacques de Lausanne",,,,Sermons,Q1400
 Fragments written in alternate Hebrew and Aramaic,,Bible.,,Fragment,Q20461
 Fragment taken from a binding,,,,Binding fragment,Q10843
@@ -5881,7 +5880,7 @@ Liber Niger Domus Regiae,,,,Liber niger domus regiae,Q17603
 Liber orationum,,,,Liber orationum,Q39558
 Liber phisicorum sive auditus phisici,,Physica,,Physics (Aristotle),Q371
 Liber primus distinctionum super decretales,,,,Liber primus distinctionum super Decretales,Q19962
-Liber primus Iustiniani De summa Trinitate et fide Catholica,,Codex (Corpus juris civilis),,Corpus juris civilis,Q5057
+Liber primus Iustiniani De summa Trinitate et fide Catholica,,Codex (Corpus juris civilis),,Corpus Juris Civilis,Q5057
 Liber privilegiorum septem comunium montanearum Agri Vicentini,,,,Liber privilegiorum,Q7547
 Liber processionum conventus Augustinianarum S. Sebastiani,,Processionale,,Processional,Q1336
 Liber psalmorum,,Bible,,Bible;Psalms,Q661;Q5972
