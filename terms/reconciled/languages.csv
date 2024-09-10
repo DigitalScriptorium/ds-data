@@ -1272,7 +1272,7 @@ The texts are in Latin and Italian.,ita;lat,Latin;Italian,Q397;Q652,Q113;Q116
 Translated from the Persian,;ara,Persian,Q9168,Q120
 Turkish in Arabic script,;ota,Turkish;Arabic,Q256;Q13955,Q4337;Q118
 Turkish in Arabic script,,Turkish;Arabic,Q256;Q13955,Q4337;Q118
-"Turkish in Arabic script, Persian and Arabic",;ota;per;ara,Turkish;Arabic;Persian;Arabic,Q256;Q13955;Q9168;Q13955,Q4337;Q118;Q120;Q118
+"Turkish in Arabic script, Persian and Arabic",;ota;per;ara,Turkish;Arabic;Persian,Q256;Q13955;Q9168,Q4337;Q118;Q120
 Turkish with source text in Arabic,ota,Turkish;Arabic,Q256;Q13955,Q4337;Q118
 und,,undetermined language,Q22282914,Q12714
 und,und,undetermined language,Q22282914,Q12714
