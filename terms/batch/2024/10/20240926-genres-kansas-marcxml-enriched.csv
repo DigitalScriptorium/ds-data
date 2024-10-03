@@ -1,0 +1,70 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Liturgical books,lcgft,,,,,Liturgical books,http://id.worldcat.org/fast/1922455,Q5822
+Genealogies (Genre/Form),rbgenr,,,,,Genealogies,http://id.loc.gov/vocabulary/rbmscv/cv01398,Q5832
+Leather bindings (Binding),rbbin,,,,,Leather bindings,http://id.loc.gov/vocabulary/rbmscv/cv00455,Q5843
+Wooden bindings (Binding),rbbin,,,,,Wooden bindings,http://id.loc.gov/vocabulary/rbmscv/cv00600,Q5918
+Wooden boards (Binding),rbbin,,,,,Wooden boards,http://id.loc.gov/vocabulary/rbmscv/cv00601,Q5870
+Blind tooled bindings (Binding),rbbin,,,,,Blind tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00632,Q5877
+Inscriptions (Provenance),rbprov,,,,,Inscriptions,http://id.loc.gov/vocabulary/rbmscv/cv00180,Q5875
+Sayings,lcgft,,,,,Sayings,http://id.worldcat.org/fast/1920779,Q5810
+Quotations,lcgft,,,,,Quotations,http://id.worldcat.org/fast/1423792,Q5944
+Velvet bindings (Binding),rbbin,,,,,Velvet bindings,http://id.loc.gov/vocabulary/rbmscv/cv00708,Q5833
+Bookplates (Provenance),rbprov,,,,,Bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00138,Q5847
+Devotional literature,lcgft,,,,,Devotional literature,http://id.worldcat.org/fast/1423773,Q38696
+Contemporary bindings (Binding),rbbin,,,,,Contemporary bindings,http://id.loc.gov/vocabulary/rbmscv/cv00480,Q5930
+Gold tooled bindings (Binding),rbbin,,,,,Gold tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00551,Q5859
+Gilt edges (Binding),rbbin,,,,,Gilt edges,http://id.loc.gov/vocabulary/rbmscv/cv00748,Q5855
+Wooden boards (Bindings),rbbin,,,,,Wooden boards,http://id.loc.gov/vocabulary/rbmscv/cv00601,Q5870
+Manuscript waste (Bindings),rbbin,,,,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568,Q5892
+Vellum bindings (Binding),rbbin,,,,,Vellum bindings,http://id.loc.gov/vocabulary/rbmscv/cv00543,Q5878
+Watermarks (Provenance),rbprov,,,,,Watermarks,http://id.loc.gov/vocabulary/rbmscv/cv01089,Q5815
+Chained bindings (Binding),rbbin,,,,,Chained bindings,http://id.loc.gov/vocabulary/rbmscv/cv00546,Q5812
+Manuscript waste (Binding),rbbin,,,,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568,Q5892
+Flap bindings (Binding),rbbin,,,,,Flap bindings,http://id.loc.gov/vocabulary/rbmscv/cv00468,Q5826
+Printed waste (Binding),rbbin,,,,,Printed waste,http://id.loc.gov/vocabulary/rbmscv/cv01764,Q5925
+Transverse spine linings,lobt,,,,,transverse spine linings,http://w3id.org/lob/concept/1680,Q5867
+Provenance labels (Provenance),rbprov,,,,,Provenance labels,http://id.loc.gov/vocabulary/rbmscv/cv00226,Q5938
+Reversed leather bindings (Binding),rbbin,,,,,Reversed leather bindings,http://id.loc.gov/vocabulary/rbmscv/cv00688,Q5907
+Prices (Provenance),rbprov,,,,,Prices (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00263,Q5893
+Marbled paper bindings (Binding),rbbin,,,,,Marbled paper bindings,http://id.loc.gov/vocabulary/rbmscv/cv00496,Q5818
+Annals and chronicles,lcgft,,,,,Annals and chronicles,http://id.worldcat.org/fast/1919892,Q336
+Raised bands (Binding),rbbin,,,,,Raised bands,http://id.loc.gov/vocabulary/rbmscv/cv00665,Q5936
+Manicules (Provenance),rbprov,,,,,Manicules,http://id.loc.gov/vocabulary/rbmscv/cv00248,Q5909
+Yapp style bindings (Binding),rbbin,,,,,Yapp style bindings,http://id.loc.gov/vocabulary/rbmscv/cv00469,Q5861
+Neumes,lcsh,,,,,Neumes,http://id.worldcat.org/fast/1036242,Q5879
+Sermons,lcgft,,,,,Sermons,http://id.worldcat.org/fast/1423904,Q180
+Antiphonaries (Service books),lcgft,,,,,Antiphonaries (Service books),http://id.worldcat.org/fast/1920004,Q4297
+Breviaries,lcgft,,,,,Breviaries,http://id.worldcat.org/fast/1922430,Q38440
+Chants,lcgft,,,,,Chants,http://id.worldcat.org/fast/1920060,Q5935
+Paper bindings (Binding),rbbin,,,,,Paper bindings,http://id.loc.gov/vocabulary/rbmscv/cv00488,Q5911
+Devices (Provenance),rbprov,,,,,Devices (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00140,Q5923
+Booksellers' labels (Provenance),rbprov,,,,,Booksellers' labels,http://id.loc.gov/vocabulary/rbmscv/cv00228,Q5899
+Sprinkled edges (Binding),rbbin,,,,,Sprinkled edges,http://id.loc.gov/vocabulary/rbmscv/cv00753,Q5828
+Continuous sewing guards,lobt,,,,,continuous sewing guards,http://w3id.org/lob/concept/4919,Q5853
+Legal forms,lcgft,,,,,Legal forms,http://id.worldcat.org/fast/1774278,Q5845
+Primary tackets,lobt,,,,,primary tackets,http://w3id.org/lob/concept/1522,Q5917
+Separate sewing guards,lobt,,,,,separate sewing guards,http://w3id.org/lob/concept/4921,Q5902
+Tacketed bindings (Binding),rbbin,,,,,Tacketed bindings,http://id.loc.gov/vocabulary/rbmscv/cv00677,Q5885
+Quarter bindings (Binding),rbbin,,,,,Quarter bindings,http://id.loc.gov/vocabulary/rbmscv/cv00333,Q5846
+Témoin,lobt,,,,,témoin,http://w3id.org/lob/concept/5640,Q5919
+Gold tooled bindings (Provenance),rbprov,,,,,Gold tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00551,Q5859
+Brocade bindings (Binding),rbbin,,,,,Brocade bindings,http://id.loc.gov/vocabulary/rbmscv/cv00449,Q5937
+Bookplates (Provenance)--Denmark--20th century,rbprov,,,,,Bookplates;Denmark;Twentieth century,http://id.loc.gov/vocabulary/rbmscv/cv00138;http://id.worldcat.org/fast/1204558;http://id.worldcat.org/fast/1159810,Q5847;Q5848;Q5942
+Paste paper bindings (Binding),rbbin,,,,,Paste paper bindings,http://id.loc.gov/vocabulary/rbmscv/cv00498,Q5821
+Vellum bindings (Bindings),rbbin,,,,,Vellum bindings,http://id.loc.gov/vocabulary/rbmscv/cv00543,Q5878
+Personal correspondence,lcgft,,,,,Personal correspondence,http://id.worldcat.org/fast/1919948,Q5912
+Poetry,lcgft,,,,,Poetry,http://id.worldcat.org/fast/1423828,Q247
+Stamps (Provenance),rbprov,,,,,Stamps,http://id.loc.gov/vocabulary/rbmscv/cv00142,Q3075
+Albums (Books),lcgft,,,,,Albums (Books),http://id.worldcat.org/fast/1726784,Q5825
+Diced leather bindings (Binding),rbbin,,,,,Diced leather bindings,http://id.loc.gov/vocabulary/rbmscv/cv00507,Q5868
+Half bindings (Binding),rbbin,,,,,Half bindings,http://id.loc.gov/vocabulary/rbmscv/cv00332,Q5817
+Text guards,lobt,,,,,text guards,http://w3id.org/lob/concept/3697,Q5860
+Kapitalbünde,lobt,,,,,Kapitalbünde,http://w3id.org/lob/concept/1406,Q5849
+Braided secondary endband sewing,lobt,,,,,braided secondary endband sewing,http://w3id.org/lob/concept/2547,Q5876
+Text-hook endleaves,lobt,,,,,text-hook endleaves,http://w3id.org/lob/concept/1662,Q5836
+Binders' tickets (Binding)--19th century,rbbin,,,,,Binders' tickets;Nineteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00702;http://id.worldcat.org/fast/1037841,Q5842;Q3538
+Bookplates (Provenance)--United States--20th century,rbprov,,,,,Bookplates;United States;Twentieth century,http://id.loc.gov/vocabulary/rbmscv/cv00138;http://id.worldcat.org/fast/1204155;http://id.worldcat.org/fast/1159810,Q5847;Q5856;Q5942
+Numbers (Provenance),rbprov,,,,,Numbers (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00020,Q5864
+Painted books,rbmscv,,Painted books,http://id.loc.gov/vocabulary/rbmscv/cv01666,Q12662,,,
+Certificates,rbmscv,,Certificates,http://id.loc.gov/vocabulary/rbmscv/cv02106,Q11502,,,
+Limp bindings,rbmscv,,,,,Limp bindings,http://id.loc.gov/vocabulary/rbmscv/cv00590,Q16312
