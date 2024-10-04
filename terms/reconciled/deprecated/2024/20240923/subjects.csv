@@ -1150,7 +1150,6 @@ books of hours,aat,a,,books of hours,http://vocab.getty.edu/aat/300026457,Q3618
 Books of hours,openn-subjects,,http://id.loc.gov/authorities/subjects/sh85062530.html,Books of hours,http://id.worldcat.org/fast/836484,Q5889
 Books of hours,fast,a,(OCoLC)fst00836484,Books of hours,http://id.worldcat.org/fast/836484,Q5889
 Books of hours,0,a,,Books of hours,http://id.worldcat.org/fast/836484,Q5889
-Books of hours.,ds-subject,,,Books of hours,http://id.worldcat.org/fast/836484,Q5889
 Books of hours.,fast,a,(OCoLC)fst00836484,Books of hours,http://id.worldcat.org/fast/836484,Q5889
 Books of hours--Belgium--Manuscripts--Early works to 1800,0,a--z--v--v,,Books of hours;Belgium;Manuscripts;Early works,http://id.worldcat.org/fast/836484;http://id.worldcat.org/fast/1210278;http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1411636,Q5889;Q16301;Q331;Q300
 Books of hours--Belgium--Mons,0,a--z--z,,Books of hours;Belgium--Mons,http://id.worldcat.org/fast/836484;http://id.worldcat.org/fast/1206359,Q5889;Q12585
@@ -1158,7 +1157,6 @@ Books of hours--Belgium--Mons.,0,a--z--z,,Books of hours;Belgium--Mons,http://id
 Books of hours--England,0,a--z,,Books of hours;England,http://id.worldcat.org/fast/836484;http://id.worldcat.org/fast/1219920,Q5889;Q320
 Books of hours--England.,0,a--z,,Books of hours;England,http://id.worldcat.org/fast/836484;http://id.worldcat.org/fast/1219920,Q5889;Q320
 Books of hours--France,0,a--z,,Books of hours;France,http://id.worldcat.org/fast/836484;http://id.worldcat.org/fast/1204289,Q5889;Q152
-Books of hours--France.,ds-subject,,,Books of hours;France,http://id.worldcat.org/fast/836484;http://id.worldcat.org/fast/1204289,Q5889;Q152
 Books of hours--France--Early works to 1800,0,a--z--v,,Books of hours;France;Early works,http://id.worldcat.org/fast/836484;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1411636,Q5889;Q152;Q300
 Books of hours--France--Early works to 1800.,0,a--z--v,,Books of hours;France;Early works,http://id.worldcat.org/fast/836484;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1411636,Q5889;Q152;Q300
 Books of hours--France--Manuscripts--Early works to 1800,0,a--z--v--v,,Books of hours;France;Manuscripts;Early works,http://id.worldcat.org/fast/836484;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1411636,Q5889;Q152;Q331;Q300
@@ -1243,7 +1241,6 @@ Breviaries--Texts,0,a--x,,Breviaries;Texts,http://id.worldcat.org/fast/838495;ht
 Breviaries--Texts--Early works to 1800,0,a--v--v,,Breviaries;Texts;Early works,http://id.worldcat.org/fast/838495;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636,Q3593;Q3066;Q300
 Breviaries--Texts--Early works to 1800.,0,a--v--v,,Breviaries;Texts;Early works,http://id.worldcat.org/fast/838495;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636,Q3593;Q3066;Q300
 Breviary,openn-subjects,,,Breviaries,http://id.worldcat.org/fast/838495,Q3593
-Breviary--Texts.,ds-subject,,,Breviary;Texts,http://id.worldcat.org/fast/838495;http://id.worldcat.org/fast/1423705,Q3593;Q3066
 Bṛhaspati (Hindu deity),0,a,http://id.loc.gov/authorities/subjects/sh90004339,Bṛhaspati (Hindu deity),http://id.worldcat.org/fast/843278,Q27421
 Bṛhaspati (Hindu deity),fast,a,http://id.worldcat.org/fast/843278,Bṛhaspati (Hindu deity),http://id.worldcat.org/fast/843278,Q27421
 Bridges--India--Religious aspects,0,a--z--x,,Bridges;India,http://id.worldcat.org/fast/838671;http://id.worldcat.org/fast/1210276,Q27107;Q26595
@@ -1521,9 +1518,6 @@ Categories (Philosophy)--Early works to 1800.,0,a--v,,Categories (Philosophy);Ea
 Cathédrales--Espagne--Barcelone--Ouvrages avant 1800,6,a--z--z--v,,Cathedrals;Spain--Barcelona;Early works,http://id.worldcat.org/fast/849073;http://id.worldcat.org/fast/1204531;http://id.worldcat.org/fast/1411636,Q48302;Q8343;Q300
 Cathedrals,fast,a,(OCoLC)fst00849073,Cathedrals,http://id.worldcat.org/fast/849073,Q48302
 Cathedrals--Spain--Barcelona--Early works to 1800,0,a--z--z--v,,Cathedrals;Spain--Barcelona;Early works,http://id.worldcat.org/fast/849073;http://id.worldcat.org/fast/1204531;http://id.worldcat.org/fast/1411636,Q48302;Q8343;Q300
-Catholic Church.,ds-subject,,,Catholic Church,http://id.worldcat.org/fast/531720,Q310
-Catholic Church--Liturgy--Texts.,ds-subject,,,Catholic Church;Liturgics;Texts,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705,Q310;Q207;Q3066
-Catholic Church--Prayers and devotions--Latin.,ds-subject,,,Catholic Church;Prayers and devotions;Latin language,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1935484;http://id.worldcat.org/fast/993125,Q310;Q48394;Q4170
 Catholics--Japan--Fujimaki-mura--Sources,0,a--z--z--v,,Catholics;Japan--Fujimaki-mura;Sources,http://id.worldcat.org/fast/849297;http://id.worldcat.org/fast/1305970;http://id.worldcat.org/fast/1423900,Q12643;Q12655;Q2769
 Catholics--Japan--Fujimaki-mura--Sources.,0,a--z--z--v,,Catholics;Japan--Fujimaki-mura;Sources,http://id.worldcat.org/fast/849297;http://id.worldcat.org/fast/1305970;http://id.worldcat.org/fast/1423900,Q12643;Q12655;Q2769
 Cattle--Diseases--Treatment,0,a--x--x,http://id.loc.gov/authorities/subjects/sh85021314,Cattle--Diseases--Treatment,http://id.worldcat.org/fast/849516,Q12529
@@ -1801,7 +1795,6 @@ Christian poetry--Early works to 1800.,0,a--v,,Christian poetry;Early works,http
 Christian saints,fast,a,,Christian saints,http://id.worldcat.org/fast/859491,Q10812
 Christian saints,fast,a,(OCoLC)fst00859491,Christian saints,http://id.worldcat.org/fast/859491,Q10812
 Christian saints,0,a,,Christian saints,http://id.worldcat.org/fast/859491,Q10812
-Christian saints.,ds-subject,,,Christian saints,http://id.worldcat.org/fast/859491,Q10812
 Christian saints.,fast,a,(OCoLC)fst00859491,Christian saints,http://id.worldcat.org/fast/859491,Q10812
 Christian saints--Algeria--Hippo (Extinct city)--Biography,0,a--z--z--v,,Christian saints;Algeria--Hippo (Extinct city);Biographies,http://id.worldcat.org/fast/859491;http://id.worldcat.org/fast/1896881;http://id.worldcat.org/fast/1919896,Q10812;Q38824;Q3051
 Christian saints--Biography,0,a--v,http://id.loc.gov/authorities/subjects/sh85025179,Christian saints;Biographies,http://id.worldcat.org/fast/859491;http://id.worldcat.org/fast/1919896,Q10812;Q3051
@@ -1826,7 +1819,6 @@ Christian saints in literature.,fast,a,http://id.worldcat.org/fast/859514,Christ
 Christian saints in literature.,0,a,http://id.loc.gov/authorities/subjects/sh94003361,Christian saints in literature,http://id.worldcat.org/fast/859514,Q7155
 Christian saints in literature--Early works to 1800,0,a--v,,Christian saints in literature;Early works,http://id.worldcat.org/fast/859514;http://id.worldcat.org/fast/1411636,Q7155;Q300
 Christian saints in literature--Early works to 1800.,0,a--v,,Christian saints in literature;Early works,http://id.worldcat.org/fast/859514;http://id.worldcat.org/fast/1411636,Q7155;Q300
-Christian saints--Italy--Assisi--Biography.,ds-subject,,,Christian saints;Italy--Assisi;Biography,http://id.worldcat.org/fast/859491;http://id.worldcat.org/fast/1206046;http://id.worldcat.org/fast/832149,Q10812;Q4322;Q27365
 Christian saints--Italy--Biography--Early works to 1800,0,a--z--v--v,,Christian saints;Italy;Biographies;Early works,http://id.worldcat.org/fast/859491;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q10812;Q249;Q3051;Q300
 Christian saints--Italy--Biography--Early works to 1800.,0,a--z--v--v,,Christian saints;Italy;Biographies;Early works,http://id.worldcat.org/fast/859491;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q10812;Q249;Q3051;Q300
 Christian saints--Legends--Early works to 1800,0,a--v--v,http://id.loc.gov/authorities/subjects/sh2009119520,Christian saints;Legends;Early works,http://id.worldcat.org/fast/859491;http://id.worldcat.org/fast/1423803;http://id.worldcat.org/fast/1411636,Q10812;Q5895;Q300
@@ -1923,8 +1915,6 @@ Church year--Early works to 1800,0,a--v,,Church year;Early works,http://id.world
 Church year--Early works to 1800.,0,a--v,,Church year;Early works,http://id.worldcat.org/fast/861146;http://id.worldcat.org/fast/1411636,Q3056;Q300
 Church year sermons--Early works to 1800,0,a--v,http://id.loc.gov/authorities/subjects/sh2008100785,Church year sermons;Early works,http://id.worldcat.org/fast/861151;http://id.worldcat.org/fast/1411636,Q38857;Q300
 Church year sermons--Early works to 1800,0,a--v,,Church year sermons;Early works,http://id.worldcat.org/fast/861151;http://id.worldcat.org/fast/1411636,Q38857;Q300
-"Cibo, Alderano, 1613-1700.",ds-subject,,,"Cibo, Alderano, 1613-1700",http://id.worldcat.org/fast/1551617,Q16393
-"Cibo, Alderano, 1613-1700--Relics.",ds-subject,,,"Cibo, Alderano, 1613-1700;Relics",http://id.worldcat.org/fast/1551617;http://id.worldcat.org/fast/1093664,Q16393;Q39968
 Cingalais (Langue)--Textes,6,a--v,,Sinhalese language;Texts,http://id.worldcat.org/fast/1119515;http://id.worldcat.org/fast/1423705,Q48332;Q3066
 Ciphers,fast,a,http://id.worldcat.org/fast/861549,Ciphers,http://id.worldcat.org/fast/861549,Q139
 Ciphers.,fast,a,http://id.worldcat.org/fast/861549,Ciphers,http://id.worldcat.org/fast/861549,Q139
@@ -1984,7 +1974,6 @@ Civil procedure--Italy--Bologna--Early works to 1800,0,a--z--z--v,,Civil procedu
 Civil procedure--Italy--Bologna--Early works to 1800.,0,a--z--z--v,,Civil procedure;Italy--Bologna;Early works,http://id.worldcat.org/fast/862585;http://id.worldcat.org/fast/1204551;http://id.worldcat.org/fast/1411636,Q4980;Q4842;Q300
 Civil service--Examinations,0,a--x,,Civil service--Examinations,http://id.worldcat.org/fast/862758,Q11392
 Civil service--Examinations.,0,a--x,,Civil service--Examinations,http://id.worldcat.org/fast/862758,Q11392
-"Clare, of Assisi, Saint, 1194-1253.",ds-subject,,,"Clare, of Assisi, Saint, 1194-1253",http://id.worldcat.org/fast/109466,Q6947
 Classical biography--Early works to 1800,0,a--v,,Classical biography;Early works,http://id.worldcat.org/fast/863465;http://id.worldcat.org/fast/1411636,Q38859;Q300
 Classical dictionaries,fast,a,http://id.worldcat.org/fast/863468,Classical dictionaries,http://id.worldcat.org/fast/863468,Q7152
 Classical dictionaries.,fast,a,http://id.worldcat.org/fast/863468,Classical dictionaries,http://id.worldcat.org/fast/863468,Q7152
@@ -3553,7 +3542,6 @@ France,fast,a,,France,http://id.worldcat.org/fast/1204289,Q152
 France,fast,a,(OCoLC)fst01204289,France,http://id.worldcat.org/fast/1204289,Q152
 France,fast,a,http://id.worldcat.org/fast/1204289,France,http://id.worldcat.org/fast/1204289,Q152
 "France, Northern--Early works to 1800",0,a--v,,Northern France;Early works,http://id.worldcat.org/fast/1692661;http://id.worldcat.org/fast/1411636,Q48314;Q300
-France.,ds-subject,,,France,http://id.worldcat.org/fast/1204289,Q152
 France.,fast,a,http://id.worldcat.org/fast/1204289,France,http://id.worldcat.org/fast/1204289,Q152
 France (Nord)--Ouvrages avant 1800,6,a--v,,Northern France;Early works,http://id.worldcat.org/fast/1692661;http://id.worldcat.org/fast/1411636,Q48314;Q300
 France--Alsace,fast,a--z,http://id.worldcat.org/fast/1211525,France--Alsace,http://id.worldcat.org/fast/1211525,Q4928
@@ -5355,7 +5343,6 @@ Italy--Amalfi,fast,a--z,http://id.worldcat.org/fast/1204570,Italy--Amalfi,http:/
 Italy--Amalfi.,fast,a--z,http://id.worldcat.org/fast/1204570,Italy--Amalfi,http://id.worldcat.org/fast/1204570,Q8013
 Italy--Ancona,fast,a--z,http://id.worldcat.org/fast/1207342,Italy--Ancona,http://id.worldcat.org/fast/1207342,Q6970
 Italy--Ancona.,fast,a--z,http://id.worldcat.org/fast/1207342,Italy--Ancona,http://id.worldcat.org/fast/1207342,Q6970
-Italy--Assisi.,ds-subject,,,Italy--Assisi,http://id.worldcat.org/fast/1206046,Q4322
 Italy--Badia Polesine,ds-subject,,,Italy--Badia Polesine,http://id.worldcat.org/fast/1284747,Q42378
 Italy--Barga,fast,a--z,http://id.worldcat.org/fast/1235479,Italy--Barga,http://id.worldcat.org/fast/1235479,Q246
 Italy--Barga.,fast,a--z,http://id.worldcat.org/fast/1235479,Italy--Barga,http://id.worldcat.org/fast/1235479,Q246
@@ -6592,7 +6579,6 @@ Manuscripts,fast,a,http://id.worldcat.org/fast/1008230,Manuscripts,http://id.wor
 "Manuscripts, Latin (Medieval and modern)--Massachusetts--Boston",0,a--z--z,,"Manuscripts, Latin (Medieval and modern);Massachusetts--Boston",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1205012,Q10783;Q16365
 "Manuscripts, Latin (Medieval and Modern)--Massachusetts--Boston",0,a--z--z,,"Manuscripts, Latin (Medieval and modern);Massachusetts--Boston",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1205012,Q10783;Q16365
 "Manuscripts, Latin (Medieval and modern)--Massachusetts--Boston.",0,a--z--z,,"Manuscripts, Latin (Medieval and modern);Massachusetts--Boston",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1205012,Q10783;Q16365
-"Manuscripts, Latin (Medieval and modern)--Massachusetts--Northampton.",ds-subject,,,"Manuscripts, Latin (Medieval and modern);Massachusetts--Northampton",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1206054,Q10783;Q7975
 "Manuscripts, Latin (Medieval and modern)--Michigan--Kalamazoo",0,a--z--z,,"Manuscripts, Latin (Medieval and modern);Michigan--Kalamazoo",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204469,Q10783;Q27166
 "Manuscripts, Latin (Medieval and modern)--Missouri--Saint Louis",0,a--z--z,,"Manuscripts, Latin (Medieval and modern);Missouri--Saint Louis",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204930,Q10783;Q38990
 "Manuscripts, Latin (Medieval and modern)--Netherlands",0,a--z,,"Manuscripts, Latin (Medieval and modern);Netherlands",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204034,Q10783;Q5863
@@ -6649,13 +6635,10 @@ Manuscripts,fast,a,http://id.worldcat.org/fast/1008230,Manuscripts,http://id.wor
 "Manuscripts, Medieval--England--Oxford",0,a--z--z,,"Manuscripts, Medieval;England--Oxford",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1205511,Q325;Q48506
 "Manuscripts, Medieval--France",0,a--z,http://id.loc.gov/authorities/subjects/sh2010100574,"Manuscripts, Medieval;France",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204289,Q325;Q152
 "Manuscripts, Medieval--France",0,a--z,,"Manuscripts, Medieval;France",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204289,Q325;Q152
-"Manuscripts, Medieval--France--15th century.",ds-subject,,,"Manuscripts, Medieval;France;Fifteenth century",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/923962,Q325;Q152;Q154
 "Manuscripts, Medieval--France--Paris",0,a--z--z,,"Manuscripts, Medieval;France--Paris",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1205283,Q325;Q27297
 "Manuscripts, Medieval--Germany",0,a--z,,"Manuscripts, Medieval;Germany",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1210272,Q325;Q3032
 "Manuscripts, Medieval--Germany.",0,a--z,,"Manuscripts, Medieval;Germany",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1210272,Q325;Q3032
-"Manuscripts, Medieval--Germany--13th century.",ds-subject,,,"Manuscripts, Medieval;Germany;Thirteenth century",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/1150138,Q325;Q3032;Q245
 "Manuscripts, Medieval--Italy",0,a--z,,"Manuscripts, Medieval;Italy",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204565,Q325;Q249
-"Manuscripts, Medieval--Italy--16th century.",ds-subject,,,"Manuscripts, Medieval;Italy;Sixteenth century",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1119851,Q325;Q249;Q335
 "Manuscripts, Medieval--Kansas--Lawrence",0,a--z--z,,"Manuscripts, Medieval;Kansas--Lawrence",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1212060,Q325;Q5851
 "Manuscripts, Medieval--Kansas--Lawrence.",0,a--z--z,,"Manuscripts, Medieval;Kansas--Lawrence",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1212060,Q325;Q5851
 "Manuscripts,Medieval--Massachusetts--Boston",0,a--z--z,,"Manuscripts, Medieval;Massachusetts--Boston",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1205012,Q325;Q16365
@@ -9236,7 +9219,6 @@ Relations.,fast,a,http://id.worldcat.org/fast/1892706,Relations,http://id.worldc
 Relations internationales--17e siècle,6,a--y,,International relations;Seventeenth century,http://id.worldcat.org/fast/977053;http://id.worldcat.org/fast/1113663,Q3603;Q2771
 Relics,0,a,,Relics,http://id.worldcat.org/fast/1093664,Q39968
 Relics,fast,a,(OCoLC)fst01093664,Relics,http://id.worldcat.org/fast/1093664,Q39968
-Relics.,ds-subject,,,Relics,http://id.worldcat.org/fast/1093664,Q39968
 Religion,fast,a,(OCoLC)fst01093763,Religion,http://id.worldcat.org/fast/1093763,Q11396
 Religion.,fast,a,(OCoLC)fst01093763,Religion,http://id.worldcat.org/fast/1093763,Q11396
 Religion and law,fast,a,http://id.worldcat.org/fast/1093835,Religion and law,http://id.worldcat.org/fast/1093835,Q26892
