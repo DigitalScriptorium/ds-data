@@ -18,7 +18,6 @@ language_as_recorded,language_code,authorized_label,structured_value,ds_qid
 [no text],,no linguistic content,Q22282939,Q16428
 |||,|||,undetermined language,Q22282914,Q12714
 Added notes in Italian (Volume 1),zxx;ita,Italian,Q652,Q116
-"All texts are in Ottoman Turkish (including those whose titles are given in Arabic), with the exception of small sections in Arabic in cases of excerpts from Futūḥāt al-Makkīyah",,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
 amh,,Amharic,Q28244,Q42444
 Ancient Greek,grc,Ancient Greek,Q35497,Q3103
 Ancient Greek (to 1453),grc,Ancient Greek,Q35497,Q3103
@@ -41,7 +40,6 @@ ara;per;ota,ara;per;ota,Arabic;Persian;Ottoman Turkish,Q13955;Q9168;Q36730,Q118;
 Arabic,,Arabic,Q13955,Q118
 Arabic,ara;eng,Arabic,Q13955,Q118
 Arabic,ara,Arabic,Q13955,Q118
-"Arabic, Persian, and Ottoman Turkish",,Arabic;Persian;Ottoman Turkish,Q13955;Q9168;Q36730,Q118;Q120;Q3104
 "Arabic, Persian and Ottoman Turkish",;ara;per;ota,Arabic;Persian;Ottoman Turkish,Q13955;Q9168;Q36730,Q118;Q120;Q3104
 "Arabic, with colophon in Arabic and Ottoman Turkish (in Arabic script, f. 8v)",ara,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
 "Arabic, with commentary in Ottoman Turkish",ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
@@ -51,7 +49,6 @@ Arabic; Persian,,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic; some notes in Persian,ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic and Coptic,ara;cop,Arabic;Coptic,Q13955;Q36155,Q118;Q4335
 Arabic and Coptic,cop;ara,Arabic;Coptic,Q13955;Q36155,Q118;Q4335
-Arabic and Javanese in Arabic script,,Arabic;Javanese,Q13955;Q33549,Q118;Q38105
 Arabic and Ottoman Turkish,;ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
 Arabic and Persian,,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic and Persian,ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
@@ -118,10 +115,6 @@ Chiefly Arabic with some Samaritan Aramaic,ara,Arabic;Samaritan Aramaic,Q13955;Q
 "Chiefly in Latin, with a few documents in Spanish or Catalan",,Latin;Spanish,Q397;Q1321,Q113;Q114
 "Chiefly in Latin, with one document in Catalan",,Latin;Catalan,Q397;Q7026,Q113;Q1316
 "Chiefly in Latin, with some documents in Catalan or Castilian",,Latin;Catalan;Spanish,Q397;Q7026;Q1321,Q113;Q1316;Q114
-"Chiefly in Ottoman Turkish, with some shorter sections in Arabic",,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
-"Chiefly in Ottoman Turkish, with some smaller sections in Arabic",,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
-"Chiefly in Ottoman Turkish, with text 1 in Persian",,Ottoman Turkish;Persian,Q36730;Q9168,Q3104;Q120
-"Chiefly in Ottoman Turkish, with two works in Arabic",,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
 "Chiefly Latin, with some French, Greek, Italian, and English texts",,Latin;French;Greek;Italian;English,Q397;Q150;Q9129;Q652;Q1860,Q113;Q111;Q1318;Q116;Q109
 "Chiefly Latin, with some French, or Italian texts",,Latin;French;Italian,Q397;Q150;Q652,Q113;Q111;Q116
 Chiefly Ottoman Turkish with Persian and Arabic vocabulary and headings in Arabic,ota;ara;per,Persian;Arabic;Ottoman Turkish,Q9168;Q13955;Q36730,Q120;Q118;Q3104
@@ -325,7 +318,6 @@ In Arabic and Persian,ara,Arabic;Persian,Q13955;Q9168,Q118;Q120
 In Arabic and Persian,ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
 In Arabic and Persian.,ara,Arabic;Persian,Q13955;Q9168,Q118;Q120
 In Arabic and Persian.,ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
-In Arabic with commentary in Ottoman Turkish,,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
 In Arabic with some fawāʼid in Persian,;ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
 In Arabic with some fawāʼid in Persian,;ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
 In Armenian,arm,Armenian,Q8785,Q792
@@ -571,25 +563,8 @@ In Old Spanish.,roa,Old Spanish,Q1088025,Q40060
 In Old Spanish.,,Old Spanish,Q1088025,Q40060
 In Ottoman Turkish,ota,Ottoman Turkish,Q36730,Q3104
 In Ottoman Turkish,,Ottoman Turkish,Q36730,Q3104
-"In Ottoman Turkish, Arabic, and Persian",,Ottoman Turkish;Arabic;Persian,Q36730;Q13955;Q9168,Q3104;Q118;Q120
-"In Ottoman Turkish, except for texts 4 and 7, which are in Persian",,Ottoman Turkish;Persian,Q36730;Q9168,Q3104;Q120
-"In Ottoman Turkish, with a small section in Persian",,Ottoman Turkish;Persian,Q36730;Q9168,Q3104;Q120
-"In Ottoman Turkish, with few sections in Persian",,Ottoman Turkish;Persian,Q36730;Q9168,Q3104;Q120
-"In Ottoman Turkish, with one text in Arabic (text 8)",,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
-"In Ottoman Turkish, with sections in Arabic",,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
-"In Ottoman Turkish, with some Arabic",,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
-"In Ottoman Turkish, with some short sections in Arabic",,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
 In Ottoman Turkish.,ota,Ottoman Turkish,Q36730,Q3104
 In Ottoman Turkish.,,Ottoman Turkish,Q36730,Q3104
-In Ottoman Turkish (introduction in Arabic),,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
-In Ottoman Turkish (title and beginning of text in Arabic),,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
-In Ottoman Turkish (titlepage and preliminary sections of texts in Arabic),,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
-In Ottoman Turkish (with marginal annotations in Arabic),,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
-In Ottoman Turkish (with occasional small sections in Persian and Arabic),,Ottoman Turkish;Persian;Arabic,Q36730;Q9168;Q13955,Q3104;Q120;Q118
-In Ottoman Turkish (with original text in Arabic),,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
-In Ottoman Turkish and Arabic,,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
-In Ottoman Turkish and Persian,,Ottoman Turkish;Persian,Q36730;Q9168,Q3104;Q120
-In Ottoman Turkish with original poem and hadiths in Arabic,,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
 In Pali,pli,Pali,Q36727,Q27511
 In Pali.,pli,Pali,Q36727,Q27511
 In Pali.,,Pali,Q36727,Q27511
@@ -652,7 +627,6 @@ In Syriac and Arabic(some in Karshuni).,syr,Syriac;Arabic;Garshuni,Q33538;Q13955
 In Syriac and Arabic(some in Karshuni).,syrara,Syriac;Arabic;Garshuni,Q33538;Q13955;Q1494558,Q12713;Q118;Q38104
 In Tamil,tam,Tamil,Q5885,Q27498
 In Thai and Pali,tha;pli,Thai;Pali,Q9217;Q36727,Q27515;Q27511
-"Intro. and entries in Arabic, definitions in Ottoman Turkish",,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
 In Valencian Catalan,cat,Valencian,Q32641,Q8381
 it,it,Italian,Q652,Q116
 ita,,Italian,Q652,Q116
@@ -1011,7 +985,6 @@ Main text in Latin; table of contents in French on end flyleaf.,,Latin;French,Q3
 mal,mal,Malayalam,Q36236,Q27500
 mar,mar,Marathi,Q1571,Q27508
 Materials are in Italian,ita,Italian,Q652,Q116
-may,,Malay,Q9237,Q39962
 Middle Dutch,,Middle Dutch,Q178806,Q10833
 Middle Dutch (ca. 1050-1350),dum,Middle Dutch,Q178806,Q10833
 Middle Dutch (ca. 1050-1350); Latin,dum;lat,Middle Dutch;Latin,Q178806;Q397,Q10833;Q113
@@ -1088,13 +1061,11 @@ ota;ara,ota;ara,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
 Ottoman Turkish,,Ottoman Turkish,Q36730,Q3104
 Ottoman Turkish,;ota,Ottoman Turkish,Q36730,Q3104
 Ottoman Turkish,ota,Ottoman Turkish,Q36730,Q3104
-"Ottoman Turkish, Arabic, and Persian",,Ottoman Turkish;Arabic;Persian,Q36730;Q13955;Q9168,Q3104;Q118;Q120
 Ottoman Turkish.,,Ottoman Turkish,Q36730,Q3104
 Ottoman Turkish (1500-1928),ota,Ottoman Turkish,Q36730,Q3104
 Ottoman Turkish and Arabic,,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
 Ottoman Turkish and Arabic,;ota;ara,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
 Ottoman Turkish and Arabic.,,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
-Ottoman Turkish and Hebrew,,Ottoman Turkish;Hebrew,Q36730;Q9288,Q3104;Q117
 Ottoman Turkish and Persian,ota;per,Ottoman Turkish;Persian,Q36730;Q9168,Q3104;Q120
 Ottoman Turkish and Persian with some Arabic quotations and headings,ota;per;ara,Ottoman Turkish;Persian;Arabic,Q36730;Q9168;Q13955,Q3104;Q120;Q118
 Ottoman Turkish with some Arabic,ota;ara,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
@@ -1272,7 +1243,6 @@ Text in Middle English and Latin,,Middle English;Latin,Q36395;Q397,Q119;Q113
 Text in Middle English and Latin.,,Middle English;Latin,Q36395;Q397,Q119;Q113
 Text in Middle French,,Middle French,Q1473289,Q110
 Text in Old French,fro,Old French,Q35222,Q3106
-Text in Spanish,,Spanish,Q1321,Q114
 Text in Syriac,syr,Syriac,Q33538,Q12713
 Text in Yucatec with some Spanish,;myn;spa,Yucatec Maya;Spanish,Q13354;Q1321,Q38111;Q114
 Text in Yucatec with some Spanish,,Yucatec Maya;Spanish,Q13354;Q1321,Q38111;Q114
@@ -1300,17 +1270,9 @@ The texts are in Latin and Italian,ita;lat,Latin;Italian,Q397;Q652,Q113;Q116
 The texts are in Latin and Italian.,ita,Latin;Italian,Q397;Q652,Q113;Q116
 The texts are in Latin and Italian.,ita;lat,Latin;Italian,Q397;Q652,Q113;Q116
 Translated from the Persian,;ara,Persian,Q9168,Q120
-tur,,Turkish,Q256,Q4337
-Turkish,,Turkish,Q256,Q4337
-Turkish and Arabic,,Turkish;Arabic,Q256;Q13955,Q4337;Q118
-Turkish and Persian,,Turkish;Persian,Q256;Q9168,Q4337;Q120
-Turkish dialect of the Mamluk-Kipchak branch in Arabic script,,Turkish;Mamluk-Kipchak;Arabic,Q256;Q4279942;Q13955,Q4337;Q52676;Q118
 Turkish in Arabic script,;ota,Turkish;Arabic,Q256;Q13955,Q4337;Q118
 Turkish in Arabic script,,Turkish;Arabic,Q256;Q13955,Q4337;Q118
 "Turkish in Arabic script, Persian and Arabic",;ota;per;ara,Turkish;Arabic;Persian,Q256;Q13955;Q9168,Q4337;Q118;Q120
-Turkish in Arabic script and Arabic,,Turkish;Arabic,Q256;Q13955,Q4337;Q118
-Turkish in Arabic script and Persian,,Turkish;Arabic;Persian,Q256;Q13955;Q9168,Q4337;Q118;Q120
-Turkish with a few sections in Arabic,,Turkish;Arabic,Q256;Q13955,Q4337;Q118
 Turkish with source text in Arabic,ota,Turkish;Arabic,Q256;Q13955,Q4337;Q118
 und,,undetermined language,Q22282914,Q12714
 und,und,undetermined language,Q22282914,Q12714
