@@ -1,0 +1,50 @@
+language_as_recorded,language_code,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+eng,,,,,English,Q1860,Q109
+Eng,,,,,English,Q1860,Q109
+Portuguese,,,,,Portuguese,Q5146,Q38114
+por,,,,,Portuguese,Q5146,Q38114
+spa,,,,,Spanish,Q1321,Q114
+Latin,,,,,Latin,Q397,Q113
+Catalan and Latin,,Catalan;Latin,Q7026;Q397,Q1316;Q113,,,
+SPA,,,,,Spanish,Q1321,Q114
+Spanish,,,,,Spanish,Q1321,Q114
+German,,,,,German,Q188,Q112
+"German, Latin and Arabic, with some comparisons to Hebrew",,German;Latin;Arabic;Hebrew,Q188;Q397;Q13955;Q9288,Q112;Q113;Q118;Q117,,,
+ENG,,,,,English,Q1860,Q109
+"English, Aramaic and some Judeo-Arabic",,English;Aramaic;Judeo-Arabic,Q1860;Q28602;Q37733,Q109;Q3663;Q38106,,,
+Arabic,,,,,Arabic,Q13955,Q118
+Commentary in Latin with the Hebrew base-text and the title predominantly in German,,Latin;Hebrew;German,Q397;Q9288;Q188,Q113;Q117;Q112,,,
+ger,,,,,German,Q188,Q112
+"English, with some Hebrew vocabulary",,English;Hebrew,Q1860;Q9288,Q109;Q117,,,
+Italian and German,,Italian;German,Q652;Q188,Q116;Q112,,,
+French and Latin,,,,,French;Latin,Q150;Q397,Q111;Q113
+Italian,,,,,Italian,Q652,Q116
+English,,,,,English,Q1860,Q109
+"English, with some Greek citations and terms and Hebrew terms",,English;Greek;Hebrew,Q1860;Q9129;Q9288,Q109;Q1318;Q117,,,
+gez,,,,,Ge'ez,Q35667,Q3664
+syr,,,,,Syriac,Q33538,Q12713
+SYR,,,,,Syriac,Q33538,Q12713
+German with some Latin,,German;Latin,Q188;Q397,Q112;Q113,,,
+"Spanish, title in French",,Spanish;French,Q1321;Q150,Q114;Q111,,,
+Armeno-Turkish with some Armenian,,Armeno-Turkish;Armenian,Q65071381;Q8785,Q54964;Q792,,,
+Dutch and Latin,,Dutch;Latin,Q7411;Q397,Q793;Q113,,,
+Spanish and Portuguese,,Spanish;Portuguese,Q1321;Q5146,Q114;Q38114,,,
+lat,,,,,Latin,Q397,Q113
+fre,,,,,French,Q150,Q111
+Spanish and Latin,,,,,Spanish;Latin,Q1321;Q397,Q114;Q113
+Dutch,,,,,Dutch,Q7411,Q793
+dut,,,,,Dutch,Q7411,Q793
+LAT,,,,,Latin,Q397,Q113
+per,,,,,Persian,Q9168,Q120
+Latin and Spanish,,,,,Latin;Spanish,Q397;Q1321,Q113;Q114
+French,,,,,French,Q150,Q111
+Ethiopic,,,,,Ge'ez,Q35667,Q3664
+ara,,,,,Arabic,Q13955,Q118
+Ottoman Turkish,,,,,Ottoman Turkish,Q36730,Q3104
+Arabic; Arabic naskhi hand,,Arabic,Q13955,Q118,,,
+Persian,,,,,Persian,Q9168,Q120
+ARA,,,,,Arabic,Q13955,Q118
+"Persian, some pages in Ottoman Turkish at the end",,Persian;Ottoman Turkish,Q9168;Q36730,Q120;Q3104,,,
+PER,,,,,Persian,Q9168,Q120
+Arabic hand,,Arabic,Q13955,Q118,,,
+"Includes Ottoman Turkish? (folio 1r, 3r, and 86v-89v) and Greek (folio 2v); text in Ottoman Turkish (folio 3r-85v)",,Ottoman Turkish;Greek,Q36730;Q9129,Q3104;Q1318,,,
