@@ -8,9 +8,9 @@ Afyon,Q18347,Afyon,7002512,Afyonkarahisar,Q166824
 Agadir,Q42072,Agadir,1091336,Agadir,Q170525
 Āgra,Q27477,Āgra,7001493,Agra,Q42941
 Aix-en-Provence,Q38134,Aix-en-Provence,7010786,Aix-en-Provence,Q47465
-Albania,Q8378,Shqipëria,7006417,Albania,Q222
+Albania,Q8378,Albania,7006417,Albania,Q222
 Aleppo,Q3095,Ḥalab,7002252,Aleppo,Q41183
-Algeria,Q27489,Al-Jazā'ir,7016752,Algeria,Q262
+Algeria,Q27489,Algeria,7016752,Algeria,Q262
 Alsace,Q38135,Alsace,7024265,Alsace,Q1142
 Amasya,Q26527,Amasya,7002337,Amasya,Q170532
 Amberg,Q19894,Amberg,7012357,Amberg,Q7042
@@ -80,7 +80,7 @@ Brescia,Q7214,Brescia,7005764,Brescia,Q6221
 Bressanone,Q6994,Bressanone,7005433,Brixen,Q185541
 Brittany,Q1297,Bretagne,7024267,Brittany,Q327
 Bruges,Q16418,Brugge,7007867,Bruges,Q12994
-Brussels,Q19905,Bruxelles,7007868,Brussels,Q239
+Brussels,Q19905,Bruxelles,7007868,City of Brussels,Q239
 Buchau,Q3089,Buchau,7201751,Bad Buchau,Q496489
 Buckinghamshire,Q38157,Buckinghamshire,7008104,Buckinghamshire,Q67285329
 Burgos,Q12698,Burgos,7007510,Burgos,Q9580
@@ -154,7 +154,6 @@ Département du Tarn,Q5483,Département du Tarn,7003217,Tarn,Q12772
 Dewsbury,Q38186,Dewsbury,1029049,Dewsbury,Q525508
 Dieppe,Q38187,Dieppe,7008922,Dieppe,Q183557
 Dijon,Q19896,Dijon,7008224,Dijon,Q7003
-Dixton,Q17529,Dixton,7026610,,
 Diyarbakır,Q11622,Diyarbakır,7002338,Diyarbakır,Q83387
 Dorset,Q1286,Dorset,7011961,Dorset,Q23159
 Douai,Q7793,Douai,7008458,Douai,Q193826
@@ -239,7 +238,7 @@ Ingolstadt,Q3653,Ingolstadt,7017035,Ingolstadt,Q3004
 Ioannina,Q27490,Ioánnina,7011082,Ioannina,Q183199
 Iran,Q2822,Īrān,7000231,Iran,Q794
 Iraq,Q3090,Al-ʻIrāq,1000118,Iraq,Q796
-Ireland,Q17520,Ireland,1000078,Republic of Ireland,Q27
+Ireland,Q17520,Ireland,1000078,Ireland,Q27
 Isfahan,Q18350,Eşfahān,7017459,Isfahan,Q42053
 Istanbul,Q11605,İstanbul,7002473,Istanbul,Q406
 Italy,Q134,Italia,1000080,Italy,Q38
@@ -264,7 +263,7 @@ L'Aquila,Q38222,L'Aquila,7004067,L'Aquila,Q3476
 Lahore,Q27479,Lahore,7001560,Lahore,Q11739
 Lambach,Q26524,Lambach,7003278,Lambach,Q686750
 Lancashire,Q20358,Lancashire,7008154,Lancashire,Q23077
-Landkreis Eichstätt,Q4993,Landkreis Eichstätt,7077299,Eichstätt,Q10491
+Landkreis Eichstätt,Q4993,Landkreis Eichstätt,7077299,Eichstätt district,Q10491
 Langres,Q19895,Langres,7008343,Langres,Q203293
 Languedoc,Q38221,Languedoc,7002884,Languedoc,Q206221
 Laon,Q4334,Laon,7010220,Laon,Q167141
@@ -359,7 +358,6 @@ Nangis,Q27483,Nangis,1034615,Nangis,Q271599
 Naples,Q3099,Napoli,7004474,Naples,Q2634
 Navarre,Q38258,Comunidad Foral de Navarra,7002790,Navarre,Q4018
 Netherlands,Q651,Nederland,7016845,Netherlands,Q55
-Neuberg,Q19899,Neuberg,7124482,,
 Neustadt,Q5008,Neustadt,1037375,Neustadt,Q32184230
 New Jersey,Q38259,New Jersey,7007565,New Jersey,Q1408
 New York,Q27486,New York,7007567,New York City,Q60
@@ -453,7 +451,7 @@ Rouen,Q1244,Rouen,7008929,Rouen,Q30974
 Rovigo,Q4989,Rovigo,7003271,Rovigo,Q6572
 Roxburghshire,Q38292,Roxburghshire,7448522,Roxburghshire,Q664892
 Royaumont,Q7510,Royaumont,4009491,Royaumont Abbey,Q377882
-Rüden,Q16415,Rüden,7103299,Solingen-Obenrüden,Q19299580
+Rüden,Q16415,Rüden,7103299,Obenrüden,Q19299580
 Russia,Q38293,Rossija,7002435,Russia,Q159
 Rutland,Q1304,Rutland,5000748,Rutland,Q23107
 Saint Albans,Q12700,Saint Albans,7011871,St Albans,Q6226
@@ -491,7 +489,7 @@ Southern France,Q19904,Southern France,4004037,Southern France,Q1237299
 Southern Germany,Q4333,Southern Germany,4004316,Southern Germany,Q46519
 Southern Italy,Q19911,Meridione d'Italia,4005365,Southern Italy,Q207989
 Southern Netherlands,Q12702,Southern Netherlands,8711669,Southern Netherlands,Q6581823
-Southwestern France,Q38300,Southwestern France,4004038,Southwestern France,Q14201906
+Southwestern France,Q38300,Southwestern France,4004038,Southwestern France,Q3114590
 Spain,Q129,España,1000095,Spain,Q29
 Speyer,Q16410,Speyer,7012341,Speyer,Q6829
 Spilimbergo,Q38301,Spilimbergo,7005532,Spilimbergo,Q53197
@@ -549,7 +547,6 @@ Valdenoceda,Q6978,Valdenoceda,7299846,Valdenoceda,Q6158739
 Valencia,Q1298,Valencia,7008769,Valencia,Q8818
 Valladolid,Q6979,Valladolid,7008771,Valladolid,Q8356
 Van,Q18351,Van,1086977,Van,Q83061
-various locations,Q38318,various locations,8698129,,
 Vaucluse,Q38319,Vaucluse,7599818,Vaucluse,Q12792
 Veneto,Q811,Veneto,7002997,Veneto,Q1243
 Venice,Q2823,Venezia,7018159,Venice,Q641
