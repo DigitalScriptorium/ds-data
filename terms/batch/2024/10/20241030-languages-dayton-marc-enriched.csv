@@ -1,0 +1,8 @@
+language_as_recorded,language_code,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+lat,,,,,Latin,Q397,Q113
+In Latin; calendar and some prayers in French,,Latin;French,Q397;Q150,Q113;Q111,,,
+French,,,,,French,Q150,Q111
+Latin,,,,,Latin,Q397,Q113
+fre,,,,,French,Q150,Q111
+frelat,,,,,French;Latin,Q150;Q397,Q111;Q113
+"Latin, Vulgar Latin, Hebrew, English, French, German",,Latin;Vulgar Latin;Hebrew;English;French;German,Q397;Q37560;Q9288;Q1860;Q150;Q188,Q113;Q55346;Q117;Q109;Q111;Q112,,,

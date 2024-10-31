@@ -1,0 +1,63 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Manuscripts,aat,,,,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,"Q10789"
+Manuscripts--Catalan,aat,,manuscripts (documents);Catalan (culture or style),http://vocab.getty.edu/aat/300028569;http://vocab.getty.edu/aat/300263657,Q10789;Q55260,,,
+Manuscripts--Latin,aat,,manuscripts (documents);Latin (Latin Europe),http://vocab.getty.edu/aat/300028569;http://vocab.getty.edu/aat/300386015,Q10789;Q55261,,,
+Protests,aat,,protests,http://vocab.getty.edu/aat/300263294,Q55262,,,
+Legal documents,aat,,,,,legal documents,http://vocab.getty.edu/aat/300027590,"Q236"
+Autographs,gmgpc,,Autographs,http://id.worldcat.org/fast/1423715,Q7185,,,
+Seals,aat,,,,,seals (marks),http://vocab.getty.edu/aat/300417667,"Q38540"
+Versals,aat,,versals,http://vocab.getty.edu/aat/300265063,Q55264,,,
+Annotations,aat,,,,,annotations,http://vocab.getty.edu/aat/300026100,"Q251"
+Inscriptions,gmgpc,,Inscriptions,http://id.worldcat.org/fast/1424057,Q55259,,,
+Manuscripts--Italian,aat,,manuscripts (documents);Italian (culture or style),http://vocab.getty.edu/aat/300028569;http://vocab.getty.edu/aat/300111198,Q10789;Q19876,,,
+Permissions,aat,,permissions,http://vocab.getty.edu/aat/300140644,Q55263,,,
+Bindings,aat,,bindings (gathered matter components),http://vocab.getty.edu/aat/300055023,Q38434,,,
+"Manuscripts, Italian--17th century",lcsh,,,,,"Manuscripts, Italian;Seventeenth century",http://id.worldcat.org/fast/1008378;http://id.worldcat.org/fast/1113663,"Q269;Q2771"
+"Manuscripts, English--18th century",lcsh,,"Manuscripts, English;Eighteenth century",http://id.worldcat.org/fast/1008324;http://id.worldcat.org/fast/904058,Q200;Q3024,,,
+"Manuscripts, Latin--18th century",lcsh,,"Manuscripts, Latin;Eighteenth century",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/904058,Q210;Q3024,,,
+"Manuscripts, German--19th century",lcsh,,"Manuscripts, German;Nineteenth century",http://id.worldcat.org/fast/1008346;http://id.worldcat.org/fast/1037841,Q142;Q3538,,,
+Tables of contents,aat,,,,,tables of contents,http://vocab.getty.edu/aat/300195187,"Q7497"
+Illuminated manuscripts,aat,,,,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,"Q4268"
+Drawings,gmgpc,,Drawings,http://id.worldcat.org/fast/1423718,Q38460,,,
+"Manuscripts, Italian--18th century",lcsh,,,,,"Manuscripts, Italian;Eighteenth century",http://id.worldcat.org/fast/1008378;http://id.worldcat.org/fast/904058,"Q269;Q3024"
+"Manuscripts, English--19th century",lcsh,,"Manuscripts, English;Nineteenth century",http://id.worldcat.org/fast/1008324;http://id.worldcat.org/fast/1037841,Q200;Q3538,,,
+"Manuscripts, German--18th century",lcsh,,"Manuscripts, German;Eighteenth century",http://id.worldcat.org/fast/1008346;http://id.worldcat.org/fast/904058,Q142;Q3024,,,
+"Manuscripts, Spanish--19th century",lcsh,,"Manuscripts, Spanish;Nineteenth century",http://id.worldcat.org/fast/1008500;http://id.worldcat.org/fast/1037841,Q202;Q3538,,,
+Manuscripts--Dutch,local,,manuscripts (documents);Dutch (culture or style),http://vocab.getty.edu/aat/300028569;http://vocab.getty.edu/aat/300111175,Q10789;Q19858,,,
+Manuscripts--Latin,local,,manuscripts (documents);Latin (Latin Europe),http://vocab.getty.edu/aat/300028569;http://vocab.getty.edu/aat/300386015,Q10789;Q55261,,,
+Vows,local,,Vows,http://id.worldcat.org/fast/1169298,Q39121,,,
+Oaths,aat,,,,,oaths,http://vocab.getty.edu/aat/300027206,"Q7362"
+Historiated initials,aat,,,,,historiated initials,http://vocab.getty.edu/aat/300194390,"Q10800"
+Games,rbgnr,,Games,http://id.loc.gov/vocabulary/rbmscv/cv01393,Q55267,,,
+"Manuscripts, Latin",local,,"Manuscripts, Latin",http://id.worldcat.org/fast/1008395,Q210,,,
+"Manuscripts, Spanish--17th century",lcsh,,"Manuscripts, Spanish;Seventeenth century",http://id.worldcat.org/fast/1008500;http://id.worldcat.org/fast/1113663,Q202;Q2771,,,
+Legal instruments,aat,,,,,legal instruments,http://vocab.getty.edu/aat/300163664,"Q4314"
+Manuscripts,att,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789,,,
+text,rdacontent,,texts (documents),http://vocab.getty.edu/aat/300263751,Q55265,,,
+"Manuscripts, Persian-17th century",0,,"Manuscripts, Persian;Seventeenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1113663,Q255;Q2771,,,
+Early works to 1800,,,,,,Early works,http://id.worldcat.org/fast/1411636,"Q300"
+Cookbooks,lcgft,,Cookbooks,http://id.worldcat.org/fast/1752725,Q55257,,,
+"Manuscripts, French--18h century",lcsh,,"Manuscripts, French;Eighteenth century",http://id.worldcat.org/fast/1008338;http://id.worldcat.org/fast/904058,Q319;Q3024,,,
+"Manuscripts, Arabic",lcsh,,,,,"Manuscripts, Arabic",http://id.worldcat.org/fast/1008278,"Q256"
+"Manuscripts, Turkish--18th century",lcsh,,,,,"Manuscripts, Turkish;Eighteenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/904058,"Q3068;Q3024"
+"Manuscripts, Persian--18th century",lcsh,,,,,"Manuscripts, Persian;Eighteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/904058,"Q255;Q3024"
+"Manuscripts, Persian--19th century",lcsh,,,,,"Manuscripts, Persian;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1037841,"Q255;Q3538"
+"Manuscripts, Arabic--19th century",lcsh,,,,,"Manuscripts, Arabic;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1037841,"Q256;Q3538"
+"Epic poetry, Arabic",,,"Epic poetry, Arabic",http://id.worldcat.org/fast/913817,Q55258,,,
+"Manuscripts, Arabic--18th century",lcsh,,,,,"Manuscripts, Arabic;Eighteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/904058,"Q256;Q3024"
+"Manuscripts, Persian--17th century",lcsh,,,,,"Manuscripts, Persian;Seventeenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1113663,"Q255;Q2771"
+"Manuscripts, Arabic,--19th century",lcsh,,"Manuscripts, Arabic;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1037841,Q256;Q3538,,,
+"Manuscripts, Arabic--17th century",lcsh,,,,,"Manuscripts, Arabic;Seventeenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1113663,"Q256;Q2771"
+"Manuscripts, Arabic--16th century",lcsh,,,,,"Manuscripts, Arabic;Sixteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1119851,"Q256;Q335"
+"Manuscripts, Persian",lcsh,,,,,"Manuscripts, Persian",http://id.worldcat.org/fast/1008462,"Q255"
+Lectures--Germany--Hannover--19th century,rbgenr,,Lectures;Germany--Hannover;Nineteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00294;http://id.worldcat.org/fast/1206136;http://id.worldcat.org/fast/1037841,Q55268;Q55266;Q3538,,,
+Manuscripts--German,aat,,"manuscripts (documents);German (culture, style, period)",http://vocab.getty.edu/aat/300028569;http://vocab.getty.edu/aat/300111192,Q10789;Q19867,,,
+Tabs,aat,,,,,tabs,http://vocab.getty.edu/aat/300234003,"Q38548"
+Manuscripts--Spanish,aat,,manuscripts (documents);Spanish (culture or style),http://vocab.getty.edu/aat/300028569;http://vocab.getty.edu/aat/300111215,Q10789;Q19880,,,
+Correspondence,aat,,,,,correspondence,http://vocab.getty.edu/aat/300026877,"Q7715"
+News,aat,,,,,,,
+Reports,aat,,,,,reports,http://vocab.getty.edu/aat/300027267,"Q187"
+"Manuscripts, Turkish--17th century",lcsh,,,,,"Manuscripts, Turkish;Seventeenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/1113663,"Q3068;Q2771"
+Binding components,aat,,,,,binding components,http://vocab.getty.edu/aat/300194225,"Q38435"
+Psalters,aat,,,,,psalters (books),http://vocab.getty.edu/aat/300026477,"Q4134"
+Notes,aat,,notes (documents),http://vocab.getty.edu/aat/300027200,Q17509,,,

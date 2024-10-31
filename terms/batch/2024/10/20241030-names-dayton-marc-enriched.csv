@@ -1,0 +1,5 @@
+name_as_recorded,role,name_agr,source_authority_uri,instance_of_add,authorized_label_add,structured_value_add,ds_id_add,ds_qid_add,instance_of,authorized_label,structured_value,ds_qid
+Catholic Church,author,,http://viaf.org/viaf/130782063,,,,,,organization,Catholic Church,Q9592,Q425
+"Bernard, of Clairvaux, Saint, 1090 or 1091-1153",author,,http://viaf.org/viaf/59875293,,,,,,human,Bernard of Clairvaux,Q188411,Q10865
+"Rose, Stuart, 1954-",former owner,,,human,Stuart Rose,Q93494568,DSNAME6949,Q55347,,,,
+Masters of the Gold Scrolls,illuminator,,,organization,Masters of the Gold Scrolls,Q23888760,DSNAME2853,Q1488,,,,

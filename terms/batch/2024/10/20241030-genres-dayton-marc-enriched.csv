@@ -1,0 +1,24 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+books of hours,aat,(CStmoGRI)aat300026457,,,,books of hours,http://vocab.getty.edu/aat/300026457,Q3618
+illuminated manuscripts,aat,(CStmoGRI)aatgf300265483,,,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,Q4268
+Gothic scripts,aat,(CStmoGRI)aatgf300195226,,,,Gothic scripts,http://vocab.getty.edu/aat/300195226,Q16360
+Illuminated borders,aat,,illuminations (paintings);borders (ornament areas),http://vocab.getty.edu/aat/300264522;http://vocab.getty.edu/aat/300010252,Q225;Q11304,,,
+Illuminated initials,aat,,decorated initials,https://vocab.getty.edu/aat/300417548,Q10807,,,
+parchment (animal material),aat,(CStmoGRI)aat300011851,parchment (animal material),http://vocab.getty.edu/aat/300011851,Q12611,,,
+Morocco bindings,rbbin,,Morocco bindings,http://id.loc.gov/vocabulary/rbmscv/cv00548,Q12652,,,
+Gold tooled bindings,rbbin,,Gold tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00551,Q12520,,,
+Devotional calendars,rbgenr,,Devotional calendars,http://id.loc.gov/vocabulary/rbmscv/cv01059,Q55343,,,
+Books of hours--France--14th century,rbgenr,,Books of hours;France;Fourteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01037;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/933420,Q38439;Q152;Q295,,,
+Antiphons (Music),fast,(OCoLC)fst01920005,Antiphons (Music),http://id.worldcat.org/fast/1920005,Q38426,,,
+Christmas music,fast,(OCoLC)fst01726560,Christmas music,http://id.worldcat.org/fast/1726560,Q55344,,,
+Divine Office (Music),fast,(OCoLC)fst01920110,Divine Office (Music),http://id.worldcat.org/fast/1920110,Q55345,,,
+Early works,fast,(OCoLC)fst01411636,,,,Early works,http://id.worldcat.org/fast/1411636,Q300
+Texts,fast,(OCoLC)fst01423705,,,,Texts,http://id.worldcat.org/fast/1423705,Q3066
+Antiphons (Music),lcgft,,,,,Antiphons (Music),http://id.worldcat.org/fast/1920005,Q38426
+Divine Office (Music),lcgft,,Divine Office (Music),http://id.worldcat.org/fast/1920110,Q55345,,,
+Christmas music,lcgft,,Christmas music,http://id.worldcat.org/fast/1726560,Q55344,,,
+Antiphonaries,rbgenr,,,,,Antiphonaries,http://id.loc.gov/vocabulary/rbmscv/cv00118,Q10815
+Illuminations (painting),aat,,,,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
+Gothic scripts,aat,,,,,Gothic scripts,http://vocab.getty.edu/aat/300195226,Q16360
+Bosses (Furniture),rbbin,,Bosses (Bindings),http://id.loc.gov/vocabulary/rbmscv/cv00444,Q12679,,,
+Raised bands (Bands),rbbin,,Raised bands,http://id.loc.gov/vocabulary/rbmscv/cv00665,Q5936,,,
