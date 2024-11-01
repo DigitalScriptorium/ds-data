@@ -14,7 +14,7 @@ A. V. Williams Jackson,Q27958,DSNAME3173,Personal (Name Authority),A. V. William
 A. W. F. Fuller,Q17730,DSNAME2521,Personal (Name Authority),A. W. F. Fuller,Q4648509
 Aaron ben Moses,Q40063,DSNAME3618,Personal (Name Authority),Aaron ben Moses,Q124566701
 Abbadia San Salvatore,Q8201,DSNAME1632,Corporate (Name Authority),Abbadia San Salvatore,Q91096
-Abbaye de Cambron,Q1592,DSNAME428,Corporate (Name Authority),Abbaye de Cambron,Q948743
+Cambron Abbey,Q1592,DSNAME428,Corporate (Name Authority),Cambron Abbey,Q948743
 Abbaye de Dommartin,Q41925,DSNAME5480,Corporate (Name Authority),Abbaye de Dommartin,Q2424223
 Abbaye de Saint-Alyre,Q16513,DSNAME2206,Corporate (Name Authority),Abbaye de Saint-Alyre,Q2820668
 Abbaye de Saint-Martin de Tournai,Q16475,DSNAME2167,Corporate (Name Authority),Abbaye de Saint-Martin de Tournai,Q2820407
@@ -150,7 +150,7 @@ Aelred of Rievaulx,Q40084,DSNAME3639,Personal (Name Authority),Aelred of Rievaul
 Aemilius Probus,Q40085,DSNAME3640,Personal (Name Authority),Aemilius Probus,Q37740777
 Aeneas of Gaza,Q40714,DSNAME4269,Personal (Name Authority),Aeneas of Gaza,Q137152
 Aesop,Q40086,DSNAME3641,Personal (Name Authority),Aesop,Q43423
-Afz̤al al-Dīn Shirvānī Khāqānī,Q18696,DSNAME2648,Personal (Name Authority),Afz̤al al-Dīn Shirvānī Khāqānī,Q123581745
+Khaqani,Q18696,DSNAME2648,Personal (Name Authority),Khaqani,Q368862
 Agnes Browne,Q20527,DSNAME3040,Personal (Name Authority),Agnes Browne,Q122873234
 Agnes de Cavaciis,Q4384,DSNAME1020,Personal (Name Authority),Agnes de Cavaciis,Q116272217
 Agnes de Claustris,Q4358,DSNAME993,Personal (Name Authority),Agnes de Claustris,Q116272273
@@ -199,7 +199,7 @@ Al-Nawawi,Q12416,DSNAME1886,Personal (Name Authority),Al-Nawawi,Q293571
 Al-Qastallani,Q12333,DSNAME1803,Personal (Name Authority),Al-Qastallani,Q2829271
 Al-Quda'i,Q12436,DSNAME1906,Personal (Name Authority),Al-Quda'i,Q15431116
 Al-Shahrastani,Q12309,DSNAME1779,Personal (Name Authority),Al-Shahrastani,Q1050887
-Al-Shurunbulali,Q12485,DSNAME1955,Personal (Name Authority),Al-Shurunbulali,Q25452012
+Hasan Ibn e Ammar Al-Shurunbulali,Q12485,DSNAME1955,Personal (Name Authority),Hasan Ibn e Ammar Al-Shurunbulali,Q25452012
 Al-Suhayli,Q12294,DSNAME1764,Personal (Name Authority),Al-Suhayli,Q4703267
 Al-Tughrai,Q12328,DSNAME1798,Personal (Name Authority),Al-Tughrai,Q4164865
 Al-Zamakhshari,Q12315,DSNAME1785,Personal (Name Authority),Al-Zamakhshari,Q482451
@@ -232,7 +232,7 @@ Albertus de Saxonia,Q40105,DSNAME3660,Personal (Name Authority),Albertus de Saxo
 Albrecht von Bonstetten,Q40322,DSNAME3877,Personal (Name Authority),Albrecht von Bonstetten,Q1683081
 Albrecht von Eyb,Q4448,DSNAME1084,Personal (Name Authority),Albrecht von Eyb,Q77715
 Albrecht von Pfalz-Mosbach,Q40110,DSNAME3665,Personal (Name Authority),Albrecht von Pfalz-Mosbach,Q1739358
-"Albrecht, Graf zu Löwenstein-Wertheim-Virneburg",Q41155,DSNAME4710,Personal (Name Authority),"Albrecht, Graf zu Löwenstein-Wertheim-Virneburg",Q108924050
+Albert de Löwenstein-Wertheim-Virnebourg,Q41155,DSNAME4710,Personal (Name Authority),Albert de Löwenstein-Wertheim-Virnebourg,Q44192590
 Alcher of Clairvaux,Q40111,DSNAME3666,Personal (Name Authority),Alcher of Clairvaux,Q2832136
 Alcinous,Q40112,DSNAME3667,Personal (Name Authority),Alcinous,Q936686
 Alcuin,Q1543,DSNAME379,Personal (Name Authority),Alcuin,Q154332
@@ -320,7 +320,7 @@ Alulphe of Tournai,Q1597,DSNAME433,Personal (Name Authority),Alulphe of Tournai,
 Alvise Bochini,Q16669,DSNAME2368,Personal (Name Authority),Alvise Bochini,Q123274728
 Alvise I Mocenigo,Q2854,DSNAME744,Personal (Name Authority),Alvise I Mocenigo,Q449435
 Amans-Alexis Monteil,Q40134,DSNAME3689,Personal (Name Authority),Amans-Alexis Monteil,Q2841108
-Amara Sinha,Q28101,DSNAME3317,Personal (Name Authority),Amara Sinha,Q370113
+Amarsingha,Q28101,DSNAME3317,Personal (Name Authority),Amarsingha,Q370113
 Amaracandrasūri,Q28390,DSNAME3606,Personal (Name Authority),Amaracandrasūri,Q124252804
 Amaru,Q28109,DSNAME3325,Personal (Name Authority),Amaru,Q455251
 Ambroise Firmin Didot,Q17673,DSNAME2464,Personal (Name Authority),Ambroise Firmin Didot,Q2842379
@@ -611,7 +611,7 @@ Badarayana,Q28245,DSNAME3461,Personal (Name Authority),Badarayana,Q4840620
 Badr ad-Dīn ibn Mālik,Q12367,DSNAME1837,Personal (Name Authority),Badr ad-Dīn ibn Mālik,Q28715113
 Badr al-Rashīd,Q40209,DSNAME3764,Personal (Name Authority),Badr al-Rashīd,Q124566716
 Bagnano family,Q5148,DSNAME1156,Corporate (Name Authority),Bagnano family,Q116730914
-Bahraq of Yemen,Q12329,DSNAME1799,Personal (Name Authority),Bahraq of Yemen,Q57713093
+Bahraq of Yemen,Q12329,DSNAME1799,Personal (Name Authority),Bahraq of Yemen,Q28713152
 Bahrām ibn Muḥammad,Q18730,DSNAME2683,Personal (Name Authority),Bahrām ibn Muḥammad,Q123581720
 Baháʼu'lláh,Q28054,DSNAME3270,Personal (Name Authority),Baháʼu'lláh,Q101054
 Bahāʾ al-dīn al-ʿĀmilī,Q12408,DSNAME1878,Personal (Name Authority),Bahāʾ al-dīn al-ʿĀmilī,Q2658411
@@ -867,7 +867,7 @@ Budhakauśika,Q28165,DSNAME3381,Personal (Name Authority),Budhakauśika,Q1242528
 Burchard of Mount Sion,Q7592,DSNAME1431,Personal (Name Authority),Burchard of Mount Sion,Q4998199
 Burg Kreuzenstein,Q3256,DSNAME855,Corporate (Name Authority),Burg Kreuzenstein,Q669642
 Burgersdijk & Niermans,Q42132,DSNAME5659,Corporate (Name Authority),Burgersdijk & Niermans,Q126000567
-Al-Zarnuji,Q18660,DSNAME2612,Personal (Name Authority),Al-Zarnuji,Q55989354
+Al-Zarnuji,Q18660,DSNAME2612,Personal (Name Authority),Al-Zarnuji,Q4703373
 Burhan al-Din al-Marghinani,Q3793,DSNAME954,Personal (Name Authority),Burhan al-Din al-Marghinani,Q4998760
 Burhān ibn Waḥīd Khawāfī,Q28020,DSNAME3236,Personal (Name Authority),Burhān ibn Waḥīd Khawāfī,Q124130485
 Burke Library at Union Theological Seminary,Q28019,DSNAME3235,Corporate (Name Authority),Burke Library at Union Theological Seminary,Q63969940
@@ -907,7 +907,7 @@ Carl Alphons Geigy-Hagenbach,Q7286,DSNAME1345,Personal (Name Authority),Carl Alp
 Carl Frederick Haussmann,Q40848,DSNAME4403,Personal (Name Authority),Carl Frederick Haussmann,Q113864144
 Carl Reinhardt,Q28008,DSNAME3224,Personal (Name Authority),Carl Reinhardt,Q109853441
 Carleton Rubira Richmond,Q3217,DSNAME816,Personal (Name Authority),Carleton Rubira Richmond,Q116572039
-Carlo Archinto,Q828,DSNAME224,Personal (Name Authority),Carlo Archinto,Q665628
+"Carlo Archinto, 2nd Marquess of Parona, 3rd Count of Trainate",Q828,DSNAME224,Personal (Name Authority),"Carlo Archinto, 2nd Marquess of Parona, 3rd Count of Trainate",Q665628
 Carlo Blasii de Piccolomini,Q8108,DSNAME1617,Personal (Name Authority),Carlo Blasii de Piccolomini,Q116520396
 Carlo Bonaparte,Q27857,DSNAME3068,Personal (Name Authority),Carlo Bonaparte,Q151869
 Carlo Carafa,Q3829,DSNAME990,Personal (Name Authority),Carlo Carafa,Q1041979
@@ -919,7 +919,7 @@ Carlo Salvi,Q41624,DSNAME5179,Personal (Name Authority),Carlo Salvi,Q120442583
 Carlo de' Medici,Q5491,DSNAME1164,Personal (Name Authority),Carlo de' Medici,Q2507940
 Carlton Lake,Q17733,DSNAME2524,Personal (Name Authority),Carlton Lake,Q19277169
 Carthusian Order,Q41958,DSNAME5513,Corporate (Name Authority),Carthusian Order,Q220979
-"Carthusian monastery, Herne",Q20224,DSNAME2908,Corporate (Name Authority),"Carthusian monastery, Herne",Q2399914
+Herne Charterhouse,Q20224,DSNAME2908,Corporate (Name Authority),Herne Charterhouse,Q2399914
 Caspar Misnensis,Q40400,DSNAME3955,Personal (Name Authority),Caspar Misnensis,Q124515268
 Caspar René Gregory,Q40796,DSNAME4351,Personal (Name Authority),Caspar René Gregory,Q215644
 Cassiodorus,Q1562,DSNAME398,Personal (Name Authority),Cassiodorus,Q192365
@@ -1502,7 +1502,7 @@ Ferdinand II of Aragon,Q7042,DSNAME1294,Personal (Name Authority),Ferdinand II o
 "Ferdinand II, Archduke of Austria",Q4367,DSNAME1003,Personal (Name Authority),"Ferdinand II, Archduke of Austria",Q313426
 Ferdinand Roten Incorporated,Q41983,DSNAME5538,Corporate (Name Authority),Ferdinand Roten Incorporated,Q120442747
 Ferdinando I de' Medici,Q3164,DSNAME763,Personal (Name Authority),Ferdinando I de' Medici,Q297483
-Ferdowsikara,Q18691,DSNAME2643,Personal (Name Authority),Ferdowsikara,Q43459
+Ferdowsi,Q18691,DSNAME2643,Personal (Name Authority),Ferdowsi,Q43459
 Fernando Diego de Carrione,Q6127,DSNAME1248,Personal (Name Authority),Fernando Diego de Carrione,Q120442559
 Fernando Palha,Q41386,DSNAME4941,Personal (Name Authority),Fernando Palha,Q120753016
 Fernando Paz,Q4408,DSNAME1044,Personal (Name Authority),Fernando Paz,Q116250264
@@ -1882,7 +1882,7 @@ Giovanni Grassi,Q41011,DSNAME4566,Personal (Name Authority),Giovanni Grassi,Q415
 Giovanni Guidiccioni,Q40811,DSNAME4366,Personal (Name Authority),Giovanni Guidiccioni,Q3767458
 Giovanni II Cornaro,Q7335,DSNAME1395,Personal (Name Authority),Giovanni II Cornaro,Q1226634
 Giovanni Maria Cecchi,Q40419,DSNAME3974,Personal (Name Authority),Giovanni Maria Cecchi,Q426305
-Giovanni Marliani,Q42183,DSNAME5710,Personal (Name Authority),Giovanni Marliani,Q125930801
+Giovanni Marliani,Q42183,DSNAME5710,Personal (Name Authority),Giovanni Marliani,Q75962786
 Giovanni Marrasio,Q41207,DSNAME4762,Personal (Name Authority),Giovanni Marrasio,Q99308713
 Giovanni Mattia Tabarino,Q41787,DSNAME5342,Personal (Name Authority),Giovanni Mattia Tabarino,Q100153512
 Giovanni Onorio,Q41183,DSNAME4738,Personal (Name Authority),Giovanni Onorio,Q113795868
@@ -2050,9 +2050,9 @@ Guo Kui,Q12861,DSNAME2052,Personal (Name Authority),Guo Kui,Q45424337
 Gustav Wolf,Q17692,DSNAME2483,Personal (Name Authority),Gustav Wolf,Q15453601
 Gusztáv Emich,Q40593,DSNAME4148,Personal (Name Authority),Gusztáv Emich,Q989300
 Guy de Chauliac,Q42188,DSNAME5715,Personal (Name Authority),Guy de Chauliac,Q61474715
-"Guy du Faur, seigneur de Pibrac",Q41473,DSNAME5028,Personal (Name Authority),"Guy du Faur, seigneur de Pibrac",Q3121749
+"Guy du Faur, Seigneur de Pibrac",Q41473,DSNAME5028,Personal (Name Authority),"Guy du Faur, Seigneur de Pibrac",Q3121749
 Guyart des Moulins,Q40808,DSNAME4363,Personal (Name Authority),Guyart des Moulins,Q3122335
-Gwenllian,Q6155,DSNAME1276,Personal (Name Authority),Gwenllian,Q120442563
+Gwenllian of Wales,Q6155,DSNAME1276,Personal (Name Authority),Gwenllian of Wales,Q469952
 Gwenllian Vaughan,Q40829,DSNAME4384,Personal (Name Authority),Gwenllian Vaughan,Q114242550
 Gérard de Vaucouleurs,Q17769,DSNAME2561,Personal (Name Authority),Gérard de Vaucouleurs,Q981340
 Géraud de Frachet,Q40731,DSNAME4286,Personal (Name Authority),Géraud de Frachet,Q3124462
@@ -2075,7 +2075,7 @@ Hankok,Q40835,DSNAME4390,Personal (Name Authority),Hankok,Q124380415
 Hanns Schwartz,Q5115,DSNAME1122,Personal (Name Authority),Hanns Schwartz,Q116619667
 Hannād Ibn al-Sarī,Q12445,DSNAME1915,Personal (Name Authority),Hannād Ibn al-Sarī,Q12250101
 Hans Albrecht von Derschau,Q40522,DSNAME4077,Personal (Name Authority),Hans Albrecht von Derschau,Q55843668
-Hans Friedrich Emanuel Schennis,Q7062,DSNAME1314,Personal (Name Authority),Hans Friedrich Emanuel Schennis,Q24701295
+Friedrich von Schennis,Q7062,DSNAME1314,Personal (Name Authority),Friedrich von Schennis,Q24701295
 Hans Lill,Q12931,DSNAME2124,Personal (Name Authority),Hans Lill,Q122949367
 Hans P. Kraus,Q20316,DSNAME3006,Personal (Name Authority),Hans P. Kraus,Q85506
 Hans Schwent,Q4449,DSNAME1085,Personal (Name Authority),Hans Schwent,Q116619680
@@ -2297,7 +2297,7 @@ Hugh of Balma,Q6094,DSNAME1215,Personal (Name Authority),Hugh of Balma,Q15090859
 Hugh of Fouilloy,Q1576,DSNAME412,Personal (Name Authority),Hugh of Fouilloy,Q5631
 Hugh of Saint Victor,Q1511,DSNAME347,Personal (Name Authority),Hugh of Saint Victor,Q317554
 Hugh of Saint-Cher,Q6092,DSNAME1213,Personal (Name Authority),Hugh of Saint-Cher,Q1365254
-Hugo Argentinensis,Q6073,DSNAME1194,Personal (Name Authority),Hugo Argentinensis,Q113866261
+Hugh Ripelin of Strasburg,Q6073,DSNAME1194,Personal (Name Authority),Hugh Ripelin of Strasburg,Q1635599
 Hugo Grotius,Q40910,DSNAME4465,Personal (Name Authority),Hugo Grotius,Q154959
 Hugo Philipp Waldbott-Bassenheim,Q833,DSNAME229,Personal (Name Authority),Hugo Philipp Waldbott-Bassenheim,Q1682028
 Hugo Trottus,Q41784,DSNAME5339,Personal (Name Authority),Hugo Trottus,Q124566964
@@ -2325,7 +2325,7 @@ Iacobus Tarranus,Q41741,DSNAME5296,Personal (Name Authority),Iacobus Tarranus,Q1
 Iacopo Bottrigari,Q40967,DSNAME4522,Personal (Name Authority),Iacopo Bottrigari,Q41566927
 Iacopo da Benevento,Q6091,DSNAME1212,Personal (Name Authority),Iacopo da Benevento,Q3791438
 Ibn 'Abd al-Barr,Q12347,DSNAME1817,Personal (Name Authority),Ibn 'Abd al-Barr,Q732363
-Ibn 'Asakir,Q28016,DSNAME3232,Personal (Name Authority),Ibn 'Asakir,Q565665
+Ibn Asakir,Q28016,DSNAME3232,Personal (Name Authority),Ibn Asakir,Q565665
 Ibn Abi Zayd al-Qayrawani,Q27888,DSNAME3101,Personal (Name Authority),Ibn Abi Zayd al-Qayrawani,Q5984167
 Ibn Abi al-Dunya,Q12400,DSNAME1870,Personal (Name Authority),Ibn Abi al-Dunya,Q6532706
 Ibn Aqil,Q12498,DSNAME1968,Personal (Name Authority),Ibn Aqil,Q11728390
@@ -2381,7 +2381,7 @@ Ibrāhīm ibn Yaḥyá Ibn Rifāʻah al-Ghazzī,Q12330,DSNAME1800,Personal (Name
 Ibrāhīm ibn ʻAlī Qalqashandī,Q3783,DSNAME944,Personal (Name Authority),Ibrāhīm ibn ʻAlī Qalqashandī,Q116570341
 Ibrāhīm ibn ʻUmar Jaʻbarī,Q12279,DSNAME1749,Personal (Name Authority),Ibrāhīm ibn ʻUmar Jaʻbarī,Q122946968
 Ibrāhīm ibn Ḥasan ibn Pīr Mullā Ḥasan,Q40935,DSNAME4490,Personal (Name Authority),Ibrāhīm ibn Ḥasan ibn Pīr Mullā Ḥasan,Q124566835
-Ibrāhīm ibn Ṣāliḥ Shāhidī Dadah Mughlavī,Q18722,DSNAME2675,Personal (Name Authority),Ibrāhīm ibn Ṣāliḥ Shāhidī Dadah Mughlavī,Q123581783
+Shahidi Ibrahim Dede,Q18722,DSNAME2675,Personal (Name Authority),Shahidi Ibrahim Dede,Q8084312
 Ibrāhīmʹzādah Ismāʻīl Z̲ihnī,Q28049,DSNAME3265,Personal (Name Authority),Ibrāhīmʹzādah Ismāʻīl Z̲ihnī,Q124130471
 Iceland,Q41993,DSNAME5548,Corporate (Name Authority),Iceland,Q189
 Ignatios the Deacon,Q40943,DSNAME4498,Personal (Name Authority),Ignatios the Deacon,Q3148188
@@ -2525,7 +2525,7 @@ Jakob Montanus,Q40920,DSNAME4475,Personal (Name Authority),Jakob Montanus,Q16775
 Jakob Twinger von Königshofen,Q41791,DSNAME5346,Personal (Name Authority),Jakob Twinger von Königshofen,Q74541
 Jalal al-Din al-Qazwini,Q12375,DSNAME1845,Personal (Name Authority),Jalal al-Din al-Qazwini,Q12187054
 Jalal al-Din al-Suyuti,Q10868,DSNAME3178,Personal (Name Authority),Jalal al-Din al-Suyuti,Q468432
-Jalaladdin Davani,Q40510,DSNAME4065,Personal (Name Authority),Jalaladdin Davani,Q4116938
+Jalal al-Din Davani,Q40510,DSNAME4065,Personal (Name Authority),Jalal al-Din Davani,Q4116938
 Jalaluddin al-Mahalli,Q27965,DSNAME3181,Personal (Name Authority),Jalaluddin al-Mahalli,Q6758211
 Jalāl al-Dīn al-Thīrī,Q41759,DSNAME5314,Personal (Name Authority),Jalāl al-Dīn al-Thīrī,Q124566961
 James & Mary Lee Tregaskis (Firm),Q1661,DSNAME497,Corporate (Name Authority),James & Mary Lee Tregaskis (Firm),Q114242604
@@ -2647,7 +2647,7 @@ Jibrāyil ibn Mikhāyil Ḥamawī,Q3258,DSNAME857,Personal (Name Authority),Jibr
 Jivanji Jamshedji Modi,Q27960,DSNAME3175,Personal (Name Authority),Jivanji Jamshedji Modi,Q6203454
 Jo. Otho,Q5102,DSNAME1109,Personal (Name Authority),Jo. Otho,Q116192665
 Joachim Bendel,Q40260,DSNAME3815,Personal (Name Authority),Joachim Bendel,Q124566726
-Joachim Guerrini,Q16476,DSNAME2168,Personal (Name Authority),Joachim Guerrini,Q123274773
+Joachim Guerrinus de Montefegatesio,Q16476,DSNAME2168,Personal (Name Authority),Joachim Guerrinus de Montefegatesio,Q114242469
 Joachim Guerrinus de Montefegatesio,Q20111,DSNAME2792,Personal (Name Authority),Joachim Guerrinus de Montefegatesio,Q114242469
 Joachim Périon,Q41436,DSNAME4991,Personal (Name Authority),Joachim Périon,Q3179496
 Joachim of Fiore,Q40994,DSNAME4549,Personal (Name Authority),Joachim of Fiore,Q199991
@@ -2976,11 +2976,11 @@ João Gomes da Silva,Q40782,DSNAME4337,Personal (Name Authority),João Gomes da 
 Juan Antonio de la Reguera,Q41564,DSNAME5119,Personal (Name Authority),Juan Antonio de la Reguera,Q124566928
 Juan Burgueño,Q7278,DSNAME1337,Personal (Name Authority),Juan Burgueño,Q116250142
 Juan Martínez Silíceo,Q41217,DSNAME4772,Personal (Name Authority),Juan Martínez Silíceo,Q1369930
-Juan Paez de Castro,Q12824,DSNAME2015,Personal (Name Authority),Juan Paez de Castro,Q1946977
+Juan Páez de Castro,Q12824,DSNAME2015,Personal (Name Authority),Juan Páez de Castro,Q1946977
 Juan Rodriguez,Q42219,DSNAME5746,Personal (Name Authority),Juan Rodriguez,Q125930823
 Juan de Aillon,Q40093,DSNAME3648,Personal (Name Authority),Juan de Aillon,Q124566704
 Juan de Gayferos de Eguiraum,Q40712,DSNAME4267,Personal (Name Authority),Juan de Gayferos de Eguiraum,Q124629905
-Juan de Iriarte,Q17782,DSNAME2574,Personal (Name Authority),Juan de Iriarte,Q932759
+Juan de Iriarte y Cisneros,Q17782,DSNAME2574,Personal (Name Authority),Juan de Iriarte y Cisneros,Q932759
 Juan de Londono,Q20138,DSNAME2819,Personal (Name Authority),Juan de Londono,Q122873492
 Juan de Mena,Q41049,DSNAME4604,Personal (Name Authority),Juan de Mena,Q388140
 Juan de Torquemada,Q7622,DSNAME1461,Personal (Name Authority),Juan de Torquemada,Q712941
@@ -3217,7 +3217,7 @@ London School of Jewish Studies,Q2856,DSNAME746,Corporate (Name Authority),Londo
 "Long Island Historical Society, Maine",Q42008,DSNAME5563,Corporate (Name Authority),"Long Island Historical Society, Maine",Q71863962
 Lope de Espejo,Q16712,DSNAME2413,Personal (Name Authority),Lope de Espejo,Q123274757
 Lope de Olmedo,Q41171,DSNAME4726,Personal (Name Authority),Lope de Olmedo,Q55835391
-Félix Lope de Vega y Carpio,Q7284,DSNAME1343,Personal (Name Authority),Félix Lope de Vega y Carpio,Q165257
+Lope de Vega,Q7284,DSNAME1343,Personal (Name Authority),Lope de Vega,Q165257
 Lorenz Fries,Q40690,DSNAME4245,Personal (Name Authority),Lorenz Fries,Q95863
 Lorenz Stöer,Q41150,DSNAME4705,Personal (Name Authority),Lorenz Stöer,Q1870137
 Lorenzo Belo,Q40249,DSNAME3804,Personal (Name Authority),Lorenzo Belo,Q55225451
@@ -3334,7 +3334,7 @@ Mahmud Abubekhr ben Mahmud Tabrizi,Q41737,DSNAME5292,Personal (Name Authority),M
 Mahmud Mirza Qajar,Q27949,DSNAME3163,Personal (Name Authority),Mahmud Mirza Qajar,Q5946297
 Mahmud ibn Abd al-Rahman al-Isfahani,Q12306,DSNAME1776,Personal (Name Authority),Mahmud ibn Abd al-Rahman al-Isfahani,Q57970695
 Mahārāja Aditya Bahadur Dinha,Q28269,DSNAME3485,Personal (Name Authority),Mahārāja Aditya Bahadur Dinha,Q114242454
-Majd ad-Din ibn Taymiyyah,Q40937,DSNAME4492,Personal (Name Authority),Majd ad-Din ibn Taymiyyah,Q6534991
+ʻAbd al-Salām ibn ʻAbd Allāh Ibn Taymīyah,Q40937,DSNAME4492,Personal (Name Authority),ʻAbd al-Salām ibn ʻAbd Allāh Ibn Taymīyah,Q6534991
 Majd ad-Dīn Ibn Athir,Q12438,DSNAME1908,Personal (Name Authority),Majd ad-Dīn Ibn Athir,Q25468769
 Makaranda,Q28337,DSNAME3553,Personal (Name Authority),Makaranda,Q115723168
 Makkī ibn Ḥammūsh Qaysī,Q12424,DSNAME1894,Personal (Name Authority),Makkī ibn Ḥammūsh Qaysī,Q22690123
@@ -3577,7 +3577,7 @@ Michael Scot,Q41261,DSNAME4816,Personal (Name Authority),Michael Scot,Q559548
 Michael Servetus,Q41262,DSNAME4817,Personal (Name Authority),Michael Servetus,Q185914
 Michael Syncellus,Q41263,DSNAME4818,Personal (Name Authority),Michael Syncellus,Q2363253
 Michael Tomkinson,Q1824,DSNAME589,Personal (Name Authority),Michael Tomkinson,Q18811090
-Michael Wegierski,Q41260,DSNAME4815,Personal (Name Authority),Michael Wegierski,Q11779393
+Michael of Hungary,Q41260,DSNAME4815,Personal (Name Authority),Michael of Hungary,Q11779393
 Michael Wodhull,Q41874,DSNAME5429,Personal (Name Authority),Michael Wodhull,Q19927871
 Michael of Massa,Q7631,DSNAME1470,Personal (Name Authority),Michael of Massa,Q6835563
 Michaeliskonvent,Q42011,DSNAME5566,Corporate (Name Authority),Michaeliskonvent,Q1381857
@@ -3718,9 +3718,9 @@ Muḥammad Ghawth Suwār,Q18733,DSNAME2686,Personal (Name Authority),Muḥammad 
 Muḥammad Hādī ibn Mīrzā ʻArab al-Shīrāzī,Q27907,DSNAME3120,Personal (Name Authority),Muḥammad Hādī ibn Mīrzā ʻArab al-Shīrāzī,Q114242536
 Muḥammad Ibn Abī al-Luṭf,Q40921,DSNAME4476,Personal (Name Authority),Muḥammad Ibn Abī al-Luṭf,Q124566833
 Muḥammad Ibn-Abi-'l-Qāsim Ibn-aṣ-Ṣabbāġ,Q12399,DSNAME1869,Personal (Name Authority),Muḥammad Ibn-Abi-'l-Qāsim Ibn-aṣ-Ṣabbāġ,Q113398432
-Muḥammad Ibn-Abī-Bakr ar- Rāzī,Q18664,DSNAME2616,Personal (Name Authority),Muḥammad Ibn-Abī-Bakr ar- Rāzī,Q113784591
+Muḥammad Ibn-Abī-Bakr ar- Rāzī,Q18664,DSNAME2616,Personal (Name Authority),Muḥammad Ibn-Abī-Bakr ar- Rāzī,Q12240061
 Muḥammad Ibn-Dāniyāl,Q12412,DSNAME1882,Personal (Name Authority),Muḥammad Ibn-Dāniyāl,Q6535584
-Muḥammad Ibn-Ḥasan an- Nawāǧī,Q12376,DSNAME1846,Personal (Name Authority),Muḥammad Ibn-Ḥasan an- Nawāǧī,Q94907625
+Muḥammad Ibn-Ḥasan an- Nawāǧī,Q12376,DSNAME1846,Personal (Name Authority),Muḥammad Ibn-Ḥasan an- Nawāǧī,Q28712807
 Muḥammad Iṣfahānī,Q27916,DSNAME3129,Personal (Name Authority),Muḥammad Iṣfahānī,Q114242513
 Muḥammad Jaʻfar,Q18692,DSNAME2644,Personal (Name Authority),Muḥammad Jaʻfar,Q123581753
 Muḥammad Jaʻfar ibn Muḥammad Rafīʻ Kirmānī,Q27921,DSNAME3135,Personal (Name Authority),Muḥammad Jaʻfar ibn Muḥammad Rafīʻ Kirmānī,Q124130487
@@ -3764,7 +3764,7 @@ Muḥammad ibn Maḥmūd,Q41295,DSNAME4850,Personal (Name Authority),Muḥammad 
 Muḥammad ibn Maḥmūd Zaynī,Q41897,DSNAME5452,Personal (Name Authority),Muḥammad ibn Maḥmūd Zaynī,Q114242473
 Muḥammad ibn Muḥammad Amīr al-Kabīr,Q12511,DSNAME1981,Personal (Name Authority),Muḥammad ibn Muḥammad Amīr al-Kabīr,Q28714934
 Muḥammad ibn Muḥammad Aqsarāʼī,Q3246,DSNAME845,Personal (Name Authority),Muḥammad ibn Muḥammad Aqsarāʼī,Q116235892
-Muḥammad ibn Muḥammad Ibn Abī Sharīf,Q12493,DSNAME1963,Personal (Name Authority),Muḥammad ibn Muḥammad Ibn Abī Sharīf,Q121322713
+Muḥammad ibn Muḥammad Ibn Abī Sharīf,Q12493,DSNAME1963,Personal (Name Authority),Muḥammad ibn Muḥammad Ibn Abī Sharīf,Q25450198
 Muḥammad ibn Muḥammad Ibn al-Ghars,Q12481,DSNAME1951,Personal (Name Authority),Muḥammad ibn Muḥammad Ibn al-Ghars,Q122946959
 Muḥammad ibn Muḥammad Isfarāyīnī,Q12287,DSNAME1757,Personal (Name Authority),Muḥammad ibn Muḥammad Isfarāyīnī,Q122947965
 Muḥammad ibn Muḥammad Quṭb al-Dīn al-Iznīqī,Q41550,DSNAME5105,Personal (Name Authority),Muḥammad ibn Muḥammad Quṭb al-Dīn al-Iznīqī,Q114242509
@@ -3965,7 +3965,7 @@ Nusrati,Q18732,DSNAME2685,Personal (Name Authority),Nusrati,Q14264789
 Nābhādāsa,Q18736,DSNAME2689,Personal (Name Authority),Nābhādāsa,Q113723200
 Nāgeśabhaṭṭa,Q28068,DSNAME3284,Personal (Name Authority),Nāgeśabhaṭṭa,Q113399950
 Nārada,Q28344,DSNAME3560,Personal (Name Authority),Nārada,Q124252903
-Nārāyaṇa,Q28083,DSNAME3299,Personal (Name Authority),Nārāyaṇa,Q124252905
+Narayan Pandit,Q28083,DSNAME3299,Personal (Name Authority),Narayan Pandit,Q606019
 Nārāyaṇa Bedarakara,Q28175,DSNAME3391,Personal (Name Authority),Nārāyaṇa Bedarakara,Q124252906
 Nārāyaṇa Bhaṭṭa,Q28089,DSNAME3305,Personal (Name Authority),Nārāyaṇa Bhaṭṭa,Q3347305
 Nārāyaṇa Tīrtha,Q28201,DSNAME3417,Personal (Name Authority),Nārāyaṇa Tīrtha,Q124252910
@@ -4318,7 +4318,7 @@ Prieuré Saint-Louis de Poissy,Q1660,DSNAME496,Corporate (Name Authority),Prieur
 "Prince Augustus Frederick, Duke of Sussex",Q1637,DSNAME473,Personal (Name Authority),"Prince Augustus Frederick, Duke of Sussex",Q375467
 Prince Sadruddin Aga Khan,Q458,DSNAME185,Personal (Name Authority),Prince Sadruddin Aga Khan,Q123987
 Prince-Bishopric of Toul,Q8077,DSNAME1586,Corporate (Name Authority),Prince-Bishopric of Toul,Q328001
-"Princess Maria Carolina of Bourbon-Two Sicilies, Duchess of Berry",Q16630,DSNAME2329,Personal (Name Authority),"Princess Maria Carolina of Bourbon-Two Sicilies, Duchess of Berry",Q234931
+"Marie-Caroline of Bourbon-Two Sicilies, Duchess of Berry",Q16630,DSNAME2329,Personal (Name Authority),"Marie-Caroline of Bourbon-Two Sicilies, Duchess of Berry",Q234931
 Princeton University,Q12264,DSNAME1734,Corporate (Name Authority),Princeton University,Q21578
 Principio Fabricii,Q40624,DSNAME4179,Personal (Name Authority),Principio Fabricii,Q124566795
 Priori (Florence),Q7317,DSNAME1376,Corporate (Name Authority),Priori (Florence),Q116706694
@@ -4725,7 +4725,7 @@ Sandbergs Bokhandel,Q16523,DSNAME2219,Corporate (Name Authority),Sandbergs Bokha
 Sandra Meisel,Q42315,DSNAME5842,Personal (Name Authority),Sandra Meisel,Q125930882
 Sangalletti family,Q8244,DSNAME1675,Corporate (Name Authority),Sangalletti family,Q116709324
 Sangorski & Sutcliffe,Q42036,DSNAME5591,Corporate (Name Authority),Sangorski & Sutcliffe,Q7418081
-"Sankt Maria Magdalena, Hildesheim",Q1876,DSNAME641,Corporate (Name Authority),"Sankt Maria Magdalena, Hildesheim",Q28976541
+Sankt Maria Magdalena,Q1876,DSNAME641,Corporate (Name Authority),Sankt Maria Magdalena,Q28976541
 Sankt Thekla church (Vienna),Q4451,DSNAME1087,Corporate (Name Authority),Sankt Thekla church (Vienna),Q2323339
 Sano di Pietro,Q42316,DSNAME5843,Personal (Name Authority),Sano di Pietro,Q1379714
 Sant Pere de Rodes,Q42038,DSNAME5593,Corporate (Name Authority),Sant Pere de Rodes,Q798606
@@ -4775,7 +4775,7 @@ Seitenstetten Abbey,Q1679,DSNAME515,Corporate (Name Authority),Seitenstetten Abb
 Selim II,Q3242,DSNAME841,Personal (Name Authority),Selim II,Q161872
 Senate of the Republic of Venice,Q7590,DSNAME1429,Corporate (Name Authority),Senate of the Republic of Venice,Q767590
 Seneca,Q6126,DSNAME1560,Personal (Name Authority),Seneca,Q2054
-Senoussi,Q12458,DSNAME1928,Personal (Name Authority),Senoussi,Q3478584
+Muhammad ibn Yusuf al‐Sanusi,Q12458,DSNAME1928,Personal (Name Authority),Muhammad ibn Yusuf al‐Sanusi,Q3478584
 Sensatus,Q42375,DSNAME5902,Personal (Name Authority),Sensatus,Q126000627
 Ser Ricciardo di Nanni,Q16718,DSNAME2419,Personal (Name Authority),Ser Ricciardo di Nanni,Q18508646
 Serapion the Younger,Q8088,DSNAME1597,Personal (Name Authority),Serapion the Younger,Q3479115
@@ -4916,7 +4916,7 @@ Sriharsha,Q28193,DSNAME3409,Personal (Name Authority),Sriharsha,Q4526632
 St Albans Abbey,Q12808,DSNAME1998,Corporate (Name Authority),St Albans Abbey,Q17645367
 St Augustine's Abbey,Q42329,DSNAME5856,Corporate (Name Authority),St Augustine's Abbey,Q334303
 St Edmundsbury Cathedral,Q41960,DSNAME5515,Corporate (Name Authority),St Edmundsbury Cathedral,Q1989407
-"St James's Church, Liège",Q42121,DSNAME5648,Corporate (Name Authority),"St James's Church, Liège",Q3581844
+St James's Church,Q42121,DSNAME5648,Corporate (Name Authority),St James's Church,Q3581844
 St John Hornby,Q40903,DSNAME4458,Personal (Name Authority),St John Hornby,Q18204370
 "St Monica's Priory, Spetisbury",Q17693,DSNAME2484,Corporate (Name Authority),"St Monica's Priory, Spetisbury",Q7594891
 St Peter's Archabbey Salzburg,Q1677,DSNAME513,Corporate (Name Authority),St Peter's Archabbey Salzburg,Q675735
@@ -5002,7 +5002,7 @@ Tang Shunzhi,Q12876,DSNAME2067,Personal (Name Authority),Tang Shunzhi,Q10923051
 Tant Brun,Q41740,DSNAME5295,Personal (Name Authority),Tant Brun,Q124380442
 Taqi al-Din Muhammad ibn Ma'ruf,Q12407,DSNAME1877,Personal (Name Authority),Taqi al-Din Muhammad ibn Ma'ruf,Q1379164
 Taqi al-Din al-Subki,Q41726,DSNAME5281,Personal (Name Authority),Taqi al-Din al-Subki,Q12202948
-Taqī al-Dīn Muḥammad ibn Aḥmad Ibn al-Najjār,Q3792,DSNAME953,Personal (Name Authority),Taqī al-Dīn Muḥammad ibn Aḥmad Ibn al-Najjār,Q116418436
+Taqī al-Dīn Muḥammad ibn Aḥmad Ibn al-Najjār,Q3792,DSNAME953,Personal (Name Authority),Taqī al-Dīn Muḥammad ibn Aḥmad Ibn al-Najjār,Q25451844
 Taqī al-Dīn Naṣr al-Ḥanafī,Q27942,DSNAME3156,Personal (Name Authority),Taqī al-Dīn Naṣr al-Ḥanafī,Q124130531
 Taqī ibn ʻAlī al-Qummī,Q27940,DSNAME3154,Personal (Name Authority),Taqī ibn ʻAlī al-Qummī,Q124130513
 Tartaleoni family,Q7908,DSNAME1543,Corporate (Name Authority),Tartaleoni family,Q116709427
@@ -5021,7 +5021,7 @@ Theodore M. Finney,Q41754,DSNAME5309,Personal (Name Authority),Theodore M. Finne
 Theodore Newton Vail,Q20169,DSNAME2851,Personal (Name Authority),Theodore Newton Vail,Q3523705
 Theodore Parker,Q16653,DSNAME2352,Personal (Name Authority),Theodore Parker,Q709002
 Theodore William John Wylie,Q41884,DSNAME5439,Personal (Name Authority),Theodore William John Wylie,Q114298229
-Theodore Williams,Q10863,DSNAME1723,Personal (Name Authority),Theodore Williams,Q114242423
+Theodore Williams,Q10863,DSNAME1723,Personal (Name Authority),Theodore Williams,Q96075278
 Theodore of Mopsuestia,Q41753,DSNAME5308,Personal (Name Authority),Theodore of Mopsuestia,Q355664
 Theodoret,Q41755,DSNAME5310,Personal (Name Authority),Theodoret,Q317029
 Theodoric Ungelter,Q396,DSNAME123,Personal (Name Authority),Theodoric Ungelter,Q114242493
@@ -5063,7 +5063,7 @@ Thomas Edwards,Q40575,DSNAME4130,Personal (Name Authority),Thomas Edwards,Q12456
 "Thomas Egerton, 1st Viscount Brackley",Q40587,DSNAME4142,Personal (Name Authority),"Thomas Egerton, 1st Viscount Brackley",Q2017342
 Thomas F. Richardson,Q20063,DSNAME2740,Personal (Name Authority),Thomas F. Richardson,Q114242409
 "Thomas Fairfax, 3rd Lord Fairfax of Cameron",Q40628,DSNAME4183,Personal (Name Authority),"Thomas Fairfax, 3rd Lord Fairfax of Cameron",Q550612
-Thomas FitzRoy Phillipps Fenwick,Q6072,DSNAME1193,Personal (Name Authority),Thomas FitzRoy Phillipps Fenwick,Q94109528
+Thomas FitzRoy Phillipps Fenwick,Q6072,DSNAME1193,Personal (Name Authority),Thomas FitzRoy Phillipps Fenwick,Q75889469
 Thomas Flecher,Q41765,DSNAME5320,Personal (Name Authority),Thomas Flecher,Q117324231
 Thomas G. Bergin,Q7637,DSNAME1476,Personal (Name Authority),Thomas G. Bergin,Q1725378
 Thomas Gage,Q16617,DSNAME2316,Personal (Name Authority),Thomas Gage,Q581935
@@ -5274,7 +5274,7 @@ Vāsudevānandasarasvatī,Q28091,DSNAME3307,Personal (Name Authority),Vāsudevā
 Vāsudevāśrama,Q28278,DSNAME3494,Personal (Name Authority),Vāsudevāśrama,Q124252972
 W. Echter,Q17785,DSNAME2577,Personal (Name Authority),W. Echter,Q123378472
 W. F. Olis,Q41360,DSNAME4915,Personal (Name Authority),W. F. Olis,Q124566901
-W. H. Allen & Co.,Q16666,DSNAME2365,Corporate (Name Authority),W. H. Allen & Co.,Q107074401
+W. H. Allen & Co.,Q16666,DSNAME2365,Corporate (Name Authority),W. H. Allen & Co.,Q28803186
 W. H. R. Blacking,Q17700,DSNAME2491,Personal (Name Authority),W. H. R. Blacking,Q123378459
 W. I. Fieldhouse,Q40647,DSNAME4202,Personal (Name Authority),W. I. Fieldhouse,Q124566801
 W. J. Gilbert,Q20114,DSNAME2795,Personal (Name Authority),W. J. Gilbert,Q113857112
@@ -5289,7 +5289,7 @@ Walter Ambrose Heath Harding,Q40840,DSNAME4395,Personal (Name Authority),Walter 
 Walter Arthur Copinger,Q40466,DSNAME4021,Personal (Name Authority),Walter Arthur Copinger,Q18759423
 Walter Ashburner,Q7586,DSNAME3020,Personal (Name Authority),Walter Ashburner,Q52155775
 Walter Burley,Q40371,DSNAME3926,Personal (Name Authority),Walter Burley,Q1862572
-Walter Emile van Wijk,Q17649,DSNAME2440,Personal (Name Authority),Walter Emile van Wijk,Q123378495
+Walter van Wijk,Q17649,DSNAME2440,Personal (Name Authority),Walter van Wijk,Q1967335
 Walter Hilton,Q7051,DSNAME1303,Personal (Name Authority),Walter Hilton,Q2213072
 Walter John Bruce Richards,Q17637,DSNAME2428,Personal (Name Authority),Walter John Bruce Richards,Q123378487
 Walter Map,Q41195,DSNAME4750,Personal (Name Authority),Walter Map,Q431324
@@ -5310,7 +5310,7 @@ Walther Hermann Ryff,Q41612,DSNAME5167,Personal (Name Authority),Walther Hermann
 Wang Cheng,Q12852,DSNAME2043,Personal (Name Authority),Wang Cheng,Q45426073
 Wang Han,Q12855,DSNAME2046,Personal (Name Authority),Wang Han,Q16906192
 Wang Qiao,Q12836,DSNAME2027,Personal (Name Authority),Wang Qiao,Q45427488
-Wang Xing,Q12840,DSNAME2031,Personal (Name Authority),Wang Xing,Q123005737
+Wang Xing,Q12840,DSNAME2031,Personal (Name Authority),Wang Xing,Q24837460
 Ward Murphey Canaday,Q40389,DSNAME3944,Personal (Name Authority),Ward Murphey Canaday,Q55720906
 Warren C. Crane,Q20157,DSNAME2839,Personal (Name Authority),Warren C. Crane,Q122873300
 Wasservas,Q16478,DSNAME2170,Personal (Name Authority),Wasservas,Q123274821
@@ -5539,7 +5539,7 @@ Zāwiyah al-Nāṣiriyah,Q3749,DSNAME910,Personal (Name Authority),Zāwiyah al-N
 al-Biqāʻī,Q12419,DSNAME1889,Personal (Name Authority),al-Biqāʻī,Q12198099
 al-Kafʻamī,Q27906,DSNAME3119,Personal (Name Authority),al-Kafʻamī,Q12181714
 al-Ḥasan Ibn-Muḥammad Ṣaġānī,Q12314,DSNAME1784,Personal (Name Authority),al-Ḥasan Ibn-Muḥammad Ṣaġānī,Q12186422
-al-Ḥusayn ibn Masʻūd Baghawī,Q12296,DSNAME1766,Personal (Name Authority),al-Ḥusayn ibn Masʻūd Baghawī,Q122946947
+Al-Baghawi,Q12296,DSNAME1766,Personal (Name Authority),Al-Baghawi,Q48210
 al-Ḥājj ʻAbd al-Qādir ibn al-Sayyid ʻAbd Allāh al-Asṭawānī,Q3248,DSNAME847,Personal (Name Authority),al-Ḥājj ʻAbd al-Qādir ibn al-Sayyid ʻAbd Allāh al-Asṭawānī,Q116649271
 church of St. Catherine,Q17697,DSNAME2488,Corporate (Name Authority),church of St. Catherine,Q3672907
 convent of San Pedro Regalado,Q12823,DSNAME2014,Corporate (Name Authority),convent of San Pedro Regalado,Q6121550
@@ -5566,7 +5566,7 @@ von Rosenheim Petrus,Q41458,DSNAME5013,Personal (Name Authority),von Rosenheim P
 Ādi Shankara,Q28107,DSNAME3323,Personal (Name Authority),Ādi Shankara,Q180967
 Ādityācārya,Q28322,DSNAME3538,Personal (Name Authority),Ādityācārya,Q124252973
 Āghā Faṣāḥat ʻAlī,Q18735,DSNAME2688,Personal (Name Authority),Āghā Faṣāḥat ʻAlī,Q123581789
-Ānandagiri,Q28256,DSNAME3472,Personal (Name Authority),Ānandagiri,Q124252974
+Anandagiri,Q28256,DSNAME3472,Personal (Name Authority),Anandagiri,Q2845312
 Ānandavana,Q28069,DSNAME3285,Personal (Name Authority),Ānandavana,Q124252975
 Ātmārāma,Q28143,DSNAME3359,Personal (Name Authority),Ātmārāma,Q124252976
 Āśvalāyana,Q28171,DSNAME3387,Personal (Name Authority),Āśvalāyana,Q9635652
@@ -5581,7 +5581,7 @@ von Rosenheim Petrus,Q41458,DSNAME5013,Personal (Name Authority),von Rosenheim P
 Śrīcandrasūri,Q28124,DSNAME3340,Personal (Name Authority),Śrīcandrasūri,Q113723848
 Śrīdhara,Q28279,DSNAME3495,Personal (Name Authority),Śrīdhara,Q124252983
 Śrīdharasvāmin,Q28097,DSNAME3313,Personal (Name Authority),Śrīdharasvāmin,Q124252984
-Śrīnātha,Q28237,DSNAME3453,Personal (Name Authority),Śrīnātha,Q112482952
+Srinatha,Q28237,DSNAME3453,Personal (Name Authority),Srinatha,Q5278576
 Śrīpati Miśra,Q28342,DSNAME3558,Personal (Name Authority),Śrīpati Miśra,Q124252986
 Śuka,Q28381,DSNAME3597,Personal (Name Authority),Śuka,Q124252987
 Śārṅgadhara,Q28184,DSNAME3400,Personal (Name Authority),Śārṅgadhara,Q124252988
@@ -5633,7 +5633,7 @@ von Rosenheim Petrus,Q41458,DSNAME5013,Personal (Name Authority),von Rosenheim P
 ʻAlī ibn Aḥmad Qarāfī,Q12440,DSNAME1910,Personal (Name Authority),ʻAlī ibn Aḥmad Qarāfī,Q122946976
 ʻAlī ibn Ibrāhīm Wāḥī,Q12442,DSNAME1912,Personal (Name Authority),ʻAlī ibn Ibrāhīm Wāḥī,Q121502809
 ʻAlī ibn Kamāl al-Dīn Maḥmūd Astarābādī,Q3247,DSNAME846,Personal (Name Authority),ʻAlī ibn Kamāl al-Dīn Maḥmūd Astarābādī,Q116250121
-ʻAlī ibn Khalaf Ibn Baṭṭāl,Q12432,DSNAME1902,Personal (Name Authority),ʻAlī ibn Khalaf Ibn Baṭṭāl,Q122946954
+Ibn Battal,Q12432,DSNAME1902,Personal (Name Authority),Ibn Battal,Q22684461
 ʻAlī ibn Muḥammad Ibn Khalaf,Q40934,DSNAME4489,Personal (Name Authority),ʻAlī ibn Muḥammad Ibn Khalaf,Q113866449
 ʻAlī ibn Muḥammad Ibn al-Durayhim,Q12465,DSNAME1935,Personal (Name Authority),ʻAlī ibn Muḥammad Ibn al-Durayhim,Q122946958
 ʻAlī ibn Muḥammad Ṭūsī,Q12457,DSNAME1927,Personal (Name Authority),ʻAlī ibn Muḥammad Ṭūsī,Q122946984
@@ -5666,7 +5666,7 @@ Taj al-Din al-Subki,Q12396,DSNAME1866,Personal (Name Authority),Taj al-Din al-Su
 ʿAbd-ar-Raḥmān Ibn-ʿAlī al- Makkūdī,Q12370,DSNAME1840,Personal (Name Authority),ʿAbd-ar-Raḥmān Ibn-ʿAlī al- Makkūdī,Q60827863
 ʿAbdallāh Ibn-Aḥmad Nasafī,Q12308,DSNAME1778,Personal (Name Authority),ʿAbdallāh Ibn-Aḥmad Nasafī,Q12223449
 ʿAlāʾ-ad-Dīn Muḥammad Ibn-ʿAlī al-Ḥaṣkafī,Q12484,DSNAME1954,Personal (Name Authority),ʿAlāʾ-ad-Dīn Muḥammad Ibn-ʿAlī al-Ḥaṣkafī,Q20391759
-ʿUbaidallāh Ibn-Masʿūd al- Maḥbūbī,Q12307,DSNAME2703,Personal (Name Authority),ʿUbaidallāh Ibn-Masʿūd al- Maḥbūbī,Q85407023
+ʿUbaidallāh Ibn-Masʿūd al- Maḥbūbī,Q12307,DSNAME2703,Personal (Name Authority),ʿUbaidallāh Ibn-Masʿūd al- Maḥbūbī,Q31313352
 ʿĪsā b. Ibrāhīm al-Rabaʿī,Q12358,DSNAME1828,Personal (Name Authority),ʿĪsā b. Ibrāhīm al-Rabaʿī,Q61626919
 Ḍhuṇḍhirāja,Q28222,DSNAME3438,Personal (Name Authority),Ḍhuṇḍhirāja,Q124252990
 Ḥasan Niyāzī Afandīʹzādah Muḥammad Amīn Ḥilmī,Q27918,DSNAME3131,Personal (Name Authority),Ḥasan Niyāzī Afandīʹzādah Muḥammad Amīn Ḥilmī,Q124130550
