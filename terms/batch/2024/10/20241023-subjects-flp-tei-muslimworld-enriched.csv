@@ -1,0 +1,138 @@
+subject_as_recorded,vocab,subfield_codes,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+"Manuscripts, Arabic--16th century",openn-subjects,,,,,,"Manuscripts, Arabic;Sixteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1119851,Q256;Q335
+"Manuscripts, Oriental--16th century",openn-subjects,,,,,,"Manuscripts, Oriental;Sixteenth century",http://id.worldcat.org/fast/1008453;http://id.worldcat.org/fast/1119851,Q18304;Q335
+"Manuscripts, Arabic--17th century",openn-subjects,,,,,,"Manuscripts, Arabic;Seventeenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1113663,Q256;Q2771
+"Manuscripts, Oriental--17th century",openn-subjects,,,,,,"Manuscripts, Oriental;Seventeenth century",http://id.worldcat.org/fast/1008453;http://id.worldcat.org/fast/1113663,Q18304;Q2771
+"Manuscripts, Arabic",openn-subjects,,,"Manuscripts, Arabic",http://id.worldcat.org/fast/1008278,Q256,,,
+"Manuscripts, Oriental",openn-subjects,,,,,,"Manuscripts, Oriental",http://id.worldcat.org/fast/1008453,Q18304
+"Manuscripts, Arabic--18th century",openn-subjects,,,,,,"Manuscripts, Arabic;Eighteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/904058,Q256;Q3024
+"Manuscripts, Arabic--19th century",openn-subjects,,,,,,"Manuscripts, Arabic;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1037841,Q256;Q3538
+"Manuscripts, Oriental--18th century",openn-subjects,,,,,,"Manuscripts, Oriental;Eighteenth century",http://id.worldcat.org/fast/1008453;http://id.worldcat.org/fast/904058,Q18304;Q3024
+Amulets,openn-subjects,,,,,,Amulets,http://id.worldcat.org/fast/808063,Q18315
+"Manuscripts, Persian--17th century",openn-subjects,,,,,,"Manuscripts, Persian;Seventeenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1113663,Q255;Q2771
+"Manuscripts, Persian--18th century",openn-subjects,,,,,,"Manuscripts, Persian;Eighteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/904058,Q255;Q3024
+"Manuscripts, Oriental--19th century",openn-subjects,,,,,,"Manuscripts, Oriental;Nineteenth century",http://id.worldcat.org/fast/1008453;http://id.worldcat.org/fast/1037841,Q18304;Q3538
+"Manuscripts, Persian--19th century",openn-subjects,,,,,,"Manuscripts, Persian;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1037841,Q255;Q3538
+"Manuscripts, Persian",openn-subjects,,,"Manuscripts, Persian",http://id.worldcat.org/fast/1008462,Q255,,,
+"Manuscripts, Arabic--14th century",openn-subjects,,,,,,"Manuscripts, Arabic;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/933420,Q256;Q295
+"Manuscripts, Oriental--14th century",openn-subjects,,,,,,"Manuscripts, Oriental;Fourteenth century",http://id.worldcat.org/fast/1008453;http://id.worldcat.org/fast/933420,Q18304;Q295
+"Manuscripts, Arabic--15th century",openn-subjects,,,,,,"Manuscripts, Arabic;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/923962,Q256;Q154
+"Manuscripts, Oriental--15th century",openn-subjects,,,,,,"Manuscripts, Oriental;Fifteenth century",http://id.worldcat.org/fast/1008453;http://id.worldcat.org/fast/923962,Q18304;Q154
+Islam--Prayers and devotions--Early works to 1800,openn-subjects,,,Islam--Prayers and devotions;Early works,http://id.worldcat.org/fast/979821;http://id.worldcat.org/fast/1411636,Q3036;Q300,,,
+Prayer--Islam--Early works to 1800,openn-subjects,,,Prayer--Islam;Early works,http://id.worldcat.org/fast/1074698;http://id.worldcat.org/fast/1411636,Q11135;Q300,,,
+Islam,openn-subjects,,,Islam,http://id.worldcat.org/fast/979776,Q3549,,,
+Prayer--Islam,openn-subjects,,,Prayer--Islam,http://id.worldcat.org/fast/1074698,Q11135,,,
+Copts--Prayers and devotions--Early works to 1800,openn-subjects,,,,,,Copts;Prayers and devotions;Early works,http://id.worldcat.org/fast/878645;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q18332;Q3052;Q300
+Christianity--Prayers and devotions--Early works to 1800,openn-subjects,,,,,,Christianity;Prayers and devotions;Early works,http://id.worldcat.org/fast/859599;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q5915;Q3052;Q300
+"Mary, Blessed Virgin, Saint, in the liturgy--Prayers and devotions--Early works to 1800",openn-subjects,,,,,,"Mary, Blessed Virgin, Saint, in the liturgy;Prayers and devotions;Early works",http://id.worldcat.org/fast/1010978;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q18320;Q3052;Q300
+Christianity,openn-subjects,,,Christianity,http://id.worldcat.org/fast/859599,Q5915,,,
+Copts,openn-subjects,,,,,,Copts,http://id.worldcat.org/fast/878645,Q18332
+"Mary, Blessed Virgin, Saint, in the liturgy",openn-subjects,,,,,,"Mary, Blessed Virgin, Saint, in the liturgy",http://id.worldcat.org/fast/1010978,Q18320
+Islamic law--Early works to 1800,openn-subjects,,,Islamic law;Early works,http://id.worldcat.org/fast/979949;http://id.worldcat.org/fast/1411636,Q3605;Q300,,,
+Hanafites--Early works to 1800,openn-subjects,,,Hanafites;Early works,http://id.worldcat.org/fast/950818;http://id.worldcat.org/fast/1411636,Q3580;Q300,,,
+Arabic language--Grammar--Early works to 1800,openn-subjects,,,Arabic language--Grammar;Early works,http://id.worldcat.org/fast/812341;http://id.worldcat.org/fast/1411636,Q3523;Q300,,,
+Arabic language--Syntax--Early works to 1800,openn-subjects,,,Arabic language--Syntax;Early works,http://id.worldcat.org/fast/812441;http://id.worldcat.org/fast/1411636,Q3542;Q300,,,
+Arabic language--Study and teaching--Early works to 1800,openn-subjects,,,,,,Arabic language--Study and teaching;Early works,http://id.worldcat.org/fast/812429;http://id.worldcat.org/fast/1411636,Q18317;Q300
+Arabic language--Dictionaries--Persian--Early works to 1800,openn-subjects,,,Arabic language;Dictionaries;Persian language;Early works,http://id.worldcat.org/fast/812287;http://id.worldcat.org/fast/1423826;http://id.worldcat.org/fast/1058466;http://id.worldcat.org/fast/1411636,Q2953;Q3041;Q11515;Q300,,,
+Arabic poetry--Early works to 1800,openn-subjects,,,Arabic poetry;Early works,http://id.worldcat.org/fast/812533;http://id.worldcat.org/fast/1411636,Q2960;Q300,,,
+Islam--Doctrines,openn-subjects,,,Islam--Doctrines,http://id.worldcat.org/fast/979787,Q11301,,,
+God (Islam),openn-subjects,,,God (Islam),http://id.worldcat.org/fast/944142,Q11509,,,
+Kufr (Islam),openn-subjects,,,,,,Kufr (Islam),http://id.worldcat.org/fast/989247,Q18300
+Astrology--Tables,openn-subjects,,,,,,Astrology;Tables,http://id.worldcat.org/fast/819398;http://id.worldcat.org/fast/1423914,Q258;Q18329
+"Astronomy--Charts, diagrams, etc",openn-subjects,,,,,,"Astronomy;Charts, diagrams, etc.",http://id.worldcat.org/fast/819673;http://id.worldcat.org/fast/852545,Q166;Q18331
+Astrology,openn-subjects,,,Astrology,http://id.worldcat.org/fast/819398,Q258,,,
+Astronomy,openn-subjects,,,Astronomy,http://id.worldcat.org/fast/819673,Q166,,,
+Prophets--Genealogy,openn-subjects,,,,,,Prophets;Genealogy,http://id.worldcat.org/fast/1079211;http://id.worldcat.org/fast/939652,Q18325;Q38912
+Persian language--Dictionaries,openn-subjects,,,,,,Persian language;Dictionaries,http://id.worldcat.org/fast/1058466;http://id.worldcat.org/fast/1423826,Q11515;Q3041
+Sufism--Early works to 1800,openn-subjects,,,Sufism;Early works,http://id.worldcat.org/fast/1137257;http://id.worldcat.org/fast/1411636,Q11239;Q300,,,
+"Sufi literature, Persian--Early works to 1800",openn-subjects,,,,,,"Sufi literature, Persian;Early works",http://id.worldcat.org/fast/1740095;http://id.worldcat.org/fast/1411636,Q18335;Q300
+"Manuscripts, Persian--16th century",openn-subjects,,,,,,"Manuscripts, Persian;Sixteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1119851,Q255;Q335
+Cosmography--Early works to 1800,openn-subjects,,,Cosmography;Early works,http://id.worldcat.org/fast/880594;http://id.worldcat.org/fast/1411636,Q321;Q300,,,
+"Geography, Arab--Early works to 1800",openn-subjects,,,,,,"Geography, Arab;Early works",http://id.worldcat.org/fast/940571;http://id.worldcat.org/fast/1411636,Q18341;Q300
+Zoology--Pre-Linnean works,openn-subjects,,,Zoology,http://id.worldcat.org/fast/1184696,Q3009,,,
+Waqf--Iran--Early works to 1800,openn-subjects,,,,,,Waqf;Iran;Early works,http://id.worldcat.org/fast/1170323;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1411636,Q11403;Q16384;Q300
+Endowments--Iran--Early works to 1800,openn-subjects,,,,,,Endowments;Iran;Early works,http://id.worldcat.org/fast/909854;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1411636,Q18342;Q16384;Q300
+Endowments,openn-subjects,,,,,,Endowments,http://id.worldcat.org/fast/909854,Q18342
+Waqf,openn-subjects,,,,,,Waqf,http://id.worldcat.org/fast/1170323,Q11403
+Kings and rulers,openn-subjects,,,Kings and rulers,http://id.worldcat.org/fast/987694,Q305,,,
+"Manuscripts, 18th century",openn-subjects,,,,,,Manuscripts;Eighteenth century,http://id.worldcat.org/fast/1008230;http://id.worldcat.org/fast/904058,Q38609;Q3024
+Jammu and Kashmir (India)--History--Early works to 1800,openn-subjects,,,,,,India--Jammu and Kashmir;History;Early works,http://id.worldcat.org/fast/1207110;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q18321;Q6879;Q300
+India--Jammu and Kashmir,openn-subjects,,,,,,India--Jammu and Kashmir,http://id.worldcat.org/fast/1207110,Q18321
+Persian literature--747-1500,openn-subjects,,,Persian literature,http://id.worldcat.org/fast/1058528,Q3612,,,
+"Fables, Persian--Early works to 1800",openn-subjects,,,,,,"Fables, Persian;Early works",http://id.worldcat.org/fast/919468;http://id.worldcat.org/fast/1411636,Q18327;Q300
+Persian poetry--747-1500,openn-subjects,,,Persian poetry,http://id.worldcat.org/fast/1058542,Q3582,,,
+"Illumination of books and manuscripts, Iranian--Specimens",openn-subjects,,,,,,"Illumination of books and manuscripts, Iranian;Specimens",http://id.worldcat.org/fast/967304;http://id.worldcat.org/fast/1423861,Q18302;Q239
+"Illumination of books and manuscripts, Iranian",openn-subjects,,,,,,"Illumination of books and manuscripts, Iranian",http://id.worldcat.org/fast/967304,Q18302
+Persian poetry,openn-subjects,,,Persian poetry,http://id.worldcat.org/fast/1058542,Q3582,,,
+"Epic poetry, Persian--Early works to 1800",openn-subjects,,,,,,"Epic poetry, Persian;Early works",http://id.worldcat.org/fast/1741636;http://id.worldcat.org/fast/1411636,Q18334;Q300
+Illumination of books and manuscripts--Specimens,openn-subjects,,,Illumination of books and manuscripts;Specimens,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1423861,Q272;Q239,,,
+"Illumination of books and manuscripts, Indic--Specimens",openn-subjects,,,,,,"Illumination of books and manuscripts, Indic;Specimens",http://id.worldcat.org/fast/967300;http://id.worldcat.org/fast/1423861,Q18309;Q239
+"Illumination of books and manuscripts, Indic",openn-subjects,,,,,,"Illumination of books and manuscripts, Indic",http://id.worldcat.org/fast/967300,Q18309
+Persian literature,openn-subjects,,,Persian literature,http://id.worldcat.org/fast/1058528,Q3612,,,
+Muslim pilgrims and pilgrimages--Saudi Arabia--Mecca,openn-subjects,,,Muslim pilgrims and pilgrimages;Saudi Arabia--Mecca,http://id.worldcat.org/fast/1030970;http://id.worldcat.org/fast/1204780,Q11313;Q11321,,,
+Muslim pilgrims and pilgrimages--Saudi Arabia--Medina,openn-subjects,,,,,,Muslim pilgrims and pilgrimages;Saudi Arabia--Medina,http://id.worldcat.org/fast/1030970;http://id.worldcat.org/fast/1213531,Q11313;Q18323
+Muslim pilgrims and pilgrimages,openn-subjects,,,Muslim pilgrims and pilgrimages,http://id.worldcat.org/fast/1030970,Q11313,,,
+Travel,openn-subjects,,,Travel,http://id.worldcat.org/fast/1155558,Q11139,,,
+Persian poetry--1500-1796,openn-subjects,,,,,,Persian poetry,http://id.worldcat.org/fast/1058542,Q3582
+Persian literature--1500-1796,openn-subjects,,,,,,Persian literature,http://id.worldcat.org/fast/1058528,Q3612
+Persian poetry--19th century,openn-subjects,,,,,,Persian poetry;Nineteenth century,http://id.worldcat.org/fast/1058542;http://id.worldcat.org/fast/1037841,Q3582;Q3538
+Persian poetry--Early works to 1800,openn-subjects,,,Persian poetry;Early works,http://id.worldcat.org/fast/1058542;http://id.worldcat.org/fast/1411636,Q3582;Q300,,,
+Persian literature--Early works to 1800,openn-subjects,,,,,,Persian literature;Early works,http://id.worldcat.org/fast/1058528;http://id.worldcat.org/fast/1411636,Q3612;Q300
+Piety--Islam--Poetry,openn-subjects,,,,,,Piety;Islam;Poetry,http://id.worldcat.org/fast/1063913;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1423828,Q18310;Q3549;Q247
+Islam--Prayers and devotions,openn-subjects,,,Islam--Prayers and devotions,http://id.worldcat.org/fast/979821,Q3036,,,
+Religious life--Islam--Poetry,openn-subjects,,,,,,Religious life--Islam;Islam;Poetry,http://id.worldcat.org/fast/1094119;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1423828,Q3634;Q3549;Q247
+"Islamic poetry, Persian",openn-subjects,,,,,,"Islamic poetry, Persian",http://id.worldcat.org/fast/980025,Q18338
+Religious life--Islam,openn-subjects,,,Religious life--Islam,http://id.worldcat.org/fast/1094119,Q3634,,,
+Islamic calendar--Turkey,openn-subjects,,,,,,Islamic calendar;Turkey,http://id.worldcat.org/fast/1730291;http://id.worldcat.org/fast/1208963,Q11128;Q4294
+Islamic Empire--Kings and rulers--Genealogy,openn-subjects,,,,,,Islamic Empire;Kings and rulers--Genealogy;Genealogy,http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1199517;http://id.worldcat.org/fast/939652,Q11211;Q8333;Q38912
+"Turkey--History--Ottoman Empire, 1288-1918--Genealogy",openn-subjects,,,,,,Turkey;History;1288-1918;Genealogy,http://id.worldcat.org/fast/1208963;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1355456;http://id.worldcat.org/fast/939652,Q4294;Q6879;Q18297;Q38912
+"Persian language--Glossaries, vocabularies, etc.--Turkish",openn-subjects,,,,,,"Persian language;Glossaries, vocabularies, etc.;Turkish language",http://id.worldcat.org/fast/1058466;http://id.worldcat.org/fast/1423786;http://id.worldcat.org/fast/1159411,Q11515;Q3028;Q11148
+Persian language--Dictionaries--Turkish,openn-subjects,,,,,,Persian language;Dictionaries;Turkish language,http://id.worldcat.org/fast/1058466;http://id.worldcat.org/fast/1423826;http://id.worldcat.org/fast/1159411,Q11515;Q3041;Q11148
+Persian language,openn-subjects,,,,,,Persian language,http://id.worldcat.org/fast/1058466,Q11515
+Islam--Doctrines--Early works to 1800,openn-subjects,,,Islam--Doctrines;Early works,http://id.worldcat.org/fast/979787;http://id.worldcat.org/fast/1411636,Q11301;Q300,,,
+Islamic law--Criticism and interpretation,openn-subjects,,,,,,Islamic law;Criticism and interpretation,http://id.worldcat.org/fast/979949;http://id.worldcat.org/fast/1198648,Q3605;Q292
+Waqf--Early works to 1800,openn-subjects,,,Waqf;Early works,http://id.worldcat.org/fast/1170323;http://id.worldcat.org/fast/1411636,Q11403;Q300,,,
+Endowments--Turkey--Early works to 1800,openn-subjects,,,,,,Endowments;Turkey;Early works,http://id.worldcat.org/fast/909854;http://id.worldcat.org/fast/1208963;http://id.worldcat.org/fast/1411636,Q18342;Q4294;Q300
+Persian poetry--747-1500--Translations,openn-subjects,,,,,,Persian poetry;Translations,http://id.worldcat.org/fast/1058542;http://id.worldcat.org/fast/1423791,Q3582;Q18303
+Indic literature,openn-subjects,,,,,,Indic literature,http://id.worldcat.org/fast/970142,Q18298
+Hindu saints,openn-subjects,,,,,,Hindu saints,http://id.worldcat.org/fast/957093,Q18301
+Hindu literature,openn-subjects,,,,,,Hindu literature,http://id.worldcat.org/fast/957066,Q18316
+Hindu hymns,openn-subjects,,,,,,Hindu hymns,http://id.worldcat.org/fast/957039,Q18308
+Coptic Church--Prayers and devotions--Early works to 1800,openn-subjects,,,,,,Coptic Church;Prayers and devotions;Early works,http://id.worldcat.org/fast/536919;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q4250;Q3052;Q300
+Coptic Church--Hymns--Early works to 1800,openn-subjects,,,,,,Coptic Church;Hymns;Early works,http://id.worldcat.org/fast/536919;http://id.worldcat.org/fast/1423701;http://id.worldcat.org/fast/1411636,Q4250;Q6878;Q300
+Coptic manuscripts--14th century,openn-subjects,,,,,,Coptic manuscripts;Fourteenth century,http://id.worldcat.org/fast/1734594;http://id.worldcat.org/fast/933420,Q4207;Q295
+Coptic manuscripts--15th century,openn-subjects,,,,,,Coptic manuscripts;Fifteenth century,http://id.worldcat.org/fast/1734594;http://id.worldcat.org/fast/923962,Q4207;Q154
+Coptic Church,openn-subjects,,,,,,Coptic Church,http://id.worldcat.org/fast/536919,Q4250
+Coptic manuscripts,openn-subjects,,,,,,Coptic manuscripts,http://id.worldcat.org/fast/1734594,Q4207
+Liturgies,openn-subjects,,,,,,Liturgies,http://id.worldcat.org/fast/1000586,Q18305
+Samaritans--Liturgy--Texts,openn-subjects,,,,,,Samaritans--Liturgy;Liturgics;Texts,http://id.worldcat.org/fast/1104509;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705,Q18326;Q207;Q3066
+Samaritans--Religious life,openn-subjects,,,,,,Samaritans;Religious life,http://id.worldcat.org/fast/1104504;http://id.worldcat.org/fast/1094112,Q18311;Q7159
+Samaritan Aramaic language--Texts,openn-subjects,,,,,,Samaritan Aramaic language;Texts,http://id.worldcat.org/fast/1104493;http://id.worldcat.org/fast/1423705,Q18343;Q3066
+"Manuscripts, Samaritan--19th century",openn-subjects,,,,,,"Manuscripts, Samaritan;Nineteenth century",http://id.worldcat.org/fast/1008481;http://id.worldcat.org/fast/1037841,Q6866;Q3538
+Church of the East--Prayers and devotions,openn-subjects,,,,,,Church of the East;Prayers and devotions,http://id.worldcat.org/fast/1761954;http://id.worldcat.org/fast/1423909,Q18333;Q3052
+"Hymns, Syriac--Early works to 1800",openn-subjects,,,,,,"Hymns, Syriac;Early works",http://id.worldcat.org/fast/965649;http://id.worldcat.org/fast/1411636,Q18318;Q300
+Syriac language--Texts--Early works to 1800,openn-subjects,,,,,,Syriac language;Texts;Early works,http://id.worldcat.org/fast/1141324;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636,Q18313;Q3066;Q300
+Syriac language--Texts,openn-subjects,,,,,,Syriac language;Texts,http://id.worldcat.org/fast/1141324;http://id.worldcat.org/fast/1423705,Q18313;Q3066
+"Christian literature, Syriac",openn-subjects,,,,,,"Christian literature, Syriac",http://id.worldcat.org/fast/1920485,Q18306
+Turkish poetry--16th century,openn-subjects,,,,,,Turkish poetry;Sixteenth century,http://id.worldcat.org/fast/1159504;http://id.worldcat.org/fast/1119851,Q18296;Q335
+"Manuscripts, Turkish--18th century",openn-subjects,,,,,,"Manuscripts, Turkish;Eighteenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/904058,Q3068;Q3024
+"Manuscripts, Turkish--19th century",openn-subjects,,,,,,"Manuscripts, Turkish;Nineteenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/1037841,Q3068;Q3538
+Arabic language--Grammar--Miscellanea--Early works to 1800,openn-subjects,,,,,,Arabic language--Grammar;Miscellanea;Early works,http://id.worldcat.org/fast/812341;http://id.worldcat.org/fast/1353832;http://id.worldcat.org/fast/1411636,Q3523;Q11293;Q300
+Religious calendars,openn-subjects,,,,,,Religious calendars,http://id.worldcat.org/fast/1093958,Q18324
+"Astrology, Arab",openn-subjects,,,"Astrology, Arab",http://id.worldcat.org/fast/819451,Q3616,,,
+Fortune-telling,openn-subjects,,,,,,Fortune-telling,http://id.worldcat.org/fast/933068,Q18299
+"Maḥbūbī, ʻUbayd Allāh ibn Masʻūd,---1346 or 1347--Tanqīḥ al-uṣūl",openn-subjects,,,,,,"Tanqīḥ al-uṣūl (Maḥbūbī, ʻUbayd Allāh ibn Masʻūd)",http://id.worldcat.org/fast/1381675,Q11426
+Islamic law--Interpretation and construction--Early works to 1800,openn-subjects,,,Islamic law--Interpretation and construction;Early works,http://id.worldcat.org/fast/979955;http://id.worldcat.org/fast/1411636,Q3635;Q300,,,
+Arabic language--Rhetoric--Early works to 1800,openn-subjects,,,Arabic language--Rhetoric;Early works,http://id.worldcat.org/fast/812415;http://id.worldcat.org/fast/1411636,Q11587;Q300,,,
+Arabic language--Rhetoric,openn-subjects,,,Arabic language--Rhetoric,http://id.worldcat.org/fast/812415,Q11587,,,
+Hanafites,openn-subjects,,,Hanafites,http://id.worldcat.org/fast/950818,Q3580,,,
+Islamic law--Interpretation and construction,openn-subjects,,,Islamic law--Interpretation and construction,http://id.worldcat.org/fast/979955,Q3635,,,
+Qurʼan stories,openn-subjects,,,,,,Qurʼan stories,http://id.worldcat.org/fast/1861320,Q18336
+Islamic legends,openn-subjects,,,,,,Islamic legends,http://id.worldcat.org/fast/1730341,Q18312
+"Muḥammad,--Prophet,---632--Prayers and devotions",openn-subjects,,,,,,"Muḥammad, Prophet, -632;Prayers and devotions",http://id.worldcat.org/fast/1836298;http://id.worldcat.org/fast/1423909,Q3639;Q3052
+"Muḥammad,--Prophet,---632",openn-subjects,,,,,,"Muḥammad, Prophet, -632",http://id.worldcat.org/fast/1836298,Q3639
+Islam--Customs and practices,openn-subjects,,,Islam--Customs and practices,http://id.worldcat.org/fast/979785,Q11380,,,
+Islamic legends--Early works to 1800,openn-subjects,,,,,,Islamic legends;Early works,http://id.worldcat.org/fast/1730341;http://id.worldcat.org/fast/1411636,Q18312;Q300
+"Portraits, Indic",openn-subjects,,,,,,"Portraits, Indic",http://id.worldcat.org/fast/1072369,Q18322
+Deccani painting,openn-subjects,,,,,,Deccani painting,http://id.worldcat.org/fast/888928,Q18330
+"Art, Indic",openn-subjects,,,,,,"Art, Indic",http://id.worldcat.org/fast/816391,Q18339
