@@ -1,0 +1,151 @@
+PREFIX wd: <https://catalog.digital-scriptorium.org/entity/>
+PREFIX wds: <https://catalog.digital-scriptorium.org/entity/statement/>
+PREFIX wdv: <https://catalog.digital-scriptorium.org/value/>
+PREFIX wdt: <https://catalog.digital-scriptorium.org/prop/direct/>
+PREFIX p: <https://catalog.digital-scriptorium.org/prop/>
+PREFIX ps: <https://catalog.digital-scriptorium.org/prop/statement/>
+PREFIX pq: <https://catalog.digital-scriptorium.org/prop/qualifier/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT
+?signature
+(CONCAT("manuscript containing ",(GROUP_CONCAT(DISTINCT ?titleRecorded;separator="; "))) as ?description)
+?instanceOf
+(GROUP_CONCAT(DISTINCT ?materialAuthority;separator="|") as ?materialDS)
+(GROUP_CONCAT(DISTINCT ?centuryAuthority;separator="|") as ?centuryDS)
+(GROUP_CONCAT(DISTINCT ?earliestDateYear;separator="|") as ?earliestDate)
+(GROUP_CONCAT(DISTINCT ?latestDateYear;separator="|") as ?latestDate)
+(GROUP_CONCAT(DISTINCT ?placeAuthority;separator="|") as ?placeDS)
+(GROUP_CONCAT(DISTINCT ?scribeID;separator="|") as ?scribeWikidata)
+(GROUP_CONCAT(DISTINCT ?artistID;separator="|") as ?artistWikidata)
+?scriptNote
+(GROUP_CONCAT(DISTINCT ?languageID;separator="|") as ?languageWikidata)
+(GROUP_CONCAT(DISTINCT ?titleRecorded;separator="|") as ?titleRecord)
+(GROUP_CONCAT(DISTINCT ?standardTitleLabel;separator="|") as ?titleStandard)
+(GROUP_CONCAT(DISTINCT ?standardTitle;separator="|") as ?titleDS)
+(GROUP_CONCAT(DISTINCT ?authorID;separator="|") as ?authorWikidata)
+(GROUP_CONCAT(DISTINCT ?ownerID;separator="|") as ?ownerWikidata)
+?holderWikidata
+?DSID
+?institutionalID
+?shelfmark
+(GROUP_CONCAT(DISTINCT ?iiifManifest;separator="|") as ?iiifURL)
+?record
+?link
+
+WHERE {
+  BIND("Q87167" as ?instanceOf)
+  BIND(wd:Q42440 as ?holderDS) # DS QID for holding institution
+  ?record wdt:P16 wd:Q3 .
+  
+  # material information
+  OPTIONAL {
+    ?record p:P30 ?materialStatement .
+    ?materialStatement pq:P31 ?materialAuthority .
+    ?materialAuthority wdt:P44 ?materialID .
+    }
+  
+  # date information
+  OPTIONAL {
+    ?record p:P23 ?dateStatement .
+    ?dateStatement pq:P24 ?centuryAuthority .
+    ?centuryAuthority wdt:P44 ?centuryID .
+    ?dateStatement pq:P37 ?earliestDateValue .
+    ?dateStatement pq:P36 ?latestDateValue .
+    BIND(year(?earliestDateValue) AS ?earliestDateYear)
+    BIND(year(?latestDateValue) AS ?latestDateYear)
+    }
+  
+  # place information
+  OPTIONAL {
+    ?record p:P27 ?placeStatement .
+    ?placeStatement pq:P28 ?placeAuthority .
+    ?placeAuthority wdt:P44 ?placeID .
+    }
+  
+  # scribe information
+  OPTIONAL {
+    ?record p:P14 ?nameStatement .
+    ?nameStatement pq:P15 wd:Q20 .
+    ?nameStatement pq:P17 ?scribeAuthority .
+    ?scribeAuthority wdt:P42 ?scribeID .
+    }
+  
+  # artist information
+  OPTIONAL {
+    ?record p:P14 ?nameStatement .
+    ?nameStatement pq:P15 wd:Q19 .
+    ?nameStatement pq:P17 ?artistAuthority .
+    ?artistAuthority wdt:P42 ?artistID .
+    }
+  
+  # script information
+  OPTIONAL {
+    ?record wdt:P32 ?note .
+    FILTER CONTAINS(?note,"Script:")
+    BIND (?note as ?scriptNote )
+    }
+  
+  # language information
+  OPTIONAL {
+    ?record p:P21 ?languageStatement .
+    ?languageStatement pq:P22 ?languageAuthority .
+    ?languageAuthority wdt:P42 ?languageID .
+    }
+  
+  # title information
+  OPTIONAL {
+    ?record p:P10 ?titleStatement .
+    ?titleStatement ps:P10 ?titleRecorded .
+    }
+  OPTIONAL {
+    ?record p:P10 ?titleStatement .
+    ?titleStatement pq:P11 ?standardTitle .
+    ?standardTitle rdfs:label ?standardTitleLabel .
+    }
+  
+  # author information
+  OPTIONAL {
+    ?record p:P14 ?nameStatement .
+    ?nameStatement pq:P15 wd:Q18 .
+    ?nameStatement pq:P17 ?authorAuthority .
+    ?authorAuthority wdt:P42 ?authorID .
+    }
+  
+  # former owner information
+  OPTIONAL {
+    ?record p:P14 ?nameStatement .
+    ?nameStatement pq:P15 wd:Q21 .
+    ?nameStatement pq:P17 ?ownerAuthority .
+    ?ownerAuthority wdt:P42 ?ownerID .
+    }
+  
+  ?record wdt:P3 ?manuscript .
+  ?manuscript wdt:P1 ?DSID .
+  ?manuscript wdt:P2 ?holdingRecord .
+  ?holdingRecord p:P5 ?institutionStatement .
+  ?institutionStatement pq:P4 ?holderDS .
+  ?holderDS rdfs:label ?holderDSLabel .
+  ?holderDS wdt:P42 ?holderWikidata .
+  
+  # holding information
+  OPTIONAL {
+    ?holdingRecord wdt:P8 ?shelfmark .
+    }
+  OPTIONAL {
+    ?holdingRecord wdt:P7 ?institutionalID .
+    }
+  OPTIONAL {
+    ?holdingRecord wdt:P9 ?link .
+    }
+  
+  # iiif manifest
+  OPTIONAL {
+    ?record wdt:P41 ?iiifManifest .
+    }
+  
+BIND(CONCAT("Columbia, Missouri, ",?holderDSLabel,", ",?shelfmark) as ?signature) # hard code location for institution
+  
+  }
+GROUP BY ?signature ?instanceOf ?scriptNote ?holderDS ?holderWikidata ?DSID ?institutionalID ?shelfmark ?record ?link
