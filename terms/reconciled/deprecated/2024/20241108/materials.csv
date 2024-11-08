@@ -234,6 +234,7 @@ palm leaf,palm leaf,http://vocab.getty.edu/aat/300011894,Q30
 "palm leaf, illustrations",palm leaf,http://vocab.getty.edu/aat/300011894,Q30
 paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 Paper,paper,http://vocab.getty.edu/aat/300014109,Q31
+paper ; 215 x 155 (135 x 100) mm. bound to 215 x 170 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, 41 col. ill.",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, charts",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, charts ;",paper,http://vocab.getty.edu/aat/300014109,Q31
@@ -251,10 +252,8 @@ Paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, diagrams",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, ill",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, ill.",paper,http://vocab.getty.edu/aat/300014109,Q31
-"paper , ill.",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, ill., 6 maps",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, ill. (some col.)",paper,http://vocab.getty.edu/aat/300014109,Q31
-"paper, illuminated",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, illumination",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, illuminations",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, illuminations, maps, charts",paper,http://vocab.getty.edu/aat/300014109,Q31
@@ -281,8 +280,8 @@ Paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, tables",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, vellum",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
 paper;,paper,http://vocab.getty.edu/aat/300014109,Q31
+"paper , ill.",paper,http://vocab.getty.edu/aat/300014109,Q31
 paper ;,paper,http://vocab.getty.edu/aat/300014109,Q31
-paper ; 215 x 155 (135 x 100) mm. bound to 215 x 170 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
 paper.,paper,http://vocab.getty.edu/aat/300014109,Q31
 Paper.,paper,http://vocab.getty.edu/aat/300014109,Q31
 paper (?),paper;undetermined,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300379012,Q31;Q38412
@@ -307,7 +306,6 @@ paper and parchment.,paper;parchment,http://vocab.getty.edu/aat/300014109;http:/
 paper and parchment|paper,paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
 paper and parchment|parchment,paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
 paper and vellum,paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
-paper charts :,paper,http://vocab.getty.edu/aat/300014109,Q31
 paper illustrations,paper,http://vocab.getty.edu/aat/300014109,Q31
 "Paper is laid and blue, no glazing",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper on card, illuminations",paper,http://vocab.getty.edu/aat/300014109,Q31
@@ -345,7 +343,6 @@ Parchment,parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, decorated initials.",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, ill",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, ill.",parchment,http://vocab.getty.edu/aat/300011851,Q33
-"parchment, ill. (some col.)",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, illuminated",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, illuminated, miniatures",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, illuminated, miniatures.",parchment,http://vocab.getty.edu/aat/300011851,Q33
