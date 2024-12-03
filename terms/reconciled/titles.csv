@@ -5083,8 +5083,8 @@ Collection of Arabic texts on grammar and other topics,,,,Arabic grammatical tex
 Collection of Arabic texts on Hanafite Islamic law,,,,Texts on Islamic law,Q12197
 Collection of Arabic texts on Islamic inheritance law,,,,Texts on Islamic law,Q12197
 "Collection of Arabic texts on law, Arabic, and other topics",,,,Arabic texts,Q12258
-"Collection of Arabic texts on logic, inflection, and Islamic law",,,,Texts on Islamic law;Logic;Text on inflection,Q12197;Q20450;Q54350
-"Collection of Arabic texts on logic, philosophy, and other topics",,,,Logic;Philosophical text,Q20450;Q5996
+"Collection of Arabic texts on logic, inflection, and Islamic law",,,,Texts on Islamic law;Text on logic;Text on inflection,Q12197;Q20450;Q54350
+"Collection of Arabic texts on logic, philosophy, and other topics",,,,Text on logic;Philosophical text,Q20450;Q5996
 Collection of Arabic texts on the Qurʼān,,,,Texts on the Qurʼan,Q11948
 Collection of Arabic texts on the Qurʼān,,,,Texts on the Qurʼan,Q11948
 Collection of astronomical texts,,,,Astronomical texts,Q3129
@@ -5159,7 +5159,7 @@ Collection of texts on the calendar,,,,Calendar,Q1122
 Collection of texts on the occult arts,,,,Occult texts,Q55147
 "Collection of theological works by Robert Holcot, William Woodford, Franciscus de Mayronis and others",,,,Theological texts,Q822
 Collection of treatises on dialectic and grammar,,,,Dialectic texts;Grammatical texts,Q54540;Q38407
-Collection of treatises on rhetoric and logic,,,,Rhetoric texts;Logic,Q54539;Q20450
+Collection of treatises on rhetoric and logic,,,,Rhetoric texts;Text on logic,Q54539;Q20450
 Collection of treatises on Sufism and Islam,,,,Sufi texts;Islamic texts,Q27797;Q27729
 Collection of treatises on Sufism and Islam],,,,Sufi texts;Islamic texts,Q27797;Q27729
 Collection of Turkish poems,,,,Turkish poetry,Q55026
@@ -5286,7 +5286,7 @@ Compendium moralitatum; Abiciendum est peccatum quia nidus est dyaboli /,,,,Comp
 Compendium of biblical topics,,,,Compendium of biblical topics,Q48563
 Compendium of Italian manuscripts,,,,Italian manuscript,Q12038
 Compendium of legal texts,,,,Legal texts,Q6030
-Compendium of Logic,,,,Logic,Q20450
+Compendium of Logic,,,,Text on logic,Q20450
 Compendium religiosi vivendi,,,,Compendium religiosi vivendi,Q7545
 Compendium sensus litteralis totius Sacrae Scripturae,,,,Compendium sensus litteralis totius Sacrae Scripturae,Q6054
 Compendium theologicae veritatis,,,,Compendium theologicae veritatis,Q1426
@@ -8294,7 +8294,7 @@ Four historiated initials cut from an unidentified manuscript antiphonal,,,,Anti
 Four leaves from a 15th-century lectionary,,,,Lectionary,Q663
 Four Lines of Calligraphy from the Qasidat al-Burda,,,,Qasīdat al-Burda,Q11937
 Four poems,,,,Poetry,Q1330
-Four texts on grammar and logic,,,,Grammatical text;Logic,Q6010;Q20450
+Four texts on grammar and logic,,,,Grammatical text;Text on logic,Q6010;Q20450
 Four treatises on astrolabes and astronomy,,,,Astronomical texts,Q3129
 Fragment attached to a paper fly-leaf: Medical text,,,,Medical text,Q20372
 Fragment from a binding,,,,Binding fragment,Q10843
@@ -30152,7 +30152,7 @@ Loan payment receipt,,,,Receipt,Q5981
 Lodovico Bandinelli dowry receipt,,,,Receipt,Q5981
 Logaritma; Mevzua,,,,Logaritma,Q55174
 Logbok islendinga,,Jónsbók.,,Jónsbók,Q39970
-Logic,,,,Logic,Q20450
+Logic,,,,Text on logic,Q20450
 Logica parva,,,,Logica parva,Q3136
 "Lo present libre o blasó de les armes; en lo qual estan continuades les armes dels reys, ducs, comptes, e barons, la major part de aq[ue]lls axi de España y de Francia y parts de Itàlia",,,,Lo present libre o blasó de les armes,Q39581
 Lorenzo di Antonio power of attorney,,,,Power of attorney,Q8176
@@ -33298,7 +33298,7 @@ Persian treatise on arithmetic,,,,Mathematical text,Q12185
 Persian treatise on astrology,,,,Astrological text,Q20378
 Persian treatise on astronomy,,,,Astronomical text,Q38381
 Persian treatise on ethics,,,,Ethical treatise,Q12100
-Persian treatise on logic,,,,On logic,Q20506
+Persian treatise on logic,,,,Text on logic,Q20450
 Persii opera,,,,Persian texts,Q7568
 Personal notebook,,,,Notebook,Q5488
 Perush ha-shofet he-hakham ibn Roshd la ma'amar ha-hamishi mi-sefer Aristotalis ba-shema ha-tivʹi,,,,Perush ha-shofet he-hakham ibn Roshd la ma'amar ha-hamishi mi-sefer Aristotalis ba-shema ha-tivʹi,Q39678
@@ -39187,7 +39187,7 @@ Three Sufi texts,,,,Sufi texts,Q27797
 Three texts on Qurʼān recitation,,,,Texts on Qurʼan recitation,Q51708
 Three treatises on astronomy and arithmetic,,,,Astronomical texts;Mathematical texts,Q3129;Q38402
 Three treatises on astronomy and arithmetic],,,,Astronomical texts;Mathematical texts,Q3129;Q38402
-Three treatises on logic,,,,On logic,Q20506
+Three treatises on logic,,,,Text on logic,Q20450
 Tian ma shan fang yi gao /,天馬山房遺稿 /,Selections.,,Selections,Q12769
 Tianmu xian sheng ji,天目先生集 :,,,Tianmu xian sheng ji,Q39833
 Tiantai Lin Gongfu xian sheng wen ji,天台林公輔先生文集.,Selections.,,Selections,Q12769
@@ -39297,7 +39297,7 @@ Treatise on expressions of wonder in Arabic,,,,Arabic text,Q38349
 "Treatise on Greek Philosophy: On the Vaccuum, according to Leucippus, etc.",,,,Philosophical text,Q5996
 Treatise on Islamic doctrine and ethics,,,,Islamic ethics,Q12171
 Treatise on Islamic eschatology,,,,Treatise on Islamic eschatology,Q12046
-Treatise on Logic,,,,On logic,Q20506
+Treatise on Logic,,,,Text on logic,Q20450
 Treatise on Poverty,,,,Treatise on poverty,Q20510
 Treatise on practical mathematical calculation,,,,Treatise on practical mathematical calculation,Q3681
 Treatise on prayer and piety,,,,Treatise on prayer,Q51744
