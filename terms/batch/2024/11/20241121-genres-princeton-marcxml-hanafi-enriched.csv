@@ -1,0 +1,69 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+"Manuscripts, Arabic--18th century",lcsh,,,,,"Manuscripts, Arabic;Eighteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/904058,Q256;Q3024
+"Manuscripts, Arabic--14th century",lcsh,,,,,"Manuscripts, Arabic;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/933420,Q256;Q295
+"Manuscripts, Arabic--15th century",lcsh,,,,,"Manuscripts, Arabic;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/923962,Q256;Q154
+"Manuscripts, Arabic--17th century",lcsh,,,,,"Manuscripts, Arabic;Seventeenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1113663,Q256;Q2771
+"Manuscripts, Arabic--19th century",lcsh,,,,,"Manuscripts, Arabic;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1037841,Q256;Q3538
+History,fast,,,,,History,http://id.worldcat.org/fast/1411628,Q279
+Waqf--Books--17th century,lcsh,,Waqf;Books;Seventeenth century,http://id.worldcat.org/fast/1170323;http://id.worldcat.org/fast/836401;http://id.worldcat.org/fast/1113663,Q11403;Q40000;Q2771,,,
+"Manuscripts, Arabic--Iran--Tabrīz--Madrasah al-Ghāzānīyah--14th century",lcsh,,"Manuscripts, Arabic;Iran--Tabrīz;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1206575;http://id.worldcat.org/fast/933420,Q256;Q48737;Q295,,,
+Islamic bookbinding,lcsh,,,,,Islamic bookbinding,http://id.worldcat.org/fast/1730288,Q11127
+Sources,fast,,,,,Sources,http://id.worldcat.org/fast/1423900,Q2769
+"Manuscripts, Arabic--Syria--Aleppo--15th century",lcsh,,"Manuscripts, Arabic;Syria--Aleppo;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1213345;http://id.worldcat.org/fast/923962,Q256;Q54953;Q154,,,
+"Manuscripts, Arabic--Syria--Damascus",lcsh,,"Manuscripts, Arabic;Syria--Damascus",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1207112,Q256;Q11409,,,
+Illuminated manuscripts--Islamic Empire--15th century,aat,,,,,illuminated manuscripts;Islamic Empire;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/923962,Q4268;Q11211;Q154
+Illuminated title pages--Islamic Empire--15th century,local,,,,,illuminations (paintings);title pages;Islamic Empire;Fifteenth century,http://vocab.getty.edu/aat/300264522;http://vocab.getty.edu/aat/300055033;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/923962,Q225;Q20371;Q11211;Q154
+"Manuscripts, Arabic",lcsh,,,,,"Manuscripts, Arabic",http://id.worldcat.org/fast/1008278,Q256
+tuǧras,aat,,,,,tuǧras,http://vocab.getty.edu/aat/300310091,Q11262
+holographs (autographs),aat,,,,,holographs (autographs),http://vocab.getty.edu/aat/300028573,Q11544
+"Manuscripts, Arabic--Turkey--Erzurum--Madrasah al-Jalālīyah--14th century",lcsh,,"Manuscripts, Arabic;Turkey--Erzurum;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1207363;http://id.worldcat.org/fast/933420,Q256;Q63770;Q295,,,
+"Manuscripts, Arabic--16th century",lcsh,,,,,"Manuscripts, Arabic;Sixteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1119851,Q256;Q335
+Watermarks (Paper),rbpap,,,,,Watermarks,http://id.loc.gov/vocabulary/rbmscv/cv01089,Q5815
+Blind tooled bindings (Binding),rbbin,,,,,Blind tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00632,Q5877
+Headbands (Binding),rbbin,,,,,Headbands,http://id.loc.gov/vocabulary/rbmscv/cv00453,Q11385
+Biographies,lcgft,,,,,Biographies,http://id.worldcat.org/fast/1919896,Q3051
+Gold tooled bindings (Binding),rbbin,,,,,Gold tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00551,Q5859
+illuminated manuscripts,aat,,,,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,Q4268
+headpieces (layout features),aat,,,,,headpieces (layout features),http://vocab.getty.edu/aat/300207342,Q11536
+title pages,aat,,title pages,http://vocab.getty.edu/aat/300055033,Q20371,,,
+Early works,fast,(OCoLC)fst01411636,,,,Early works,http://id.worldcat.org/fast/1411636,Q300
+Illuminated title pages--Islamic empire--15th century,local,,,,,illuminations (paintings);title pages;Islamic Empire;Fifteenth century,http://vocab.getty.edu/aat/300264522;http://vocab.getty.edu/aat/300055033;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/923962,Q225;Q20371;Q11211;Q154
+Illuminated manuscripts--Islamic empire--15th century,aat,,,,,illuminated manuscripts;Islamic Empire;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/923962,Q4268;Q11211;Q154
+"Manuscripts, Turkish--18th century",lcsh,,,,,"Manuscripts, Turkish;Eighteenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/904058,Q3068;Q3024
+"Manuscripts, Arabic--Turkey--Erzurum--18th century",lcsh,,"Manuscripts, Arabic;Turkey--Erzurum;Eighteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1207363;http://id.worldcat.org/fast/904058,Q256;Q63770;Q3024,,,
+Documents--Turkey--19th century,aat,,documents (object genre);Turkey;Nineteenth century,http://vocab.getty.edu/aat/300026030;http://id.worldcat.org/fast/1208963;http://id.worldcat.org/fast/1037841,Q19859;Q4294;Q3538,,,
+Poetry,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026481,,,,Poetry,http://id.worldcat.org/fast/1423828,Q247
+"Manuscripts, Arabic--Saudi Arabia--Medina--18th century",lcsh,,"Manuscripts, Arabic;Saudi Arabia--Medina;Eighteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1213531;http://id.worldcat.org/fast/904058,Q256;Q18323;Q3024,,,
+Headpieces (layout features)--Islamic countries--17th century,aat,,,,,headpieces (layout features);Islamic countries;Seventeenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1113663,Q11536;Q2810;Q2771
+"Manuscripts, Arabic--Macedonia (Republic)--Skopje--15th century",lcsh,,,,,"Manuscripts, Arabic;North Macedonia--Skopje;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1223537;http://id.worldcat.org/fast/923962,Q256;Q39903;Q154
+Islamic bookbinding--14th century,lcsh,,,,,Islamic bookbinding;Fourteenth century,http://id.worldcat.org/fast/1730288;http://id.worldcat.org/fast/933420,Q11127;Q295
+Early works,fast,,,,,Early works,http://id.worldcat.org/fast/1411636,Q300
+"Manuscripts, Arabic--13th century",lcsh,,,,,"Manuscripts, Arabic;Thirteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1150138,Q256;Q245
+"Manuscripts, Arabic--Jerusalem--15th century",lcsh,,"Manuscripts, Arabic;Middle East--Jerusalem;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1216276;http://id.worldcat.org/fast/923962,Q256;Q7086;Q154,,,
+"Manuscripts, Arabic--Turkey--15th century",lcsh,,"Manuscripts, Arabic;Turkey;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1208963;http://id.worldcat.org/fast/923962,Q256;Q4294;Q154,,,
+Poetry,lcgft,,,,,Poetry,http://id.worldcat.org/fast/1423828,Q247
+"Manuscripts, Arabic--Saudi Arabia--Mecca--15th century",lcsh,,"Manuscripts, Arabic;Saudi Arabia--Mecca;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204780;http://id.worldcat.org/fast/923962,Q256;Q11321;Q154,,,
+"Manuscripts, Arabic--Turkey--Constantinople--16th century",lcsh,,"Manuscripts, Arabic;Turkey--Istanbul;Sixteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204833;http://id.worldcat.org/fast/1119851,Q256;Q4823;Q335,,,
+Headpieces (layout features)--Turkey--Constantinople--16th century,aat,,headpieces (layout features);Turkey--Istanbul;Sixteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1204833;http://id.worldcat.org/fast/1119851,Q11536;Q4823;Q335,,,
+Colored papers (Paper),rbpap,,,,,Colored papers,http://id.loc.gov/vocabulary/rbmscv/cv01138,Q11569
+tables (documents),aat,,,,,tables (documents),http://vocab.getty.edu/aat/300027364,Q252
+diagrams,aat,,,,,diagrams,http://vocab.getty.edu/aat/300015387,Q276
+Autographs (Provenance),rbprov,,,,,Autographs,http://id.loc.gov/vocabulary/rbmscv/cv00177,Q38431
+Illuminated title pages--Islamic Empire--14th century,,,,,,illuminations (paintings);title pages;Islamic Empire;Fourteenth century,http://vocab.getty.edu/aat/300264522;http://vocab.getty.edu/aat/300055033;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/933420,Q225;Q20371;Q11211;Q295
+Slipcases--Islamic Empire,aat,,,,,slipcases;Islamic Empire,http://vocab.getty.edu/aat/300200341;http://id.worldcat.org/fast/1244134,Q18319;Q11211
+Illuminated title pages--Islamic Empire--16th century,,,illuminations (paintings);title pages;Islamic Empire;Sixteenth century,http://vocab.getty.edu/aat/300264522;http://vocab.getty.edu/aat/300055033;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1119851,Q225;Q20371;Q11211;Q335,,,
+Headpieces (layout features)--Islamic Empire--16th century,aat,,,,,headpieces (layout features);Islamic Empire;Sixteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1119851,Q11536;Q11211;Q335
+Illuminated manuscripts--Islamic Empire--16th century,aat,,,,,illuminated manuscripts;Islamic Empire;Sixteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1119851,Q4268;Q11211;Q335
+"Manuscripts, Arabic--Uzbekistan--Samarqand--16th century",lcsh,,"Manuscripts, Arabic;Uzbekistan--Samarqand;Sixteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1210007;http://id.worldcat.org/fast/1119851,Q256;Q11433;Q335,,,
+"Manuscripts, Arabic--Egypt--Cairo--14th century",lcsh,,"Manuscripts, Arabic;Egypt--Cairo;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1205204;http://id.worldcat.org/fast/933420,Q256;Q11261;Q295,,,
+magic squares,aat,,,,,magic squares,http://vocab.getty.edu/aat/300222283,Q11568
+"Manuscripts, Arabic--turkey--Constantinople--17th century",lcsh,,"Manuscripts, Arabic;Turkey--Istanbul;Seventeenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204833;http://id.worldcat.org/fast/1113663,Q256;Q4823;Q2771,,,
+"Manuscripts, Arabic--Turkey--Constantinople--19th century",lcsh,,"Manuscripts, Arabic;Turkey--Istanbul;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204833;http://id.worldcat.org/fast/1037841,Q256;Q4823;Q3538,,,
+"Manuscripts, Arabic--Turkey--Constantinople--18th century",lcsh,,"Manuscripts, Arabic;Turkey--Istanbul;Eighteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204833;http://id.worldcat.org/fast/904058,Q256;Q4823;Q3024,,,
+"Manuscripts, Arabic--Iran--Āvarneh--17th century",lcsh,,"Manuscripts, Arabic;Iran;Seventeenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1113663,Q256;Q16384;Q2771,,,
+Certificates,rbgenr,,,,,Certificates,http://id.loc.gov/vocabulary/rbmscv/cv02106,Q11502
+Stamps (Provenance),rbprov,,,,,Stamps,http://id.loc.gov/vocabulary/rbmscv/cv00142,Q3075
+Sprinkled papers (Paper),rbpap,,,,,Sprinkled papers,http://id.loc.gov/vocabulary/rbmscv/cv01920,Q11234
+Dictionaries,lcgft,,,,,Dictionaries,http://id.worldcat.org/fast/1423826,Q3041
+Leather doublures (Binding),rbbin,,,,,Leather doublures,http://id.loc.gov/vocabulary/rbmscv/cv00583,Q11348
+Autographs (manuscripts)--Islamic Empire--15th century,aat,,,,,autographs (manuscripts);Islamic Empire;Fifteenth century,http://vocab.getty.edu/aat/300028571;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/923962,Q3518;Q11211;Q154
