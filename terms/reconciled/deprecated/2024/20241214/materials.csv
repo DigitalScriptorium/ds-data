@@ -1,16 +1,4 @@
 material_as_recorded,authorized_label,structured_value,ds_qid
-paper ; 201 x 140 (160 x 95) mm. bound to 202 x 140 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
-paper ; 220 x 162 (195 x 125) mm. bound to 220 x 160 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
-paper ; 210 x 152 (140 x 90) mm. bound to 208 x 160 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
-Ostrakon,ceramic,http://vocab.getty.edu/aat/300235507,Q63761
-paper ; 205 x 145 (150-160 x 90) mm. bound to 204 x 152 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
-paper ; 213 x 149 (138 x 60) mm. bound to 210 x 147 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
-"paper, illustrations ; 202 x 142 (135-155 x 67-85) mm. bound to 201 x 138 mm",paper,http://vocab.getty.edu/aat/300014109,Q31
-paper ; 210 x 154 (150-170 x 92-120) mm bound to 214 x 155 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
-paper ; 180 x 135 (123-135 x 86-105) mm,paper,http://vocab.getty.edu/aat/300014109,Q31
-paper ; 216 x 159 (155 x 90) mm. bound to 214 x 167 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
-paper ; 209 x 152 (163 x 115) mm. bound to 207 x 153 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
-"parchment, ill., music",parchment,http://vocab.getty.edu/aat/300011851,Q33
 ?,undetermined,http://vocab.getty.edu/aat/300379012,Q38412
 """Chancery 2° paper""",paper,http://vocab.getty.edu/aat/300014109,Q31
 """embroidered silk over parchment""",silk;parchment,http://vocab.getty.edu/aat/300014072;http://vocab.getty.edu/aat/300011851,Q34;Q33
@@ -458,3 +446,4 @@ vellum with paper repairs,parchment;paper,http://vocab.getty.edu/aat/300011851;h
 "watermarked European laid paper, illuminations",paper,http://vocab.getty.edu/aat/300014109,Q31
 wood,wood,http://vocab.getty.edu/aat/300011914,Q38
 wove paper,paper,http://vocab.getty.edu/aat/300014109,Q31
+,undetermined,http://vocab.getty.edu/aat/300379012,Q38412
