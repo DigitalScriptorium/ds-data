@@ -1,0 +1,291 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Decrees,aat,,,,,decrees,http://vocab.getty.edu/aat/300026925,Q2789
+Reports,aat,,,,,reports,http://vocab.getty.edu/aat/300027267,Q187
+Manuscripts (documents),aat,,,,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789
+Correspondence,aat,,,,,correspondence,http://vocab.getty.edu/aat/300026877,Q7715
+Diaries,aat,,,,,diaries,http://vocab.getty.edu/aat/300027112,Q7960
+Travel literature,rbmscv,,Travel literature,http://id.loc.gov/vocabulary/rbmscv/cv01326,Q66687,,,
+Beneventan minuscule,aat,,Beneventan minuscule,http://vocab.getty.edu/aat/300194411,Q38432,,,
+Fragments (object portions),aat,,,,,fragments (object portions),http://vocab.getty.edu/aat/300117130,Q222
+Amate paper,aat,,amate paper,http://vocab.getty.edu/aat/300264681,Q66688,,,
+Dictionaries,aat,,,,,dictionaries,http://vocab.getty.edu/aat/300026186,Q2970
+Sermons,aat,,,,,sermons,http://vocab.getty.edu/aat/300026669,Q3590
+Catechisms,aat,,catechisms,http://vocab.getty.edu/aat/300026460,Q42423,,,
+Prayers,aat,,,,,prayers (literary genre),http://vocab.getty.edu/aat/300026452,Q3062
+Hymns,aat,,,,,hymns,http://vocab.getty.edu/aat/300167054,Q3548
+Musical scores,aat,,scores (documents for music),http://vocab.getty.edu/aat/300026427,Q11225,,,
+Manuscripts (document),aat,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789,,,
+History,fast,(OCoLC)fst01411628,,,,History,http://id.worldcat.org/fast/1411628,Q279
+Annotations,rbmscv,,,,,Annotations,http://id.loc.gov/vocabulary/rbmscv/cv00102,Q2982
+Manicules,rbmscv,,,,,Manicules,http://id.loc.gov/vocabulary/rbmscv/cv00248,Q5909
+Protogothic,aat,,,,,Protogothic,http://vocab.getty.edu/aat/300379143,Q16405
+Russia leather bindings,rbmscv,,,,,Russia leather bindings,http://id.loc.gov/vocabulary/rbmscv/cv00692,Q12527
+Underscoring,rbmscv,,Underscoring,http://id.loc.gov/vocabulary/rbmscv/cv00274,Q66689,,,
+Manuscript waste (Binding),rbbin,,,,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568,Q5892
+Detached leaves,aat,,,,,detached leaves,http://vocab.getty.edu/aat/300379890,Q2954
+Manuscript waste,rbmscv,,,,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568,Q5892
+Antiphonaries,rbmscv,,Antiphonaries,http://id.loc.gov/vocabulary/rbmscv/cv00118,Q10815,,,
+Illuminated manuscripts,aat,,,,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,Q4268
+Graduals,rbmscv,,,,,Graduals,http://id.loc.gov/vocabulary/rbmscv/cv01414,Q10816
+Textura (Gothic script),aat,,,,,textura (Gothic script),http://vocab.getty.edu/aat/300202638,Q10787
+Brass bosses (Binding),rbmscv,,Brass bosses (Binding),http://id.loc.gov/vocabulary/rbmscv/cv00446,Q42541,,,
+Painted leather bindings,rbmscv,,Painted leather bindings,http://id.loc.gov/vocabulary/rbmscv/cv00616,Q66690,,,
+Guide letters,aat,,guide letters,http://vocab.getty.edu/aat/300233692,Q66691,,,
+Papyri (manuscripts),aat,,papyri (manuscripts),http://vocab.getty.edu/aat/300055047,Q38517,,,
+Passports,aat,,passports,http://vocab.getty.edu/aat/300027392,Q66692,,,
+Seals,rbmscv,,,,,Seals,http://id.loc.gov/vocabulary/rbmscv/cv00267,Q16345
+Accounts,aat,,,,,accounts,http://vocab.getty.edu/aat/300145802,Q178
+Vellum wrappers,rbmscv,,Vellum wrappers,http://id.loc.gov/vocabulary/rbmscv/cv00685,Q27367,,,
+Wrappers,rbmscv,,Wrappers,http://id.loc.gov/vocabulary/rbmscv/cv00477,Q27360,,,
+Vellum bindings,rbmscv,,,,,Vellum bindings,http://id.loc.gov/vocabulary/rbmscv/cv00543,Q5878
+Academic dissertations,rbmscv,,Academic dissertations,http://id.loc.gov/vocabulary/rbmscv/cv00955,Q66693,,,
+Bookplates,rbmscv,,,,,Bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00138,Q5847
+Shelf marks,rbmscv,,,,,Shelf marks,http://id.loc.gov/vocabulary/rbmscv/cv00268,Q16356
+Early works,fast,(OCoLC)fst01411636,,,,Early works,http://id.worldcat.org/fast/1411636,Q300
+Handbooks and manuals,fast,(OCoLC)fst01423877,,,,Handbooks and manuals,http://id.worldcat.org/fast/1423877,Q212
+Specimens,fast,(OCoLC)fst01423861,,,,Specimens,http://id.worldcat.org/fast/1423861,Q239
+Alphabet books,rbmscv,,Alphabet books,http://id.loc.gov/vocabulary/rbmscv/cv00079,Q66694,,,
+Concordances,aat,,concordances,http://vocab.getty.edu/aat/300026537,Q66695,,,
+Indexes,aat,,,,,indexes (reference sources),http://vocab.getty.edu/aat/300026554,Q6971
+Blind tooled bindings,rbmscv,,,,,Blind tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00632,Q5877
+Calf bindings,rbmscv,,,,,Calf bindings,http://id.loc.gov/vocabulary/rbmscv/cv00454,Q12556
+Coats of arms,gmgpc,,,,,Heraldry,http://id.worldcat.org/fast/955273,Q4275
+Sermons,rbmscv,,,,,Sermons,http://id.loc.gov/vocabulary/rbmscv/cv00099,Q38542
+Manuscript waste (Binding),rbmscv,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568,Q12559,,,
+Account books,aat,,,,,account books,http://vocab.getty.edu/aat/300027483,Q4178
+Psalters,rbmscv,,,,,Psalters,http://id.loc.gov/vocabulary/rbmscv/cv01544,Q38532
+Morocco bindings,rbmscv,,,,,Morocco bindings,http://id.loc.gov/vocabulary/rbmscv/cv00548,Q12652
+Prayer books,aat,,,,,prayer books,http://vocab.getty.edu/aat/300026476,Q6896
+Leases,aat,,,,,leases,http://vocab.getty.edu/aat/300027755,Q4287
+Receipts,aat,,,,,receipts (financial records),http://vocab.getty.edu/aat/300027573,Q219
+Genealogies,aat,,,,,genealogies (histories),http://vocab.getty.edu/aat/300027015,Q141
+Velvet bindings,rbmscv,,,,,Velvet bindings,http://id.loc.gov/vocabulary/rbmscv/cv00708,Q5833
+Watermarks,rbmscv,,Watermarks,http://id.loc.gov/vocabulary/rbmscv/cv01089,Q11508,,,
+Seals (Provenance),rbmscv,,Seals,http://id.loc.gov/vocabulary/rbmscv/cv00267,Q16345,,,
+Printed waste,rbmscv,,,,,Printed waste,http://id.loc.gov/vocabulary/rbmscv/cv01764,Q5925
+Books of hours,rbmscv,,,,,Books of hours,http://id.loc.gov/vocabulary/rbmscv/cv01037,Q38439
+Gold tooled bindings,rbmscv,,,,,Gold tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00551,Q5859
+Woodcuts,gmgpc,,Woodcuts,http://id.worldcat.org/fast/1986233,Q19852,,,
+Embroidered bindings,rbmscv,,Embroidered bindings,http://id.loc.gov/vocabulary/rbmscv/cv00522,Q38466,,,
+Autographs,aat,,,,,autographs (manuscripts),http://vocab.getty.edu/aat/300028571,Q3518
+Deeds,aat,,,,,deeds,http://vocab.getty.edu/aat/300027249,Q283
+Devotional literature,rbmscv,,Devotional literature,http://id.loc.gov/vocabulary/rbmscv/cv01040,Q38457,,,
+Humanistic cursive,aat,,humanistic cursive,http://vocab.getty.edu/aat/300210205,Q66696,,,
+Humanistic scripts,aat,,,,,humanistic scripts,http://vocab.getty.edu/aat/300210204,Q10824
+Palimpsests,aat,,,,,palimpsests (manuscripts),http://vocab.getty.edu/aat/300028576,Q156
+Gothic scripts,aat,,,,,Gothic scripts,http://vocab.getty.edu/aat/300195226,Q16360
+Textura (Gothic scripts),aat,,textura (Gothic script),http://vocab.getty.edu/aat/300202638,Q10787,,,
+Breviaries,rbmscv,,,,,Breviaries,http://id.loc.gov/vocabulary/rbmscv/cv01045,Q17492
+Bastarda,aat,,bastarda,http://vocab.getty.edu/aat/300210195,Q66697,,,
+Limp bindings,rbmscv,,,,,Limp bindings,http://id.loc.gov/vocabulary/rbmscv/cv00590,Q16312
+Bulls (papal records),aat,,,,,bulls (papal records),http://vocab.getty.edu/aat/300152044,Q4158
+Gothic cursive,aat,,Gothic cursive,http://vocab.getty.edu/aat/300210180,Q66698,,,
+Glossaries,rbmscv,,Glossaries,http://id.loc.gov/vocabulary/rbmscv/cv01408,Q66699,,,
+Armorial bookplates (Provenance),rbmscv,,Armorial bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00136,Q16277,,,
+Illuminated manuscripts--Italy--1443-1475,aat,,illuminated manuscripts;Italy,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204565,Q4268;Q249,,,
+Manuscripts (documents)--Italy--1443-1475,aat,,manuscripts (documents);Italy,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1204565,Q10789;Q249,,,
+Breviaries--Italy--1443-1475,rbgenr,,Breviaries;Italy,http://id.loc.gov/vocabulary/rbmscv/cv01045;http://id.worldcat.org/fast/1204565,Q17492;Q249,,,
+Velvet bindings (Binding),rbbin,,,,,Velvet bindings,http://id.loc.gov/vocabulary/rbmscv/cv00708,Q5833
+Dictionaries,rbmscv,,Dictionaries,http://id.loc.gov/vocabulary/rbmscv/cv01241,Q66700,,,
+Chained bindings,rbmscv,,,,,Chained bindings,http://id.loc.gov/vocabulary/rbmscv/cv00546,Q5812
+Missals,rbmscv,,Missals,http://id.loc.gov/vocabulary/rbmscv/cv01605,Q38504,,,
+Manuscripts (document genre),aat,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789,,,
+Hymnals,rbmscv,,Hymnals,http://id.loc.gov/vocabulary/rbmscv/cv01449,Q42529,,,
+Textura (Gothic Script),aat,,,,,textura (Gothic script),http://vocab.getty.edu/aat/300202638,Q10787
+Gold tooled bindings,aat,,Gold tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00551,Q12520,,,
+Leather bindings,rbmscv,,,,,Leather bindings,http://id.loc.gov/vocabulary/rbmscv/cv00455,Q5843
+Illuminated manuscripts--Italy--1484,aat,,illuminated manuscripts;Italy,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204565,Q4268;Q249,,,
+Bosses (Binding),rbmscv,,Bosses (Bindings),http://id.loc.gov/vocabulary/rbmscv/cv00444,Q12679,,,
+Fanfare bindings,rbmscv,,Fanfare bindings,http://id.loc.gov/vocabulary/rbmscv/cv00329,Q66701,,,
+Strapwork,aat,,strapwork,http://vocab.getty.edu/aat/300010200,Q66702,,,
+Forgeries (derivative objects),aat,,,,,forgeries (derivative objects),http://vocab.getty.edu/aat/300015641,Q26906
+Painted leather,rbmscv,,Painted leather bindings,http://id.loc.gov/vocabulary/rbmscv/cv00616,Q66690,,,
+Manuscripts (documents),aar,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789,,,
+Motets,lcgft,,Motets,http://id.worldcat.org/fast/1726673,Q66703,,,
+Hymns,lcgft,,,,,Hymns,http://id.worldcat.org/fast/1423701,Q6878
+Part books,lcgft,,Part books,http://id.worldcat.org/fast/1920271,Q66704,,,
+Liturgical books,rbmscv,,Liturgical books,http://id.loc.gov/vocabulary/rbmscv/cv00948,Q42549,,,
+Commonplace books,aat,,,,,commonplace books,http://vocab.getty.edu/aat/300027093,Q7696
+Wooden boards,rbmscv,,,,,Wooden boards,http://id.loc.gov/vocabulary/rbmscv/cv00601,Q5870
+Commentaries,fast,(OCoLC)fst01423723,,,,Commentaries,http://id.worldcat.org/fast/1423723,Q2812
+Contracts,aat,,,,,contracts,http://vocab.getty.edu/aat/300027649,Q4273
+Texts,fast,(OCoLC)fst01423705,,,,Texts,http://id.worldcat.org/fast/1423705,Q3066
+Alum tawed bindings,rbmscv,,Alum tawed bindings,http://id.loc.gov/vocabulary/rbmscv/cv00088,Q66705,,,
+Double cords,rbmscv,,Double cords,http://id.loc.gov/vocabulary/rbmscv/cv00512,Q66706,,,
+Catches,rbmscv,,,,,Catches,http://id.loc.gov/vocabulary/rbmscv/cv00459,Q16369
+Brass clasps,rbmscv,,Brass clasps,http://id.loc.gov/vocabulary/rbmscv/cv00447,Q66707,,,
+Chants,lcgft,,,,,Chants,http://id.worldcat.org/fast/1920060,Q5935
+Liturgical books,lcgft,,,,,Liturgical books,http://id.worldcat.org/fast/1922455,Q5822
+Wills,lcgft,,,,,Wills,http://id.worldcat.org/fast/1774321,Q38554
+Legal instruments,lcgft,,,,,Legal instruments,http://id.worldcat.org/fast/1774279,Q27390
+Graduals (Chants),lcgft,,Graduals (Chants),http://id.worldcat.org/fast/1920167,Q66708,,,
+Service books (Music),lcgft,,,,,Service books (Music),http://id.worldcat.org/fast/1920350,Q10819
+Furniture,rbmscv,,,,,Furniture,http://id.loc.gov/vocabulary/rbmscv/cv00445,Q16323
+Blank forms,rbmscv,,Blank forms,http://id.loc.gov/vocabulary/rbmscv/cv01003,Q66709,,,
+Notarial documents,aat,,,,,notarial documents,http://vocab.getty.edu/aat/300164785,Q2777
+Vellum printings,rbmscv,,Vellum printings,http://id.loc.gov/vocabulary/rbmscv/cv02021,Q66710,,,
+Letters,rbmscv,,Correspondence,http://id.loc.gov/vocabulary/rbmscv/cv01184,Q17494,,,
+Calendars (documents),aat,,calendars (documents),http://vocab.getty.edu/aat/300026741,Q2969,,,
+Calligraphy (visual works),aat,,,,,calligraphy (visual works),http://vocab.getty.edu/aat/300266660,Q26807
+Devotional calendars,rbmscv,,Devotional calendars,http://id.loc.gov/vocabulary/rbmscv/cv01059,Q55343,,,
+Perpetual calendars,aat,,perpetual calendars,http://vocab.getty.edu/aat/300026752,Q66711,,,
+Paste papers,rbmscv,,Paste papers,http://id.loc.gov/vocabulary/rbmscv/cv01696,Q66712,,,
+Prayers (documents),aat,,,,,prayers (literary genre),http://vocab.getty.edu/aat/300026452,Q3062
+Luxeuil script,aat,,Luxeuil,http://vocab.getty.edu/aat/300210050,Q66713,,,
+Merovingian scripts,aat,,Merovingian scripts,http://vocab.getty.edu/aat/300210049,Q66714,,,
+Minuscule,aat,,,,,minuscule,http://vocab.getty.edu/aat/300194448,Q12689
+Antiphonaries (Service books),lcgft,,,,,Antiphonaries (Service books),http://id.worldcat.org/fast/1920004,Q4297
+Caroline minuscule,aat,,,,,Caroline minuscule,http://vocab.getty.edu/aat/300195207,Q10803
+Centerpiece and cornerpiece bindings,rbmscv,,,,,Centerpiece and cornerpiece bindings,http://id.loc.gov/vocabulary/rbmscv/cv00319,Q12618
+Headbands,rbmscv,,,,,Headbands,http://id.loc.gov/vocabulary/rbmscv/cv00453,Q11385
+Cursive scripts (general scripts by form),aat,,cursive scripts (general scripts by form),http://vocab.getty.edu/aat/300375118,Q48503,,,
+Documentary scripts,aat,,,,,documentary scripts,http://vocab.getty.edu/aat/300200828,Q26827
+Cartularies,aat,,,,,cartularies,http://vocab.getty.edu/aat/300027169,Q4136
+Scrolls (information artifacts),aat,,,,,scrolls (information artifacts),http://vocab.getty.edu/aat/300028629,Q8246
+Farces,rbmscv,,Farces,http://id.loc.gov/vocabulary/rbmscv/cv01143,Q42566,,,
+Comedies,rbmscv,,Comedies,http://id.loc.gov/vocabulary/rbmscv/cv01142,Q42591,,,
+Illuminations (painting),aat,,,,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
+Prayers,rbmscv,,Prayers,http://id.loc.gov/vocabulary/rbmscv/cv01760,Q66715,,,
+Poetry,lcgft,,,,,Poetry,http://id.worldcat.org/fast/1423828,Q247
+Religious poetry,lcgft,,Religious poetry,http://id.worldcat.org/fast/1921731,Q66716,,,
+Bestiaries,lcgft,,Bestiaries,http://id.worldcat.org/fast/1921592,Q66717,,,
+Deerskin bindings,rbmscv,,,,,Deerskin bindings,http://id.loc.gov/vocabulary/rbmscv/cv00504,Q16302
+Half bindings,rbmscv,,,,,Half bindings,http://id.loc.gov/vocabulary/rbmscv/cv00332,Q5817
+Humanistic script,aat,,humanistic scripts,http://vocab.getty.edu/aat/300210204,Q10824,,,
+Italian rotunda (script),aat,,Italian rotunda (script),http://vocab.getty.edu/aat/300417902,Q66718,,,
+Treaties,lcgft,,Treaties,http://id.worldcat.org/fast/1423868,Q66719,,,
+Armorial bindings,rbmscv,,,,,Armorial bindings,http://id.loc.gov/vocabulary/rbmscv/cv00132,Q12580
+Miscellanies,aat,,,,,miscellanies,http://vocab.getty.edu/aat/300404026,Q17508
+Speeches,lcgft,,,,,Speeches,http://id.worldcat.org/fast/1774286,Q10810
+Clasps,rbmscv,,,,,Clasps,http://id.loc.gov/vocabulary/rbmscv/cv00448,Q12690
+Pigskin bindings,rbmscv,,,,,Pigskin bindings,http://id.loc.gov/vocabulary/rbmscv/cv00624,Q12678
+Quarter bindings,rbmscv,,Quarter bindings,http://id.loc.gov/vocabulary/rbmscv/cv00333,Q5846,,,
+Armorial stamps,rbmscv,,,,,Armorial stamps,http://id.loc.gov/vocabulary/rbmscv/cv00139,Q16391
+Sayings,lcgft,,,,,Sayings,http://id.worldcat.org/fast/1920779,Q5810
+Painted bindings,rbmscv,,Painted bindings,http://id.loc.gov/vocabulary/rbmscv/cv00579,Q38514,,,
+Tacketed bindings,rbmscv,,,,,Tacketed bindings,http://id.loc.gov/vocabulary/rbmscv/cv00677,Q5885
+Miscellanites,aat,,miscellanies,http://vocab.getty.edu/aat/300404026,Q17508,,,
+Armorial bookplates,rbmscv,,,,,Armorial bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00136,Q16277
+Bosses (Bindings),rbmscv,,,,,Bosses (Bindings),http://id.loc.gov/vocabulary/rbmscv/cv00444,Q12679
+Thumb indexes,rbmscv,,,,,Thumb indexes,http://id.loc.gov/vocabulary/rbmscv/cv00754,Q16314
+Dictionaries,fast,(OCoLC)fst01423826,,,,Dictionaries,http://id.worldcat.org/fast/1423826,Q3041
+Dictionaries,lcgft,,,,,Dictionaries,http://id.worldcat.org/fast/1423826,Q3041
+Calf bindings,rbmsvc,,Calf bindings,http://id.loc.gov/vocabulary/rbmscv/cv00454,Q12556,,,
+Epic poetry,lcgft,,,,,Epic poetry,http://id.worldcat.org/fast/1726596,Q38472
+Volvelles,aat,,,,,volvelles,http://vocab.getty.edu/aat/300247651,Q3063
+Prayer books,rbmscv,,,,,Prayer books,http://id.loc.gov/vocabulary/rbmscv/cv01759,Q38527
+Statutes and codes,lcgft,,Statutes and codes,http://id.worldcat.org/fast/1774314,Q66720,,,
+Ledger bindings,rbmscv,,Ledger bindings,http://id.loc.gov/vocabulary/rbmscv/cv00585,Q66721,,,
+Sammelbands,rbmscv,,Sammelbands,http://id.loc.gov/vocabulary/rbmscv/cv01846,Q66722,,,
+Rustic capitals,aat,,rustic capitals,http://vocab.getty.edu/aat/300196122,Q66723,,,
+Epigrams,lcgft,,Epigrams,http://id.worldcat.org/fast/1921644,Q66724,,,
+Stained vellum bindings,rbmscv,,Stained vellum bindings,http://id.loc.gov/vocabulary/rbmscv/cv00699,Q66725,,,
+Tacketed bindings,aat,,Tacketed bindings,http://id.loc.gov/vocabulary/rbmscv/cv00677,Q5885,,,
+Biographies,lcgft,,,,,Biographies,http://id.worldcat.org/fast/1919896,Q3051
+Odes,lcgft,,Odes,http://id.worldcat.org/fast/1922491,Q66726,,,
+Advertisements,aat,,advertisements,http://vocab.getty.edu/aat/300193993,Q66727,,,
+Bifolia,aat,,,,,bifolia,http://vocab.getty.edu/aat/300201054,Q1353
+Georgics,lcgft,,Georgics,http://id.worldcat.org/fast/1982930,Q66728,,,
+Legends,lcgft,,,,,Legends,http://id.worldcat.org/fast/1423803,Q5895
+Pastoral poetry,lcgft,,,,,Pastoral poetry,http://id.worldcat.org/fast/1054630,Q38519
+Double bands,rbmscv,,Double bands,http://id.loc.gov/vocabulary/rbmscv/cv00511,Q66729,,,
+Evangeliaries,rbmscv,,Evangeliaries,http://id.loc.gov/vocabulary/rbmscv/cv01311,Q66730,,,
+Raised bands,rbmscv,,Raised bands,http://id.loc.gov/vocabulary/rbmscv/cv00665,Q5936,,,
+Insular scripts,aat,,Insular scripts,http://vocab.getty.edu/aat/300210136,Q66731,,,
+Petitions,aat,,,,,petitions,http://vocab.getty.edu/aat/300027219,Q3594
+Occasional verse,lcgft,,Occasional verse,http://id.worldcat.org/fast/1921726,Q66732,,,
+Book hands,aat,,book hands,http://vocab.getty.edu/aat/300200668,Q48502,,,
+Prayers and devotions,fast,(OCoLC)fst01423909,,,,Prayers and devotions,http://id.worldcat.org/fast/1423909,Q3052
+Expurgated copies,rbmscv,,,,,Expurgated copies,http://id.loc.gov/vocabulary/rbmscv/cv00239,Q16270
+Genealogical notes,rbmscv,,Genealogical notes,http://id.loc.gov/vocabulary/rbmscv/cv01397,Q66733,,,
+False association copies,rbmscv,,False association copies,http://id.loc.gov/vocabulary/rbmscv/cv00158,Q66734,,,
+Palm-leaf manuscripts,aat,,palm-leaf manuscripts,http://vocab.getty.edu/aat/300451691,Q66735,,,
+Morocco bindings,aat,,Morocco bindings,http://id.loc.gov/vocabulary/rbmscv/cv00548,Q12652,,,
+Penmanship specimen books,rbmscv,,Penmanship specimen books,http://id.loc.gov/vocabulary/rbmscv/cv01708,Q38523,,,
+Girdle books,rbmscv,,Girdle books,http://id.loc.gov/vocabulary/rbmscv/cv01404,Q38476,,,
+Music,aat,,music (discipline),http://vocab.getty.edu/aat/300417584,Q42404,,,
+Glosses (annotations),aat,,,,,glosses (annotations),http://vocab.getty.edu/aat/300211708,Q4260
+Textura (Gothic script),rbmscv,,textura (Gothic script),http://vocab.getty.edu/aat/300202638,Q10787,,,
+Manuscripts (documents)--France--1250-1299,aat,,manuscripts (documents);France,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1204289,Q10789;Q152,,,
+Textura (Gothic script)--France--1250-1299,aat,,textura (Gothic script);France,http://vocab.getty.edu/aat/300202638;http://id.worldcat.org/fast/1204289,Q10787;Q152,,,
+Bastarda--France--1250-1299,aat,,bastarda;France,http://vocab.getty.edu/aat/300210195;http://id.worldcat.org/fast/1204289,Q66697;Q152,,,
+Palimpsests--1200-1299,aat,,palimpsests (manuscripts);Thirteenth century,http://vocab.getty.edu/aat/300028576;http://id.worldcat.org/fast/1150138,Q156;Q245,,,
+Biographies,fast,(OCoLC)fst01919896,,,,Biographies,http://id.worldcat.org/fast/1919896,Q3051
+Brass bosses (Bindings),rbmscv,,Brass bosses (Bindings),http://id.loc.gov/vocabulary/rbmscv/cv00446,Q42541,,,
+Almanacs,fast,(OCoLC)fst01423872,,,,Almanacs,http://id.worldcat.org/fast/1423872,Q2788
+Calendars,fast,(OCoLC)fst01423764,Calendars,http://id.worldcat.org/fast/1423764,Q5901,,,
+Handbooks and manuals,lcgft,,,,,Handbooks and manuals,http://id.worldcat.org/fast/1423877,Q212
+Almanacs,aat,,,,,almanacs,http://vocab.getty.edu/aat/300026705,Q3025
+Charters,aat,,,,,charters,http://vocab.getty.edu/aat/300027621,Q2793
+Processionals (Service books),lcgft,,,,,Processionals (Service books),http://id.worldcat.org/fast/1920299,Q16327
+Ties,rbmscv,,,,,Ties,http://id.loc.gov/vocabulary/rbmscv/cv00463,Q12522
+Poetry,fast,(OCoLC)fst01423828,,,,Poetry,http://id.worldcat.org/fast/1423828,Q247
+Translations,fast,(OCoLC)fst01423791,,,,Translations,http://id.worldcat.org/fast/1423791,Q18303
+Manuscripts (documents)--France--1500,aat,,manuscripts (documents);France,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1204289,Q10789;Q152,,,
+Indulgences,aat,,,,,indulgences (documents),http://vocab.getty.edu/aat/300201452,Q8163
+Blind stamped bindings,rbmscv,,Blind stamped bindings,http://id.loc.gov/vocabulary/rbmscv/cv00928,Q66736,,,
+Copybooks,aat,,copybooks (instructional materials),http://vocab.getty.edu/aat/300115825,Q66737,,,
+Shelf marks (Provenance),rbmscv,,Shelf marks,http://id.loc.gov/vocabulary/rbmscv/cv00268,Q16356,,,
+Albums,rbmscv,,Albums,http://id.loc.gov/vocabulary/rbmscv/cv00071,Q66738,,,
+Libri amicorum,rbmscv,,Libri amicorum,http://id.loc.gov/vocabulary/rbmscv/cv00189,Q66739,,,
+Part books,rbmscv,,Part books,http://id.loc.gov/vocabulary/rbmscv/cv01682,Q66740,,,
+Uncial,aat,,uncial,http://vocab.getty.edu/aat/300194424,Q66741,,,
+Prayers,lcgft,,,,,Prayers,http://id.worldcat.org/fast/1939841,Q38528
+Courtesy books,rbmscv,,Courtesy books,http://id.loc.gov/vocabulary/rbmscv/cv01192,Q66742,,,
+Goatskin bindings,rbmscv,,,,,Goatskin bindings,http://id.loc.gov/vocabulary/rbmscv/cv00547,Q12526
+Intabulations,lcgft,,Intabulations,http://id.worldcat.org/fast/1920436,Q66743,,,
+Calf bindings (Binding),rbbin,,,,,Calf bindings,http://id.loc.gov/vocabulary/rbmscv/cv00454,Q12556
+Gold tooled bindings (Binding),rbbin,,,,,Gold tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00551,Q5859
+Decisions,aat,,decisions (judicial records),http://vocab.getty.edu/aat/300027857,Q66744,,,
+Chronicles,aat,,,,,chronicles,http://vocab.getty.edu/aat/300026361,Q176
+Transcripts,aat,,transcripts,http://vocab.getty.edu/aat/300027388,Q66745,,,
+Essays,aat,,essays,http://vocab.getty.edu/aat/300026291,Q66746,,,
+Drawings,aat,,,,,drawings (visual works),http://vocab.getty.edu/aat/300033973,Q192
+Wills,aat,,,,,wills,http://vocab.getty.edu/aat/300027764,Q4900
+Powers of attorney,aat,,powers of attorney,http://vocab.getty.edu/aat/300027761,Q66747,,,
+Naskhī,aat,,,,,naskhī,http://vocab.getty.edu/aat/300195195,Q3579
+Glazed papers,rbmscv,,Glazed papers,http://id.loc.gov/vocabulary/rbmscv/cv01406,Q66748,,,
+Correspondence,rbmscv,,Correspondence,http://id.loc.gov/vocabulary/rbmscv/cv01184,Q17494,,,
+Indentures,aat,,,,,indentures,http://vocab.getty.edu/aat/300027753,Q230
+Lectionaries,fast,(OCoLC)fst01922449,,,,Lectionaries,http://id.worldcat.org/fast/1922449,Q38489
+Manuscripts,fast,(OCoLC)fst01424060,,,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
+Lectionaries,lcgft,,,,,Lectionaries,http://id.worldcat.org/fast/1922449,Q38489
+Quotations,fast,(OCoLC)fst01423792,,,,Quotations,http://id.worldcat.org/fast/1423792,Q5944
+Sermons,fast,(OCoLC)fst01423904,,,,Sermons,http://id.worldcat.org/fast/1423904,Q180
+Gregorian chants,lcgft,,,,,Gregorian chants,http://id.worldcat.org/fast/1726631,Q38479
+Martyrologies,lcgft,,Martyrologies,http://id.worldcat.org/fast/1922463,Q66749,,,
+Graduals (Chants),fast,(OCoLC)fst01920167,Graduals (Chants),http://id.worldcat.org/fast/1920167,Q66708,,,
+Gregorian chants,fast,(OCoLC)fst01726631,,,,Gregorian chants,http://id.worldcat.org/fast/1726631,Q38479
+Service books (Music),fast,(OCoLC)fst01920350,,,,Service books (Music),http://id.worldcat.org/fast/1920350,Q10819
+Bawdy poetry,lcgft,,Bawdy poetry,http://id.worldcat.org/fast/1921591,Q66750,,,
+Gouaches,gmgpc,,gouaches (paintings),http://vocab.getty.edu/aat/300078928,Q66751,,,
+Satires (Visual works),gmgpc,,Satire,http://id.worldcat.org/fast/1726731,Q7143,,,
+Liturgies,fast,(OCoLC)fst01000586,Liturgies,http://id.worldcat.org/fast/1000586,Q18305,,,
+Bible stories,lcgft,,Bible stories,http://id.worldcat.org/fast/1921594,Q66752,,,
+Sacred vocal music,fast,(OCoLC)fst01103213,Sacred vocal music,http://id.worldcat.org/fast/1103213,Q26678,,,
+Manuscript waste (Binding),aat,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568,Q12559,,,
+Paraphrases,fast,(OCoLC)fst01423839,,,,Paraphrases,http://id.worldcat.org/fast/1423839,Q5830
+Hymns,fast,(OCoLC)fst01423701,,,,Hymns,http://id.worldcat.org/fast/1423701,Q6878
+Breviaries,fast,(OCoLC)fst01922430,Breviaries,http://id.worldcat.org/fast/1922430,Q38440,,,
+Catchwords,aat,,catchwords,http://vocab.getty.edu/aat/300206217,Q66753,,,
+Kufic,aat,,,,,Kufic,http://vocab.getty.edu/aat/300194434,Q27026
+Maghribī (script form),aat,,maghribī (script form),http://vocab.getty.edu/aat/300265538,Q66754,,,
+Bifolium,aat,,bifolia,http://vocab.getty.edu/aat/300201054,Q1353,,,
+Sermons,rbgenr,,,,,Sermons,http://id.loc.gov/vocabulary/rbmscv/cv00099,Q38542
+Alum tawed thongs,rbmscv,,Alum tawed thongs (Bindings),http://id.loc.gov/vocabulary/rbmscv/cv00091,Q66755,,,
+"Sermons, Greek",fast,(OCoLC)fst01113269,"Sermons, Greek",http://id.worldcat.org/fast/1113269,Q48969,,,
+Hagiographies,lcgft,,,,,Hagiographies,http://id.worldcat.org/fast/1922442,Q6951
+Songs and music,fast,(OCoLC)fst01985328,Songs and music,http://id.worldcat.org/fast/1985328,Q55351,,,
+Genealogy,fast,(OCoLC)fst01423818,,,,Genealogy,http://id.worldcat.org/fast/1423818,Q183
+Rotunda (script),aat,,,,,rotunda (script),http://vocab.getty.edu/aat/300417901,Q10820
+Annotations (Provenance),aat,,annotations,http://vocab.getty.edu/aat/300026100,Q251,,,
+Cords,rbmscv,,Cords,http://id.loc.gov/vocabulary/rbmscv/cv00484,Q16353,,,
+Laudatory poetry,lcgft,,,,,Laudatory poetry,http://id.worldcat.org/fast/1922448,Q42554
+Occasional poems,rbmscv,,Occasional poems,http://id.loc.gov/vocabulary/rbmscv/cv01645,Q66756,,,
+Poems,rbmscv,,Poems,http://id.loc.gov/vocabulary/rbmscv/cv00203,Q17504,,,
+Love poetry,lcgft,,Love poetry,http://id.worldcat.org/fast/1726661,Q66757,,,
+Dialogues,rbmscv,,Dialogues,http://id.loc.gov/vocabulary/rbmscv/cv00936,Q42559,,,
+Watercolors,gmgpc,,Watercolors,http://id.worldcat.org/fast/1986272,Q66758,,,
+Cut-paper works,gmgpc,,cut-paper work,http://vocab.getty.edu/aat/300068579,Q11353,,,
+Coated papers,rbmscv,,Coated papers,http://id.loc.gov/vocabulary/rbmscv/cv01130,Q66759,,,
+Paste paper bindings,rbmscv,,,,,Paste paper bindings,http://id.loc.gov/vocabulary/rbmscv/cv00498,Q5821
