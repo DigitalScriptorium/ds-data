@@ -42,7 +42,6 @@ Arabic,,Arabic,Q13955,Q118
 Arabic,ara;eng,Arabic,Q13955,Q118
 Arabic,ara,Arabic,Q13955,Q118
 "Arabic, Persian, and Ottoman Turkish",,Arabic;Persian;Ottoman Turkish,Q13955;Q9168;Q36730,Q118;Q120;Q3104
-"Arabic, Persian, and Urdu",,Arabic;Persian;Urdu,Q13955;Q9168;Q1617,Q118;Q120;Q27496
 "Arabic, Persian and Ottoman Turkish",;ara;per;ota,Arabic;Persian;Ottoman Turkish,Q13955;Q9168;Q36730,Q118;Q120;Q3104
 "Arabic, with colophon in Arabic and Ottoman Turkish (in Arabic script, f. 8v)",ara,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
 "Arabic, with commentary in Ottoman Turkish",ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
@@ -185,7 +184,6 @@ eng;lat,eng;lat,English;Latin,Q1860;Q397,Q109;Q113
 eng;lat;spa,eng;lat;spa,English;Latin;Spanish,Q1860;Q397;Q1321,Q109;Q113;Q114
 eng;per,eng;per,English;Persian,Q1860;Q9168,Q109;Q120
 eng;spa,eng;spa,English;Spanish,Q1860;Q1321,Q109;Q114
-England and Latin,,English;Latin,Q1860;Q397,Q109;Q113
 English,,English,Q1860,Q109
 English,eng,English,Q1860,Q109
 "English, Aramaic and some Judeo-Arabic",,English;Aramaic;Judeo-Arabic,Q1860;Q28602;Q37733,Q109;Q3663;Q38106
@@ -270,7 +268,6 @@ German; liturgical text on covers in Latin,ger;lat,German;Latin,Q188;Q397,Q112;Q
 German (Middle High German),,German;Middle High German,Q188;Q837985,Q112;Q115
 German (Old Saxon),,German;Old Saxon,Q188;Q35219,Q112;Q42448
 German and Latin,ger,German;Latin,Q188;Q397,Q112;Q113
-German and Latin words,,German;Latin,Q188;Q397,Q112;Q113
 German with Latin calendar and colophon,gmh;lat,German;Latin,Q188;Q397,Q112;Q113
 German with some Latin,,German;Latin,Q188;Q397,Q112;Q113
 gez,gez,Ge'ez,Q35667,Q3664
@@ -334,7 +331,6 @@ In Arabic,ara,Arabic,Q13955,Q118
 "In Arabic, with Farsi translations of main Arabic text in red beneath each line",,Arabic;Persian,Q13955;Q9168,Q118;Q120
 In Arabic.,ara,Arabic,Q13955,Q118
 In Arabic.,,Arabic,Q13955,Q118
-In Arabic (Naskhi script),,Arabic,Q13955,Q118
 In Arabic and Ottoman Turkish,,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
 In Arabic and Ottoman Turkish; written in nastaʻlīq script,,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
 In Arabic and Persian,ara,Arabic;Persian,Q13955;Q9168,Q118;Q120
@@ -342,10 +338,8 @@ In Arabic and Persian,ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
 In Arabic and Persian.,ara,Arabic;Persian,Q13955;Q9168,Q118;Q120
 In Arabic and Persian.,ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
 In Arabic with commentary in Ottoman Turkish,,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
-In Arabic with Persian translation,,Arabic;Persian,Q13955;Q9168,Q118;Q120
 In Arabic with some fawāʼid in Persian,;ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
 In Arabic with some fawāʼid in Persian,;ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
-In Aramaic,,Aramaic,Q28602,Q3663
 In Armenian,arm,Armenian,Q8785,Q792
 In Armenian,,Armenian,Q8785,Q792
 In Armenian.,arm,Armenian,Q8785,Q792
@@ -368,10 +362,8 @@ In Church Slavic,chu,Church Slavonic,Q33251,Q16427
 In Church Slavic,,Church Slavonic,Q33251,Q16427
 In Church Slavic.,chu,Church Slavonic,Q33251,Q16427
 In Church Slavic.,,Church Slavonic,Q33251,Q16427
-Includes Italian and Latin place names,,Italian;Latin,Q652;Q397,Q116;Q113
 "Includes Ottoman Turkish? (folio 1r, 3r, and 86v-89v) and Greek (folio 2v); text in Ottoman Turkish (folio 3r-85v)",,Ottoman Turkish;Greek,Q36730;Q9129,Q3104;Q1318
 "In Coptic, with a few marginal notations of later date in Arabic and German",cop;ara;ger,Coptic;Arabic;German,Q36155;Q13955;Q188,Q4335;Q118;Q112
-In Coptic and Arabic,,Coptic;Arabic,Q36155;Q13955,Q4335;Q118
 In Czech,cze,Czech,Q9056,Q3107
 In Czech,,Czech,Q9056,Q3107
 In Czech.,cze,Czech,Q9056,Q3107
@@ -389,7 +381,6 @@ In English,eng,English,Q1860,Q109
 "In English, with endorsement in Latin",eng;lat,English;Latin,Q1860;Q397,Q109;Q113
 In English.,eng,English,Q1860,Q109
 In English.,,English,Q1860,Q109
-In English and Latin,,English;Latin,Q1860;Q397,Q109;Q113
 In English and Marquesan,,English;Marquesan,Q1860;Q33781,Q109;Q38099
 In English and Marquesan.,,English;Marquesan,Q1860;Q33781,Q109;Q38099
 In Flemish,lat,Flemish,Q34147,Q10832
@@ -400,7 +391,6 @@ In French,fre,French,Q150,Q111
 "In French, Italian, and Latin",fre;ita;lat,French;Italian;Latin,Q150;Q652;Q397,Q111;Q116;Q113
 "In French, Italian, and Latin.",fre,French;Italian;Latin,Q150;Q652;Q397,Q111;Q116;Q113
 "In French, Italian, and Latin.",fre;ita;lat,French;Italian;Latin,Q150;Q652;Q397,Q111;Q116;Q113
-"In French, with some English",,French;English,Q150;Q1860,Q111;Q109
 In French.,fre,French,Q150,Q111
 In French.,,French,Q150,Q111
 In French and Latin,fre,French;Latin,Q150;Q397,Q111;Q113
@@ -411,14 +401,12 @@ In German,,German,Q188,Q112
 In German,ger,German,Q188,Q112
 In German,eng,German,Q188,Q112
 "In German, with Latin phrase",ger;lat,German;Latin,Q188;Q397,Q112;Q113
-"In German, with some Latin",,German;Latin,Q188;Q397,Q112;Q113
 In German.,ger,German,Q188,Q112
 In German.,,German,Q188,Q112
 In German and Latin,ger,German;Latin,Q188;Q397,Q112;Q113
 In German and Latin,ger;lat,German;Latin,Q188;Q397,Q112;Q113
 In German and Latin.,ger,German;Latin,Q188;Q397,Q112;Q113
 In German and Latin.,ger;lat,German;Latin,Q188;Q397,Q112;Q113
-In German with some Latin,,German;Latin,Q188;Q397,Q112;Q113
 In Greek,grc,Greek,Q9129,Q1318
 In Greek.,grc,Greek,Q9129,Q1318
 In Greek.,,Greek,Q9129,Q1318
@@ -426,7 +414,6 @@ In Hebrew,,Hebrew,Q9288,Q117
 In Hebrew,heb,Hebrew,Q9288,Q117
 In Hebrew.,heb,Hebrew,Q9288,Q117
 In Hebrew.,,Hebrew,Q9288,Q117
-In Hebrew (standard Tiberian vocalization and accentuation),,Hebrew,Q9288,Q117
 In Hebrew with Aramaic translation,heb;arc,Hebrew;Aramaic,Q9288;Q28602,Q117;Q3663
 In High German,ger,Standard High German,Q279350,Q38100
 In High German,,Standard High German,Q279350,Q38100
@@ -456,7 +443,6 @@ In Italian; cover in Latin.,ita,Italian;Latin,Q652;Q397,Q116;Q113
 In Italian; cover in Latin.,,Italian;Latin,Q652;Q397,Q116;Q113
 In Italian.,ita,Italian,Q652,Q116
 In Italian.,,Italian,Q652,Q116
-In Italian (Florentine dialect),,Italian;Florentine,Q652;Q5460907,Q116;Q7216
 In Italian and Latin,,Italian;Latin,Q652;Q397,Q116;Q113
 In Italian and Latin,ita;lat,Italian;Latin,Q652;Q397,Q116;Q113
 In Italian and Latin,ita,Italian;Latin,Q652;Q397,Q116;Q113
@@ -470,8 +456,6 @@ In Japanese,eng,Japanese,Q5287,Q12711
 In Japanese.,,Japanese,Q5287,Q12711
 In Japanese.,jpn,Japanese,Q5287,Q12711
 In Japanese.,eng,Japanese,Q5287,Q12711
-In Judeo-Spanish (Ladino),,Judaeo-Spanish,Q36196,Q7217
-"In Kekchi, with Spanish titles",,Q’eqchi’;Spanish,Q35536;Q1321,Q64218;Q114
 In Khmer,,Khmer,Q9205,Q27499
 In Latin,dut,Latin,Q397,Q113
 In Latin,ita,Latin,Q397,Q113
@@ -495,21 +479,14 @@ In Latin,,Latin,Q397,Q113
 "In Latin, with German words (f. 2r-51r)",lat;ger,Latin;German,Q397;Q188,Q113;Q112
 "In Latin, with later summaries in French (verso)",lat;fre,Latin;French,Q397;Q150,Q113;Q111
 "In Latin, with notes in German",lat;ger,Latin;German,Q397;Q188,Q113;Q112
-"In Latin, with one document in Italian",,Latin;Italian,Q397;Q652,Q113;Q116
-"In Latin, with one item in Italian",,Latin;Italian,Q397;Q652,Q113;Q116
 "In Latin, with one rubric in French",,Latin;French,Q397;Q150,Q113;Q111
 "In Latin, with preliminaries in Spanish",,Latin;Spanish,Q397;Q1321,Q113;Q114
-"In Latin, with some captions in French",,Latin;French,Q397;Q150,Q113;Q111
 "In Latin, with some documents in Italian",lat;ita,Latin;Italian,Q397;Q652,Q113;Q116
 "In Latin, with some documents in Italian and Spanish",ita;lat;spa,Latin;Italian;Spanish,Q397;Q652;Q1321,Q113;Q116;Q114
 "In Latin, with some French",lat,Latin;French,Q397;Q150,Q113;Q111
-"In Latin, with some French, German, Greek, Spanish, and Arabic",,Latin;French;German;Greek;Spanish;Arabic,Q397;Q150;Q188;Q9129;Q1321;Q13955,Q113;Q111;Q112;Q1318;Q114;Q118
-"In Latin, with some Greek",,Latin;Greek,Q397;Q9129,Q113;Q1318
 "In Latin, with some Hungarian and Turkish",lat,Latin;Hungarian;Turkish,Q397;Q9067;Q256,Q113;Q4336;Q4337
 "In Latin, with some Italian (f. 1r)",lat;ita,Latin;Italian,Q397;Q652,Q113;Q116
-"In Latin, with some parts in Italian",,Latin;Italian,Q397;Q652,Q113;Q116
 "In Latin, with Spanish marginal notes",,Latin;Spanish,Q397;Q1321,Q113;Q114
-"In Latin, with summary of contents in Spanish",,Latin;Spanish,Q397;Q1321,Q113;Q114
 "In Latin, with the words of the bride and groom and the note of the bride's brother in Middle English",lat,Latin;Middle English,Q397;Q36395,Q113;Q119
 In Latin; calendar and some prayers in French,,Latin;French,Q397;Q150,Q113;Q111
 In Latin; calendar in French,lat;fre,Latin;French,Q397;Q150,Q113;Q111
@@ -526,7 +503,6 @@ In Latin; liturgical calendar in Latin and French.,lat,Latin;French,Q397;Q150,Q1
 In Latin; liturgical calendar in Latin and French.,lat;fre,Latin;French,Q397;Q150,Q113;Q111
 In Latin; Textualis Formata (Quadratus) script,,Latin,Q397,Q113
 In Latin.,,Latin,Q397,Q113
-In Latin. Includes some transliteration of Greek and Hebrew,,Latin;Greek;Hebrew,Q397;Q9129;Q9288,Q113;Q1318;Q117
 In Latin (highly abbreviated),lat,Latin,Q397,Q113
 In Latin and Castilian,,Latin;Spanish,Q397;Q1321,Q113;Q114
 In Latin and French,lat;fre,Latin;French,Q397;Q150,Q113;Q111
@@ -558,17 +534,14 @@ In Latin with a few lines of marginalia in Middle English (f. 1).,lat,Latin;Midd
 In Latin with a few lines of marginalia in Middle English (f. 1).,,Latin;Middle English,Q397;Q36395,Q113;Q119
 In Latin with a few lines of marginalia in Middle English (f 1),lat,Latin;Middle English,Q397;Q36395,Q113;Q119
 In Latin with a few lines of marginalia in Middle English (f 1),,Latin;Middle English,Q397;Q36395,Q113;Q119
-In Latin with calendar in French,,Latin;French,Q397;Q150,Q113;Q111
 In Latin with extensive rubrics in German,lat;ger,Latin;German,Q397;Q188,Q113;Q112
 In Latin with one rubric in Italian (f. 22r).,lat,Latin;Italian,Q397;Q652,Q113;Q116
 In Latin with one rubric in Italian (f. 22r).,ita;lat,Latin;Italian,Q397;Q652,Q113;Q116
 In Latin with one rubric in Italian (f 22r),lat,Latin;Italian,Q397;Q652,Q113;Q116
 In Latin with one rubric in Italian (f 22r),ita;lat,Latin;Italian,Q397;Q652,Q113;Q116
-In Latin with some French,,Latin;French,Q397;Q150,Q113;Q111
 In Latin with some German,lat;ger,Latin;German,Q397;Q188,Q113;Q112
 In Latin with some German.,lat,Latin;German,Q397;Q188,Q113;Q112
 In Latin with some German.,,Latin;German,Q397;Q188,Q113;Q112
-In Latin with some Greek,,Latin;Greek,Q397;Q9129,Q113;Q1318
 In Latin with some marginal annotations in Greek,lat,Latin;Greek,Q397;Q9129,Q113;Q1318
 In Latin with some marginal annotations in Greek,lat;grc,Latin;Greek,Q397;Q9129,Q113;Q1318
 In Latin with some marginal annotations in Greek.,lat,Latin;Greek,Q397;Q9129,Q113;Q1318
@@ -585,7 +558,6 @@ In Middle English.,,Middle English,Q36395,Q119
 In Middle English and Latin,;enm;lat,Middle English;Latin,Q36395;Q397,Q119;Q113
 In Middle English and Latin,,Middle English;Latin,Q36395;Q397,Q119;Q113
 In Middle English and Latin.,,Middle English;Latin,Q36395;Q397,Q119;Q113
-In Middle English with Latin index notes in outer margin,,Middle English;Latin,Q36395;Q397,Q119;Q113
 In Middle French,,Middle French,Q1473289,Q110
 In Middle French,fre,Middle French,Q1473289,Q110
 In Middle French,frm,Middle French,Q1473289,Q110
@@ -598,10 +570,6 @@ In Middle High German,,Middle High German,Q837985,Q115
 "In Middle High German, the text probably composed in the Alemannic region (Switzerland) in the second half of the 13th century.",,Middle High German;Alemannic,Q837985;Q131339,Q115;Q38102
 In Middle High German; Cursiva script,,Middle High German,Q837985,Q115
 "In modern Javanese, rendered from the original Kawi",jav,Javanese;Kawi,Q33549;Q49341,Q38105;Q38413
-In Nahuatl,,Nahuatl,Q13300,Q38112
-"In Nahuatl, with Latin headings",,Nahuatl;Latin,Q13300;Q397,Q38112;Q113
-"In Nahuatl, with some Latin and Spanish",,Nahuatl;Latin;Spanish,Q13300;Q397;Q1321,Q38112;Q113;Q114
-"In Nahuatl, with some Spanish and Latin",,Nahuatl;Spanish;Latin,Q13300;Q1321;Q397,Q38112;Q114;Q113
 In Nepali,san,Nepali,Q33823,Q27514
 In Old Church Slavonic,chu,Old Church Slavonic,Q35499,Q20366
 In Old Church Slavonic,,Old Church Slavonic,Q35499,Q20366
@@ -679,8 +647,6 @@ In Spanish,,Spanish,Q1321,Q114
 In Spanish,spa,Spanish,Q1321,Q114
 "In Spanish, Italian, and Latin",,Spanish;Italian;Latin,Q1321;Q652;Q397,Q114;Q116;Q113
 "In Spanish, Latin, and French",,Spanish;Latin;French,Q1321;Q397;Q150,Q114;Q113;Q111
-"In Spanish, Latin, and Nahuatl",,Spanish;Latin;Nahuatl,Q1321;Q397;Q13300,Q114;Q113;Q38112
-"In Spanish, Quiché, Cakchikel, and Tzutuhil",,Spanish;K’iche’;Kaqchikel;Tz’utujil,Q1321;Q36494;Q35115;Q36941,Q114;Q38121;Q64216;Q64217
 "In Spanish, with some Galician",,Spanish;Galician,Q1321;Q9307,Q114;Q42450
 "In Spanish, with some Latin",,Spanish;Latin,Q1321;Q397,Q114;Q113
 In Spanish.,spa,Spanish,Q1321,Q114
@@ -699,10 +665,8 @@ In Syriac and Arabic(some in Karshuni),syrara,Syriac;Arabic;Garshuni,Q33538;Q139
 In Syriac and Arabic(some in Karshuni).,syr,Syriac;Arabic;Garshuni,Q33538;Q13955;Q1494558,Q12713;Q118;Q38104
 In Syriac and Arabic(some in Karshuni).,syrara,Syriac;Arabic;Garshuni,Q33538;Q13955;Q1494558,Q12713;Q118;Q38104
 In Tamil,tam,Tamil,Q5885,Q27498
-"In Tarascan, with preliminary materials and titles in Spanish",,Purépecha;Spanish,Q36803;Q1321,Q64219;Q114
 In Thai and Pali,tha;pli,Thai;Pali,Q9217;Q36727,Q27515;Q27511
 "Intro. and entries in Arabic, definitions in Ottoman Turkish",,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
-"In Tzeltal, with marginalia in Spanish and Latin by Ara, and in Spanish by Father Llorente",,Tzeltal;Spanish;Latin,Q36808;Q1321;Q397,Q64220;Q114;Q113
 In Valencian Catalan,cat,Valencian,Q32641,Q8381
 it,it,Italian,Q652,Q116
 ita,,Italian,Q652,Q116
@@ -761,7 +725,6 @@ Italian; one poem in Latin,,Italian;Latin,Q652;Q397,Q116;Q113
 Italian; possibly in the Florentine vernacular,ita,Italian;Florentine,Q652;Q5460907,Q116;Q7216
 Italian; Sicilian dialect; Latin; Spanish,,Italian;Sicilian;Latin;Spanish,Q652;Q33973;Q397;Q1321,Q116;Q6996;Q113;Q114
 Italian.,,Italian,Q652,Q116
-Italian (Tuscan dialect),,Italian;Tuscan,Q652;Q1990745,Q116;Q3661
 Italian (Venetian dialect),,Italian;Venetian,Q652;Q32724,Q116;Q3662
 "Italian (Venetian dialect), with three recipes in Latin (f. 17r)",ita;lat,Italian;Venetian;Latin,Q652;Q32724;Q397,Q116;Q3662;Q113
 Italian and French,ita;fre,Italian;French,Q652;Q150,Q116;Q111
@@ -771,10 +734,8 @@ Italian and Latin,,Italian;Latin,Q652;Q397,Q116;Q113
 Italian and Latin,lat;ita,Italian;Latin,Q652;Q397,Q116;Q113
 "Italian and Latin, with two documents in French",ita;lat;fre,Italian;Latin;French,Q652;Q397;Q150,Q116;Q113;Q111
 Italian and Latin.,,Italian;Latin,Q652;Q397,Q116;Q113
-Italian and Latin place names,,Italian;Latin,Q652;Q397,Q116;Q113
 Italian and Spanish,ita;spa,Italian;Spanish,Q652;Q1321,Q116;Q114
 Italian with a short section in Latin (f. 49r-49v),ita;lat,Italian;Latin,Q652;Q397,Q116;Q113
-Italian words,,Italian,Q652,Q116
 Item 3 is in Latin and English,eng,Latin;English,Q397;Q1860,Q113;Q109
 Item 3 is in Latin and English,eng;lat,Latin;English,Q397;Q1860,Q113;Q109
 Item 3 is in Latin and English.,eng,Latin;English,Q397;Q1860,Q113;Q109
@@ -835,7 +796,6 @@ LAtin,,Latin,Q397,Q113
 "Latin, French; later annotations in Italian",,Latin;French;Italian,Q397;Q150;Q652,Q113;Q111;Q116
 "Latin, French and Middle English",lat,Latin;French;Middle English,Q397;Q150;Q36395,Q113;Q111;Q119
 "Latin, German",,Latin;German,Q397;Q188,Q113;Q112
-"Latin, German, Greek, and Hebrew",,Latin;German;Greek;Hebrew,Q397;Q188;Q9129;Q9288,Q113;Q112;Q1318;Q117
 "Latin, Italian",,Latin;Italian,Q397;Q652,Q113;Q116
 "Latin, Middle French, and some words in Middle English (f. 214v)",lat;frm;enm,Latin;Middle French;Middle English,Q397;Q1473289;Q36395,Q113;Q110;Q119
 "Latin, the chanson de geste fragment in v. I is in French",lat;fre,Latin;French,Q397;Q150,Q113;Q111
@@ -1033,7 +993,6 @@ Latin and legal French,lat;fre,Latin;French,Q397;Q150,Q113;Q111
 Latin and legal French.,lat,Latin;French,Q397;Q150,Q113;Q111
 Latin and legal French.,lat;fre,Latin;French,Q397;Q150,Q113;Q111
 Latin and Low German,lat;nds,Latin;Low German,Q397;Q25433,Q113;Q5013
-Latin and Middle English,,Latin;Middle English,Q397;Q36395,Q113;Q119
 Latin and Middle High German,lat;gmh,Latin;Middle High German,Q397;Q837985,Q113;Q115
 Latin and Occitan,lat;pro,Latin;Occitan,Q397;Q14185,Q113;Q4338
 Latin and Old Catalan,,Latin;Old Catalan,Q397;Q15478520,Q113;Q40059
@@ -1043,7 +1002,6 @@ Latin and some English,lat;eng,Latin;English,Q397;Q1860,Q113;Q109
 Latin and some French,lat,Latin;French,Q397;Q150,Q113;Q111
 Latin and Spanish,,Latin;Spanish,Q397;Q1321,Q113;Q114
 Latin and Spanish,lat;spa,Latin;Spanish,Q397;Q1321,Q113;Q114
-Latin and Spanish words,,Latin;Spanish,Q397;Q1321,Q113;Q114
 Latin translation from original Greek with Latin commentary,,Latin,Q397,Q113
 Latin version of original Greek work,,Latin,Q397,Q113
 Latin with English additions,lat,Latin;English,Q397;Q1860,Q113;Q109
@@ -1055,12 +1013,9 @@ Latin with marginal annotations in French,,Latin;French,Q397;Q150,Q113;Q111
 "Latin with occasional words in Greek (f. 21r, 134v)",lat,Latin;Greek,Q397;Q9129,Q113;Q1318
 Latin with one text in French,lat,Latin;French,Q397;Q150,Q113;Q111
 Latin with rubrics in German and later additions in Latin and German,lat;ger,Latin;German;Latin;German,Q397;Q188;Q397;Q188,Q113;Q112;Q113;Q112
-Latin with some Greek,,Latin;Greek,Q397;Q9129,Q113;Q1318
-Latin with some Italian,,Latin;Italian,Q397;Q652,Q113;Q116
 Latin with some rubrics in Middle English,lat;enm,Latin;Middle English,Q397;Q36395,Q113;Q119
 Latin with Spanish notes at the end,lat;spa,Latin;Spanish,Q397;Q1321,Q113;Q114
 Latin words,lat,Latin,Q397,Q113
-Latin words. Includes some additional text in Italian,,Latin;Italian,Q397;Q652,Q113;Q116
 Law French,,Law French,Q2044323,Q5947
 Low German,,Low German,Q25433,Q5013
 Low German,nds,Low German,Q25433,Q5013
@@ -1093,7 +1048,6 @@ Middle English; some works in Latin,enm;lat,Middle English;Latin,Q36395;Q397,Q11
 Middle English; translated from the Latin Vulgate,,Middle English;Latin,Q36395;Q397,Q119;Q113
 Middle English.,,Middle English,Q36395,Q119
 Middle English (1100-1500); Latin,enm;lat,Middle English;Latin,Q36395;Q397,Q119;Q113
-Middle English (Midlands dialect),,Middle English,Q36395,Q119
 Middle English and Latin,enm;lat,Middle English;Latin,Q36395;Q397,Q119;Q113
 Middle English translated from the Middle French,enm,Middle English;Middle French,Q36395;Q1473289,Q119;Q110
 Middle French,fre,Middle French,Q1473289,Q110
@@ -1118,16 +1072,13 @@ Middle Scots,,Middle Scots,Q3327000,Q38109
 Modern Greek (1453-),gre,Modern Greek,Q36510,Q38096
 "Mostly German, with benedictions in Latin (f. 22v-23r)",ger;lat,German;Latin,Q188;Q397,Q112;Q113
 "Mostly in German, with significant sections of the text in Latin. Some notations on the front and back end-leaves (dating from later than the text itself) are in Latin",ger,German;Latin;Latin,Q188;Q397;Q397,Q112;Q113;Q113
-"Ms. fragments in Latin, timeline in English",,Latin;English,Q397;Q1860,Q113;Q109
 mul,,multiple languages,Q20923490,Q38110
 mul,mul,multiple languages,Q20923490,Q38110
 mul;grc;cop,mul;grc;cop,multiple languages;Ancient Greek;Coptic,Q20923490;Q35497;Q36155,Q38110;Q3103;Q4335
 mwr,mwr,Marwari,Q56312,Q27504
 myn,myn,Yucatec Maya,Q13354,Q38111
 mynspa,mynspa,Yucatec Maya;Spanish,Q13354;Q1321,Q38111;Q114
-nah,,Nahuatl,Q13300,Q38112
 Nahuatl; Spanish,,Nahuatl;Spanish,Q13300;Q1321,Q38112;Q114
-Nahuatl glosses,,Nahuatl,Q13300,Q38112
 nds,nds,Low German,Q25433,Q5013
 nds;lat,nds;lat,Low German;Latin,Q25433;Q397,Q5013;Q113
 nep,nep,Nepali,Q33823,Q27514
@@ -1229,8 +1180,6 @@ Portuguese and Latin,,Portuguese;Latin,Q5146;Q397,Q38114;Q113
 Portuguese with laid-in map of Mexico City in Spanish,por,Portuguese;Spanish,Q5146;Q1321,Q38114;Q114
 pra,pra,Prakrit,Q192170,Q27516
 "Predominant work in Hebrew (p. 19-234), with shorter works in Judeo-Arabic",heb;jrb,Hebrew;Judeo-Arabic,Q9288;Q37733,Q117;Q38106
-"Primarily in German; includes some French, Latin, and Greek text",,German;French;Latin;Greek,Q188;Q150;Q397;Q9129,Q112;Q111;Q113;Q1318
-"Primarily in German; some entries in Latin, French, or Hungarian",,German;Latin;French;Hungarian,Q188;Q397;Q150;Q9067,Q112;Q113;Q111;Q4336
 "Primarily in Khmer, with some Pali (Khmer script)",,Khmer;Pali,Q9205;Q36727,Q27499;Q27511
 "Primarily in Latin, with accompanying prayers in Catalan",lat;cat,Latin;Catalan,Q397;Q7026,Q113;Q1316
 "Primarily in Middle English, with some Latin",enm,Middle English;Latin,Q36395;Q397,Q119;Q113
@@ -1238,7 +1187,6 @@ pra,pra,Prakrit,Q192170,Q27516
 "Primarily in Middle English, with some Latin.",enm,Middle English;Latin,Q36395;Q397,Q119;Q113
 "Primarily in Middle English, with some Latin.",enm;lat,Middle English;Latin,Q36395;Q397,Q119;Q113
 pro,pro,Old Occitan,Q2779185,Q38115
-Probably Pali,,Pali,Q36727,Q27511
 Provençal,pro,Provençal,Q241243,Q7801
 Provençal,pro,Provençal,Q241243,Q7801
 Provençal,,Provençal,Q241243,Q7801
@@ -1248,7 +1196,6 @@ Provençal,,Provençal,Q241243,Q7801
 "Provençal (f. 1-13, 25-26) and Old French (f. 14-23)",pro;fro,Provençal;Old French,Q241243;Q35222,Q7801;Q3106
 "Provençal (f. 1-13, 25-26) and Old French (f. 14-23)",pro;fro,Provençal;Old French,Q241243;Q35222,Q7801;Q3106
 "Provençal language, Quercy dialect",pro,Provençal,Q241243,Q7801
-Provenc̨al with some Latin,,Provençal;Latin,Q241243;Q397,Q7801;Q113
 Psalms in Latin with each verse translated into English prose with English commentary,enm,Latin;English,Q397;Q1860,Q113;Q109
 Psalms in Latin with each verse translated into English prose with English commentary,enm;lat,Latin;English,Q397;Q1860,Q113;Q109
 Psalms in Latin with each verse translated into English prose with English commentary.,enm,Latin;English,Q397;Q1860,Q113;Q109
@@ -1288,7 +1235,6 @@ Spanish; some marginal notes in Latin,,Spanish;Latin,Q1321;Q397,Q114;Q113
 Spanish (Castilian),,Spanish,Q1321,Q114
 Spanish (Valencian dialect),,Spanish;Valencian,Q1321;Q32641,Q114;Q8381
 Spanish and Latin,,Spanish;Latin,Q1321;Q397,Q114;Q113
-"Spanish and Latin texts in black ink, Nahuatl glosses in red; in double columns",,Spanish;Latin;Nahuatl,Q1321;Q397;Q13300,Q114;Q113;Q38112
 Spanish and Nahuatl,,Spanish;Nahuatl,Q1321;Q13300,Q114;Q38112
 Spanish and Portuguese,,Spanish;Portuguese,Q1321;Q5146,Q114;Q38114
 syc,syc,Syriac,Q33538,Q12713
@@ -1346,14 +1292,12 @@ Text in Middle English and Latin,,Middle English;Latin,Q36395;Q397,Q119;Q113
 Text in Middle English and Latin.,,Middle English;Latin,Q36395;Q397,Q119;Q113
 Text in Middle French,,Middle French,Q1473289,Q110
 Text in Old French,fro,Old French,Q35222,Q3106
-Text in Provençal with introductions and conclusions in Latin,,Provençal;Latin,Q241243;Q397,Q7801;Q113
 Text in Spanish,,Spanish,Q1321,Q114
 Text in Syriac,syr,Syriac,Q33538,Q12713
 Text in Yucatec with some Spanish,;myn;spa,Yucatec Maya;Spanish,Q13354;Q1321,Q38111;Q114
 Text in Yucatec with some Spanish,,Yucatec Maya;Spanish,Q13354;Q1321,Q38111;Q114
 Text in Yucatec with some Spanish.,,Yucatec Maya;Spanish,Q13354;Q1321,Q38111;Q114
 Texts in English,enm,English,Q1860,Q109
-Texts in Italian; ms. binding in Latin,,Italian;Latin,Q652;Q397,Q116;Q113
 Texts in Latin,lat,Latin,Q397,Q113
 Texts in Latin and English,lat,Latin;English,Q397;Q1860,Q113;Q109
 tha,tha,Thai,Q9217,Q27515
@@ -1393,8 +1337,6 @@ und,und,undetermined language,Q22282914,Q12714
 und;eng,und;eng,undetermined language;English,Q22282914;Q1860,Q12714;Q109
 Unidentified Cipher,,undetermined language,Q22282914,Q12714
 urd,urd,Urdu,Q1617,Q27496
-"Urdu, Arabic, and Persian",,Urdu;Arabic;Persian,Q1617;Q13955;Q9168,Q27496;Q118;Q120
-Words in Latin,,Latin,Q397,Q113
 Written in Latin with a small amount of Italian (f. 91r-94v),lat;ita,Latin;Italian,Q397;Q652,Q113;Q116
 xno,xno,Anglo-Norman,Q35214,Q1315
 zxx,,no linguistic content,Q22282939,Q16428
