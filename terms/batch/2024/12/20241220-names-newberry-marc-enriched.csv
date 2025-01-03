@@ -1,0 +1,544 @@
+name_as_recorded,role,name_agr,source_authority_uri,instance_of_add,authorized_label_add,structured_value_add,ds_id_add,ds_qid_add,instance_of,authorized_label,structured_value,ds_qid
+Spain. Sovereign (1516-1556 : Charles I),author,,,,,,,,organization;human,Spain;Charles V,Q29;Q32500,Q392;Q7656
+Spain. Sovereign (1598-1621 : Philip III),author,,,,,,,,organization;human,Spain;Philip III of Spain,Q29;Q34464,Q392;Q41700
+"Zumárraga, Juan de, 1468-1548",author,,,human,Juan de Zumárraga,Q442901,DSNAME7255,Q67501,,,,
+Spain. Sovereign (1556-1598 : Philip II),author,,,,,,,,organization;human,Spain;Philip II of Spain,Q29;Q34417,Q392;Q17780
+"Tello de Guzmán, Francisco, d. 1603",author,,,human,Francisco de Tello de Guzmán,Q1950286,DSNAME7270,Q67516,,,,
+Catholic Church,author,,http://viaf.org/viaf/130782063,,,,,,organization,Catholic Church,Q9592,Q425
+"Valdez, Felipe de",former owner,,,human,Felipe de Valdez,Q131623156,DSNAME7130,Q67376,,,,
+"Inquaci, Adán",former owner,,,human,Adán Inquaci,Q131623157,DSNAME7131,Q67377,,,,
+"Brasseur de Bourbourg, abbé, 1814-1874",former owner,,,human,Charles Étienne Brasseur de Bourbourg,Q1066666,DSNAME4466,Q40911,,,,
+"Nebrija, Antonio de, 1444?-1522",author,,,human,Antonio de Nebrija,Q380804,DSNAME2792,Q20111,,,,
+"Bernardino, de Sahagún, 1499-1590",author,,,human,Bernardino de Sahagún,Q379972,DSNAME7279,Q67525,,,,
+"Ramírez, José Fernando, 1804-1871",former owner,,,human,José Fernando Ramírez,Q3186280,DSNAME7280,Q67526,,,,
+"Chavero, Alfredo, 1841-1906",former owner,,,human,Alfredo Chavero,Q2408299,DSNAME7281,Q67527,,,,
+"Fernández del Castillo, Manuel",former owner,,,human,Manuel Fernández del Castillo,Q131623158,DSNAME7132,Q67378,,,,
+"Ayer, Edward Everett, 1841-1927",former owner,,,human,Edward E. Ayer,Q5342686,DSNAME7282,Q67528,,,,
+"Ximénez, Francisco, 1666-approximately 1722",author,,,human,Francisco Ximénez,Q924415,DSNAME7283,Q67529,,,,
+"Pinart, A. L. 1852-1911",former owner,,,human,Alphonse Pinart,Q2839943,DSNAME7284,Q67530,,,,
+"Cáncer, Luis, -1549",author,,,human,Luis Cancer,Q6700403,DSNAME7285,Q67531,,,,
+"Meneses, Felipe de",author,,,human,Felipe de Meneses,Q93287703,DSNAME7286,Q67532,,,,
+"Olivera, Lorenzo de",former owner,,,human,Lorenzo de Olivera,Q131623159,DSNAME7133,Q67379,,,,
+"Mendez, Esteban",former owner,,,human,Esteban Mendez,Q131623160,DSNAME7134,Q67380,,,,
+"Ara, Domingo de",author,,,human,Domingo de Ara,Q131623161,DSNAME7135,Q67381,,,,
+"Llorente, Diego",former owner,,,human,Diego Llorente,Q131623162,DSNAME7136,Q67382,,,,
+Livy,author,,,,,,,,human,Titus Livius,Q2039,Q1947
+"Palladio degli Olivi, Lucrezio",former owner,,,human,Lucrezio Palladio degli Olivi,Q131623163,DSNAME7137,Q67383,,,,
+"Castelvetro, Giacomo, 1546-1616",author,,,human,Giacomo Castelvetro,Q15441254,DSNAME7287,Q67533,,,,
+"Silver, Louis H",former owner,,,human,Louis H. Silver,Q120691896,DSNAME2454,Q17663,,,,
+Homer,author,,,,,,,,human,Homer,Q6691,Q40898
+"Beale, Robert, 1541-1601",author,,,human,Robert Beale,Q5639235,DSNAME7288,Q67534,,,,
+"FitzSimmons, James Albert",former owner,,,human,James Albert FitzSimmons,Q131623164,DSNAME7138,Q67384,,,,
+"James V, King of Scotland, 1512-1542",author,,,human,James V of Scotland,Q137814,DSNAME7289,Q67535,,,,
+"Nau, Claude, sieur de la Boisselière, fl. 1574-1605",author,,,human,Claude Nau,Q5128974,DSNAME7290,Q67536,,,,
+"Pugin, Augustus Welby Northmore, 1812-1852",former owner,,,human,Augustus Pugin,Q313288,DSNAME7291,Q67537,,,,
+"Froissard, Pierre, -1599",author,,,human,Pierre Froissard,Q131623165,DSNAME7139,Q67385,,,,
+"Jerome, Saint, -419 or 420",author,,,,,,,,human,Jerome,Q44248,Q898
+"Clerici, Luigi",former owner,,,human,Luigi Clerici,Q131623166,DSNAME7140,Q67386,,,,
+"Romero, Bernardo, active 1597-1598",author,,,human,Bernardo Romero,Q131623167,DSNAME7141,Q67387,,,,
+"García Icazbalceta, Joaquín, 1825-1894",former owner,,,human,Joaquín García Icazbalceta,Q3808593,DSNAME7292,Q67538,,,,
+"Reicher, Heinrich, approximately 1380-1466",author,,,human,Heinrich Reicher,Q131623168,DSNAME7142,Q67388,,,,
+"Unverfähr, Horst-Joachim",former owner,,,human,Horst-Joachim Unverfähr,Q131623169,DSNAME7143,Q67389,,,,
+"Schäfer, Otto",former owner,,,human,Otto Schäfer,Q94802474,DSNAME7293,Q67539,,,,
+"Probasco, Henry, 1820-1902",former owner,,,human,Henry Probasco,Q1607179,DSNAME7294,Q67540,,,,
+"Goodspeed, Edgar J. 1871-1962",former owner,,,human,Edgar J. Goodspeed,Q3567041,DSNAME7295,Q67541,,,,
+"Berriot, Raymond",former owner,,,human,Raymond Berriot,Q131623170,DSNAME7144,Q67390,,,,
+"Bernardo, d'Albenga",author,,,human,Bernardo d'Albenga,Q131623171,DSNAME7145,Q67391,,,,
+"Stevens, Henry, Jr., 1819-1886",former owner,,,human,Henry Stevens,Q15506342,DSNAME7296,Q67542,,,,
+"Stevens, Henry Newton, 1855-1930",former owner,,,human,Stevens Henry Newton,Q59626576,DSNAME7297,Q67543,,,,
+"Couvent des pères Franciscains (Monte-Carlo, Monaco)",former owner,,,,,,,,,,,
+"Marlianus, Raimundus, approximately 1420-1475",author,,,human,Raimondo Marliani,Q109832688,DSNAME7298,Q67544,,,,
+"Jovius, Alexander, 1571-1653",transcriber,,,human,Alexander Jovius,Q131623172,DSNAME7146,Q67392,,,,
+"Schøyen, Martin",former owner,,,,,,,,human,Martin Schøyen,Q6776549,Q16717
+"Adler, Cyrus, 1863-1940",former owner,,,human,Cyrus Adler,Q3699936,DSNAME7299,Q67545,,,,
+Catholic Church. Archdiocese of Reims (France),author,,,organization,Roman Catholic Archdiocese of Reims,Q1365421,DSNAME7426,Q67672,,,,
+"Foyle, William A. 1885-1963",former owner,,http://id.loc.gov/authorities/names/nr00032207,,,,,,human,William Foyle,Q8009288,Q3180
+"Francesco I, Grand-Duke of Tuscany, 1541-1587",author,,,human,Francesco I de' Medici,Q299675,DSNAME7300,Q67546,,,,
+"Hozes Sarmiento, Juan Antonio de",author,,,human,Juan Antonio de Hozes Sarmiento,Q131623173,DSNAME7147,Q67393,,,,
+"Adamson, Gordon",former owner,,,human,Gordon Adamson,Q27919811,DSNAME7301,Q67547,,,,
+"Adamson, Emily",former owner,,,human,Emily Adamson,Q131623175,DSNAME7148,Q67394,,,,
+"Agricola, Johann, 1494?-1566",author,,,human,Johannes Agricola,Q76554,DSNAME7302,Q67548,,,,
+"Salloch, William",former owner,,,human,William Salloch,Q72938313,DSNAME4574,Q41019,,,,
+"Bernecker, Leonhard",transcriber,,,human,Leonhard Bernecker,Q131623176,DSNAME7149,Q67395,,,,
+"Hübner, Alexis",former owner,,,human,Alexis Hübner,Q131623177,DSNAME7150,Q67396,,,,
+"Hooper, William Harcourt, 1834-1912",former owner,,,,,,,,human,William Harcourt Hooper,Q18394933,Q20251
+"Detterer, Ernst Frederick, 1888-1947",former owner,,,human,Ernst F. Detterer,Q5394976,DSNAME393,Q1557,,,,
+"Juana, de Austria, Princess of Portugal, 1535-1573",author,,,human,"Joanna of Austria, Princess of Portugal",Q170264,DSNAME7303,Q67549,,,,
+"Gazio, Antonio, 1449-1528",author,,,human,Antonio Gazio,Q772609,DSNAME7304,Q67550,,,,
+"Lopez Bulhão, Antonio",author,,,human,Antonio Lopez Bulhão,Q131623178,DSNAME7151,Q67397,,,,
+"Piriz, Bento, active 1533-1534",author,,,human,Bento Piriz,Q131623179,DSNAME7152,Q67398,,,,
+"Bocanegra, Luis de",author,,,human,Luis Manuel Fernández de Portocarrero,Q2604692,DSNAME7305,Q67551,,,,
+"Naveda, García de, active 1539-1543",author,,,human,García de Naveda,Q131623180,DSNAME7153,Q67399,,,,
+"Alvarez, Juan, active 1664-1668",author,,,human,Juan Alvarez,Q131623181,DSNAME7154,Q67400,,,,
+"Peña, Miguel de la, active 1640-1642",author,,,human,Miguel de la Peña,Q131623182,DSNAME7155,Q67401,,,,
+"James, Walter, active 1627-1628",former owner,,,human,Walter James,Q131623183,DSNAME7156,Q67402,,,,
+"Gatica, Juan Baptista de, approximately 1533-",author,,,human,Juan Baptista de Gatica,Q131623184,DSNAME7157,Q67403,,,,
+"Oviedo, Gregorio de, 1721-1796",author,,,human,Gregorio de Oviedo,Q131623186,DSNAME7158,Q67404,,,,
+"Goncalez el Moxo, Alvar, active 1560-1567",author,,,human,Alvar Goncalez el Moxo,Q131623187,DSNAME7159,Q67405,,,,
+"Fernández de Matanco, Pero, active 1550-1553",author,,,human,Pero Fernández de Matanco,Q131623188,DSNAME7160,Q67406,,,,
+"Rueda, Rodrigo de, active 1553-1569",author,,,human,Rodrigo de Rueda,Q131623189,DSNAME7161,Q67407,,,,
+"Thomas, Aquinas, Saint, 1225?-1274",author,,http://id.loc.gov/authorities/names/n78095790,,,,,,human,Thomas Aquinas,Q9438,Q1919
+"Gasser, Rudolf von, Freiherr, -1911",former owner,,,human,Freiherr Rudolf von Gasser,Q131623190,DSNAME7162,Q67408,,,,
+"Bargas Carvaja, García de, active 1618-1620",author,,,human,García de Bargas Carvaja,Q131623191,DSNAME7163,Q67409,,,,
+"Rújula, Juan Félix de, 1744-1806",author,,,human,Juan Félix de Rújula,Q131575371,DSNAME7306,Q67552,,,,
+"Perez Barahona, Juan, active 1560-1562",author,,,human,Juan Perez Barahona,Q131623192,DSNAME7164,Q67410,,,,
+"Morales, Miguel de, active 1683-1685",author,,,human,Miguel de Morales,Q131623193,DSNAME7165,Q67411,,,,
+"Ortiz Campoy, Juan, active 1600-1620",author,,,human,Juan Ortiz Campoy,Q131623194,DSNAME7166,Q67412,,,,
+"Romero de Tejada y Artacho, José, active 1725-1727",author,,,human,José Romero de Tejada y Artacho,Q131623195,DSNAME7167,Q67413,,,,
+"Bello, Alonso, active 1548-1549",author,,,human,Alonso Bello,Q131623196,DSNAME7168,Q67414,,,,
+"Laboybre, Bannos",author,,,human,Bannos Laboybre,Q131623197,DSNAME7169,Q67415,,,,
+"Ward, George B. active 1922-1933",former owner,,,human,George B. Ward,Q131623198,DSNAME7170,Q67416,,,,
+"Cockerell, Sydney Carlyle, Sir, 1867-1962",former owner,,,,,,,,human,Sydney Cockerell,Q966843,Q1609
+"Kirby, Laurence",former owner,,,human,Laurence Kirby,Q376142,DSNAME7307,Q67553,,,,
+"Turle, James",former owner,,,human,James Turle,Q6144471,DSNAME7308,Q67554,,,,
+"Dennis, Samuel",former owner,,,human,Samuel Dennis,Q131623199,DSNAME7171,Q67417,,,,
+"Bordinelle, Robine",author,,,human,Robine Bordinelle,Q131623200,DSNAME7172,Q67418,,,,
+"Heinrich, von Langenstein, approximately 1325-1397",author,,,,,,,,human,Henry of Langenstein,Q71997,Q7891
+"Naldi, Naldo, 1439-approximately 1520",author,,,human,Naldo Naldi,Q12901157,DSNAME4870,Q41315,,,,
+"Cicero, Marcus Tullius",author,,http://id.loc.gov/authorities/names/n79032166,,,,,,human,Cicero,Q1541,Q1813
+"Canal, Pietro, 1807-1883",former owner,,,human,Pietro Canal,Q18758602,DSNAME7309,Q67555,,,,
+"Carlenis, Antonius de, 1386-1460",author,,,human,Antonius de Carlenis,Q59631355,DSNAME7310,Q67556,,,,
+"Afelatro, Petrus de, active 1486",scribe,,,human,Pietro d'Afeltro,Q106833324,DSNAME7311,Q67557,,,,
+Aristotle,author,,,,,,,,human,Aristotle,Q868,Q395
+"Lyell, James P. R. 1871-1948",former owner,,http://id.loc.gov/authorities/names/nr97040618,,,,,,human,James Lyell,Q18529888,Q4455
+"Sánchez de Arévalo, Rodrigo, 1404-1470",author,,,human,Rodrigo Sánchez de Arévalo,Q2777336,DSNAME7312,Q67558,,,,
+"Benedict, Saint, Abbot of Monte Cassino",author,,,,,,,,human,Benedict of Nursia,Q44265,Q6067
+"Sallust, 86 B.C.-34 B.C.",author,,,,,,,,human,Sallust,Q7170,Q3171
+"Solacius, Tadeus",scribe,,,human,Tadeus Solacius,Q131623201,DSNAME7173,Q67419,,,,
+"Blancellus, Bartholus, active 13th century",former owner,,,human,Bartholus Blancellus,Q131623202,DSNAME7174,Q67420,,,,
+"Gellius, Aulus",author,,,,,,,,human,Aulus Gellius,Q294800,Q40197
+"Burrus, Milanus",scribe,,,human,Milanus Burrus,Q131623203,DSNAME7175,Q67421,,,,
+P. S,scribe,,,,,,,,,,,
+Catholic Church. Pope,author,,http://id.loc.gov/authorities/names/n80009898,,,,,,organization;organization,Catholic Church;Pope,Q9592;Q19546,Q425;Q7336
+"Groote, Gerard, 1340-1384",author,,,human,Geert Groote,Q467242,DSNAME4271,Q40716,,,,
+"Bartholomew, of San Concordio, 1262-1347",author,,,,,,,,human,Bartholomew of San Concordio,Q3635444,Q855
+Plato,author,,,,,,,,human,Plato,Q859,Q10866
+Masullus,scribe,,,human,Masullus,Q131623204,DSNAME7176,Q67422,,,,
+"Mayora, Miguel de",former owner,,,human,Miguel de Mayora,Q93417491,DSNAME7313,Q67559,,,,
+"Mayora, Luis",former owner,,,human,Luis Mayora,Q131623205,DSNAME7177,Q67423,,,,
+"Petrarca, Francesco, 1304-1374",author,,,,,,,,human,Petrarch,Q1401,Q16486
+"Borromeo, Filippo, 1419-1464",former owner,,,human,Filippo Borromeo,Q5448703,DSNAME7314,Q67560,,,,
+"Archinto, Carlo, 1669-1732",former owner,,,human,"Carlo Archinto, 2nd Marquess of Parona, 3rd Count of Trainate",Q665628,DSNAME224,Q828,,,,
+"Antoninus, Saint, Archbishop of Florence, 1389-1459",author,,http://id.loc.gov/authorities/names/n86859662,,,,,,human,Antoninus of Florence,Q773822,Q1787
+"Theobaldus, de Santo Wandalino",scribe,,,human,Theobaldus de Santo Wandalino,Q131623206,DSNAME7178,Q67424,,,,
+"Geoffrey, of Vinsauf, active 1200",author,,,human,Geoffrey of Vinsauf,Q1491994,DSNAME4280,Q40725,,,,
+"Franciscus, de Mayronis, approximately 1285-approximately 1328",author,,,human,Francis of Mayrone,Q1995114,DSNAME4236,Q40681,,,,
+"Bruni, Leonardo, 1369-1444",author,,,,,,,,human,Leonardo Bruni,Q314488,Q1924
+"Olschki, Leo S. 1861-1940",former owner,,,,,,,,human,Leo Olschki,Q15051199,Q3215
+"Malgarius, Johannes, de Parma",scribe,,,human,Johannes Malgarius de Parma,Q131623207,DSNAME7179,Q67425,,,,
+"Hagen, Johannes, 1415-1475",author,,,human,Johannes ab Indagine,Q4202497,DSNAME7315,Q67561,,,,
+"Kartäuserkirche St. Salvatorberg (Erfurt, Germany)",former owner,,,organization,Kartause Erfurt,Q1734672,DSNAME2550,Q17758,,,,
+"Ptolemy, active 2nd century",author,,,,,,,,human,Ptolemy,Q34943,Q478
+"Mercier, Michel, active 16th century",author,,,human,Michel Mercier,Q131623208,DSNAME7180,Q67426,,,,
+"Margaret, of Croy, active 1450",former owner,,,human,Margaret of Croy,Q131623209,DSNAME7181,Q67427,,,,
+"Mote, Juan de la, active 1615",scribe,,,human,Juan de la Mote,Q131623210,DSNAME7182,Q67428,,,,
+"Wolfman, Wm",former owner,,,,,,,,,,,
+"Froissart, Jean, 1338?-1410",author,,,,,,,,human,Jean Froissart,Q315000,Q40691
+"Caulier, Johannis",scribe,,,human,Johannis Caulier,Q131623211,DSNAME7183,Q67429,,,,
+"Hamme, Guilielmus van, active 1659",former owner,,,human,Guilielmus van Hamme,Q131623212,DSNAME7184,Q67430,,,,
+"Schenckenberg, Mattaeus",author,,,human,Mattaeus Schenckenberg,Q131623213,DSNAME7185,Q67431,,,,
+"Jeidels, Jul. H",former owner,,,human,Julius Heinrich Jeidels,Q95007636,DSNAME7316,Q67562,,,,
+"Gregoras, Nicephorus, 1295-1359 or 1360",author,,,human,Nicephorus Gregoras,Q372109,DSNAME4896,Q41341,,,,
+"Barbaro, Ermolao, 1454-1493",former owner,,,human,Ermolao Barbaro,Q1236821,DSNAME7317,Q67563,,,,
+"San Gregorio al Celio (Abbey : Rome, Italy)",former owner,,,organization,Monastery at San Gregorio al Celio,Q124080195,DSNAME7427,Q67673,,,,
+San Michele di Murano (Abbey : Italy),former owner,,,organization,San Michele in Isola,Q1449262,DSNAME7428,Q67674,,,,
+"Carrier, Gertrude Lueneburg, 1902-1991",former owner,,,human,Gertrude Lueneburg Carrier,Q131575325,DSNAME7318,Q67564,,,,
+"Moses ben Jacob, of Coucy, active 13th century",author,"משה בן יעקב, מקוצי",,human,Moses ben Jacob of Coucy,Q2916539,DSNAME5784,Q42257,,,,
+"Bon, Simon de",author,,,human,Simon de Bon,Q131623214,DSNAME7186,Q67432,,,,
+"Tyrel, Guillaume",author,,,human,Guillaume Tyrel,Q131623215,DSNAME7187,Q67433,,,,
+"Canu, Simon",author,,,human,Simon Canu,Q131623216,DSNAME7188,Q67434,,,,
+"Chaunicourt, Louis",author,,,human,Louis Chaunicourt,Q131623217,DSNAME7189,Q67435,,,,
+"Dorman, Rushton M",former owner,,http://id.loc.gov/authorities/names/n86849021,,,,,,human,Rushton Mather Dorman,Q21523430,Q40551
+"Ives, Brayton, 1840-1914",former owner,,http://id.loc.gov/authorities/names/n84001824,,,,,,human,Brayton C. Ives,Q4958571,Q40963
+"Johannes, von Freiburg, -1314",author,,,human,Johannes von Freiburg,Q41616538,DSNAME4570,Q41015,,,,
+"Bonaparte, Louis-Lucien, prince, 1813-1891",former owner,,,human,Louis Lucien Bonaparte,Q523352,DSNAME7319,Q67565,,,,
+"Valle, Andrea della, 1463-1534",former owner,,,human,Andrea della Valle,Q1772040,DSNAME7320,Q67566,,,,
+"Simone, Camaldolese, active 1378-1405",illuminator,,,human,Don Simone Camaldolese,Q19569567,DSNAME7321,Q67567,,,,
+"Medici, Lorenzo de', 1449-1492",author,,,human,Lorenzo de' Medici,Q177854,DSNAME4702,Q41147,,,,
+"Schweigger, Emanuel, 1583-1627",author,,,human,Emanuel Schweigger,Q55846597,DSNAME7322,Q67568,,,,
+"Soranzo, Giacomo, 1686-1761",former owner,,,,,,,,human,Giacomo Soranzo,Q110215161,Q7597
+"Sneyd, Walter, 1809-1888",former owner,,http://id.loc.gov/authorities/names/n90636281,,,,,,human,Walter Sneyd,Q62619661,Q891
+"Canonici, Matteo Luigi, 1727-1805",former owner,,,,,,,,human,Matteo Luigi Canonici,Q55226394,Q890
+"Bouton, N. S. 1828-1908",former owner,,,human,Nathaniel Sherman Bouton,Q131575337,DSNAME7323,Q67569,,,,
+"Gemistus Plethon, George, active 15th century",author,,,human,Gemistus Pletho,Q220313,DSNAME7324,Q67570,,,,
+"Villana, Eugenia",scribe,,,human,Eugenia Villana,Q131623219,DSNAME7190,Q67436,,,,
+"McCagg, E. B. 1825-1908",former owner,,,human,Ezra Butler McCagg,Q131575378,DSNAME7325,Q67571,,,,
+"Fabriforites, Geraldus",scribe,,,human,Geraldus Fabriforites,Q131623220,DSNAME7191,Q67437,,,,
+Franciscans,author,,http://id.loc.gov/authorities/names/n79015671,,,,,,organization,Franciscans,Q165005,Q8104
+"Ficino, Marsilio, 1433-1499",author,,,human,Marsilio Ficino,Q192374,DSNAME7326,Q67572,,,,
+"Caroldo, Gian Giacomo, -1538",author,,,human,Giovanni Giacomo Caroldo,Q59630395,DSNAME7327,Q67573,,,,
+"Phillipps, Thomas, Sir, 1792-1872",former owner,,http://id.loc.gov/authorities/names/n50078542,,,,,,human,Thomas Phillipps,Q2147709,Q385
+Catholic Church. Cancellaria Apostolica,author,,,organization,Chancery of Apostolic Briefs,Q1443420,DSNAME7429,Q67675,,,,
+Castile (Kingdom). Sovereign,author,,,organization,Kingdom of Castile,Q179293,DSNAME5932,Q42624,,,,
+"Castilla, Francisco Fernandes de",author,,,human,Francisco Fernandes de Castilla,Q131623221,DSNAME7192,Q67438,,,,
+Catholic Church. Pope (1513-1521 : Leo X),author,,,,,,,,organization;human,Catholic Church;Leo X,Q9592;Q49237,Q425;Q3831
+"Catholic Church. Pope, 1523-1534 (Clemens VII)",author,,,organization;human,Catholic Church;Clement VII,Q9592;Q83159,DSNAME152;DSNAME994,Q425;Q4359,,,,
+"Cellini, Benvenuto, 1500-1571",author,,,human,Benvenuto Cellini,Q190116,DSNAME7328,Q67574,,,,
+"Ricketts, C. L. 1859-1941",former owner,,,,,,,,human,Coella Lindsay Ricketts,Q116771179,Q1527
+"Morison, Stanley, 1889-1967",former owner,,,,,,,,human,Stanley Morison,Q384501,Q41286
+"Castelvetro, Lodovico, 1505-1571",author,,,human,Lodovico Castelvetro,Q936665,DSNAME7329,Q67575,,,,
+"Clement VIII, Pope, 1536-1605",author,,,human,Clement VIII,Q170395,DSNAME3969,Q40414,,,,
+"Belcari, Feo, 1410-1484",author,,,human,Feo Belcari,Q3068447,DSNAME7330,Q67576,,,,
+"Anglia, G. de",scribe,,,human,G. de Anglia,Q131623222,DSNAME7193,Q67439,,,,
+Stift Admont,former owner,,,,,,,,organization,Admont Abbey,Q667615,Q7596
+"Roselli, Petrus, active 1446-1468",author,,,human,Pere Rossell,Q11941047,DSNAME7331,Q67577,,,,
+"Millo, Antonio",author,,,human,Antonio Millo,Q4776802,DSNAME7332,Q67578,,,,
+"Dati, Gregorio, 1362-1436",author,,,,,,,,human,Gregorio Dati,Q3776498,Q6123
+"Oliva, Domenico, active 1568",author,,,human,Domenico Oliva,Q131623223,DSNAME7194,Q67440,,,,
+"Tatton, Gabriel",author,,,human,Gabriel Tatton,Q131623224,DSNAME7195,Q67441,,,,
+"Corte, Carlo da, fl. 1592",author,,,human,Carlo da Corte,Q131623225,DSNAME7196,Q67442,,,,
+"Volcius, Vicentius Demetrius, fl. 1563-1607",author,,,human,Vicentius Demetrius Volcius,Q131623226,DSNAME7197,Q67443,,,,
+"Giroldi, Giacomo, active 1422-1452",author,,,human,Giacomo Giroldi,Q131623227,DSNAME7198,Q67444,,,,
+"Martines, Joan, 1556-1590",author,,http://id.loc.gov/authorities/names/n99033530,,,,,,human,Joan Martines,Q18814556,Q41212
+"Freducci, Conte di Ottomano, active 1497-1539",author,,,human,Conte di Ottomano Freducci,Q93854707,DSNAME7333,Q67579,,,,
+"Oliva, Joannes, active 1589-1650",author,,http://id.loc.gov/authorities/names/n82014057,,,,,,human,Joannes Oliva,Q112428342,Q40996
+"Agnese, Battista, active 16th century",author,,,,,,,,human,Battista Agnese,Q612967,Q2838
+"Lopes, Sebastião",author,,,human,Sebastião Lopes,Q53503833,DSNAME7334,Q67580,,,,
+"Pinto, Manoel S., active 1705",former owner,,,human,Manoel S. Pinto,Q131623228,DSNAME7199,Q67445,,,,
+"Ponte, Lorenzo Antonio da",former owner,,,human,Lorenzo Antonio da Ponte,Q131623229,DSNAME7200,Q67446,,,,
+"Cooke, Robert, -1592",author,,http://id.loc.gov/authorities/names/no89014196,,,,,,human,Robert Cooke,Q116074334,Q4440
+"Fisher, Otto Orren",former owner,,,,,,,,human,Otto Orren Fisher,Q116326593,Q8429
+"Sneyd, Walter",former owner,,,,,,,,human,Walter Sneyd,Q62619661,Q891
+"Dolet, Etienne, 1509-1546",author,,,human,Étienne Dolet,Q1248100,DSNAME7335,Q67581,,,,
+"Jacobus, de Cessolis, active 1288-1322",author,,,,,,,,human,Jacobus de Cessolis,Q969459,Q40919
+"Diogenes, -approximately 323 B.C",author,,,human,Diogenes of Sinope,Q59180,DSNAME4093,Q40538,,,,
+"Cinico, Giovan Marco, approximately 1430-approximately 1503",scribe,,,human,Giovan Marco Cinico,Q3766135,DSNAME7336,Q67582,,,,
+"Pseudo-Dionysius, of Halicarnassus, active 2nd century",author,,,human,Pseudo-Dionysius of Halicarnassus,Q104729085,DSNAME7337,Q67583,,,,
+"Duru, Guillaume, active 1448",author,,,human,Guillaume Duru,Q131623230,DSNAME7201,Q67447,,,,
+"Ferdinando II, Grand-Duke of Tuscany, 1610-1670",author,,,human,Ferdinando II de' Medici,Q314558,DSNAME7338,Q67584,,,,
+"Fliscus, Stephanus",author,,,human,Stefano Fieschi,Q9345558,DSNAME7339,Q67585,,,,
+"Mafeus, Jacobus, active 1463",scribe,,,human,Jacobus Mafeus,Q131623231,DSNAME7202,Q67448,,,,
+"Libri, Matteo dei, 1214-1275",author,,,human,Matteo dei Libri,Q21208646,DSNAME7340,Q67586,,,,
+Çucherus,scribe,,,human,Çucherus,Q131623232,DSNAME7203,Q67449,,,,
+"Fountains Abbey (North Yorkshire, England)",author,,,organization,Fountains Abbey,Q540237,DSNAME7430,Q67676,,,,
+"George, of Trebizond, 1396-1486",author,,,human,George of Trebizond,Q533514,DSNAME4284,Q40729,,,,
+"Gherinx, Johannes",author,,,human,Johannes Gherinx,Q131623233,DSNAME7204,Q67450,,,,
+"Pius II, Pope, 1405-1464",author,,,,,,,,human,Pius II,Q101437,Q894
+"Bracciolini, Poggio, 1380-1459",author,,,,,,,,human,Poggio Bracciolini,Q318254,Q40332
+"Innocent III, Pope, 1160 or 1161-1216",author,,,,,,,,human,Innocent III,Q128076,Q1933
+"Vegio, Maffeo, 1406 or 1407-1458",author,,http://id.loc.gov/authorities/names/n79108873,,,,,,human,Maffeo Vegio,Q1372875,Q7871
+"Crivelli, Joannes de",author,,,human,Joannes de Crivelli,Q131623234,DSNAME7205,Q67451,,,,
+"Lombard-Gourdon, Louis de",author,,,human,Louis de Lombard-Gourdon,Q131623235,DSNAME7206,Q67452,,,,
+"Guilelmus Peraldus, approximately 1190-1271",author,,,,,,,,human,William Perault,Q8016774,Q5152
+"Gower, John, 1325?-1408",author,,http://id.loc.gov/authorities/names/n81039793 http://id.loc.gov/authorities/names/n81039793 http://viaf.org/viaf/sourceID/LC%7cn81039793,,,,,,human,John Gower,Q365133,Q12812
+"Donatus, Aelius",author,,,,,,,,human,Aelius Donatus,Q247137,Q40548
+"Mathei, Johannes Petrus",scribe,,,human,Johannes Petrus Mathei,Q131623236,DSNAME7207,Q67453,,,,
+"Perrins, Charles William Dyson, 1864-1958",former owner,,,,,,,,human,Charles William Dyson Perrins,Q5083550,Q1792
+"Higden, Ranulf, -1364",author,,,,,,,,human,Ranulf Higden,Q770348,Q40883
+"Ginori Conti, Piero, 1865-1939",former owner,,http://id.loc.gov/authorities/names/n87132030,,,,,,human,Piero Ginori Conti,Q3903260,Q3165
+"Fróis, Luís, -1597",author,,,human,Luís Fróis,Q553687,DSNAME7341,Q67587,,,,
+"Adam de Wesalia, active 1456",scribe,,,human,Adam de Wesalia,Q131623237,DSNAME7208,Q67454,,,,
+"Ashburnham, Bertram Ashburnham, Earl of, 1797-1878",former owner,,http://id.loc.gov/authorities/names/n82255127,,,,,,human,"Bertram Ashburnham, 4th Earl of Ashburnham",Q21855104,Q1565
+"Barrois, Joseph, approximately 1785-1855",former owner,,,,,,,,human,Joseph Barrois,Q97783947,Q1564
+"Gianfilippi, Paolino, 1745-1827",former owner,,,human,Paolino Gianfilippi,Q120753019,DSNAME7342,Q67588,,,,
+"Hórn, Bartholomaeus",author,,,human,Bartholomaeus Hórn,Q131623238,DSNAME7209,Q67455,,,,
+"Gryphius, Antonius, 1527-1599",author,,,human,Antonius Gryphius,Q59531623,DSNAME7343,Q67589,,,,
+"Hodson, Lawrence W",former owner,,,,,,,,human,Laurence William Hodson,Q116378155,Q1583
+"Abbazia di Santa Giustina (Padua, Italy)",former owner,,,organization,Abbey of Santa Giustina,Q219502,DSNAME635,Q1870,,,,
+"Rosenthal, Jacques, 1854-1937",former owner,,,,,,,,human,Jacques Rosenthal,Q1293460,Q20129
+"Rosenthal, Bernard M",former owner,,,,,,,,human,Bernard M. Rosenthal,Q94805275,Q1130
+"Saint-Pierre (Abbey : Moissac, Tarn-et-Garonne, France)",former owner,,,organization,Moissac Abbey,Q334208,DSNAME7431,Q67677,,,,
+Holy Roman Empire. Emperor (1556-1564 : Ferdinand I),author,,,organization;human,"Holy Roman Empire;Ferdinand I, Holy Roman Emperor",Q12548;Q150611,DSNAME5547;DSNAME5924,Q41992;Q42616,,,,
+Holy Roman Empire. Emperor (1619-1637 : Ferdinand II),author,,,organization;human,"Holy Roman Empire;Ferdinand II, Holy Roman Emperor",Q12548;Q150599,DSNAME5547;DSNAME7459,Q41992;Q67705,,,,
+Holy Roman Empire. Emperor (1658-1705 : Leopold I),author,,,organization;human,"Holy Roman Empire;Leopold I, Holy Roman Emperor",Q12548;Q150494,DSNAME5547;DSNAME7463,Q41992;Q67709,,,,
+"Lancenberg, Petronia",author,,,human,Petronia Lancenberg,Q131623239,DSNAME7210,Q67456,,,,
+"Lange, Peter, approximately 1550-",author,,,human,Peter Lange,Q131623240,DSNAME7211,Q67457,,,,
+"Langlois, Nicholas, active 1574",author,,,human,Nicholas Langlois,Q131623241,DSNAME7212,Q67458,,,,
+"Conolly, Thomas, 1856-1945",former owner,,,human,Thomas Conolly,Q131623242,DSNAME7213,Q67459,,,,
+"Laing, David, 1793-1878",former owner,,,human,David Laing,Q5236288,DSNAME7344,Q67590,,,,
+"Legrand, Jacques, approximately 1365-1415",author,,,,,,,,human,Jacques Legrand,Q56320064,Q6151
+"Bonsignori, Giovanni",author,,,human,Giovanni Bonsignori,Q6999213,DSNAME7345,Q67591,,,,
+"Niccolini, G. B. 1782-1861",former owner,,,human,Giovanni Battista Niccolini,Q1010628,DSNAME7346,Q67592,,,,
+"Peckover, Alexander, 1830-1919",former owner,,,human,"Alexander Peckover, 1st Baron Peckover",Q4719820,DSNAME7347,Q67593,,,,
+"Serrigny, Bernard, 1870-1954",former owner,,,human,Bernard Serrigny,Q2898607,DSNAME7348,Q67594,,,,
+"Lucan, 39-65",author,,,,,,,,human,Lucan,Q188646,Q41156
+"Bernardi, Antonio, 1502-1565",author,,,human,Antonio Bernardi,Q3619255,DSNAME7349,Q67595,,,,
+"Giles, of Rome, Archbishop of Bourges, approximately 1243-1316",author,,,,,,,,human,Giles of Rome,Q380647,Q40080
+Saint-Martin de Plaimpied (Augustinian Monastery),author,,,organization,Abbaye Saint-Martin de Plaimpied,Q23304128,DSNAME7432,Q67678,,,,
+"Nicolas, de Gorran, approximately 1210-1295",author,,,human,Nicholas of Gorran,Q3340931,DSNAME695,Q1930,,,,
+"Nicolaus, von Grätz",author,,,human,Nicolaus von Grätz,Q131623243,DSNAME7214,Q67460,,,,
+"Johannes, Diaconus, 9th cent",author,,,human,Johannes Hymmonides,Q1303874,DSNAME7350,Q67596,,,,
+Abbaye-aux-Bois,author,,,organization,Abbaye-aux-Bois,Q306107,DSNAME7433,Q67679,,,,
+"Poquet, Pierre",author,,,human,Pierre Poquet,Q120599149,DSNAME7351,Q67597,,,,
+"Berthou, Paul de, 1859-",former owner,,,human,Paul de Berthou,Q34945243,DSNAME7352,Q67598,,,,
+"Ortel, Sigmund",former owner,,,human,Sigmund Ortel,Q131623244,DSNAME7215,Q67461,,,,
+"Pierre, de Luxembourg",author,,,human,Pierre de Luxembourg,Q481358,DSNAME7353,Q67599,,,,
+"Chaimis, Bartholomaeus de, -1496",author,,,human,Bartolomeo Caimi,Q55226197,DSNAME3781,Q40226,,,,
+"Lydgate, John, 1370?-1451",author,,,,,,,,human,John Lydgate,Q662063,Q16506
+"Mameranus, Nikolaus, 1500-approximately 1567",author,,,human,Nicolaus Mameranus,Q13653315,DSNAME7354,Q67600,,,,
+Mantiga family,author,,,,,,,,,,,
+"Manfredi, Girolamo, -1598",author,,,human,Girolamo Manfredi,Q21543522,DSNAME7355,Q67601,,,,
+"Mateusz, z Krakowa, Cardinal, approximately 1330-1410",author,,,,,,,,human,Matthew of Kraków,Q553218,Q41231
+"Madden, John Patrick Auguste, 1808-1889",former owner,,,human,John Patrick Auguste Madden,Q51024028,DSNAME7356,Q67602,,,,
+"Michael, Benedictine monk",author,,,,,,,,,,,
+"Michel, Wolf",author,,,human,Wolf Michel,Q131623245,DSNAME7216,Q67462,,,,
+"Hoccleve, Thomas, 1370?-1450",author,,http://id.loc.gov/authorities/names/n82125108,,,,,,human,Thomas Hoccleve,Q1227741,Q40893
+"Merton, Wilfred, 1888-1957",former owner,,,human,Wilfred Merton,Q113810315,DSNAME4809,Q41254,,,,
+"Amherst, William Amhurst Tyssen, 1835-1909",former owner,,,human,"William Tyssen-Amherst, 1st Baron Amherst of Hackney",Q333839,DSNAME2973,Q20284,,,,
+"Constable, William, -1888",former owner,,,human,William Constable,Q131623246,DSNAME7217,Q67463,,,,
+"Mobray, John de, 8th Baron Mowbray, 1286-1322",author,,,human,"John de Mowbray, 2nd Baron Mowbray",Q6265599,DSNAME7357,Q67603,,,,
+"Neudörffer, Johann, 1543-1581",author,,,human,Johann Neudörffer the Younger,Q53679411,DSNAME7358,Q67604,,,,
+"Fastolf Master, active 1420-1460",illuminator,,,,,,,,human,Fastolf Master,Q19955782,Q20519
+"Brölemann, A",former owner,,,,,,,,human,Arthur Brölemann,Q116785153,Q1622
+"Hailstone, Edward, 1818-1890",former owner,,,human,Edward Hailstone,Q18671038,DSNAME7359,Q67605,,,,
+"Sint-Michielskerk (Ghent, Belgium)",former owner,,,organization,"Saint Michael's Church, Ghent",Q1317676,DSNAME7434,Q67680,,,,
+Caxton Club,former owner,,,organization,Caxton Club,Q5055264,DSNAME7435,Q67681,,,,
+"Ebron zu Wildenberg, Joannes Hainricus, -1606",former owner,,,human,Joannes Hainricus Ebron zu Wildenberg,Q131623247,DSNAME7218,Q67464,,,,
+"Christophorus, de Stinglhaim",former owner,,,human,Christophorus de Stinglhaim,Q131623248,DSNAME7219,Q67465,,,,
+"Northampton, Henry Howard, Earl of, 1540-1614",author,,,,,,,,human,"Henry Howard, 1st Earl of Northampton",Q2697631,Q41347
+"Cock, Alfred, 1849-1898",former owner,,,human,Alfred Cock,Q120752902,DSNAME7360,Q67606,,,,
+"Ferrici, Petrus, -1478",former owner,,,human,Pedro Ferris,Q1772296,DSNAME7361,Q67607,,,,
+"Chandon de Briailles, Raoul, 1850-1908",former owner,,,,,,,,human,Raoul Chandon de Briailles,Q123274738,Q16599
+"Augustine, of Hippo, Saint, 354-430",author,,,,,,,,human,Augustine of Hippo,Q8018,Q1515
+"Bonaventure, Saint, Cardinal, approximately 1217-1274",author,,,,,,,,human,Bonaventure,Q43746,Q1935
+"Haymo, of Faversham, -1244",author,,,human,Haymo of Faversham,Q1221730,DSNAME7362,Q67608,,,,
+"Paiva, Pedro de",author,,,human,Pedro de Paiva,Q131623249,DSNAME7220,Q67466,,,,
+"Orsucci, Bernardino",author,,,human,Bernardino Orsucci,Q131623250,DSNAME7221,Q67467,,,,
+"Silva, Ercole, 1756-1840",former owner,,,,,,,,human,Ercole Silva,Q3731214,Q16631
+"Petrus, Comestor, active 12th century",author,,http://viaf.org/viaf/40175167,,,,,,human,Petrus Comestor,Q785250,Q1586
+"Bernard, of Clairvaux, Saint, 1090 or 1091-1153",author,,http://viaf.org/viaf/59875293,,,,,,human,Bernard of Clairvaux,Q188411,Q10865
+"Geoffroy, Babion, 1103?-1158",author,,,human,Geoffroy du Louroux,Q52554321,DSNAME3760,Q40205,,,,
+"Geoffroy, de Saint Thierry",author,,,human,Geoffroy de Saint Thierry,Q131623251,DSNAME7222,Q67468,,,,
+"Hilduin, of St. Denis, approximately 775-approximately 855",author,,,human,Hilduin,Q734885,DSNAME7363,Q67609,,,,
+"Maurice, of Sully, Bishop of Paris, approximately 1120-1196",author,,,human,Maurice de Sully,Q727818,DSNAME7364,Q67610,,,,
+"Richard, of St. Victor, -1173",author,,,,,,,,human,Richard of Saint Victor,Q1344799,Q20084
+"Peter, of Poitiers, approximately 1130-1205",author,,,,,,,,human,Peter of Poitiers,Q3387668,Q6147
+Orthodox Eastern Church,author,,http://id.loc.gov/authorities/names/n50000556,,,,,,organization,Eastern Orthodox Church,Q35032,Q4406
+"Bracciolini, Jacopo, 1441-1478",author,,,human,Iacopo Bracciolini,Q18945522,DSNAME7365,Q67611,,,,
+"Villanis, Bassianus de, active 1480",scribe,,,human,Bassianus de Villanis,Q131623252,DSNAME7223,Q67469,,,,
+Portugal,author,,,organization,Portugal,Q45,DSNAME7436,Q67682,,,,
+"Polentone, Sicco, active 14th century-15th century",author,,,human,Sicco Polenton,Q3960051,DSNAME5221,Q41666,,,,
+"Drury, Henry, 1778-1841",former owner,,,,,,,,human,Henry Drury,Q5720478,Q7282
+"Mendonça, Lope Hurtado de",author,,,human,Lope Hurtado de Mendonça,Q131623253,DSNAME7224,Q67470,,,,
+"Ogier, of Locedio, Abbot of Locedio, -1214",author,,,human,"Oglerio di Lucedio",Q3881214,DSNAME3081,Q27870,,,,
+"Salando, Francescomaria",author,,,human,Francescomaria Salando,Q131623255,DSNAME7225,Q67471,,,,
+"Filelfo, Francesco, 1398-1481",author,,,human,Francesco Filelfo,Q4622,DSNAME4203,Q40648,,,,
+"Salutati, Coluccio, 1331-1406",author,,,,,,,,human,Coluccio Salutati,Q93113,Q40456
+"Scherdinger, Melchior",author,,,human,Melchior Scherdinger,Q131623256,DSNAME7226,Q67472,,,,
+"Scottowe, John, -1607",author,,,human,John Scottowe,Q120752975,DSNAME7366,Q67612,,,,
+"Schiller, Sebastian, of Nuremberg",author,,,human,Sebastian Schiller of Nuremberg,Q131623257,DSNAME7227,Q67473,,,,
+"Saher, Hanns von, active 16th century",author,,,human,Hanns von Saher,Q131623258,DSNAME7228,Q67474,,,,
+"Simon, ""marchant parcheminier""",author,,,,,,,,,,,
+"Simon, de Lenis, active 1281-1295",author,,,human,Simon de Lenis,Q131623260,DSNAME7229,Q67475,,,,
+Henricus de Ratisbona,author,,,human,Henricus de Ratisbona,Q131623261,DSNAME7230,Q67476,,,,
+Garsten Abbey,former owner,,,organization,Garsten Abbey,Q2348599,DSNAME7437,Q67683,,,,
+"Stamler, Peter, active 1570",author,,,human,Peter Stamler,Q131623262,DSNAME7231,Q67477,,,,
+Spain. Consejo de Estado,author,,,organization,Spanish Council of State,Q21547736,DSNAME7438,Q67684,,,,
+"Strobell, Adam",author,,,human,Adam Strobell,Q131623263,DSNAME7232,Q67478,,,,
+Mucius Venetus,author,,,human,Mucius Venetus,Q131623264,DSNAME7233,Q67479,,,,
+"Philip, Duke of Burgundy, 1396-1467",former owner,,,human,Philip III the Good,Q239337,DSNAME7367,Q67613,,,,
+"Holford, Robert Stayner, 1808-1892",former owner,,,human,Robert Stayner Holford,Q7350013,DSNAME7368,Q67614,,,,
+"Holford, George Lindsay, 1860-1926",former owner,,,human,Sir George Holford,Q7526894,DSNAME7369,Q67615,,,,
+"Rosenbach, A. S. W. 1876-1952",former owner,,,human,A. S. W. Rosenbach,Q3663160,DSNAME2769,Q20090,,,,
+"Valentia, Ludovicus, de Ferraria, -1496",author,,,human,Ludovicus Valentia de Ferraria,Q131623265,DSNAME7234,Q67480,,,,
+"Cestole, Henry",former owner,,,human,Henry Cestole,Q131623266,DSNAME7235,Q67481,,,,
+"Varientius, Gulielmus",author,,,human,Gulielmus Varientius,Q131623267,DSNAME7236,Q67482,,,,
+"Valla, Lorenzo, 1407-1457",author,,,,,,,,human,Lorenzo Valla,Q214115,Q41149
+"Russo, Giovanni Francesco",author,,,human,Giovanni Francesco Russo,Q131623268,DSNAME7237,Q67483,,,,
+"Vives, Juan Luis, 1492-1540",author,,,human,Juan Luis Vives,Q316357,DSNAME7370,Q67616,,,,
+"Hamill, Alfred E. 1884-1953",former owner,,,human,Alfred E. Hamill,Q131575381,DSNAME7371,Q67617,,,,
+"Vaz, Fernan",author,,,human,Fernan Vaz,Q131623269,DSNAME7238,Q67484,,,,
+Catholic Church. Pope (1592-1605 : Clement VIII),author,,,,,,,,organization;human,Catholic Church;Clement VIII,Q9592;Q170395,Q425;Q40414
+William Bishop of Achaden,author,,,human,William Bishop of Achaden,Q131623270,DSNAME7239,Q67485,,,,
+"Wimpheling, Jakob, 1450-1528",author,,,human,Jakob Wimpfeling,Q71848,DSNAME7372,Q67618,,,,
+Virgil,author,,http://id.loc.gov/authorities/names/n79014062,,,,,,human,Virgil,Q1398,Q6128
+"Askew, Anthony, 1722-1774",former owner,,,,,,,,human,Anthony Askew,Q4772033,Q40189
+"Shuckburgh-Evelyn, George Augustus William, Sir, 1751-1804",former owner,,,human,George Shuckburgh-Evelyn,Q3300195,DSNAME7373,Q67619,,,,
+"Bondi, Johannes",author,,,human,Giovanni Bóndi,Q125500784,DSNAME7374,Q67620,,,,
+Languedoc (France). États généraux,author,,,organization,Estates of Languedoc,Q3591894,DSNAME7439,Q67685,,,,
+"Hodson, Laurence W",former owner,,,,,,,,human,Laurence William Hodson,Q116378155,Q1583
+"Walker, Fountaine",former owner,,,human,Fountaine Walker,Q75409799,DSNAME7375,Q67621,,,,
+"Bishop, Cortlandt F. 1870-1935",former owner,,http://id.loc.gov/authorities/names/n85239145,,,,,,human,Cortlandt F. Bishop,Q5173352,Q1631
+"Perkins, Oliver Henry, -1912",former owner,,,,,,,,human,Oliver Henry Perkins,Q114242410,Q18639
+"Rigaux, Hector, abbé",former owner,,,human,Hector Rigaux,Q11289847,DSNAME7376,Q67622,,,,
+"Malian, Jean de",author,,,human,Jean de Malian,Q131623271,DSNAME7240,Q67486,,,,
+"Ravizi, Giovanni",author,,,human,Giovanni Ravizi,Q131623273,DSNAME7241,Q67487,,,,
+"Velasco, Luis de",author,,,human,Luis Velasco,Q68912324,DSNAME7377,Q67623,,,,
+"Raumburger, Andreas",author,,,human,Andreas Raumburger,Q125490311,DSNAME7378,Q67624,,,,
+Martial,author,,,,,,,,human,Martial,Q2098,Q6136
+"Rooryck, André, 1923-2010",former owner,,,human,André Rooryck,Q116573665,DSNAME1145,Q3743,,,,
+"Pappus, of Alexandria",author,,,human,Pappus of Alexandria,Q211783,DSNAME7379,Q67625,,,,
+"Clarke, Adam, approximately 1762-1832",former owner,,,,,,,,human,Adam Clarke,Q3292302,Q3778
+Lane Theological Seminary,former owner,,,organization,Lane Theological Seminary,Q6485448,DSNAME7440,Q67686,,,,
+"Messalla Corvinus, Marcus Valerius, 64 B.C.-approximately 8 A.D",author,,,human,Marcus Valerius Messalla Corvinus,Q508117,DSNAME7380,Q67626,,,,
+"Barbaro, Francesco, 1390-1454",author,,,,,,,,human,Francesco Barbaro,Q712032,Q16515
+"Lucian, of Samosata",author,,,,,,,,human,Lucian of Samosata,Q177847,Q41157
+"Marcello, Pietro",author,,,human,Pietro Marcello,Q131623274,DSNAME7242,Q67488,,,,
+Pseudo-Cicero,author,,,,,,,,human,Pseudo-Cicero,Q67405713,Q854
+Xenophon,author,,,,,,,,human,Xenophon,Q129772,Q6097
+"Gonstone, William",former owner,,,human,William Gonstone,Q131623275,DSNAME7243,Q67489,,,,
+"Mildmay, Thomas",former owner,,,human,Thomas Mildmay,Q131623276,DSNAME7244,Q67490,,,,
+"Olivi, Pierre Jean, 1248 or 1249-1298",author,,,human,Peter Olivi,Q326307,DSNAME7381,Q67627,,,,
+Hispanic Society of America,former owner,,,organization,Hispanic Society of America,Q2420849,DSNAME7441,Q67687,,,,
+"Convento di San Domenico (Gaeta, Italy)",former owner,,,organization,Convent of San Domenico,Q123268776,DSNAME7442,Q67688,,,,
+"Anne, of Brittany, Queen, consort of Louis XII, King of France, 1476-1514",former owner,,,,,,,,human,Anne of Brittany,Q201143,Q1865
+"Presbyterian Theological Seminary, Chicago",former owner,,,organization,McCormick Theological Seminary,Q6800587,DSNAME7443,Q67689,,,,
+"Heinrich, von Friemar, approximately 1245-1340",author,,http://id.loc.gov/authorities/names/nr96016959,,,,,,human,Heinrich von Friemar,Q1306304,Q4431
+"Koenig, Harry C. 1909-2002",former owner,,,human,Harry C. Koenig,Q131575384,DSNAME7382,Q67628,,,,
+Catholic Church. Pope (1316-1334 : John XXII),author,,,organization;human,Catholic Church;John XXII,Q9592;Q165568,DSNAME152;DSNAME2824,Q425;Q20142,,,,
+"Williams, Robert, 1936-",former owner,,,human,Robert Williams,Q131623277,DSNAME7245,Q67491,,,,
+"Brown, Howard Mayer",former owner,,,human,Howard Mayer Brown,Q3787230,DSNAME7383,Q67629,,,,
+"Le Febvre, Matthieu",author,,,human,Matthieu Le Febvre,Q131623278,DSNAME7246,Q67492,,,,
+"Baskin, Leonard, 1922-2000",former owner,,,human,Leonard Baskin,Q2601617,DSNAME7384,Q67630,,,,
+"Baskin, Lisa Unger",former owner,,,human,Lisa Unger Baskin,Q131623279,DSNAME7247,Q67493,,,,
+"Fownes, T",former owner,,,human,T. Fownes,Q131623280,DSNAME7248,Q67494,,,,
+"Reading Abbey (Reading, England)",former owner,,,organization,Reading Abbey,Q2482838,DSNAME7444,Q67690,,,,
+Terence,author,,,,,,,,human,Terence,Q172048,Q1944
+"Huth, Henry, 1815-1878",former owner,,http://id.loc.gov/authorities/names/n83139105,,,,,,human,Henry Huth,Q15438897,Q12913
+Bibliothèque royale de Belgique,former owner,,,organization,Royal Library of Belgium,Q383931,DSNAME7445,Q67691,,,,
+"Schwarz, Christian Gottlieb, 1675-1751",former owner,,,human,Christian Gottlieb Schwarz,Q21544002,DSNAME7385,Q67631,,,,
+"Julianus, Saint, Bishop of Toledo, -690",author,,,human,Julian of Toledo,Q722563,DSNAME7386,Q67632,,,,
+"Isidore, of Seville, Saint, -636",author,,http://id.loc.gov/authorities/names/n80139470,,,,,,human,Isidore of Seville,Q166876,Q428
+Benediktinerstift Lambach,former owner,,http://id.loc.gov/authorities/names/n91000117,,,,,,organization,Lambach Abbey,Q315889,Q2853
+Abtei Eberbach,former owner,,,organization,Eberbach Abbey,Q697766,DSNAME7446,Q67692,,,,
+Vyšší Brod (Monastery),former owner,,,,,,,,organization,Vyšší Brod Cistercian Abbey,Q675724,Q12804
+Stift Admont. Bibliothek,former owner,,,,,,,,organization,Admont Abbey Library,Q304668,Q16695
+"Boethius, -524",author,,,,,,,,human,Boethius,Q102851,Q398
+Stift Hamersleben,former owner,,,organization,Stift Hamersleben,Q131623281,DSNAME7447,Q67693,,,,
+"Bowen, James, active 1748",former owner,,,human,"James Bowen",Q6130042,DSNAME7249,Q67495,,,,
+"Levera, Domenico, 1737-1817",former owner,,,human,Domenico Levera,Q131623282,DSNAME7250,Q67496,,,,
+"Peter Lombard, Bishop of Paris, approximately 1100-1160",author,,,,,,,,human,Peter Lombard,Q315347,Q1124
+"Neve, Timothy, 1694-1757",former owner,,,human,Timothy Neve,Q18530922,DSNAME7387,Q67633,,,,
+"Peterborough Public Library (Peterborough, England)",former owner,,,organization,Peterborough Central Library,Q55183821,DSNAME7448,Q67694,,,,
+Monasterio de Santa María de El Paular,former owner,,,organization,Monasterio de El Paular,Q1752772,DSNAME7449,Q67695,,,,
+"Levis, Eugenio de",former owner,,,human,Giacomo Eugenio De Levis,Q120898630,DSNAME7388,Q67634,,,,
+"Heber, Richard, 1773-1833",former owner,,,,,,,,human,Richard Heber,Q4502479,Q6134
+"Ricci, Seymour de, 1881-1942",former owner,,,human,Seymour de Ricci,Q15996348,DSNAME7389,Q67635,,,,
+Abbazia della Novalesa,former owner,,,organization,Novalesa Abbey,Q2755827,DSNAME7450,Q67696,,,,
+"Graville, Anne de, approximately 1490-approximately 1543",former owner,,,human,Anne de Graville,Q19629478,DSNAME7390,Q67636,,,,
+"Urfé, Claude d', 1501-1558",former owner,,http://id.loc.gov/authorities/names/n94114542,,,,,,human,Claude d'Urfé,Q2978307,Q41800
+"La Vallière, Louis César de la Baume Le Blanc, duc de, 1708-1780",former owner,,,,,,,,human,Louis César de La Baume Le Blanc,Q1158739,Q7919
+"Crevenna, Pietro Antonio, known also as Bolongaro-Crevenna, d.1792",former owner,,,human,Pietro Antonio Crevenna,Q55902726,DSNAME3864,Q40309,,,,
+"Folliott, George",former owner,,,,,,,,human,George Folliott,Q75433234,Q42667
+"Vernon, G. J. Warren Baron, 1803-1866",former owner,,,human,"George Venables-Vernon, 5th Baron Vernon",Q5545476,DSNAME252,Q856,,,,
+"Hoveden, John, -1275",author,,,human,"John of Howden",Q16200047,DSNAME7251,Q67497,,,,
+Stift Melk,former owner,,,,,,,,organization,Melk Abbey,Q660082,Q42053
+"Dunn, George, 1864-1912",former owner,,,,,,,,human,George Dunn,Q112841325,Q1572
+"Rolandinus, de Passageriis, -1300",author,,,human,Rolandino de' Passaggeri,Q3940253,DSNAME7391,Q67637,,,,
+Tomaxinus,scribe,,,human,Tomaxinus,Q131623283,DSNAME7252,Q67498,,,,
+"Jean, de Meun, approximately 1240-approximately 1305",author,,,human,Jean de Meun,Q544925,DSNAME4540,Q40985,,,,
+"Karpinski, Louis Charles, 1878-1956",former owner,,,human,Louis Charles Karpinski,Q3709967,DSNAME7392,Q67638,,,,
+"Cholmondeley, Reginald, 1826-1896",former owner,,,human,Reginald Cholmondeley,Q76287831,DSNAME7393,Q67639,,,,
+"Potocki, François",former owner,,,human,Franciszek Potocki,Q11698707,DSNAME7394,Q67640,,,,
+"Bibliotheca Philosophica Hermetica (Amsterdam, Netherlands)",former owner,,,organization,Bibliotheca Philosophica Hermetica,Q315883,DSNAME7451,Q67697,,,,
+"Clynton, J",scribe,,,human,J. Clynton,Q131623284,DSNAME7253,Q67499,,,,
+"Sowthen, Thomas, -1579",former owner,,,human,Thomas Sowthen,Q131623285,DSNAME7254,Q67500,,,,
+"Schinkel, A., active 1843",former owner,,,human,"Adrianus David Schinkel",Q55901559,DSNAME624,Q1859,,,,
+"Neudörffer, Johann, 1497-1563",author,,,,,,,,human,Johann Neudörffer the Elder,Q1695681,Q41016
+"Paolo, da Firenze, approximately 1355-",author,,,human,Paolo da Firenze,Q514391,DSNAME7395,Q67641,,,,
+"Grabauer, Carl Hermann",former owner,,,human,Carl Hermann Grabauer,Q131623286,DSNAME7256,Q67502,,,,
+"Cavalca, Domenico, -1342",author,,,,,,,,human,Domenico Cavalca,Q3712952,Q6104
+Pseudo-Augustinus,author,,,,,,,,human,Pseudo-Augustine,Q1241114,Q1921
+"Bartholomew, of Trent, -approximately 1251",author,,,human,Bartholomew of Trent,Q4865307,DSNAME7396,Q67642,,,,
+A.G.T,former owner,,,,,,,,,,,
+C.B,former owner,,,,,,,,,,,
+"Nider, Johannes, approximately 1380-1438",author,,,,,,,,human,Johannes Nider,Q66836,Q6125
+"Sargent, John Singer, 1856-1925",former owner,,,human,John Singer Sargent,Q155626,DSNAME7397,Q67643,,,,
+"Griscom, Acton 1891-",former owner,,,human,Acton Griscom,Q56177963,DSNAME2274,Q16576,,,,
+"Paul, of Cologne",author,,,,,,,,,,,
+"Stewart, James H",former owner,,,human,James H. Stewart,Q19975272,DSNAME7398,Q67644,,,,
+"Jackson, Bill, 1917-2003",former owner,,,human,Bill Jackson,Q131575388,DSNAME7399,Q67645,,,,
+"Freudenheim, Milton B., 1927-",former owner,,,human,Milt Freudenheim,Q114602578,DSNAME7400,Q67646,,,,
+"Ege, Otto F",former owner,,http://id.loc.gov/authorities/names/no99020371,,,,,,human,Otto Ege,Q7109575,Q808
+"Boone, James R. Herbert",former owner,,,human,James R. Herbert Boone,Q120691979,DSNAME7401,Q67647,,,,
+"Guillaume de Nangis, active 13th century",author,,,human,William of Nangis,Q514617,DSNAME7402,Q67648,,,,
+"Blomfield, George Becher, 1801-1885",former owner,,,human,George Becher Blomfield,Q76355566,DSNAME333,Q1498,,,,
+Priorij Groenendaal,former owner,,,organization,Groenendael Priory,Q3402988,DSNAME7452,Q67698,,,,
+"Zerbolt, Gerard, 1367-1398",author,,,human,Gerard Zerbolt of Zutphen,Q1510217,DSNAME4289,Q40734,,,,
+"Nicholas, of Lyra, approximately 1270-1349",author,,http://id.loc.gov/authorities/names/n81077197.html,,,,,,human,Nicholas of Lyra,Q1969164,Q1922
+"Lorenzo, da Pisa, active 1470-1471",transcriber,,,human,Lorenzo da Pisa,Q131623287,DSNAME7257,Q67503,,,,
+"Maffei, Pietro Antonio, 1663-1744",former owner,,,human,Pietro Antonio Maffei,Q60842621,DSNAME7403,Q67649,,,,
+Catholic Church. Pope (1471-1484 : Sixtus IV),author,,,,,,,,organization;human,Catholic Church;Sixtus IV,Q9592;Q163514,Q425;Q16716
+Carthusians,author,,,,,,,,organization,Carthusian Order,Q220979,Q41958
+"Bannister, Arthur Thomas, 1861-",former owner,,,human,Arthur Thomas Bannister,Q113748301,DSNAME7404,Q67650,,,,
+"Lansburgh, Mark",former owner,,,,,,,,human,Mark Lansburgh,Q114242464,Q448
+Kölner Kartause,author,,,,,,,,organization,Cologne Charterhouse,Q291014,Q6081
+"Ess, Leander van, 1772-1847",former owner,,,,,,,,human,Johann Heinrich van Ess,Q1810643,Q1514
+"Martinus, Polonus, -1279",author,,,,,,,,human,Martin of Opava,Q431054,Q41214
+"Gerson, Jean, 1363-1429",author,,,,,,,,human,Jean Gerson,Q281179,Q7333
+"Lupin, Hans Jacob",author,,,human,Hans Jacob Lupin,Q131623289,DSNAME7258,Q67504,,,,
+"Neubronner, Heinrich, active 1669-1670",former owner,,,human,Heinrich Neubronner,Q131623290,DSNAME7259,Q67505,,,,
+"Neubronner, Melchior Daniel, active 1697-1698",former owner,,,human,Melchior Daniel Neubronner,Q131623291,DSNAME7260,Q67506,,,,
+"Lupin, Matthaeus, active 1699-1700",former owner,,,human,Matthaeus Lupin,Q131623292,DSNAME7261,Q67507,,,,
+"Gould, Jay, 1836-1892",former owner,,,human,Jay Gould,Q709595,DSNAME7405,Q67651,,,,
+"Shepard, Helen Miller Gould, 1868-",former owner,,,human,Helen Miller Shepard,Q1563645,DSNAME7406,Q67652,,,,
+"Marion, Jehan, -1580",author,,,human,Jehan Marion,Q131623293,DSNAME7262,Q67508,,,,
+"Caylus, Anne Claude Philippe, comte de, 1692-1765",former owner,,,human,"Anne Claude Philippe, Comte de Caylus",Q2734012,DSNAME7407,Q67653,,,,
+"Blanchemain, Prosper, 1816-1879",former owner,,,human,Prosper Blanchemain,Q3407760,DSNAME7408,Q67654,,,,
+"Favia del Core Borromeo, Maria Ludovica",former owner,,,human,Maria Ludovica Favia del Core Borromeo,Q131623294,DSNAME7263,Q67509,,,,
+"Favia del Core, M.",former owner,,,human,M. Favia del Core,Q131623295,DSNAME7264,Q67510,,,,
+"Sittard, Arnold-André, active 1577-1581",author,,,human,Arnold-André Sittard,Q131623296,DSNAME7265,Q67511,,,,
+"Werner, Nicolaus, 1520-",author,,,human,Nicolaus Werner,Q131623297,DSNAME7266,Q67512,,,,
+England and Wales. Exchequer,author,,,organization,Exchequer,Q2408803,DSNAME7453,Q67699,,,,
+"Lemaire, Jacques, active 16th century",former owner,,,human,"Jacob Le Maire",Q438156,DSNAME7267,Q67513,,,,
+"Johnstone, George Horace, 1882-1960",former owner,,,human,George Horace Johnstone,Q75567180,DSNAME7409,Q67655,,,,
+"Johnstone, Alison, -1977",former owner,,,human,"Alison Johnstone",Q121133974,DSNAME7268,Q67514,,,,
+"Mersey, John C. Bigham Viscount, 1840-1929",former owner,,,human,"John Bigham, 1st Viscount Mersey",Q2943967,DSNAME7410,Q67656,,,,
+"Alberti, Leon Battista, 1404-1472",author,,,,,,,,human,Leon Battista Alberti,Q182046,Q40103
+"Albizzi, Pepo d'Antonio di Lando Degli",author,,,human,Pepo d'Antonio di Lando Degli Albizzi,Q131623298,DSNAME7269,Q67515,,,,
+"Aldobrandini, Pietro, 1571-1621",author,,,human,Pietro Aldobrandini,Q691894,DSNAME7411,Q67657,,,,
+"Alanus, de Insulis, -1202",author,,,,,,,,human,Alain de Lille,Q4313,Q7594
+"Mostyn, Llewelyn Nevill Vaughan Lloyd-Mostyn, Baron, 1856-1929",former owner,,,,,,,,human,"Llewelyn Lloyd-Mostyn, 3rd Baron Mostyn of Mostyn",Q75271125,Q20046
+"Alabaster, William, 1567-1640",author,,,human,William Alabaster,Q3319086,DSNAME7412,Q67658,,,,
+Ambrosians,author,,,organization,Ambrosians,Q3885412,DSNAME7454,Q67700,,,,
+"Dante Alighieri, 1265-1321",author,,,,,,,,human,Dante Alighieri,Q1067,Q40500
+"Angèli, Pietro, 1517-1596",author,,,human,Pietro degli Angeli,Q3388211,DSNAME7413,Q67659,,,,
+"Beau-Chesne, Jehan de",author,,,,,,,,human,John de Beauchesne,Q3175258,Q40244
+Forde Abbey (approximately 1142-approximately 1539),former owner,,,organization,Forde Abbey,Q689615,DSNAME7455,Q67701,,,,
+"Von Scherling, E",former owner,,,human,"Erik von Scherling",Q116780057,DSNAME564,Q1799,,,,
+"Scurhoven, Gerard de",scribe,,,human,Gerard de Scurhoven,Q131623299,DSNAME7271,Q67517,,,,
+"Biglione, Francesco di, active 1552",author,,,human,Francesco di Biglione,Q131623300,DSNAME7272,Q67518,,,,
+"Narbut, Georg",former owner,,,human,Georg Narbut,Q131623301,DSNAME7273,Q67519,,,,
+"Pantius, Alphonsus",author,,,human,Alphonsus Pantius,Q131623302,DSNAME7274,Q67520,,,,
+"Brechtel, Stephan, 1523-1574",author,,,human,Stephan Brechtel,Q55847423,DSNAME5938,Q42630,,,,
+"Lanna, Adalbert von",former owner,,,human,Adalbert von Lanna,Q87968137,DSNAME7414,Q67660,,,,
+Benedictines. Congregazione cassinese,author,,,organization,Cassinese Congregation,Q1048373,DSNAME7456,Q67702,,,,
+"Basil, Saint, Bishop of Caesarea, approximately 329-379",author,,,,,,,,human,Basil of Caesarea,Q44258,Q20081
+"Allen, Henry Ellis, 1808-1874",former owner,,,human,Henry Ellis Allen,Q20978682,DSNAME3683,Q40128,,,,
+"Desq, P",former owner,,,,,,,,human,P. Desq,Q124566780,Q40525
+"Bembo, Bernardo, 1433-1519",former owner,,,,,,,,human,Bernardo Bembo,Q462026,Q40256
+"Marston, Thomas E",former owner,,,,,,,,human,Thomas E. Marston,Q114666017,Q20311
+"Casentino, Iacopo di Francesco di Lorenzo di Niccolo 'da Soci di",scribe,,,human,Iacopo di Francesco di Lorenzo di Niccolo 'da Soci di Casentino,Q131623304,DSNAME7275,Q67521,,,,
+"Michelangelo Buonarroti, 1475-1564",author,,,human,Michelangelo,Q5592,DSNAME7415,Q67661,,,,
+"SIlver, Louis H",former owner,,,human,Louis H. Silver,Q120691896,DSNAME2454,Q17663,,,,
+"Morrison, Alfred, 1821-1897",former owner,,,human,Alfred Morrison,Q17328807,DSNAME660,Q1895,,,,
+"Davray, Jean, 1914-",former owner,,,human,Jean Davray,Q26838341,DSNAME7416,Q67662,,,,
+"Ephraem, Syrus, Saint, 303-373",author,,,human,Ephrem the Syrian,Q200608,DSNAME4158,Q40603,,,,
+"Peter Damian, Saint, 1007?-1072",author,,,,,,,,human,Peter Damian,Q258369,Q839
+"Cambini, Andrea, -1527",author,,,human,Andrea Cambini,Q4755002,DSNAME7417,Q67663,,,,
+"Capilupi, Camillo, active 1572",author,,,human,"Camillo Capilupi",Q4212897,DSNAME7276,Q67522,,,,
+"Capirola, Vincenzo, 1474-",author,,,human,Vincenzo Capirola,Q612634,DSNAME7418,Q67664,,,,
+"Vidal, active 16th century",illuminator,,,,,,,,,,,
+"Ashley, Robert, 1565-1641",author,,,human,Robert Ashley,Q7341626,DSNAME7419,Q67665,,,,
+"Grosvenor, Richard",former owner,,,,,,,,,,,
+"Roper, William, 1496-1578",author,,,human,William Roper,Q141753,DSNAME5153,Q41598,,,,
+Peru (Viceroyalty). Real Audiencia (Lima),author,,,organization,Royal Audiencia of Lima,Q1573022,DSNAME7457,Q67703,,,,
+Peru (Viceroyalty). Real Caja de Cuzco,author,,,,,,,,,,,
+"Vivar, Jerónimo de",author,,,human,Jerónimo de Vivar,Q6185675,DSNAME7420,Q67666,,,,
+"Waldeck, Frédéric de, 1766-1875",former owner,,,human,Jean-Frédéric Waldeck,Q956537,DSNAME7421,Q67667,,,,
+"Alzate y Ramírez, José Antonio de, 1737-1799",author,,,human,José Antonio de Alzate y Ramírez,Q3186155,DSNAME7422,Q67668,,,,
+"Cavallero, Francisco",author,,,,,,,,,,,
+"Casas, Bartolomé de las, 1484-1566",author,,,,,,,,human,Bartolomé de Las Casas,Q207416,Q7078
+"Chaves, Melchor de",author,,,,,,,,,,,
+"Jiménez de Enciso, Andrés",author,,,,,,,,,,,
+New Spain. Viceroy (1550-1564 : Velasco),author,,,organization;human,New Spain;Luis de Velasco,Q170603;Q722310,DSNAME7460;DSNAME7461,Q67706;Q67707,,,,
+New Spain. Viceroy (1535-1550 : Mendoza),author,,,organization;human,New Spain;Antonio de Mendoza,Q170603;Q441300,DSNAME7460;DSNAME7462,Q67706;Q67708,,,,
+"Cordovero, Moses ben Jacob, 1522-1570",author,,,human,Moses ben Jacob Cordovero,Q733598,DSNAME7423,Q67669,,,,
+"Salazar, Eugenio",author,,,human,"Eugenio de Salazar",Q33097,DSNAME7277,Q67523,,,,
+"Alcuin, 735-804",author,,,,,,,,human,Alcuin,Q154332,Q1543
+"Gregory I, Pope, approximately 540-604",author,,,,,,,,human,Gregory I,Q42827,Q889
+"Bede, the Venerable, Saint, 673-735",author,,,,,,,,human,Bede,Q154938,Q1525
+"Heylwagen, Cornelius, active 18th century",author,,,human,Cornelius Heylwagen,Q131627685,DSNAME7424,Q67670,,,,
+"Convento di S. Caterina (Pisa, Italy)",former owner,,,organization,Santa Caterina,Q3505115,DSNAME7458,Q67704,,,,
+"Haimo, of Auxerre, -approximately 855",author,,,,,,,,human,Haimo of Auxerre,Q2934990,Q1918
+"Haymo, Bishop of Halberstadt, -853",author,,,human,Haymo of Halberstadt,Q472833,DSNAME682,Q1917,,,,
+"Magby, H",former owner,,,,,,,,,,,
+"John Chrysostom, Saint, -407",author,,http://id.loc.gov/authorities/names/n80001460,,,,,,human,John Chrysostom,Q43706,Q6124
+"Jacobus, de Voragine, approximately 1229-1298",author,,,,,,,,human,Jacobus de Voragine,Q313460,Q7339
+"Abbaye de Saint-Vaast (Arras, France)",former owner,,,organization,Abbey of St. Vaast,Q334220,DSNAME380,Q1544,,,,
+"Rocca, Antonio",author,,,,,,,,,,,
+"Maimonides, Moses, 1135-1204",author,,http://id.loc.gov/authorities/names/n78096039 http://id.loc.gov/authorities/names/n78096039 http://viaf.org/viaf/sourceID/LC%7cn78096039,,,,,,human,Moshe ben Maimon,Q127398,Q12310
+"Kranitz von Wertheim, Georg",author,,,human,Georg Kranitz von Wertheim,Q113765461,DSNAME7425,Q67671,,,,
+"Riederer, Georg Wilhelm",former owner,,,,,,,,,,,
+"Gruber, Leopold, 1733-1807",former owner,,,human,Leopold Gruber,Q95247210,DSNAME1086,Q4450,,,,
+"Meier, J. S",author,,,human,J. S. Meier,Q131623305,DSNAME7278,Q67524,,,,
