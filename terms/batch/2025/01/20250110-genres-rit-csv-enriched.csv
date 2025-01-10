@@ -1,0 +1,29 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+fragments (object portions),ds-genre,,fragments (object portions),http://vocab.getty.edu/aat/300117130,Q222,,,
+missals,ds-genre,,,,,missals,http://vocab.getty.edu/aat/300026472,Q4244
+antiphonaries,ds-genre,,,,,antiphonaries,http://vocab.getty.edu/aat/300188812,Q6845
+musical notation,ds-genre,,musical notation,http://vocab.getty.edu/aat/300417622,Q38507,,,
+psalters (books),ds-genre,,,,,psalters (books),http://vocab.getty.edu/aat/300026477,Q4134
+initials (layout features),ds-genre,,initials (layout features),http://vocab.getty.edu/aat/300168055,Q12539,,,
+breviaries,ds-genre,,,,,breviaries,http://vocab.getty.edu/aat/300026459,Q4135
+prayer books,ds-genre,,,,,prayer books,http://vocab.getty.edu/aat/300026476,Q6896
+Bibles,ds-genre,,,,,Bibles,http://vocab.getty.edu/aat/300264513,Q3561
+epistles,ds-genre,,,,,epistles,http://vocab.getty.edu/aat/300404697,Q42428
+graduals,ds-genre,,,,,graduals,http://vocab.getty.edu/aat/300026462,Q4165
+books of hours,ds-genre,,,,,books of hours,http://vocab.getty.edu/aat/300026457,Q3618
+apologetics,ds-genre,,,,,Apologetic writings,http://id.worldcat.org/fast/1423698,Q6975
+vitas (biographies),ds-genre,,,,,vitas (biographies),http://vocab.getty.edu/aat/300404015,Q42429
+Lives of saints,ds-genre,,,,,hagiographies (literary genre),http://vocab.getty.edu/aat/300201063,Q2966
+commentaries,ds-genre,,,,,commentaries,http://vocab.getty.edu/aat/300026098,Q298
+theology,ds-genre,,theology,http://vocab.getty.edu/aat/300054313,Q42400,,,
+histories (literary works),ds-genre,,,,,histories (literary genre),http://vocab.getty.edu/aat/300026358,Q227
+allegories (literary genre),ds-genre,,,,,allegories (literary genre),http://vocab.getty.edu/aat/300202507,Q7395
+poetry,ds-genre,,,,,poetry,http://vocab.getty.edu/aat/300055931,Q11358
+bibles,ds-genre,,,,,Bibles,http://vocab.getty.edu/aat/300264513,Q3561
+treatises,ds-genre,,,,,treatises,http://vocab.getty.edu/aat/300026681,Q160
+dialogues,ds-genre,,,,,dialogues,http://vocab.getty.edu/aat/300026185,Q330
+epistolaries,ds-genre,,,,,epistolaries,http://vocab.getty.edu/aat/300026465,Q42405
+lectionaries,ds-genre,,lectionaries,http://vocab.getty.edu/aat/300026464,Q4274,,,
+hymnals,ds-genre,,,,,hymnals,http://vocab.getty.edu/aat/300026463,Q4785
+decorated initials,ds-genre,,decorated initials,http://vocab.getty.edu/aat/300417548,Q10807,,,
+choirbooks,ds-genre,,,,,choirbooks,http://vocab.getty.edu/aat/300026422,Q4269
