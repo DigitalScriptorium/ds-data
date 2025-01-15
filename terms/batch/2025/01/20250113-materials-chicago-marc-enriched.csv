@@ -1,0 +1,28 @@
+material_as_recorded,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+parchment,,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+illustrations,,,,,,
+ill.,,,,,,
+paper,,,,paper,http://vocab.getty.edu/aat/300014109,Q31
+"parchment, illuminations",,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+col. ill.,,,,,,
+"paper, illuminations",,,,paper,http://vocab.getty.edu/aat/300014109,Q31
+"illustration, portrait",,,,,,
+manuscript,,,,,,
+"paper, parchment, illuminations",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33,,,
+"parchment : diagram, calendar",parchment,http://vocab.getty.edu/aat/300011851,Q33,,,
+"parchment, ill.",,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+chiefly illustrations,,,,,,
+"parchment, illustrations",,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+"parchment and paper, illumination",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33,,,
+palm leaves,palm leaf,http://vocab.getty.edu/aat/300011894,Q30,,,
+(five containers),,,,,,
+"parchment, illumination",,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+"parchment : illustrations, illuminations",parchment,http://vocab.getty.edu/aat/300011851,Q33,,,
+color illustrations,,,,,,
+"parchment, illustrations, coats of arms, genealogical tables, illuminations",parchment,http://vocab.getty.edu/aat/300011851,Q33,,,
+"parchment, illustration",,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+"parchment, illustrations, illuminations",,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+illuminations,,,,,,
+"parchment, paper",,,,parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
+"parchment, color illustrations",,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+"maps, plans",,,,,,

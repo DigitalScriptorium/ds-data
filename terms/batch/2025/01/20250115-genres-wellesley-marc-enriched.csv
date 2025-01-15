@@ -1,0 +1,27 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Manuscripts,lcgft,,,,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
+seals (marks),aat,,,,,seals (marks),http://vocab.getty.edu/aat/300417667,Q38540
+Morocco bindings,rbmscv,,,,,Morocco bindings,http://id.loc.gov/vocabulary/rbmscv/cv00548,Q12652
+Books of hours,rbmscv,,,,,Books of hours,http://id.loc.gov/vocabulary/rbmscv/cv01037,Q38439
+illuminated manuscripts,aat,,,,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,Q4268
+textura (Gothic script),aat,,,,,textura (Gothic script),http://vocab.getty.edu/aat/300202638,Q10787
+Limp bindings,rbmscv,,,,,Limp bindings,http://id.loc.gov/vocabulary/rbmscv/cv00590,Q16312
+Vellum bindings,rbmscv,,,,,Vellum bindings,http://id.loc.gov/vocabulary/rbmscv/cv00543,Q5878
+Privileges and immunities,lcgft,,Privileges and immunities,http://id.worldcat.org/fast/1774297,Q8344,,,
+Velvet bindings,rbmscv,,,,,Velvet bindings,http://id.loc.gov/vocabulary/rbmscv/cv00708,Q5833
+Specimens,fast,https://id.worldcat.org/fast/1423861,,,,Specimens,http://id.worldcat.org/fast/1423861,Q239
+Devotional literature,lcgft,https://id.loc.gov/authorities/genreForms/gf2015026057,,,,Devotional literature,http://id.worldcat.org/fast/1423773,Q38696
+Devotional literature,fast,https://id.worldcat.org/fast/1423773,,,,Devotional literature,http://id.worldcat.org/fast/1423773,Q38696
+Prayers,lcgft,https://id.loc.gov/authorities/genreForms/gf2015026049,,,,Prayers,http://id.worldcat.org/fast/1939841,Q38528
+Prayers,fast,https://id.worldcat.org/fast/1939841,,,,Prayers,http://id.worldcat.org/fast/1939841,Q38528
+Prayers and devotions,fast,https://id.worldcat.org/fast/1423909,,,,Prayers and devotions,http://id.worldcat.org/fast/1423909,Q3052
+Armorial bookplates,rbmscv,,,,,Armorial bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00136,Q16277
+Poetry,lcgft,,,,,Poetry,http://id.worldcat.org/fast/1423828,Q247
+Biographies,lcgft,,,,,Biographies,http://id.worldcat.org/fast/1919896,Q3051
+Sources,fast,https://id.worldcat.org/fast/1423900,,,,Sources,http://id.worldcat.org/fast/1423900,Q2769
+account books,aat,,,,,account books,http://vocab.getty.edu/aat/300027483,Q4178
+Account books,lcgft,,,,,Account books,http://id.worldcat.org/fast/1750150,Q42548
+illuminated manuscripts--aat,,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,Q4268,,,
+Wills,lcgft,,,,,Wills,http://id.worldcat.org/fast/1774321,Q38554
+Graduals (Chants),lcgft,,,,,Graduals (Chants),http://id.worldcat.org/fast/1920167,Q66708
+Lectionaries,lcgft,,,,,Lectionaries,http://id.worldcat.org/fast/1922449,Q38489

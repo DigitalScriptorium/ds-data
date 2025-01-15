@@ -1,0 +1,18 @@
+language_as_recorded,language_code,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+lat,,,,,Latin,Q397,Q113
+ita,,,,,Italian,Q652,Q116
+In Spanish,,,,,Spanish,Q1321,Q114
+In Latin and Italian,,,,,Latin;Italian,Q397;Q652,Q113;Q116
+In Latin,,,,,Latin,Q397,Q113
+In Farsi,,Persian,Q9168,Q120,,,
+gre,,,,,Greek,Q9129,Q1318
+spa,,,,,Spanish,Q1321,Q114
+e-uk-en,,,,,,,
+n-us-ma,,,,,,,
+ara,,,,,Arabic,Q13955,Q118
+1st work in Latin; 2nd work in Italian,,Latin;Italian,Q397;Q652,Q113;Q116,,,
+fre,,,,,French,Q150,Q111
+In Italian; Epistolae ad Lucilium translated from the Latin,,Italian;Latin,Q652;Q397,Q116;Q113,,,
+Latin and Italian,,,,,Latin;Italian,Q397;Q652,Q113;Q116
+In Middle Dutch,,,,,Middle Dutch,Q178806,Q10833
+Middle English,,,,,Middle English,Q36395,Q119
