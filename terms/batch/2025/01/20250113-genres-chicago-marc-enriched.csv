@@ -139,7 +139,7 @@ Fragments,aat,,,,,fragments (object portions),http://vocab.getty.edu/aat/3001171
 Bevelled edges boards (Binding),rbbin,,Bevelled edge boards,http://id.loc.gov/vocabulary/rbmscv/cv00211,Q16274,,,
 Wooden bindings (Binding),rbbin,,,,,Wooden bindings,http://id.loc.gov/vocabulary/rbmscv/cv00600,Q5918
 Catches (Binding),rbbin,,Catches,http://id.loc.gov/vocabulary/rbmscv/cv00459,Q16369,,,
-Rebacking (Binding),rbbin,,Rebacking,http://id.loc.gov/vocabulary/rbmscv/cv01807,Q67929,,,
+Rebacking (Binding),rbbin,,Rebacking,http://id.loc.gov/vocabulary/rbmscv/cv01807,Q67923,,,
 Slipcases (Binding),rbbin,,Slipcases,http://id.loc.gov/vocabulary/rbmscv/cv00737,Q67930,,,
 Chemises (Binding),rbbin,,Chemises,http://id.loc.gov/vocabulary/rbmscv/cv00732,Q16330,,,
 Bookplates (Provenance),rbprov,,,,,Bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00138,Q5847
@@ -170,12 +170,12 @@ Commentaries,fast,http://id.worldcat.org/fast/fst01423723,,,,Commentaries,http:/
 Shelf marks,rbmscv,,,,,Shelf marks,http://id.loc.gov/vocabulary/rbmscv/cv00268,Q16356
 Inscriptions,rbmscv,,,,,Inscriptions,http://id.loc.gov/vocabulary/rbmscv/cv00180,Q5875
 Gilt edges,rbmscv,,,,,Gilt edges,http://id.loc.gov/vocabulary/rbmscv/cv00748,Q5855
-Stained edges,rbmscv,,Stained edges,http://id.loc.gov/vocabulary/rbmscv/cv00751,Q67934,,,
+Stained edges,rbmscv,,Stained edges,http://id.loc.gov/vocabulary/rbmscv/cv00751,Q67917,,,
 Trimmed edges,rbmscv,,Trimmed edges,http://id.loc.gov/vocabulary/rbmscv/cv01987,Q67935,,,
 Prophecies,fast,(OCoLC)fst01922509,Prophecies,http://id.worldcat.org/fast/1922509,Q3002,,,
 Emblem books--Italy,rbgenr,,Emblem books;Italy,http://id.loc.gov/vocabulary/rbmscv/cv01280;http://id.worldcat.org/fast/1204565,Q67936;Q249,,,
 palm leaf (material),aat,,palm leaf (material),http://vocab.getty.edu/aat/300011894,Q38515,,,
-Lettering pieces,rbmscv,,Lettering pieces,http://id.loc.gov/vocabulary/rbmscv/cv00586,Q67937,,,
+Lettering pieces,rbmscv,,Lettering pieces,http://id.loc.gov/vocabulary/rbmscv/cv00586,Q67916,,,
 Genealogical tables,aat,,,,,genealogical tables,http://vocab.getty.edu/aat/300027016,Q8160
 Coats of arms and coat of arms elements,aat,,coats of arms and coat of arms elements,http://vocab.getty.edu/aat/300138225,Q67938,,,
 Sprinkled calf bindings (Binding),rbbin,,Sprinkled calf bindings,http://id.loc.gov/vocabulary/rbmscv/cv00698,Q67939,,,
