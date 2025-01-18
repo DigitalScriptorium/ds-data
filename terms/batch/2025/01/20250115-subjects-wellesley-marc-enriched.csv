@@ -1,0 +1,90 @@
+File,subject_as_recorded,vocab,subfield_codes,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+subjects-wellesley.csv,"Manuscripts, Latin (Medieval and modern)--Scotland",0,a--z,,"Manuscripts, Latin (Medieval and modern);Scotland",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1206715,Q10783;Q38497,,,
+subjects-wellesley.csv,"Manuscripts, Latin (Medieval and modern)",fast,a,https://id.worldcat.org/fast/1008399,,,,"Manuscripts, Latin (Medieval and modern)",http://id.worldcat.org/fast/1008399,Q10783
+subjects-wellesley.csv,Scotland,fast,a,https://id.worldcat.org/fast/1206715,,,,Scotland,http://id.worldcat.org/fast/1206715,Q38497
+subjects-wellesley.csv,"Manuscripts, Italian--Massachusetts--Wellesley",0,a--z--z,,"Manuscripts, Italian;Massachusetts--Wellesley",http://id.worldcat.org/fast/1008378;http://id.worldcat.org/fast/1209093,Q269;Q68117,,,
+subjects-wellesley.csv,Letters patent,0,a,,Letters patent,http://id.worldcat.org/fast/996795,Q38491,,,
+subjects-wellesley.csv,Gold mines and mining,0,a,,Gold mines and mining,http://id.worldcat.org/fast/944469,Q12684,,,
+subjects-wellesley.csv,Land grants,0,a,,Land grants,http://id.worldcat.org/fast/991259,Q8170,,,
+subjects-wellesley.csv,"Holy Roman Empire--Charters, grants, privileges",0,a--x,,Europe--Holy Roman Empire;Charters,http://id.worldcat.org/fast/1205344;http://id.worldcat.org/fast/852538,Q4317;Q8353,,,
+subjects-wellesley.csv,"Manuscripts, Spanish--Massachusetts--Wellesley",0,a--z--z,,"Manuscripts, Spanish;Massachusetts--Wellesley",http://id.worldcat.org/fast/1008500;http://id.worldcat.org/fast/1209093,Q202;Q68117,,,
+subjects-wellesley.csv,Spiritual life--Catholic Church--Early works to 1800,0,a--x--v,,,,,Spiritual life--Catholic Church;Early works,http://id.worldcat.org/fast/1130109;http://id.worldcat.org/fast/1411636,Q215;Q300
+subjects-wellesley.csv,Theology--Early works to 1800,0,a--v,,,,,Theology;Early works,http://id.worldcat.org/fast/1149559;http://id.worldcat.org/fast/1411636,Q4290;Q300
+subjects-wellesley.csv,"Manuscripts, Latin (Medieval and modern)--Massachusetts--Wellesley",0,a--z--z,,"Manuscripts, Latin (Medieval and modern);Massachusetts--Wellesley",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1209093,Q10783;Q68117,,,
+subjects-wellesley.csv,Graduals (Chants)--Texts,0,a--v,,Graduals (Chants);Texts,http://id.worldcat.org/fast/1761754;http://id.worldcat.org/fast/1423705,Q4137;Q3066,,,
+subjects-wellesley.csv,Missals--Texts--Early works to 1800,0,a--x--v,,Missals;Texts;Early works,http://id.worldcat.org/fast/1023680;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636,Q4233;Q3066;Q300,,,
+subjects-wellesley.csv,Italian language--Poetry--Early works to 1800,0,a--v--v,,,,,Italian language;Poetry;Early works,http://id.worldcat.org/fast/980480;http://id.worldcat.org/fast/1423828;http://id.worldcat.org/fast/1411636,Q48274;Q247;Q300
+subjects-wellesley.csv,Persian poetry--Early works to 1800,0,a--v,,,,,Persian poetry;Early works,http://id.worldcat.org/fast/1058542;http://id.worldcat.org/fast/1411636,Q3582;Q300
+subjects-wellesley.csv,"Manuscripts, Persian--Massachusetts--Wellesley",0,a--z--z,,"Manuscripts, Persian;Massachusetts--Wellesley",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1209093,Q255;Q68117,,,
+subjects-wellesley.csv,Manuscripts,lcgft,a,,Manuscripts,http://id.worldcat.org/fast/1008230,Q38609,,,
+subjects-wellesley.csv,Missals--Texts--Early works to 1800,0,a--x--x,,Missals;Texts;Early works,http://id.worldcat.org/fast/1023680;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636,Q4233;Q3066;Q300,,,
+subjects-wellesley.csv,"Manuscripts, Latin (Medieval and modern )--Massachusetts--Wellesley",0,a--z--z,,"Manuscripts, Latin (Medieval and modern);Massachusetts--Wellesley",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1209093,Q10783;Q68117,,,
+subjects-wellesley.csv,Italian poetry--Early works to 1800,0,a--v,,,,,Italian poetry;Early works,http://id.worldcat.org/fast/980715;http://id.worldcat.org/fast/1411636,Q7149;Q300
+subjects-wellesley.csv,Antiphonaries--Texts,0,a--v,,,,,Antiphonaries;Texts,http://id.worldcat.org/fast/810657;http://id.worldcat.org/fast/1423705,Q4306;Q3066
+subjects-wellesley.csv,Books of hours--Texts--Early works to 1800,0,a--v--v,,,,,Books of hours;Texts;Early works,http://id.worldcat.org/fast/836484;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636,Q5889;Q3066;Q300
+subjects-wellesley.csv,Psalters--Texts--Early works to 1800,0,a--v--v,,Psalters;Texts;Early works,http://id.worldcat.org/fast/1080778;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636,Q4323;Q3066;Q300,,,
+subjects-wellesley.csv,Books of hours,0,a,,,,,Books of hours,http://id.worldcat.org/fast/836484,Q5889
+subjects-wellesley.csv,"Manuscripts, Greek",0,a,https://id.loc.gov/authorities/subjects/sh85080718,,,,"Manuscripts, Greek",http://id.worldcat.org/fast/1008349,Q3512
+subjects-wellesley.csv,Liturgics,fast,a,https://id.worldcat.org/fast/1000579,,,,Liturgics,http://id.worldcat.org/fast/1000579,Q207
+subjects-wellesley.csv,Manuscripts,fast,a,https://id.worldcat.org/fast/1008230,,,,Manuscripts,http://id.worldcat.org/fast/1008230,Q38609
+subjects-wellesley.csv,"Manuscripts, Greek",fast,a,https://id.worldcat.org/fast/1008349,,,,"Manuscripts, Greek",http://id.worldcat.org/fast/1008349,Q3512
+subjects-wellesley.csv,Books of hours--Texts--Early works to 1800,0,a--x--v,,Books of hours;Texts;Early works,http://id.worldcat.org/fast/836484;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636,Q5889;Q3066;Q300,,,
+subjects-wellesley.csv,Nobility--Spain--Early works to 1800,0,a--z--v,,,,,Nobility;Spain;Early works,http://id.worldcat.org/fast/1038255;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/1411636,Q164;Q343;Q300
+subjects-wellesley.csv,Letters patent of nobility,local,a,,,,,Letters patent;Nobility,http://id.worldcat.org/fast/996795;http://id.worldcat.org/fast/1038255,Q38491;Q164
+subjects-wellesley.csv,Lectionaries--Texts,0,a--v,,,,,Lectionaries;Texts,http://id.worldcat.org/fast/995270;http://id.worldcat.org/fast/1423705,Q4239;Q3066
+subjects-wellesley.csv,Letters patent--England,0,a--z,,Letters patent;England,http://id.worldcat.org/fast/996795;http://id.worldcat.org/fast/1219920,Q38491;Q320,,,
+subjects-wellesley.csv,Breviaries--Italy--15th century--Specimens,0,a--z--y--v,,Breviaries;Italy;Fifteenth century;Specimens,http://id.worldcat.org/fast/838495;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/923962;http://id.worldcat.org/fast/1423861,Q3593;Q249;Q154;Q239,,,
+subjects-wellesley.csv,Illumination of books and manuscripts--Specimens,0,a--v,https://id.loc.gov/authorities/subjects/sh2008123016,,,,Illumination of books and manuscripts;Specimens,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1423861,Q272;Q239
+subjects-wellesley.csv,15th century,fast,a,,Fifteenth century,http://id.worldcat.org/fast/923962,Q154,,,
+subjects-wellesley.csv,Illumination of books and manuscripts,fast,a,https://id.worldcat.org/fast/967235,,,,Illumination of books and manuscripts,http://id.worldcat.org/fast/967235,Q272
+subjects-wellesley.csv,Breviaries,fast,a,https://id.worldcat.org/fast/838495,,,,Breviaries,http://id.worldcat.org/fast/838495,Q3593
+subjects-wellesley.csv,Italy,fast,a,https://id.worldcat.org/fast/1204565,,,,Italy,http://id.worldcat.org/fast/1204565,Q249
+subjects-wellesley.csv,Philosophy--Manuscripts,0,a--x,,,,,Philosophy--Manuscripts,http://id.worldcat.org/fast/1060796,Q17488
+subjects-wellesley.csv,Philosophy--Manuscripts,fast,a--x,https://id.worldcat.org/fast/1060796,,,,Philosophy--Manuscripts,http://id.worldcat.org/fast/1060796,Q17488
+subjects-wellesley.csv,Philosophy,fast,a,https://id.worldcat.org/fast/1060777,,,,Philosophy,http://id.worldcat.org/fast/1060777,Q5883
+subjects-wellesley.csv,Hadith,0,a,https://id.loc.gov/authorities/subjects/sh85058192,,,,Hadith,http://id.worldcat.org/fast/950112,Q3581
+subjects-wellesley.csv,"Manuscripts, Arabic",0,a,https://id.loc.gov/authorities/subjects/sh85080687,,,,"Manuscripts, Arabic",http://id.worldcat.org/fast/1008278,Q256
+subjects-wellesley.csv,Hadith,fast,a,https://id.worldcat.org/fast/950112,,,,Hadith,http://id.worldcat.org/fast/950112,Q3581
+subjects-wellesley.csv,"Manuscripts, Arabic",fast,a,https://id.worldcat.org/fast/1008278,,,,"Manuscripts, Arabic",http://id.worldcat.org/fast/1008278,Q256
+subjects-wellesley.csv,Breviaries--Texts,0,a--v,,,,,Breviaries;Texts,http://id.worldcat.org/fast/838495;http://id.worldcat.org/fast/1423705,Q3593;Q3066
+subjects-wellesley.csv,Psalters--Texts,0,a--v,,,,,Psalters;Texts,http://id.worldcat.org/fast/1080778;http://id.worldcat.org/fast/1423705,Q4323;Q3066
+subjects-wellesley.csv,Cressida (Fictitious character)--Poetry,0,a--v,,,,,Cressida (Fictitious character);Poetry,http://id.worldcat.org/fast/882862;http://id.worldcat.org/fast/1423828,Q38872;Q247
+subjects-wellesley.csv,Troilus (Legendary character)--Poetry,0,a--v,,,,,Troilus (Legendary character);Poetry,http://id.worldcat.org/fast/1157292;http://id.worldcat.org/fast/1423828,Q39115;Q247
+subjects-wellesley.csv,Italian poetry--14th century,0,a--y,,,,,Italian poetry;Fourteenth century,http://id.worldcat.org/fast/980715;http://id.worldcat.org/fast/933420,Q7149;Q295
+subjects-wellesley.csv,"Scotland--History--Mary Stuart, 1542-1567",0,a--x--y,,Scotland;History;1542-1567,http://id.worldcat.org/fast/1206715;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1355594,Q38497;Q6879;Q66977,,,
+subjects-wellesley.csv,Queens--Scotland--Biography--Early works to 1800,0,a--z--v--v,,Queens;Scotland;Biographies;Early works,http://id.worldcat.org/fast/1085637;http://id.worldcat.org/fast/1206715;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q39061;Q38497;Q3051;Q300,,,
+subjects-wellesley.csv,Heaven--Poetry--Early works to 1800,0,a--v--v,,Heaven;Poetry;Early works,http://id.worldcat.org/fast/954113;http://id.worldcat.org/fast/1423828;http://id.worldcat.org/fast/1411636,Q4909;Q247;Q300,,,
+subjects-wellesley.csv,Hell--Poetry--Early works to 1800,0,a--v--v,,Hell;Poetry;Early works,http://id.worldcat.org/fast/954747;http://id.worldcat.org/fast/1423828;http://id.worldcat.org/fast/1411636,Q68118;Q247;Q300,,,
+subjects-wellesley.csv,Purgatory--Poetry--Early works to 1800,0,a--v--v,,Purgatory;Poetry;Early works,http://id.worldcat.org/fast/1084326;http://id.worldcat.org/fast/1423828;http://id.worldcat.org/fast/1411636,Q7660;Q247;Q300,,,
+subjects-wellesley.csv,Conduct of life--Early works to 1800,0,a--v,,,,,Conduct of life;Early works,http://id.worldcat.org/fast/874563;http://id.worldcat.org/fast/1411636,Q4792;Q300
+subjects-wellesley.csv,"Speeches, addresses, etc., Greek",0,a,,"Speeches, addresses, etc., Greek",http://id.worldcat.org/fast/1129363,Q67058,,,
+subjects-wellesley.csv,Waqf--Egypt--History,0,a--z--x,,,,,Waqf;Egypt;History,http://id.worldcat.org/fast/1170323;http://id.worldcat.org/fast/1208755;http://id.worldcat.org/fast/958235,Q11403;Q11259;Q6879
+subjects-wellesley.csv,Endowments--Egypt--History--Sources,0,a--z--x--v,,,,,Endowments;Egypt;History;Sources,http://id.worldcat.org/fast/909854;http://id.worldcat.org/fast/1208755;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1423900,Q18342;Q11259;Q6879;Q2769
+subjects-wellesley.csv,"Charitable uses, trusts, and foundations--Egypt",0,a--z,,,,,"Charitable uses, trusts, and foundations;Egypt",http://id.worldcat.org/fast/852380;http://id.worldcat.org/fast/1208755,Q10795;Q11259
+subjects-wellesley.csv,Mamelukes,0,a,https://id.loc.gov/authorities/subjects/sh85080253,,,,Mamelukes,http://id.worldcat.org/fast/1006922,Q11415
+subjects-wellesley.csv,Mamelukes,fast,a,https://id.worldcat.org/fast/1006922,,,,Mamelukes,http://id.worldcat.org/fast/1006922,Q11415
+subjects-wellesley.csv,"Charitable uses, trusts, and foundations",fast,a,https://id.worldcat.org/fast/852380,,,,"Charitable uses, trusts, and foundations",http://id.worldcat.org/fast/852380,Q10795
+subjects-wellesley.csv,Endowments,fast,a,https://id.worldcat.org/fast/909854,,,,Endowments,http://id.worldcat.org/fast/909854,Q18342
+subjects-wellesley.csv,History,fast,a,https://id.worldcat.org/fast/958235,,,,History,http://id.worldcat.org/fast/958235,Q6879
+subjects-wellesley.csv,Waqf,fast,a,https://id.worldcat.org/fast/1170323,,,,Waqf,http://id.worldcat.org/fast/1170323,Q11403
+subjects-wellesley.csv,Egypt,fast,a,https://id.worldcat.org/fast/1208755,,,,Egypt,http://id.worldcat.org/fast/1208755,Q11259
+subjects-wellesley.csv,Heaven--Poetry,0,a--v,,,,,Heaven;Poetry,http://id.worldcat.org/fast/954113;http://id.worldcat.org/fast/1423828,Q4909;Q247
+subjects-wellesley.csv,Solitude--Early works to 1800,0,a--v,,,,,Solitude;Early works,http://id.worldcat.org/fast/1125561;http://id.worldcat.org/fast/1411636,Q8117;Q300
+subjects-wellesley.csv,"Debts, Public--Italy--Florence--14th century--Early works to 1800",0,a--z--z--y--v,,"Debts, Public;Italy--Florence;Fourteenth century;Early works",http://id.worldcat.org/fast/888850;http://id.worldcat.org/fast/1204699;http://id.worldcat.org/fast/933420;http://id.worldcat.org/fast/1411636,Q68119;Q3604;Q295;Q300,,,
+subjects-wellesley.csv,Florence (Italy)--Politics and Government--Early works to 1800,0,a--x--v,,Italy--Florence;Politics and government;Early works,http://id.worldcat.org/fast/1204699;http://id.worldcat.org/fast/1919741;http://id.worldcat.org/fast/1411636,Q3604;Q2818;Q300,,,
+subjects-wellesley.csv,"Manuscripts, French--Massachusetts--Wellesley",0,a--z--z,,"Manuscripts, French;Massachusetts--Wellesley",http://id.worldcat.org/fast/1008338;http://id.worldcat.org/fast/1209093,Q319;Q68117,,,
+subjects-wellesley.csv,Business records--Italy--Florence--Early works to 1800,0,a--z--z--v,,Business records;Italy--Florence;Early works,http://id.worldcat.org/fast/842845;http://id.worldcat.org/fast/1204699;http://id.worldcat.org/fast/1411636,Q68120;Q3604;Q300,,,
+subjects-wellesley.csv,Merchants--Italy--Florence--14th century,0,a--z--z--y,,Merchants;Italy--Florence;Fourteenth century,http://id.worldcat.org/fast/1017057;http://id.worldcat.org/fast/1204699;http://id.worldcat.org/fast/933420,Q266;Q3604;Q295,,,
+subjects-wellesley.csv,Judgment Day--Early works to 1800,0,a--v,,,,,Judgment Day;Early works,http://id.worldcat.org/fast/984594;http://id.worldcat.org/fast/1411636,Q7418;Q300
+subjects-wellesley.csv,"Seneca, Lucius Annaeus, approximately 4 B.C.-65 A.D. Epistulae morales ad Lucilium.--Selections--Italian",0,a;d;t--k--l,,"Epistulae morales ad Lucilium (Seneca, Lucius Annaeus);Excerpts;Italian language",http://id.worldcat.org/fast/1357368;http://id.worldcat.org/fast/1692837;http://id.worldcat.org/fast/980480,Q68121;Q3547;Q48274,,,
+subjects-wellesley.csv,Manuscript fragments,0,a,,,,,Manuscript fragments,http://id.worldcat.org/fast/1938802,Q5809
+subjects-wellesley.csv,Liturgies,0,a,,Liturgies,http://id.worldcat.org/fast/1000586,Q18305,,,
+subjects-wellesley.csv,Wills--England,0,a--z,,Wills;England,http://id.worldcat.org/fast/1175513;http://id.worldcat.org/fast/1219920,Q8019;Q320,,,
+subjects-wellesley.csv,Catholic Church. Officium pro defunctis--Texts,0,a;t--v,,Officium pro defunctis (Catholic Church);Texts,http://id.worldcat.org/fast/1373569;http://id.worldcat.org/fast/1423705,Q12666;Q3066,,,
+subjects-wellesley.csv,Women--History--Early works to 1800,0,a--x--v,,,,,Women;History;Early works,http://id.worldcat.org/fast/1176568;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q8004;Q6879;Q300
+subjects-wellesley.csv,Women--Biography--Early works to 1800,0,a--v--v,,Women;Biographies;Early works,http://id.worldcat.org/fast/1176568;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q8004;Q3051;Q300,,,
+subjects-wellesley.csv,Books of hours--Netherlands,0,a--z,,,,,Books of hours;Netherlands,http://id.worldcat.org/fast/836484;http://id.worldcat.org/fast/1204034,Q5889;Q5863
+subjects-wellesley.csv,"Manuscripts, Dutch--Massachusetts--Wellesley",0,a--z--z,,"Manuscripts, Dutch;Massachusetts--Wellesley",http://id.worldcat.org/fast/1008323;http://id.worldcat.org/fast/1209093,Q5931;Q68117,,,
+subjects-wellesley.csv,"English poetry--Middle English, 1100-1500--Manuscripts--Specimens",0,a--y--x--v,,English poetry;1100-1500;English poetry--Middle English;Manuscripts;Specimens,http://id.worldcat.org/fast/912278;http://id.worldcat.org/fast/1355376;http://id.worldcat.org/fast/1710964;http://id.worldcat.org/fast/1008230;http://id.worldcat.org/fast/1423861,Q7121;Q38896;Q7090;Q38609;Q239,,,
+subjects-wellesley.csv,English poetry--Manuscripts--Specimens,0,a--x--v,,English poetry--Manuscripts;Specimens,http://id.worldcat.org/fast/912320;http://id.worldcat.org/fast/1423861,Q68122;Q239,,,
+subjects-wellesley.csv,"Manuscripts, English (Middle)--Massachusetts--Wellesley",0,a--z--z,,"Manuscripts, English (Middle);Massachusetts--Wellesley",http://id.worldcat.org/fast/1008329;http://id.worldcat.org/fast/1209093,Q328;Q68117,,,
