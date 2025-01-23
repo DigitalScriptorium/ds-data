@@ -1,0 +1,21 @@
+language_as_recorded,language_code,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Latin,lat,,,,Latin,Q397,Q113
+Latin; Italian; Ancient Greek (to 1453),lat,Latin;Italian;Ancient Greek,Q397;Q652;Q35497,Q113;Q116;Q3103,,,
+Middle French (ca. 1400-1600); Latin,frm,,,,Middle French;Latin,Q1473289;Q397,Q110;Q113
+Latin; French,lat,,,,Latin;French,Q397;Q150,Q113;Q111
+Latin; Middle French (ca. 1400-1600),lat,,,,Latin;Middle French,Q397;Q1473289,Q113;Q110
+"Latin; Middle French (ca. 1400-1600); Dutch, Flemish; Dutch, Flemish; German",lat,Latin;Middle French;Dutch;Flemish;German,Q397;Q1473289;Q7411;Q34147;Q188,Q113;Q110;Q793;Q10832;Q112,,,
+Latin; Ancient Greek (to 1453),lat,Latin;Ancient Greek,Q397;Q35497,Q113;Q3103,,,
+Latin; Italian,lat,,,,Latin;Italian,Q397;Q652,Q113;Q116
+Middle French (ca. 1400-1600); Occitan (post 1500),frm,Middle French;Occitan,Q1473289;Q14185,Q110;Q4338,,,
+Middle Dutch (ca. 1050-1350); Latin,dum,,,,Middle Dutch;Latin,Q178806;Q397,Q10833;Q113
+Arabic,ara,,,,Arabic,Q13955,Q118
+Arabic with some titles in Ottoman Turkish,ara,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104,,,
+Persian,per,,,,Persian,Q9168,Q120
+Arabic with a few notes in Persian,ara,Arabic;Persian,Q13955;Q9168,Q118;Q120,,,
+Ottoman Turkish,ota,,,,Ottoman Turkish,Q36730,Q3104
+Arabic with a note in Persian,ara,Arabic;Persian,Q13955;Q9168,Q118;Q120,,,
+Syriac and English,syc,Syriac;English,Q33538;Q1860,Q12713;Q109,,,
+Tashelhit / Shilha,ber,,,,Shilha,Q34152,Q38120
+Arabic with one rubric in Persian,per,Arabic;Persian,Q13955;Q9168,Q118;Q120,,,
+Persian with some titles and labels in Arabic,per,Persian;Arabic,Q9168;Q13955,Q120;Q118,,,
