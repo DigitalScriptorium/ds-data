@@ -1,201 +1,201 @@
-File,name_as_recorded,role,name_agr,source_authority_uri,instance_of_add,authorized_label_add,structured_value_add,ds_id_add,ds_qid_add,instance_of,authorized_label,structured_value,ds_qid
-names-chicago.csv,"Melanchthon, Philipp, 1497-1560",author,,,human,Philipp Melanchthon,Q76325,DSNAME2108,Q12916,,,,
-names-chicago.csv,"Lippomano, Giralamo, active 1575-1591",author,,,human,Giralamo Lippomano,Q131856722,DSNAME7944,Q68554,,,,
-names-chicago.csv,"Symmachus, Quintus Aurelius, approximately 340-402",author,,,human,Quintus Aurelius Symmachus,Q355720,DSNAME7945,Q68555,,,,
-names-chicago.csv,"Constantine, the Reader",scribe,,,human,Constantine the Reader,Q131822031,DSNAME7946,Q68556,,,,
-names-chicago.csv,"Mathesius, Johann, 1504-1565",author,,,human,Johannes Mathesius,Q89904,DSNAME7947,Q68557,,,,
-names-chicago.csv,Catholic Church,author,,http://viaf.org/viaf/130782063,,,,,,organization,Catholic Church,Q9592,Q425
-names-chicago.csv,"Ariosto, Lodovico, 1474-1533",author,,,human,Ludovico Ariosto,Q48900,DSNAME7948,Q68558,,,,
-names-chicago.csv,"Bernays, Michael, 1834-1897",former owner,,,human,Michael Bernays,Q73892,DSNAME7949,Q68559,,,,
-names-chicago.csv,Catholic Church,author,,http://viaf.org/viaf/130782063,,,,,,organization,Catholic Church,Q9592,Q425
-names-chicago.csv,"Piccolomini, Francesco, 1520-1604",author,,,human,Francesco Piccolomini,Q21051990,DSNAME7950,Q68560,,,,
-names-chicago.csv,"McKeon, Richard 1900-1985",former owner,,,human,Richard McKeon,Q7327746,DSNAME7951,Q68561,,,,
-names-chicago.csv,"Salutati, Coluccio, 1331-1406",author,,,,,,,,human,Coluccio Salutati,Q93113,Q40456
-names-chicago.csv,"Thureyo, Petrus de, -1410",former owner,,,human,Petrus de Thureyo,Q131856723,DSNAME7952,Q68562,,,,
-names-chicago.csv,"Salgado Correa, Alejo, active 1550-1585",author,,,human,Alejo Salgado Correa,Q131856724,DSNAME7953,Q68563,,,,
-names-chicago.csv,"Blinov, Ivan Gavrilovich, 1872-1944",scribe,,,human,Ivan Blinov,Q18907954,DSNAME7954,Q68564,,,,
-names-chicago.csv,"Chaucer, Geoffrey, -1400",author,,,,,,,,human,Geoffrey Chaucer,Q5683,Q12798
-names-chicago.csv,"Kay, Arthur, 1861-1939",former owner,,,human,Arthur Kay,Q56825771,DSNAME7955,Q68565,,,,
-names-chicago.csv,"Villena, Enrique de, 1384-1434",author,,,human,Enrique de Villena,Q281456,DSNAME7956,Q68566,,,,
-names-chicago.csv,"Hengstenberg, Ernst Wilhelm, 1802-1869",former owner,,,human,Ernst Wilhelm Hengstenberg,Q653677,DSNAME7957,Q68567,,,,
-names-chicago.csv,"Baptist Union Theological Seminary (Morgan Park, Ill.)",former owner,,,organization,Baptist Union Theological Seminary,Q131822036,DSNAME8052,Q68662,,,,
-names-chicago.csv,"Isidore, of Seville, Saint, -636",author,,http://id.loc.gov/authorities/names/n80139470,,,,,,human,Isidore of Seville,Q166876,Q428
-names-chicago.csv,"Roger, of Waltham, -1336",author,,,human,Roger Waltham,Q18527594,DSNAME7958,Q68568,,,,
-names-chicago.csv,"Betham, William, Sir, 1779-1853",former owner,,,,,,,,human,William Betham,Q8005506,Q7293
-names-chicago.csv,"Ashburnham, Bertram Ashburnham, Earl of, 1797-1878",former owner,,http://id.loc.gov/authorities/names/n82255127,,,,,,human,"Bertram Ashburnham, 4th Earl of Ashburnham",Q21855104,Q1565
-names-chicago.csv,"Petrus, Comestor, active 12th century",author,,http://viaf.org/viaf/40175167,,,,,,human,Petrus Comestor,Q785250,Q1586
-names-chicago.csv,Kloster Ochsenhausen,former owner,,,organization,Ochsenhausen Abbey,Q561312,DSNAME8053,Q68663,,,,
-names-chicago.csv,"Proclus, approximately 410-485",author,,,human,Proclus,Q271809,DSNAME7959,Q68569,,,,
-names-chicago.csv,Diogenes Laertius,author,,,,,,,,human,Diogenes Laërtius,Q59138,Q40539
-names-chicago.csv,"Fishacre, Richard, approximately 1200-1248",author,,,human,Richard Fishacre,Q7325681,DSNAME7960,Q68570,,,,
-names-chicago.csv,"Eyre, Thomas, -1792",former owner,,,human,Thomas Eyre,Q131856725,DSNAME7961,Q68571,,,,
-names-chicago.csv,"Bruni, Leonardo, 1369-1444",author,,,,,,,,human,Leonardo Bruni,Q314488,Q1924
-names-chicago.csv,"Navagero, Bernardo, 1507-1565",author,,,,,,,,human,Bernardo Navagero,Q823015,Q41321
-names-chicago.csv,"Statius, P. Papinius",author,,,human,Publius Papinius Statius,Q243203,DSNAME5264,Q41709,,,,
-names-chicago.csv,"Averroës, 1126-1198",author,,,,,,,,human,Averroes,Q39837,Q3262
-names-chicago.csv,"Bullinger, Heinrich, 1504-1575",author,,http://id.loc.gov/authorities/names/n80045117,,,,,,human,Heinrich Bullinger,Q123839,Q5096
-names-chicago.csv,"Brooke, Richard, fl. 1650",author,,,human,Richard Brooke,Q131856726,DSNAME7962,Q68572,,,,
-names-chicago.csv,"Burchard, of Mount Sion, -1285",author,,http://id.loc.gov/authorities/names/n2004063569,,,,,,human,Burchard of Mount Sion,Q4998199,Q7592
-names-chicago.csv,"Libri, Guillaume, 1803-1869",former owner,,http://id.loc.gov/authorities/names/n91076026,,,,,,human,Guglielmo Libri Carucci dalla Sommaja,Q1251586,Q382
-names-chicago.csv,"Phillipps, Thomas, Sir, 1792-1872",former owner,,http://id.loc.gov/authorities/names/n50078542,,,,,,human,Thomas Phillipps,Q2147709,Q385
-names-chicago.csv,Francis Edwards (Firm),former owner,,,organization,"Francis Edwards, Ltd.",Q120869246,DSNAME8054,Q68664,,,,
-names-chicago.csv,"Ovid, 43 B.C.-17 A.D. or 18 A.D.",author,,,,,,,,human,Ovid,Q7198,Q41379
-names-chicago.csv,"Petrus Veronensis, active 1519",author,,,human,Petrus Veronensis,Q131856727,DSNAME7963,Q68573,,,,
-names-chicago.csv,"Eusebius, of Caesarea, Bishop of Caesarea, approximately 260-approximately 340",author,,http://id.loc.gov/authorities/names/n79150225,,,,,,human,Eusebius of Caesarea,Q142999,Q899
-names-chicago.csv,"Taccone, Francesco, marchese, 1763-1818",former owner,,,human,Francesco Taccone,Q120869147,DSNAME7964,Q68574,,,,
-names-chicago.csv,"Germain, Jean, -1461",author,,,human,Jean Germain,Q3172288,DSNAME2975,Q20286,,,,
-names-chicago.csv,"Jerome, Saint, -419 or 420",author,,,,,,,,human,Jerome,Q44248,Q898
-names-chicago.csv,"Ubaldi, Baldo degli, 1327-1400",author,,,human,Baldus de Ubaldis,Q504929,DSNAME3768,Q40213,,,,
-names-chicago.csv,"Suriano, Michele, active 1558-1573",author,,,human,Michele Suriano,Q3311319,DSNAME7965,Q68575,,,,
-names-chicago.csv,"Stirling Maxwell, William, 1818-1878",former owner,,,,,,,,human,"Sir William Stirling-Maxwell, 9th Baronet",Q334215,Q41718
-names-chicago.csv,"Heneage, Thomas, 1533?-1595",author,,,human,Thomas Heneage,Q5800654,DSNAME7966,Q68576,,,,
-names-chicago.csv,"Albertus, Magnus, Saint, 1193?-1280",author,,http://id.loc.gov/authorities/names/n81007973,,,,,,human,Albertus Magnus,Q60059,Q410
-names-chicago.csv,Juvenal,author,,,,,,,,human,Juvenal,Q193800,Q41056
-names-chicago.csv,"Sanguigni, Battista di Biagio, 1392 or 1393-1451",illuminator,,,human,Battista di Biagio Sanguigni,Q963010,DSNAME3843,Q40288,,,,
-names-chicago.csv,Middelburg (Netherlands),author,,,organization,Middelburg,Q52101,DSNAME8055,Q68665,,,,
-names-chicago.csv,"Velada, D. Gomez Davila, Marques de",author,,,human,"D. Gomez Davila, Marques de Velada",Q131856728,DSNAME7967,Q68577,,,,
-names-chicago.csv,"Guillaume, de Lorris, active 1230",author,,http://id.loc.gov/authorities/names/n50018450,,,,,,human,Guillaume de Lorris,Q544959,Q7918
-names-chicago.csv,"Cockerell, Sydney Carlyle, Sir, 1867-1962",former owner,,,,,,,,human,Sydney Cockerell,Q966843,Q1609
-names-chicago.csv,Catholic Church. Pope (1513-1521 : Leo X),author,,,,,,,,organization;human,Catholic Church;Leo X,Q9592;Q49237,Q425;Q3831
-names-chicago.csv,"Lydgate, John, 1370?-1451",author,,,,,,,,human,John Lydgate,Q662063,Q16506
-names-chicago.csv,"Charles V, Holy Roman Emperor, 1500-1558",author,,,,,,,,human,Charles V,Q32500,Q7656
-names-chicago.csv,"Lucan, 39-65",author,,,,,,,,human,Lucan,Q188646,Q41156
-names-chicago.csv,"Petersen, William O., 1926-2012",former owner,,,human,William O. Petersen,Q131822032,DSNAME7968,Q68578,,,,
-names-chicago.csv,"Gerardus, de Senis, -1336",author,,,human,Gerardo da Siena,Q55228111,DSNAME7969,Q68579,,,,
-names-chicago.csv,"Giles, of Rome, Archbishop of Bourges, approximately 1243-1316",author,,,,,,,,human,Giles of Rome,Q380647,Q40080
-names-chicago.csv,"Leo I, Pope, -461",author,,,,,,,,human,Leo I,Q43954,Q41119
-names-chicago.csv,"Bartholomew, of San Concordio, 1262-1347",author,,,,,,,,human,Bartholomew of San Concordio,Q3635444,Q855
-names-chicago.csv,"Bernard, of Clairvaux, Saint, 1090 or 1091-1153",author,,http://viaf.org/viaf/59875293,,,,,,human,Bernard of Clairvaux,Q188411,Q10865
-names-chicago.csv,"Boccaccio, Giovanni, 1313-1375",author,,,,,,,,human,Giovanni Boccaccio,Q1402,Q418
-names-chicago.csv,"Augustine, of Hippo, Saint, 354-430",author,,,,,,,,human,Augustine of Hippo,Q8018,Q1515
-names-chicago.csv,"Michaelis, de Pergamo, active 1432",scribe,,,human,Michaelis de Pergamo,Q131856729,DSNAME7970,Q68580,,,,
-names-chicago.csv,"Calderino, Domizio, 1447-1478",author,,,human,Domizio Calderini,Q16550450,DSNAME7971,Q68581,,,,
-names-chicago.csv,"Diodorus, Siculus",author,,http://id.loc.gov/authorities/names/n50028820,,,,,,human,Diodorus Siculus,Q171241,Q12809
-names-chicago.csv,"Guilelmus Peraldus, approximately 1190-1271",author,,,,,,,,human,William Perault,Q8016774,Q5152
-names-chicago.csv,"Salutati, Coluccio, 1331-1406",former owner,,,,,,,,human,Coluccio Salutati,Q93113,Q40456
-names-chicago.csv,"Gunsaulus, Frank W. 1856-1921",former owner,,http://id.loc.gov/authorities/names/no97070198,,,,,,human,Frank W. Gunsaulus,Q5490149,Q40825
-names-chicago.csv,"Ess, Leander van, 1772-1847",former owner,,,,,,,,human,Johann Heinrich van Ess,Q1810643,Q1514
-names-chicago.csv,"Arnold, William Harris, 1854-1923",former owner,,,,,,,,human,William Harris Arnold,Q109854300,Q1662
-names-chicago.csv,"Ricketts, C. L. 1859-1941",former owner,,,,,,,,human,Coella Lindsay Ricketts,Q116771179,Q1527
-names-chicago.csv,"Convento de Santa Clara de Astudillo (Palencia, Spain)",author,,,organization,Real Monasterio de Santa Clara,Q29975599,DSNAME8056,Q68666,,,,
-names-chicago.csv,"Nicetas, Archbishop of Heraclea, active 11th century",author,,,human,Nicetas of Heraclea,Q7024749,DSNAME4881,Q41326,,,,
-names-chicago.csv,"Salguis, Raimundus de",author,,,human,Raymundus de Salgis,Q120599069,DSNAME7972,Q68582,,,,
-names-chicago.csv,"Dunkin, Alfred John, 1812-1879",author,,,human,Alfred John Dunkin,Q4722965,DSNAME7973,Q68583,,,,
-names-chicago.csv,"Louise de Lorraine, Duchess of Bouillon",former owner,,,human,"Louise of Lorraine, Duchess of Bouillon",Q3840480,DSNAME7974,Q68584,,,,
-names-chicago.csv,"Burlaeus, Gualterus, 1275-1345",author,,,,,,,,human,Walter Burley,Q1862572,Q40371
-names-chicago.csv,"Mīr Khvānd, Muḥammad ibn Khāvandshāh, 1433-1498",author,,,,,,,,human,Mīr-Khvānd,Q1377629,Q42716
-names-chicago.csv,"Mexía, Pedro, 1496?-1552",author,,,human,Pedro Mexía,Q462274,DSNAME7975,Q68585,,,,
-names-chicago.csv,"Nikolaos, of Edessa, active 12th century",scribe,,,human,Nikolaos of Edessa,Q131822033,DSNAME7976,Q68586,,,,
-names-chicago.csv,"Forrer, Robert, 1866-1947",former owner,,,,,,,,human,Robert Forrer,Q119493,Q16563
-names-chicago.csv,"Perez de Cabrera, Juan",author,,,human,Juan Pérez de Cabrera,Q51883442,DSNAME7977,Q68587,,,,
-names-chicago.csv,"Petrarca, Francesco, 1304-1374",author,,,,,,,,human,Petrarch,Q1401,Q16486
-names-chicago.csv,Spain. Audiencia (Granada),author,,,organization,Royal Chancellery of Granada,Q1095017,DSNAME1336,Q7277,,,,
-names-chicago.csv,Aristotle,author,,,,,,,,human,Aristotle,Q868,Q395
-names-chicago.csv,"Varenne de Fenille, P. C. -1794",former owner,,,human,Philibert-Charles-Marie Varenne de Fenille,Q107532779,DSNAME7978,Q68588,,,,
-names-chicago.csv,"Pears, Edwin, 1835-1919",former owner,,,human,Edwin Pears,Q3048804,DSNAME7979,Q68589,,,,
-names-chicago.csv,"Richard, of St. Victor, -1173",author,,,,,,,,human,Richard of Saint Victor,Q1344799,Q20084
-names-chicago.csv,"Rogers, Thomas, -1616",author,,,human,Thomas Rogers,Q7793621,DSNAME7980,Q68590,,,,
-names-chicago.csv,"Golding, Charles",former owner,,,human,Charles Golding,Q131856730,DSNAME7981,Q68591,,,,
-names-chicago.csv,"Spelman, Henry, Sir, 1564?-1641",former owner,,,,,,,,human,Henry Spelman,Q1035378,Q41702
-names-chicago.csv,"Turner, Dawson, 1775-1858",former owner,,http://id.loc.gov/authorities/names/n88218854,,,,,,human,Dawson Turner,Q2628753,Q41789
-names-chicago.csv,"Palgrave, Francis, Sir, 1788-1861",former owner,,,human,Francis Palgrave,Q1340378,DSNAME7982,Q68592,,,,
-names-chicago.csv,"Yamamoto, Kisei, ?-1756",author,"山本亀成, ?-1756",,human,Kisei Yamamoto,Q131856731,DSNAME7983,Q68593,,,,
-names-chicago.csv,"Seneca, Lucius Annaeus, approximately 4 B.C.-65 A.D.",author,,http://viaf.org/viaf/90637919,,,,,,human,Seneca,Q2054,Q6126
-names-chicago.csv,"John Chrysostom, Saint, -407",author,,http://id.loc.gov/authorities/names/n80001460,,,,,,human,John Chrysostom,Q43706,Q6124
-names-chicago.csv,"Alexander, de Villa Dei",author,,,,,,,,human,Alexander of Villedieu,Q692413,Q3276
-names-chicago.csv,"Ermengaud, Matfre, active 1288-1322",author,,,human,Matfre Ermengaud,Q2444899,DSNAME7984,Q68594,,,,
-names-chicago.csv,"Schlüsselburg, Conrad, 1543-1619",author,,,human,Conrad Schlüsselburg,Q1782304,DSNAME7985,Q68595,,,,
-names-chicago.csv,"Rudolf II, Holy Roman Emperor, 1552-1612",author,,http://id.loc.gov/authorities/names/n81004066,,,,,,human,Emperor Rudolf II,Q150586,Q4395
-names-chicago.csv,"Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203",author,نظامى گنجوى,,,,,,,human,Nizami Ganjavi,Q234908,Q16480
-names-chicago.csv,"Cavalcanti, Bartolomeo, 1503-1562",author,,,human,Bartolomeo Cavalcanti,Q4206877,DSNAME7986,Q68596,,,,
-names-chicago.csv,"Theodōros, ho Hagiopetritēs, active 13th century-14th century",scribe,,,human,Theodoros Hyrtakenos,Q7781836,DSNAME7987,Q68597,,,,
-names-chicago.csv,"Albericus, de Rosate, 1290-1360",author,,,human,Albericus de Rosate,Q3607990,DSNAME7988,Q68598,,,,
-names-chicago.csv,"Hayashi, Shihei, 1738-1793",author,"林子平, 1738-1793",http://id.loc.gov/authorities/names/n82000980,,,,,,human,Hayashi Shihei,Q382306,Q12880
-names-chicago.csv,"Colonne, Guido delle, active 13th century",author,,,,,,,,human,Guido delle Colonne,Q1248842,Q1957
-names-chicago.csv,"Jacobus, de Cessolis, active 1288-1322",author,,,,,,,,human,Jacobus de Cessolis,Q969459,Q40919
-names-chicago.csv,"Sebastian of Naples, active 1482",author,,,human,Sebastian of Naples,Q131856732,DSNAME7989,Q68599,,,,
-names-chicago.csv,"Eck, Johann, 1486-1543",author,,,human,Johann Eck,Q60298,DSNAME7990,Q68600,,,,
-names-chicago.csv,"Benavente, Alonzo Pimentel, Conde de",author,,,human,"Alonzo Pimentel, Conde de Benavente",Q131856733,DSNAME7991,Q68601,,,,
-names-chicago.csv,"Hufeland, Christoph Wilhelm, 1762-1836",author,,,human,Christoph Wilhelm Hufeland,Q32257,DSNAME7992,Q68602,,,,
-names-chicago.csv,"John, of Wales, -approximately 1285",author,,,human,John of Wales,Q981494,DSNAME2240,Q16543,,,,
-names-chicago.csv,"Peter Damian, Saint, 1007?-1072",author,,,,,,,,human,Peter Damian,Q258369,Q839
-names-chicago.csv,"Ephraem, Syrus, Saint, 303-373",author,,,,,,,,human,Ephrem the Syrian,Q200608,Q40603
-names-chicago.csv,"Caesarius, of Arles, Saint, 470?-542",author,,,,,,,,human,Caesarius of Arles,Q304832,Q27881
-names-chicago.csv,"Alcuin, 735-804",author,,,,,,,,human,Alcuin,Q154332,Q1543
-names-chicago.csv,"Cyril, Saint, Bishop of Jerusalem, approximately 315-386",supposed author,,,human,Cyril of Jerusalem,Q298654,DSNAME7993,Q68603,,,,
-names-chicago.csv,"Hugh, of Saint-Victor, 1096?-1141",author,,,,,,,,human,Hugh of Saint Victor,Q317554,Q1511
-names-chicago.csv,"Jacopone, da Todi, 1230-1306",author,,,,,,,,human,Jacopone da Todi,Q317267,Q16690
-names-chicago.csv,"Uwayanagi, Yoshihiro, 1711-1790",author,"上柳美啓, 1711-1790",,human,Yoshihiro Uwayanagi,Q131856735,DSNAME7994,Q68604,,,,
-names-chicago.csv,"Raymond, of Peñafort, Saint, 1175?-1275",author,,http://id.loc.gov/authorities/names/n81074464,,,,,,human,Raymond of Penyafort,Q318980,Q460
-names-chicago.csv,"Herolt, Johann",author,,http://id.loc.gov/authorities/names/nr93005279,,,,,,human,Johann Herolt,Q1697670,Q40873
-names-chicago.csv,"Bartolomeo, di ser Bartolomeo, active 1493",author,,,human,Bartolomeo di ser Bartolomeo,Q131856736,DSNAME7995,Q68605,,,,
-names-chicago.csv,Horace,author,,http://id.loc.gov/authorities/names/n79081354.html,,,,,,human,Horace,Q6197,Q1599
-names-chicago.csv,"Linlithgow, John Adrian Louis Hope, Marquess of, 1860-1908",former owner,,,,,,,,human,"John Hope, 1st Marquess of Linlithgow",Q335178,Q884
-names-chicago.csv,"Frank, Mortimer, 1874-1919",former owner,,,human,Mortimer Frank,Q96194150,DSNAME7996,Q68606,,,,
-names-chicago.csv,"Bartoli, Cosimo, 1503-1572",author,,,human,Cosimo Bartoli,Q1136048,DSNAME7997,Q68607,,,,
-names-chicago.csv,"Bracciolini, Poggio, 1380-1459",author,,,,,,,,human,Poggio Bracciolini,Q318254,Q40332
-names-chicago.csv,"Peter Lombard, Bishop of Paris, approximately 1100-1160",author,,,,,,,,human,Peter Lombard,Q315347,Q1124
-names-chicago.csv,"Varaggio, Giacomo de, 1230-1298",author,,,human,Jacobus de Voragine,Q313460,DSNAME3083,Q7339,,,,
-names-chicago.csv,Orthodox Eastern Church,author,,http://id.loc.gov/authorities/names/n50000556,,,,,,organization,Eastern Orthodox Church,Q35032,Q4406
-names-chicago.csv,"Barbaro, Antonio, active 1573",author,,,human,Antonio Barbaro,Q131856737,DSNAME7998,Q68608,,,,
-names-chicago.csv,"Joannes Francis Binus, approximately 1490-1556",author,,,human,Joannes Francis Binus,Q131856738,DSNAME7999,Q68609,,,,
-names-chicago.csv,"Usuard, -876 or 877",author,,,,,,,,human,Usuard,Q3552715,Q16477
-names-chicago.csv,"Herd, John, 1512-1588",author,,,human,John Herd,Q18546578,DSNAME8000,Q68610,,,,
-names-chicago.csv,"Dante Alighieri, 1265-1321",author,,,,,,,,human,Dante Alighieri,Q1067,Q40500
-names-chicago.csv,R.R. Donnelley and Sons Company,former owner,,,organization,RR Donnelley,Q2124539,DSNAME8057,Q68667,,,,
-names-chicago.csv,"Lopez family (Toledo, Spain)",author,,,,,,,,,,,
-names-chicago.csv,"Charles VIII, King of France, 1470-1498",author,,http://id.loc.gov/authorities/names/n82158482,,,,,,human,Charles VIII of France,Q134452,Q8214
-names-chicago.csv,"Barozzi, Pietro, 1441-1507",author,,,human,Pietro Barozzi,Q3903680,DSNAME8001,Q68611,,,,
-names-chicago.csv,"Grosseteste, Robert, 1175?-1253",author,,,,,,,,human,Robert Grosseteste,Q256541,Q6143
-names-chicago.csv,"Wheeler, Charles V. 1866-1941",former owner,,,human,Charles V. Wheeler,Q120898728,DSNAME5666,Q42139,,,,
-names-chicago.csv,"Fisher, Otto Orren",former owner,,,,,,,,human,Otto Orren Fisher,Q116326593,Q8429
-names-chicago.csv,"Guido, de Monte Rocherii, active 14th century",author,,http://id.loc.gov/authorities/names/n90667250.html,,,,,,human,Guido de Monte Rochen,Q5615652,Q20151
-names-chicago.csv,"Collegio dei gesuiti a San Bartolomeo (Modena, Italy)",former owner,,,organization,Jesuit College of San Bartolomeo,Q131822037,DSNAME8058,Q68668,,,,
-names-chicago.csv,Villa de Lucena (Spain),author,,,,,,,,,,,
-names-chicago.csv,"Cockerell, Sydney Carlyle, Sir, 1867-1962",former owner,,,,,,,,human,Sydney Cockerell,Q966843,Q1609
-names-chicago.csv,"Ruiz de Alarcon, Jorge",author,,,,,,,,,,,
-names-chicago.csv,"Justinian I, Emperor of the East, 483?-565",author,,http://viaf.org/viaf/88881722,,,,,,human,Justinian I,Q41866,Q1641
-names-chicago.csv,"Vergerio, Pietro Paolo, 1370-1444",author,,,human,Pier Paolo Vergerio the Elder,Q737756,DSNAME8002,Q68612,,,,
-names-chicago.csv,"Augustus Frederick, Prince, Duke of Sussex, 1773-1843",former owner,,,,,,,,human,"Prince Augustus Frederick, Duke of Sussex",Q375467,Q1637
-names-chicago.csv,"Tenison, Thomas, 1636-1715",former owner,,,human,Thomas Tenison,Q680725,DSNAME8003,Q68613,,,,
-names-chicago.csv,"Coene, Jean, IV, active 1490-1520",illuminator,,,human,Jean Coene,Q124572992,DSNAME8004,Q68614,,,,
-names-chicago.csv,"Cabrera, Andres de",author,,,human,Andrés Cabrera,Q5675621,DSNAME8005,Q68615,,,,
-names-chicago.csv,"Boccaccio, Giovanni, 1313-1375",author,,,,,,,,human,Giovanni Boccaccio,Q1402,Q418
-names-chicago.csv,"Multani, Muhammad Mas'ud bin Muhammad",author,,,human,Muhammad Mas'ud bin Muhammad Multani,Q131856739,DSNAME8006,Q68616,,,,
-names-chicago.csv,"Basil, Saint, Bishop of Caesarea, approximately 329-379",author,,,,,,,,human,Basil of Caesarea,Q44258,Q20081
-names-chicago.csv,"Julianus, Saint, Bishop of Toledo, -690",author,,,,,,,,human,Julian of Toledo,Q722563,Q67632
-names-chicago.csv,"Leontius, Bishop of Neapolis, active 7th century",author,,,human,Leontios of Neapolis,Q3298419,DSNAME4680,Q41125,,,,
-names-chicago.csv,"Remi, d'Auxerre, approximately 841-908",author,,,,,,,,human,Remigius of Auxerre,Q1383306,Q41566
-names-chicago.csv,"Pius VI, Pope, 1717-1799",former owner,,http://id.loc.gov/authorities/names/n82256873,,,,,,human,Pius VI,Q128019,Q441
-names-chicago.csv,"Geoffrey, of Vinsauf, active 1200",author,,,,,,,,human,Geoffrey of Vinsauf,Q1491994,Q40725
-names-chicago.csv,"Chasseigne (Family : 1498- : Nivernais, France)",former owner,,,organization,Chasseigne family,Q131822038,DSNAME8059,Q68669,,,,
-names-chicago.csv,"Bement, Clarence S. 1843-1923",former owner,,,,,,,,human,Clarence S. Bement,Q29204072,Q18633
-names-chicago.csv,"Guilelmus Peraldus, approximately 1190-1271",author,,,,,,,,human,William Perault,Q8016774,Q5152
-names-chicago.csv,"Śrī Rāmakṛṣṇa, Kavikṛtaṃ",author,,,,,,,,,,,
-names-chicago.csv,"Pelacani da Parma, Biagio, approximately 1347-1416",author,,,human,Blasius of Parma,Q855257,DSNAME3842,Q40287,,,,
-names-chicago.csv,"Valla, Lorenzo, 1407-1457",author,,,,,,,,human,Lorenzo Valla,Q214115,Q41149
-names-chicago.csv,"Bruni, Leonardo, 1369-1444",author,,,,,,,,human,Leonardo Bruni,Q314488,Q1924
-names-chicago.csv,"Savorgnan, Ascanio, active 1529-1562",author,,,human,Ascanio Savorgnano,Q116577948,DSNAME1389,Q7329,,,,
-names-chicago.csv,Inquisition Sicily),author,,,,,,,,,,,
-names-chicago.csv,"De Grey, Thomas Philip De Grey, Earl, 1781-1859",former owner,,,,,,,,human,"Thomas de Grey, 2nd Earl de Grey",Q337676,Q40514
-names-chicago.csv,"Buonincontro, Lorenzo, 1411-1501",author,,,human,Lorenzo Bonincontri,Q11933911,DSNAME8007,Q68617,,,,
-names-chicago.csv,"George, of Trebizond, 1396-1486",author,,,,,,,,human,George of Trebizond,Q533514,Q40729
-names-chicago.csv,"Antonio de Raho, active 1482",author,,,human,Antonio de Raho,Q131856740,DSNAME8008,Q68618,,,,
-names-chicago.csv,"Gregory I, Pope, approximately 540-604",author,,,,,,,,human,Gregory I,Q42827,Q889
-names-chicago.csv,"Innocent III, Pope, 1160 or 1161-1216",author,,,,,,,,human,Innocent III,Q128076,Q1933
-names-chicago.csv,"Juana, la Loca, Queen of Castile, 1479-1555",author,,,,,,,,human,Juana I of Castile,Q171136,Q4376
-names-chicago.csv,"Garnica, Juan de, active 1578-1595",author,,,human,Juan de Garnica,Q131856741,DSNAME8009,Q68619,,,,
-names-chicago.csv,"Barzi, Benedetto, -1459",author,,,human,Benedictus de Plumbino,Q41559754,DSNAME8010,Q68620,,,,
-names-chicago.csv,"Alberti, Leon Battista, 1404-1472",author,,,,,,,,human,Leon Battista Alberti,Q182046,Q40103
-names-chicago.csv,"Cavalca, Domenico, -1342",author,,,,,,,,human,Domenico Cavalca,Q3712952,Q6104
-names-chicago.csv,"Muret, Marc-Antoine, 1526-1585",author,,,human,Muretus,Q1345657,DSNAME8011,Q68621,,,,
-names-chicago.csv,"Nicholas, of Lyra, approximately 1270-1349",author,,http://id.loc.gov/authorities/names/n81077197.html,,,,,,human,Nicholas of Lyra,Q1969164,Q1922
-names-chicago.csv,Masters of the Gold Scrolls,supposed illuminator,,,,,,,,organization,Masters of the Gold Scrolls,Q23888760,Q1488
-names-chicago.csv,"Gregory, of Nyssa, Saint, approximately 335-approximately 394",author,,http://id.loc.gov/authorities/names/n79021401.html,,,,,,human,Gregory of Nyssa,Q191734,Q20083
-names-chicago.csv,"Cavalli, Sigismondo, 1530-1579",author,,,human,Sigismondo Cavalli,Q87124758,DSNAME8012,Q68622,,,,
-names-chicago.csv,"Dominici, Giovanni, 1356?-1420",author,,,human,John Dominici,Q640594,DSNAME8013,Q68623,,,,
-names-chicago.csv,"Fedeli, Vincenzo, active 1561",author,,,human,Vincenzo Fedeli,Q110161868,DSNAME1397,Q7337,,,,
-names-chicago.csv,"Guglielmo, da Varignana, approximately 1270-1339",author,,,human,Guglielmo da Varignana,Q1553412,DSNAME8014,Q68624,,,,
-names-chicago.csv,"Majima, Seigan, -1379",author,"馬島清眼, d. -1379",,human,Seigan Majima,Q131822043,DSNAME8015,Q68625,,,,
-names-chicago.csv,"Aichinger, Wolff",author,,,human,Wolff Aichinger,Q131856742,DSNAME8016,Q68626,,,,
-names-chicago.csv,"Llull, Ramon, 1232?-1316",author,,http://id.loc.gov/authorities/names/n79142616,,,,,,human,Ramon Llull,Q193660,Q7892
+name_as_recorded,role,name_agr,source_authority_uri,instance_of_add,authorized_label_add,structured_value_add,ds_id_add,ds_qid_add,instance_of,authorized_label,structured_value,ds_qid
+"Melanchthon, Philipp, 1497-1560",author,,,human,Philipp Melanchthon,Q76325,DSNAME2108,Q12916,,,,
+"Lippomano, Giralamo, active 1575-1591",author,,,human,Giralamo Lippomano,Q131856722,DSNAME7944,Q68554,,,,
+"Symmachus, Quintus Aurelius, approximately 340-402",author,,,human,Quintus Aurelius Symmachus,Q355720,DSNAME7945,Q68555,,,,
+"Constantine, the Reader",scribe,,,human,Constantine the Reader,Q131822031,DSNAME7946,Q68556,,,,
+"Mathesius, Johann, 1504-1565",author,,,human,Johannes Mathesius,Q89904,DSNAME7947,Q68557,,,,
+Catholic Church,author,,http://viaf.org/viaf/130782063,,,,,,organization,Catholic Church,Q9592,Q425
+"Ariosto, Lodovico, 1474-1533",author,,,human,Ludovico Ariosto,Q48900,DSNAME7948,Q68558,,,,
+"Bernays, Michael, 1834-1897",former owner,,,human,Michael Bernays,Q73892,DSNAME7949,Q68559,,,,
+Catholic Church,author,,http://viaf.org/viaf/130782063,,,,,,organization,Catholic Church,Q9592,Q425
+"Piccolomini, Francesco, 1520-1604",author,,,human,Francesco Piccolomini,Q21051990,DSNAME7950,Q68560,,,,
+"McKeon, Richard 1900-1985",former owner,,,human,Richard McKeon,Q7327746,DSNAME7951,Q68561,,,,
+"Salutati, Coluccio, 1331-1406",author,,,,,,,,human,Coluccio Salutati,Q93113,Q40456
+"Thureyo, Petrus de, -1410",former owner,,,human,Petrus de Thureyo,Q131856723,DSNAME7952,Q68562,,,,
+"Salgado Correa, Alejo, active 1550-1585",author,,,human,Alejo Salgado Correa,Q131856724,DSNAME7953,Q68563,,,,
+"Blinov, Ivan Gavrilovich, 1872-1944",scribe,,,human,Ivan Blinov,Q18907954,DSNAME7954,Q68564,,,,
+"Chaucer, Geoffrey, -1400",author,,,,,,,,human,Geoffrey Chaucer,Q5683,Q12798
+"Kay, Arthur, 1861-1939",former owner,,,human,Arthur Kay,Q56825771,DSNAME7955,Q68565,,,,
+"Villena, Enrique de, 1384-1434",author,,,human,Enrique de Villena,Q281456,DSNAME7956,Q68566,,,,
+"Hengstenberg, Ernst Wilhelm, 1802-1869",former owner,,,human,Ernst Wilhelm Hengstenberg,Q653677,DSNAME7957,Q68567,,,,
+"Baptist Union Theological Seminary (Morgan Park, Ill.)",former owner,,,organization,Baptist Union Theological Seminary,Q131822036,DSNAME8052,Q68662,,,,
+"Isidore, of Seville, Saint, -636",author,,http://id.loc.gov/authorities/names/n80139470,,,,,,human,Isidore of Seville,Q166876,Q428
+"Roger, of Waltham, -1336",author,,,human,Roger Waltham,Q18527594,DSNAME7958,Q68568,,,,
+"Betham, William, Sir, 1779-1853",former owner,,,,,,,,human,William Betham,Q8005506,Q7293
+"Ashburnham, Bertram Ashburnham, Earl of, 1797-1878",former owner,,http://id.loc.gov/authorities/names/n82255127,,,,,,human,"Bertram Ashburnham, 4th Earl of Ashburnham",Q21855104,Q1565
+"Petrus, Comestor, active 12th century",author,,http://viaf.org/viaf/40175167,,,,,,human,Petrus Comestor,Q785250,Q1586
+Kloster Ochsenhausen,former owner,,,organization,Ochsenhausen Abbey,Q561312,DSNAME8053,Q68663,,,,
+"Proclus, approximately 410-485",author,,,human,Proclus,Q271809,DSNAME7959,Q68569,,,,
+Diogenes Laertius,author,,,,,,,,human,Diogenes Laërtius,Q59138,Q40539
+"Fishacre, Richard, approximately 1200-1248",author,,,human,Richard Fishacre,Q7325681,DSNAME7960,Q68570,,,,
+"Eyre, Thomas, -1792",former owner,,,human,Thomas Eyre,Q131856725,DSNAME7961,Q68571,,,,
+"Bruni, Leonardo, 1369-1444",author,,,,,,,,human,Leonardo Bruni,Q314488,Q1924
+"Navagero, Bernardo, 1507-1565",author,,,,,,,,human,Bernardo Navagero,Q823015,Q41321
+"Statius, P. Papinius",author,,,human,Publius Papinius Statius,Q243203,DSNAME5264,Q41709,,,,
+"Averroës, 1126-1198",author,,,,,,,,human,Averroes,Q39837,Q3262
+"Bullinger, Heinrich, 1504-1575",author,,http://id.loc.gov/authorities/names/n80045117,,,,,,human,Heinrich Bullinger,Q123839,Q5096
+"Brooke, Richard, fl. 1650",author,,,human,Richard Brooke,Q131856726,DSNAME7962,Q68572,,,,
+"Burchard, of Mount Sion, -1285",author,,http://id.loc.gov/authorities/names/n2004063569,,,,,,human,Burchard of Mount Sion,Q4998199,Q7592
+"Libri, Guillaume, 1803-1869",former owner,,http://id.loc.gov/authorities/names/n91076026,,,,,,human,Guglielmo Libri Carucci dalla Sommaja,Q1251586,Q382
+"Phillipps, Thomas, Sir, 1792-1872",former owner,,http://id.loc.gov/authorities/names/n50078542,,,,,,human,Thomas Phillipps,Q2147709,Q385
+Francis Edwards (Firm),former owner,,,organization,"Francis Edwards, Ltd.",Q120869246,DSNAME8054,Q68664,,,,
+"Ovid, 43 B.C.-17 A.D. or 18 A.D.",author,,,,,,,,human,Ovid,Q7198,Q41379
+"Petrus Veronensis, active 1519",author,,,human,Petrus Veronensis,Q131856727,DSNAME7963,Q68573,,,,
+"Eusebius, of Caesarea, Bishop of Caesarea, approximately 260-approximately 340",author,,http://id.loc.gov/authorities/names/n79150225,,,,,,human,Eusebius of Caesarea,Q142999,Q899
+"Taccone, Francesco, marchese, 1763-1818",former owner,,,human,Francesco Taccone,Q120869147,DSNAME7964,Q68574,,,,
+"Germain, Jean, -1461",author,,,human,Jean Germain,Q3172288,DSNAME2975,Q20286,,,,
+"Jerome, Saint, -419 or 420",author,,,,,,,,human,Jerome,Q44248,Q898
+"Ubaldi, Baldo degli, 1327-1400",author,,,human,Baldus de Ubaldis,Q504929,DSNAME3768,Q40213,,,,
+"Suriano, Michele, active 1558-1573",author,,,human,Michele Suriano,Q3311319,DSNAME7965,Q68575,,,,
+"Stirling Maxwell, William, 1818-1878",former owner,,,,,,,,human,"Sir William Stirling-Maxwell, 9th Baronet",Q334215,Q41718
+"Heneage, Thomas, 1533?-1595",author,,,human,Thomas Heneage,Q5800654,DSNAME7966,Q68576,,,,
+"Albertus, Magnus, Saint, 1193?-1280",author,,http://id.loc.gov/authorities/names/n81007973,,,,,,human,Albertus Magnus,Q60059,Q410
+Juvenal,author,,,,,,,,human,Juvenal,Q193800,Q41056
+"Sanguigni, Battista di Biagio, 1392 or 1393-1451",illuminator,,,human,Battista di Biagio Sanguigni,Q963010,DSNAME3843,Q40288,,,,
+Middelburg (Netherlands),author,,,organization,Middelburg,Q52101,DSNAME8055,Q68665,,,,
+"Velada, D. Gomez Davila, Marques de",author,,,human,"D. Gomez Davila, Marques de Velada",Q131856728,DSNAME7967,Q68577,,,,
+"Guillaume, de Lorris, active 1230",author,,http://id.loc.gov/authorities/names/n50018450,,,,,,human,Guillaume de Lorris,Q544959,Q7918
+"Cockerell, Sydney Carlyle, Sir, 1867-1962",former owner,,,,,,,,human,Sydney Cockerell,Q966843,Q1609
+Catholic Church. Pope (1513-1521 : Leo X),author,,,,,,,,organization;human,Catholic Church;Leo X,Q9592;Q49237,Q425;Q3831
+"Lydgate, John, 1370?-1451",author,,,,,,,,human,John Lydgate,Q662063,Q16506
+"Charles V, Holy Roman Emperor, 1500-1558",author,,,,,,,,human,Charles V,Q32500,Q7656
+"Lucan, 39-65",author,,,,,,,,human,Lucan,Q188646,Q41156
+"Petersen, William O., 1926-2012",former owner,,,human,William O. Petersen,Q131822032,DSNAME7968,Q68578,,,,
+"Gerardus, de Senis, -1336",author,,,human,Gerardo da Siena,Q55228111,DSNAME7969,Q68579,,,,
+"Giles, of Rome, Archbishop of Bourges, approximately 1243-1316",author,,,,,,,,human,Giles of Rome,Q380647,Q40080
+"Leo I, Pope, -461",author,,,,,,,,human,Leo I,Q43954,Q41119
+"Bartholomew, of San Concordio, 1262-1347",author,,,,,,,,human,Bartholomew of San Concordio,Q3635444,Q855
+"Bernard, of Clairvaux, Saint, 1090 or 1091-1153",author,,http://viaf.org/viaf/59875293,,,,,,human,Bernard of Clairvaux,Q188411,Q10865
+"Boccaccio, Giovanni, 1313-1375",author,,,,,,,,human,Giovanni Boccaccio,Q1402,Q418
+"Augustine, of Hippo, Saint, 354-430",author,,,,,,,,human,Augustine of Hippo,Q8018,Q1515
+"Michaelis, de Pergamo, active 1432",scribe,,,human,Michaelis de Pergamo,Q131856729,DSNAME7970,Q68580,,,,
+"Calderino, Domizio, 1447-1478",author,,,human,Domizio Calderini,Q16550450,DSNAME7971,Q68581,,,,
+"Diodorus, Siculus",author,,http://id.loc.gov/authorities/names/n50028820,,,,,,human,Diodorus Siculus,Q171241,Q12809
+"Guilelmus Peraldus, approximately 1190-1271",author,,,,,,,,human,William Perault,Q8016774,Q5152
+"Salutati, Coluccio, 1331-1406",former owner,,,,,,,,human,Coluccio Salutati,Q93113,Q40456
+"Gunsaulus, Frank W. 1856-1921",former owner,,http://id.loc.gov/authorities/names/no97070198,,,,,,human,Frank W. Gunsaulus,Q5490149,Q40825
+"Ess, Leander van, 1772-1847",former owner,,,,,,,,human,Johann Heinrich van Ess,Q1810643,Q1514
+"Arnold, William Harris, 1854-1923",former owner,,,,,,,,human,William Harris Arnold,Q109854300,Q1662
+"Ricketts, C. L. 1859-1941",former owner,,,,,,,,human,Coella Lindsay Ricketts,Q116771179,Q1527
+"Convento de Santa Clara de Astudillo (Palencia, Spain)",author,,,organization,Real Monasterio de Santa Clara,Q29975599,DSNAME8056,Q68666,,,,
+"Nicetas, Archbishop of Heraclea, active 11th century",author,,,human,Nicetas of Heraclea,Q7024749,DSNAME4881,Q41326,,,,
+"Salguis, Raimundus de",author,,,human,Raymundus de Salgis,Q120599069,DSNAME7972,Q68582,,,,
+"Dunkin, Alfred John, 1812-1879",author,,,human,Alfred John Dunkin,Q4722965,DSNAME7973,Q68583,,,,
+"Louise de Lorraine, Duchess of Bouillon",former owner,,,human,"Louise of Lorraine, Duchess of Bouillon",Q3840480,DSNAME7974,Q68584,,,,
+"Burlaeus, Gualterus, 1275-1345",author,,,,,,,,human,Walter Burley,Q1862572,Q40371
+"Mīr Khvānd, Muḥammad ibn Khāvandshāh, 1433-1498",author,,,,,,,,human,Mīr-Khvānd,Q1377629,Q42716
+"Mexía, Pedro, 1496?-1552",author,,,human,Pedro Mexía,Q462274,DSNAME7975,Q68585,,,,
+"Nikolaos, of Edessa, active 12th century",scribe,,,human,Nikolaos of Edessa,Q131822033,DSNAME7976,Q68586,,,,
+"Forrer, Robert, 1866-1947",former owner,,,,,,,,human,Robert Forrer,Q119493,Q16563
+"Perez de Cabrera, Juan",author,,,human,Juan Pérez de Cabrera,Q51883442,DSNAME7977,Q68587,,,,
+"Petrarca, Francesco, 1304-1374",author,,,,,,,,human,Petrarch,Q1401,Q16486
+Spain. Audiencia (Granada),author,,,organization,Royal Chancellery of Granada,Q1095017,DSNAME1336,Q7277,,,,
+Aristotle,author,,,,,,,,human,Aristotle,Q868,Q395
+"Varenne de Fenille, P. C. -1794",former owner,,,human,Philibert-Charles-Marie Varenne de Fenille,Q107532779,DSNAME7978,Q68588,,,,
+"Pears, Edwin, 1835-1919",former owner,,,human,Edwin Pears,Q3048804,DSNAME7979,Q68589,,,,
+"Richard, of St. Victor, -1173",author,,,,,,,,human,Richard of Saint Victor,Q1344799,Q20084
+"Rogers, Thomas, -1616",author,,,human,Thomas Rogers,Q7793621,DSNAME7980,Q68590,,,,
+"Golding, Charles",former owner,,,human,Charles Golding,Q131856730,DSNAME7981,Q68591,,,,
+"Spelman, Henry, Sir, 1564?-1641",former owner,,,,,,,,human,Henry Spelman,Q1035378,Q41702
+"Turner, Dawson, 1775-1858",former owner,,http://id.loc.gov/authorities/names/n88218854,,,,,,human,Dawson Turner,Q2628753,Q41789
+"Palgrave, Francis, Sir, 1788-1861",former owner,,,human,Francis Palgrave,Q1340378,DSNAME7982,Q68592,,,,
+"Yamamoto, Kisei, ?-1756",author,"山本亀成, ?-1756",,human,Kisei Yamamoto,Q131856731,DSNAME7983,Q68593,,,,
+"Seneca, Lucius Annaeus, approximately 4 B.C.-65 A.D.",author,,http://viaf.org/viaf/90637919,,,,,,human,Seneca,Q2054,Q6126
+"John Chrysostom, Saint, -407",author,,http://id.loc.gov/authorities/names/n80001460,,,,,,human,John Chrysostom,Q43706,Q6124
+"Alexander, de Villa Dei",author,,,,,,,,human,Alexander of Villedieu,Q692413,Q3276
+"Ermengaud, Matfre, active 1288-1322",author,,,human,Matfre Ermengaud,Q2444899,DSNAME7984,Q68594,,,,
+"Schlüsselburg, Conrad, 1543-1619",author,,,human,Conrad Schlüsselburg,Q1782304,DSNAME7985,Q68595,,,,
+"Rudolf II, Holy Roman Emperor, 1552-1612",author,,http://id.loc.gov/authorities/names/n81004066,,,,,,human,Emperor Rudolf II,Q150586,Q4395
+"Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203",author,نظامى گنجوى,,,,,,,human,Nizami Ganjavi,Q234908,Q16480
+"Cavalcanti, Bartolomeo, 1503-1562",author,,,human,Bartolomeo Cavalcanti,Q4206877,DSNAME7986,Q68596,,,,
+"Theodōros, ho Hagiopetritēs, active 13th century-14th century",scribe,,,human,Theodoros Hyrtakenos,Q7781836,DSNAME7987,Q68597,,,,
+"Albericus, de Rosate, 1290-1360",author,,,human,Albericus de Rosate,Q3607990,DSNAME7988,Q68598,,,,
+"Hayashi, Shihei, 1738-1793",author,"林子平, 1738-1793",http://id.loc.gov/authorities/names/n82000980,,,,,,human,Hayashi Shihei,Q382306,Q12880
+"Colonne, Guido delle, active 13th century",author,,,,,,,,human,Guido delle Colonne,Q1248842,Q1957
+"Jacobus, de Cessolis, active 1288-1322",author,,,,,,,,human,Jacobus de Cessolis,Q969459,Q40919
+"Sebastian of Naples, active 1482",author,,,human,Sebastian of Naples,Q131856732,DSNAME7989,Q68599,,,,
+"Eck, Johann, 1486-1543",author,,,human,Johann Eck,Q60298,DSNAME7990,Q68600,,,,
+"Benavente, Alonzo Pimentel, Conde de",author,,,human,"Alonzo Pimentel, Conde de Benavente",Q131856733,DSNAME7991,Q68601,,,,
+"Hufeland, Christoph Wilhelm, 1762-1836",author,,,human,Christoph Wilhelm Hufeland,Q32257,DSNAME7992,Q68602,,,,
+"John, of Wales, -approximately 1285",author,,,human,John of Wales,Q981494,DSNAME2240,Q16543,,,,
+"Peter Damian, Saint, 1007?-1072",author,,,,,,,,human,Peter Damian,Q258369,Q839
+"Ephraem, Syrus, Saint, 303-373",author,,,,,,,,human,Ephrem the Syrian,Q200608,Q40603
+"Caesarius, of Arles, Saint, 470?-542",author,,,,,,,,human,Caesarius of Arles,Q304832,Q27881
+"Alcuin, 735-804",author,,,,,,,,human,Alcuin,Q154332,Q1543
+"Cyril, Saint, Bishop of Jerusalem, approximately 315-386",supposed author,,,human,Cyril of Jerusalem,Q298654,DSNAME7993,Q68603,,,,
+"Hugh, of Saint-Victor, 1096?-1141",author,,,,,,,,human,Hugh of Saint Victor,Q317554,Q1511
+"Jacopone, da Todi, 1230-1306",author,,,,,,,,human,Jacopone da Todi,Q317267,Q16690
+"Uwayanagi, Yoshihiro, 1711-1790",author,"上柳美啓, 1711-1790",,human,Yoshihiro Uwayanagi,Q131856735,DSNAME7994,Q68604,,,,
+"Raymond, of Peñafort, Saint, 1175?-1275",author,,http://id.loc.gov/authorities/names/n81074464,,,,,,human,Raymond of Penyafort,Q318980,Q460
+"Herolt, Johann",author,,http://id.loc.gov/authorities/names/nr93005279,,,,,,human,Johann Herolt,Q1697670,Q40873
+"Bartolomeo, di ser Bartolomeo, active 1493",author,,,human,Bartolomeo di ser Bartolomeo,Q131856736,DSNAME7995,Q68605,,,,
+Horace,author,,http://id.loc.gov/authorities/names/n79081354.html,,,,,,human,Horace,Q6197,Q1599
+"Linlithgow, John Adrian Louis Hope, Marquess of, 1860-1908",former owner,,,,,,,,human,"John Hope, 1st Marquess of Linlithgow",Q335178,Q884
+"Frank, Mortimer, 1874-1919",former owner,,,human,Mortimer Frank,Q96194150,DSNAME7996,Q68606,,,,
+"Bartoli, Cosimo, 1503-1572",author,,,human,Cosimo Bartoli,Q1136048,DSNAME7997,Q68607,,,,
+"Bracciolini, Poggio, 1380-1459",author,,,,,,,,human,Poggio Bracciolini,Q318254,Q40332
+"Peter Lombard, Bishop of Paris, approximately 1100-1160",author,,,,,,,,human,Peter Lombard,Q315347,Q1124
+"Varaggio, Giacomo de, 1230-1298",author,,,human,Jacobus de Voragine,Q313460,DSNAME3083,Q7339,,,,
+Orthodox Eastern Church,author,,http://id.loc.gov/authorities/names/n50000556,,,,,,organization,Eastern Orthodox Church,Q35032,Q4406
+"Barbaro, Antonio, active 1573",author,,,human,Antonio Barbaro,Q131856737,DSNAME7998,Q68608,,,,
+"Joannes Francis Binus, approximately 1490-1556",author,,,human,Joannes Francis Binus,Q131856738,DSNAME7999,Q68609,,,,
+"Usuard, -876 or 877",author,,,,,,,,human,Usuard,Q3552715,Q16477
+"Herd, John, 1512-1588",author,,,human,John Herd,Q18546578,DSNAME8000,Q68610,,,,
+"Dante Alighieri, 1265-1321",author,,,,,,,,human,Dante Alighieri,Q1067,Q40500
+R.R. Donnelley and Sons Company,former owner,,,organization,RR Donnelley,Q2124539,DSNAME8057,Q68667,,,,
+"Lopez family (Toledo, Spain)",author,,,,,,,,,,,
+"Charles VIII, King of France, 1470-1498",author,,http://id.loc.gov/authorities/names/n82158482,,,,,,human,Charles VIII of France,Q134452,Q8214
+"Barozzi, Pietro, 1441-1507",author,,,human,Pietro Barozzi,Q3903680,DSNAME8001,Q68611,,,,
+"Grosseteste, Robert, 1175?-1253",author,,,,,,,,human,Robert Grosseteste,Q256541,Q6143
+"Wheeler, Charles V. 1866-1941",former owner,,,human,Charles V. Wheeler,Q120898728,DSNAME5666,Q42139,,,,
+"Fisher, Otto Orren",former owner,,,,,,,,human,Otto Orren Fisher,Q116326593,Q8429
+"Guido, de Monte Rocherii, active 14th century",author,,http://id.loc.gov/authorities/names/n90667250.html,,,,,,human,Guido de Monte Rochen,Q5615652,Q20151
+"Collegio dei gesuiti a San Bartolomeo (Modena, Italy)",former owner,,,organization,Jesuit College of San Bartolomeo,Q131822037,DSNAME8058,Q68668,,,,
+Villa de Lucena (Spain),author,,,,,,,,,,,
+"Cockerell, Sydney Carlyle, Sir, 1867-1962",former owner,,,,,,,,human,Sydney Cockerell,Q966843,Q1609
+"Ruiz de Alarcon, Jorge",author,,,,,,,,,,,
+"Justinian I, Emperor of the East, 483?-565",author,,http://viaf.org/viaf/88881722,,,,,,human,Justinian I,Q41866,Q1641
+"Vergerio, Pietro Paolo, 1370-1444",author,,,human,Pier Paolo Vergerio the Elder,Q737756,DSNAME8002,Q68612,,,,
+"Augustus Frederick, Prince, Duke of Sussex, 1773-1843",former owner,,,,,,,,human,"Prince Augustus Frederick, Duke of Sussex",Q375467,Q1637
+"Tenison, Thomas, 1636-1715",former owner,,,human,Thomas Tenison,Q680725,DSNAME8003,Q68613,,,,
+"Coene, Jean, IV, active 1490-1520",illuminator,,,human,Jean Coene,Q124572992,DSNAME8004,Q68614,,,,
+"Cabrera, Andres de",author,,,human,Andrés Cabrera,Q5675621,DSNAME8005,Q68615,,,,
+"Boccaccio, Giovanni, 1313-1375",author,,,,,,,,human,Giovanni Boccaccio,Q1402,Q418
+"Multani, Muhammad Mas'ud bin Muhammad",author,,,human,Muhammad Mas'ud bin Muhammad Multani,Q131856739,DSNAME8006,Q68616,,,,
+"Basil, Saint, Bishop of Caesarea, approximately 329-379",author,,,,,,,,human,Basil of Caesarea,Q44258,Q20081
+"Julianus, Saint, Bishop of Toledo, -690",author,,,,,,,,human,Julian of Toledo,Q722563,Q67632
+"Leontius, Bishop of Neapolis, active 7th century",author,,,human,Leontios of Neapolis,Q3298419,DSNAME4680,Q41125,,,,
+"Remi, d'Auxerre, approximately 841-908",author,,,,,,,,human,Remigius of Auxerre,Q1383306,Q41566
+"Pius VI, Pope, 1717-1799",former owner,,http://id.loc.gov/authorities/names/n82256873,,,,,,human,Pius VI,Q128019,Q441
+"Geoffrey, of Vinsauf, active 1200",author,,,,,,,,human,Geoffrey of Vinsauf,Q1491994,Q40725
+"Chasseigne (Family : 1498- : Nivernais, France)",former owner,,,organization,Chasseigne family,Q131822038,DSNAME8059,Q68669,,,,
+"Bement, Clarence S. 1843-1923",former owner,,,,,,,,human,Clarence S. Bement,Q29204072,Q18633
+"Guilelmus Peraldus, approximately 1190-1271",author,,,,,,,,human,William Perault,Q8016774,Q5152
+"Śrī Rāmakṛṣṇa, Kavikṛtaṃ",author,,,,,,,,,,,
+"Pelacani da Parma, Biagio, approximately 1347-1416",author,,,human,Blasius of Parma,Q855257,DSNAME3842,Q40287,,,,
+"Valla, Lorenzo, 1407-1457",author,,,,,,,,human,Lorenzo Valla,Q214115,Q41149
+"Bruni, Leonardo, 1369-1444",author,,,,,,,,human,Leonardo Bruni,Q314488,Q1924
+"Savorgnan, Ascanio, active 1529-1562",author,,,human,Ascanio Savorgnano,Q116577948,DSNAME1389,Q7329,,,,
+Inquisition Sicily),author,,,,,,,,,,,
+"De Grey, Thomas Philip De Grey, Earl, 1781-1859",former owner,,,,,,,,human,"Thomas de Grey, 2nd Earl de Grey",Q337676,Q40514
+"Buonincontro, Lorenzo, 1411-1501",author,,,human,Lorenzo Bonincontri,Q11933911,DSNAME8007,Q68617,,,,
+"George, of Trebizond, 1396-1486",author,,,,,,,,human,George of Trebizond,Q533514,Q40729
+"Antonio de Raho, active 1482",author,,,human,Antonio de Raho,Q131856740,DSNAME8008,Q68618,,,,
+"Gregory I, Pope, approximately 540-604",author,,,,,,,,human,Gregory I,Q42827,Q889
+"Innocent III, Pope, 1160 or 1161-1216",author,,,,,,,,human,Innocent III,Q128076,Q1933
+"Juana, la Loca, Queen of Castile, 1479-1555",author,,,,,,,,human,Juana I of Castile,Q171136,Q4376
+"Garnica, Juan de, active 1578-1595",author,,,human,Juan de Garnica,Q131856741,DSNAME8009,Q68619,,,,
+"Barzi, Benedetto, -1459",author,,,human,Benedictus de Plumbino,Q41559754,DSNAME8010,Q68620,,,,
+"Alberti, Leon Battista, 1404-1472",author,,,,,,,,human,Leon Battista Alberti,Q182046,Q40103
+"Cavalca, Domenico, -1342",author,,,,,,,,human,Domenico Cavalca,Q3712952,Q6104
+"Muret, Marc-Antoine, 1526-1585",author,,,human,Muretus,Q1345657,DSNAME8011,Q68621,,,,
+"Nicholas, of Lyra, approximately 1270-1349",author,,http://id.loc.gov/authorities/names/n81077197.html,,,,,,human,Nicholas of Lyra,Q1969164,Q1922
+Masters of the Gold Scrolls,supposed illuminator,,,,,,,,organization,Masters of the Gold Scrolls,Q23888760,Q1488
+"Gregory, of Nyssa, Saint, approximately 335-approximately 394",author,,http://id.loc.gov/authorities/names/n79021401.html,,,,,,human,Gregory of Nyssa,Q191734,Q20083
+"Cavalli, Sigismondo, 1530-1579",author,,,human,Sigismondo Cavalli,Q87124758,DSNAME8012,Q68622,,,,
+"Dominici, Giovanni, 1356?-1420",author,,,human,John Dominici,Q640594,DSNAME8013,Q68623,,,,
+"Fedeli, Vincenzo, active 1561",author,,,human,Vincenzo Fedeli,Q110161868,DSNAME1397,Q7337,,,,
+"Guglielmo, da Varignana, approximately 1270-1339",author,,,human,Guglielmo da Varignana,Q1553412,DSNAME8014,Q68624,,,,
+"Majima, Seigan, -1379",author,"馬島清眼, d. -1379",,human,Seigan Majima,Q131822043,DSNAME8015,Q68625,,,,
+"Aichinger, Wolff",author,,,human,Wolff Aichinger,Q131856742,DSNAME8016,Q68626,,,,
+"Llull, Ramon, 1232?-1316",author,,http://id.loc.gov/authorities/names/n79142616,,,,,,human,Ramon Llull,Q193660,Q7892
