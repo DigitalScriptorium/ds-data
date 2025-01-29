@@ -517,6 +517,7 @@ Evora,Évora,http://vocab.getty.edu/tgn/7010600,Q54965
 "Extremadura, Spain?",Extremadura;Spain,http://vocab.getty.edu/tgn/7003837;http://vocab.getty.edu/tgn/1000095,Q66900;Q129
 Ferrara,Ferrara,http://vocab.getty.edu/tgn/7004264,Q1299
 "Ferrara, Italy",Ferrara;Italy,http://vocab.getty.edu/tgn/7004264;http://vocab.getty.edu/tgn/1000080,Q1299;Q134
+"Ferrara, Italy?",Ferrara;Italy,http://vocab.getty.edu/tgn/7004264;http://vocab.getty.edu/tgn/1000080,Q1299;Q134
 "Ferrara?, Italy",Ferrara;Italy,http://vocab.getty.edu/tgn/7004264;http://vocab.getty.edu/tgn/1000080,Q1299;Q134
 "Figuera, Catalonia",Figueras;Catalonia,http://vocab.getty.edu/tgn/1062024;http://vocab.getty.edu/tgn/7030216,Q42483;Q125
 Firenze,Florence,http://vocab.getty.edu/tgn/7000457,Q3084
@@ -1520,6 +1521,7 @@ Pinerolo,Pinerolo,http://vocab.getty.edu/tgn/7005728,Q4988
 Piran,Piran,http://vocab.getty.edu/tgn/7012980,Q3656
 Pisa,Pisa,http://vocab.getty.edu/tgn/7006082,Q7207
 "Pisa, Italy",Pisa;Italy,http://vocab.getty.edu/tgn/7006082;http://vocab.getty.edu/tgn/1000080,Q7207;Q134
+"Pisa, Italy?",Pisa;Italy,http://vocab.getty.edu/tgn/7006082;http://vocab.getty.edu/tgn/1000080,Q7207;Q134
 Place not identified,undetermined,http://vocab.getty.edu/tgn/7544559,Q650
 Place of production not identified,undetermined,http://vocab.getty.edu/tgn/7544559,Q650
 Place of production unknown,undetermined,http://vocab.getty.edu/tgn/7544559,Q650
@@ -1724,6 +1726,7 @@ Spain or Portugal ?,Spain;Portugal,http://vocab.getty.edu/tgn/1000095;http://voc
 Spain or southern France,Spain;Southern France,http://vocab.getty.edu/tgn/1000095;http://vocab.getty.edu/tgn/4004037,Q129;Q19904
 Speyer,Speyer,http://vocab.getty.edu/tgn/7012341,Q16410
 Sri Lanka,Sri Lanka,http://vocab.getty.edu/tgn/1000110,Q38302
+Sri Lanka?,Sri Lanka,http://vocab.getty.edu/tgn/1000110,Q38302
 St. Albans,Saint Albans,http://vocab.getty.edu/tgn/7011871,Q12700
 "St. Albans, England",Saint Albans;England,http://vocab.getty.edu/tgn/7011871;http://vocab.getty.edu/tgn/7002445,Q12700;Q133
 "St. Albans?, England",Saint Albans;England,http://vocab.getty.edu/tgn/7011871;http://vocab.getty.edu/tgn/7002445,Q12700;Q133
@@ -1814,6 +1817,7 @@ Turkey or Syria?],Turkey;Syria,http://vocab.getty.edu/tgn/1000144;http://vocab.g
 Turkey or the Balkans,Turkey;Balkan Peninsula,http://vocab.getty.edu/tgn/1000144;http://vocab.getty.edu/tgn/7011636,Q3079;Q27480
 Turkey or the Balkans?],Turkey;Balkan Peninsula,http://vocab.getty.edu/tgn/1000144;http://vocab.getty.edu/tgn/7011636,Q3079;Q27480
 Tuscany,Tuscany,http://vocab.getty.edu/tgn/7009760,Q860
+Tuscany?,Tuscany,http://vocab.getty.edu/tgn/7009760,Q860
 "Tuscany, Florence?, Italy",Tuscany;Florence;Italy,http://vocab.getty.edu/tgn/7009760;http://vocab.getty.edu/tgn/7000457;http://vocab.getty.edu/tgn/1000080,Q860;Q3084;Q134
 "Tuscany, Italy",Tuscany;Italy,http://vocab.getty.edu/tgn/7009760;http://vocab.getty.edu/tgn/1000080,Q860;Q134
 "Tuscany, Siena?, Italy",Tuscany;Siena;Italy,http://vocab.getty.edu/tgn/7009760;http://vocab.getty.edu/tgn/7011179;http://vocab.getty.edu/tgn/1000080,Q860;Q3651;Q134
@@ -1892,6 +1896,7 @@ Wienn,Vienna,http://vocab.getty.edu/tgn/7003321,Q3078
 "Winchcombe, [England]",Winchcombe;England,http://vocab.getty.edu/tgn/7011144;http://vocab.getty.edu/tgn/7002445,Q16424;Q133
 "Winchcombe, England",Winchcombe;England,http://vocab.getty.edu/tgn/7011144;http://vocab.getty.edu/tgn/7002445,Q16424;Q133
 Wittenberg,Wittenberg,http://vocab.getty.edu/tgn/7012349,Q3094
+Wittenberg?,Wittenberg,http://vocab.getty.edu/tgn/7012349,Q3094
 Worms,Worms,http://vocab.getty.edu/tgn/7005108,Q68010
 Written in Italy,Italy,http://vocab.getty.edu/tgn/1000080,Q134
 "Würzburg?, Germany",Würzburg;Germany,http://vocab.getty.edu/tgn/7004335;http://vocab.getty.edu/tgn/7000084,Q20355;Q131
