@@ -256,6 +256,7 @@ Bruges,Bruges,http://vocab.getty.edu/tgn/7007867,Q16418
 "Bruges?, Flanders",Bruges;Flanders,http://vocab.getty.edu/tgn/7007867;http://vocab.getty.edu/tgn/7024097,Q16418;Q126
 Brūsā,Bursa,http://vocab.getty.edu/tgn/7002420,Q11629
 "Brussels, Flanders",Brussels;Flanders,http://vocab.getty.edu/tgn/7007868;http://vocab.getty.edu/tgn/7024097,Q19905;Q126
+"Brussels, Flanders?",Brussels;Flanders,http://vocab.getty.edu/tgn/7007868;http://vocab.getty.edu/tgn/7024097,Q19905;Q126
 Bryssige,Bad Breisig,http://vocab.getty.edu/tgn/1038315,Q54968
 "Buchau, Germany",Buchau;Germany,http://vocab.getty.edu/tgn/7201751;http://vocab.getty.edu/tgn/7000084,Q3089;Q131
 "Burgos?, Spain",Burgos;Spain,http://vocab.getty.edu/tgn/7007510;http://vocab.getty.edu/tgn/1000095,Q12698;Q129
@@ -743,6 +744,7 @@ Fulda,Fulda,http://vocab.getty.edu/tgn/7005294,Q12704
 Gandavi,Ghent,http://vocab.getty.edu/tgn/7007887,Q16408
 Geneva,Geneva,http://vocab.getty.edu/tgn/7007279,Q42496
 Genoa,Genoa,http://vocab.getty.edu/tgn/7008546,Q7800
+Genoa?,Genoa,http://vocab.getty.edu/tgn/7008546,Q7800
 "Genoa, Italy",Genoa;Italy,http://vocab.getty.edu/tgn/7008546;http://vocab.getty.edu/tgn/1000080,Q7800;Q134
 "German, Germany",Germany,http://vocab.getty.edu/tgn/7000084,Q131
 Germany,Germany,http://vocab.getty.edu/tgn/7000084,Q131
@@ -1386,6 +1388,7 @@ Najaf,An-Najaf,http://vocab.getty.edu/tgn/1079401,Q11624
 Nakagōri-suji Fujimaki-mura,Shinobu-mura,http://vocab.getty.edu/tgn/8742439,Q63762
 "Nangis, France",Nangis;France,http://vocab.getty.edu/tgn/1034615;http://vocab.getty.edu/tgn/1000070,Q27483;Q122
 Naples,Naples,http://vocab.getty.edu/tgn/7004474,Q3099
+Naples?,Naples,http://vocab.getty.edu/tgn/7004474,Q3099
 "Naples, Italy",Naples;Italy,http://vocab.getty.edu/tgn/7004474;http://vocab.getty.edu/tgn/1000080,Q3099;Q134
 Naples and Mirabella,Naples;Mirabella,http://vocab.getty.edu/tgn/7004474;http://vocab.getty.edu/tgn/7055648,Q3099;Q7211
 "Navarre, Spain",Navarre;Spain,http://vocab.getty.edu/tgn/7002790;http://vocab.getty.edu/tgn/1000095,Q38258;Q129
@@ -1784,6 +1787,7 @@ Tihrān,Tehran,http://vocab.getty.edu/tgn/7002157,Q48695
 Ṭihrān,Tehran,http://vocab.getty.edu/tgn/7002157,Q48695
 Todedo,Toledo,http://vocab.getty.edu/tgn/7008719,Q12701
 Toledo,Toledo,http://vocab.getty.edu/tgn/7008719,Q12701
+Toledo?,Toledo,http://vocab.getty.edu/tgn/7008719,Q12701
 "Toledo, Spain",Toledo;Spain,http://vocab.getty.edu/tgn/7008719;http://vocab.getty.edu/tgn/1000095,Q12701;Q129
 Toul,Toul,http://vocab.getty.edu/tgn/7009506,Q8032
 Toulouse,Toulouse,http://vocab.getty.edu/tgn/7008441,Q3659
