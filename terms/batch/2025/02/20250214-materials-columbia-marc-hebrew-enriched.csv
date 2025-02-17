@@ -1,0 +1,34 @@
+material_as_recorded,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+parchment,,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+"ill., paper",paper,http://vocab.getty.edu/aat/300014109,Q31,,,
+"ill. (some col.), paper",paper,http://vocab.getty.edu/aat/300014109,Q31,,,
+paper,,,,paper,http://vocab.getty.edu/aat/300014109,Q31
+ill.,,,,,,
+"ill., parchment",parchment,http://vocab.getty.edu/aat/300011851,Q33,,,
+paper.,,,,paper,http://vocab.getty.edu/aat/300014109,Q31
+"Parchment, ill.",,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+vellum,,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+leather,leather,http://vocab.getty.edu/aat/300011845,Q27,,,
+"parchment, ill.",,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+ill. parchment,parchment,http://vocab.getty.edu/aat/300011851,Q33,,,
+"ill, paper.",paper,http://vocab.getty.edu/aat/300014109,Q31,,,
+"ill., paper.",paper,http://vocab.getty.edu/aat/300014109,Q31,,,
+"ill., paper and parchment",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33,,,
+"ill, paper",paper,http://vocab.getty.edu/aat/300014109,Q31,,,
+"paper, ill.",,,,paper,http://vocab.getty.edu/aat/300014109,Q31
+ill. paper,paper,http://vocab.getty.edu/aat/300014109,Q31,,,
+"ill., psper",paper,http://vocab.getty.edu/aat/300014109,Q31,,,
+"illustrations, paper",paper,http://vocab.getty.edu/aat/300014109,Q31,,,
+"ill., papar",paper,http://vocab.getty.edu/aat/300014109,Q31,,,
+pepar,paper,http://vocab.getty.edu/aat/300014109,Q31,,,
+Parchment,,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+paper ; 39 x 26 cm,paper,http://vocab.getty.edu/aat/300014109,Q31,,,
+paper and parchment,,,,paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
+"ill., parchment and paper",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31,,,
+illustrations,,,,,,
+"ill., vellum",,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+"ill, parchment",parchment,http://vocab.getty.edu/aat/300011851,Q33,,,
+"ill., papaer",paper,http://vocab.getty.edu/aat/300014109,Q31,,,
+"paper, parchment",,,,paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
+"ill., music, paper",paper,http://vocab.getty.edu/aat/300014109,Q31,,,
+parchment and paper,,,,parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
