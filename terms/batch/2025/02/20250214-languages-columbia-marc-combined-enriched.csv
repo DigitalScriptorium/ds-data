@@ -1,0 +1,122 @@
+File,language_as_recorded,language_code,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+languages-hebrew.csv,Vocalized Hebrew,,Hebrew,Q9288,Q117,,,
+languages-hebrew.csv,heb,,,,,Hebrew,Q9288,Q117
+languages-hebrew.csv,"In Hebrew, with annotations in Yiddish",,Hebrew;Yiddish,Q9288;Q8641,Q117;Q74791,,,
+languages-hebrew.csv,Vocalized Hebrew and Yiddish,,Hebrew;Yiddish,Q9288;Q8641,Q117;Q74791,,,
+languages-hebrew.csv,Vocalized Syriac,,Syriac,Q33538,Q12713,,,
+languages-hebrew.csv,Vocalized Arabic and English,,Arabic;English,Q13955;Q1860,Q118;Q109,,,
+languages-hebrew.csv,Vocalized Aramaic and Hebrew,,Aramaic;Hebrew,Q28602;Q9288,Q3663;Q117,,,
+languages-hebrew.csv,In Hebrew,,,,,Hebrew,Q9288,Q117
+languages-hebrew.csv,Unvocalized Hebrew,,Hebrew,Q9288,Q117,,,
+languages-hebrew.csv,Vocalized Hebrew and Aramaic,,Hebrew;Aramaic,Q9288;Q28602,Q117;Q3663,,,
+languages-hebrew.csv,Vocalized Arabic,,Arabic,Q13955,Q118,,,
+languages-hebrew.csv,Vocalized Samaritan Aramaic,,Samaritan Aramaic,Q56612,Q6995,,,
+languages-hebrew.csv,Vocalized Spanish,,Spanish,Q1321,Q114,,,
+languages-hebrew.csv,Vocalized Hebrew and Italian,,Hebrew;Italian,Q9288;Q652,Q117;Q116,,,
+languages-hebrew.csv,Vocalized Hebrew and Ladino,,Hebrew;Judaeo-Spanish,Q9288;Q36196,Q117;Q7217,,,
+languages-hebrew.csv,Vocalized Yiddish ans Hebrew,,Yiddish;Hebrew,Q8641;Q9288,Q74791;Q117,,,
+languages-hebrew.csv,Vocalized Hebrew an Italian,,Hebrew;Italian,Q9288;Q652,Q117;Q116,,,
+languages-hebrew.csv,Vocalized Hebrew and North Eastern Neo-Aramaic,,Hebrew;Northeastern Neo-Aramaic,Q9288;Q2560578,Q117;Q74787,,,
+languages-hebrew.csv,Vocalized Hebrew and Judeo-Arabic,,Hebrew;Judeo-Arabic,Q9288;Q37733,Q117;Q38106,,,
+languages-hebrew.csv,por,,,,,Portuguese,Q5146,Q38114
+languages-hebrew.csv,Vocalized Hebrew and LAdino,,Hebrew;Judaeo-Spanish,Q9288;Q36196,Q117;Q7217,,,
+languages-hebrew.csv,Vocalized Italian,,Italian,Q652,Q116,,,
+languages-hebrew.csv,ger,,,,,German,Q188,Q112
+languages-hebrew.csv,Vocalized Hebrew and English,,Hebrew;English,Q9288;Q1860,Q117;Q109,,,
+languages-hebrew.csv,Vocalized Samariten and Arabic,,Samaritan Aramaic;Arabic,Q56612;Q13955,Q6995;Q118,,,
+languages-hebrew.csv,Spanish,,,,,Spanish,Q1321,Q114
+languages-hebrew.csv,Vocalized Hebrew and Dutch,,Hebrew;Dutch,Q9288;Q7411,Q117;Q793,,,
+languages-hebrew.csv,Vocalized Dutch,,Dutch,Q7411,Q793,,,
+languages-hebrew.csv,Vocalized Hebrew and Tartar,,Hebrew;Tatar,Q9288;Q25285,Q117;Q74790,,,
+languages-hebrew.csv,Vocalized Ladino,,Judaeo-Spanish,Q36196,Q7217,,,
+languages-hebrew.csv,ita,,,,,Italian,Q652,Q116
+languages-hebrew.csv,yid,,Yiddish,Q8641,Q74791,,,
+languages-hebrew.csv,Vocalized Italian and Hebre,,Italian;Hebrew,Q652;Q9288,Q116;Q117,,,
+languages-hebrew.csv,Vocalized Hebrew and Judeo-Greek,,Hebrew;Yevanic,Q9288;Q34200,Q117;Q74789,,,
+languages-hebrew.csv,Vocalized French,,French,Q150,Q111,,,
+languages-hebrew.csv,"Text in Latin, Italian, and Jewish-Corfiote Italian dialect",,Latin;Italian;Judæo-Italian,Q397;Q652;Q1145414,Q113;Q116;Q74794,,,
+languages-hebrew.csv,Text in Italian,,,,,Italian,Q652,Q116
+languages-hebrew.csv,Italian and Latin,,,,,Italian;Latin,Q652;Q397,Q116;Q113
+languages-hebrew.csv,Vocalized Italian and Hebrew,,Italian;Hebrew,Q652;Q9288,Q116;Q117,,,
+languages-hebrew.csv,"Latin, Italian, and Jewish-Corfiote Italian Dialect",,Latin;Italian;Judæo-Italian,Q397;Q652;Q1145414,Q113;Q116;Q74794,,,
+languages-hebrew.csv,und,,,,,undetermined language,Q22282914,Q12714
+languages-hebrew.csv,Hebrew,,,,,Hebrew,Q9288,Q117
+languages-hebrew.csv,Manuscript in Hebrew,,Hebrew,Q9288,Q117,,,
+languages-hebrew.csv,Manuscript in Hebrew written in a square Spanish hand with vowel points,,Hebrew,Q9288,Q117,,,
+languages-hebrew.csv,"Manuscript in Hebrew, written in various semi-cursive Sephardic hands",,Hebrew,Q9288,Q117,,,
+languages-hebrew.csv,Yemenite Hebrew & Judeo-Arabic,,Yemenite Hebrew;Judeo-Arabic,Q34291;Q37733,Q74786;Q38106,,,
+languages-hebrew.csv,jpr,,Judeo-Persian,Q33367,Q74793,,,
+languages-hebrew.csv,"Vocalized Latin, Greek, Hebrew and Dutch",,Latin;Greek;Hebrew;Dutch,Q397;Q9129;Q9288;Q7411,Q113;Q1318;Q117;Q793,,,
+languages-hebrew.csv,Vocalized Latin and Hebrew,,Latin;Hebrew,Q397;Q9288,Q113;Q117,,,
+languages-hebrew.csv,spa,,,,,Spanish,Q1321,Q114
+languages-hebrew.csv,Vocalized Hebrew and Crimean Tatar,,Hebrew;Crimean Tatar,Q9288;Q33357,Q117;Q74788,,,
+languages-hebrew.csv,Vocalized Hebrew and Portuguese,,Hebrew;Portuguese,Q9288;Q5146,Q117;Q38114,,,
+languages-hebrew.csv,Vocalized Judeo- Arabic,,Judeo-Arabic,Q37733,Q38106,,,
+languages-hebrew.csv,"Vocalized Hebrew, Greek, Latin and Dutch",,Hebrew;Greek;Latin;Dutch,Q9288;Q9129;Q397;Q7411,Q117;Q1318;Q113;Q793,,,
+languages-hebrew.csv,In vocalized Hebrew and Italian,,Hebrew;Italian,Q9288;Q652,Q117;Q116,,,
+languages-hebrew.csv,Manuscripts written in Italian,,Italian,Q652,Q116,,,
+languages-hebrew.csv,Vocalized Portuguese,,Portuguese,Q5146,Q38114,,,
+languages-hebrew.csv,in Yiddish (Judeo-German),,Yiddish,Q8641,Q74791,,,
+languages-hebrew.csv,Text in Latin,,,,,Latin,Q397,Q113
+languages-hebrew.csv,Text in Italian and Latin,,,,,Italian;Latin,Q652;Q397,Q116;Q113
+languages-hebrew.csv,Text in Italian and Hebrew,,Italian;Hebrew,Q652;Q9288,Q116;Q117,,,
+languages-hebrew.csv,Text in Dutch,,,,,Dutch,Q7411,Q793
+languages-hebrew.csv,Manuscript in Hebrew and Yiddish,,Hebrew;Yiddish,Q9288;Q8641,Q117;Q74791,,,
+languages-hebrew.csv,Vocalized Hebrew or Ladino,,Hebrew;Judaeo-Spanish,Q9288;Q36196,Q117;Q7217,,,
+languages-mmw.csv,Armenian,,,,,Armenian,Q8785,Q792
+languages-mmw.csv,Persian,,,,,Persian,Q9168,Q120
+languages-mmw.csv,Arabic,,,,,Arabic,Q13955,Q118
+languages-mmw.csv,Arabic with Persian translation and marginal notes,,,,,Arabic;Persian,Q13955;Q9168,Q118;Q120
+languages-mmw.csv,Arabic with a few pages in Ottoman Turkish,,,,,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
+languages-mmw.csv,Arabic with some notes in Persian,,,,,Arabic;Persian,Q13955;Q9168,Q118;Q120
+languages-mmw.csv,Persian with two leaves in Sanskrit; colophon in Urdu,,,,,Persian;Sanskrit;Urdu,Q9168;Q11059;Q1617,Q120;Q27494;Q27496
+languages-mmw.csv,Ottoman Turkish,,,,,Ottoman Turkish,Q36730,Q3104
+languages-mmw.csv,ara,,,,,Arabic,Q13955,Q118
+languages-mmw.csv,English and Romanized Assyrian (Akkadian),,English;Akkadian,Q1860;Q35518,Q109;Q74792,,,
+languages-mmw.csv,Arabic and Persian,,,,,Arabic;Persian,Q13955;Q9168,Q118;Q120
+languages-mmw.csv,Spanish,,,,,Spanish,Q1321,Q114
+languages-mmw.csv,Arabic and Ottoman Turkish,,,,,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
+languages-mmw.csv,"Coptic, Bohairic dialect, with a few notations in Arabic",,,,,Coptic;Bohairic;Arabic,Q36155;Q890733;Q13955,Q4335;Q27517;Q118
+languages-mmw.csv,Ottoman Turkish and Persian with some Arabic quotations and headings,,,,,Ottoman Turkish;Persian;Arabic,Q36730;Q9168;Q13955,Q3104;Q120;Q118
+languages-mmw.csv,Ottoman Turkish and Persian,,,,,Ottoman Turkish;Persian,Q36730;Q9168,Q3104;Q120
+languages-mmw.csv,Persian and Arabic,,,,,Persian;Arabic,Q9168;Q13955,Q120;Q118
+languages-mmw.csv,Chiefly Arabic with some Samaritan Aramaic,,,,,Arabic;Samaritan Aramaic,Q13955;Q56612,Q118;Q6995
+languages-mmw.csv,Ottoman Turkish with two pages in Arabic,,,,,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
+languages-mmw.csv,Pahlavi and Persian,,,,,Middle Persian;Persian,Q32063;Q9168,Q27493;Q120
+languages-mmw.csv,Arabic with translation in Persian,,,,,Arabic;Persian,Q13955;Q9168,Q118;Q120
+languages-mmw.csv,Arabic with interlinear Persian translation,,,,,Arabic;Persian,Q13955;Q9168,Q118;Q120
+languages-mmw.csv,ave,,,,,Avestan,Q29572,Q27501
+languages-mmw.csv,san,,,,,Sanskrit,Q11059,Q27494
+languages-mmw.csv,Arabic with one line in Ottoman Turkish,,,,,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
+languages-mmw.csv,Arabic text with Persian marginalia,,,,,Arabic;Persian,Q13955;Q9168,Q118;Q120
+languages-mmw.csv,Persian with some Arabic quotations,,Persian;Arabic,Q9168,Q120,,,
+languages-mmw.csv,Chiefly Ottoman Turkish with Persian and Arabic vocabulary and headings in Arabic,,,,,Persian;Arabic;Ottoman Turkish,Q9168;Q13955;Q36730,Q120;Q118;Q3104
+languages-mmw.csv,Persian with Arabic source-text,,,,,Persian;Arabic,Q9168;Q13955,Q120;Q118
+languages-mmw.csv,Persian with two pages in Arabic (f. 23r/v),,,,,Persian;Arabic,Q9168;Q13955,Q120;Q118
+languages-mmw.csv,Avestan (in Pahlavi script) and Pahlavi with one line in Gujarati,,,,,Avestan;Middle Persian;Gujarati,Q29572;Q32063;Q5137,Q27501;Q27493;Q27495
+languages-mmw.csv,Arabic and Turkish,,,,,Arabic;Turkish,Q13955;Q256,Q118;Q4337
+languages-mmw.csv,Layout: 5 lines per page,,,,,,,
+languages-mmw.csv,Layout: 5 long lines,,,,,,,
+languages-mmw.csv,Arabic and Coptic,,,,,Arabic;Coptic,Q13955;Q36155,Q118;Q4335
+languages-mmw.csv,Arabic with some Persian annotations,,,,,Arabic;Persian,Q13955;Q9168,Q118;Q120
+languages-mmw.csv,Ottoman with translations from Arabic; inserts in Persian laid in,,,,,Ottoman Turkish;Arabic;Persian,Q36730;Q13955;Q9168,Q3104;Q118;Q120
+languages-mmw.csv,Arabic with some Persian marginalia,,,,,Arabic;Persian,Q13955;Q9168,Q118;Q120
+languages-mmw.csv,Arabic with one work in Persian (number 8),,,,,Arabic;Persian,Q13955;Q9168,Q118;Q120
+languages-mmw.csv,Ottoman Turkish with titles and vocabulary in Persian,,,,,Ottoman Turkish;Persian,Q36730;Q9168,Q3104;Q120
+languages-mmw.csv,Arabic with one page in Ottoman Turkish,,,,,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
+languages-mmw.csv,Avestan and Persian with some Pahlavi,,,,,Avestan;Persian;Middle Persian,Q29572;Q9168;Q32063,Q27501;Q120;Q27493
+languages-mmw.csv,Persian with source-text in Arabic,,,,,Persian;Arabic,Q9168;Q13955,Q120;Q118
+languages-mmw.csv,"In Avestan. Colophons in Pahlavi, Persian and Gujarati",,,,,Avestan;Middle Persian;Persian;Gujarati,Q29572;Q32063;Q9168;Q5137,Q27501;Q27493;Q120;Q27495
+languages-mmw.csv,Arabic with Persian heading and marginalia,,,,,Arabic;Persian,Q13955;Q9168,Q118;Q120
+languages-mmw.csv,Persian with some English glosses,,,,,Persian,Q9168,Q120
+languages-mmw.csv,Persian translations and commentary with Arabic source-text,,,,,Persian;Arabic,Q9168;Q13955,Q120;Q118
+languages-mmw.csv,Chiefly Arabic with some Persian,,,,,Arabic;Persian,Q13955;Q9168,Q118;Q120
+languages-mmw.csv,Arabic with a short introduction in Persian,,,,,Arabic;Persian,Q13955;Q9168,Q118;Q120
+languages-mmw.csv,Persian with titles in Arabic,,,,,Persian;Arabic,Q9168;Q13955,Q120;Q118
+languages-mmw.csv,Turkish with source text in Arabic,,,,,Turkish;Arabic,Q256;Q13955,Q4337;Q118
+languages-mmw.csv,Persian with some phrases in Arabic,,,,,Persian;Arabic,Q9168;Q13955,Q120;Q118
+languages-mmw.csv,Arabic with a few statements in Persian,,,,,Arabic;Persian,Q13955;Q9168,Q118;Q120
+languages-mmw.csv,Persian with two pages in Arabic (f. 1v-2r),,,,,Persian;Arabic,Q9168;Q13955,Q120;Q118
+languages-mmw.csv,Arabic with 13 pages in Ottoman Turkish,,,,,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
+languages-mmw.csv,Arabic with some Ottoman Turkish,,,,,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
+languages-mmw.csv,Arabic with one page translated into Persian,,,,,Arabic;Persian,Q13955;Q9168,Q118;Q120
