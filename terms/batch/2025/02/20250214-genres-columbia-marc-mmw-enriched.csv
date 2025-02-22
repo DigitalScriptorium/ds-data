@@ -1,0 +1,95 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Codices (bound manuscripts),aat,(CStmoGRI)aatgf300224200http://vocab.getty.edu/aat/300224200,,,,codices (bound manuscripts),http://vocab.getty.edu/aat/300224200,Q168
+Hymnals,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026871,Hymnals,http://id.worldcat.org/fast/1920189,Q19868,,,
+Manuscripts (documents),aat,(CStmoGRI)aatgf300028569http://vocab.getty.edu/aat/300028569,,,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789
+Manuscripts (documents),aat,http://vocab.getty.edu/aat/300028569,,,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789
+Codices (bound manuscripts),aat,,,,,codices (bound manuscripts),http://vocab.getty.edu/aat/300224200,Q168
+Manuscripts (documents),aat,,,,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789
+Codices (bound manuscripts),aat,http://vocab.getty.edu/aat/300224200,,,,codices (bound manuscripts),http://vocab.getty.edu/aat/300224200,Q168
+Early works to 1800,local,,,,,Early works,http://id.worldcat.org/fast/1411636,Q300
+Early works,fast,(OCoLC)fst01411636,,,,Early works,http://id.worldcat.org/fast/1411636,Q300
+Illuminations (painting),aat,,,,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
+Lacquered bindings (Binding),rbbin,,,,,Lacquered bindings,http://id.loc.gov/vocabulary/rbmscv/cv00578,Q27295
+Painted (decoration),lobt,,,,,painted (decoration),http://w3id.org/lob/concept/2325,Q26732
+Qur'ans,aat,http://vocab.getty.edu/aat/300265128,,,,Qur'ans,http://vocab.getty.edu/aat/300265128,Q3532
+Stamps (Provenance),rbprov,,,,,Stamps,http://id.loc.gov/vocabulary/rbmscv/cv00142,Q3075
+Envelope flaps (features),lobt,,,,,envelope flaps (features),http://w3id.org/lob/concept/1343,Q3541
+Full covers,lobt,,,,,full covers,http://w3id.org/lob/concept/1348,Q26878
+Islamic bindings (Binding),rbbin,,,,,Islamic bindings,http://id.loc.gov/vocabulary/rbmscv/cv00337,Q16307
+Miniatures (paintings),aat,http://vocab.getty.edu/aat/300033936,,,,miniatures (paintings),http://vocab.getty.edu/aat/300033936,Q262
+Onlays (decoration),lobt,,,,,onlays (decorative components),http://w3id.org/lob/concept/1462,Q3046
+Prayers,aat,,,,,prayers (literary genre),http://vocab.getty.edu/aat/300026452,Q3062
+Blind tooled (decoration),lobt,,,,,blind-tooled (decoration),http://w3id.org/lob/concept/2288,Q27291
+Miniatures (paintings),aat,,,,,miniatures (paintings),http://vocab.getty.edu/aat/300033936,Q262
+Onlays (decorative components),lobt,,,,,onlays (decorative components),http://w3id.org/lob/concept/1462,Q3046
+Flap bindings (Binding),rbbin,,,,,Flap bindings,http://id.loc.gov/vocabulary/rbmscv/cv00468,Q5826
+Qurʼans,aat,,,,,Qur'ans,http://vocab.getty.edu/aat/300265128,Q3532
+Tables (documents),aat,,,,,tables (documents),http://vocab.getty.edu/aat/300027364,Q252
+Calligraphy (visual works),aat,,,,,calligraphy (visual works),http://vocab.getty.edu/aat/300266660,Q26807
+Annotations (Provenance),rbprov,,,,,Annotations,http://id.loc.gov/vocabulary/rbmscv/cv00102,Q2982
+Commentaries,aat,,,,,commentaries,http://vocab.getty.edu/aat/300026098,Q298
+Diagrams,aat,,,,,diagrams,http://vocab.getty.edu/aat/300015387,Q276
+Notes (documents),aat,,,,,notes (documents),http://vocab.getty.edu/aat/300027200,Q17509
+Typescripts,aat,,typescripts,http://vocab.getty.edu/aat/300028577,Q75544,,,
+Insertions (Provenance),rbprov,,,,,Insertions (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00243,Q26941
+Marginalia (annotations),aat,,,,,marginalia (annotations),http://vocab.getty.edu/aat/300026102,Q3077
+Booksellers' labels (Provenance),rbprov,,,,,Booksellers' labels,http://id.loc.gov/vocabulary/rbmscv/cv00228,Q5899
+Texts,fast,(OCoLC)fst01423705,,,,Texts,http://id.worldcat.org/fast/1423705,Q3066
+Translations (documents),aat,http://vocab.getty.edu/aat/300027389,,,,translations (documents),http://vocab.getty.edu/aat/300027389,Q155
+Marginalia (Provenance),rbprov,,,,,Marginalia,http://id.loc.gov/vocabulary/rbmscv/cv00255,Q16344
+Compilation manuscripts,aat,,,,,compilation manuscripts,http://vocab.getty.edu/aat/300403970,Q2790
+Remboîtage (Binding),rbbin,,,,,Remboîtage,http://id.loc.gov/vocabulary/rbmscv/cv01816,Q26600
+Manuscripts--1793,lcsh,,,,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
+Decorated paper bindings (Binding),rbbin,,Decorated paper bindings,http://id.loc.gov/vocabulary/rbmscv/cv00493,Q75545,,,
+Forgeries (derivative objects),aat,http://vocab.getty.edu/aat/300015641,,,,forgeries (derivative objects),http://vocab.getty.edu/aat/300015641,Q26906
+Leather bindings (Binding),rbbin,,,,,Leather bindings,http://id.loc.gov/vocabulary/rbmscv/cv00455,Q5843
+Diagrams,aat,http://vocab.getty.edu/aat/300015387,,,,diagrams,http://vocab.getty.edu/aat/300015387,Q276
+Tables (documents),aat,http://vocab.getty.edu/aat/300027364,,,,tables (documents),http://vocab.getty.edu/aat/300027364,Q252
+Half covers,lobt,,,,,half covers,http://w3id.org/lob/concept/1382,Q27027
+Trough-marbled paper,lobt,,,,,trough-marbled paper,http://w3id.org/lob/concept/3990,Q27104
+Recessed sewing supports,lobt,,,,,recessed sewing supports,http://w3id.org/lob/concept/2527,Q27454
+Artificial grains,lobt,,,,,artificial grains,http://w3id.org/lob/concept/1507,Q26965
+Compilation manuscripts,aat,http://vocab.getty.edu/aat/300403970,,,,compilation manuscripts,http://vocab.getty.edu/aat/300403970,Q2790
+Compound endbands,lobt,,,,,compound endbands,http://w3id.org/lob/concept/3621,Q27122
+Frame covers,lobt,,,,,frame covers,http://w3id.org/lob/concept/1345,Q27037
+Inlays,lobt,,,,,inlays (decorative components),http://w3id.org/lob/concept/3533,Q3043
+Presentation inscriptions (Provenance),rbprov,,,,,Presentation inscriptions,http://id.loc.gov/vocabulary/rbmscv/cv00182,Q26691
+Secondary sewing (endband techniques),lobt,,,,,secondary sewing (endband techniques),http://w3id.org/lob/concept/2536,Q27432
+Supported sewing,lobt,,,,,supported sewing structures,http://w3id.org/lob/concept/2508,Q26599
+Poems,aat,http://vocab.getty.edu/aat/300026451,,,,poems,http://vocab.getty.edu/aat/300026451,Q273
+Printed marbling (decoration),lobt,,,,,printed marbling (decoration),http://w3id.org/lob/concept/3881,Q26817
+Quarter covers,lobt,,,,,quarter covers,http://w3id.org/lob/concept/1530,Q26825
+Limp covers,lobt,,,,,limp covers,http://w3id.org/lob/concept/1423,Q26793
+Pasteboards,lobt,,,,,paste-laminate board (material),http://w3id.org/lob/concept/1492,Q27422
+Linings,lobt,,,,,linings (components),http://w3id.org/lob/concept/2368,Q27253
+Separate pastedowns,lobt,,,,,separate pastedowns,http://w3id.org/lob/concept/1575,Q27252
+Re-used (materials),lobt,,,,,re-used (materials),http://w3id.org/lob/concept/1535,Q27180
+Endleaves,lobt,,,,,endleaves,http://w3id.org/lob/concept/1317,Q26972
+Commentaries,aat,http://vocab.getty.edu/aat/300026098,,,,commentaries,http://vocab.getty.edu/aat/300026098,Q298
+Pastedowns,lobt,,,,,pastedowns (features),http://w3id.org/lob/concept/1493,Q27193
+Detached leaves,aat,http://vocab.getty.edu/aat/300379890,,,,detached leaves,http://vocab.getty.edu/aat/300379890,Q2954
+Letters (correspondence),aat,,,,,letters (correspondence),http://vocab.getty.edu/aat/300026879,Q7110
+Onlays,lobt,,,,,onlays (decorative components),http://w3id.org/lob/concept/1462,Q3046
+Bookplates (Provenance),rbprov,,,,,Bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00138,Q5847
+Edge titles (Binding),rbbin,,,,,Edge titles,http://id.loc.gov/vocabulary/rbmscv/cv00436,Q16400
+Manuals (instructional materials),aat,http://vocab.getty.edu/aat/300026395,,,,manuals (instructional materials),http://vocab.getty.edu/aat/300026395,Q216
+Envelope flaps,lobt,,,,,envelope flaps (features),http://w3id.org/lob/concept/1343,Q3541
+Side labels,lobt,,,,,side labels,http://w3id.org/lob/concept/4444,Q27186
+Instructional materials,aat,http://vocab.getty.edu/aat/300026367,,,,instructional materials,http://vocab.getty.edu/aat/300026367,Q27448
+Gatherings (gathered matter components),aat,,,,,gatherings (gathered matter components),http://vocab.getty.edu/aat/300194226,Q2786
+Re-used (material),lobt,,,,,re-used (materials),http://w3id.org/lob/concept/1535,Q27180
+Calendars (documents by form),aat,,,,,calendars (documents),http://vocab.getty.edu/aat/300026741,Q2969
+Volvelles,aat,http://vocab.getty.edu/aat/300247651,,,,volvelles,http://vocab.getty.edu/aat/300247651,Q3063
+Helical primary endbands,lobt,,,,,helical endband sewing,http://w3id.org/lob/concept/3643,Q27116
+Inlays (Binding),rbbin,,,,,Inlays,http://id.loc.gov/vocabulary/rbmscv/cv00567,Q27191
+Inlays (decorative components),lobt,,,,,inlays (decorative components),http://w3id.org/lob/concept/3533,Q3043
+Poetry,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026481,,,,Poetry,http://id.worldcat.org/fast/1423828,Q247
+Detached leaves,aat,,,,,detached leaves,http://vocab.getty.edu/aat/300379890,Q2954
+Poems,aat,,,,,poems,http://vocab.getty.edu/aat/300026451,Q273
+Paintings (visual works),aat,http://vocab.getty.edu/aat/300033618,,,,paintings (visual works),http://vocab.getty.edu/aat/300033618,Q265
+Qur'anic boards,aat,,,,,Qur'anic boards,http://vocab.getty.edu/aat/300262573,Q26917
+Writing tablets (information artifacts),aat,,,,,writing tablets (information artifacts),http://vocab.getty.edu/aat/300262572,Q26945
+Prayers (literary works),aat,,,,,prayers (literary genre),http://vocab.getty.edu/aat/300026452,Q3062
+Declarations,aat,http://vocab.getty.edu/aat/300167036,,,,declarations,http://vocab.getty.edu/aat/300167036,Q26897
+Albums (books),aat,,,,,albums (books),http://vocab.getty.edu/aat/300026690,Q27466
+Manuscripts,lcgft,http://id.loc.gov/authorities/genreForms/gf2022026088,,,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
