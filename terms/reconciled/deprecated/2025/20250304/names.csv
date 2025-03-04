@@ -43,7 +43,7 @@ Abdülbâkî Esîrîzade,author,,,human,Abdülbâkî Esîrîzade,Q130374950,DSNA
 "Abdülgaffar Efendi, Kırımî, active 18th century",author,عبد الغفار افندى، قرىمى، active 18th century,,human,Kırımî Abdülgaffar Efendi,Q130375009,DSNAME6857,Q54838
 "Abdullah bin Mehmet Salih, Eyübî, -1836",author,عبد الله بن محمد صالح، ايوبي,,human,Eyübî Abdullah bin Mehmet Salih,Q130374948,DSNAME6768,Q54749
 "Abdullah bin Mehmet Salih, Eyübî, -1836",author,عبد الله بن محمد صالح، ايوبي، -1836,,human,Eyübî Abdullah bin Mehmet Salih,Q130374948,DSNAME6768,Q54749
-"Abdullah Salahattin Uşşakî, 1705-1782",author,عبد الله صلاح الدىن عشاقى، d. 1782,,human,Ṣalāḥ-ed-Dīn ʿUşşāḳī,Q113827947,DSNAME6801,Q54782
+"Abdullah Salahattin Uşşakî, 1705-1782",author,عبد الله صلاح الدىن عشاقى، d. 1782,,human,Abdullah Salahattin Uşşakî,Q130374967,DSNAME6801,Q54782
 "Abdullah Yenişehirli, -1742 or 1743",author,"عبد الله يكيشهرى, -1742 or 1743",,human,Abdullah Yenişehirli,Q130374960,DSNAME6789,Q54770
 "Abdullah Yenişehirli, -1742 or 1743",author,عبد الله يكيشهرى,,human,Abdullah Yenişehirli,Q130374960,DSNAME6789,Q54770
 "Abell, William, active approximately 1440-1460",artist,,,human,William Abell,Q18577146,DSNAME3621,Q40066
@@ -192,7 +192,7 @@ Adam of Eynsham,author,,,human,Adam of Eynsham,Q4680065,DSNAME3630,Q40075
 "Adapāzārī, ʻUthmān ibn Fatḥ Allāh, d. 1691",author,,,human,ʻUthmān ibn Fatḥ Allāh Adapāzārī,Q129951555,DSNAME6563,Q54194
 "Adda, Gerolamo, marchese d', 1815-1881",former owner,,,human,Girolamo d'Adda,Q47468683,DSNAME8019,Q68629
 "Addington, Samuel",former owner,,,human,Samuel Addington,Q122949061,DSNAME2107,Q12915
-"Adhraʻī, Aḥmad ibn Ḥamdān, 1308 or 1309-1381 or 1382",author,اذرعي، احمد بن حمدان، 1308 or 1309-1381 or 1382,,human,Aḥmad ibn Ḥamdān Adhraʻī,Q22934770,DSNAME7869,Q68479
+"Adhraʻī, Aḥmad ibn Ḥamdān, 1308 or 1309-1381 or 1382",author,اذرعي، احمد بن حمدان، 1308 or 1309-1381 or 1382,,human,Aḥmad ibn Ḥamdān Adhraʻī,Q131398943,DSNAME7869,Q68479
 "Adīb Ṣābir, Ṣābir ibn Ismāʻīl, -1147",author,ادىب صابر، صابر بن اسماعىل، d. 1147,,human,Ṣābir ibn Ismāʻīl Adīb Ṣābir,Q129453474,DSNAME6379,Q49250
 "Adimari, Lionardo di Paolo",former owner,,,human,Lionardo di Paolo Adimari,Q116235269,DSNAME1377,Q7318
 "Aditya Bahadur Dinha, Mahārāja",former owner,,,human,Mahārāja Aditya Bahadur Dinha,Q114242454,DSNAME3485,Q28269
@@ -322,10 +322,10 @@ Ailred of Rievaulx,author,,,human,Aelred of Rievaulx,Q380845,DSNAME3639,Q40084
 Alain Chartier,author,,,human,Alain Chartier,Q982038,DSNAME282,Q895
 "Alamanni, Tommaso Giovanni, active 16th century",author,,,human,Tommaso Giovanni Alamanni,Q123274721,DSNAME2262,Q16565
 "Alamanno, di Bernardo di Alamanni de Medici",author,,,human,Alamanno de' Medici,Q116181729,DSNAME1055,Q4419
-Alan of Lille,author,,,human,Alain of Lille,Q4313,DSNAME1433,Q7594
-"Alanus, de Insulis, -1202",author,,http://id.loc.gov/authorities/names/n50035344,human,Alain of Lille,Q4313,DSNAME1433,Q7594
-"Alanus, de Insulis, -1202",author,,,human,Alain of Lille,Q4313,DSNAME1433,Q7594
-Alanus ab Insulis,author,,,human,Alain of Lille,Q4313,DSNAME1433,Q7594
+Alan of Lille,author,,,human,Alain de Lille,Q4313,DSNAME1433,Q7594
+"Alanus, de Insulis, -1202",author,,http://id.loc.gov/authorities/names/n50035344,human,Alain de Lille,Q4313,DSNAME1433,Q7594
+"Alanus, de Insulis, -1202",author,,,human,Alain de Lille,Q4313,DSNAME1433,Q7594
+Alanus ab Insulis,author,,,human,Alain de Lille,Q4313,DSNAME1433,Q7594
 "Alāʼīyawī, Maḥmūd ibn ʻAbd al-Raḥmān",author,,,human,Maḥmūd ibn ʻAbd al-Raḥmān Alāʼīyawī,Q114242456,DSNAME3655,Q40100
 "Alāʼīyawī, Maḥmūd ibn ʻAbd al-Raḥmān",author,,,human,Maḥmūd ibn ʻAbd al-Raḥmān Alāʼīyawī,Q114242456,DSNAME3655,Q40100
 "Albergati, Nicolò, 1375-1443",former owner,,,human,Niccolò Albergati,Q717720,DSNAME3656,Q40101
@@ -557,8 +557,8 @@ Ancona (Italy). Anziani,author,,,organization,Palazzo degli Anziani,Q3891178,DSN
 Anderson & Gall,former owner,,,organization,Anderson Galleries,Q72940895,DSNAME5488,Q41933
 "and finally no. 73 in the list prepared after the sequestration of Pontigny at the French Revolution, described there as in-folio atlantico, elegans et completus dismembered probably in Auxerre in the early nineteenth century; John William Bradley (1830-1916), who gave it to C. L. Ricketts in 1913; acquired by the Lilly Library with the Ricketts Collection in 1961",former owner,,,human;human,John William Bradley;Coella Lindsay Ricketts,Q52148380;Q116771179,DSNAME426;DSNAME363,Q1590;Q1527
 "and finally no. 73 in the list prepared after the sequestration of Pontigny at the French Revolution, described there as in-folio atlantico, elegans et completus dismembered probably in Auxerre in the early nineteenth century; John William Bradley (1830-1916), who gave it to C. L. Ricketts in 1913; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,John William Bradley;Coella Lindsay Ricketts,Q52148380;Q116771179,DSNAME426;DSNAME363,Q1590;Q1527
-"and in 1578 great-granddaughter, Catharina ven den Steen (wife of Jan de Langue, secretary of Brielle), all recorded inside the upper cover; A. D. Schinkel (1784-1864), of The Hague, printer; his sale, The Hague, 21 November 1864, lot 3; William Bragge (1823–1884); probably no. 54 in Burlington Fine Arts Club 1874, p. 11, lent by Bragge",former owner,,,human;human;human,Catharina ven den Steen;Adrianus David Schinkel;William Bragge,Q117843635;Q55901559;Q15453218,DSNAME8513;DSNAME624;DSNAME615,Q75931;Q1859;Q1850
-"and in 1578 great-granddaughter, Catharina ven den Steen (wife of Jan de Langue, secretary of Brielle), all recorded inside the upper cover; A. D. Schinkel (1784-1864), of The Hague, printer; his sale, The Hague, 21 November 1864, lot 3; William Bragge (1823–1884); probably no. 54 in Burlington Fine Arts Club 1874, p. 11, lent by Bragge;",former owner,,,human;human;human,Catharina ven den Steen;Adrianus David Schinkel;William Bragge,Q117843635;Q55901559;Q15453218,DSNAME8513;DSNAME624;DSNAME615,Q75931;Q1859;Q1850
+"and in 1578 great-granddaughter, Catharina ven den Steen (wife of Jan de Langue, secretary of Brielle), all recorded inside the upper cover; A. D. Schinkel (1784-1864), of The Hague, printer; his sale, The Hague, 21 November 1864, lot 3; William Bragge (1823–1884); probably no. 54 in Burlington Fine Arts Club 1874, p. 11, lent by Bragge",former owner,,,human;human;human,Catharina ven den Steen;Adrianus David Schinkel;William Bragge,Q117843635;Q55901559;Q15453218,DSNAME624;DSNAME615;DSNAME615,Q1859;Q1850;Q1850
+"and in 1578 great-granddaughter, Catharina ven den Steen (wife of Jan de Langue, secretary of Brielle), all recorded inside the upper cover; A. D. Schinkel (1784-1864), of The Hague, printer; his sale, The Hague, 21 November 1864, lot 3; William Bragge (1823–1884); probably no. 54 in Burlington Fine Arts Club 1874, p. 11, lent by Bragge;",former owner,,,human;human;human,Catharina ven den Steen;Adrianus David Schinkel;William Bragge,Q117843635;Q55901559;Q15453218,DSNAME624;DSNAME615;DSNAME615,Q1859;Q1850;Q1850
 "and in 1578 great-granddaughter, Catharina ven den Steen (wife of Jan de Langue, secretary of Brielle), all recorded inside the upper cover; A. D. Schinkel (1784-1864), of The Hague, printer; his sale, The Hague, 21 November 1864, lot 3; William Bragge (1823–1884); probably no. 54 in Burlington Fine Arts Club 1874, p. 11, lent by Bragge; his sale, Sotheby’s, 7 June 1876, lot 221, to Ellis",former owner,,,human;human,Adrianus David Schinkel;William Bragge,Q55901559;Q15453218,DSNAME624;DSNAME615,Q1859;Q1850
 "and in 1578 great-granddaughter, Catharina ven den Steen (wife of Jan de Langue, secretary of Brielle), all recorded inside the upper cover; A. D. Schinkel (1784-1864), of The Hague, printer; his sale, The Hague, 21 November 1864, lot 3; William Bragge (1823–1884); probably no. 54 in Burlington Fine Arts Club 1874, p. 11, lent by Bragge; his sale, Sotheby’s, 7 June 1876, lot 221, to Ellis;",former owner,,,human;human,Adrianus David Schinkel;William Bragge,Q55901559;Q15453218,DSNAME624;DSNAME615,Q1859;Q1850
 "and pagination in arabic numerals during the revision under Angéline de Lossy, abbess 1755-96;sold with the Beaupré manuscripts in 1797; John Ruskin (1819-1900), who owned six volumes from two sets of choirbooks from Beaupré and removed the present leaves himself",former owner,,,human,John Ruskin,Q179126,DSNAME463,Q1627
@@ -593,7 +593,7 @@ Angela of Foligno 1248?-1309.,author,,,human,Angela of Foligno,Q240297,DSNAME370
 "Angelo Carletti, 1411-1495",author,,,human,Angelo Carletti di Chivasso,Q3616927,DSNAME1700,Q8415
 Angelo de Gambiglioni,author,,,human,Angelo Gambiglioni,Q3617010,DSNAME2720,Q20045
 Angelo Niccolini (d. 1567),former owner,,,human,Angelo Nicolini,Q1092397,DSNAME5638,Q42111
-Angelo Poliziano,author,,,human,Agnolo Poliziano,Q250414,DSNAME1313,Q7061
+Angelo Poliziano,author,,,human,Poliziano,Q250414,DSNAME1313,Q7061
 Angelus,scribe,,http://id.loc.gov/authorities/names/n88646347,organization,Banda Angelus,Q106413482,DSNAME5489,Q41934
 Angelus de Aretio (Angelus de Gambilionibus),author,,,human,Angelo Gambiglioni,Q3617010,DSNAME2720,Q20045
 Angelus de Periglis,author,,,human,Angelo de' Perigli,Q3617290,DSNAME3707,Q40152
@@ -948,8 +948,8 @@ Avraham Gimani,former owner,,,human,Avraham Gimani,Q125930765,DSNAME5645,Q42118
 "Āz̲ar Baygdilī, Luṭf ʻAlī ibn Āqā Khān, 1721 or 1722-1780 or 1781",author,"آذر بىگدلى، لطف على بن آقا خان،, 1721 or 1722-1780 or 1781",,human,Azar Bigdeli,Q4116548,DSNAME3242,Q28026
 "Azdī, Ḥasan ibn Abī ʻAbd Allāh, active 13th century",scribe,ازدي، حسن بن ابي عبد الله، active 13th century,,human,Ḥasan ibn Abī ʻAbd Allāh Azdī,Q121464718,DSNAME1857,Q12387
 "Âzerî İbrahim Çelebi, -1585",author,,,human,Âzerî Çelebi,Q109387453,DSNAME6893,Q54874
-"Azharī, Khālid ibn ʻAbd Allāh, -1499",author,ازهري، خالد بن عبد الله، -1499,,human,Khālid ibn ʻAbd Allāh al-Azharī,Q28717430,DSNAME1839,Q12369
-"Azharī, Khālid ibn ʻAbd Allāh, -1499",author,ازهري، خالد بن عبد الله، -1499,,human,Khālid ibn ʻAbd Allāh al-Azharī,Q28717430,DSNAME1839,Q12369
+"Azharī, Khālid ibn ʻAbd Allāh, -1499",author,ازهري، خالد بن عبد الله، -1499,,human,Khālid ibn ʻAbd Allāh Azharī,Q28717430,DSNAME1839,Q12369
+"Azharī, Khālid ibn ʻAbd Allāh, -1499",author,ازهري، خالد بن عبد الله، -1499,,human,Khālid ibn ʻAbd Allāh Azharī,Q28717430,DSNAME1839,Q12369
 Azmî Efendi,author,,,human,Ahmed Asmi Efendi,Q64520641,DSNAME6888,Q54869
 "Azmı̂zade Mustafa Haletı̂, 1569 or 1570-1630 or 1631",author,عزمى زاده مصطفى حالتى,,human,Azmı̂zade Mustafa Haletı̂,Q130375059,DSNAME6931,Q54912
 "Āz̲nahvī, ʻAlī Riḍāʼī ibn Ismaʻīl, active 1839",scribe,آذنه‌وى، علي رضائى بن اسمعيل،,,human,ʻAlī Riḍāʼī ibn Ismaʻīl Āz̲nahvī,Q123581790,DSNAME2695,Q18742
@@ -1166,8 +1166,8 @@ Basil the Great,author,,,human,Basil of Caesarea,Q44258,DSNAME2760,Q20081
 "Baskin, Leonard, 1922-2000",former owner,,,human,Leonard Baskin,Q2601617,DSNAME7384,Q67630
 "Baskin, Lisa Unger",former owner,,,human,Lisa Unger Baskin,Q131623279,DSNAME7247,Q67493
 "Basnawī, Muḥammad ibn ʻUmar, active 17th century",scribe,بسنوي، محمد بن عمر، active 17th century,,human,Muḥammad ibn ʻUmar Basnawī,Q131748655,DSNAME7922,Q68532
-"Baṣrī, ʻAbd Allāh ibn Sālim, 1638 or 1639-1721 or 1722",author,بصري، عبد الله بن سالم، 1638 or 1639-1721 or 1722,,human,ʻAbd Allāh ibn Sālim Baṣrī,Q125098636,DSNAME7574,Q67860
-"Baṣrī, ʻAbd Allāh ibn Sālim, 1638 or 1639-1721 or 1722",author,,,human,ʻAbd Allāh ibn Sālim Baṣrī,Q125098636,DSNAME7574,Q67860
+"Baṣrī, ʻAbd Allāh ibn Sālim, 1638 or 1639-1721 or 1722",author,بصري، عبد الله بن سالم، 1638 or 1639-1721 or 1722,,human,ʻAbd Allāh ibn Sālim Baṣrī,Q131398927,DSNAME7574,Q67860
+"Baṣrī, ʻAbd Allāh ibn Sālim, 1638 or 1639-1721 or 1722",author,,,human,ʻAbd Allāh ibn Sālim Baṣrī,Q131398927,DSNAME7574,Q67860
 "Bassett, James, 1834-1906",former owner,,,human,James Bassett,Q6129463,DSNAME2598,Q18646
 "Bassi, Pietro Andrea di",author,,,human,Pietro Andrea di Bassi,Q124566722,DSNAME3793,Q40238
 Bassula,other,,,human,Bassula,Q117338225,DSNAME371,Q1535
@@ -1192,10 +1192,10 @@ Baudouin d'Avesnes.,author,,,human,Baldwin of Avesnes,Q466184,DSNAME3798,Q40243
 "Bayard, Jean",author,,http://id.loc.gov/authorities/names/n2008072938,human,Jean Bayard,Q116066006,DSNAME1584,Q8075
 "Bayard, Jean",author,,,human,Jean Bayard,Q116066006,DSNAME1584,Q8075
 "Bayburtlu Zihni, 1797-1859",author,بايبوردلى ذهني,,human,Bayburtlu Zihni,Q6058363,DSNAME6879,Q54860
-"Bayḍāwī, ʻAbd Allāh ibn ʻUmar, -1286",author,بيضاوي، عبد الله بن عمر، -1286؟,,human,Al-Baydawi,Q287573,DSNAME1896,Q12426
-"Bayḍāwī, ʻAbd Allāh ibn ʻUmar, -1286",author,بيضاوي، عبد الله بن عمر، -1286؟,,human,Al-Baydawi,Q287573,DSNAME1896,Q12426
-"Bayḍāwī, ʻAbd Allāh ibn ʻUmar, -1286",author,بيضاوي، عبد الله بن عمر، -1286,,human,Al-Baydawi,Q287573,DSNAME1896,Q12426
-"Bayḍāwī, ʻAbd Allāh ibn ʻUmar, -1286",author,بيضاوي، عبد الله بن عمر، -1286؟,http://id.loc.gov/authorities/names/n82085851,human,Al-Baydawi,Q287573,DSNAME1896,Q12426
+"Bayḍāwī, ʻAbd Allāh ibn ʻUmar, -1286",author,بيضاوي، عبد الله بن عمر، -1286؟,,human,Baidawi,Q287573,DSNAME1896,Q12426
+"Bayḍāwī, ʻAbd Allāh ibn ʻUmar, -1286",author,بيضاوي، عبد الله بن عمر، -1286؟,,human,Baidawi,Q287573,DSNAME1896,Q12426
+"Bayḍāwī, ʻAbd Allāh ibn ʻUmar, -1286",author,بيضاوي، عبد الله بن عمر، -1286,,human,Baidawi,Q287573,DSNAME1896,Q12426
+"Bayḍāwī, ʻAbd Allāh ibn ʻUmar, -1286",author,بيضاوي، عبد الله بن عمر، -1286؟,http://id.loc.gov/authorities/names/n82085851,human,Baidawi,Q287573,DSNAME1896,Q12426
 "Bayhaqī, Aḥmad ibn al-Ḥusayn, 994-1066",author,بيهقي، احمد بن الحسين، 994-1066,http://id.loc.gov/authorities/names/n84182370 http://id.loc.gov/authorities/names/n84182370 http://viaf.org/viaf/sourceID/LC%7cn84182370,human,Al-Bayhaqi,Q293663,DSNAME1907,Q12437
 "Bayhaqī, ʻAlī ibn Zayd, 1105 or 1106-1169 or 1170",author,بيهقي، علي بن زيد، 1105 or 6-1169 or 70,,human,Ibn Funduq,Q4025793,DSNAME6311,Q49182
 "Bayle, H",former owner,,,human,H. Bayle,Q116172472,DSNAME1111,Q5104
@@ -1203,9 +1203,9 @@ Baudouin d'Avesnes.,author,,,human,Baldwin of Avesnes,Q466184,DSNAME3798,Q40243
 "Baylūnī, Muḥammad ibn Fatḥ Allāh, 1569 or 1570-1632 or 1633",author,بيلوني، محمد بن فتح الله، 1569 or 1570-1632 or 1633,,human,Muḥammad ibn Fatḥ Allāh Baylūnī,Q131748503,DSNAME7693,Q68303
 "Baysūnī, ʻAlī ibn Muḥammad, active 16th century",scribe,بيسوني، علي بن محمد، active 16th century,,human,ʻAlī ibn Muḥammad Baysūnī,Q131748565,DSNAME7797,Q68407
 "Baytūshī, ʻAbd Allāh ibn Muḥammad, 1748 or 1749-1806 or 1807",author,بيتوشي، عبد الله بن محمد، 1748 or 1749-1806 or 1807,,human,ʻAbd Allāh ibn Muḥammad Baytūshī,Q124748339,DSNAME7940,Q68550
-"Bazdawī, ʻAlī ibn Muḥammad, 1009 or 1010-1089 or 1090",author,بزدوي، علي بن محمد,,human,ʻAlī ibn Muḥammad Bazdawī,Q65280635,DSNAME7001,Q63931
-"Bazdawī, ʻAlī ibn Muḥammad, 1009 or 1010-1089 or 1090",author,,,human,ʻAlī ibn Muḥammad Bazdawī,Q65280635,DSNAME7001,Q63931
-"Bazdawī, ʻAlī ibn Muḥammad, 1009 or 1010-1089 or 1090.",author,بزدوي، علي بن محمد,,human,ʻAlī ibn Muḥammad Bazdawī,Q65280635,DSNAME7001,Q63931
+"Bazdawī, ʻAlī ibn Muḥammad, 1009 or 1010-1089 or 1090",author,بزدوي، علي بن محمد,,human,ʻAlī ibn Muḥammad Bazdawī,Q131386035,DSNAME7001,Q63931
+"Bazdawī, ʻAlī ibn Muḥammad, 1009 or 1010-1089 or 1090",author,,,human,ʻAlī ibn Muḥammad Bazdawī,Q131386035,DSNAME7001,Q63931
+"Bazdawī, ʻAlī ibn Muḥammad, 1009 or 1010-1089 or 1090.",author,بزدوي، علي بن محمد,,human,ʻAlī ibn Muḥammad Bazdawī,Q131386035,DSNAME7001,Q63931
 "Bāz̲il, Muhammad Rafīʻ ibn Muḥammad al-Mashhadī, -1712",author,باذل، محمد رفيع بن محمد المشهدى، -1712,,human,Muhammad Rafīʻ ibn Muḥammad al-Mashhadī Bāz̲il,Q124130448,DSNAME3210,Q27994
 "Bāʻūnīyah, ʻĀʼishah bint Yūsuf, -1516 or 1517",author,باعونية، عائشة بنت يوسف، -1516 or 1517,,human,'A'isha al-Ba'uniyya,Q12222083,DSNAME1847,Q12377
 "Bāʻūnīyah, ʻĀʼishah bint Yūsuf, -1516 or 1517",author,باعونية، عائشة بنت يوسف، -1516 or 1517,,human,'A'isha al-Ba'uniyya,Q12222083,DSNAME1847,Q12377
@@ -1319,8 +1319,8 @@ Benediktinerstift Seitenstetten,former owner,,,organization,Seitenstetten Abbey,
 Bene of Florence,author,,,human,Bene da Firenze,Q3637998,DSNAME3816,Q40261
 "Benincà, Bartolomeo de",illuminator,,,human,Bartolomeo de Benincà,Q2886106,DSNAME3820,Q40265
 "Bening, Simon, 1483 or 1484-1561",illuminator,,,human,Simon Bening,Q928015,DSNAME2243,Q16546
-"Benivieni, Antonio 1533-1598",author,,,human,Antonio Benivieni,Q55225491,DSNAME3821,Q40266
-"Benivieni, Antonio 1533-1598.",author,,,human,Antonio Benivieni,Q55225491,DSNAME3821,Q40266
+"Benivieni, Antonio 1533-1598",author,,,human,"Antonio, il Giovane Benivieni",Q55225491,DSNAME3821,Q40266
+"Benivieni, Antonio 1533-1598.",author,,,human,"Antonio, il Giovane Benivieni",Q55225491,DSNAME3821,Q40266
 "Benivieni, Girolamo 1453-1542",author,,,human,Girolamo Benivieni,Q328117,DSNAME3822,Q40267
 "Benivieni, Girolamo 1453-1542.",author,,,human,Girolamo Benivieni,Q328117,DSNAME3822,Q40267
 Benjamin ben Salem Elark,former owner,,,human,Benjamin ben Salem Elark,Q125930767,DSNAME5649,Q42122
@@ -1786,8 +1786,8 @@ Bristol Baptist College,former owner,,http://id.loc.gov/authorities/names/n80039
 "Broadley, John",former owner,,,human,Zayn al-Din al-Juba'i al'Amili,Q4120058,DSNAME3908,Q40353
 "Brockett, John Trotter, 1788-1842",former owner,,,human,John Trotter Brockett,Q6261303,DSNAME3909,Q40354
 "Brodrick, Charles",former owner,,,human,Charles Brodrick,Q5075798,DSNAME2883,Q20200
-"broken up by Myers, bookseller of New Bond Street, London; leaves bought in 1930 by C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961",former owner,,,organization;human,Winifred A. Myers Autographs Ltd;Coella Lindsay Ricketts,Q125716633;Q116771179,DSNAME2228;DSNAME363,Q1658;Q1527
-"broken up by Myers, bookseller of New Bond Street, London; leaves bought in 1930 by C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,organization;human,Winifred A. Myers Autographs Ltd;Coella Lindsay Ricketts,Q125716633;Q116771179,DSNAME2228;DSNAME363,Q1658;Q1527
+"broken up by Myers, bookseller of New Bond Street, London; leaves bought in 1930 by C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961",former owner,,,human;human,Winifred Myers;Coella Lindsay Ricketts,Q112509951;Q116771179,DSNAME2228;DSNAME363,Q1658;Q1527
+"broken up by Myers, bookseller of New Bond Street, London; leaves bought in 1930 by C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Winifred Myers;Coella Lindsay Ricketts,Q112509951;Q116771179,DSNAME2228;DSNAME363,Q1658;Q1527
 "Brölemann, A",former owner,,,human,Arthur Brölemann,Q116785153,DSNAME458,Q1622
 "Brölemann, Henri August",former owner,,,human,Henri Auguste Brölemann,Q116785149,DSNAME2211,Q1621
 "Brölemann, Henri August",former owner,,,human,Henri Auguste Brölemann,Q116785149,DSNAME2211,Q1621
@@ -1871,10 +1871,10 @@ Budhakauśika,author,,http://id.loc.gov/authorities/names/n84048369,human,Budhak
 "Bullinger, Heinrich, 1504-1575",author,,,human,Heinrich Bullinger,Q123839,DSNAME1103,Q5096
 "Bullinger, Heinrich, 1504-1575",author,,http://id.loc.gov/authorities/names/n80045117,human,Heinrich Bullinger,Q123839,DSNAME1103,Q5096
 "Bullrich, Eduardo J",former owner,,,human,Eduardo Juan Bullrich,Q120648316,DSNAME2411,Q16710
-"Bulqīnī, Ṣāliḥ ibn ʻUmar, 1389 or 1390-1464 or 1465",author,بلقيني، صالح بن عمر، 1389 or 1390-1464 or 1465,,human,Ṣāliḥ ibn ʻUmar Bulqīnī,Q125098454,DSNAME7875,Q68485
+"Bulqīnī, Ṣāliḥ ibn ʻUmar, 1389 or 1390-1464 or 1465",author,بلقيني، صالح بن عمر، 1389 or 1390-1464 or 1465,,human,Ṣāliḥ ibn ʻUmar Bulqīnī,Q131398946,DSNAME7875,Q68485
 "Bunck, R. J., Rev",former owner,,,human,R. J. Bunck,Q131856747,DSNAME8025,Q68635
 "Būnī, Aḥmad, 17th cent",author,,,human,Aḥmad Būnī,Q129951680,DSNAME6650,Q54281
-"Būnī, Aḥmad ibn Qāsim, d. 1726",author,,,human,Aḥmad bin Qāsim Būnī,Q16119152,DSNAME7470,Q67756
+"Būnī, Aḥmad ibn Qāsim, d. 1726",author,,,human,Aḥmad ibn Qāsim Būnī,Q131690036,DSNAME7470,Q67756
 "Būnī, Aḥmad ibn ʻAlī, -1225",author,بوني، احمد بن علي، -1225,,human,Ahmad al-Buni,Q4695507,DSNAME3924,Q40369
 "Būnī, Aḥmad ibn ʻAlī, d. 1225",author,,,human,Ahmad al-Buni,Q4695507,DSNAME3924,Q40369
 "Buonincontro, Lorenzo, 1411-1501",author,,,human,Lorenzo Bonincontri,Q11933911,DSNAME8007,Q68617
@@ -1914,7 +1914,7 @@ Burndy Library,former owner,,http://id.loc.gov/authorities/names/n83827146,organ
 "Burr, Charles W. 1861-1944",former owner,,,human,Charles Burr,Q112362569,DSNAME1364,Q7305
 "Burr, Charles W. 1861-1944",former owner,,http://id.loc.gov/authorities/names/n85800274,human,Charles Burr,Q112362569,DSNAME1364,Q7305
 "Burrus, Milanus",scribe,,,human,Milanus Burrus,Q131623203,DSNAME7175,Q67421
-"Bursī, Rajab ibn Muḥammad, active 1372",author,برسي، رجب بن محمد، fl. 1372,,human,Rajab al-Bursi,Q7285581,DSNAME6325,Q49196
+"Bursī, Rajab ibn Muḥammad, active 1372",author,برسي، رجب بن محمد، fl. 1372,,human,Rajab Bursi,Q7285581,DSNAME6325,Q49196
 "Burton, John E. 1847-",former owner,,,human,John E. Burton,Q123553095,DSNAME2595,Q18643
 "Burūjirdī, Muḥammad Naqī ibn Aḥmad, active 17th century",author,بروجردى، محمد نقى بن احمد، active 17th century,,human,Muḥammad Naqī ibn Aḥmad Burūjirdī,Q129453351,DSNAME6304,Q49175
 "Burullusī, Muḥammad ibn ʻAlī Ṣalāḥ, active 18th century",scribe,برلسي، محمد بن علي صلاح، active 18th century,,human,Muḥammad ibn ʻAlī Ṣalāḥ Burullusī,Q129951544,DSNAME6554,Q54185
@@ -2547,8 +2547,8 @@ Convent of San Paolo,former owner,,,organization,Convento di San Paolo,Q18486849
 "Conybeare, J. J. 1779-1824",former owner,,http://id.loc.gov/authorities/names/n88222318,human,John Josias Conybeare,Q6242283,DSNAME4017,Q40462
 "Cook, Francis, Sir, 1st Bart., 1817-1901",former owner,,,human,"Francis Cook, 1st Viscount of Monserrate",Q5480608,DSNAME4018,Q40463
 "Cook, Wyndham Francis",former owner,,,human,Wyndham Francis Cook,Q75621426,DSNAME4019,Q40464
-"Cooke, Robert, -1592",author,,,human,Robert Cooke,Q7343086,DSNAME1076,Q4440
-"Cooke, Robert, -1592",author,,http://id.loc.gov/authorities/names/no89014196,human,Robert Cooke,Q7343086,DSNAME1076,Q4440
+"Cooke, Robert, -1592",author,,,human,Robert Cooke,Q116074334,DSNAME1076,Q4440
+"Cooke, Robert, -1592",author,,http://id.loc.gov/authorities/names/no89014196,human,Robert Cooke,Q116074334,DSNAME1076,Q4440
 "Coolidge, Archibald Cary, 1866-1928",former owner,,,human,Archibald Cary Coolidge,Q4786267,DSNAME4020,Q40465
 "Coomaraswamy, Ananda K. 1877-1947",scribe,,,human,Ananda Coomaraswamy,Q379589,DSNAME3374,Q28158
 "Coomaraswamy, Ananda K. 1877-1947",former owner,,,human,Ananda Coomaraswamy,Q379589,DSNAME3374,Q28158
@@ -2691,7 +2691,7 @@ Dadabhoy Framji Rustamji Darabji,former owner,,,human,Dadabhoy Framji Rustamji D
 "Dadah Khalīfah, Kamāl al-Dīn Ibrāhīm ibn Yaḥyá, -1565",author,,,human,Dede Cöngi,Q21541505,DSNAME6669,Q54300
 "Dadah Khalīfah, Kamāl al-Dīn Ibrāhīm ibn Yaḥyá, -1565",author,منقارى زاده ابراهيم كمال الدين,,human,Dede Cöngi,Q21541505,DSNAME6669,Q54300
 "Daffyd, ap Philip",author,,,human,Daffyd ap Philip,Q120442558,DSNAME1280,Q6159
-"Dafrī, ʻUmar ibn ʻUmar, d. 1668",author,,,human,ʻUmar ibn ʻUmar Dafrī,Q124768568,DSNAME6984,Q63914
+"Dafrī, ʻUmar ibn ʻUmar, d. 1668",author,,,human,ʻUmar ibn ʻUmar Dafrī,Q131386026,DSNAME6984,Q63914
 "Dahhān, Aḥmad ibn Asʻad, 19th cent",author,,,human,Aḥmad ibn Asʻad Dahhān,Q129951501,DSNAME6526,Q54157
 "Dahīʹzādah, active 1797",former owner,دهى‌ز‌اده، active 1797،,,human,Dahīʹzādah,Q124130450,DSNAME3264,Q28048
 "Dahmen, Klaus Dieter, 1934-2020",former owner,,,human,Klaus Dieter Dahmen,Q124566773,DSNAME4050,Q40495
@@ -2761,8 +2761,8 @@ Dares Phrygius.,author,,,human,Dares Phrygius,Q544378,DSNAME4056,Q40501
 "Darvīsh Abū Bakr ibn ʻUthmān, active 1792",scribe,درويش ابو بكر بن عثمان، active 1792,,human,Darvīsh Abū Bakr ibn ʻUthmān,Q114242432,DSNAME4057,Q40502
 "Darvīsh Asʻad ibn ʻAbd al-Karīm ʻArab, active 1782",former owner,درويش اسعد بن عبد الكريم عرب،,,human,Darvīsh Asʻad ibn ʻAbd al-Karīm ʻArab,Q123581722,DSNAME2684,Q18731
 Darwīsh Muṣṭafá al-Mawlawī,scribe,درويش مصطفى المولوى.,,human,Darwīsh Muṣṭafá al-Mawlawī,Q123581723,DSNAME2593,Q18641
-"Darʻī, Muḥammad, -1674 or 1675",author,درعي، محمد، ǂd -1674 or 1675,http://id.loc.gov/authorities/names/no00011711,human,Mohammed ibn Nasir,Q28715745,DSNAME1971,Q12501
-"Darʻī, Muḥammad, -1674 or 1675",author,درعي، محمد، ǂd -1674 or 1675,http://id.loc.gov/authorities/names/no00011711,human,Mohammed ibn Nasir,Q28715745,DSNAME1971,Q12501
+"Darʻī, Muḥammad, -1674 or 1675",author,درعي، محمد، ǂd -1674 or 1675,http://id.loc.gov/authorities/names/no00011711,human,Muḥammad Darʻī,Q122946951,DSNAME1971,Q12501
+"Darʻī, Muḥammad, -1674 or 1675",author,درعي، محمد، ǂd -1674 or 1675,http://id.loc.gov/authorities/names/no00011711,human,Muḥammad Darʻī,Q122946951,DSNAME1971,Q12501
 "Dashtakī, ʻAṭāʼ Allāh ibn Faz̤l Allāh, Jamāl al-Dīn, active 1483-1510",author,دشتكي، عطاء الله بن فضل الله، -1400 or 1401,,human,ʻAṭāʼ Allāh ibn Faz̤l Allāh Dashtakī,Q129453180,DSNAME6196,Q49067
 "Dashtakī Shīrāzī, Ghiyāth al-Dīn Manṣūr, 1461-1542",author,دشتكي شيرازي، غياث الدين منصور، 1461-1542,,human,Ghiyāth al-Dīn Manṣūr Dashtakī Shīrāzī,Q16050084,DSNAME1738,Q12268
 "Dashtakī Shīrāzī, Ghiyāth al-Dīn Manṣūr, 1461-1542",author,دشتكي شيرازي، غياث الدين منصور، 1461-1542,,human,Ghiyāth al-Dīn Manṣūr Dashtakī Shīrāzī,Q16050084,DSNAME1738,Q12268
@@ -3354,7 +3354,7 @@ Fanny Duschnes,former owner,,,human,Fanny Duschnes,Q125930793,DSNAME5698,Q42171
 "Farghalī, Shams al-Dīn ibn ʻAbd Allāh, -1795 or 1796",author,فرغلي، شمس الدين بن عبد الله، -1795 or 1796,,human,Shams al-Dīn ibn ʻAbd Allāh Farghalī,Q131748454,DSNAME7634,Q68244
 Farghānī active 861,author,,,human,Ahmad ibn Muhammad ibn Kathīr al-Farghānī,Q336550,DSNAME3680,Q40125
 "Farhād Mīrzā, Muʻtamad al-Dawlah, 1818-1888 or 1889",author,,,human,Muʻtamad al-Dawlah Farhād Mīrzā,Q129453229,DSNAME6227,Q49098
-"Farḥāt, Jirmānūs, 1670 or 1671-1732 or 1733",author,فرحات، جرمانوس، 1670 or 1671-1732 or 1733,,human,Germanos Farhat,Q7834293,DSNAME6687,Q54318
+"Farḥāt, Jirmānūs, 1670 or 1671-1732 or 1733",author,فرحات، جرمانوس، 1670 or 1671-1732 or 1733,,human,Jirmānūs Farḥāt,Q129951728,DSNAME6687,Q54318
 "Fārij al-Karab Yūsuf ibn Ḥusayn ibn Fayyāḍ al-ʻArab, active 1494",scribe,فارج الكرب يوسف بن حسين بن فياض العرب، active 1494،,,human,Fārij al-Karab Yūsuf ibn Ḥusayn ibn Fayyāḍ al-ʻArab,Q116326925,DSNAME812,Q3213
 "Fārij al-Karab Yūsuf ibn Ḥusayn ibn Fayyāḍ al-ʻArab, active 1494",scribe,,,human,Fārij al-Karab Yūsuf ibn Ḥusayn ibn Fayyāḍ al-ʻArab,Q116326925,DSNAME812,Q3213
 "Fārij al-Karab Yūsuf ibn Ḥusayn ibn Fayyāḍ al-ʻArab, active 1494",scribe,,,human,Fārij al-Karab Yūsuf ibn Ḥusayn ibn Fayyāḍ al-ʻArab,Q116326925,DSNAME812,Q3213
@@ -3379,7 +3379,7 @@ Farghānī active 861,author,,,human,Ahmad ibn Muhammad ibn Kathīr al-Farghān�
 "Fasawī, Muḥammad ibn Muḥammad, active 18th century",author,,,human,Muḥammad ibn Muḥammad Fasawī,Q129951664,DSNAME6639,Q54270
 "Faṣāʻī, Muḥammad ibn ʻĪsá ibn al-Ḥāj Manṣūr ibn al-Ḥāj Ḥasan Qāsim",author,,,human,Muḥammad ibn ʻĪsá ibn al-Ḥāj Manṣūr ibn al-Ḥāj Ḥasan Qāsim Faṣāʻī,Q124566799,DSNAME4189,Q40634
 "Fashnī, Aḥmad ibn Ḥijāzī",author,,,human,Aḥmad ibn Ḥijāzī Fashnī,Q131575236,DSNAME7559,Q67845
-"Fāsī, Muḥammad ibn al-Ṭayyib, 1698 or 9-1756 or 7",author,,,human,Mohammed ibn al-Tayyib,Q6893500,DSNAME6609,Q54240
+"Fāsī, Muḥammad ibn al-Ṭayyib, 1698 or 9-1756 or 7",author,,,human,Muḥammad ibn al-Ṭayyib Fāsī,Q129951612,DSNAME6609,Q54240
 "Fāsī, Muḥammad ibn ʻAbd al-Wāḥid ibn ʻAbd al-Qādir",scribe,فاسي، محمد بن عبد الواحد بن عبد القادر,,human,Muḥammad ibn ʻAbd al-Wāḥid ibn ʻAbd al-Qādir Fāsī,Q114242436,DSNAME4190,Q40635
 "Fāsī, Muḥammad ibn ʻAbd al-Wāḥid ibn ʻAbd al-Qādir",scribe,فاسي، محمد بن عبد الواحد بن عبد القادر,,human,Muḥammad ibn ʻAbd al-Wāḥid ibn ʻAbd al-Qādir Fāsī,Q114242436,DSNAME4190,Q40635
 "Fasolo, Angelo, -1491",former owner,,,human,Angelo Fasolo,Q3616987,DSNAME4191,Q40636
@@ -3499,10 +3499,10 @@ Firdawsī,author,,,human,Ferdowsi,Q43459,DSNAME2643,Q18691
 "Firmin-Didot, Ambroise, 1790-1876",former owner,,,human,Ambroise Firmin Didot,Q2842379,DSNAME2464,Q17673
 "Firmin-Didot, Ambrose, 1790-1876",former owner,,,human,Ambroise Firmin Didot,Q2842379,DSNAME2464,Q17673
 First Master of the Choir Books,illuminator,,,human,First Master of the Choir Books,Q123274759,DSNAME2258,Q16561
-"Fīrūzābādī, Muḥammad ibn Yaʻqūb, 1329-1414 or 1415",author,,,human,Firuzabadi,Q4115262,DSNAME784,Q3185
-"Fīrūzābādī, Muḥammad ibn Yaʻqūb, 1329-1414 or 1415",author,فيروزآبادى، محمد بن يعقوب، 1329-1414 يا 1415,http://id.loc.gov/authorities/names/n83055935,human,Firuzabadi,Q4115262,DSNAME784,Q3185
-"Fīrūzābādī, Muḥammad ibn Yaʻqūb, 1329-1414 or 1415",author,,,human,Firuzabadi,Q4115262,DSNAME784,Q3185
-"Fīrūzābādī, Muḥammad ibn Yaʻqūb, 1329-1414 or 1415",author,فيروزآبادى، محمد بن يعقوب، 1329-1414 يا 1415,http://id.loc.gov/authorities/names/n83055935,human,Firuzabadi,Q4115262,DSNAME784,Q3185
+"Fīrūzābādī, Muḥammad ibn Yaʻqūb, 1329-1414 or 1415",author,,,human,Fairuzabadi,Q4115262,DSNAME784,Q3185
+"Fīrūzābādī, Muḥammad ibn Yaʻqūb, 1329-1414 or 1415",author,فيروزآبادى، محمد بن يعقوب، 1329-1414 يا 1415,http://id.loc.gov/authorities/names/n83055935,human,Fairuzabadi,Q4115262,DSNAME784,Q3185
+"Fīrūzābādī, Muḥammad ibn Yaʻqūb, 1329-1414 or 1415",author,,,human,Fairuzabadi,Q4115262,DSNAME784,Q3185
+"Fīrūzābādī, Muḥammad ibn Yaʻqūb, 1329-1414 or 1415",author,فيروزآبادى، محمد بن يعقوب، 1329-1414 يا 1415,http://id.loc.gov/authorities/names/n83055935,human,Fairuzabadi,Q4115262,DSNAME784,Q3185
 "Fīrūzābādī al-Shīrāzī, Abū Isḥāq Ibrāhīm ibn ʻAlī ibn Yūsuf, approximately 1003-1083",author,,,human,al-Shīrāzī,Q3603848,DSNAME7047,Q63977
 "Fīrūzābādī al-Shīrāzī, Abū Isḥāq Ibrāhīm ibn ʻAlī ibn Yūsuf, approximately 1003-1083.",author,,,human,al-Shīrāzī,Q3603848,DSNAME7047,Q63977
 "Fischmann, Gail",former owner,,,human,Gail Fischmann,Q124629903,DSNAME4206,Q40651
@@ -3805,7 +3805,7 @@ Gaspare Calderini,author,,,human,Gaspare Calderini,Q24248372,DSNAME4260,Q40705
 Gaspare Contarini,author,,,human,Gasparo Contarini,Q728931,DSNAME1549,Q7914
 Gaspare da Verona ca. 1400-1474,author,,,human,Gaspare da Verona,Q19515261,DSNAME4261,Q40706
 Gaspare da Verona ca. 1400-1474.,author,,,human,Gaspare da Verona,Q19515261,DSNAME4261,Q40706
-Gaspare Torelli,author,,,human,Gasparo Torelli,Q20002396,DSNAME4262,Q40707
+Gaspare Torelli,author,,,human,Gaspar Torelli,Q20002396,DSNAME4262,Q40707
 Gasparino Barzizza,author,,,human,Gasparinus de Bergamo,Q1236187,DSNAME1221,Q6100
 Gasparinus Barzizza,author,,,human,Gasparinus de Bergamo,Q1236187,DSNAME1221,Q6100
 "Gasparoli, Jean Marie Michel",former owner,,,human,Jean Marie Michel Gasparoli,Q123274763,DSNAME2191,Q16499
@@ -3928,15 +3928,15 @@ Gerolamo Michele,other,,,human,Gerolamo Michele,Q117338264,DSNAME4293,Q40738
 Gervase Markham,author,,,human,Gervase Markham,Q456590,DSNAME4295,Q40740
 "Getz, Milton E., Mrs",former owner,,,human,Estelle Getz,Q113015599,DSNAME1198,Q6077
 "Getz, Milton E., Mrs.",former owner,,,human,Estelle Getz,Q113015599,DSNAME1198,Q6077
-"Ghaffārī, Ahmad ibn Muhammad, approximately 1495-1567 or 1568",author,,,human,Ahmad Ghaffari Qazvini,Q11904467,DSNAME6448,Q49319
-"Ghaffārī, Ahmad ibn Muhammad, approximately 1495-1567 or 1568",author,غفاري، اهمد بن مهمد، approximately 1495-1567 or 1568,,human,Ahmad Ghaffari Qazvini,Q11904467,DSNAME6448,Q49319
+"Ghaffārī, Ahmad ibn Muhammad, approximately 1495-1567 or 1568",author,,,human,Ahmad ibn Muhammad Ghaffari,Q11904467,DSNAME6448,Q49319
+"Ghaffārī, Ahmad ibn Muhammad, approximately 1495-1567 or 1568",author,غفاري، اهمد بن مهمد، approximately 1495-1567 or 1568,,human,Ahmad ibn Muhammad Ghaffari,Q11904467,DSNAME6448,Q49319
 "Ghālī al-Khayrī, Shams al-Dīn Muḥammad, active 16th century",scribe,غالي الخيري، شمس الدين محمد، active 16th century,,human,Shams al-Dīn Muḥammad Ghālī al-Khayrī,Q131748604,DSNAME7842,Q68452
 "Ghālibī, Abū al-Ḥasan ibn ʻAbd al-Fattāḥ, active 19th century",scribe,غالبي، ابو الحسن بن عبد الفتاح، active 19th century,,human,Abū al-Ḥasan ibn ʻAbd al-Fattāḥ Ghālibī,Q131748594,DSNAME7831,Q68441
 "Ghalyūn, Nafīsah bint al-Ḥājj Muḥammad",former owner,غليون، نفيسة بنت الحاج محمد,,human,Nafīsah bint al-Ḥājj Muḥammad Ghalyūn,Q113857047,DSNAME3123,Q27910
 "Ghalyūn, Nafīsah bint al-Ḥājj Muḥammad",former owner,غليون، نفيسة بنت الحاج محمد,,human,Nafīsah bint al-Ḥājj Muḥammad Ghalyūn,Q113857047,DSNAME3123,Q27910
 "Ghamrī, Aḥmad ibn Muḥammad, -1499 or 1500",author,غمري، احمد بن محمد، -1499 أو 1500,,human,Aḥmad ibn Muḥammad Ghamrī,Q113857063,DSNAME4296,Q40741
 "Ghamrī, Aḥmad ibn Muḥammad, -1499 or 1500",author,غمري، احمد بن محمد، -1499 أو 1500,,human,Aḥmad ibn Muḥammad Ghamrī,Q113857063,DSNAME4296,Q40741
-"Ghamrī, ʻAbd al-Wahhāb ibn Muḥammad, -1621 or 1622",author,غمري، عبد الوهاب بن محمد، -1621 or 1622,,human,ʻAbd al-Wahhāb ibn Muḥammad Ghamrī,Q125098718,DSNAME7870,Q68480
+"Ghamrī, ʻAbd al-Wahhāb ibn Muḥammad, -1621 or 1622",author,غمري، عبد الوهاب بن محمد، -1621 or 1622,,human,ʻAbd al-Wahhāb ibn Muḥammad Ghamrī,Q131398944,DSNAME7870,Q68480
 "Ghanīmat, Muḥammad Akram, active 1685-1696",author,غنىمت، محمد اکرم، active 1685-1696,,human,Muḥammad Akram Ghanīmat,Q129453492,DSNAME6389,Q49260
 Ghaṭakarpara,author,,http://id.loc.gov/authorities/names/nb2006013893,human,Ghaṭakarpara,Q124252846,DSNAME3512,Q28296
 "Ghaws̲, active 19th century",author,غوث، active 19th century,,human,Ghaws̲,Q129453497,DSNAME6391,Q49262
@@ -3955,9 +3955,9 @@ Ghaṭakarpara,author,,http://id.loc.gov/authorities/names/nb2006013893,human,Gh
 "Ghazzālī, Yūsuf ibn Ḥajjāj, active 17th century",scribe,غزالي، يوسف بن حجاج، active 17th century,,human,Yūsuf ibn Ḥajjāj Ghazzālī,Q131748584,DSNAME7824,Q68434
 "Ghazzī, Aḥmad ibn Qāsim, -1575",author,غزي، احمد بن قاسم، -1575,,human,Aḥmad ibn Qāsim Ghazzī,Q124130455,DSNAME3138,Q27924
 "Ghazzī, Aḥmad ibn ʻAlī, d. 1765 or 6",author,,,human,Aḥmad ibn ʻAlī Ghazzī,Q131690051,DSNAME7489,Q67775
-"Ghazzī, Badr al-Dīn Muḥammad ibn Muḥammad, 1499-1577",author,,,human,Badr al-Dīn Muḥammad ibn Muḥammad Ghazzī,Q20383593,DSNAME6569,Q54200
+"Ghazzī, Badr al-Dīn Muḥammad ibn Muḥammad, 1499-1577",author,,,human,Badr al-Dīn Muḥammad ibn Muḥammad Ghazzī,Q94132964,DSNAME6569,Q54200
 "Ghazzī, Muḥammad ibn Muḥammad, 1760-1799",author,,,human,Kamal al-Din al-Ghazzi,Q105356914,DSNAME6652,Q54283
-"Ghazzī, Muḥammad ibn Qāsim, 1454 or 1455-1512 or 1513",author,غزي، محمد بن قاسم، 1454 or 1455-1512 or 1513,http://id.loc.gov/authorities/names/nr91027556 http://id.loc.gov/authorities/names/nr91027556 http://viaf.org/viaf/sourceID/LC%7cnr91027556,human,Muhammad ibn Qasim al-Ghazzī,Q25454625,DSNAME1957,Q12487
+"Ghazzī, Muḥammad ibn Qāsim, 1454 or 1455-1512 or 1513",author,غزي، محمد بن قاسم، 1454 or 1455-1512 or 1513,http://id.loc.gov/authorities/names/nr91027556 http://id.loc.gov/authorities/names/nr91027556 http://viaf.org/viaf/sourceID/LC%7cnr91027556,human,Ghazzī,Q25454625,DSNAME1957,Q12487
 "Ghazzī. Muḥammad ibn Muḥammad, active 18th century",scribe,غزي. محمد بن محمد، active 18th century,,human,Kamal al-Din al-Ghazzi,Q105356914,DSNAME6652,Q54283
 Ghent Associates of the Master of Mary of Burgundy,illuminator,,,organization,Vienna Master of Mary of Burgundy,Q1393823,DSNAME5542,Q41987
 "Gherardo, del Fora, approximately 1444-1497",artist,,,human,Gherardo di Giovanni del Fora,Q3104832,DSNAME2799,Q20118
@@ -3968,7 +3968,7 @@ Ghent Associates of the Master of Mary of Burgundy,illuminator,,,organization,Vi
 "Ghisolfi, Francesco, active 16th century",author,,http://id.loc.gov/authorities/names/no2017080171,human,Francesco Ghisolfi,Q68716752,DSNAME4225,Q40670
 "Ghiyāth al-Dīn al-Baghdādī, Ghānim ibn Muḥammad, fl. 1618",author,,,human,Ghiyāth al-Dīn al-Baghdādī,Q124768871,DSNAME6982,Q63912
 Ghiyāth al-Dīn Muḥammad Rustam ʻAlī,scribe,غياث الدين محمد رستم علي،,,human,Ghiyāth al-Dīn Muḥammad Rustam ʻAlī,Q124566810,DSNAME4298,Q40743
-"Ghulāmak, Muḥammad ibn Mūsá, -1635 or 1636",author,,,human,Ghulāmak,Q125099392,DSNAME6529,Q54160
+"Ghulāmak, Muḥammad ibn Mūsá, -1635 or 1636",author,,,human,Muḥammad ibn Mūsá Ghulāmak,Q129951504,DSNAME6529,Q54160
 Ghulām Muḥyī al-Dīn walad Muḥammad Akram,scribe,غلام محيى الدين ولد محمد اكرم ،,,human,Ghulām Muḥyī al-Dīn walad Muḥammad Akram,Q124130456,DSNAME3155,Q27941
 "Ghunaymī, Aḥmad ibn Muḥammad, -1634",author,غنيمي، احمد بن محمد، -1634,http://id.loc.gov/authorities/names/n89188849 http://id.loc.gov/authorities/names/n89188849 http://viaf.org/viaf/sourceID/LC%7cn89188849,human,Aḥmad ibn Muḥammad Ghunaymī,Q122946952,DSNAME1781,Q12311
 "Ghunaymī, Aḥmad ibn Muḥammad, -1634",author,غنيمي، احمد بن محمد,,human,Aḥmad ibn Muḥammad Ghunaymī,Q122946952,DSNAME1781,Q12311
@@ -4093,8 +4093,8 @@ Girolamo Angeriano,author,,,human,Girolamo Angeriano,Q3768890,DSNAME1533,Q7898
 Girolamo Benivieni,author,,,human,Girolamo Benivieni,Q328117,DSNAME3822,Q40267
 Girolamo Savonarola,author,,,human,Girolamo Savonarola,Q164823,DSNAME4323,Q40768
 "Giroldi, Giacomo, active 1422-1452",author,,,human,Giacomo Giroldi,Q131623227,DSNAME7198,Q67444
-"Giulantonio di Acquaviva, duke of Atri 1464-81, or possibly his young son, Andrea Matteo Acquaviva (1458-1529), with their arms on fol. 1r; Gilhofer and Ranschburg, cat. 265 (1936), no. 12a; evidently confiscated by the Nazis, with the purple stamp of the Zentralstelle für Denkmalschutz dated 26.III.37 inside the lower cover",former owner,,,human;human,Giulio Antonio Acquaviva;Andrea Matteo Acquaviva,Q2317813;Q3615841,DSNAME591;DSNAME592,Q1826;Q1827
-"Giulantonio di Acquaviva, duke of Atri 1464-81, or possibly his young son, Andrea Matteo Acquaviva (1458-1529), with their arms on fol. 1r; Gilhofer and Ranschburg, cat. 265 (1936), no. 12a; evidently confiscated by the Nazis, with the purple stamp of the Zentralstelle für Denkmalschutz dated 26.III.37 inside the lower cover;",former owner,,,human;human,Giulio Antonio Acquaviva;Andrea Matteo Acquaviva,Q2317813;Q3615841,DSNAME591;DSNAME592,Q1826;Q1827
+"Giulantonio di Acquaviva, duke of Atri 1464-81, or possibly his young son, Andrea Matteo Acquaviva (1458-1529), with their arms on fol. 1r; Gilhofer and Ranschburg, cat. 265 (1936), no. 12a; evidently confiscated by the Nazis, with the purple stamp of the Zentralstelle für Denkmalschutz dated 26.III.37 inside the lower cover",former owner,,,human;human,Giulantonio Acquaviva;Andrea Matteo Acquaviva,Q108433426;Q3615841,DSNAME592;DSNAME592,Q1827;Q1827
+"Giulantonio di Acquaviva, duke of Atri 1464-81, or possibly his young son, Andrea Matteo Acquaviva (1458-1529), with their arms on fol. 1r; Gilhofer and Ranschburg, cat. 265 (1936), no. 12a; evidently confiscated by the Nazis, with the purple stamp of the Zentralstelle für Denkmalschutz dated 26.III.37 inside the lower cover;",former owner,,,human;human,Giulantonio Acquaviva;Andrea Matteo Acquaviva,Q108433426;Q3615841,DSNAME592;DSNAME592,Q1827;Q1827
 "Giulantonio di Acquaviva, duke of Atri 1464-81, or possibly his young son, Andrea Matteo Acquaviva (1458-1529), with their arms on fol. 1r; Gilhofer and Ranschburg, cat. 265 (1936), no. 12a; evidently confiscated by the Nazis, with the purple stamp of the Zentralstelle für Denkmalschutz dated 26.III.37 inside the lower cover; apparently returned",former owner,,,human;human;organization,"Giulio Antonio Acquaviva;Andrea Matteo Acquaviva;Gilhofer & Ranschburg, Vienna",Q2317813;Q3615841;Q1524334,DSNAME591;DSNAME592;DSNAME593,Q1826;Q1827;Q1828
 "Giulantonio di Acquaviva, duke of Atri 1464-81, or possibly his young son, Andrea Matteo Acquaviva (1458-1529), with their arms on fol. 1r; Gilhofer and Ranschburg, cat. 265 (1936), no. 12a; evidently confiscated by the Nazis, with the purple stamp of the Zentralstelle für Denkmalschutz dated 26.III.37 inside the lower cover; apparently returned;",former owner,,,human;human;organization,"Giulio Antonio Acquaviva;Andrea Matteo Acquaviva;Gilhofer & Ranschburg, Vienna",Q2317813;Q3615841;Q1524334,DSNAME591;DSNAME592;DSNAME593,Q1826;Q1827;Q1828
 Giuliano d'Antonio da Prato,scribe,,,human,Giuliano d'Antonio da Prato,Q117448251,DSNAME710,Q1945
@@ -4185,8 +4185,8 @@ Gorakṣanātha,author,,http://id.loc.gov/authorities/names/n88152565,human,Gora
 "Gostling, William, 1696-1777",former owner,,,human,William Gostling,Q15994466,DSNAME2495,Q17704
 "Gostling, William Kennedy",former owner,,,human,William Gostling,Q75264995,DSNAME2496,Q17705
 "Got, Bertrand de c. 1260-1314",author,,,human,Clement V,Q131463,DSNAME2822,Q20141
-"gothic foliation in roman numerals added during the revision of the text under Jacquemine Hendricx, abbess of Beaupré 1473-1500, and pagination in arabic numerals during the revision under Angéline de Lossy, abbess 1755-96; sold with the Beaupré manuscripts in 1797; John Ruskin (1819-1900), who owned six volumes from two sets of choirbooks from Beaupré and removed the present leaves himself",former owner,,,human;human;human,Jacquemine Hendricx;Angéline de Lossy;John Ruskin,Q116785243;Q117536482;Q179126,DSNAME462;DSNAME8514;DSNAME463,Q1626;Q75932;Q1627
-"gothic foliation in roman numerals added during the revision of the text under Jacquemine Hendricx, abbess of Beaupré 1473-1500, and pagination in arabic numerals during the revision under Angéline de Lossy, abbess 1755-96; sold with the Beaupré manuscripts in 1797; John Ruskin (1819-1900), who owned six volumes from two sets of choirbooks from Beaupré and removed the present leaves himself;",former owner,,,human;human;human,Jacquemine Hendricx;Angéline de Lossy;John Ruskin,Q116785243;Q117536482;Q179126,DSNAME462;DSNAME8514;DSNAME463,Q1626;Q75932;Q1627
+"gothic foliation in roman numerals added during the revision of the text under Jacquemine Hendricx, abbess of Beaupré 1473-1500, and pagination in arabic numerals during the revision under Angéline de Lossy, abbess 1755-96; sold with the Beaupré manuscripts in 1797; John Ruskin (1819-1900), who owned six volumes from two sets of choirbooks from Beaupré and removed the present leaves himself",former owner,,,human;human;human,Jacquemine Hendricx;Angéline de Lossy;John Ruskin,Q116785243;Q117536482;Q179126,DSNAME462;DSNAME463;DSNAME463,Q1626;Q1627;Q1627
+"gothic foliation in roman numerals added during the revision of the text under Jacquemine Hendricx, abbess of Beaupré 1473-1500, and pagination in arabic numerals during the revision under Angéline de Lossy, abbess 1755-96; sold with the Beaupré manuscripts in 1797; John Ruskin (1819-1900), who owned six volumes from two sets of choirbooks from Beaupré and removed the present leaves himself;",former owner,,,human;human;human,Jacquemine Hendricx;Angéline de Lossy;John Ruskin,Q116785243;Q117536482;Q179126,DSNAME462;DSNAME463;DSNAME463,Q1626;Q1627;Q1627
 "Gottheil, Richard J. H. 1862-1936",former owner,,,human,Richard James Horatio Gottheil,Q372586,DSNAME3193,Q27977
 "Gottschalk, active 1170?-1204",scribe,,,human,Gottschalk of Lambach,Q120648317,DSNAME4341,Q40786
 "Gottschalk, Paul, 1880-",former owner,,,human,Paul Gottschalk,Q72937167,DSNAME2275,Q16577
@@ -4442,7 +4442,7 @@ H.P. Kraus (Firm),former owner,,,organization,H. P. Kraus (firm),Q113864096,DSNA
 "Hacı Bektaş Veli, active 13th century",author,حاجى بكتاش ولى,,human,Haji Bektash Veli,Q469865,DSNAME6935,Q54916
 Hada Alftra Haq Salem N. Salman,former owner,,,human,Hada Alftra Haq Salem N. Salman,Q125930803,DSNAME5717,Q42190
 "Ḥaddād, Abū Bakr ibn ʻAlī, -1397 or 1398",author,حداد، ابو بكر بن علي,,human,Abū Bakr ibn ʻAlī al-Ḥaddād,Q54875371,DSNAME6977,Q63907
-"ḥaddādī, Abū Bakr ibn ʻAlī",author,,,human,Abū Bakr ibn ʻAlī al-Ḥaddād,Q54875371,DSNAME6977,Q63907
+"ḥaddādī, Abū Bakr ibn ʻAlī",author,,,human,Abū Bakr ibn ʻAlī Ḥaddādī,Q131386046,DSNAME7018,Q63948
 "Haddon Hindley, Sir John",former owner,,,human,John Hindley,Q18534845,DSNAME8081,Q68785
 "Hādī ibn Bahāʼ al-Dīn, active 1822",scribe,هادي بن بهاء الدين،,,human,Hādī ibn Bahāʼ al-Dīn,Q123581730,DSNAME2641,Q18689
 "Ḥafīd al-Saʻd, Aḥmad ibn Yaḥyá, -1510 or 1511",author,,,human,Aḥmad ibn Yaḥyá Ḥafīd al-Saʻd,Q129951730,DSNAME6537,Q54168
@@ -4492,7 +4492,7 @@ Håkon Hallberg,former owner,,,human,Håkon Hallberg,Q125930804,DSNAME5718,Q4219
 "Ḥalabī, Ṣāliḥ Naṣr Allāh ibn Sallūm",author,حلبي، صالح نصر الله بن سلوم,,human,Salih Nasr Allah ibn Sallum Halabi,Q22935004,DSNAME6392,Q49263
 "Ḥalabī, Ṣāliḥ Naṣr Allāh ibn Sallūm",author,حلبي، صاله نصر الله بن سلوم,,human,Salih Nasr Allah ibn Sallum Halabi,Q22935004,DSNAME6392,Q49263
 "Ḥalabī, Ṣāliḥ Naṣr Allāh ibn Sallūm.",author,حلبي، صالح نصر الله بن سلوم,,human,Salih Nasr Allah ibn Sallum Halabi,Q22935004,DSNAME6392,Q49263
-"Ḥalabī, ʻAbd al-Malik ibn ʻAlī, 1364 or 5-1435",author,حلبي، عبد الملك بن علي,,human,ʻAbd al-Malik ibn ʻAlī Ḥalabī,Q124768076,DSNAME7568,Q67854
+"Ḥalabī, ʻAbd al-Malik ibn ʻAlī, 1364 or 5-1435",author,حلبي، عبد الملك بن علي,,human,ʻAbd al-Malik ibn ʻAlī Ḥalabī,Q131579920,DSNAME7568,Q67854
 "ḥalabī, ʻAbd al-Qādir ibn Ṣāliḥ, d. 1785",author,,,human,ʻAbd al-Qādir ibn Ṣāliḥ Ḥalabī,Q131432209,DSNAME6980,Q63910
 "Ḥalāwī, Muḥammad ibn Muḥammad, 1416 or 1417-1478 or 1479",author,,,human,Alḥulāwī,Q125099346,DSNAME6647,Q54278
 "Halāyudha, active 10th century",author,,http://id.loc.gov/authorities/names/n83139671,human,Halayudha,Q3635178,DSNAME3518,Q28302
@@ -4564,7 +4564,7 @@ Hannibaldus de Hannibaldis,author,,,human,Annibale Annibaldi,Q581671,DSNAME4391,
 "Hānsavī, Quṭb Jamāl al-Dīn Aḥmad",author,هانسوى، قطب جمال الدىن احمد,,human,Quṭb Jamāl al-Dīn Aḥmad Hānsavī,Q129453187,DSNAME6199,Q49070
 "Hānsavī, ʻAbd al-Vāsiʻ",author,هانسوى، عبد الواسع,,human,Abd al-Vasi Hansavi,Q119017277,DSNAME5980,Q42672
 "Hans Wertinger, also called Hans Schwab von Wertinger (1465/70–1533), of Landshut, or his workshop",artist,,,human,Hans Wertinger,Q3127027,DSNAME650,Q1885
-"Ḥānūtī, Muḥammad ibn ʻUmar, 1520 or 1521-1601 or 1602",author,حانوتي، محمد بن عمر، 1520 or 1521-1601 or 1602,,human,Muḥammad ibn ʻUmar Ḥānūtī,Q124772508,DSNAME7858,Q68468
+"Ḥānūtī, Muḥammad ibn ʻUmar, 1520 or 1521-1601 or 1602",author,حانوتي، محمد بن عمر، 1520 or 1521-1601 or 1602,,human,Muḥammad ibn ʻUmar Ḥānūtī,Q131398937,DSNAME7858,Q68468
 Haquinet le Pesquier,scribe,,,human,Haquinet le Pesquier,Q124380416,DSNAME4393,Q40838
 "Haravī, Uvays ibn Muḥammad, active 1566",scribe,هروي، اويس بن محمد،,,human,Uvays ibn Muḥammad Haravī,Q123581728,DSNAME2664,Q18711
 "Harawī, Muḥammad ibn ʻAlī, 982 or 983-1041 or 1042",author,هروي، محمد بن علي، 982 or 983-1041 or 1042,,human,ʿAlī Ibn-Muḥammad Abu-ʾl-Ḥasan al-Harawī,Q55903508,DSNAME7912,Q68522
@@ -4572,7 +4572,7 @@ Haquinet le Pesquier,scribe,,,human,Haquinet le Pesquier,Q124380416,DSNAME4393,Q
 "Harding, Walter Ambrose",former owner,,,human,Walter Ambrose Heath Harding,Q124380418,DSNAME4395,Q40840
 "Harford, Charles Joseph",former owner,,,human,Charles Joseph Harford,Q75513343,DSNAME2928,Q20243
 "Harford, Frederick Kill, 1832-1906",former owner,,,human,Frederick Kill Harford,Q54364085,DSNAME2929,Q20244
-"Ḥarfūshī, Muḥammad ibn ʻAlī, -1649",author,,,human,Muḥammad ibn ʻAlī Ḥarfūshī,Q12239673,DSNAME6657,Q54288
+"Ḥarfūshī, Muḥammad ibn ʻAlī, -1649",author,,,human,Muḥammad ibn ʻAlī Ḥarfūshī,Q129951685,DSNAME6657,Q54288
 Hari Dīkṣita,author,,http://id.loc.gov/authorities/names/n87937086,human,Hari Dīkṣita,Q124252856,DSNAME3342,Q28126
 Harikr̥ṣṇa,scribe,,http://id.loc.gov/authorities/names/n2009219333,human,Harekṛṣṇa Miśra,Q113779012,DSNAME3279,Q28063
 "Harington, John, Sir, 1560-1612",author,,,human,John Harington,Q686895,DSNAME4396,Q40841
@@ -4638,7 +4638,7 @@ Hastings (Family),former owner,,,organization,Hastings family,Q4134121,DSNAME554
 "Havens, Ida M.",former owner,,,human,Ida M. Havens,Q131863652,DSNAME8103,Q68807
 "Havens, W. Paul, Jr. (Walter Paul), 1911-1992",former owner,,,human,Walter Paul Havens,Q131863653,DSNAME8065,Q68769
 "Havens, Walter Paul, Jr., 1911-1992",former owner,,,human,Walter Paul Havens,Q131863653,DSNAME8065,Q68769
-"Ḥawfī, ʻAlī ibn Ibrāhīm Faḍḍāl ibn Saʻīd, -1039",author,حوفي، علي بن ابراهيم فضال بن سعيد، -1039,,human,ʻAlī ibn Ibrāhīm Faḍḍāl ibn Saʻīd Ḥawfī,Q6820015,DSNAME7792,Q68402
+"Ḥawfī, ʻAlī ibn Ibrāhīm Faḍḍāl ibn Saʻīd, -1039",author,حوفي، علي بن ابراهيم فضال بن سعيد، -1039,,human,ʻAlī ibn Ibrāhīm Faḍḍāl ibn Saʻīd Ḥawfī,Q131398920,DSNAME7792,Q68402
 "Hawkeslowe, Johanna, senior, active 1518",author,,,human,Johanna Hawkeslowe (Sr.),Q123274774,DSNAME2231,Q16534
 "Hawkins, John Sidney, 1758-1842",former owner,,http://id.loc.gov/authorities/names/n2001128290,human,John Sidney Hawkins,Q18546564,DSNAME4404,Q40849
 "Hawkins, Rush C",former owner,,,human,Rush Hawkins,Q7380701,DSNAME2910,Q20226
@@ -4834,8 +4834,8 @@ Hispanic Society of America,former owner,,,organization,Hispanic Society of Amer
 "his sale, Christie’s, 23 March 1954, lot 32;George A. Poole, bought from Lathrop Harper, cat. 2 (1956), no. 7, and acquired by the Lilly Library with the Poole Collection in 1958.",former owner,,,organization;human,"Lathrop C. Harper, Inc.;George Amos Poole",Q116785327;Q64683625,DSNAME476;DSNAME360,Q1640;Q1524
 "his sale, Christie’s, 26 May 1825, part of lot 48; perhaps William Young Ottley (1771-1836); perhaps part of lot 204 in his sale, Sotheby’s, 11 May 1838; C. L. Ricketts, bought from Tregaskis; acquired by the Lilly Library with the Ricketts Collection in 1961",former owner,,,human;human;human,William Young Ottley;James Tregaskis;Coella Lindsay Ricketts,Q8020693;Q94138739;Q116771179,DSNAME500;DSNAME451;DSNAME363,Q1664;Q1615;Q1527
 "his sale, Christie’s, 26 May 1825, part of lot 48; perhaps William Young Ottley (1771-1836); perhaps part of lot 204 in his sale, Sotheby’s, 11 May 1838; C. L. Ricketts, bought from Tregaskis; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human;human,William Young Ottley;James Tregaskis;Coella Lindsay Ricketts,Q8020693;Q94138739;Q116771179,DSNAME500;DSNAME451;DSNAME363,Q1664;Q1615;Q1527
-"his sale, Sotheby’s, 12 March 1891, lot 1666; Henry Walton Lawrence; his sale, Sotheby’s, 15 December 1892, lot 235, to Robson; C. L. Ricketts, bought from Robson, cat. 96 (1915), no. 219; acquired by the Lilly Library with the Ricketts Collection in 1961",former owner,,,human;human,Henry Walton Lawrence;Coella Lindsay Ricketts,Q117536626;Q116771179,DSNAME8515;DSNAME363,Q75933;Q1527
-"his sale, Sotheby’s, 12 March 1891, lot 1666; Henry Walton Lawrence; his sale, Sotheby’s, 15 December 1892, lot 235, to Robson; C. L. Ricketts, bought from Robson, cat. 96 (1915), no. 219; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Henry Walton Lawrence;Coella Lindsay Ricketts,Q117536626;Q116771179,DSNAME8515;DSNAME363,Q75933;Q1527
+"his sale, Sotheby’s, 12 March 1891, lot 1666; Henry Walton Lawrence; his sale, Sotheby’s, 15 December 1892, lot 235, to Robson; C. L. Ricketts, bought from Robson, cat. 96 (1915), no. 219; acquired by the Lilly Library with the Ricketts Collection in 1961",former owner,,,human;human,Henry Walton Lawrence;Coella Lindsay Ricketts,Q117536626;Q116771179,DSNAME363;DSNAME363,Q1527;Q1527
+"his sale, Sotheby’s, 12 March 1891, lot 1666; Henry Walton Lawrence; his sale, Sotheby’s, 15 December 1892, lot 235, to Robson; C. L. Ricketts, bought from Robson, cat. 96 (1915), no. 219; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Henry Walton Lawrence;Coella Lindsay Ricketts,Q117536626;Q116771179,DSNAME363;DSNAME363,Q1527;Q1527
 "his sale, Sotheby’s, 12 March 1891, lot 3248; Robert Hoe (1839-1909), of New York, with his leather booklabel, his by 1892, when it was exhibited at the Grolier Club; his sale, Anderson, New York, 24 April 1911, lot 2182, to G. D. Smith, for C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961",former owner,,,human;human,Robert Hoe III;Coella Lindsay Ricketts,Q3663034;Q116771179,DSNAME165;DSNAME363,Q438;Q1527
 "his sale, Sotheby’s, 12 March 1891, lot 3248; Robert Hoe (1839-1909), of New York, with his leather booklabel, his by 1892, when it was exhibited at the Grolier Club; his sale, Anderson, New York, 24 April 1911, lot 2182, to G. D. Smith, for C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Robert Hoe III;Coella Lindsay Ricketts,Q3663034;Q116771179,DSNAME165;DSNAME363,Q438;Q1527
 "his sale, Sotheby’s, 2 May 1904, lot 228; Michael Tomkinson (1841-1921); his sale, Sotheby’s, 3 April 1922, lot 878, to Quaritch; C. L. Ricketts, bought in 1923; acquired by the Lilly Library with the Ricketts Collection in 1961",former owner,,,human;organization;human,Michael Tomkinson;Bernard Quaritch Ltd;Coella Lindsay Ricketts,Q18811090;Q65034936;Q116771179,DSNAME589;DSNAME279;DSNAME363,Q1824;Q892;Q1527
@@ -4848,8 +4848,8 @@ Hispanic Society of America,former owner,,,organization,Hispanic Society of Amer
 "Hŏ, Nansŏrhŏn, 1563-1589",author,"許 蘭雪軒, 1563-1589",http://id.loc.gov/authorities/names/n81055101,human,Heo Nanseolheon,Q464558,DSNAME2070,Q12879
 "Hobart, Thomas, -1728",former owner,,,human,Thomas Hobart,Q120869133,DSNAME2445,Q17654
 "Hoby, Thomas Posthumus, Sir",former owner,,,human,Thomas Posthumous Hoby,Q7793226,DSNAME4447,Q40892
-"Hoccleve, Thomas, 1370?-1450",author,,http://id.loc.gov/authorities/names/n82125108,human,Thomas Hoccleve,Q1227741,DSNAME4448,Q40893
 "Hoccleve, Thomas, 1370?-1450?",author,,,human,Thomas Hoccleve,Q1227741,DSNAME4448,Q40893
+"Hoccleve, Thomas, 1370?-1450",author,,http://id.loc.gov/authorities/names/n82125108,human,Thomas Hoccleve,Q1227741,DSNAME4448,Q40893
 "Hoccleve, Thomas 1370?-1450",author,,,human,Thomas Hoccleve,Q1227741,DSNAME4448,Q40893
 "Hoccleve, Thomas 1370?-1450?",author,,,human,Thomas Hoccleve,Q1227741,DSNAME4448,Q40893
 "Hodgkin, John Eliot",former owner,,,human,John Eliot Hodgkin,Q53358299,DSNAME2918,Q20234
@@ -5062,11 +5062,11 @@ Iacobus of Speyer.,author,,,human,Jakob Montanus,Q1677587,DSNAME4475,Q40920
 "Ibn Abī Ṣādiq al-Nīsābūrī, Abū al-Qāsim ʻAbd al-Raḥmān ibn ʻAlī, -approximately 1068",author,ابن ابي صادق النيسابوري، ابو القاسم عبد الرحمن بن علي، -approximately 1068,http://id.loc.gov/authorities/names/n2008049541,human,Abū al-Qāsim ʻAbd al-Raḥmān ibn ʻAlī ibn Abī Ṣādiq al Nīsābūrī,Q116380012,DSNAME796,Q3197
 "Ibn Abī Ṣādiq al-Nīsābūrī, Abū al-Qāsim ʻAbd al-Raḥmān ibn ʻAlī, -approximately 1068",author,ابن ابي صادق النيسابوري، ابو القاسم عبد الرحمن بن علي، -approximately 1068,http://id.loc.gov/authorities/names/n2008049541,human,Abū al-Qāsim ʻAbd al-Raḥmān ibn ʻAlī ibn Abī Ṣādiq al Nīsābūrī,Q116380012,DSNAME796,Q3197
 "Ibn Abī Ṣādiq al-Nīsābūrī, Abū al-Qāsim ʻAbd al-Raḥmān ibn ʻAlī, -approximately 1068",author,,,human,Abū al-Qāsim ʻAbd al-Raḥmān ibn ʻAlī ibn Abī Ṣādiq al Nīsābūrī,Q116380012,DSNAME796,Q3197
-"Ibn Abī Sharīf, Ibrāhīm ibn Muḥammad, 1433-1517",author,ابن ابي شريف، ابراهيم بن محمد، 1433-1517,,human,Ibn Abī Sharīf,Q122801978,DSNAME7799,Q68409
+"Ibn Abī Sharīf, Ibrāhīm ibn Muḥammad, 1433-1517",author,ابن ابي شريف، ابراهيم بن محمد، 1433-1517,,human,Ibrāhīm ibn Muḥammad Ibn Abī Sharīf,Q131398923,DSNAME7799,Q68409
 "Ibn Abī Sharīf, Muḥammad ibn Muḥammad, 1419 or 1420-1500 or 1501",author,ابن ابي شريف، محمد بن محمد، 1419 or 1420-1500 or 1501,http://id.loc.gov/authorities/names/nr92023224 http://id.loc.gov/authorities/names/nr92023224 http://viaf.org/viaf/sourceID/LC%7cnr92023224,human,Muḥammad ibn Muḥammad Ibn Abī Sharīf,Q25450198,DSNAME1963,Q12493
 "Ibn Abī Ṭālib, ʻAlī ibn Maḥmūd, active 13th century",scribe,ابن ابي طالب، علي بن محمود، active 13th century,,human,ʻAlī ibn Maḥmūd Ibn Abī Ṭālib,Q131748600,DSNAME7838,Q68448
 "Ibn Abī Zayd al-Qayrawānī, ʻAbd Allāh ibn ʻAbd al-Raḥmān, active 10th century",author,,http://id.loc.gov/authorities/names/n82235929,human,Ibn Abi Zayd al-Qayrawani,Q5984167,DSNAME3101,Q27888
-"Ibn al-Ajdābī, Ibrāhīm ibn Ismāʻīl, -1077",author,,,human,Ibn al-Ajdābī,Q5984295,DSNAME6607,Q54238
+"Ibn al-Ajdābī, Ibrāhīm ibn Ismāʻīl, -1077",author,,,human,Ibrāhīm ibn Ismāʻīl Ibn al-Ajdābī,Q129951609,DSNAME6607,Q54238
 "Ibn al-Anbārī, Muḥammad ibn al-Qāsim, 885-940",author,,,human,Ibn-al-Anbārī,Q12240097,DSNAME6604,Q54235
 "Ibn al-Anbārī, ʻAbd al-Raḥmān ibn Muḥammad, 1119-1181",author,,,human,Abu-'L-Barakat ibn-Al-Anbari,Q15686106,DSNAME6614,Q54245
 "Ibn al-Asīr, Yūsuf ibn ʻAbd al-Qādir, 1816 or 1817-1889 or 1890",scribe,ابن الاسير، يوسف بن عبد القادر، 1816 or 1817-1889 or 1890,,human,Yusuf al-Asir,Q6533166,DSNAME1735,Q12265
@@ -5102,7 +5102,7 @@ Iacobus of Speyer.,author,,,human,Jakob Montanus,Q1677587,DSNAME4475,Q40920
 "Ibn al-ḥāʼik, Ismāʻīl ibn ʻAlī, d. 1701",author,,,human,Ismāʻīl ibn ʻAlī ibn al-Ḥāʼik,Q131386117,DSNAME6991,Q63921
 "Ibn al-Hāʼim, Aḥmad ibn Muḥammad, -1412",author,ابن الهائم، احمد بن محمد، -1412,,human,Ahmad Ibn-Muhammad Ibn-al-Haʾim,Q56250455,DSNAME1755,Q12285
 "Ibn al-Hāʼim, Aḥmad ibn Muḥammad, -1412",author,ابن الهائم، احمد بن محمد، -1412,,human,Ahmad Ibn-Muhammad Ibn-al-Haʾim,Q56250455,DSNAME1755,Q12285
-"Ibn al-Humām, Muḥammad ibn ʻAbd al-Wāḥid, 1388-1456 or 1457",author in quotations or text abstracts,ابن الهمام، محمد بن عبد الواحد، 1388-1456 or 1457,,human,Kamal al-Din ibn al-Humam,Q20384774,DSNAME3177,Q27962
+"Ibn al-Humām, Muḥammad ibn ʻAbd al-Wāḥid, 1388-1456 or 1457",author in quotations or text abstracts,ابن الهمام، محمد بن عبد الواحد، 1388-1456 or 1457,,human,Muḥammad ibn ʻAbd al-Wāḥid Ibn al-Humām,Q20384774,DSNAME3177,Q27962
 "Ibn al-Imām, -approximately 1595",author,ابن الامام,,human,Ibn al-Imām,Q122947964,DSNAME1746,Q12276
 "Ibn al-Imām, -approximately 1595",author,ابن الامام -approximately 1595,,human,Ibn al-Imām,Q122947964,DSNAME1746,Q12276
 "Ibn al-Imām, -approximately 1595",author,ابن الامام -approximately 1595,,human,Ibn al-Imām,Q122947964,DSNAME1746,Q12276
@@ -5179,7 +5179,7 @@ Iacobus of Speyer.,author,,,human,Jakob Montanus,Q1677587,DSNAME4475,Q40920
 "Ibn al-Shāṭir, ʻAlī ibn Ibrāhīm, 1304-1375",author,ابن الشاطر، علي بن ابراهيم، 1304-1375,http://id.loc.gov/authorities/names/n85026560,human,Ibn al-Shatir,Q718169,DSNAME1875,Q12405
 "Ibn al-Shiḥnah, ʻAbd al-Barr ibn Muḥammad, 1447 or 1448-1515 or 1516",author,ابن الشحنة، عبد البر بن محمد، 1447 or 1448-1515 or 1516،,http://id.loc.gov/authorities/names/nr94022455,human,Abd al-Barr bin Al-Shinah,Q113678168,DSNAME1950,Q12480
 "Ibn al-Ṭawīl, Asʻad, active 17th century",scribe,ابن الطويل، اسعد، active 17th century,,human,Asʻad Ibn al-Ṭawīl,Q129951632,DSNAME6624,Q54255
-"Ibn al-Turkmānī, ʻAlī ibn ʻUthmān, d. 1349",author,,,human,ʿAlī ibn ʿUṯmān ibn at-Turkumānī,Q18410445,DSNAME7475,Q67761
+"Ibn al-Turkmānī, ʻAlī ibn ʻUthmān, d. 1349",author,,,human,ʻAlī ibn ʻUthmān Ibn al-Turkmānī,Q131690038,DSNAME7475,Q67761
 "Ibn al-Wardī, Sirāj al-Dīn Abū Ḥafṣ ʻUmar, -1457",author,ابن الوردي، سراج الدين ابو حفص عمر، -1457,http://id.loc.gov/authorities/names/n2013053263,human,Sirāj al-Dīn Abū Ḥafṣ ʻUmar Ibn al-Wardī,Q116418351,DSNAME920,Q3759
 "Ibn al-Wardī, Sirāj al-Dīn Abū Ḥafṣ ʻUmar, -1457",author,,,human,Sirāj al-Dīn Abū Ḥafṣ ʻUmar Ibn al-Wardī,Q116418351,DSNAME920,Q3759
 "Ibn al-Wardī, Sirāj al-Dīn Abū Ḥafṣ ʻUmar, -1457",author,ابن الوردي، سراج الدين ابو حفص عمر، -1457,http://id.loc.gov/authorities/names/n2013053263,human,Sirāj al-Dīn Abū Ḥafṣ ʻUmar Ibn al-Wardī,Q116418351,DSNAME920,Q3759
@@ -5201,7 +5201,7 @@ Iacobus of Speyer.,author,,,human,Jakob Montanus,Q1677587,DSNAME4475,Q40920
 "Ibn Bakhtīshūʻ, ʻUbayd Allāh ibn Jibrāʼīl",author,ابن بختىشوع، عبىد الله بن جبرائيل,,human,Abdollah ibn Bukhtishu,Q4665079,DSNAME4482,Q40927
 "Ibn Balabān, ʻAlī, 1276 or 1277-1339",author,ابن بلبان، علي,,human,ʻAlī Ibn Balabān,Q124616148,DSNAME6999,Q63929
 "Ibn Balabān, ʻAlī, 1276 or 1277-1339",author,,,human,ʻAlī Ibn Balabān,Q124616148,DSNAME6999,Q63929
-"Ibn Bardis, Ismāʻīl ibn Muḥammad, 1320 or 1321-1384 or 1385",author,,,human,Ibn Bardis,Q55903101,DSNAME6675,Q54306
+"Ibn Bardis, Ismāʻīl ibn Muḥammad, 1320 or 1321-1384 or 1385",author,,,human,Ismāʿīl Ibn-Muḥammad Ibn-Bardis,Q55903101,DSNAME6675,Q54306
 "Ibn Barī Khān, ʻAbd al-Fattāḥ",scribe,ابن بري خان، عبد الفتاح,,human,ʻAbd al-Fattāḥ Ibn Barī Khān,Q113866390,DSNAME4483,Q40928
 "Ibn Barī Khān, ʻAbd al-Fattāḥ",scribe,ابن بري خان، عبد الفتاح,,human,ʻAbd al-Fattāḥ Ibn Barī Khān,Q113866390,DSNAME4483,Q40928
 "Ibn Bashkuwāl, Khalaf ibn ʻAbd al-Malik, 1101-1183",author,,http://id.loc.gov/authorities/names/n85370056,human,Ḫalaf Ibn-ʿAbd-al-Malik Ibn-Baškuwāl,Q1655886,DSNAME4484,Q40929
@@ -5223,8 +5223,8 @@ Iacobus of Speyer.,author,,,human,Jakob Montanus,Q1677587,DSNAME4475,Q40920
 "Ibn Faḍl Allāh al-ʻUmarī, Aḥmad ibn Yaḥyá, 1301-1349",author,,,human,Chihab al-Umari,Q2658869,DSNAME856,Q3257
 "Ibn Faḍl Allāh al-ʻUmarī, Aḥmad ibn Yaḥyá, 1301-1349",author,,,human,Chihab al-Umari,Q2658869,DSNAME856,Q3257
 "Ibn Faḍl Allāh al-ʻUmarī, Aḥmad ibn Yaḥyá, 1301-1349",author,ابن فضل الله العمري، احمد بن يحيى، 1301-1349,http://id.loc.gov/authorities/names/nr89013200,human,Chihab al-Umari,Q2658869,DSNAME856,Q3257
-"Ibn Faqīh Fuṣṣah, ʻAbd al-Bāqī ibn ʻAbd al-Bāqī, 1596 or 1597-1660 or 1661",author,ابن فقيه فصة، عبد الباقي بن عبد الباقي، 1596 or 1597-1660 or 1661,,human,Abd al-Baqi al-Hanbali,Q105294077,DSNAME7544,Q67830
-"Ibn Faqīh Fuṣṣah, ʻAbd al-Bāqī ibn ʻAbd al-Bāqī, 1596 or 1597-1660 or 1661",author,,,human,Abd al-Baqi al-Hanbali,Q105294077,DSNAME7544,Q67830
+"Ibn Faqīh Fuṣṣah, ʻAbd al-Bāqī ibn ʻAbd al-Bāqī, 1596 or 1597-1660 or 1661",author,ابن فقيه فصة، عبد الباقي بن عبد الباقي، 1596 or 1597-1660 or 1661,,human,ʻAbd al-Bāqī ibn ʻAbd al-Bāqī Ibn Faqīh Fuṣṣah,Q131398932,DSNAME7544,Q67830
+"Ibn Faqīh Fuṣṣah, ʻAbd al-Bāqī ibn ʻAbd al-Bāqī, 1596 or 1597-1660 or 1661",author,,,human,ʻAbd al-Bāqī ibn ʻAbd al-Bāqī Ibn Faqīh Fuṣṣah,Q131398932,DSNAME7544,Q67830
 "Ibn Fāris al-Qazwīnī, Aḥmad, active 10th century",author,,,human,Aḥmad Ibn-Fāris,Q6419062,DSNAME6673,Q54304
 "Ibn Fāris al-Qazwīnī, Aḥmad, active 10th century.",author,,,human,Aḥmad Ibn-Fāris,Q6419062,DSNAME6673,Q54304
 "Ibn Ghānim, ʻIzz al-Dīn ʻAbd al-Salām ibn Aḥmad, -1279",author,,http://id.loc.gov/authorities/names/n84077355,human,Izz al-Din al-Mosadeqi,Q15930652,DSNAME4487,Q40932
@@ -5315,8 +5315,8 @@ Iacobus of Speyer.,author,,,human,Jakob Montanus,Q1677587,DSNAME4475,Q40920
 "Ibn Nujaym, Zayn al-Dīn ibn Ibrāhīm, -1563",author,ابن نجيم، زين الدين بن ابراهيم,,human,Zayn al-Dīn ibn Ibrāhīm Ibn Nujaym,Q25539411,DSNAME7079,Q64009
 "Ibn Nujaym, Zayn al-Dīn ibn Ibrāhīm, -1563",author,ابن نجيم، زين الدين بن ابراهيم، -1563,,human,Zayn al-Dīn ibn Ibrāhīm Ibn Nujaym,Q25539411,DSNAME7079,Q64009
 "Ibn Nujaym, Zayn al-Dīn ibn Ibrāhīm, -1563.",author,ابن نجيم، زين الدين بن ابراهيم، -1563,,human,Zayn al-Dīn ibn Ibrāhīm Ibn Nujaym,Q25539411,DSNAME7079,Q64009
-"Ibn Nujaym, ʻUmar ibn Ibrāhīm, -1596 or 1597",author,,,human,ʻUmar ibn Ibrāhīm Ibn Nujaym,Q25539413,DSNAME7013,Q63943
-"Ibn Nuqṭah, Muḥammad ibn ʻAbd al-Ghanī, -1231",author,ابن نقطة، محمد بن عبد الغني,,human,Muḥammad ibn ʻAbd al-Ghanī Ibn Nuqṭah,Q6538024,DSNAME7578,Q67864
+"Ibn Nujaym, ʻUmar ibn Ibrāhīm, -1596 or 1597",author,,,human,ʻUmar ibn Ibrāhīm Ibn Nujaym,Q131386045,DSNAME7013,Q63943
+"Ibn Nuqṭah, Muḥammad ibn ʻAbd al-Ghanī, -1231",author,ابن نقطة، محمد بن عبد الغني,,human,Muḥammad ibn ʻAbd al-Ghanī Ibn Nuqṭah,Q131579926,DSNAME7578,Q67864
 "Ibn Pīr Mullā Ḥasan, Ibrāhīm ibn Ḥasan",scribe,ابن بير ملا حسن، إبراهيم بن حسن،,,human,Ibrāhīm ibn Ḥasan ibn Pīr Mullā Ḥasan,Q124566835,DSNAME4490,Q40935
 "Ibn Qāḍī Shuhbah, Abū Bakr ibn Aḥmad, 1377-1448",author,ابن قاضي شهبة، ابو بكر بن احمد، 1377-1448,,human,Abū Bakr ibn Aḥmad Ibn Qāḍī Shuhbah,Q85461758,DSNAME1868,Q12398
 "Ibn Qāḍī Shuhbah, Abū Bakr ibn Aḥmad, 1377-1448",author,ابن قاضي شهبة، ابو بكر بن احمد، 1377-1448,,human,Abū Bakr ibn Aḥmad Ibn Qāḍī Shuhbah,Q85461758,DSNAME1868,Q12398
@@ -5326,7 +5326,7 @@ Iacobus of Speyer.,author,,,human,Jakob Montanus,Q1677587,DSNAME4475,Q40920
 "Ibn Qayyim al-Jawzīyah, Muḥammad ibn Abī Bakr, 1292-1350",author,,http://id.loc.gov/authorities/names/n80138230,human,Ibn Qayyim Al-Jawziy,Q119679,DSNAME1930,Q12460
 "Ibn Qayyim al-Jawzīyah, Muḥammad ibn Abī Bakr, 1292-1350",author,,http://id.loc.gov/authorities/names/n80138230,human,Ibn Qayyim Al-Jawziy,Q119679,DSNAME1930,Q12460
 "Ibn Qudāmah, Muwaffaq al-Dīn ʻAbd Allāh ibn Aḥmad, 1147-1223",author,ابن قدامة، موفق الدين عبد الله بن احمد، 1147-1223,http://id.loc.gov/authorities/names/n83066615,human,Ibn Qudamah,Q785506,DSNAME1969,Q12499
-"Ibn Qūlūyah, Jaʻfar ibn Muḥammad, -978 or 979",author,,,human,Ibn Qulawayh,Q5962409,DSNAME7488,Q67774
+"Ibn Qūlūyah, Jaʻfar ibn Muḥammad, -978 or 979",author,,,human,Jaʻfar ibn Muḥammad Ibn Qūlūyah,Q131690050,DSNAME7488,Q67774
 "Ibn Qūrah Faqīh, Ḥusayn ibn Niʻmat Allāh, active 16th century",scribe,بن قورة فقيه، حسين بن نعمة الله، active 16th century,,human,Ḥusayn ibn Niʻmat Allāh Ibn Qūrah Faqīh,Q131748636,DSNAME7889,Q68499
 "Ibn Quṭlūbughā, al-Qāsim ibn ʻAbd Allāh, 1339 or 1400-1474 or 5",author,,,human,al-Qāsim ibn ʻAbd Allāh Ibn Quṭlūbughā,Q16126606,DSNAME7042,Q63972
 "Ibn Quṭlūbughā, al-Qāsim ibn ʻAbd Allāh, 1399 or 1400-1474 or 1475",author,ابن قطلوبغا، القاسم بن عبد الله، 1399 or 1400-1474 or 1475,,human,al-Qāsim ibn ʻAbd Allāh Ibn Quṭlūbughā,Q16126606,DSNAME7042,Q63972
@@ -5343,14 +5343,14 @@ Iacobus of Speyer.,author,,,human,Jakob Montanus,Q1677587,DSNAME4475,Q40920
 Ibn Serapion,author,,,human,Serapion the Younger,Q3479115,DSNAME1597,Q8088
 Ibn Serapion,author,,http://id.loc.gov/authorities/names/n90666181,human,Serapion the Younger,Q3479115,DSNAME1597,Q8088
 "Ibn Seyyid Gaybî, Seyyid Hüseyin",author,ابن سيد غيبي، سيد حسين,,human,Seyyid Hüseyin Ibn Seyyid Gaybî,Q130375045,DSNAME6914,Q54895
-"Ibn Shābidh al-Ṣunhājī, Muḥammad ibn Saʻīd, -1393",author,ابن شابذ الصنهاجي، محمد بن سعيد,,human,Muḥammad ibn Saʻīd Ibn Shābidh al-Ṣunhājī,Q125099149,DSNAME7464,Q67750
+"Ibn Shābidh al-Ṣunhājī, Muḥammad ibn Saʻīd, -1393",author,ابن شابذ الصنهاجي، محمد بن سعيد,,human,Muḥammad ibn Saʻīd Ibn Shābidh al-Ṣunhājī,Q131690029,DSNAME7464,Q67750
 "Ibn Shāhīn, Khalīl, 1410 or 1411-1468 or 1469",author,ابن شاهين، خليل,,human,Khalīl ibn Shāhīn,Q12210808,DSNAME1747,Q12277
 "Ibn Shāhīn, Khalīl, 1410 or 1411-1468 or 1469",author,ابن شاهين، خليل,,human,Khalīl ibn Shāhīn,Q12210808,DSNAME1747,Q12277
 "Ibn Sharaf al-Dīn, Qāsim ibn Muḥammad, active 16th century",scribe,ابن شرف الدين، قاسم بن محمد، active 16th century,,human,Qāsim ibn Muḥammad Ibn Sharaf al-Dīn,Q131748492,DSNAME7681,Q68291
 "Ibn Sharaf Shāh, Ḥasan ibn Muḥammad, 1247 or 1248-1315 or 1316",author,ابن شرف شاه، حسن بن محمد، 1247 or 1248-1315 or 1316,,human,Ḥasan ibn Muḥammad Ibn Sharaf Shāh,Q28715012,DSNAME1832,Q12362
 "Ibn Sharaf Shāh, Ḥasan ibn Muḥammad, 1247 or 1248-1315 or 1316",author,ابن شرف شاه، حسن بن محمد، 1247 or 1248-1315 or 1316,http://id.loc.gov/authorities/names/no2009178035 http://viaf.org/viaf/sourceID/LC%7cno2009178035,human,Ḥasan ibn Muḥammad Ibn Sharaf Shāh,Q28715012,DSNAME1832,Q12362
 "Ibn Sharaf Shāh, Ḥasan ibn Muḥammad, 1247 or 1248-1315 or 1316",author,ابن شرف شاه، حسن بن محمد، 1247 or 1248-1315 or 1316,,human,Ḥasan ibn Muḥammad Ibn Sharaf Shāh,Q28715012,DSNAME1832,Q12362
-"Ibn Sīdah, ʻAlī ibn Ismāʻīl, 1007-1066",author,,,human,ʻAlī ibn Ismāʻīl Ibn Sīdah,Q3778265,DSNAME6606,Q54237
+"Ibn Sīdah, ʻAlī ibn Ismāʻīl, 1007-1066",author,,,human,Ibn Sidah,Q3778265,DSNAME6606,Q54237
 "Ibn Sūdūn, ʻAlī, 1407 or 1408-1463 or 1464",scribe,ابن سودون، علي، 1407 or 1408-1463 or 1464,,human,ʻAlī Ibn Sūdūn,Q6536200,DSNAME1962,Q12492
 "Ibn Sūdūn, ʻAlī, 1407 or 1408-1463 or 1464",scribe,ابن سودون، علي، 1407 or 1408-1463 or 1464,,human,ʻAlī Ibn Sūdūn,Q6536200,DSNAME1962,Q12492
 "Ibn Ṭāwūs, ʻAlī ibn Mūsá, 1193-1266",author,ابن طاوس، علي بن موسى، 1193-1266,,human,Sayyed Ibn Tawus,Q10296786,DSNAME6271,Q49142
@@ -5417,7 +5417,7 @@ Iceland,author,,,organization,Iceland,Q189,DSNAME5548,Q41993
 Ignatios the Deacon,author,,,human,Ignatios the Deacon,Q3148188,DSNAME4498,Q40943
 Ignatius (Augustinian Hermit of Milan),scribe,,,human,Ignatius de Mediolano,Q124380421,DSNAME4499,Q40944
 "Ījī, ʻAḍud al-Dīn ʻAbd al-Raḥmān ibn Aḥmad, -1355",author,ايجي، عضد الدين عبد الرحمن بن احمد، -1355؟,http://id.loc.gov/authorities/names/n80150344,human,ʻAḍud al-Dīn ʻAbd al-Raḥmān ibn Aḥmad Ījī,Q12227337,DSNAME1937,Q12467
-"Ikhbārī, Muḥammad ibn ʻAbd al-Nabī, 1764 or 1765-1817",author,اخباري، محمد بن عبد النبي، 1764 or 1765-1817,,human,Mirza Muhammad al-Astarabadi,Q16074622,DSNAME6245,Q49116
+"Ikhbārī, Muḥammad ibn ʻAbd al-Nabī, 1764 or 1765-1817",author,اخباري، محمد بن عبد النبي، 1764 or 1765-1817,,human,Muḥammad ibn ʻAbd al-Nabī Ikhbārī,Q129453259,DSNAME6245,Q49116
 "Ikhtiyār al-Dīn ibn Ghiyāth al-Dīn, -1521 or 1522",author,اختيار الدين بن غياث الدين، -1521 or 1522,,human,Ikhtiyār al-Dīn ibn Ghiyāth al-Dīn,Q129453137,DSNAME6174,Q49045
 Ikhwān al-Ṣafāʼ,author,اخوان الصفاء,,organization,Brethren of Purity,Q1995603,DSNAME6345,Q49216
 Ildibrandinus,author,,,human,Ildibrandinus,Q116417464,DSNAME1646,Q8215
@@ -5493,9 +5493,9 @@ Isabella of Castile,former owner,,,human,Isabella I of Castile,Q45859,DSNAME5727
 "Isaiah ben Mali, di Trani, approximately 1200-",author,,,human,Isaiah di Trani,Q1688038,DSNAME4514,Q40959
 "İsa Mesihı̂, -1512",author,عيسى مسيحى,,human,Mesihi of Prishtina,Q16676002,DSNAME6923,Q54904
 "Iṣbahānī, Abū Mūsá Muḥammad ibn ʻUmar, 1108-1185",author,اصبهاني، ابو موسى محمد بن عمر,,human,Abū Mūsá al-Madīnī,Q115700516,DSNAME7581,Q67867
-"Isbījābī, Aḥmad ibn Manṣūr, -approximately 1087",author,,,human,Aḥmad ibn Manṣūr Isbījābī,Q31301712,DSNAME7061,Q63991
+"Isbījābī, Aḥmad ibn Manṣūr, -approximately 1087",author,,,human,Aḥmad ibn Manṣūr Isbījābī,Q131386067,DSNAME7061,Q63991
 "Iṣfahānī, Abū Ṭālib, active 1808",author,,,human,Abū Ṭālib Iṣfahānī,Q129951721,DSNAME6683,Q54314
-"Iṣfahānī, Ismāʻīl ibn Muḥammad, d. 1141",author,,,human,Ismail al-Isfahani,Q16125235,DSNAME7478,Q67764
+"Iṣfahānī, Ismāʻīl ibn Muḥammad, d. 1141",author,,,human,Ismāʻīl ibn Muḥammad Iṣfahānī,Q131690041,DSNAME7478,Q67764
 "Iṣfahānī, Jaʻfar ibn Muḥammad, active 1800",scribe,اصفهاني، جعفر بن محمد، active 1800،,,human,Jaʻfar ibn Muḥammad Iṣfahānī,Q124130475,DSNAME3254,Q28038
 "Iṣfahānī, Maḥmūd ibn ʻAbd al-Raḥmān, 1275 or 1276-1348 or 1349",author,اصفهاني، محمود بن عبد الرحمن، 1275 or 1276-1348 or 1349,http://id.loc.gov/authorities/names/nr91044051,human,Mahmud ibn Abd al-Rahman al-Isfahani,Q57970695,DSNAME1776,Q12306
 "Iṣfahānī, Maḥmūd ibn ʻAbd al-Raḥmān, 1275 or 1276-1348 or 1349",author,اصفهاني، محمود بن عبد الرحمن، 1275 or 1276-1348 or 1349,http://id.loc.gov/authorities/names/nr91044051,human,Mahmud ibn Abd al-Rahman al-Isfahani,Q57970695,DSNAME1776,Q12306
@@ -5661,7 +5661,7 @@ Jagannātha Paṇḍitarāja,author,,http://id.loc.gov/authorities/names/n831674
 "Jaghmīnī, Maḥmūd ibn Muḥammad, -1221",author,جغميني، محمود بن محمد، ؟d. -1221,http://id.loc.gov/authorities/names/nr91035882,human,Jaghmini,Q4060361,DSNAME788,Q3189
 "Jaghmīnī, Maḥmūd ibn Muḥammad, -1221",author,جغميني، محمود بن محمد، ؟d. -1221,http://id.loc.gov/authorities/names/nr91035882,human,Jaghmini,Q4060361,DSNAME788,Q3189
 "Jaghmīnī, Maḥmūd ibn Muḥammad, -1221",author,,,human,Jaghmini,Q4060361,DSNAME788,Q3189
-"Jahāngīr, Mīrzā, 1807 or 1808-1852 or 1853",author,جهانگىر، مىرزا، 1807 or 1808-1852 or 1853,,human,Jahangir Mirza Qajar,Q5285197,DSNAME6190,Q49061
+"Jahāngīr, Mīrzā, 1807 or 1808-1852 or 1853",author,جهانگىر، مىرزا، 1807 or 1808-1852 or 1853,,human,Djahangir Mirza,Q5285197,DSNAME6190,Q49061
 "Jahānʹābādī, ʻAbd al-Rashīd",former owner,جهان‌آبادى، عبد الرشيد،,,human,ʻAbd al-Rashīd Jahānʹābādī,Q114242447,DSNAME4530,Q40975
 "Jahānʹābādī, ʻAbd al-Rashīd",former owner,جهان‌آبادى، عبد الرشيد،,,human,ʻAbd al-Rashīd Jahānʹābādī,Q114242447,DSNAME4530,Q40975
 "Jahn, Otto, 1813-1869",former owner,,http://id.loc.gov/authorities/names/n83062941,human,Otto Jahn,Q66001,DSNAME1316,Q7064
@@ -5712,7 +5712,7 @@ Jans Enikel,author,,,human,Jans der Enikel,Q689252,DSNAME4537,Q40982
 "Jārbardī, Fakhr al-Dīn Aḥmad ibn al-Ḥasan, -1345",author,جاربردي، فخر الدين احمد بن الحسن، -1345,,human,Fakhr al-Dīn Aḥmad ibn al-Ḥasan Jārbardī,Q120752948,DSNAME1835,Q12365
 "Jārbardī, Fakhr al-Dīn Aḥmad ibn al-Ḥasan, -1345",author,جاربردي، فخر الدين احمد بن الحسن، -1345,,human,Fakhr al-Dīn Aḥmad ibn al-Ḥasan Jārbardī,Q120752948,DSNAME1835,Q12365
 "Jarbī, Sulaymān ibn ʻAbd al-Raḥmān, active 16th century",author,جربي، سليمان بن عبد الرحمن، active 16th century,,human,Sulaymān ibn ʻAbd al-Raḥmān Jarbī,Q131398890,DSNAME7703,Q68313
-"Jarīrī, Muʻāfá ibn Zakarīyā, approximately 917-1000",author,جريري، معافى بن زكريا، approximately 917-1000,,human,Muʻāfá ibn Zakarīyā Jarīrī,Q22934002,DSNAME7810,Q68420
+"Jarīrī, Muʻāfá ibn Zakarīyā, approximately 917-1000",author,جريري، معافى بن زكريا، approximately 917-1000,,human,Muʻāfá ibn Zakarīyā Jarīrī,Q131398929,DSNAME7810,Q68420
 "Jarman, John Boykett, 1782-1864",former owner,,,human,John Boykett Jarman,Q94297523,DSNAME676,Q1911
 "Jārpādqānī, Ḥājjī Muḥammad, active 1627",scribe,جارپادقاني، حاجي محمد،,,human,Ḥājjī Muḥammad Jārpādqānī,Q123581740,DSNAME2651,Q18699
 "Jarrāḥī, Ismāʻīl, active 15th century",author,جراحي، اسماعيل، active 15th century,,human,Ismāʻīl Jarrāḥī,Q131398928,DSNAME7808,Q68418
@@ -5803,7 +5803,7 @@ Jesuits,author,,,organization,Society of Jesus,Q36380,DSNAME1154,Q5146
 "Jīzāwī, Ibrāhīm ibn Abī al-Suʻūd, active 19th century",scribe,جيزاوي، ابراهيم بن ابي السعود، active 19th century,,human,Ibrāhīm ibn Abī al-Suʻūd Jīzāwī,Q131748643,DSNAME7904,Q68514
 "Jñānadeva, active 1290",author,,http://id.loc.gov/authorities/names/n50039795,human,Dnyaneshwar,Q1033695,DSNAME3490,Q28274
 Jñānendrasarasvatī,author,,http://id.loc.gov/authorities/names/n88259187,human,Jñānendrasarasvatī,Q124252865,DSNAME3364,Q28148
-"Joachim, Baron von Windhag",former owner,,,human,Joachim Windhag,Q1585978,DSNAME2939,Q20254
+"Joachim, Baron von Windhag",former owner,,,human,"Joachim, Baron von Windhag",Q122873477,DSNAME2939,Q20254
 Joachim of Fiore,author,,,human,Joachim of Fiore,Q199991,DSNAME4549,Q40994
 Joachim of Fiore ca. 1132-1202,author,,,human,Joachim of Fiore,Q199991,DSNAME4549,Q40994
 Joachim of Fiore ca. 1132-1202.,author,,,human,Joachim of Fiore,Q199991,DSNAME4549,Q40994
@@ -5884,8 +5884,8 @@ Johannes Versor,author,,,human,John Versor,Q1698538,DSNAME1230,Q6109
 Johannes von Freiburg d. 1314,author,,,human,Johannes von Freiburg,Q41616538,DSNAME4570,Q41015
 Johannes von Freiburg d. 1314.,author,,,human,Johannes von Freiburg,Q41616538,DSNAME4570,Q41015
 Johannes von Kastl,author,,,human,Johannes von Kastl,Q1564527,DSNAME1299,Q7047
-"Johann Friedrich II, Herzog von Sachsen, 1529-1595",author,,http://id.loc.gov/authorities/names/nr2001004817,human,John Frederick II of Saxony,Q563316,DSNAME1105,Q5098
-"Johann Friedrich II, Herzog von Sachsen, 1529-1595",author,,,human,John Frederick II of Saxony,Q563316,DSNAME1105,Q5098
+"Johann Friedrich II, Herzog von Sachsen, 1529-1595",author,,http://id.loc.gov/authorities/names/nr2001004817,human,John Frederick II  of Saxony,Q563316,DSNAME1105,Q5098
+"Johann Friedrich II, Herzog von Sachsen, 1529-1595",author,,,human,John Frederick II  of Saxony,Q563316,DSNAME1105,Q5098
 Johann Meyer,author,,,human,Johannes Meyer,Q52777643,DSNAME566,Q1801
 Johann Neudorffer,author,,,human,Johann Neudörffer the Elder,Q1695681,DSNAME4571,Q41016
 Johann Plaecsaert,artist,,,human,Iohannes de Platea,Q41617580,DSNAME665,Q1900
@@ -5899,7 +5899,7 @@ John,author,,,human,John the Evangelist,Q328804,DSNAME4572,Q41017
 "John, of Saxony, active 1327-1355",author,,,human,John of Saxony,Q3768498,DSNAME2207,Q16514
 "John, of Wales, active 13th century",author,,,human,John of Wales,Q981494,DSNAME2240,Q16543
 "John, of Wales, -approximately 1285",author,,,human,John of Wales,Q981494,DSNAME2240,Q16543
-"John Bagford (1650s-1716) to St. Martin-in-the-Fields; sale 1861 to Sir Thomas Phillipps, n.15758; his sale 22 May, 1913, lot 742; Sir Sydney Cockerell (1867-1962) sale Sotheby's 3 April, 1957; William Salloch (Ossining NY) Cat. 258 (1968) to U. Missouri.",former owner,,,human;organization;human;human;human,John Bagford;St Martin-in-the-Fields;Thomas Phillipps;Sydney Cockerell;William Salloch,Q6220242;Q1335201;Q2147709;Q966843;Q72938313,DSNAME6117;DSNAME6116;DSNAME998;DSNAME2136;DSNAME4574,Q39957;Q39906;Q385;Q1609;Q41019
+"John Bagford (1650s-1716) to St. Martin-in-the-Fields; sale 1861 to Sir Thomas Phillipps, n.15758; his sale 22 May, 1913, lot 742; Sir Sydney Cockerell (1867-1962) sale Sotheby's 3 April, 1957; William Salloch (Ossining NY) Cat. 258 (1968) to U. Missouri.",former owner,,,human;organization;human;human;human,"John Bagford;St Martin-in-the-Fields, Westminster;Thomas Phillipps;Sydney Cockerell;William Salloch",Q6220242;Q1335201;Q2147709;Q966843;Q72938313,DSNAME6117;DSNAME6116;DSNAME998;DSNAME2136;DSNAME4574,Q39957;Q39906;Q385;Q1609;Q41019
 "John Blecche and his wife, Mary",other,,,human;human,John Blecche;Mary Blecche,Q124515340;Q124515344,DSNAME4575;DSNAME4576,Q41020;Q41021
 John Boycott Jarman (d. 1864),former owner,,,human,John Boykett Jarman,Q94297523,DSNAME676,Q1911
 "John Boykett Jarman (d. 1864, aged 82); his sale, Sotheby’s, 13 June 1864, lot 78; Cecil Dunn Gardner; his sale, Sotheby’s, 21 June 1880, lot 823, to Ellis; William H. Crawford (1812-1888), of Lakelands, Blackrock, Cork, with his bookplate",former owner,,,human;human;human,John Boykett Jarman;Cecil Dunn Gardner;William Horatio Crawford,Q94297523;Q64337080;Q84471454,DSNAME676;DSNAME677;DSNAME563,Q1911;Q1912;Q1798
@@ -6083,7 +6083,7 @@ Kaccāyana,author,,,human,Pakudha Kaccayana,Q6135087,DSNAME6004,Q42696
 "Kaffawī, Ayyūb ibn Mūsá, 1618 or 1619-1682 or 1683",author,کفوى، ايوب بن موسى، 1618 or 1619-1682 or 1683,,human,al-Kafawi,Q28713555,DSNAME6823,Q54804
 "Kaffawī, Maḥmūd ibn Sulaymān, d. 1582",author,,,human,Maḥmūd ibn Sulaymān Kaffawī,Q131432221,DSNAME7044,Q63974
 "Kaffawī, Muḥammad ibn Ḥumayd, -1760 or 1761",author,,,human,Muḥammad ibn Ḥumayd Kaffawī,Q129951573,DSNAME6575,Q54206
-"Kāfiyajī, Muḥammad ibn Sulaymān, -1474",author,,,human,al-Kāfiyad̲j̲ī,Q12191619,DSNAME6656,Q54287
+"Kāfiyajī, Muḥammad ibn Sulaymān, -1474",author,,,human,Muḥammad ibn Sulaymān Kāfiyajī,Q129951683,DSNAME6656,Q54287
 "Kafʻamī, Ibrāhīm ibn ʻAlī, 1436 or 1437-1499 or 1500",author,كفعمي، ابراهيم بن علي، 1436 or 1437-1499 or 1500,,human,al-Kafʻamī,Q12181714,DSNAME3119,Q27906
 "Kafʻamī, Ibrāhīm ibn ʻAlī, 1436 or 1437-1499 or 1500",author,كفعمي، ابراهيم بن علي، 1436 or 1437-1499 or 1500,,human,al-Kafʻamī,Q12181714,DSNAME3119,Q27906
 "Kaiser, Minerva",former owner,,,human,Minerva Kaiser,Q123274779,DSNAME2226,Q16530
@@ -6119,8 +6119,8 @@ Kapila,author,,http://id.loc.gov/authorities/names/n50059441,human,Kapila,Q57435
 "Karāmah, Buṭrus ibn Ibrāhīm, 1774 or 1775-1850 or 1851",author,كرامة، بطرس بن ابراهيم، 1774 or 1775-1850 or 1851,,human,Butrus Karamah,Q42890491,DSNAME1813,Q12343
 "Karam al-Dīn, Ḥāfiẓ",former owner,كرم الدين، حافظ.,,human,Ḥāfiẓ Karam al-Dīn,Q123581741,DSNAME2592,Q18640
 "Karandīkara, Rāmacandra",former owner,,,human,Vināyaka Rāmacandra Karandīkara,Q94641718,DSNAME3612,Q28396
-"Kardarī, Ibn al-Bazzāz, -1424",author,,,human,al-Bazzazi,Q12184450,DSNAME7041,Q63971
-"Kardarī, Muḥammad ibn Muḥammad, d. 1424",author,,,human,al-Bazzazi,Q12184450,DSNAME7041,Q63971
+"Kardarī, Ibn al-Bazzāz, -1424",author,,,human,Ibn al-Bazzāz Kardarī,Q131386060,DSNAME7041,Q63971
+"Kardarī, Muḥammad ibn Muḥammad, d. 1424",author,,,human,Ibn al-Bazzāz Kardarī,Q131386060,DSNAME7041,Q63971
 "Kardūdī, Muḥammad ibn ʻAbd al-Qādir, 1802 or 1803-1851 or 1852",author,,,human,Muḥammad ibn ʻAbd al-Qādir Kardūdī,Q129951643,DSNAME6629,Q54260
 "Karīmī, Muḥammad ibn Yūsuf, 1599 or 1600-1657 or 1658",author,كريمي، محمد بن يوسف، 1599 or 1600-1657 or 1658,,human,Muḥammad ibn Yūsuf Karīmī,Q131748446,DSNAME7621,Q68231
 Karl & Faber,former owner,,,organization,Karl & Faber Kunstauktionen,Q53596640,DSNAME5554,Q41999
@@ -6226,7 +6226,7 @@ Keśavācārya,author,,http://id.loc.gov/authorities/names/n91000093,human,Keśa
 "Khālidī, Ismāʻīl ibn ʻAbd Allāh, active 19th century",scribe,خالي، اسماعيل بن عبد الله، active 19th century,,human,Ismāʻīl ibn ʻAbd Allāh Khālidī,Q131748463,DSNAME7643,Q68253
 "Khalīfī, Aḥmad ibn Yūnus, d. 1794",author,,,human,Aḥmad ibn Yūnus Khalīfī,Q129951582,DSNAME6580,Q54211
 "Khalīl al-Buṣrawī, Muḥammad ibn Ghars al-Dīn, d. 1484",author,,,human,Muḥammad ibn Ghars al-Dīn Khalīl al-Buṣrawī,Q129951492,DSNAME6520,Q54151
-"Khalīlī, Ghars al-Dīn ibn Muḥammad, d. 1647",author,,,human,Ghars al-Dīn ibn Muḥammad Khalīlī,Q124771384,DSNAME7493,Q67779
+"Khalīlī, Ghars al-Dīn ibn Muḥammad, d. 1647",author,,,human,Ghars al-Dīn ibn Muḥammad Khalīlī,Q131690054,DSNAME7493,Q67779
 "Khalīlī, Yāsīn ibn Muḥammad, -1675 or 1676",author,خليلي، يس بن محمد، -1675 or 1676,,human,Yāsīn ibn Muḥammad Khalīlī,Q131748545,DSNAME7764,Q68374
 "Khalīl Ṣūfī, Niʻmat Allāh ibn Aḥmad, d. 1561 or 2",author,خليل صوفي، نعمة الله بن احمد,,human,Niʻmat Allāh ibn Aḥmad Khalīl Ṣūfī,Q130375071,DSNAME6945,Q54926
 "Khalkhālī, Ḥusayn al-Ḥusaynī, -1605",author,خلخالي، حسين الحسيني، -1605,,human,Ḥusayn al-Ḥusaynī Khalkhālī,Q131398924,DSNAME7801,Q68411
@@ -6326,11 +6326,11 @@ Kirakos,scribe,,,human,Kirakos,Q124566851,DSNAME4628,Q41073
 "Kirmānī, Muḥammad ibn Yūsuf, 1317 or 1318-1384 or 1385",author,كرماني، محمد بن يوسف,,human,Shams-ud-Din Kermani,Q7487680,DSNAME7513,Q67799
 "Kirmānī, Muḥammad ibn Yūsuf, 1317 or 1318-1384 or 1385",author,,,human,Shams-ud-Din Kermani,Q7487680,DSNAME7513,Q67799
 "Kirmānī, Muḥammad Jaʻfar ibn Muḥammad Rafīʻ",scribe,كرماني، محمد جعفر بن محمد رفيع,,human,Muḥammad Jaʻfar ibn Muḥammad Rafīʻ Kirmānī,Q124130487,DSNAME3135,Q27921
-"Kirmānī, ʻAlī Mardān, active 18th century-19th century",author,کرمانى، على مردان، active 18th century-19th century,,human,Ali Shah Durrani,Q572841,DSNAME6246,Q49117
+"Kirmānī, ʻAlī Mardān, active 18th century-19th century",author,کرمانى، على مردان، active 18th century-19th century,,human,Ali Shah of Durrani,Q572841,DSNAME6246,Q49117
 "Kirmānshāhī, Maḥmūd ibn Muḥammad ʻAlī, -1852 or 1853",author,كرمانشاهي، محمود بن محمد علي، -1852 or 1853,,human,Maḥmūd ibn Muḥammad ʻAlī Kirmānshāhī,Q129453388,DSNAME6333,Q49204
 "Kirmāstī, Yūsuf ibn Ḥusayn, -1500",author,كرماستي، يوسف بن حسين، -1500,http://id.loc.gov/authorities/names/n88226582 http://id.loc.gov/authorities/names/n88226582 http://viaf.org/viaf/sourceID/LC%7cn88226582,human,Yūsuf ibn Ḥusayn Kirmāstī,Q122946969,DSNAME1949,Q12479
-"Kisāʼī, Muḥammad ibn ʻAbd Allāh, active 11th century",author,كسائي، محمد بن عبد الله، active 11th century,,human,Muḥammad al-Kisāʾī,Q75863537,DSNAME1871,Q12401
-"Kisāʼī, Muḥammad ibn ʻAbd Allāh, active 11th century",author,كسائي، محمد بن عبد الله، active 11th century,,human,Muḥammad al-Kisāʾī,Q75863537,DSNAME1871,Q12401
+"Kisāʼī, Muḥammad ibn ʻAbd Allāh, active 11th century",author,كسائي، محمد بن عبد الله، active 11th century,,human,Muḥammad ibn ʿAbd Allah al-Kisāʾī,Q109279429,DSNAME1871,Q12401
+"Kisāʼī, Muḥammad ibn ʻAbd Allāh, active 11th century",author,كسائي، محمد بن عبد الله، active 11th century,,human,Muḥammad ibn ʿAbd Allah al-Kisāʾī,Q109279429,DSNAME1871,Q12401
 "Kishvarī, Niʻmat Allāh ibn Zayn al-ʻĀbdīn Rūdbārī, active 1529",scribe,كشورى، نعمة الله بن زين العابدين رودبارى،,,human,Niʻmat Allāh ibn Zayn al-ʻĀbdīn Rūdbārī Kishvarī,Q131863664,DSNAME8122,Q68826
 Kiśorīdāsa,author,,http://id.loc.gov/authorities/names/n81002457,human,Kiśorīdāsa,Q124252875,DSNAME3542,Q28326
 "Kitāb Khvān, ʻAbd Allāh ibn Mahdī",author,کتاب خوان، عبد الله بن مهدى,,human,ʻAbd Allāh ibn Mahdī Kitāb Khvān,Q129453469,DSNAME6377,Q49248
@@ -6365,7 +6365,7 @@ Königliche Museen zu Berlin,former owner,,,organization,Staatliche Museen zu Be
 "Konrad, von Soltau, approximately1350-1407",author,,,human,Konrad III. von Soltau,Q1711362,DSNAME1484,Q7645
 Konrad Kyeser,author,,,human,Konrad Kyeser,Q77543,DSNAME4634,Q41079
 "Konrad von Brundelsheim or ""Soccus""",author,,,human,Konrad von Brundelsheim,Q96358542,DSNAME1224,Q6103
-"Köstendilli Süleymân Şeyhi, 1750-1819 or 1820",author,كستنديلي سليمان شيخي,,human,Köstendilli Süleymân Şeyhi,Q6104287,DSNAME6797,Q54778
+"Köstendilli Süleymân Şeyhi, 1750-1819 or 1820",author,كستنديلي سليمان شيخي,,human,Köstendilli Süleymân Şeyhi,Q130374964,DSNAME6797,Q54778
 "Kothen, Charles, 1814-1880",former owner,,,human,Charles Kothen,Q116452817,DSNAME1503,Q7869
 Kramadīśvara,author,,http://id.loc.gov/authorities/names/n82107880,human,Kramadīśvara,Q124252876,DSNAME3367,Q28151
 "Kramer, Jakob",author,,,human,Jakob Kramer,Q105465984,DSNAME6961,Q55370
@@ -6477,8 +6477,8 @@ Landolfus Sagax,author,,,human,Landolfus Sagax,Q1541662,DSNAME4646,Q41091
 Lane Theological Seminary,former owner,,,organization,Lane Theological Seminary,Q6485448,DSNAME7440,Q67686
 "Lange, Peter, approximately 1550-",author,,,human,Peter Lange,Q131623240,DSNAME7211,Q67457
 "Langen, Germanus",former owner,,,human,Germanus Langen,Q124566856,DSNAME4647,Q41092
-"Langland, William, 1330?-1400",author,,http://id.loc.gov/authorities/names/n78095389,human,William Langland,Q467672,DSNAME4648,Q41093
 "Langland, William, 1330?-1400?",author,,,human,William Langland,Q467672,DSNAME4648,Q41093
+"Langland, William, 1330?-1400",author,,http://id.loc.gov/authorities/names/n78095389,human,William Langland,Q467672,DSNAME4648,Q41093
 "Langland, William 1330?-1400",author,,,human,William Langland,Q467672,DSNAME4648,Q41093
 "Langland, William 1330?-1400?",author,,,human,William Langland,Q467672,DSNAME4648,Q41093
 "Langlois, Nicholas, active 1574",author,,,human,Nicholas Langlois,Q131623241,DSNAME7212,Q67458
@@ -6534,8 +6534,8 @@ Lauro Quirini,author,,,human,Lauro Quirini,Q56189803,DSNAME4659,Q41104
 "La Vallière, Louis César de LaBaume LeBlanc de, 1708-1780",former owner,,http://id.loc.gov/authorities/names/n94101565,human,Louis César de La Baume Le Blanc,Q1158739,DSNAME1555,Q7919
 "La Vallière, Louis César de LaBaume LeBlanc de, 1708-1780",former owner,,,human,Louis César de La Baume Le Blanc,Q1158739,DSNAME1555,Q7919
 "La Vallière, Louis César de LaBaume LeBlanc de, 1708-1780",former owner,,http://id.loc.gov/authorities/names/n94101565,human,Louis César de La Baume Le Blanc,Q1158739,DSNAME1555,Q7919
-"Lawrence, Edwin H",former owner,,,human,Edwin Henry Lawrence,Q116786361,DSNAME678,Q1913
-"Lawrence, Edwin H.",former owner,,,human,Edwin Henry Lawrence,Q116786361,DSNAME678,Q1913
+"Lawrence, Edwin H",former owner,,,human,Edwin H. Lawrence,Q122873485,DSNAME3058,Q20545
+"Lawrence, Edwin H.",former owner,,,human,Edwin H. Lawrence,Q122873485,DSNAME3058,Q20545
 "Lawrence, Edwin Henry",former owner,,http://id.loc.gov/authorities/names/nb99176290,human,Edwin Henry Lawrence,Q116786361,DSNAME678,Q1913
 "Lawrence, John S",former owner,,,human,John Shelton Lawrence,Q6257580,DSNAME4660,Q41105
 "Lawrence, Marion, 1901-",former owner,,,human,Marion Lawrence,Q19754033,DSNAME8089,Q68793
@@ -6633,8 +6633,8 @@ Lescut,author,,,human,Lescut,Q124566863,DSNAME4683,Q41128
 Les Enluminures,former owner,,,organization,Enluminures,Q120442746,DSNAME2176,Q16484
 Leslie Hindman,former owner,,,human,Leslie Hindman,Q125930832,DSNAME5759,Q42232
 "Lessi, P",artist,,,human,P. Lessi,Q116181757,DSNAME1116,Q5109
-"Le Strange, Hamon, 1840-1918",former owner,,,human,Hamon Styleman Le Strange,Q19357033,DSNAME1106,Q5099
-"Le Strange, Hamon, 1840-1918",former owner,,http://id.loc.gov/authorities/names/no2020122399,human,Hamon Styleman Le Strange,Q19357033,DSNAME1106,Q5099
+"Le Strange, Hamon, 1840-1918",former owner,,,human,Hamon le Strange,Q19357033,DSNAME1106,Q5099
+"Le Strange, Hamon, 1840-1918",former owner,,http://id.loc.gov/authorities/names/no2020122399,human,Hamon le Strange,Q19357033,DSNAME1106,Q5099
 "Lethe, Johannes",former owner,,,human,Johannes Lethe,Q114242518,DSNAME169,Q442
 "Leutsch, Ernst von, 1808-1887",former owner,,http://id.loc.gov/authorities/names/nr97037151,human,Ernst Ludwig von Leutsch,Q74282,DSNAME1320,Q7068
 "Leutsch, Ernst von, 1808-1887",former owner,,,human,Ernst Ludwig von Leutsch,Q74282,DSNAME1320,Q7068
@@ -6886,7 +6886,7 @@ Madhusūdana Sarasvatī,author,,http://id.loc.gov/authorities/names/n82151513,hu
 "Maelens, Jeronimus",former owner,,,human,Jeronimus Maelens,Q122873494,DSNAME2857,Q20174
 "Maestro Daddesco, in the style of",artist,,,human,Maestro Daddesco,Q21978973,DSNAME483,Q1647
 "Maestro Daddesco, in the style of.",artist,,,human,Maestro Daddesco,Q21978973,DSNAME483,Q1647
-"Maestro di Gerona, active approximately 1260-approximately 1290",illuminator,,,human,Master of Gerona,Q112509654,DSNAME2218,Q1629
+"Maestro di Gerona, active approximately 1260-approximately 1290",illuminator,,,human,Maestro di Gerona,Q112509654,DSNAME2218,Q1629
 "Mafeus, Jacobus, active 1463",scribe,,,human,Jacobus Mafeus,Q131623231,DSNAME7202,Q67448
 "Maffei, Mario, 1463-1537",former owner,,,human,Mario Maffei,Q64761462,DSNAME771,Q3172
 "Maffei, Pietro Antonio, 1663-1744",former owner,,,human,Pietro Antonio Maffei,Q60842621,DSNAME7403,Q67649
@@ -6919,7 +6919,7 @@ Māgha,author,,http://id.loc.gov/authorities/names/n88642061,human,Magha,Q237271
 "Maḥallī, Maḥmūd ibn Quṭb, active 17th century",author,محلي، محمود بن قطب، active 17th century,,human,Maḥmūd ibn Quṭb Maḥallī,Q131748515,DSNAME7719,Q68329
 "Maḥallī, Muḥammad ibn Aḥmad, 1422 or 1423-1485 or 1486",author,محلي، محمد بن احمد، 1422 or 1423-1485 or 1486,,human,Muḥammad ibn Aḥmad Maḥallī,Q131398870,DSNAME7586,Q68196
 "Maḥāsinī, Muḥammad ʻAlī, active 19th century",scribe,محاسني، محمد علي، active 19th century,,human,Muḥammad ʻAlī Maḥāsinī,Q131748501,DSNAME7689,Q68299
-"Maḥbūbī, ʻUbayd Allāh ibn Masʻūd, -1346 or 1347",author,محبوبي، عبيد الله بن مسعود، -1346 or 1347,http://id.loc.gov/authorities/names/n86141596,human,Sadr al-Shari'a al-Asghar,Q31313352,DSNAME2703,Q12307
+"Maḥbūbī, ʻUbayd Allāh ibn Masʻūd, -1346 or 1347",author,محبوبي، عبيد الله بن مسعود، -1346 or 1347,http://id.loc.gov/authorities/names/n86141596,human,ʿUbaidallāh Ibn-Masʿūd al- Maḥbūbī,Q31313352,DSNAME2703,Q12307
 "Maḥdhūb, Aḥmad, active 17th century",scribe,,,human,Aḥmad Maḥdhūb,Q131748516,DSNAME7720,Q68330
 "Mahdī, Ibrāhīm ibn Muḥammad, active 19th century",scribe,مهدي، ابراهيم بن محمد، active 19th century,,human,Ibrāhīm ibn Muḥammad Mahdī,Q131748502,DSNAME7690,Q68300
 "Mahdī Khān Astarābādī, active 1733-1759",author,مهدى خان استرابادى،,,human,Mirza Mehdi Khan Astarabadi,Q3107525,DSNAME2636,Q18684
@@ -6931,8 +6931,8 @@ Maheśvara,author,,http://id.loc.gov/authorities/names/n84102522,human,Maheśvar
 "Maḥmūd bin Nāṣir, active 1665",former owner,,,human,Maḥmūd bin Nāṣir,Q116453003,DSNAME909,Q3748
 "Maḥmūd bin Nāṣir, active 1665",former owner,,,human,Maḥmūd bin Nāṣir,Q116453003,DSNAME909,Q3748
 "Maḥmūd bin Nāṣir, active 1665",former owner,محمود بن ناصر، active 1665،,,human,Maḥmūd bin Nāṣir,Q116453003,DSNAME909,Q3748
-"Maḥmūd Gāwān̲, 1411?-1481",author,,,human,Mahmud Gawan,Q2151490,DSNAME6465,Q49336
-"Maḥmūd Gāwān̲, 1411?-1481",author,محمود گاوان، 1411?-1481,,human,Mahmud Gawan,Q2151490,DSNAME6465,Q49336
+"Maḥmūd Gāwān̲, 1411?-1481",author,,,human,Mahmud Gavan,Q2151490,DSNAME6465,Q49336
+"Maḥmūd Gāwān̲, 1411?-1481",author,محمود گاوان، 1411?-1481,,human,Mahmud Gavan,Q2151490,DSNAME6465,Q49336
 "Maḥmud ibn Adʹham, active 15th century",author,محمود بن ادهم، active 15th century,,human,Maḥmud ibn Adʹham,Q130374979,DSNAME6815,Q54796
 Maḥmūd ibn al-Shaykh al-Fattāḥ,former owner,محمود بن الشيخ الفتاح,,human,Maḥmūd ibn al-Shaykh al-Fattāḥ,Q114242523,DSNAME3118,Q27905
 Maḥmūd ibn al-Shaykh al-Fattāḥ,former owner,محمود بن الشيخ الفتاح,,human,Maḥmūd ibn al-Shaykh al-Fattāḥ,Q114242523,DSNAME3118,Q27905
@@ -7077,13 +7077,13 @@ Marcus Valerius Probus c. 20/30-105 AD,author,,,human,Marcus Valerius Probus,Q72
 Margaret Barclay Wilson,former owner,,,human,Margaret Barclay Wilson,Q94995753,DSNAME5770,Q42243
 "Marghīnānī, Maḥmūd ibn Aḥmad, 1156 or 1157-1219 or 1220",author,مرغيناني، محمود بن احمد,,human,Maḥmūd ibn Aḥmad Marghīnānī,Q131575255,DSNAME7518,Q67804
 "Marghīnānī, Maḥmūd ibn Aḥmad, 1156 or 1157-1219 or 1220.",author,مرغيناني، محمود بن احمد,,human,Maḥmūd ibn Aḥmad Marghīnānī,Q131575255,DSNAME7518,Q67804
-"Marghinānī, ʻAbd al-Raḥīm ibn Abī Bakr, active 13th century",author,مرغناني، عبد الرحيم بن ابي بكر,,human,ʻAbd al-Raḥīm ibn Abī Bakr Marghinānī,Q124747889,DSNAME7004,Q63934
-"Marghinānī, ʻAbd al-Raḥīm ibn Abī Bakr, active 13th century",author,,,human,ʻAbd al-Raḥīm ibn Abī Bakr Marghinānī,Q124747889,DSNAME7004,Q63934
-"Marghinānī, ʻAbd al-Raḥīm ibn Abī Bakr, active 13th century.",author,مرغناني، عبد الرحيم بن ابي بكر,,human,ʻAbd al-Raḥīm ibn Abī Bakr Marghinānī,Q124747889,DSNAME7004,Q63934
-"Marghīnānī, ʻAlī ibn Abī Bakr, -1196 or 1197",author,,,human,Burhan al-Din al-Murghinani,Q4998760,DSNAME954,Q3793
-"Marghīnānī, ʻAlī ibn Abī Bakr, -1196 or 1197",author,"مرغيناني، علي بن أبي بکر, -1196 أو 1197",http://id.loc.gov/authorities/names/n84145508,human,Burhan al-Din al-Murghinani,Q4998760,DSNAME954,Q3793
-"Marghīnānī, ʻAlī ibn Abī Bakr, -1196 or 1197",author,"مرغيناني، علي بن أبي بکر, -1196 أو 1197",http://id.loc.gov/authorities/names/n84145508,human,Burhan al-Din al-Murghinani,Q4998760,DSNAME954,Q3793
-"Marghīnānī, ʻAlī ibn Abī Bakr, -1196 or 1197",author,,,human,Burhan al-Din al-Murghinani,Q4998760,DSNAME954,Q3793
+"Marghinānī, ʻAbd al-Raḥīm ibn Abī Bakr, active 13th century",author,مرغناني، عبد الرحيم بن ابي بكر,,human,ʻAbd al-Raḥīm ibn Abī Bakr Marghinānī,Q131386037,DSNAME7004,Q63934
+"Marghinānī, ʻAbd al-Raḥīm ibn Abī Bakr, active 13th century",author,,,human,ʻAbd al-Raḥīm ibn Abī Bakr Marghinānī,Q131386037,DSNAME7004,Q63934
+"Marghinānī, ʻAbd al-Raḥīm ibn Abī Bakr, active 13th century.",author,مرغناني، عبد الرحيم بن ابي بكر,,human,ʻAbd al-Raḥīm ibn Abī Bakr Marghinānī,Q131386037,DSNAME7004,Q63934
+"Marghīnānī, ʻAlī ibn Abī Bakr, -1196 or 1197",author,,,human,Burhan al-Din al-Marghinani,Q4998760,DSNAME954,Q3793
+"Marghīnānī, ʻAlī ibn Abī Bakr, -1196 or 1197",author,"مرغيناني، علي بن أبي بکر, -1196 أو 1197",http://id.loc.gov/authorities/names/n84145508,human,Burhan al-Din al-Marghinani,Q4998760,DSNAME954,Q3793
+"Marghīnānī, ʻAlī ibn Abī Bakr, -1196 or 1197",author,"مرغيناني، علي بن أبي بکر, -1196 أو 1197",http://id.loc.gov/authorities/names/n84145508,human,Burhan al-Din al-Marghinani,Q4998760,DSNAME954,Q3793
+"Marghīnānī, ʻAlī ibn Abī Bakr, -1196 or 1197",author,,,human,Burhan al-Din al-Marghinani,Q4998760,DSNAME954,Q3793
 Marguerite de Lorraine,former owner,,,human,Marguerite of Lorraine,Q22132552,DSNAME3055,Q20542
 Maria de Urria,author,,,human,Maria de Urria,Q116181785,DSNAME1594,Q8085
 "Mariano, da Firenze, -1523",author,,,human,Mariano da Firenze,Q43222686,DSNAME4756,Q41201
@@ -7206,7 +7206,7 @@ Master of the Coronation of Charles VI,illuminator,,,human,Master of the Coronat
 "Master of the Dresden Hours, active 1470-1500",illuminator,,,human,Master of the Dresden Prayer Book,Q1748025,DSNAME4780,Q41225
 Master of the Flemish Boethius,illuminator,,,human,Master of the Flemish Boethius,Q22695988,DSNAME4781,Q41226
 Master of the Geneva Latini,illuminator,,,human,Master of the Rouen Echevinage,Q18402643,DSNAME3034,Q20521
-Master of the Gerona Bible,artist,,,human,Master of Gerona,Q112509654,DSNAME2218,Q1629
+Master of the Gerona Bible,artist,,,human,Maestro di Gerona,Q112509654,DSNAME2218,Q1629
 Master of the Graduals of San Salvatore in Pavia,illuminator,,,human,Master of the Graduals of San Salvatore in Pavia,Q123274794,DSNAME2257,Q16560
 Master of the Harvard Hannibal,artist,,,human,Master of the Harvard Hannibal,Q1918540,DSNAME516,Q1680
 Master of the Houghton Miniatures,illuminator,,,human,Master of the Houghton Miniatures,Q26037517,DSNAME4782,Q41227
@@ -7286,7 +7286,7 @@ Mayfair Rare Books and Manuscripts,former owner,,,organization,Mayfair Rare Book
 "Mayner, Joseph",former owner,,,human,Joseph Mayner,Q122873496,DSNAME2899,Q20215
 "Mayora, Luis",former owner,,,human,Luis Mayora,Q131623205,DSNAME7177,Q67423
 "Mayora, Miguel de",former owner,,,human,Miguel de Mayora,Q93417491,DSNAME7313,Q67559
-"Māzandarānī, Muḥammad Ṣāliḥ ibn Aḥmad, -1675 or 1676",author,,,human,Mulla Salih Mazandarani,Q5802395,DSNAME7487,Q67773
+"Māzandarānī, Muḥammad Ṣāliḥ ibn Aḥmad, -1675 or 1676",author,,,human,Muḥammad Ṣāliḥ ibn Aḥmad Māzandarānī,Q131690049,DSNAME7487,Q67773
 "Māzandarānī, ʻAbd al-Wahhāb al-Ḥusaynī, active 1828",scribe,مازندرانى، عبد الوهاب الحسينى،,,human,ʻAbd al-Wahhāb al-Ḥusaynī al-Māzandarānī,Q123581760,DSNAME2647,Q18695
 "Mazzae, Cesar",scribe,,,human,Cesar Mazzae,Q124566877,DSNAME4796,Q41241
 "Mazzolla Vicentino, Calisto",author,,,human,Calisto Mazzolla Vicentino,Q116453188,DSNAME1383,Q7324
@@ -7322,8 +7322,8 @@ Mayfair Rare Books and Manuscripts,former owner,,,organization,Mayfair Rare Book
 "Meerman, Gerard, 1722-1771",former owner,,,human,Gerard Meerman,Q15392399,DSNAME1442,Q7603
 "Meerman, Johan, 1753-1815",former owner,,http://id.loc.gov/authorities/names/n84077660,human,Johan Meerman,Q3173480,DSNAME1443,Q7604
 "Meerman, Johan, 1753-1815",former owner,,,human,Johan Meerman,Q3173480,DSNAME1443,Q7604
-"Mehmed II, Sultan of the Turks, 1432-1481",author,,http://id.loc.gov/authorities/names/n80090247,human,Mehmed II,Q34503,DSNAME1690,Q8405
-"Mehmed II, Sultan of the Turks, 1432-1481",author,,,human,Mehmed II,Q34503,DSNAME1690,Q8405
+"Mehmed II, Sultan of the Turks, 1432-1481",author,,http://id.loc.gov/authorities/names/n80090247,human,Mehmed the Conqueror,Q34503,DSNAME1690,Q8405
+"Mehmed II, Sultan of the Turks, 1432-1481",author,,,human,Mehmed the Conqueror,Q34503,DSNAME1690,Q8405
 "Mehmed Paşa, Nişancı, active 16th century",author,محمد پاشا، نشانجى، active 16th century,,human,Ramazanzade Mehmed Çelebi,Q20101642,DSNAME6787,Q54768
 "Mehmet, el-Vehbî",author,محمد، الوهبى,,human,el-Vehbî Mehmet,Q130375011,DSNAME6859,Q54840
 "Mehmet bin el-Hac Müsalli, active 18th century",author,محمد بن الحاج مصلى,,human,Mehmet bin el-Hac Müsalli,Q130374947,DSNAME6767,Q54748
@@ -7752,7 +7752,7 @@ Musa Efendi,former owner,,,human,Musa Kâzım Efendi,Q1953964,DSNAME4857,Q41302
 Musaeus Grammaticus,author,,,human,Musaeus Grammaticus,Q1954009,DSNAME4858,Q41303
 Musaeus Grammaticus.,author,,,human,Musaeus Grammaticus,Q1954009,DSNAME4858,Q41303
 "Muṣāḥibī Nāʼīnī, Muḥammad ʻAlī",author,مصاحبى نائينى، محمد على,,human,Muḥammad ʻAlī Muṣāḥibī Nāʼīnī,Q129453398,DSNAME6339,Q49210
-"Mūsá ibn Ibrāhīm, active 14th century-15th century",author,موسى بن ابراهيم، active 14th century-15th century,,human,Mūsá ibn Ibrāhīm,Q124773633,DSNAME7738,Q68348
+"Mūsá ibn Ibrāhīm, active 14th century-15th century",author,موسى بن ابراهيم، active 14th century-15th century,,human,Mūsá ibn Ibrāhīm,Q131398901,DSNAME7738,Q68348
 Mūsá ibn Mūsá ibn Ramaḍān,author,موسى بن موسى بن رمضان,,human,Mūsá ibn Mūsá ibn Ramaḍān,Q129453215,DSNAME6218,Q49089
 "Muṣannifak, ʻAlī ibn Majd al-Dīn Muḥammad, 1400 or 1401-1470 or 1471",author,مصنفك، علي بن مجد الدين محمد، 1400 or 1401-1470 or 1471,,human,Ali al-Bistami,Q42343964,DSNAME1802,Q12332
 "Muṣannifak, ʻAlī ibn Majd al-Dīn Muḥammad, 1400 or 1401-1470 or 1471",author,مصنفك، علي بن مجد الدين محمد، 1400 or 1401-1470 or 1471,,human,Ali al-Bistami,Q42343964,DSNAME1802,Q12332
@@ -7837,7 +7837,7 @@ Naevius,author,,,human,Gnaeus Naevius,Q212667,DSNAME4866,Q41311
 "Najafi, Ḥusayn ʻAlī al-Sharīf",author,,,human,Ḥusayn ʻAlī al-Sharīf al-Najafi,Q124566896,DSNAME4868,Q41313
 "Najafī, Muḥammad ʻAlī, 1842 or 1843-1915 or 1916",author,نجفي، محمد علي، 1842 or 1843-1915 or 1916,,human,Muḥammad ʻAlī Najafī,Q131575244,DSNAME7575,Q67861
 "Najārī, ʻAlī ibn ʻAlī, active 1563",author,نجاري، علي بن علي,,human,ʻAlī ibn ʻAlī Najārī,Q129951536,DSNAME6549,Q54180
-"Najdī, ʻUthmān Aḥmad, -1686",author,نجدي، عثمان احمد، -1686,,human,ʻUthmān Aḥmad Najdī,Q105359548,DSNAME7915,Q68525
+"Najdī, ʻUthmān Aḥmad, -1686",author,نجدي، عثمان احمد، -1686,,human,"Najdī, ʻUthmān Aḥmad",Q105359548,DSNAME7915,Q68525
 "Najjārī, Muḥammad ibn Muḥammad, active 18th century",scribe,نجاري، محمد بن محمد، active 18th century,,human,Muḥammad ibn Muḥammad Najjārī,Q131748475,DSNAME7663,Q68273
 "Najm al-Dīn Rāzī, ʻAbd Allāh ibn Muḥammad, -1256 or 1257",author,,,human,Najm al-Din Razi,Q1963396,DSNAME4869,Q41314
 "Najm al-Ṭawllīyah, ʻAbd al-Ḥamīd",author,,,human,ʻAbd al-Ḥamīd Najm al-Ṭawllīyah,Q129453157,DSNAME6185,Q49056
@@ -7868,7 +7868,7 @@ Naples (Kingdom). Sovereign (1458-1494 : Ferdinand I),author,,,organization;huma
 "Naqīb, Muḥammad ibn Yūnus, active 18th century",scribe,نقيب، محمد بن يونس، active 18th century,,human,Muḥammad ibn Yūnus Naqīb,Q131748571,DSNAME7807,Q68417
 "Nārada, active 1570-1630",author,,http://id.loc.gov/authorities/names/n89129002,human,Nārada,Q124252903,DSNAME3560,Q28344
 "Narapati, active 12th century",author,,http://id.loc.gov/authorities/names/n89158485,human,Narapati,Q124252899,DSNAME3562,Q28346
-"Narāqī, Muḥammad Mahdī ibn Abī Z̲arr, -1794 or 1795",author,نراقى، محمد مهدى بن ابى ذر، d. 1794 or 5,,human,Mohammad Mahdi Naraqi,Q6400779,DSNAME6236,Q49107
+"Narāqī, Muḥammad Mahdī ibn Abī Z̲arr, -1794 or 1795",author,نراقى، محمد مهدى بن ابى ذر، d. 1794 or 5,,human,Muḥammad Mahdī ibn Abī Z̲arr Narāqī,Q129453246,DSNAME6236,Q49107
 Narasiṃha,author,,http://id.loc.gov/authorities/names/n87865421,human,Narasiṃha,Q124252900,DSNAME3608,Q28392
 Nārāyaṇa,scribe,,http://id.loc.gov/authorities/names/n2007017835,human,Narayan Pandit,Q606019,DSNAME3299,Q28083
 Nārāyaṇa Bedarakara,author,,http://id.loc.gov/authorities/names/n85211699,human,Nārāyaṇa Bedarakara,Q124252906,DSNAME3391,Q28175
@@ -7947,7 +7947,7 @@ Nell Wheeler,former owner,,,human,Nell Wheeler,Q125930849,DSNAME5790,Q42263
 Nene,author,,,human,Nene,Q121957090,DSNAME375,Q1539
 "Nepos, Cornelius",author,,,human,Cornelius Nepos,Q109594,DSNAME4024,Q40469
 "Nepos, Cornelius.",author,,,human,Cornelius Nepos,Q109594,DSNAME4024,Q40469
-"Nergisi, Mehmet, 1580?-1635",author,"نركيسي, محمد",,human,Nergisi,Q1977944,DSNAME6839,Q54820
+"Nergisi, Mehmet, 1580?-1635",author,"نركيسي, محمد",,human,Mehmet Nergisi,Q130374997,DSNAME6839,Q54820
 "Neubronner, Heinrich, active 1669-1670",former owner,,,human,Heinrich Neubronner,Q131623290,DSNAME7259,Q67505
 "Neubronner, Melchior Daniel, active 1697-1698",former owner,,,human,Melchior Daniel Neubronner,Q131623291,DSNAME7260,Q67506
 "Neudörffer, Johann, 1497-1563",author,,,human,Johann Neudörffer the Elder,Q1695681,DSNAME4571,Q41016
@@ -7957,7 +7957,7 @@ Neuman-Walter,former owner,,,human,Neuman-Walter,Q125930850,DSNAME5791,Q42264
 "Nev'î, 1533-1599",author,نوعي,,human,Nev'î,Q130374974,DSNAME6809,Q54790
 "Neve, Timothy, 1694-1757",former owner,,,human,Timothy Neve,Q18530922,DSNAME7387,Q67633
 "Nevill, Robert, 1404-1457",former owner,,,human,Robert Neville,Q6013428,DSNAME935,Q3774
-Neville family,former owner,,,organization,House of Neville,Q1217421,DSNAME2163,Q16471
+Neville family,former owner,,,organization,House of Neville,Q2364167,DSNAME2163,Q16471
 "Nevres-i Kadîm, -1761 or 1762",author,"نورس قديم, -1761 or 1762",,human,Abdürrezzâk Nevres,Q121767950,DSNAME6779,Q54760
 "Nevres-i Kadîm, -1761 or 1762",author,نورس قديم,,human,Abdürrezzâk Nevres,Q121767950,DSNAME6779,Q54760
 "Newcastle, Henry Pelham Archibald Douglas Pelham-Clinton, 7th Duke of, 1864-1928",former owner,,,human,"Henry Pelham-Clinton, 7th Duke of Newcastle",Q4348371,DSNAME1354,Q7295
@@ -8059,7 +8059,7 @@ Nilus of Ancyra,author,,,human,Nilus of Sinai,Q770938,DSNAME1090,Q4454
 "Nishānjīʹzādah, Muḥammad ibn Aḥmad, 1555-1622",author,,,human,Muḥammad ibn Aḥmad Nishānjīʹzādah,Q131432238,DSNAME7106,Q64036
 "Nīshāpūrī, Ḥusayn ibn Muḥammad, -1499",author,نىشاپورى، حسىن بن محمد، -1499,,human,Ḥusayn ibn Muḥammad Nīshāpūrī,Q129453431,DSNAME6357,Q49228
 "Nīshāpūrī, ʻAlī Muḥammad ibn Muḥammad Ṣāliḥ, 19th century",author,نىشاپورى، على محمد بن محمد صالح، 19th century,,human,ʻAlī Muḥammad ibn Muḥammad Ṣāliḥ Nīshāpūrī,Q129453343,DSNAME6301,Q49172
-"Nithārī, Muḥammad ibn ʻAbd Allāh, -1774 or 1775",author,,,human,Muḥammad ibn ʻAbd Allāh Nithārī,Q125099237,DSNAME6506,Q54137
+"Nithārī, Muḥammad ibn ʻAbd Allāh, -1774 or 1775",author,,,human,Muḥammad ibn ʻAbd Allāh Nithārī,Q129951475,DSNAME6506,Q54137
 Nityanātha,author,,http://id.loc.gov/authorities/names/n84086528,human,Gorakṣanātha Heiliger,Q113399663,DSNAME3361,Q28145
 "Nix, Richard, Bishop of Norwich, approximately 1447-1535",author,,http://id.loc.gov/authorities/names/no2015163899,human,Richard Nykke,Q7328116,DSNAME4899,Q41344
 "Nix, Richard, Bishop of Norwich, approximately 1447-1535",former owner,,http://id.loc.gov/authorities/names/no2015163899,human,Richard Nykke,Q7328116,DSNAME4899,Q41344
@@ -8098,7 +8098,7 @@ Novacella (Abbey of Augustinian canons),former owner,,,organization,Neustift Abb
 Nṛsiṃha,scribe,,,human,Nṛsiṃha,Q121331014,DSNAME3488,Q28272
 Nr̥siṃhāśrama,author,,,human,Nr̥siṃhāśrama,Q114242422,DSNAME3483,Q28267
 Nr̥siṃhāśrama,author,,,human,Nr̥siṃhāśrama,Q114242422,DSNAME3483,Q28267
-"Nubāhī, ʻAlī ibn ʻAbd Allāh, 1313 or 1314-",author,,,human,ʻAlī ibn ʻAbd Allāh Nubāhī,Q20418458,DSNAME4905,Q41350
+"Nubāhī, ʻAlī ibn ʻAbd Allāh, 1313 or 1314-",author,,,human,Abu-'l-Ḥasan ʿAlī Ibn-ʿAbdallāh Ibn-Muḥammad an- Nubāhī,Q55875203,DSNAME4905,Q41350
 "Nugent, Elliott",former owner,,,human,Elliott Nugent,Q1332362,DSNAME2448,Q17657
 "Nukrī, ʻAbd al-Karīm ibn Muḥammad",author,نکرى، عبد الکرىم بن محمد,,human,ʻAbd al-Karīm ibn Muḥammad Nukrī,Q129453199,DSNAME6209,Q49080
 "Nunes, Leonardo, active 1538-1550",author,,,human,Leonardo Nunes,Q10317352,DSNAME4906,Q41351
@@ -8117,7 +8117,7 @@ Nūr al-Dīn Darvīsh,former owner,نور الدين درويش،,,human,Nūr
 Nūr al-Dīn Darvīsh,former owner,نور الدين درويش،,,human,Nūr al-Dīn Darvīsh,Q114242540,DSNAME4907,Q41352
 "Nūr al-Dīn ibn Nūḥ, active 17th century",scribe,نور الدين بن نوح، active 17th century,,human,Nūr al-Dīn ibn Nūḥ,Q131748512,DSNAME7717,Q68327
 "Nūrbakhshī, Bahāʼ al-Dawlah, -approximately 1505",author,نوربخشى، بهاء الدوله، -approximately 1505,,human,Bahāʼ al-Dawlah Nūrbakhshī,Q129453252,DSNAME6241,Q49112
-"Nūrī, Faz̤l Allāh, -1909",former owner,نورى، فضل الله، d. 1909,,human,Sheikh Fazlollah Noori,Q1399191,DSNAME6249,Q49120
+"Nūrī, Faz̤l Allāh, -1909",former owner,نورى، فضل الله، d. 1909,,human,Sheikh Fazlollah Nuri,Q1399191,DSNAME6249,Q49120
 "Nūrī, Muḥammad Shams al-Dīn Naqshband",former owner,نوري، محمد شمس الدين نقشبند.,,human,Muḥammad Shams al-Dīn Naqshband Nūrī,Q123581767,DSNAME2609,Q18657
 "Nūrī, ʻAlī ibn Jamshīd, -1830 or 1831",author,نوري، علي بن جمشيد، d. 1830 or 31,,human,ʻAlī ibn Jamshīd Nūrī,Q129453270,DSNAME6253,Q49124
 "Nūrī Nāẓim al-Sharīʻah Hamadānī, Muḥammad ʻAlī ibn Muḥammad Ḥasan",author,نورى ناظم الشرىعه همدانى، محمد على بن محمد حسن,,human,Muḥammad ʻAlī ibn Muḥammad Ḥasan Nūrī Nāẓim al-Sharīʻah Hamadānī,Q129453106,DSNAME6153,Q49024
@@ -8410,7 +8410,7 @@ Paulus Pergulensis?,author,,,human,Paul of Pergula,Q2050459,DSNAME2925,Q7619
 Paulus Ungarus,author,,,human,Paulus Hungarus,Q6067562,DSNAME4969,Q41414
 Paulus Venetus,author,,,human,Paul of Venice,Q2064265,DSNAME204,Q477
 Paul V,author,,,human,Paul V,Q132711,DSNAME4970,Q41415
-"Payne, J. T",former owner,,,human,J. T. Payne,Q131856748,DSNAME8026,Q68636
+"Payne, J. T",former owner,,,human,J. T Payne,Q131856748,DSNAME8026,Q68636
 "Payne, John Thomas",former owner,,,human,Thomas Payne,Q7793066,DSNAME4971,Q41416
 Payne and Foss,former owner,,,organization,Payne and Foss,Q113847193,DSNAME5578,Q42023
 Payre-Grolée-Virville family,former owner,,,organization,Payre-Grolée-Virville family,Q126000580,DSNAME5801,Q42274
@@ -8445,15 +8445,15 @@ Pelagius,author,,,human,Pelagius,Q162593,DSNAME4982,Q41427
 Pennsylvania Museum of Art,former owner,,,organization,Philadelphia Museum of Art,Q510324,DSNAME5580,Q42025
 "Penny, Stephen",former owner,,,human,Stephen Penny,Q124566914,DSNAME4986,Q41431
 "Pennypacker, Samuel W. (Samuel Whitaker), 1843-1916",former owner,,,human,Samuel Whitaker Pennypacker,Q540418,DSNAME2735,Q20059
-"Penrose, Boies, 1860-1921",former owner,,,human,Boies Penrose,Q891015,DSNAME8518,Q75936
-"Penrose, Boies, 1902-1976",former owner,,,human,Boies Penrose II,Q62681941,DSNAME1417,Q7579
-"Penrose, Boies, 1902-1976",former owner,,http://id.loc.gov/authorities/names/n84168469,human,Boies Penrose II,Q62681941,DSNAME1417,Q7579
+"Penrose, Boies, 1860-1921",former owner,,,human,Boies Penrose,Q62681941,DSNAME1417,Q7579
+"Penrose, Boies, 1902-1976",former owner,,,human,Boies Penrose,Q62681941,DSNAME1417,Q7579
+"Penrose, Boies, 1902-1976",former owner,,http://id.loc.gov/authorities/names/n84168469,human,Boies Penrose,Q62681941,DSNAME1417,Q7579
 "Pen trials in the margins, s. XVI, including some names: Thomas; Istud est <erasure>; Lumen (?) tito (?); <?>e<?>ino hadtens (?); John Skerrind (?)",former owner,,,human,John Skerrind,Q116850557,DSNAME693,Q1928
 "Pen trials in the margins, s. XVI, including some names: Thomas; Istud est <erasure>; Lumen (?) tito (?); <?>e<?>ino hadtens (?); John Skerrind (?).",former owner,,,human,John Skerrind,Q116850557,DSNAME693,Q1928
 "Peñuela, Francisco de la",author,,,human,Francisco de la Peñuela,Q127510501,DSNAME6050,Q42742
 Penzance Public Library,former owner,,,organization,Penzance Library,Q54879181,DSNAME5802,Q42275
 "Pepys, Samuel, 1633-1703",former owner,,,human,Samuel Pepys,Q106143,DSNAME4987,Q41432
-"Peranzonus, Nicolaus",author,,,human,Nicolò Peranzone,Q61481203,DSNAME4894,Q41339
+"Peranzonus, Nicolaus",author,,,human,Nicolaus Peranzonus,Q127510458,DSNAME6051,Q42743
 "Perault, Guillaume",author,,,human,William Perault,Q8016774,DSNAME1161,Q5152
 "Perault, Guillaume.",author,,,human,William Perault,Q8016774,DSNAME1161,Q5152
 "Peregrinus, de Sancto Vito",scribe,,,human,Peregrinus de Sancto Vito,Q116506005,DSNAME1432,Q7593
@@ -8777,8 +8777,8 @@ Poggio Bracciolini,author,,,human,Poggio Bracciolini,Q318254,DSNAME3887,Q40332
 "Pol, Nicolaus, approximately 1470-1532","former owner,",,,human,Nicolaus Pol,Q16863474,DSNAME2139,Q16450
 "Polak, Jakob Eduard, 1818-1891",author,,,human,Jakob Eduard Polak,Q113768,DSNAME6279,Q49150
 "Polentone, Sicco, active 14th century-15th century",author,,,human,Sicco Polenton,Q3960051,DSNAME5221,Q41666
-"Poliziano, Angelo, 1454-1494",author,,http://id.loc.gov/authorities/names/n79134158,human,Agnolo Poliziano,Q250414,DSNAME1313,Q7061
-"Poliziano, Angelo, 1454-1494",author,,,human,Agnolo Poliziano,Q250414,DSNAME1313,Q7061
+"Poliziano, Angelo, 1454-1494",author,,http://id.loc.gov/authorities/names/n79134158,human,Poliziano,Q250414,DSNAME1313,Q7061
+"Poliziano, Angelo, 1454-1494",author,,,human,Poliziano,Q250414,DSNAME1313,Q7061
 "Polo, Marco, 1254-1323",author,,http://id.loc.gov/authorities/names/n79055818,human,Marco Polo,Q6101,DSNAME599,Q1834
 Polyaenus,author,,,human,Polyaenus,Q537755,DSNAME5052,Q41497
 Polyaenus.,author,,,human,Polyaenus,Q537755,DSNAME5052,Q41497
@@ -8871,9 +8871,9 @@ Priscian fl. ca. 500-530.,author,,,human,Priscian,Q356433,DSNAME391,Q1555
 "Probably from the cathedral of Lodi, about 20 miles south-east of Milan, Lombardy (see below); C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,organization;human,Lodi Cathedral;Coella Lindsay Ricketts,Q3045557;Q116771179,DSNAME507;DSNAME363,Q1671;Q1527
 "probably Laurence Hilliard (d. 1887, aged 32), Ruskin’s secretary, who was given many manuscript specimens by Ruskin; sale by his heirs, Sotheby’s, 28 April 1913, part of lot 508; C. L. Ricketts, bought from Tregaskis, 1922; acquired by the Lilly Library with the Ricketts Collection in 1961",former owner,,,human;human;human,Laurence Hilliard;James Tregaskis;Coella Lindsay Ricketts,Q116785270;Q94138739;Q116771179,DSNAME464;DSNAME451;DSNAME363,Q1628;Q1615;Q1527
 "probably Laurence Hilliard (d. 1887, aged 32), Ruskin’s secretary, who was given many manuscript specimens by Ruskin; sale by his heirs, Sotheby’s, 28 April 1913, part of lot 508; C. L. Ricketts, bought from Tregaskis, 1922; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human;human,Laurence Hilliard;James Tregaskis;Coella Lindsay Ricketts,Q116785270;Q94138739;Q116771179,DSNAME464;DSNAME451;DSNAME363,Q1628;Q1615;Q1527
-"Probably Marcantonio Morosini (c. 1435-1509), of Venice, with the Morosini arms on fol. 4r; Matteo Luigi Canonici (1727-1805), Venetian Jesuit; by descent to his brother, Guiseppe Canonici (d. 1807), and to Giovanni Perissinotti and Girolamo Cardina, who sold over 3000 of Canonici’s manuscripts to the Bodleian Library in Oxford in 1817",former owner,,,human;human;human;human;human;organization,Marcantonio Morosini;Matteo Luigi Canonici;Giuseppe Canonici;Giovanni Perissinotti;Girolamo Cardina;Bodleian Library,Q61480782;Q55226394;Q116809670;Q116809679;Q116809685;Q82133,DSNAME8516;DSNAME277;DSNAME5064;DSNAME4992;DSNAME5065;DSNAME5582,Q75934;Q890;Q41509;Q41437;Q41510;Q42027
-"Probably Marcantonio Morosini (c. 1435-1509), of Venice, with the Morosini arms on fol. 4r; Matteo Luigi Canonici (1727-1805), Venetian Jesuit; by descent to his brother, Guiseppe Canonici (d. 1807), and to Giovanni Perissinotti and Girolamo Cardina, who sold over 3000 of Canonici’s manuscripts to the Bodleian Library in Oxford in 1817 and 829 of the remaining manuscripts for 16,000 lire",former owner,,,human;human;human;human;human;organization,Marcantonio Morosini;Matteo Luigi Canonici;Giuseppe Canonici;Giovanni Perissinotti;Girolamo Cardina;Bodleian Library,Q61480782;Q55226394;Q116809670;Q116809679;Q116809685;Q82133,DSNAME8516;DSNAME277;DSNAME5064;DSNAME4992;DSNAME5065;DSNAME5582,Q75934;Q890;Q41509;Q41437;Q41510;Q42027
-"Probably Marcantonio Morosini (c. 1435-1509), of Venice, with the Morosini arms on fol. 4r; Matteo Luigi Canonici (1727-1805), Venetian Jesuit; by descent to his brother, Guiseppe Canonici (d. 1807), and to Giovanni Perissinotti and Girolamo Cardina, who sold over 3000 of Canonici’s manuscripts to the Bodleian Library in Oxford in 1817 and 829 of the remaining manuscripts for 16,000 lire|",former owner,,,human;human;human;human;human;organization,Marcantonio Morosini;Matteo Luigi Canonici;Giuseppe Canonici;Giovanni Perissinotti;Girolamo Cardina;Bodleian Library,Q61480782;Q55226394;Q116809670;Q116809679;Q116809685;Q82133,DSNAME8516;DSNAME277;DSNAME5064;DSNAME4992;DSNAME5065;DSNAME5582,Q75934;Q890;Q41509;Q41437;Q41510;Q42027
+"Probably Marcantonio Morosini (c. 1435-1509), of Venice, with the Morosini arms on fol. 4r; Matteo Luigi Canonici (1727-1805), Venetian Jesuit; by descent to his brother, Guiseppe Canonici (d. 1807), and to Giovanni Perissinotti and Girolamo Cardina, who sold over 3000 of Canonici’s manuscripts to the Bodleian Library in Oxford in 1817",former owner,,,human;human;human;human;human;organization,Marcantonio Morosini;Matteo Luigi Canonici;Giuseppe Canonici;Giovanni Perissinotti;Girolamo Cardina;Bodleian Library,Q61480782;Q55226394;Q116809670;Q116809679;Q116809685;Q82133,DSNAME277;DSNAME5064;DSNAME4992;DSNAME5065;DSNAME5582;DSNAME5582,Q890;Q890;Q41509;Q41437;Q41510;Q42027
+"Probably Marcantonio Morosini (c. 1435-1509), of Venice, with the Morosini arms on fol. 4r; Matteo Luigi Canonici (1727-1805), Venetian Jesuit; by descent to his brother, Guiseppe Canonici (d. 1807), and to Giovanni Perissinotti and Girolamo Cardina, who sold over 3000 of Canonici’s manuscripts to the Bodleian Library in Oxford in 1817 and 829 of the remaining manuscripts for 16,000 lire",former owner,,,human;human;human;human;human;organization,Marcantonio Morosini;Matteo Luigi Canonici;Giuseppe Canonici;Giovanni Perissinotti;Girolamo Cardina;Bodleian Library,Q61480782;Q55226394;Q116809670;Q116809679;Q116809685;Q82133,DSNAME277;DSNAME5064;DSNAME4992;DSNAME5065;DSNAME5582;DSNAME5582,Q890;Q890;Q41509;Q41437;Q41510;Q42027
+"Probably Marcantonio Morosini (c. 1435-1509), of Venice, with the Morosini arms on fol. 4r; Matteo Luigi Canonici (1727-1805), Venetian Jesuit; by descent to his brother, Guiseppe Canonici (d. 1807), and to Giovanni Perissinotti and Girolamo Cardina, who sold over 3000 of Canonici’s manuscripts to the Bodleian Library in Oxford in 1817 and 829 of the remaining manuscripts for 16,000 lire|",former owner,,,human;human;human;human;human;organization,Marcantonio Morosini;Matteo Luigi Canonici;Giuseppe Canonici;Giovanni Perissinotti;Girolamo Cardina;Bodleian Library,Q61480782;Q55226394;Q116809670;Q116809679;Q116809685;Q82133,DSNAME277;DSNAME5064;DSNAME4992;DSNAME5065;DSNAME5582;DSNAME5582,Q890;Q890;Q41509;Q41437;Q41510;Q42027
 "probably not lot 106 in the Savile sale, Sotheby’s, 6 February 1861 (as suggested by de Ricci); Sir Thomas Brooke (1830-1908), by 1891; his sale, Sotheby’s, 24 November 1913, lot 13; bought from W. M. Voynich in January 1917 by C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961",former owner,,,human;human;human,"Sir Thomas Brooke, 1st Baronet;Wilfrid Voynich;Coella Lindsay Ricketts",Q33389639;Q336453;Q116771179,DSNAME441;DSNAME403;DSNAME363,Q1605;Q1567;Q1527
 "probably not lot 106 in the Savile sale, Sotheby’s, 6 February 1861 (as suggested by de Ricci); Sir Thomas Brooke (1830-1908), by 1891; his sale, Sotheby’s, 24 November 1913, lot 13; bought from W. M. Voynich in January 1917 by C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human;human,"Sir Thomas Brooke, 1st Baronet;Wilfrid Voynich;Coella Lindsay Ricketts",Q33389639;Q336453;Q116771179,DSNAME441;DSNAME403;DSNAME363,Q1605;Q1567;Q1527
 "Probably the Benedictine monastery of San Domenico in Sora (see below); Ernst F. Detterer (1888-1947), bought in July 1931 from Emil Hirsch, bookseller in Munich; bought from Detterer’s estate in 1948 by George A. Poole, and acquired by the Lilly Library with the Poole Collection in 1958",former owner,,,organization;human;human;organization,Abbazia di San Domenico;Ernst F. Detterer;George Amos Poole;Antiquariat Emil Hirsch,Q3603214;Q5394976;Q64683625;Q116809892,DSNAME392;DSNAME393;DSNAME360;DSNAME394,Q1556;Q1557;Q1524;Q1558
@@ -9050,7 +9050,7 @@ Pynchebek,scribe,,,human,Pynchebek,Q124380433,DSNAME5097,Q41542
 "Qalqashandī, ʻAbd al-Raḥmān ibn Aḥmad, 15th cent",author,,,human,ʻAbd al-Raḥmān ibn Aḥmad Qalqashandī,Q131690042,DSNAME7479,Q67765
 "Qalyūbī, Shihāb al-Dīn Aḥmad ibn Aḥmad, -1659",author,قليوبي، شهاب الدين احمد بن احمد، -1659,,human,Syihabuddin al-Qaliyubi,Q16123954,DSNAME1864,Q12394
 "Qalyūbī, Shihāb al-Dīn Aḥmad ibn Aḥmad, -1659",author,قليوبي، شهاب الدين احمد بن احمد، -1659,,human,Syihabuddin al-Qaliyubi,Q16123954,DSNAME1864,Q12394
-"Qalʻāwī, Muṣṭafá ibn Muḥammad, 1745-1815",author,قلعاوي، مصطفى بن محمد، 1745-1815,,human,Muṣṭafá ibn Muḥammad Qalʻāwī,Q125099461,DSNAME7758,Q68368
+"Qalʻāwī, Muṣṭafá ibn Muḥammad, 1745-1815",author,قلعاوي، مصطفى بن محمد، 1745-1815,,human,Muṣṭafá ibn Muḥammad Qalʻāwī,Q131398908,DSNAME7758,Q68368
 "Qarabāghī, Muḥammad ibn ʻAlī, -1535 or 1536",author,,http://id.loc.gov/authorities/names/no2006104905,human,Muḥammad ibn ʻAlī Qarabāghī,Q114242406,DSNAME5099,Q41544
 "Qarabāghī, Muḥammad ibn ʻAlī, -1535 or 1536",author,,http://id.loc.gov/authorities/names/no2006104905,human,Muḥammad ibn ʻAlī Qarabāghī,Q114242406,DSNAME5099,Q41544
 "Qara Emre, d. 1456",author,,,human,Qara Emre,Q131432227,DSNAME7070,Q64000
@@ -9081,7 +9081,7 @@ Pynchebek,scribe,,,human,Pynchebek,Q124380433,DSNAME5097,Q41542
 "Qasṭamūnī, ʻAlī al-Aṭwal",author,قسطموني، علي الاطول,,human,ʻAlī al-Aṭwal Qasṭamūnī,Q130374971,DSNAME6806,Q54787
 "Qaṭāriyah, Ṭāha Maḥmūd ʻAlī ʻAbd al-Raḥmān, active 19th century",scribe,قطارية، طه محمود علي عبد الرحمن، active 19th century,,human,Ṭāha Maḥmūd ʻAlī ʻAbd al-Raḥmān Qaṭāriyah,Q131748537,DSNAME7753,Q68363
 "Qatīl, Muḥammad Ḥasan",author,قتىل، محمد حسن,,human,Muḥammad Ḥasan Qatīl,Q129453083,DSNAME6142,Q49013
-"Qaṭṭān, al-ḥusayn ibn Yaḥyá, d. 946",author,,,human,Al-Ḥusayn ibn Yaḥyá Qaṭṭān,Q129176921,DSNAME7500,Q67786
+"Qaṭṭān, al-ḥusayn ibn Yaḥyá, d. 946",author,,,human,Al-Ḥusayn ibn Yaḥyá Qaṭṭān,Q131690059,DSNAME7500,Q67786
 "Qayrawānī, Aḥmad ibn Aḥmad, active 18th century",scribe,قيرواني، احمد بن احمد، active 18th century,,human,Aḥmad ibn Aḥmad Qayrawānī,Q131748560,DSNAME7788,Q68398
 "Qayṣarī, Ibrāhīm al-Makkī ibn ʻAlī, active 17th century",scribe,قيصري، ابراهيم المكي بن علي، active 17th century,,human,Ibrāhīm al-Makkī ibn ʻAlī Qayṣarī,Q129951596,DSNAME6596,Q54227
 "Qayṣarī, Muḥammad Saʻīd",author,قيصري، محمد سعيد,,human,Muḥammad Saʻīd Qayṣarī,Q130374922,DSNAME6721,Q54702
@@ -9116,7 +9116,7 @@ Pynchebek,scribe,,,human,Pynchebek,Q124380433,DSNAME5097,Q41542
 "Qinawī, Muḥammad ibn Yaʻqūb, active 18th century",scribe,قنوي، محمد بن يعقوب، active 18th century,,human,Muḥammad ibn Yaʻqūb Qinawī,Q131748573,DSNAME7811,Q68421
 "Qinnawjī, ʻAbd al-Bāsiṭ ibn Rustam ʻAlī, 1746 or 1747-1808 or 1809",author,قنوجى، عبد الباسط بن رستم على، 1746 or 1747-1808 or 1809,,human,ʻAbd al-Bāsiṭ ibn Rustam ʻAlī Qinnawjī,Q129453194,DSNAME6204,Q49075
 "Qīrāṭī, Ibrāhīm ibn ʻAbd Allāh, 1326-1379 or 1380",author,قيراطي، ابراهيم بن عبد الله، 1326-1379,,human,Ibrāhīm ibn ʻAbd Allāh Qīrāṭī,Q131398869,DSNAME7614,Q68224
-"Qirīmī, Aḥmad ibn ʻAbd Allāh, d. 1474",author,,,human,Aḥmad ibn ʻAbd Allāh Qirīmī,Q125098010,DSNAME7052,Q63982
+"Qirīmī, Aḥmad ibn ʻAbd Allāh, d. 1474",author,,,human,Aḥmad ibn ʻAbd Allāh Qirīmī,Q131386062,DSNAME7052,Q63982
 "Qirīmī, Sharaf al-Dīn ibn Kamāl, 15th cent",author,,,human,Sharaf al-Dīn ibn Kamāl Qirīmī,Q131432246,DSNAME7124,Q64054
 "Quaile, Edward",former owner,,,human,Edward Quaile,Q117085125,DSNAME616,Q1851
 Quaritch,former owner,,,organization,Bernard Quaritch Ltd,Q65034936,DSNAME279,Q892
@@ -9148,7 +9148,7 @@ Quintus Aemilianus Cimbriacus.,author,,,human,Giovanni Stefano Emiliano,Q5935748
 "Qummī, Muḥammad ibn Shaykh ʻAqīl al-Sharīf, active 1592",scribe,قمي، محمد بن شيخ عقيل الشريف،,,human,Muḥammad ibn Shaykh ʻAqīl al-Sharīf Qummī,Q123581772,DSNAME2645,Q18693
 "Qummī, Taqī ibn ʻAlī",former owner,قمى، تقى بن على،,,human,Taqī ibn ʻAlī al-Qummī,Q124130513,DSNAME3154,Q27940
 "Qumnātī, ḥasan ibn ʻAlī, 15th cent",author,,,human,Ḥasan ibn ʻAlī Qumnātī,Q131386118,DSNAME7026,Q63956
-"Qūnawī, Ismāʻīl ibn Muḥammad, -1780 or 1781",author,,,human,Ismāʻīl ibn Muḥammad Qūnawī,Q124744346,DSNAME7054,Q63984
+"Qūnawī, Ismāʻīl ibn Muḥammad, -1780 or 1781",author,,,human,Ismāʻīl ibn Muḥammad Qūnawī,Q131386063,DSNAME7054,Q63984
 "Qūnawī, ʻAlī",author,,,human,"Qūnawī, ʻAlī",Q114407047,DSNAME5104,Q41549
 "Qūnawī, ʻAlī",author,,,human,"Qūnawī, ʻAlī",Q114407047,DSNAME5104,Q41549
 "Quodovultdeus, letter to",other,,,human,Quodvultdeus,Q608506,DSNAME405,Q1569
@@ -9161,7 +9161,7 @@ Quodvultdeus of Carthage,author,,,human,Quodvultdeus,Q608506,DSNAME405,Q1569
 "Qurashī al-Sāvajī, Muḥammad ibn al-Ḥusayn, 17th century",author,قرشى الساوجى، محمد بن الحسىن، 17th century,,human,Muḥammad ibn al-Ḥusayn Qurashī al-Sāvajī,Q129453324,DSNAME6288,Q49159
 "Qurtubī, Abū al-Qāsim ibn ʻAbd al-ʻAlīm",author,قرتبي، ابو القاسم بن عبد العليم,,human,Abū al-Qāsim ibn ʻAbd al-ʻAlīm Qurtubī,Q131386040,DSNAME7008,Q63938
 "Qurṭubī, Muḥammad ibn Aḥmad, -1273",author,قرطبي، محمد بن احمد,,human,Al-Qurtubi,Q1151805,DSNAME7590,Q68200
-"Qushayrī, ʻAbd al-Raḥīm ibn ʻAbd al-Karīm, -1120",author,قشيري، عبد الرحيم بن عبد الكريم، -1120,,human,ʻAbd al-Raḥīm ibn ʻAbd al-Karīm Qushayrī,Q25453568,DSNAME7794,Q68404
+"Qushayrī, ʻAbd al-Raḥīm ibn ʻAbd al-Karīm, -1120",author,قشيري، عبد الرحيم بن عبد الكريم، -1120,,human,ʻAbd al-Raḥīm ibn ʻAbd al-Karīm Qushayrī,Q131398921,DSNAME7794,Q68404
 "Qūshjī, ʻAlī ibn Muḥammad, -1474 or 1475",author,,,human,Ali Qushji,Q423644,DSNAME802,Q3203
 "Qūshjī, ʻAlī ibn Muḥammad, -1474 or 1475",author,"قوشجي، على بن محمد, -1474 or 1475",http://id.loc.gov/authorities/names/nr90029107,human,Ali Qushji,Q423644,DSNAME802,Q3203
 "Qūshjī, ʻAlī ibn Muḥammad, -1474 or 1475",author,,,human,Ali Qushji,Q423644,DSNAME802,Q3203
@@ -9580,8 +9580,8 @@ Rui Garcia,former owner,,,human,Rui Garcia,Q125930871,DSNAME5831,Q42304
 "Rūmī, Fakhr al-Dīn, fl. 1402",author,,,human,Fakhr al-Dīn Rūmī,Q131386091,DSNAME7105,Q64035
 "Rūmī, Iskandar",author,رومي، اسكندر,,human,Iskandar Rūmī,Q124566933,DSNAME5163,Q41608
 "Rūmī, Muṣṭafá",author,,,human,Mustafa Rumi,Q6943320,DSNAME6665,Q54296
-"Rūmī, Nūḥ ibn Muṣṭafá, -1659 or 1660",author,رومي، نوح بن مصطفى، -1659 or 1660,,human,Nūḥ ibn Muṣṭafá Rūmī,Q124773772,DSNAME7032,Q63962
-"Rūmī, Nūḥ ibn Muṣṭafá, -1659 or 1660.",author,رومي، نوح بن مصطفى، -1659 or 1660,,human,Nūḥ ibn Muṣṭafá Rūmī,Q124773772,DSNAME7032,Q63962
+"Rūmī, Nūḥ ibn Muṣṭafá, -1659 or 1660",author,رومي، نوح بن مصطفى، -1659 or 1660,,human,Nūḥ ibn Muṣṭafá Rūmī,Q131386053,DSNAME7032,Q63962
+"Rūmī, Nūḥ ibn Muṣṭafá, -1659 or 1660.",author,رومي، نوح بن مصطفى، -1659 or 1660,,human,Nūḥ ibn Muṣṭafá Rūmī,Q131386053,DSNAME7032,Q63962
 "Rūmī, Shukr Allāh ibn Aḥmad, 1386?-1488 or 9",author,رومى، شکر الله بن احمد، 1386?-1488 or 9,,human,Shukr Allāh ibn Aḥmad Rūmī,Q129453400,DSNAME6340,Q49211
 "Rūmī, ʻAbd al-Raḥmān ibn Khalīl",author,,,human,ʻAbd al-Raḥmān ibn Khalīl Rūmī,Q129951456,DSNAME6494,Q54125
 "Ruprecht, Pfalzgraf bei Rhein, 1461-1507",author,,,human,"Rupert, Count Palatine of Simmern",Q1167758,DSNAME5164,Q41609
@@ -9659,11 +9659,11 @@ Sadāśiva,author,,http://id.loc.gov/authorities/names/n97924711,human,Sadāśiv
 "Ṣafī, ʻAlī ibn Ḥusayn Kāshifī, 1463-1532 or 1533",author,صفى، على بن حسىن کاشفى، 1463-1532 or 3,,human,ʻAlī ibn Ḥusayn Kāshifī Ṣafī,Q120598988,DSNAME6437,Q49308
 "Ṣafī, ʻAlī ibn Ḥusayn Kāshifī, 1463-1532 or 1533.",author,سفى، على بن حسىن کاشفى، 1463-1532 or 3,,human,ʻAlī ibn Ḥusayn Kāshifī Ṣafī,Q120598988,DSNAME6437,Q49308
 "Safīrī, Muḥammad ibn ʻUmar, 1472 or 1473-1549 or 1550",author,,,human,Alsaafīry,Q124772507,DSNAME6653,Q54284
-"Ṣafrāwī, ʻAbd al-Raḥmān ibn ʻAbd al-Majīd, 1149-1238 or 1239",author,صفراوي، عبد الرحمن بن عبد المجيد، 1149-1238 or 1239,,human,ʻAbd al-Raḥmān ibn ʻAbd al-Majīd Ṣafrāwī,Q124747836,DSNAME7743,Q68353
-"Safṭī, ʻĪsá ibn ʻĪsá, -1730 or 1731",author,,,human,ʻĪsá ibn ʻĪsá Safṭī,Q125098917,DSNAME6995,Q63925
+"Ṣafrāwī, ʻAbd al-Raḥmān ibn ʻAbd al-Majīd, 1149-1238 or 1239",author,صفراوي، عبد الرحمن بن عبد المجيد، 1149-1238 or 1239,,human,ʻAbd al-Raḥmān ibn ʻAbd al-Majīd Ṣafrāwī,Q131398903,DSNAME7743,Q68353
+"Safṭī, ʻĪsá ibn ʻĪsá, -1730 or 1731",author,,,human,ʻĪsá ibn ʻĪsá Safṭī,Q131386032,DSNAME6995,Q63925
 "Ṣaghānī, al-Ḥasan ibn Muḥammad, 1181-1252",author,صغاني، الحسن بن محمد، 1181-1252,,human,al-Ḥasan Ibn-Muḥammad Ṣaġānī,Q12186422,DSNAME1784,Q12314
 "Ṣaghānī, al-Ḥasan ibn Muḥammad, 1181-1252",author,صغاني، الحسن بن محمد، 1181-1252,http://id.loc.gov/authorities/names/n84238396 http://id.loc.gov/authorities/names/n84238396 http://viaf.org/viaf/sourceID/LC%7cn84238396,human,al-Ḥasan Ibn-Muḥammad Ṣaġānī,Q12186422,DSNAME1784,Q12314
-"Saghnāqī, al-Ḥusayn ibn ʻAlī, -1311 or 1312",author,,,human,al-Ḥusayn ibn ʻAlī Saghnāqī,Q124746018,DSNAME7019,Q63949
+"Saghnāqī, al-Ḥusayn ibn ʻAlī, -1311 or 1312",author,,,human,al-Ḥusayn ibn ʻAlī Saghnāqī,Q131386047,DSNAME7019,Q63949
 "Sagredo, Gerardo",former owner,,,human,Gerard of Csanád,Q117759,DSNAME8071,Q68775
 "Saher, Hanns von, active 16th century",author,,,human,Hanns von Saher,Q131623258,DSNAME7228,Q67474
 "Ṣāḥib Bahādur, Kurt",author,,,human,Kurt Ṣāḥib Bahādur,Q129453149,DSNAME6182,Q49053
@@ -9722,7 +9722,7 @@ Salem Ben Och Chahri,former owner,,,human,Salem Ben Och Chahri,Q125930881,DSNAME
 "Salgado Correa, Alejo, active 1550-1585",author,,,human,Alejo Salgado Correa,Q131856724,DSNAME7953,Q68563
 "Salguis, Raimundus de",author,,,human,Raymundus de Salgis,Q120599069,DSNAME7972,Q68582
 "Salih bin Yusuf, el-Vehmi",author,صالح بن ىوسف، الوهمى,,human,el-Vehmi Salih bin Yusuf,Q130374957,DSNAME6785,Q54766
-"Ṣāliḥī, Muḥammad ibn Yūsuf, -1536",author,,,human,Muḥammad ibn Yūsuf Ṣāliḥī,Q20422900,DSNAME7043,Q63973
+"Ṣāliḥī, Muḥammad ibn Yūsuf, -1536",author,,,human,Muḥammad ibn Yūsuf Ṣāliḥī,Q131386061,DSNAME7043,Q63973
 Salih ibn Mustafa ibn Ahmad ibn ibn Hasan,scribe,,,human,Salih ibn Mustafa ibn Ahmad ibn ibn Hasan,Q130603044,DSNAME6975,Q55384
 Śālihotra,author,शालिहोत्र,http://id.loc.gov/authorities/names/n2008205965,human,Shalihotra,Q7487204,DSNAME3300,Q28084
 "Salimbeni, Jacopo d. ca. 1427",author,,,human,Jacopo da Sanseverino,Q15633639,DSNAME5178,Q41623
@@ -9815,14 +9815,14 @@ Santo Tomás Aquino in Ávila,former owner,,,organization,Real Monasterio de San
 "Sanvito, Bartolomeo",scribe,,,human,Bartolomeo Sanvito,Q4865517,DSNAME611,Q1846
 "Sanvito, Bartolomeo, 1433-1511",scribe,,,human,Bartolomeo Sanvito,Q4865517,DSNAME611,Q1846
 "Ṣanʻānī, Muḥammad ibn Ismāʻīl, 1688-1768",author,صنعاني، محمد بن اسماعيل، 1688-1768,,human,Muḥammad ibn Ismāʻīl Ṣanʻānī,Q12240084,DSNAME7582,Q67868
-"Sāqizī, Ṣādiq ibn Muḥammad, -1687 or 1688",author,,,human,Ṣādiq ibn Muḥammad Sāqizī,Q124746650,DSNAME6976,Q63906
+"Sāqizī, Ṣādiq ibn Muḥammad, -1687 or 1688",author,,,human,Ṣādiq ibn Muḥammad Sāqizī,Q131386024,DSNAME6976,Q63906
 "Sarakhsī, Muḥammad ibn Muḥammad, d. 1149",author,,,human,Muḥammad ibn Muḥammad Sarakhsī,Q131432226,DSNAME7067,Q63997
 "Sardārzādah-ʼi Afghānistān, Maḥmūd",author,سردارزادۀ افغانستان، محمود,,human,Maḥmūd Sardārzādah-ʼi Afghānistān,Q129453126,DSNAME6167,Q49038
 "Sarfati, Joseph ben Moses, active approximately 1400-1450",author,,,human,Joseph ben Moses Sarfati,Q116577244,DSNAME748,Q2858
 "Sargent, John Singer, 1856-1925",former owner,,,human,John Singer Sargent,Q155626,DSNAME7397,Q67643
 "Sargis, Shnorhali, active 12th century",author,,,human,Shnorhali Sargis,Q127510454,DSNAME6067,Q42759
 "Sarkhābī, Ibrāhīm ibn Yūsuf, active 16th century",scribe,,,human,Ibrāhīm ibn Yūsuf Sarkhābī,Q131748562,DSNAME7791,Q68401
-"Sarkhasī, Muḥammad ibn Muḥammad, -1175 or 1176",author,سرخسي، محمد بن محمد، -1175 or 1176,,human,Muḥammad ibn Muḥammad Sarkhasī,Q6034983,DSNAME7847,Q68457
+"Sarkhasī, Muḥammad ibn Muḥammad, -1175 or 1176",author,سرخسي، محمد بن محمد، -1175 or 1176,,human,Muḥammad ibn Muḥammad Sarkhasī,Q131398936,DSNAME7847,Q68457
 "Śarman, Viṣṇu",scribe,,,human,Vishnu Sharma,Q2743748,DSNAME3588,Q28372
 Śārṅgadhara,author,,http://id.loc.gov/authorities/names/n84110014,human,Śārṅgadhara,Q124252988,DSNAME3400,Q28184
 "Sarrūjī, Aḥmad ibn Ibrāhīm, approximately 1239-approximately 1310",author,,,human,Aḥmad ibn Ibrāhīm Sarrūjī,Q131386087,DSNAME7096,Q64026
@@ -9852,7 +9852,7 @@ Satyāṣāḍha,author,,http://id.loc.gov/authorities/names/n89298417,human,Sat
 "Sayyāḥ, Muḥammad Bāqir ibn Muḥammad Ḥusayn, active 19th century",author,سياح، محمد باقر بن محمد حسىن، active 19th century,,human,Muḥammad Bāqir ibn Muḥammad Ḥusayn Sayyāḥ,Q129453268,DSNAME6252,Q49123
 "Sayyid Muṣṭafá, active 1849",scribe,سيد مصطفى، active 1849،,,human,Sayyid Muṣṭafá,Q114242502,DSNAME3245,Q28029
 "Sayyid Muṣṭafá, active 1849",scribe,سيد مصطفى، active 1849،,,human,Sayyid Muṣṭafá,Q114242502,DSNAME3245,Q28029
-"Sayyid Sharīf, ʻAlī ibn Muḥammad",author,,,human,Ali ibn Mohammed al-Jurjani,Q3063378,DSNAME1750,Q12280
+"Sayyid Sharīf, ʻAlī ibn Muḥammad",author,,,human,ʻAlī ibn Muḥammad Sayyid Sharīf,Q129453549,DSNAME6424,Q49295
 "Sayyid ʻAbd al-Taqī ibn Mīrzā ʻAbd al-Samīʻ al-Ḥusaynī al-Mūsavī al-Shīrāzī, active 1828",scribe,سيد عبد التقى بن ميرزا عبد السميع الحسينى الموسوى الشيرازى، active 1828،,,human,Sayyid ʻAbd al-Taqī ibn Mīrzā ʻAbd al-Samīʻ al-Ḥusaynī al-Mūsavī al-Shīrāzī,Q124130521,DSNAME3261,Q28045
 "Saʻadia ben Joseph, 882-942",author,,,human,Saadia Gaon,Q328748,DSNAME6069,Q42761
 "Sāʻātī, ʻAlī ibn Thaʻlab",former owner,,,human,ʻAlī ibn Thaʻlab Sāʻātī al-Baghdādī,Q116578666,DSNAME733,Q2843
@@ -10163,8 +10163,8 @@ Shīrkhān,author,,,human,Shīrkhān,Q129453142,DSNAME6176,Q49047
 "Shirley, Evelyn Philip, 1812-1882",former owner,,,human,Evelyn Philip Shirley,Q5416444,DSNAME4175,Q40620
 "Shirley, John, 1366?-1456",former owner,,http://id.loc.gov/authorities/names/n98038301,human,John Shirley,Q20926347,DSNAME570,Q1805
 "Shirwānī, Kamāl al-Dīn ibn Āsāyish, active 16th century",author,شرواني، كمال الدين بن آسايش، active 16th century,,human,Kamāl al-Dīn ibn Āsāyish Shirwānī,Q131398940,DSNAME7862,Q68472
-"Shirwānī, Muḥammad al-Amīn ibn Ṣadr al-Dīn, -1626 or 1627",author,شرواني، محمد الامين بن صدر الدين، -1626 أو 1627,,human,al-Shirwānī,Q16118418,DSNAME5216,Q41661
-"Shirwānī, Muḥammad al-Amīn ibn Ṣadr al-Dīn, -1626 or 1627",author,شرواني، محمد الامين بن صدر الدين، -1626 أو 1627,,human,al-Shirwānī,Q16118418,DSNAME5216,Q41661
+"Shirwānī, Muḥammad al-Amīn ibn Ṣadr al-Dīn, -1626 or 1627",author,شرواني، محمد الامين بن صدر الدين، -1626 أو 1627,,human,Muḥammad al-Amīn ibn Ṣadr al-Dīn Shirwānī,Q114242426,DSNAME5216,Q41661
+"Shirwānī, Muḥammad al-Amīn ibn Ṣadr al-Dīn, -1626 or 1627",author,شرواني، محمد الامين بن صدر الدين، -1626 أو 1627,,human,Muḥammad al-Amīn ibn Ṣadr al-Dīn Shirwānī,Q114242426,DSNAME5216,Q41661
 "Shīrwānī, Muḥammad ibn al-Ḥasan, -1687",author,شيرواني، محمد بن الحسن، d. 1687,,human,Muḥammad ibn al-Ḥasan Shīrwānī,Q129453306,DSNAME6276,Q49147
 "Shirwānī, ʻĪsá ibn Aḥmad",author,شرواني، عيسى بن احمد,,human,ʻĪsá ibn Aḥmad Shirwānī,Q129951620,DSNAME6616,Q54247
 Shlomo ben Yehuda ibn Gabirol,former owner,,,human,Solomon ibn Gabirol,Q239355,DSNAME5852,Q42325
@@ -10174,7 +10174,7 @@ Shop assistant to Jean Pichore,artist,,,human,Shop assistant to Jean Pichore,Q12
 "Shrewsbury, Mary Talbot, Countess of, 1557-1632",former owner,,http://id.loc.gov/authorities/names/no2009086260,human,"Mary Talbot, Countess of Shrewsbury",Q83517,DSNAME5219,Q41664
 "Shuckburgh-Evelyn, George Augustus William, Sir, 1751-1804",former owner,,,human,George Shuckburgh-Evelyn,Q3300195,DSNAME7373,Q67619
 "Shukrī, ʻAlī",scribe,شكري، علي,,human,Ali Shukri,Q1871316,DSNAME3146,Q27932
-"Shumunnī, Aḥmad ibn Muḥammad ibn Muḥammad, 1399-1468",author,,,human,Ahmad ibn Muhammad ibn Muhammad Shumunni,Q28713188,DSNAME6655,Q54286
+"Shumunnī, Aḥmad ibn Muḥammad ibn Muḥammad, 1399-1468",author,,,human,Ahmad ibn Muhammad ibn Muhammad Shumunni,Q28715204,DSNAME6655,Q54286
 "Shurunbulālī, Ḥasan ibn ʻAmmār, 1585 or 1586-1659",author,شرنبلالي، حسن بن عمار، 1585 or 1586-1659,http://id.loc.gov/authorities/names/n90712577,human,Hasan Ibn e Ammar Al-Shurunbulali,Q25452012,DSNAME1955,Q12485
 "Shūshtarī, Jaʻfar ibn al-Ḥusayn, -1885 or 1886",author,شوشتري، جعفر بن الحسين، -1885 or 1886,,human,Jaʻfar ibn al-Ḥusayn Shūshtarī,Q129453451,DSNAME6369,Q49240
 "Shushtarī, Nūr Allāh ibn ʻAbd Allāh, -1610 or 1611",author,ششتري، نور الله بن عبد الله، -1610 or 1611,,human,Nurullah Shustari,Q4164181,DSNAME6238,Q49109
@@ -10263,7 +10263,7 @@ Sinibaldi Fieschi,other,,,human,Sinibaldi Fieschi,Q117351868,DSNAME481,Q1645
 Sion College. Library,former owner,,http://id.loc.gov/authorities/names/n84051753,organization,Sion College,Q7525349,DSNAME5601,Q42046
 "Sipahizade Mehmet bin Ali, d. 1588 or 9",author,,,human,Sipahizade Mehmet bin Ali,Q129951566,DSNAME6568,Q54199
 "Sipahizade Mehmet bin Ali, d. 1588 or 9",author,سباهي زادة محمد بن علي,,human,Sipahizade Mehmet bin Ali,Q129951566,DSNAME6568,Q54199
-"Sipahsālār, Farīdūn ibn Aḥmad",author,سپهسالار، فريدون بن احمد,,human,Farīdūn ibn Aḥmad Sipahsālār,Q118947511,DSNAME6254,Q49125
+"Sipahsālār, Farīdūn ibn Aḥmad",author,سپهسالار، فريدون بن احمد,,human,Farīdūn ibn Aḥmad Sipahsālār,Q129453272,DSNAME6254,Q49125
 "Sir (Robert) Leicester Harmsworth (1870-1937); his sale, Sotheby’s, 15 October 1945, lot 2089; George A. Poole, bought from Lawrence Witten, 1957; acquired by the Lilly Library with the Poole collection in 1958",former owner,,,human;human;human,Leicester Harmsworth;Laurence Claiborne Witten II;George Amos Poole,Q6519187;Q6500535;Q64683625,DSNAME574;DSNAME575;DSNAME360,Q1809;Q1810;Q1524
 "Sir (Robert) Leicester Harmsworth (1870-1937); his sale, Sotheby’s, 15 October 1945, lot 2089; George A. Poole, bought from Lawrence Witten, 1957; acquired by the Lilly Library with the Poole collection in 1958.",former owner,,,human;human;human,Leicester Harmsworth;Laurence Claiborne Witten II;George Amos Poole,Q6519187;Q6500535;Q64683625,DSNAME574;DSNAME575;DSNAME360,Q1809;Q1810;Q1524
 "Sīrāfī, al-Ḥasan ibn ʻAbd Allāh, approximately 893-approximately 979",author,سيرافي، الحسن بن عبد الله، approximately 893-approximately 979,,human,Hasan ibn ʻAbd Allah al-Sirafi,Q20384183,DSNAME5234,Q41679
@@ -10510,7 +10510,7 @@ Strabo,author,,,human,Strabo,Q45936,DSNAME5277,Q41722
 "Strong, George Templeton, 1820-1875",former owner,,,human,George Templeton Strong,Q339946,DSNAME1474,Q7635
 "Strong, George Templeton, 1820-1875",former owner,,http://id.loc.gov/authorities/names/n50010502,human,George Templeton Strong,Q339946,DSNAME1474,Q7635
 "Strouse, Norman H",former owner,,,human,Norman H. Strouse,Q56000538,DSNAME290,Q903
-Strozzi family,former owner,,,organization,House of Strozzi,Q1151399,DSNAME2350,Q16651
+Strozzi family,former owner,,,organization,Strozzi family,Q1151399,DSNAME2350,Q16651
 "St-Sépulcre (Abbey : Cambrai, France)",former owner,,,organization,Cambrai Cathedral,Q1344947,DSNAME5609,Q42054
 "Stuart, Bérault seigneur d'Aubigny ca. 1452-1508",author,,,human,"Bernard Stewart, 3rd Lord of Aubigny",Q2747051,DSNAME5279,Q41724
 "Stuart, Bérault seigneur d'Aubigny ca. 1452-1508.",author,,,human,"Bernard Stewart, 3rd Lord of Aubigny",Q2747051,DSNAME5279,Q41724
@@ -10525,7 +10525,7 @@ Studio of Niccolò da Bologna,illuminator,,,human,Niccolò da Bologna,Q1769484,
 "Subkī, Taqī al-Dīn ʻAlī ibn ʻAbd al-Kāfī, 1284-1355",author,سبكي، تقي الدين علي بن عبد الكافي، 1284-1355,,human,Taqi al-Din al-Subki,Q12202948,DSNAME5281,Q41726
 "Ṣubūjahʹwī, Muḥammad ibn Muḥammad, -1758 or 1759",author,,,human,Muḥammad ibn Muḥammad Ṣubūjahʹwī,Q129951564,DSNAME6567,Q54198
 "Ṣubūjahʹwī, Muḥammad ibn Muḥammad, -1758 or 1759.",author,,,human,Muḥammad ibn Muḥammad Ṣubūjahʹwī,Q129951564,DSNAME6567,Q54198
-"Ṣubunrī, Mahdī ibn ʻAlī, -approximately 1412 or 1413",author,صبنري، مهدي بن علي، -approximately 1412 or 1413,,human,Mahdī ibn ʻAlī Ṣubunrī,Q124773622,DSNAME7736,Q68346
+"Ṣubunrī, Mahdī ibn ʻAlī, -approximately 1412 or 1413",author,صبنري، مهدي بن علي، -approximately 1412 or 1413,,human,Mahdī ibn ʻAlī Ṣubunrī,Q131398900,DSNAME7736,Q68346
 "Sucher, Hermann",former owner,,,human,Hermann Suchier,Q109415,DSNAME1384,Q5125
 "Suchier, Hermann, 1848-1914",former owner,,,human,Hermann Suchier,Q109415,DSNAME1384,Q5125
 "Suchier, Hermann, 1848-1914",former owner,,http://id.loc.gov/authorities/names/nr97017881,human,Hermann Suchier,Q109415,DSNAME1384,Q5125
@@ -10541,7 +10541,7 @@ Suetonius ca. 69-ca. 122.,author,,,human,Suetonius,Q10133,DSNAME584,Q1819
 "Suhaylī, ʻAbd al-Raḥmān ibn ʻAbd Allāh, 1114 or 1115-1185",author,سهيلي، عبد الرحمن بن عبد الله,,human,Al-Suhayli,Q4703267,DSNAME1764,Q12294
 "Suhaylī, ʻAbd al-Raḥmān ibn ʻAbd Allāh, 1114 or 1115-1185",author,سهيلي، عبد الرحمن بن عبد الله,,human,Al-Suhayli,Q4703267,DSNAME1764,Q12294
 "Suhaylī, ʻAbd al-Raḥmān ibn ʻAbd Allāh, 1114 or 1115-1185",author,سهيلي، عبد الرحمن بن عبد الله، 1114 or 1115-1185,http://id.loc.gov/authorities/names/n85230420,human,Al-Suhayli,Q4703267,DSNAME1764,Q12294
-"Suḥaymī, Aḥmad ibn Muḥammad, -1764",author,سحيمي، احمد بن محمد، -1764,,human,Aḥmad ibn Muḥammad Suḥaymī,Q125098103,DSNAME7769,Q68379
+"Suḥaymī, Aḥmad ibn Muḥammad, -1764",author,سحيمي، احمد بن محمد، -1764,,human,Aḥmad ibn Muḥammad Suḥaymī,Q131398911,DSNAME7769,Q68379
 "Sūjan Rāʼi, active 1690-1698",author,,,human,Sūjan Rāʼi,Q129453536,DSNAME6415,Q49286
 "Sujāʻī, Aḥmad ibn Aḥmad, -1783",author,سجاعي، احمد بن احمد، -1783,,human,Aḥmad ibn Aḥmad Sujāʻī,Q122947967,DSNAME1792,Q12322
 "Sujāʻī, Aḥmad ibn Aḥmad, -1783",author,سجاعي، احمد بن احمد، -1783؟,,human,Aḥmad ibn Aḥmad Sujāʻī,Q122947967,DSNAME1792,Q12322
@@ -10638,7 +10638,7 @@ Syrian Orthodox Church,author,,,organization,Syriac Orthodox Church,Q210540,DSNA
 Sırrı Ali Efendi,author,سرى على افندى,,human,Sırrı Ali Efendi,Q130374934,DSNAME6740,Q54721
 T. Harrison Garrett (d. 1888),former owner,,,human,Thomas Harrison Garrett,Q73896539,DSNAME5290,Q41735
 T. Harrison Garrett (d. 1888).,former owner,,,human,Thomas Harrison Garrett,Q73896539,DSNAME5290,Q41735
-"Ṭabalāwī, Muḥammad ibn Sālim, -1559",author,طبلاوي، محمد بن سالم، -1559,,human,Muḥammad ibn Sālim Ṭabalāwī,Q20423686,DSNAME7708,Q68318
+"Ṭabalāwī, Muḥammad ibn Sālim, -1559",author,طبلاوي، محمد بن سالم، -1559,,human,Muḥammad ibn Sālim Ṭabalāwī,Q131398892,DSNAME7708,Q68318
 "Ṭabarī, 838?-923",author,طبري، 838?-923,,human,Ali ibn Sahl Rabban al-Tabari,Q1393417,DSNAME6860,Q54841
 "Ṭabarī, Muḥibb al-Dīn Aḥmad ibn ʻAbd Allāh, 1218-1295",author,طبري، محب الدين احمد بن عبد الله، 1218-1295,,human,Muhibb al-Din al-Ṭabari,Q27892940,DSNAME5291,Q41736
 "Ṭabarī, ʻAbd al-Qādir ibn Muḥammad, 1568 or 1569-1623 or 1624",author,طبري، عبد القادر بن محمد، 1568 or 1569-1623 or 1624,http://id.loc.gov/authorities/names/nr91022340,human,Abd al-Qadir al-Tabari,Q86075470,DSNAME1773,Q12303
@@ -10731,7 +10731,7 @@ Tartaleoni family,author,,,organization,Tartaleoni family,Q116709427,DSNAME1543,
 "Taylor, John, 1704-1766",former owner,,http://id.loc.gov/authorities/names/n85067434,human,John Taylor,Q3182566,DSNAME5299,Q41744
 "Taylor, Thomas, Sir",former owner,,,human,Thomas Taylor,Q76374589,DSNAME2499,Q17708
 "Taylor, Virginia, 1898-1983",former owner,,,human,Virginia Taylor,Q120442586,DSNAME1273,Q6152
-"Taymūr Mīrzā, Prince, grandson of Fatḥ ʻAlī Shāh, Shah of Iran, -1874 or 1875",author,تىمور مىرزا، شاهزاده، نوه فتح على شاه، شاه ايران، -1874 or 1875,,human,Teymur Mirza Qajar,Q129453257,DSNAME6244,Q49115
+"Taymūr Mīrzā, Prince, grandson of Fatḥ ʻAlī Shāh, Shah of Iran, -1874 or 1875",author,تىمور مىرزا، شاهزاده، نوه فتح على شاه، شاه ايران، -1874 or 1875,,human,Prince Taymūr Mīrzā,Q129453257,DSNAME6244,Q49115
 "Tāzī, Muḥammad ibn Aḥmad, 18th/19th cent",author,,,human,Muḥammad ibn Aḥmad Tāzī,Q129951499,DSNAME6525,Q54156
 "Ṭāʼī, Muḥammad ibn Muḥammad, -1160",author,,,human,Alṭaaāʼī,Q125099326,DSNAME7496,Q67782
 "Ṭāʼī, Muṣṭafá ibn Muḥammad, 1725 or 1726-1778",author,طائي، مصطفى بن محمد,,human,Muṣṭafá ibn Muḥammad Ṭāʼī,Q131386107,DSNAME7126,Q64056
@@ -11003,8 +11003,8 @@ Trotula,author,,,human,Trota of Salerno,Q16206163,DSNAME5340,Q41785
 "Trujillo, Gabriel de",author,,,human,Gabriel de Trujillo,Q127510462,DSNAME6080,Q42772
 "Tryambaka Māṭe, active 19th century",author,,http://id.loc.gov/authorities/names/no2001043094,human,Tryambaka Māṭe,Q113821021,DSNAME3533,Q28317
 "Tschudin, Christopher, active 1615",former owner,,,human,Christopher Tschudin,Q124566965,DSNAME5341,Q41786
-"Tuberinus, Joannes Mathias",author,,,human,Johannes Matthias Tiberinus,Q1624183,DSNAME5342,Q41787
-"Tuberinus, Joannes Mathias.",author,,,human,Johannes Matthias Tiberinus,Q1624183,DSNAME5342,Q41787
+"Tuberinus, Joannes Mathias",author,,,human,Giovanni Mattia Tabarino,Q100153512,DSNAME5342,Q41787
+"Tuberinus, Joannes Mathias.",author,,,human,Giovanni Mattia Tabarino,Q100153512,DSNAME5342,Q41787
 "Tucker, Josiah, 1712-1799",author,,,human,Josiah Tucker,Q3186047,DSNAME6081,Q42773
 "Ṭughrā-yi Mashhadī, active 17th century",author,طغراى مشهدى،,,human,Ṭughrā-yi Mashhadī,Q123581802,DSNAME2666,Q18713
 "Ṭughrāʼī, al-Ḥusayn ibn ʻAlī, 1061 or 1062-1121",author,طغرائي، الحسين بن علي، 1061 or 1062-1121,,human,Al-Tughrai,Q4164865,DSNAME1798,Q12328
@@ -11085,7 +11085,7 @@ Uguccione da Pisa,author,,,human,Huguccio,Q4002974,DSNAME5351,Q41796
 Uguccioni family,author,,,organization,Uguccioni family,Q116710057,DSNAME1673,Q8242
 "Ugurgieri, Perna degli",associated name,,,human,Perna degli Ugurgieri,Q120442588,DSNAME5352,Q41797
 "Ujhūrī, ʻAbd al-Barr ibn Muḥammad, d. 1659 or 60",author,,,human,ʻAbd al-Barr ibn Muḥammad Ujhūrī,Q129951676,DSNAME6648,Q54279
-"Ujhūrī, ʻAlī ibn Muḥammad, 1559 or 1560-1656",author,اجهوري، علي بن محمد، 1559 or 1560-1656,,human,ʻAlī ibn Muḥammad Ujhūrī,Q54862121,DSNAME7773,Q68383
+"Ujhūrī, ʻAlī ibn Muḥammad, 1559 or 1560-1656",author,اجهوري، علي بن محمد، 1559 or 1560-1656,,human,ʻAlī ibn Muḥammad Ujhūrī,Q131398913,DSNAME7773,Q68383
 Ujjvaladatta,author,,http://id.loc.gov/authorities/names/n80150879,human,Ujjvaladatta,Q124252953,DSNAME3546,Q28330
 "Ūkhrawī, Yūsuf Ḍiyāʼ al-Dīn ibn Muḥammad Shākir, active 19th century",scribe,اوخروي، يوسف ضياء الدين بن محمد شاكر، active 19th century,,human,Yūsuf Ḍiyāʼ al-Dīn ibn Muḥammad Shākir Ūkhrawī,Q129951537,DSNAME6551,Q54182
 Ulpius Portensi,other,,,human,Ulpius Portensi,Q121956709,DSNAME377,Q1541
@@ -11199,7 +11199,7 @@ Valescus de Tarenta,author,,,human,Velasco de Taranta,Q326742,DSNAME5874,Q42347
 "Vallentin, James",former owner,,,human,James Vallentin,Q122873537,DSNAME2931,Q20246
 Vālmīki,author,,http://id.loc.gov/authorities/names/n80036601,human,Valmiki,Q715607,DSNAME3322,Q28106
 Valperga (Italy),author,,,organization,Valperga,Q10335,DSNAME1540,Q7905
-"Val-Saint-Esprit (Monastery : Gosnay, France)",former owner,,,organization,Chartreuse de Val-Saint-Esprit,Q22961839,DSNAME5616,Q42061
+"Val-Saint-Esprit (Monastery : Gosnay, France)",former owner,,,organization,chartreuse de Val-Saint-Esprit,Q22961839,DSNAME5616,Q42061
 Vāmana,author,,,human,Vāmana,Q105430992,DSNAME3498,Q28282
 "Vāmana, Paṇḍita, active 17th century",author,,http://id.loc.gov/authorities/names/n85097110,human,Vāmanapaṇḍita,Q113796181,DSNAME3577,Q28361
 "Van Antwerp, William C. 1867-1938",former owner,,,human,William C. van Antwerp,Q120752896,DSNAME5359,Q41804
@@ -11554,8 +11554,8 @@ Willem Gilliszoon van Wissekerke (Guilelmus Aegidii de Zelandia),author,,,human,
 "William, son of Richard of Normanton",author,,,human,William Normanton,Q21554505,DSNAME5412,Q41857
 William Bagshaw,author,,,human,William Bagshaw,Q8004926,DSNAME5413,Q41858
 William Bishop of Achaden,author,,,human,William Bishop of Achaden,Q131623270,DSNAME7239,Q67485
-"William Bragge (1823-1884); his sale, Sotheby’s, 7 June 1876, lot 237, to Quaritch (his cat. 31, June 1876, no. 87); John Ruskin (1819-1900), inscribed by him to Lawrence Hilliard, Brantwood, 25 January 1881; William K. Bixby (1857-1931)",former owner,,,human;human;human;human,William Bragge;John Ruskin;Lawrence Hilliard;William Keeney Bixby,Q15453218;Q179126;Q98594645;Q24900668,DSNAME615;DSNAME463;DSNAME8517;DSNAME502,Q1850;Q1627;Q75935;Q1666
-"William Bragge (1823-1884); his sale, Sotheby’s, 7 June 1876, lot 237, to Quaritch (his cat. 31, June 1876, no. 87); John Ruskin (1819-1900), inscribed by him to Lawrence Hilliard, Brantwood, 25 January 1881; William K. Bixby (1857-1931);",former owner,,,human;human;human;human,William Bragge;John Ruskin;Lawrence Hilliard;William Keeney Bixby,Q15453218;Q179126;Q98594645;Q24900668,DSNAME615;DSNAME463;DSNAME8517;DSNAME502,Q1850;Q1627;Q75935;Q1666
+"William Bragge (1823-1884); his sale, Sotheby’s, 7 June 1876, lot 237, to Quaritch (his cat. 31, June 1876, no. 87); John Ruskin (1819-1900), inscribed by him to Lawrence Hilliard, Brantwood, 25 January 1881; William K. Bixby (1857-1931)",former owner,,,human;human;human;human,William Bragge;John Ruskin;Lawrence Hilliard;William Keeney Bixby,Q15453218;Q179126;Q98594645;Q24900668,DSNAME615;DSNAME463;DSNAME502;DSNAME502,Q1850;Q1627;Q1666;Q1666
+"William Bragge (1823-1884); his sale, Sotheby’s, 7 June 1876, lot 237, to Quaritch (his cat. 31, June 1876, no. 87); John Ruskin (1819-1900), inscribed by him to Lawrence Hilliard, Brantwood, 25 January 1881; William K. Bixby (1857-1931);",former owner,,,human;human;human;human,William Bragge;John Ruskin;Lawrence Hilliard;William Keeney Bixby,Q15453218;Q179126;Q98594645;Q24900668,DSNAME615;DSNAME463;DSNAME502;DSNAME502,Q1850;Q1627;Q1666;Q1666
 "William Bragge (1823-1884); his sale, Sotheby’s, 7 June 1876, lot 237, to Quaritch (his cat. 31, June 1876, no. 87); John Ruskin (1819-1900), inscribed by him to Lawrence Hilliard, Brantwood, 25 January 1881; William K. Bixby (1857-1931); his sale, Anderson, New York, 29 March 1916, lot 743",former owner,,,human;organization;human;human,William Bragge;Bernard Quaritch Ltd;John Ruskin;William Keeney Bixby,Q15453218;Q65034936;Q179126;Q24900668,DSNAME615;DSNAME279;DSNAME463;DSNAME502,Q1850;Q892;Q1627;Q1666
 "William Bragge (1823-1884); his sale, Sotheby’s, 7 June 1876, lot 237, to Quaritch (his cat. 31, June 1876, no. 87); John Ruskin (1819-1900), inscribed by him to Lawrence Hilliard, Brantwood, 25 January 1881; William K. Bixby (1857-1931); his sale, Anderson, New York, 29 March 1916, lot 743,",former owner,,,human;organization;human;human,William Bragge;Bernard Quaritch Ltd;John Ruskin;William Keeney Bixby,Q15453218;Q65034936;Q179126;Q24900668,DSNAME615;DSNAME279;DSNAME463;DSNAME502,Q1850;Q892;Q1627;Q1666
 William Chmurny,former owner,,,human,William Chmurny,Q125930898,DSNAME5876,Q42349
@@ -11625,7 +11625,7 @@ William Trench,former owner,,,human,William Trench,Q125930900,DSNAME5880,Q42353
 "Wing, C. W. (Charles William) fl. 1826-1860",author,,,human,Charles William Wing,Q115182706,DSNAME2865,Q20182
 "Wing, C. W. (Charles William) fl. 1826-1860.",author,,,human,Charles William Wing,Q115182706,DSNAME2865,Q20182
 "Wing, C. W. active 1826-1860",artist,,http://id.loc.gov/authorities/names/nr00014467,human,Charles William Wing,Q115182706,DSNAME2865,Q20182
-Winifred A. Myers (Autographs) Ltd,former owner,,,organization,Winifred A. Myers Autographs Ltd,Q125716633,DSNAME2228,Q1658
+Winifred A. Myers (Autographs) Ltd,former owner,,,organization,Winifred Myers,Q112509951,DSNAME2228,Q1658
 "Winsor, Jacob",former owner,,,human,Jacob Winsor,Q116649701,DSNAME751,Q2861
 "Winter, George",former owner,,,human,George Winter,Q131863661,DSNAME8118,Q68822
 "Winthrop, Robert C",former owner,,,human,Robert Charles Winthrop,Q1375119,DSNAME5427,Q41872
@@ -11767,9 +11767,9 @@ Zachariah ben Yosef Alkarni,former owner,,,human,Zachariah ben Yosef Alkarni,Q12
 "Zagayski, Michael M",former owner,,,human,Michael M. Zagayski,Q124566981,DSNAME5448,Q41893
 "Zāhid, Aḥmad ibn Muḥammad, -1416",author,,http://id.loc.gov/authorities/names/n2012000135,human,Aḥmad ibn Muḥammad Zāhid,Q114242405,DSNAME5449,Q41894
 "Zāhid, Aḥmad ibn Muḥammad, -1416",author,,http://id.loc.gov/authorities/names/n2012000135,human,Aḥmad ibn Muḥammad Zāhid,Q114242405,DSNAME5449,Q41894
-"Zāhidī al-Ghazmīnī, Mukhtār ibn Maḥmūd, -1259 or 1260",author,زاهدي الغزميني، مختار بن محمود,,human,Mukhtār ibn Maḥmūd Zāhidī al-Ghazmīnī,Q54875311,DSNAME7003,Q63933
-"Zāhidī al-Ghazmīnī, Mukhtār ibn Maḥmūd, -1259 or 1260",author,,,human,Mukhtār ibn Maḥmūd Zāhidī al-Ghazmīnī,Q54875311,DSNAME7003,Q63933
-"Zāhidī al-Ghazmīnī, Mukhtār ibn Maḥmūd, -1259 or 1260.",author,,,human,Mukhtār ibn Maḥmūd Zāhidī al-Ghazmīnī,Q54875311,DSNAME7003,Q63933
+"Zāhidī al-Ghazmīnī, Mukhtār ibn Maḥmūd, -1259 or 1260",author,زاهدي الغزميني، مختار بن محمود,,human,Mukhtār ibn Maḥmūd Zāhidī al-Ghazmīnī,Q131386036,DSNAME7003,Q63933
+"Zāhidī al-Ghazmīnī, Mukhtār ibn Maḥmūd, -1259 or 1260",author,,,human,Mukhtār ibn Maḥmūd Zāhidī al-Ghazmīnī,Q131386036,DSNAME7003,Q63933
+"Zāhidī al-Ghazmīnī, Mukhtār ibn Maḥmūd, -1259 or 1260.",author,,,human,Mukhtār ibn Maḥmūd Zāhidī al-Ghazmīnī,Q131386036,DSNAME7003,Q63933
 "Ẓahīr, Muḥammad ibn Fatá, active 14th century",author,ظهير، محمد بن فتى، active 14th century,,human,Muḥammad ibn Fatá Ẓahīr,Q131398941,DSNAME7864,Q68474
 "Ẓahīr Fāryābī, Abū al-Faz̤l Ṭāhir ibn Muḥammad, -1201 or 1202",author,,,human,Zahir-al-Din Faryabi,Q3275850,DSNAME6094,Q42786
 "Ẓāhirī, Jamāl al-Dīn Aḥmad ibn Muḥammad , 1229-1296",author,,,human,Jamāl al-Dīn Aḥmad ibn Muḥammad Ẓāhirī,Q131575237,DSNAME7560,Q67846
@@ -11805,8 +11805,8 @@ Zāwiyah al-Nāṣiriyah,former owner,,,human,Zāwiyah al-Nāṣiriyah,Q11664943
 Zāwiyah al-Nāṣiriyah,former owner,,http://id.loc.gov/authorities/names/no2007068112,human,Zāwiyah al-Nāṣiriyah,Q116649436,DSNAME910,Q3749
 Ẕawqī Laʻl,author,,,human,Ẕawqī Laʻl,Q127510499,DSNAME6095,Q42787
 "Zawzanī, Ḥusayn ibn Aḥmad, -1093 or 1094",author,زوزني، حسين بن احمد,,human,Ḥusayn ibn Aḥmad Zawzanī,Q129951726,DSNAME6685,Q54316
-"Zaylaʻī, ʻUthmān ibn ʻAlī, -1342 or 1343",author,زيلعي، عثمان بن علي,,human,Uthman bin Ali Zayla'i,Q7902728,DSNAME7000,Q63930
-"Zaylaʻī, ʻUthmān ibn ʻAlī, -1342 or 1343",author,,,human,Uthman bin Ali Zayla'i,Q7902728,DSNAME7000,Q63930
+"Zaylaʻī, ʻUthmān ibn ʻAlī, -1342 or 1343",author,زيلعي، عثمان بن علي,,human,ʻUthmān ibn ʻAlī Zaylaʻī,Q131386034,DSNAME7000,Q63930
+"Zaylaʻī, ʻUthmān ibn ʻAlī, -1342 or 1343",author,,,human,ʻUthmān ibn ʻAlī Zaylaʻī,Q131386034,DSNAME7000,Q63930
 "Zayn al-ʻĀbidīn ibn Bakr, active 18th century",scribe,زين العابدين بن بكر، active 18th century,,human,Zayn al-ʻĀbidīn ibn Bakr,Q131748507,DSNAME7705,Q68315
 "Zayn al-ʻArab, ʻAlī ibn ʻUbayd Allāh, 14th cent",author,,,human,ʻAlī ibn ʻUbayd Allāh Zayn al-ʻArab,Q121322793,DSNAME7529,Q67815
 "Zaynī, Muḥammad ibn Maḥmūd, fl. 1613",author,,,human,Muḥammad ibn Maḥmūd Zaynī,Q114242473,DSNAME5452,Q41897
@@ -11826,7 +11826,7 @@ Zenonus de Tergulina,scribe,,,human,Zenonus de Tergulina,Q117463758,DSNAME243,Q8
 "Zhu, You, 1314-1376",author,"朱右, 1314-1376",http://id.loc.gov/authorities/names/nr93015619,human,Zhu You,Q10329934,DSNAME2054,Q12863
 "Zhu, Zhe, 1486-1552",author,"朱淛, 1482-1552",http://id.loc.gov/authorities/names/no2003001701,human,Zhu Zhe,Q11094356,DSNAME2056,Q12865
 "Zībārī, Ḥasan ibn Muḥammad",author,,,human,Ḥasan ibn Muḥammad Zībārī,Q129951569,DSNAME6572,Q54203
-"Zīlī, Aḥmad ibn Muḥammad, -1600 or 1601",author,,,human,Aḥmad ibn Muḥammad Zīlī,Q125098094,DSNAME7012,Q63942
+"Zīlī, Aḥmad ibn Muḥammad, -1600 or 1601",author,,,human,Aḥmad ibn Muḥammad Zīlī,Q131386044,DSNAME7012,Q63942
 "Zīrānī, Muḥammad ibn ʻUthmān, active 1881",scribe,زيراني، محمد بن عثمان، active 1881,,human,Muḥammad ibn ʻUthmān Zīrānī,Q124130537,DSNAME3168,Q27953
 "Zoccho, Gabriel",author,,,human,Gabriel Zoccho,Q124566983,DSNAME5454,Q41899
 "Zonaras, Joannes, active 12th century",author,,,human,John Zonaras,Q32052,DSNAME1261,Q6140
@@ -11838,8 +11838,8 @@ Zenonus de Tergulina,scribe,,,human,Zenonus de Tergulina,Q117463758,DSNAME243,Q8
 "Zuccaro, Nello, active 20th century",former owner,,,human,"Zuccaro, Nello, active 20th century",Q123274825,DSNAME2378,Q16678
 "Zuccati, Giovanni Battista",author,,,human,Giovanni Battista Zuccato,Q23622004,DSNAME1151,Q5143
 "Zucchero Bencivenni, translator from French to Italian",other,,,human,Zucchero Bencivenni,Q4024905,DSNAME5456,Q41901
-"Ẓuhūrī, Nūr al-Dīn Muḥammad, 1537 or 1538-1616 or 1617",author,ظهورى، نور الدىن محمد، 1537 or 8-1616 or 17,,human,Zuhuri Torshizi,Q62567020,DSNAME6443,Q49314
-"Ẓuhūrī, Nūr al-Dīn Muḥammad, 1537 or 1538-1616 or 1617",author,ظهورى، نور الدىن محمد، 1537 or 1538-1616 or 1617,,human,Zuhuri Torshizi,Q62567020,DSNAME6443,Q49314
+"Ẓuhūrī, Nūr al-Dīn Muḥammad, 1537 or 1538-1616 or 1617",author,ظهورى، نور الدىن محمد، 1537 or 8-1616 or 17,,human,Nūr al-Dīn Muḥammad Ẓuhūrī,Q129453141,DSNAME6443,Q49314
+"Ẓuhūrī, Nūr al-Dīn Muḥammad, 1537 or 1538-1616 or 1617",author,ظهورى، نور الدىن محمد، 1537 or 1538-1616 or 1617,,human,Nūr al-Dīn Muḥammad Ẓuhūrī,Q129453141,DSNAME6443,Q49314
 "Zulf-nigār, Muḥammad ibn ʻAbd al-Karī, d. 1557",author,,,human,Muḥammad ibn ʻAbd al-Karī Zulf-nigār,Q129951688,DSNAME6658,Q54289
 "Zumárraga, Juan de, 1468-1548",author,,,human,Juan de Zumárraga,Q442901,DSNAME7255,Q67501
 "zu Reitheim, Johannes",former owner,,,human,Johannes zu Reitheim,Q114242471,DSNAME2532,Q17740
@@ -11918,7 +11918,7 @@ Zenonus de Tergulina,scribe,,,human,Zenonus de Tergulina,Q117463758,DSNAME243,Q8
 "ʻAjlūnī, Ismāʻīl ibn Muḥammad, 1676 or 1677-1748 or 1749",author,,,human,Ismāʻīl ibn Muḥammad al-ʻAjlūnī,Q12182256,DSNAME7005,Q63935
 "ʻAlawī, ʻAlī",scribe,علوى، على,,human,ʻAlī ʻAlawī,Q124130541,DSNAME3139,Q27925
 "ʻAlāʼ al-Dīn Aḥmad Khān Bahādur , active 1856",former owner,علاو الدين احمد خان بهادر،,,human,ʻAlāʼ al-Dīn Aḥmad Khān Bahādur,Q123581794,DSNAME2652,Q18700
-"ʻAlāʼ al-Dīn al-Ṭarābulusī, ʻAlī ibn Muḥammad, 1544-1623",author,,,human,ʻAlāʼ al-Dīn al-Ṭarābulusī,Q124768471,DSNAME7075,Q64005
+"ʻAlāʼ al-Dīn al-Ṭarābulusī, ʻAlī ibn Muḥammad, 1544-1623",author,,,human,ʻAlī ibn Muḥammad ʻAlāʼ al-Dīn al-Ṭarābulusī,Q131386078,DSNAME7075,Q64005
 "ʻAlāʼī, Khalīl ibn Kaykaldī, 1295-1359",author,علائي، خليل بن كيكلدي، 1295-1359,,human,Ṣalāḥ al-Dīn al-ʻAlāʾī,Q12190370,DSNAME1920,Q12450
 "ʻAlāʼilī, Muṣṭafá ibn Ḥasan al-ʻAlāʼilī, active 17th century",scribe,علائلي، مصطفى بن حسن العلائلي، active 17th century,,human,Muṣṭafá ibn Ḥasan al-ʻAlāʼilī ʻAlāʼilī,Q131690047,DSNAME7485,Q67771
 "ʻAlāʼīyawī, Ṣanʻ Allāh ibn ʻAlī, d. 1724 or 5",author,,,human,Ṣanʻ Allāh ibn ʻAlī ʻAlāʼīyawī,Q131432213,DSNAME6994,Q63924
@@ -11930,7 +11930,7 @@ Zenonus de Tergulina,scribe,,,human,Zenonus de Tergulina,Q117463758,DSNAME243,Q8
 "ʻAlī ibn al-Dhahab, Shaykh",scribe,علي بن الذهب، شيخ,,human,Shaykh 'Alī ibn al-Dhahab,Q114242481,DSNAME3117,Q27904
 "ʻAlī ibn Ḥakīm Tirmiz̲ī, active 1432",scribe,على بن حظيم ترمذى، active 1432،,,human,ʻAlī ibn Ḥakīm Tirmiz̲ī,Q124130545,DSNAME3256,Q28040
 ʻAlī ibn Ḥamzah,illuminator,علي بن حمزة,,human,ʻAlī ibn Ḥamzah,Q124130546,DSNAME3145,Q27931
-"ʻAlī Ibrāhīm Khān, -1793 or 1794",author,على ابراهىم خان، -1793 or 1794,,human,Ali Ibrahim Khan,Q129453323,DSNAME6287,Q49158
+"ʻAlī Ibrāhīm Khān, -1793 or 1794",author,على ابراهىم خان، -1793 or 1794,,human,ʻAlī Ibrāhīm Khān,Q129453323,DSNAME6287,Q49158
 ʻAlī Khān ibn Ibrāhīm,author,على خان بن ابراهىم,,human,ʻAlī Khān ibn Ibrāhīm,Q129453088,DSNAME6145,Q49016
 "ʻĀlim ibn ʻAlāʼ, -1384 or 1385",author,,,human,ʻĀlim ibn ʻAlāʼ,Q105895174,DSNAME7098,Q64028
 "ʻAlī Muḥammad Khān, 1700?-",author,على محمد خان، 1700-,,human,ʻAlī Muḥammad Khān,Q129453062,DSNAME6127,Q48998
@@ -11987,7 +11987,7 @@ Zenonus de Tergulina,scribe,,,human,Zenonus de Tergulina,Q117463758,DSNAME243,Q8
 "ʻAythāwī, Muḥammad ibn Muḥammad",author,عيثاوي، محمد بن محمد,,human,Muḥammad ibn Muḥammad ʻAythāwī,Q131575241,DSNAME7569,Q67855
 "ʻAẓim Allāh Khān, Amīr Bahādur Jank",former owner,عظم الله خان،,,human,Amīr Bahādur Jank ʻAẓim Allāh Khān,Q123581795,DSNAME2582,Q18630
 "ʻAzīzī, Muḥammad ibn Muḥammad, active 18th century",scribe,عزيزي، محمد بن محمد، active 18th century,,human,Muḥammad ibn Muḥammad ʻAzīzī,Q131748544,DSNAME7763,Q68373
-"ʻAzīzī, ʻAlī ibn Aḥmad, -1659 or 1660",author,,,human,ʻAlī ibn Aḥmad ʻAzīzī,Q63406350,DSNAME7503,Q67789
+"ʻAzīzī, ʻAlī ibn Aḥmad, -1659 or 1660",author,,,human,ʻAlī ibn Aḥmad ʻAzīzī,Q131690061,DSNAME7503,Q67789
 "ʻAẓmī, Muḥammad Asʻad ibn Aḥmad, 1820 or 1821-1881 or 1882",author,,,human,Muḥammad Asʻad ibn Aḥmad ʻAẓmī,Q129951588,DSNAME6587,Q54218
 "ʻAzmīʹzādah, Muṣṭafá ibn Muḥammad, 1569 or 1570-1630 or 1631",author,عزمي زادة، مصطفى بن محمد، 1569 or 1570-1630 or 1631,,human,Muṣṭafá ibn Muḥammad ʻAzmīʹzādah,Q130374937,DSNAME6746,Q54727
 "ʻĪdī, Muḥammad ibn ʻAlī, active 17th century",scribe,عيدي، محمد بن علي، active 17th century,,human,Muḥammad ibn ʻAlī ʻĪdī,Q129951623,DSNAME6620,Q54251
