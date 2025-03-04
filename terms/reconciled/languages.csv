@@ -1004,7 +1004,7 @@ Latin; Law French; Anglicana,lat,,,,Latin;Law French,Q397;Q2044323,Q113;Q5947
 Latin; Law French; Anglicana.,,,,,Latin;Law French,Q397;Q2044323,Q113;Q5947
 Latin; Law French; Middle English,,,,,Latin;Law French;Middle English,Q397;Q2044323;Q36395,Q113;Q5947;Q119
 Latin; Low German,,,,,Latin;Low German,Q397;Q25433,Q113;Q5013
-"Latin; Low German, Low Saxon",lat;nds,,,,Latin;Low German,Q397;Q25433,Q113;Q5013
+"Latin; Low German, Low Saxon",lat;nds,,,,Latin;Low German;Low Saxon,Q397;Q25433;Q168446,Q113;Q5013;Q19912
 Latin; many marginal notes in Latin and Italian; note on fol. ii in Hebrew,,,,,Latin;Italian;Hebrew,Q397;Q652;Q9288,Q113;Q116;Q117
 Latin; Middle Dutch (ca. 1050-1350),lat;dum,,,,Latin;Middle Dutch,Q397;Q178806,Q113;Q10833
 Latin; Middle English,,,,,Latin;Middle English,Q397;Q36395,Q113;Q119
@@ -1334,7 +1334,7 @@ Syriac and English,syc,Syriac;English,Q33538;Q1860,Q12713;Q109,Syriac;English,Q3
 tam,tam,,,,Tamil,Q5885,Q27498
 Tamil,,,,,Tamil,Q5885,Q27498
 Tamil script,,,,,Tamil,Q5885,Q27498
-Tashelhit / Shilha,ber,,,,Shilha,Q34152,Q38120
+Tashelhit / Shilha,ber,,,,Tachelhit,Q34152,Q38120
 tel,tel,,,,Telugu,Q8097,Q27503
 "Text chiefly in Latin, with prayer to the Holy Trinity (fol. 92) in French",,Latin;French,Q397;Q150,Q113;Q111,Latin;French,Q397;Q150,Q113;Q111
 Text in Ancient Greek,,Ancient Greek,Q35497,Q3103,Ancient Greek,Q35497,Q3103
