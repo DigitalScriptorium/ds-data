@@ -1,14 +1,20 @@
 ds_label,ds_qid,wikidata_label,wikidata_qid
+Akkadian,Q74792,Akkadian,Q35518
 Alemannic,Q38102,Alemannic,Q131339
+Amharic,Q42444,Amharic,Q28244
 Ancient Greek,Q3103,Ancient Greek,Q35497
 Anglo-Norman,Q1315,Anglo-Norman,Q35214
 Apabhraṃśa,Q27507,Apabhraṃśa,Q616419
 Arabic,Q118,Arabic,Q13955
+Aragonese,Q42443,Aragonese,Q8765
 Aramaic,Q3663,Aramaic,Q28602
 Armenian,Q792,Armenian,Q8785
+Armeno-Turkish,Q54964,Armeno-Turkish alphabet,Q65071381
 Avestan,Q27501,Avestan,Q29572
 Awadhi,Q27502,Awadhi,Q29579
+Azerbaijani,Q48678,Azerbaijani,Q9292
 Bangla,Q27506,Bangla,Q9610
+Batak,Q42449,Batak,Q1998595
 Belgian Dutch,Q27512,Belgian Dutch,Q1404296
 Berber,Q38092,Berber,Q25448
 Bohairic,Q27517,Bohairic,Q890733
@@ -16,10 +22,14 @@ Braj Bhasha,Q27513,Braj Bhasha,Q35243
 Catalan,Q1316,Catalan,Q7026
 Cauchois,Q38113,Cauchois,Q2943069
 Central German,Q3105,Central German,Q704841
+Chagatai,Q42445,Chagatai,Q36831
 Chinese,Q12715,Chinese,Q7850
 Church Slavonic,Q16427,Church Slavonic,Q33251
 Coptic,Q4335,Coptic,Q36155
+Crimean Tatar,Q74788,Crimean Tatar,Q33357
+Cyrillic script,Q48677,Cyrillic script,Q8209
 Czech,Q3107,Czech,Q9056
+Daknī,Q48680,Daknī,Q669431
 Danish,Q38093,Danish,Q9035
 Devanagari,Q38117,Devanagari,Q38592
 Dutch,Q793,Dutch,Q7411
@@ -28,6 +38,7 @@ English,Q109,English,Q1860
 Flemish,Q10832,Flemish,Q34147
 Florentine,Q7216,Florentine,Q5460907
 French,Q111,French,Q150
+Galician,Q42450,Galician,Q9307
 Garshuni,Q38104,Garshuni,Q1494558
 Ge'ez,Q3664,Ge'ez,Q35667
 German,Q112,German,Q188
@@ -45,19 +56,26 @@ Italian,Q116,Italian,Q652
 Jaffna Tamil dialect,Q27518,Jaffna Tamil dialect,Q12988285
 Japanese,Q12711,Japanese,Q5287
 Javanese,Q38105,Javanese,Q33549
+Judæo-Italian,Q74794,Judæo-Italian,Q1145414
 Judaeo-Spanish,Q7217,Judaeo-Spanish,Q36196
 Judeo-Arabic,Q38106,Judeo-Arabic,Q37733
+Judeo-Persian,Q74793,Judeo-Persian,Q33367
+Kanbun,Q67914,kanbun,Q7901319
+Kaqchikel,Q64216,Kaqchikel,Q35115
 Kawi,Q38413,Kawi,Q49341
 Khmer,Q27499,Khmer,Q9205
 Korean,Q12712,Korean,Q9176
 K’iche’,Q38121,K’iche’,Q36494
 Lahnda,Q38107,Lahnda,Q112670533
+Lao,Q42446,Lao,Q9211
 Latin,Q113,Latin,Q397
 Law French,Q5947,Law French,Q2044323
-West Low German,Q19912,West Low German,Q168446
 Low German,Q5013,Low German,Q25433
+Low Saxon,Q19912,Low Saxon,Q168446
 Maharashtri,Q27497,Maharashtri,Q2586773
+Malay,Q39962,Malay,Q9237
 Malayalam,Q27500,Malayalam,Q36236
+Mamluk-Kipchak,Q52676,Mamluk-Kipchak,Q4279942
 Marathi,Q27508,Marathi,Q1571
 Marquesan,Q38099,Marquesan,Q33781
 Marwari,Q27504,Marwari,Q56312
@@ -69,9 +87,13 @@ Middle Low German,Q38101,Middle Low German,Q505674
 Middle Persian,Q27493,Middle Persian,Q32063
 Middle Scots,Q38109,Middle Scots,Q3327000
 Modern Greek,Q38096,Modern Greek,Q36510
+multiple languages,Q38110,multiple languages,Q20923490
 Nahuatl,Q38112,Nahuatl,Q13300
 Nepali,Q27514,Nepali,Q33823
+no linguistic content,Q16428,no linguistic content,Q22282939
+Northeastern Neo-Aramaic,Q74787,Northeastern Neo-Aramaic,Q2560578
 Northern English,Q38094,Northern English,Q1321639
+Northern Thai,Q42447,Northern Thai,Q565110
 Occitan,Q4338,Occitan,Q14185
 Old Catalan,Q40059,Old Catalan,Q15478520
 Old Church Slavonic,Q20366,Old Church Slavonic,Q35499
@@ -80,9 +102,11 @@ Old French,Q3106,Old French,Q35222
 Old High German,Q5946,Old High German,Q35218
 Old Norse,Q38103,Old Norse,Q35505
 Old Occitan,Q38115,Old Occitan,Q2779185
+Old Saxon,Q42448,Old Saxon,Q35219
 Old Spanish,Q40060,Old Spanish,Q1088025
 Ottoman Turkish,Q3104,Ottoman Turkish,Q36730
 Pali,Q27511,Pali,Q36727
+Pashto,Q48679,Pashto,Q58680
 Persian,Q120,Persian,Q9168
 Picard,Q40058,Picard,Q34024
 Polish,Q5014,Polish,Q809
@@ -90,12 +114,13 @@ Portuguese,Q38114,Portuguese,Q5146
 Prakrit,Q27516,Prakrit,Q192170
 Provençal,Q7801,Provençal,Q241243
 Punjabi,Q27505,Punjabi,Q58635
+Purépecha,Q64219,Purépecha,Q36803
+Q’eqchi’,Q64218,Q’eqchi’,Q35536
 Rajasthani,Q27510,Rajasthani,Q13196
 Rhine Franconian,Q7802,Rhine Franconian,Q707007
 Romance languages,Q38116,Romance languages,Q19814
 Samaritan Aramaic,Q6995,Samaritan Aramaic,Q56612
 Sanskrit,Q27494,Sanskrit,Q11059
-Shilha,Q38120,Tachelhit,Q34152
 Sicilian,Q6996,Sicilian,Q33973
 Sinhala,Q27509,Sinhala,Q13267
 Slavic,Q38119,Slavic,Q23526
@@ -103,17 +128,25 @@ Slavonic-Serbian,Q38118,Slavonic-Serbian,Q1639124
 Spanish,Q114,Spanish,Q1321
 Standard High German,Q38100,Standard High German,Q279350
 Syriac,Q12713,Syriac,Q33538
+Tachelhit,Q38120,Tachelhit,Q34152
+Tajik,Q67913,Tajik,Q9260
 Tamil,Q27498,Tamil,Q5885
+Tatar,Q74790,Tatar,Q25285
 Telugu,Q27503,Telugu,Q8097
 Thai,Q27515,Thai,Q9217
+Tibetan,Q67912,Tibetan,Q34271
 Turkish,Q4337,Turkish,Q256
 Tuscan,Q3661,Tuscan,Q1990745
+Tzeltal,Q64220,Tzeltal,Q36808
+Tz’utujil,Q64217,Tz’utujil,Q36941
+undetermined language,Q12714,undetermined language,Q22282914
 Urdu,Q27496,Urdu,Q1617
 Valencian,Q8381,Valencian,Q32641
 Venetian,Q3662,Venetian,Q32724
+Vulgar Latin,Q55346,Vulgar Latin,Q37560
 Welsh,Q38108,Welsh,Q9309
 Western Syriac script,Q18352,Western Syriac script,Q12057990
+Yemenite Hebrew,Q74786,Yemenite Hebrew,Q34291
+Yevanic,Q74789,Yevanic,Q34200
+Yiddish,Q74791,Yiddish,Q8641
 Yucatec Maya,Q38111,Yucatec Maya,Q13354
-multiple languages,Q38110,multiple languages,Q20923490
-no linguistic content,Q16428,no linguistic content,Q22282939
-undetermined language,Q12714,undetermined language,Q22282914
