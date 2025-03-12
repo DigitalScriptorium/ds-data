@@ -273,6 +273,7 @@ German; Italian; Latin,,German;Italian;Latin,Q188;Q652;Q397,Q112;Q116;Q113
 German; Latin,ger;lat,German;Latin,Q188;Q397,Q112;Q113
 German; Latin,,German;Latin,Q188;Q397,Q112;Q113
 German; liturgical text on covers in Latin,ger;lat,German;Latin,Q188;Q397,Q112;Q113
+German ; Low German,,German;Low German,Q188;Q25433,Q112;Q5013
 German (Middle High German),,German;Middle High German,Q188;Q837985,Q112;Q115
 German (Old Saxon),,German;Old Saxon,Q188;Q35219,Q112;Q42448
 German and Latin,ger,German;Latin,Q188;Q397,Q112;Q113
@@ -1027,6 +1028,7 @@ Latin; with some Greek,lat;gre,Latin;Greek,Q397;Q9129,Q113;Q1318
 Latin; with some Italian,lat;ita,Latin;Italian,Q397;Q652,Q113;Q116
 Latin; with some Middle English,lat;enm,Latin;Middle English,Q397;Q36395,Q113;Q119
 Latin.,,Latin,Q397,Q113
+Latin (cursive),,Latin,Q397,Q113
 "Latin (f. 1r-56v), with some Spanish (f. 78r-169v) and sections of German",lat;spa;ger,Latin;Spanish;German,Q397;Q1321;Q188,Q113;Q114;Q112
 Latin (f. 1r-5r) and Italian with rubrics in Latin (f. 5v-20r),lat;ita,Latin;Italian,Q397;Q652,Q113;Q116
 "Latin (f. 1r-77r, and table of contents, f. 88v) and French (f. 77v-88v)",fre;lat,Latin;French,Q397;Q150,Q113;Q111
