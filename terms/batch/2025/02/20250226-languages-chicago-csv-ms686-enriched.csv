@@ -1,0 +1,8 @@
+language_as_recorded,language_code,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Latin,,,,,Latin,Q397,"Q113"
+Dutch,,,,,Dutch,Q7411,"Q793"
+Latin; German,,,,,Latin;German,Q397;Q188,"Q113;Q112"
+German ; Low German,,German;Low German,Q188;Q25433,Q112;Q5013,,,
+Low German,,,,,Low German,Q25433,"Q5013"
+Latin (cursive),,Latin,Q397,Q113,,,
+Italian,,,,,Italian,Q652,"Q116"
