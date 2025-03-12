@@ -1,0 +1,4 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Code of law,ds-genre,,law codes,http://vocab.getty.edu/aat/300379879,Q75949,,,
+medical texts,ds-genre,,,,,,,
+books of hours,ds-genre,,,,,books of hours,http://vocab.getty.edu/aat/300026457,Q3618

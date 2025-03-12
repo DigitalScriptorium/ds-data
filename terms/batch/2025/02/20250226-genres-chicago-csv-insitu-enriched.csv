@@ -1,0 +1,18 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Verse,ds-genre,,,,,poetry,http://vocab.getty.edu/aat/300055931,Q11358
+Common of Saints,ds-genre,,,,,,,
+Eastertide,ds-genre,,Eastertide,http://id.worldcat.org/fast/901191,Q75942,,,
+Musical notation,ds-genre,,,,,musical notation,http://vocab.getty.edu/aat/300417622,Q38507
+Antiphons,ds-genre,,Antiphons (Music),http://id.worldcat.org/fast/1920005,Q38426,,,
+Alleluias,ds-genre,,Alleluias (Chants),http://id.worldcat.org/fast/1919998,Q75943,,,
+Graduals,ds-genre,,,,,graduals,http://vocab.getty.edu/aat/300026462,Q4165
+Responsories,ds-genre,,Responses (Music),http://id.worldcat.org/fast/1920324,Q75950,,,
+Sanctus,ds-genre,,Sanctus (Music),http://id.worldcat.org/fast/1104802,Q75944,,,
+Agnus Dei,ds-genre,,,,,,,
+Tract verses,ds-genre,,,,,,,
+Offertories,ds-genre,,Offertories (Music),http://id.worldcat.org/fast/1920265,Q75945,,,
+Gloria,ds-genre,,Gloria in excelsis Deo (Music),http://id.worldcat.org/fast/943609,Q75946,,,
+Kyrie,ds-genre,,Kyrie eleison (Music),http://id.worldcat.org/fast/989610,Q75947,,,
+Sequences,ds-genre,,Sequences (Music),http://id.worldcat.org/fast/1920347,Q75948,,,
+Responsory verses,ds-genre,,Responses (Music),http://id.worldcat.org/fast/1920324,Q75950,,,
+Processionals,ds-genre,,processionals,http://vocab.getty.edu/aat/300395571,Q38530,,,
