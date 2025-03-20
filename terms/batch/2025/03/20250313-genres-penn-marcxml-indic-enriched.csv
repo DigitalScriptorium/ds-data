@@ -1,0 +1,128 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Treatises,aat,http://vocab.getty.edu/aat/300026681,,,,treatises,http://vocab.getty.edu/aat/300026681,Q160
+"Manuscripts, Sanskrit",lcsh,,,,,"Manuscripts, Sanskrit",http://id.worldcat.org/fast/1008482,Q26663
+Manuscripts,lcsh,,,,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
+Manuals (instructional materials),aat,http://vocab.getty.edu/aat/300026395,,,,manuals (instructional materials),http://vocab.getty.edu/aat/300026395,Q216
+Texts,fast,http://id.worldcat.org/fast/1423705,,,,Texts,http://id.worldcat.org/fast/1423705,Q3066
+Prayers,aat,http://vocab.getty.edu/aat/300400521,,,,prayers (literary genre),http://vocab.getty.edu/aat/300026452,Q3062
+Hymns,aat,http://vocab.getty.edu/aat/300167054,,,,hymns,http://vocab.getty.edu/aat/300167054,Q3548
+Commentaries,aat,http://vocab.getty.edu/aat/300026098,,,,commentaries,http://vocab.getty.edu/aat/300026098,Q298
+Watermarks,aat,http://vocab.getty.edu/aat/300028749,,,,watermarks,http://vocab.getty.edu/aat/300028749,Q27233
+Tables (documents),aat,http://vocab.getty.edu/aat/300027364,,,,tables (documents),http://vocab.getty.edu/aat/300027364,Q252
+Diagrams,aat,http://vocab.getty.edu/aat/300015387,,,,diagrams,http://vocab.getty.edu/aat/300015387,Q276
+Poems,aat,http://vocab.getty.edu/aat/300026451,,,,poems,http://vocab.getty.edu/aat/300026451,Q273
+Dictionaries,fast,http://id.worldcat.org/fast/1423826,,,,Dictionaries,http://id.worldcat.org/fast/1423826,Q3041
+Dictionaries,aat,http://vocab.getty.edu/aat/300026186,,,,dictionaries,http://vocab.getty.edu/aat/300026186,Q2970
+Prayers (documents),aat,,,,,prayers (literary genre),http://vocab.getty.edu/aat/300026452,Q3062
+Animal stories,aat,http://vocab.getty.edu/aat/300254800,,,,animal stories,http://vocab.getty.edu/aat/300254800,Q27190
+Adventure stories,aat,http://vocab.getty.edu/aat/300254790,,,,adventure stories,http://vocab.getty.edu/aat/300254790,Q26989
+Commentaries,fast,http://id.worldcat.org/fast/1423723,,,,Commentaries,http://id.worldcat.org/fast/1423723,Q2812
+Prayers,lcgft,http://id.loc.gov/authorities/genreForms/gf2015026049,,,,Prayers,http://id.worldcat.org/fast/1939841,Q38528
+Prayers,fast,http://id.worldcat.org/fast/1939841,,,,Prayers,http://id.worldcat.org/fast/1939841,Q38528
+Devotional literature,lcgft,http://id.loc.gov/authorities/genreForms/gf2015026057,,,,Devotional literature,http://id.worldcat.org/fast/1423773,Q38696
+Devotional literature,fast,http://id.worldcat.org/fast/1423773,,,,Devotional literature,http://id.worldcat.org/fast/1423773,Q38696
+Examinations,fast,http://id.worldcat.org/fast/1423780,,,,Examinations,http://id.worldcat.org/fast/1423780,Q27176
+Dialogues,aat,http://vocab.getty.edu/aat/300026185,,,,dialogues,http://vocab.getty.edu/aat/300026185,Q330
+Examinations,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026096,,,,Examinations,http://id.worldcat.org/fast/1423780,Q27176
+Pictorial works,fast,http://id.worldcat.org/fast/1423874,,,,Pictorial works,http://id.worldcat.org/fast/1423874,Q240
+Paintings (visual works),aat,http://vocab.getty.edu/aat/300033618,,,,paintings (visual works),http://vocab.getty.edu/aat/300033618,Q265
+"Manuscripts, Sanskrit--18th century",,,,,,"Manuscripts, Sanskrit;Eighteenth century",http://id.worldcat.org/fast/1008482;http://id.worldcat.org/fast/904058,Q26663;Q3024
+"Manuscripts, Sanskrit--19th century",,,,,,"Manuscripts, Sanskrit;Nineteenth century",http://id.worldcat.org/fast/1008482;http://id.worldcat.org/fast/1037841,Q26663;Q3538
+Illustrated works,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026111,,,,Illustrated works,http://id.worldcat.org/fast/1423873,Q294
+Illustrated works,fast,http://id.worldcat.org/fast/1423873,,,,Illustrated works,http://id.worldcat.org/fast/1423873,Q294
+Illuminated manuscripts,aat,http://vocab.getty.edu/aat/300265483,,,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,Q4268
+Drawings (visual works),aat,http://vocab.getty.edu/aat/300033973,,,,drawings (visual works),http://vocab.getty.edu/aat/300033973,Q192
+Poetry,fast,http://id.worldcat.org/fast/1423828,,,,Poetry,http://id.worldcat.org/fast/1423828,Q247
+Poetry,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026481,,,,Poetry,http://id.worldcat.org/fast/1423828,Q247
+Merchandise inventories,aat,http://vocab.getty.edu/aat/300027146,,,,merchandise inventories,http://vocab.getty.edu/aat/300027146,Q26999
+Lists (document genres),aat,http://vocab.getty.edu/aat/300027119,,,,lists (document genres),http://vocab.getty.edu/aat/300027119,Q7461
+Hymns (documents),aat,,,,,hymns,http://vocab.getty.edu/aat/300167054,Q3548
+Epics,aat,,,,,epic literature,http://vocab.getty.edu/aat/300404209,Q27258
+Tables of contents,aat,http://vocab.getty.edu/aat/300195187,,,,tables of contents,http://vocab.getty.edu/aat/300195187,Q7497
+Aphorisms,aat,http://vocab.getty.edu/aat/300253001,,,,aphorisms,http://vocab.getty.edu/aat/300253001,Q7680
+Illuminations (painting),aat,http://vocab.getty.edu/aat/300264522,,,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
+Art,lcgft,http://id.loc.gov/authorities/genreForms/gf2017027218,,,,Art,http://id.worldcat.org/fast/1423702,Q38573
+Art,fast,http://id.worldcat.org/fast/1423702,,,,Art,http://id.worldcat.org/fast/1423702,Q38573
+Glossaries,aat,http://vocab.getty.edu/aat/300026189,,,,glossaries,http://vocab.getty.edu/aat/300026189,Q315
+Illuminations (visual works),aat,,,,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
+Outlines and syllabi,fast,http://id.worldcat.org/fast/1423836,,,,Outlines and syllabi,http://id.worldcat.org/fast/1423836,Q27101
+Outlines and syllabi,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026136,,,,Outlines and syllabi,http://id.worldcat.org/fast/1423836,Q27101
+Drama,fast,http://id.worldcat.org/fast/1423879,,,,Drama,http://id.worldcat.org/fast/1423879,Q3010
+Plays (performing arts compositions),aat,http://vocab.getty.edu/aat/300201028,,,,plays (performing arts compositions),http://vocab.getty.edu/aat/300201028,Q6840
+Satires (document genre),aat,,,,,satires (literary genre),http://vocab.getty.edu/aat/300251297,Q4177
+Drama,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026297,,,,Drama,http://id.worldcat.org/fast/1423879,Q3010
+Miniatures (paintings),aat,http://vocab.getty.edu/aat/300033936,,,,miniatures (paintings),http://vocab.getty.edu/aat/300033936,Q262
+"Manuscripts, Persian",lcsh,,,,,"Manuscripts, Persian",http://id.worldcat.org/fast/1008462,Q255
+Manuscripts--India--19th century,local,,,,,Manuscripts;India;Nineteenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/1037841,Q331;Q26595;Q3538
+Manuscripts,fast,http://id.worldcat.org/fast/1424060,,,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
+"Glossaries, vocabularies, etc",fast,http://id.worldcat.org/fast/1423786,,,,"Glossaries, vocabularies, etc.",http://id.worldcat.org/fast/1423786,Q3028
+Controlled vocabularies,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026070,,,,Controlled vocabularies,http://id.worldcat.org/fast/1919906,Q2998
+Controlled vocabularies,fast,http://id.worldcat.org/fast/1919906,,,,Controlled vocabularies,http://id.worldcat.org/fast/1919906,Q2998
+"Manuscripts, India",lcsh,,,,,"Manuscripts, Indic",http://id.worldcat.org/fast/1008370,Q26656
+Prescriptions,aat,http://vocab.getty.edu/aat/300027231,,,,prescriptions,http://vocab.getty.edu/aat/300027231,Q293
+Codices (bound manuscripts),aat,http://vocab.getty.edu/aat/300224200,,,,codices (bound manuscripts),http://vocab.getty.edu/aat/300224200,Q168
+"Manuscripts, Sanskrit--19th century",local,,,,,"Manuscripts, Sanskrit;Nineteenth century",http://id.worldcat.org/fast/1008482;http://id.worldcat.org/fast/1037841,Q26663;Q3538
+"Manuscripts, Prakrit",lcsh,,,,,"Manuscripts, Prakrit",http://id.worldcat.org/fast/1008468,Q26612
+"Manuscripts, Pali",lcsh,,"Manuscripts, Pali",http://id.worldcat.org/fast/1008460,Q27278,,,
+"Manuscripts, Khmer",lcsh,,"Manuscripts, Khmer",http://id.worldcat.org/fast/1008392,Q27156,,,
+Manuscripts--Nepal--19th century,local,,,,,Manuscripts;Nepal;Nineteenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1206102;http://id.worldcat.org/fast/1037841,Q331;Q26856;Q3538
+Commentaries,aat,,,,,commentaries,http://vocab.getty.edu/aat/300026098,Q298
+"Manuscripts, Sanskrit--18th century",lcsh,,,,,"Manuscripts, Sanskrit;Eighteenth century",http://id.worldcat.org/fast/1008482;http://id.worldcat.org/fast/904058,Q26663;Q3024
+"Manuscripts, Sanskrit--19th century",lcsh,,,,,"Manuscripts, Sanskrit;Nineteenth century",http://id.worldcat.org/fast/1008482;http://id.worldcat.org/fast/1037841,Q26663;Q3538
+Manuscripts--India--18th century,lcsh,,,,,Manuscripts;India;Eighteenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/904058,Q331;Q26595;Q3024
+Manuscripts--India--19th century,lcsh,,,,,Manuscripts;India;Nineteenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/1037841,Q331;Q26595;Q3538
+Compendiums,aat,http://vocab.getty.edu/aat/300026106,,,,compendiums,http://vocab.getty.edu/aat/300026106,Q3556
+drawings (visual works),aat,http://vocab.getty.edu/aat/300033973,,,,drawings (visual works),http://vocab.getty.edu/aat/300033973,Q192
+illuminations (painting),aat,http://vocab.getty.edu/aat/300264522,,,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
+Handbooks and manuals,lcgft,,,,,Handbooks and manuals,http://id.worldcat.org/fast/1423877,Q212
+miniatures (paintings),aat,http://vocab.getty.edu/aat/300033936,,,,miniatures (paintings),http://vocab.getty.edu/aat/300033936,Q262
+Abridgements,aat,http://vocab.getty.edu/aat/300202489,,,,abridgements,http://vocab.getty.edu/aat/300202489,Q2797
+"Manuscripts, Gujarati",lcsh,,,,,"Manuscripts, Gujarati",http://id.worldcat.org/fast/1008359,Q27273
+Scrolls (information artifacts),aat,http://vocab.getty.edu/aat/300028629,,,,scrolls (information artifacts),http://vocab.getty.edu/aat/300028629,Q8246
+Outlines (documents),aat,http://vocab.getty.edu/aat/300027207,,,,outlines (documents),http://vocab.getty.edu/aat/300027207,Q27228
+Biographies,fast,http://id.worldcat.org/fast/1919896,,,,Biographies,http://id.worldcat.org/fast/1919896,Q3051
+"Manuscripts, Sinhalese",lcsh,,,,,"Manuscripts, Sinhalese",http://id.worldcat.org/fast/1008495,Q26879
+Biographies,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026049,,,,Biographies,http://id.worldcat.org/fast/1919896,Q3051
+"Manuscripts, Sanskrit--18th century",local,,,,,"Manuscripts, Sanskrit;Eighteenth century",http://id.worldcat.org/fast/1008482;http://id.worldcat.org/fast/904058,Q26663;Q3024
+Manuscripts--India--18th century,local,,,,,Manuscripts;India;Eighteenth century,http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/904058,Q331;Q26595;Q3024
+Citation indexes,aat,http://vocab.getty.edu/aat/300026579,,,,citation indexes,http://vocab.getty.edu/aat/300026579,Q27300
+Illuminations (visual materials),aat,,,,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
+"Manuscripts, Rajasthani",lcsh,,,,,"Manuscripts, Rajasthani",http://id.worldcat.org/fast/1008471,Q26773
+Hagiographies (works),aat,http://vocab.getty.edu/aat/300201063,,,,hagiographies (literary genre),http://vocab.getty.edu/aat/300201063,Q2966
+Dictionaries,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026086,,,,Dictionaries,http://id.worldcat.org/fast/1423826,Q3041
+"Manuscripts, Braj--19th century",local,,,,,"Manuscripts, Braj;Nineteenth century",http://id.worldcat.org/fast/1008302;http://id.worldcat.org/fast/1037841,Q26922;Q3538
+Plays (document genre),aat,,,,,plays (literary genre),http://vocab.getty.edu/aat/300451696,Q26529
+Epic poems,aat,http://vocab.getty.edu/aat/300253035,,,,epic poems,http://vocab.getty.edu/aat/300253035,Q27446
+Legal documents,aat,http://vocab.getty.edu/aat/300027590,,,,legal documents,http://vocab.getty.edu/aat/300027590,Q236
+commentaries,aat,http://vocab.getty.edu/aat/300026098,,,,commentaries,http://vocab.getty.edu/aat/300026098,Q298
+"Manuscripts, Pali--19th century",,,"Manuscripts, Pali;Nineteenth century",http://id.worldcat.org/fast/1008460;http://id.worldcat.org/fast/1037841,Q27278;Q3538,,,
+"Manuscripts, Thai--19th century",,,"Manuscripts, Thai;Nineteenth century",http://id.worldcat.org/fast/1008516;http://id.worldcat.org/fast/1037841,Q27118;Q3538,,,
+"Manuscripts, Digital",,,,,,,,
+Fragments (object portions),aat,http://vocab.getty.edu/aat/300117130,,,,fragments (object portions),http://vocab.getty.edu/aat/300117130,Q222
+Translations (documents),aat,http://vocab.getty.edu/aat/300027389,,,,translations (documents),http://vocab.getty.edu/aat/300027389,Q155
+"Manuscripts, Thai",lcsh,,,,,"Manuscripts, Thai",http://id.worldcat.org/fast/1008516,Q27118
+Manual (instructional materials),aat,,,,,manuals (instructional materials),http://vocab.getty.edu/aat/300026395,Q216
+Codices,aat,,,,,codices (bound manuscripts),http://vocab.getty.edu/aat/300224200,Q168
+"Manuscripts, Persian--18th century",lcsh,,,,,"Manuscripts, Persian;Eighteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/904058,Q255;Q3024
+Miniatures (paintings),aat,,,,,miniatures (paintings),http://vocab.getty.edu/aat/300033936,Q262
+Comedies,aat,http://vocab.getty.edu/aat/300201014,,,,comedies (literary genre),http://vocab.getty.edu/aat/300201014,Q26946
+"Manuscripts, Hindi",lcsh,,,,,"Manuscripts, Hindi",http://id.worldcat.org/fast/1008366,Q27129
+Astronomical charts,aat,http://vocab.getty.edu/aat/300028164,,,,astronomical charts,http://vocab.getty.edu/aat/300028164,Q26872
+Notebooks,aat,http://vocab.getty.edu/aat/300264354,,,,notebooks,http://vocab.getty.edu/aat/300264354,Q27305
+Poems,aat,,,,,poems,http://vocab.getty.edu/aat/300026451,Q273
+Prayers,aat,,,,,prayers (literary genre),http://vocab.getty.edu/aat/300026452,Q3062
+Hymns,aat,,,,,hymns,http://vocab.getty.edu/aat/300167054,Q3548
+"Manuscripts, Marathi",lcsh,,,,,"Manuscripts, Marathi",http://id.worldcat.org/fast/1008418,Q26716
+"Manuscripts, Awadhi--18th century",lcsh,,,,,Eighteenth century,http://id.worldcat.org/fast/904058,Q3024
+"Manuscripts, Awadhi--19th century",lcsh,,,,,Nineteenth century,http://id.worldcat.org/fast/1037841,Q3538
+Fables,aat,http://vocab.getty.edu/aat/300055917,,,,fables,http://vocab.getty.edu/aat/300055917,Q27418
+Prayers and devotions,fast,http://id.worldcat.org/fast/1423909,,,,Prayers and devotions,http://id.worldcat.org/fast/1423909,Q3052
+diagrams,aat,http://vocab.getty.edu/aat/300015387,,,,diagrams,http://vocab.getty.edu/aat/300015387,Q276
+Romances (document genre),aat,,,,,romances (medieval narratives),http://vocab.getty.edu/aat/300191065,Q4176
+Treatises,aat,,,,,treatises,http://vocab.getty.edu/aat/300026681,Q160
+Manuals (instructional materials),aat,,,,,manuals (instructional materials),http://vocab.getty.edu/aat/300026395,Q216
+Songs (documents),aat,,,,,songs (musical compositions),http://vocab.getty.edu/aat/300167056,Q4791
+Translations (documents),aat,,,,,translations (documents),http://vocab.getty.edu/aat/300027389,Q155
+"Manuscripts, Sanskrit--20th century",lcsh,,,,,"Manuscripts, Sanskrit;Twentieth century",http://id.worldcat.org/fast/1008482;http://id.worldcat.org/fast/1159810,Q26663;Q5942
+"Manuscripts, Sinhalese--20th century",lcsh,,,,,"Manuscripts, Sinhalese;Twentieth century",http://id.worldcat.org/fast/1008495;http://id.worldcat.org/fast/1159810,Q26879;Q5942
+"Manuscripts, American--20th century",lcsh,,,,,"Manuscripts, American;Twentieth century",http://id.worldcat.org/fast/1008270;http://id.worldcat.org/fast/1159810,Q27439;Q5942

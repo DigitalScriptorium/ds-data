@@ -1,0 +1,7 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Veronese Notarial Documents,ds-genre,,,,,,,
+Veneto Notarial Documents,ds-genre,,,,,,,
+Venetian Ducal Letters,ds-genre,,,,,,,
+Veronese Documents,ds-genre,,Veronese;documents (object genre),http://vocab.getty.edu/aat/300386575;http://vocab.getty.edu/aat/300026030,Q76115;Q19859,,,
+Papal Letters-Germany,ds-genre,,Papal encyclicals;Germany,http://id.worldcat.org/fast/1922497;http://id.worldcat.org/fast/1210272,Q42547;Q3032,,,
+Papal Letters-Italy,ds-genre,,Papal encyclicals;Italy,http://id.worldcat.org/fast/1922497;http://id.worldcat.org/fast/1204565,Q42547;Q249,,,
