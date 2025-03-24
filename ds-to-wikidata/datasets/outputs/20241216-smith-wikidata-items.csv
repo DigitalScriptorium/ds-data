@@ -1,12 +1,12 @@
-item,itemLabel,description,DSID,collection,identifiers
-http://www.wikidata.org/entity/Q131468112,"Northampton, Massachusetts, Smith College, Ms. 263",manuscript containing Missal (Smith College Ms. 263); [Missal].,DS298,Smith College,Ms. 263
-http://www.wikidata.org/entity/Q131468113,"Northampton, Massachusetts, Smith College, Ms. 261",manuscript containing Missal. (Smith College Ms. 261); [Breviary],DS299,Smith College,Ms. 261
-http://www.wikidata.org/entity/Q131468115,"Northampton, Massachusetts, Smith College, Ms. 254",manuscript containing [Book of hours (Use of Paris)].; Book of hours (Smith College Ms. 254),DS300,Smith College,Ms. 254
-http://www.wikidata.org/entity/Q131468116,"Northampton, Massachusetts, Smith College, Ms. 255",manuscript containing [Book of hours].; Book of hours (Smith College Ms. 255),DS301,Smith College,Ms. 255
-http://www.wikidata.org/entity/Q131468117,"Northampton, Massachusetts, Smith College, Ms. 274",manuscript containing Book of hours (Smith College Ms. 274); [Book of hours (Use of Rouen)].,DS302,Smith College,Ms. 274
-http://www.wikidata.org/entity/Q131468118,"Northampton, Massachusetts, Smith College, Ms. 288",manuscript containing [Book of hours].; Book of hours (Smith College Ms. 288 ),DS303,Smith College,Ms. 288
-http://www.wikidata.org/entity/Q131468119,"Northampton, Massachusetts, Smith College, Ms. 291",manuscript containing [Psalter]; Psalter (Smith College Ms. 291),DS304,Smith College,Ms. 291
-http://www.wikidata.org/entity/Q131468120,"Northampton, Massachusetts, Smith College, Ms. 225",manuscript containing Prooemialis epistula summo pontifici destinata super legenda Sancte Clare Virginis; Homilies; f. 1 verso,DS305,Smith College,Ms. 225
-http://www.wikidata.org/entity/Q131468121,"Northampton, Massachusetts, Smith College, Ms. 241",manuscript containing [Bible].; Bible. Latin. Vulgate. 12--,DS306,Smith College,Ms. 241
-http://www.wikidata.org/entity/Q131468122,"Northampton, Massachusetts, Smith College, Ms. 240",manuscript containing Bible. Latin. Vulgate. 12--; [Biblia sacra].,DS307,Smith College,Ms. 240
-http://www.wikidata.org/entity/Q131468123,"Northampton, Massachusetts, Smith College, Ms. 264",manuscript containing [Enchiridion] (fragmentary).,DS308,Smith College,Ms. 264
+item,itemLabel,description,DSID,manuscriptQID,recordQID,collection,identifiers
+http://www.wikidata.org/entity/Q131468112,"Northampton, Massachusetts, Smith College, Ms. 263",manuscript containing Missal (Smith College Ms. 263); [Missal].,DS298,Q1252,Q1253,Smith College,Ms. 263
+http://www.wikidata.org/entity/Q131468113,"Northampton, Massachusetts, Smith College, Ms. 261",manuscript containing Missal. (Smith College Ms. 261); [Breviary],DS299,Q1255,Q1256,Smith College,Ms. 261
+http://www.wikidata.org/entity/Q131468115,"Northampton, Massachusetts, Smith College, Ms. 254",manuscript containing [Book of hours (Use of Paris)].; Book of hours (Smith College Ms. 254),DS300,Q1258,Q1259,Smith College,Ms. 254
+http://www.wikidata.org/entity/Q131468116,"Northampton, Massachusetts, Smith College, Ms. 255",manuscript containing [Book of hours].; Book of hours (Smith College Ms. 255),DS301,Q1261,Q1262,Smith College,Ms. 255
+http://www.wikidata.org/entity/Q131468117,"Northampton, Massachusetts, Smith College, Ms. 274",manuscript containing Book of hours (Smith College Ms. 274); [Book of hours (Use of Rouen)].,DS302,Q1264,Q1265,Smith College,Ms. 274
+http://www.wikidata.org/entity/Q131468118,"Northampton, Massachusetts, Smith College, Ms. 288",manuscript containing [Book of hours].; Book of hours (Smith College Ms. 288 ),DS303,Q1267,Q1268,Smith College,Ms. 288
+http://www.wikidata.org/entity/Q131468119,"Northampton, Massachusetts, Smith College, Ms. 291",manuscript containing [Psalter]; Psalter (Smith College Ms. 291),DS304,Q1270,Q1271,Smith College,Ms. 291
+http://www.wikidata.org/entity/Q131468120,"Northampton, Massachusetts, Smith College, Ms. 225",manuscript containing Prooemialis epistula summo pontifici destinata super legenda Sancte Clare Virginis; Homilies; f. 1 verso,DS305,Q1273,Q1274,Smith College,Ms. 225
+http://www.wikidata.org/entity/Q131468121,"Northampton, Massachusetts, Smith College, Ms. 241",manuscript containing [Bible].; Bible. Latin. Vulgate. 12--,DS306,Q1276,Q1277,Smith College,Ms. 241
+http://www.wikidata.org/entity/Q131468122,"Northampton, Massachusetts, Smith College, Ms. 240",manuscript containing Bible. Latin. Vulgate. 12--; [Biblia sacra].,DS307,Q1279,Q1280,Smith College,Ms. 240
+http://www.wikidata.org/entity/Q131468123,"Northampton, Massachusetts, Smith College, Ms. 264",manuscript containing [Enchiridion] (fragmentary).,DS308,Q1282,Q1283,Smith College,Ms. 264

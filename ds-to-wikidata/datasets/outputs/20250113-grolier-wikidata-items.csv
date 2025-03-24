@@ -1,19 +1,19 @@
-item,itemLabel,description,DSID,collection,identifiers
-http://www.wikidata.org/entity/Q131767423,"New York, New York, Grolier Club, MS 01",manuscript containing Bible,DS197,Grolier Club,MS 01
-http://www.wikidata.org/entity/Q131767429,"New York, New York, Grolier Club, MS 02",manuscript containing Missal,DS198,Grolier Club,MS 02
-http://www.wikidata.org/entity/Q131767430,"New York, New York, Grolier Club, MS 03",manuscript containing Breviary,DS199,Grolier Club,MS 03
-http://www.wikidata.org/entity/Q131767431,"New York, New York, Grolier Club, MS 04",manuscript containing Breviary,DS200,Grolier Club,MS 04
-http://www.wikidata.org/entity/Q131767433,"New York, New York, Grolier Club, MS 05",manuscript containing Antiphonal,DS201,Grolier Club,MS 05
-http://www.wikidata.org/entity/Q131767434,"New York, New York, Grolier Club, MS 06",manuscript containing Antiphonal,DS202,Grolier Club,MS 06
-http://www.wikidata.org/entity/Q131767424,"New York, New York, Grolier Club, MS 07","manuscript containing Book of hours, use of Paris",DS203,Grolier Club,MS 07
-http://www.wikidata.org/entity/Q131767435,"New York, New York, Grolier Club, MS 08",manuscript containing Book of hours,DS204,Grolier Club,MS 08
-http://www.wikidata.org/entity/Q131767436,"New York, New York, Grolier Club, MS 09",manuscript containing Book of hours,DS205,Grolier Club,MS 09
-http://www.wikidata.org/entity/Q131767437,"New York, New York, Grolier Club, MS 10","manuscript containing Book of hours, use of Rouen",DS206,Grolier Club,MS 10
-http://www.wikidata.org/entity/Q131767438,"New York, New York, Grolier Club, MS 11","manuscript containing Book of hours, use of Rome",DS207,Grolier Club,MS 11
-http://www.wikidata.org/entity/Q131767439,"New York, New York, Grolier Club, MS 12","manuscript containing Book of hours, use of Rome",DS208,Grolier Club,MS 12
-http://www.wikidata.org/entity/Q131767425,"New York, New York, Grolier Club, MS 13",manuscript containing Summary of the Moralia in Job; Moralia in Job,DS209,Grolier Club,MS 13
-http://www.wikidata.org/entity/Q131767426,"New York, New York, Grolier Club, MS 14",manuscript containing De duobus amantibus; Epistula ad Raymundum; Invectiva ad indivum et detractorem; Sequitur invective Alani ad invidum et detractorem; De miseriis curialium,DS210,Grolier Club,MS 14
-http://www.wikidata.org/entity/Q131767427,"New York, New York, Grolier Club, MS 15",manuscript containing Missal; Histoire de la mort de Henri IV,DS211,Grolier Club,MS 15
-http://www.wikidata.org/entity/Q131767428,"New York, New York, Grolier Club, MS 16",manuscript containing Contra Appionem; Historia ecclesiastica; Excerpts regarding Josephus and Eusebius of Caesarea,DS212,Grolier Club,MS 16
-http://www.wikidata.org/entity/Q131767440,"New York, New York, Grolier Club, MS 17","manuscript containing Book of hours, use of Rome",DS213,Grolier Club,MS 17
-http://www.wikidata.org/entity/Q131767441,"New York, New York, Grolier Club, MS 18",manuscript containing Chy commenchent les eures de la crois; Book of Hours,DS214,Grolier Club,MS 18
+item,itemLabel,description,DSID,manuscriptQID,recordQID,collection,identifiers
+http://www.wikidata.org/entity/Q131767423,"New York, New York, Grolier Club, MS 01",manuscript containing Bible,DS197,Q912,Q913,Grolier Club,MS 01
+http://www.wikidata.org/entity/Q131767429,"New York, New York, Grolier Club, MS 02",manuscript containing Missal,DS198,Q915,Q916,Grolier Club,MS 02
+http://www.wikidata.org/entity/Q131767430,"New York, New York, Grolier Club, MS 03",manuscript containing Breviary,DS199,Q918,Q919,Grolier Club,MS 03
+http://www.wikidata.org/entity/Q131767431,"New York, New York, Grolier Club, MS 04",manuscript containing Breviary,DS200,Q921,Q922,Grolier Club,MS 04
+http://www.wikidata.org/entity/Q131767433,"New York, New York, Grolier Club, MS 05",manuscript containing Antiphonal,DS201,Q924,Q925,Grolier Club,MS 05
+http://www.wikidata.org/entity/Q131767434,"New York, New York, Grolier Club, MS 06",manuscript containing Antiphonal,DS202,Q927,Q928,Grolier Club,MS 06
+http://www.wikidata.org/entity/Q131767424,"New York, New York, Grolier Club, MS 07","manuscript containing Book of hours, use of Paris",DS203,Q930,Q931,Grolier Club,MS 07
+http://www.wikidata.org/entity/Q131767435,"New York, New York, Grolier Club, MS 08",manuscript containing Book of hours,DS204,Q933,Q934,Grolier Club,MS 08
+http://www.wikidata.org/entity/Q131767436,"New York, New York, Grolier Club, MS 09",manuscript containing Book of hours,DS205,Q936,Q937,Grolier Club,MS 09
+http://www.wikidata.org/entity/Q131767437,"New York, New York, Grolier Club, MS 10","manuscript containing Book of hours, use of Rouen",DS206,Q939,Q940,Grolier Club,MS 10
+http://www.wikidata.org/entity/Q131767438,"New York, New York, Grolier Club, MS 11","manuscript containing Book of hours, use of Rome",DS207,Q942,Q943,Grolier Club,MS 11
+http://www.wikidata.org/entity/Q131767439,"New York, New York, Grolier Club, MS 12","manuscript containing Book of hours, use of Rome",DS208,Q945,Q946,Grolier Club,MS 12
+http://www.wikidata.org/entity/Q131767425,"New York, New York, Grolier Club, MS 13",manuscript containing Summary of the Moralia in Job; Moralia in Job,DS209,Q948,Q949,Grolier Club,MS 13
+http://www.wikidata.org/entity/Q131767426,"New York, New York, Grolier Club, MS 14",manuscript containing De duobus amantibus; Epistula ad Raymundum; Invectiva ad indivum et detractorem; Sequitur invective Alani ad invidum et detractorem; De miseriis curialium,DS210,Q951,Q952,Grolier Club,MS 14
+http://www.wikidata.org/entity/Q131767427,"New York, New York, Grolier Club, MS 15",manuscript containing Missal; Histoire de la mort de Henri IV,DS211,Q954,Q955,Grolier Club,MS 15
+http://www.wikidata.org/entity/Q131767428,"New York, New York, Grolier Club, MS 16",manuscript containing Contra Appionem; Historia ecclesiastica; Excerpts regarding Josephus and Eusebius of Caesarea,DS212,Q957,Q958,Grolier Club,MS 16
+http://www.wikidata.org/entity/Q131767440,"New York, New York, Grolier Club, MS 17","manuscript containing Book of hours, use of Rome",DS213,Q960,Q961,Grolier Club,MS 17
+http://www.wikidata.org/entity/Q131767441,"New York, New York, Grolier Club, MS 18",manuscript containing Chy commenchent les eures de la crois; Book of Hours,DS214,Q963,Q964,Grolier Club,MS 18

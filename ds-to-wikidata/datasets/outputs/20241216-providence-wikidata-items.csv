@@ -1,8 +1,8 @@
-item,itemLabel,description,DSID,collection,identifiers
-http://www.wikidata.org/entity/Q131468110,"Providence, Rhode Island, Providence Public Library, Wetmore MS 3",manuscript containing Arabic alphabet,DS11393,Providence Public Library,Wetmore MS 3
-http://www.wikidata.org/entity/Q131468111,"Providence, Rhode Island, Providence Public Library, Wetmore MS 4",manuscript containing Durj al-mazamın,DS11394,Providence Public Library,Wetmore MS 4
-http://www.wikidata.org/entity/Q131468109,"Providence, Rhode Island, Providence Public Library, Wetmore MS 1",manuscript containing Biblical genealogies and other texts,DS216,Providence Public Library,Wetmore MS 1
-http://www.wikidata.org/entity/Q131468105,"Providence, Rhode Island, Providence Public Library, Wetmore MS 2",manuscript containing Book of Hours,DS217,Providence Public Library,Wetmore MS 2
-http://www.wikidata.org/entity/Q131468106,"Providence, Rhode Island, Providence Public Library, Ege MS 1","manuscript containing Bible, O. T.",DS218,Providence Public Library,Ege MS 1
-http://www.wikidata.org/entity/Q131468107,"Providence, Rhode Island, Providence Public Library, Ege MS 2","manuscript containing Bible, O. T.",DS219,Providence Public Library,Ege MS 2
-http://www.wikidata.org/entity/Q131468108,"Providence, Rhode Island, Providence Public Library, Ege MS 3",manuscript containing Lectionary,DS220,Providence Public Library,Ege MS 3
+item,itemLabel,description,DSID,manuscriptQID,recordQID,collection,identifiers
+http://www.wikidata.org/entity/Q131468110,"Providence, Rhode Island, Providence Public Library, Wetmore MS 3",manuscript containing Arabic alphabet,DS11393,Q49543,Q49544,Providence Public Library,Wetmore MS 3
+http://www.wikidata.org/entity/Q131468111,"Providence, Rhode Island, Providence Public Library, Wetmore MS 4",manuscript containing Durj al-mazamın,DS11394,Q49546,Q49547,Providence Public Library,Wetmore MS 4
+http://www.wikidata.org/entity/Q131468109,"Providence, Rhode Island, Providence Public Library, Wetmore MS 1",manuscript containing Biblical genealogies and other texts,DS216,Q969,Q970,Providence Public Library,Wetmore MS 1
+http://www.wikidata.org/entity/Q131468105,"Providence, Rhode Island, Providence Public Library, Wetmore MS 2",manuscript containing Book of Hours,DS217,Q972,Q973,Providence Public Library,Wetmore MS 2
+http://www.wikidata.org/entity/Q131468106,"Providence, Rhode Island, Providence Public Library, Ege MS 1","manuscript containing Bible, O. T.",DS218,Q975,Q976,Providence Public Library,Ege MS 1
+http://www.wikidata.org/entity/Q131468107,"Providence, Rhode Island, Providence Public Library, Ege MS 2","manuscript containing Bible, O. T.",DS219,Q978,Q979,Providence Public Library,Ege MS 2
+http://www.wikidata.org/entity/Q131468108,"Providence, Rhode Island, Providence Public Library, Ege MS 3",manuscript containing Lectionary,DS220,Q981,Q982,Providence Public Library,Ege MS 3
