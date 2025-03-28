@@ -1,314 +1,314 @@
-File,subject_as_recorded,vocab,subfield_codes,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
-20250313-named-subjects-penn-marcxml-indic.csv,Vasugupta. Spandakārikā,0,a;t,http://id.loc.gov/authorities/names/n81144383,Spandakārikā (Vasugupta),http://id.worldcat.org/fast/1368200,Q76121,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Tripurasundarī (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2017242618,,,,Tripurasundarī (Hindu deity),http://id.worldcat.org/fast/1157163,Q27036
-20250313-named-subjects-penn-marcxml-indic.csv,Tripurasundarī (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1157163,,,,Tripurasundarī (Hindu deity),http://id.worldcat.org/fast/1157163,Q27036
-20250313-named-subjects-penn-marcxml-indic.csv,Vedas--Recitation,0,a--x,http://id.loc.gov/authorities/subjects/sh85142469,,,,Vedas;Recitations,http://id.worldcat.org/fast/1356289;http://id.worldcat.org/fast/1091407,Q27198;Q11514
-20250313-named-subjects-penn-marcxml-indic.csv,Vedas,fast,a,http://id.worldcat.org/fast/1356289,Vedas,http://id.worldcat.org/fast/1356289,Q27198,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Rudra (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2018244516,,,,Rudra (Hindu deity),http://id.worldcat.org/fast/1101063,Q27463
-20250313-named-subjects-penn-marcxml-indic.csv,Rudra (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1101063,,,,Rudra (Hindu deity),http://id.worldcat.org/fast/1101063,Q27463
-20250313-named-subjects-penn-marcxml-indic.csv,Śiva (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/nb2017001158,Siva (Hindu deity),http://id.worldcat.org/fast/1119826,Q26681,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Siva (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1119826,,,,Siva (Hindu deity),http://id.worldcat.org/fast/1119826,Q26681
-20250313-named-subjects-penn-marcxml-indic.csv,Krishna (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/no2015096049,,,,Krishna (Hindu deity),http://id.worldcat.org/fast/989141,Q27188
-20250313-named-subjects-penn-marcxml-indic.csv,Krishna (Hindu deity),fast,a;c,http://id.worldcat.org/fast/989141,,,,Krishna (Hindu deity),http://id.worldcat.org/fast/989141,Q27188
-20250313-named-subjects-penn-marcxml-indic.csv,Mammaṭācārya. Kāvyaprakāśa,0,a;t,http://id.loc.gov/authorities/names/n81066199,Kāvyaprakāśa (Mammaṭācārya),http://id.worldcat.org/fast/1362499,Q76122,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Raghunātha Śiromaṇi. Tattvacintāmaṇidīdhiti,0,a;t,http://id.loc.gov/authorities/names/n87871180,Tattvacintāmaṇidīdhiti (Raghunātha Śiromaṇi),http://id.worldcat.org/fast/1364737,Q76123,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Mahābhārata,0,a,http://id.loc.gov/authorities/names/n79061233,,,,Mahābhārata,http://id.worldcat.org/fast/1356112,Q26667
-20250313-named-subjects-penn-marcxml-indic.csv,Mahābhārata,fast,a,http://id.worldcat.org/fast/1356112,,,,Mahābhārata,http://id.worldcat.org/fast/1356112,Q26667
-20250313-named-subjects-penn-marcxml-indic.csv,Puranas. Bhāgavatapurāṇa,fast,a;p,http://id.worldcat.org/fast/1356355,,,,Puranas. Bhāgavatapurāṇa,http://id.worldcat.org/fast/1356355,Q27402
-20250313-named-subjects-penn-marcxml-indic.csv,Puranas. Bhāgavatapurāṇa--Commentaries,0,a;p--v,,Puranas. Bhāgavatapurāṇa;Commentaries,http://id.worldcat.org/fast/1356355;http://id.worldcat.org/fast/1423723,Q27402;Q2812,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Baudhāyana,0,a,http://id.loc.gov/authorities/names/n80089829,,,,Baudhāyana,http://id.worldcat.org/fast/57764,Q26888
-20250313-named-subjects-penn-marcxml-indic.csv,Baudhāyana,fast,a,http://id.worldcat.org/fast/57764,,,,Baudhāyana,http://id.worldcat.org/fast/57764,Q26888
-20250313-named-subjects-penn-marcxml-indic.csv,Jagadīśatarkālaṅkāra. Pakṣatā--Early works to 1800,0,a;t--v,,Early works,http://id.worldcat.org/fast/1411636,Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Bādarāyaṇa. Brahmasūtra,0,a;t,http://id.loc.gov/authorities/names/n91033932,Brahmasūtra (Bādarāyaṇa),http://id.worldcat.org/fast/1357925,Q76124,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Bhairava (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2019244438,,,,Bhairava (Hindu deity),http://id.worldcat.org/fast/831085,Q26863
-20250313-named-subjects-penn-marcxml-indic.csv,Bhairava (Hindu deity),fast,a;c,http://id.worldcat.org/fast/831085,,,,Bhairava (Hindu deity),http://id.worldcat.org/fast/831085,Q26863
-20250313-named-subjects-penn-marcxml-indic.csv,Gaṇeśa (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2017065815,,,,Gaṇeśa (Hindu deity),http://id.worldcat.org/fast/939364,Q27053
-20250313-named-subjects-penn-marcxml-indic.csv,Gaṇeśa (Hindu deity),fast,a;c,http://id.worldcat.org/fast/939364,,,,Gaṇeśa (Hindu deity),http://id.worldcat.org/fast/939364,Q27053
-20250313-named-subjects-penn-marcxml-indic.csv,Nala (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/names/n2019240527,,,,Nala (Hindu mythological character),http://id.worldcat.org/fast/1032301,Q26770
-20250313-named-subjects-penn-marcxml-indic.csv,Nala (Hindu mythological character),fast,a;c,http://id.worldcat.org/fast/1032301,,,,Nala (Hindu mythological character),http://id.worldcat.org/fast/1032301,Q26770
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Īśopaniṣad,0,a;p,http://id.loc.gov/authorities/names/n82109977,,,,Upanishads. Īśopaniṣad,http://id.worldcat.org/fast/1357768,Q27323
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Īśopaniṣad,fast,a;p,http://id.worldcat.org/fast/1357768,,,,Upanishads. Īśopaniṣad,http://id.worldcat.org/fast/1357768,Q27323
-20250313-named-subjects-penn-marcxml-indic.csv,Bhāravi. Kirātārjunīya--Early works to 1800,0,a;t--v,,Kirātārjunīya (Bhāravi);Early works,http://id.worldcat.org/fast/1369338;http://id.worldcat.org/fast/1411636,Q26854;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śiva (Hindu deity)--Early works to 1800,0,a;c--v,,Siva (Hindu deity);Early works,http://id.worldcat.org/fast/1119826;http://id.worldcat.org/fast/1411636,Q26681;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Arjuna (Hindu mythological character)--Early works to 1800,0,a;c--v,,Arjuna (Hindu mythological character);Early works,http://id.worldcat.org/fast/814535;http://id.worldcat.org/fast/1411636,Q27151;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Arjuna (Hindu mythological character),fast,a;c,http://id.worldcat.org/fast/814535,,,,Arjuna (Hindu mythological character),http://id.worldcat.org/fast/814535,Q27151
-20250313-named-subjects-penn-marcxml-indic.csv,Damayantī (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/names/n2019244402,,,,Damayantī (Hindu mythological character),http://id.worldcat.org/fast/887293,Q27232
-20250313-named-subjects-penn-marcxml-indic.csv,Damayantī (Hindu mythological character),fast,a;c,http://id.worldcat.org/fast/887293,,,,Damayantī (Hindu mythological character),http://id.worldcat.org/fast/887293,Q27232
-20250313-named-subjects-penn-marcxml-indic.csv,Parvati (Hindu deity)--Early works to 1800,0,a;c--v,,Parvati (Hindu deity);Early works,http://id.worldcat.org/fast/1054247;http://id.worldcat.org/fast/1411636,Q26932;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Parvati (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1054247,,,,Parvati (Hindu deity),http://id.worldcat.org/fast/1054247,Q26932
-20250313-named-subjects-penn-marcxml-indic.csv,Vishnu (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2018242971,,,,Vishnu (Hindu deity),http://id.worldcat.org/fast/1167831,Q27014
-20250313-named-subjects-penn-marcxml-indic.csv,Vishnu (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1167831,,,,Vishnu (Hindu deity),http://id.worldcat.org/fast/1167831,Q27014
-20250313-named-subjects-penn-marcxml-indic.csv,Hanumān (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2017240885,,,,Hanumān (Hindu deity),http://id.worldcat.org/fast/951117,Q26991
-20250313-named-subjects-penn-marcxml-indic.csv,Hanumān (Hindu deity),fast,a;c,http://id.worldcat.org/fast/951117,,,,Hanumān (Hindu deity),http://id.worldcat.org/fast/951117,Q26991
-20250313-named-subjects-penn-marcxml-indic.csv,Rāma (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2017241692,,,,Rāma (Hindu deity),http://id.worldcat.org/fast/1102729,Q27467
-20250313-named-subjects-penn-marcxml-indic.csv,Rāma (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1102729,,,,Rāma (Hindu deity),http://id.worldcat.org/fast/1102729,Q27467
-20250313-named-subjects-penn-marcxml-indic.csv,Narayana (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2021014665,Nārāyaṇa (Hindu deity),http://id.worldcat.org/fast/1042512,Q26813,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Brahma (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/no2018072362,,,,Brahma (Hindu deity),http://id.worldcat.org/fast/837545,Q26761
-20250313-named-subjects-penn-marcxml-indic.csv,Brahma (Hindu deity),fast,a;c,http://id.worldcat.org/fast/837545,,,,Brahma (Hindu deity),http://id.worldcat.org/fast/837545,Q26761
-20250313-named-subjects-penn-marcxml-indic.csv,Vedas. R̥gveda,0,a;p,http://id.loc.gov/authorities/names/n80017845,,,,Vedas. R̥gveda,http://id.worldcat.org/fast/1356526,Q26665
-20250313-named-subjects-penn-marcxml-indic.csv,Vedas. R̥gveda,fast,a;p,http://id.worldcat.org/fast/1356526,,,,Vedas. R̥gveda,http://id.worldcat.org/fast/1356526,Q26665
-20250313-named-subjects-penn-marcxml-indic.csv,Vedas. Yajurveda. Kr̥ṣṇayajurveda (Taittirīyasaṃhitā).--Selections,0,a;p;p--k,http://id.loc.gov/authorities/names/n2016244980,Vedas. Yajurveda. Kr̥ṣṇayajurveda (Taittirīyasaṃhitā);Excerpts,http://id.worldcat.org/fast/1358838;http://id.worldcat.org/fast/1692837,Q26877;Q3547,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Durgā (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2017244199,,,,Durgā (Hindu deity),http://id.worldcat.org/fast/899573,Q27459
-20250313-named-subjects-penn-marcxml-indic.csv,Durgā (Hindu deity),fast,a;c,http://id.worldcat.org/fast/899573,,,,Durgā (Hindu deity),http://id.worldcat.org/fast/899573,Q27459
-20250313-named-subjects-penn-marcxml-indic.csv,"Keśavācārya Daivajña, active 16th century. Jātakapaddhati",0,a;d;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Sita (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2016248551,,,,Sita (Hindu deity),http://id.worldcat.org/fast/1141519,Q26905
-20250313-named-subjects-penn-marcxml-indic.csv,Sita (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1141519,,,,Sita (Hindu deity),http://id.worldcat.org/fast/1141519,Q26905
-20250313-named-subjects-penn-marcxml-indic.csv,Kālidāsa. Meghadūta,0,a;t,http://id.loc.gov/authorities/names/n84162302,Meghadūta (Kālidāsa),http://id.worldcat.org/fast/1363786,Q76125,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śaṅkarācārya. Daśaslokī,0,a;t,http://id.loc.gov/authorities/names/no2009174264,Daśaslokī (Śaṅkarācārya),http://id.worldcat.org/fast/1912997,Q76126,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Bhīṣma (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/names/n2016247941,,,,Bhīṣma (Hindu mythological character),http://id.worldcat.org/fast/831179,Q26896
-20250313-named-subjects-penn-marcxml-indic.csv,Bhīṣma (Hindu mythological character),fast,a;c,http://id.worldcat.org/fast/831179,,,,Bhīṣma (Hindu mythological character),http://id.worldcat.org/fast/831179,Q26896
-20250313-named-subjects-penn-marcxml-indic.csv,Kālī (Hindu deity)--Early works to 1800,0,a;c--x,,Kālī (Hindu deity);Early works,http://id.worldcat.org/fast/989637;http://id.worldcat.org/fast/1411636,Q27351;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Kālī (Hindu deity),fast,a;c,http://id.worldcat.org/fast/989637,,,,Kālī (Hindu deity),http://id.worldcat.org/fast/989637,Q27351
-20250313-named-subjects-penn-marcxml-indic.csv,Kālī (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2018241428,,,,Kālī (Hindu deity),http://id.worldcat.org/fast/989637,Q27351
-20250313-named-subjects-penn-marcxml-indic.csv,Vālmīki. Rāmāyaṇa,0,a;t,http://id.loc.gov/authorities/names/n82000506,,,,Rāmāyaṇa (Vālmīki),http://id.worldcat.org/fast/1356702,Q26955
-20250313-named-subjects-penn-marcxml-indic.csv,Raghunātha Śiromaṇi. Ākhyātavāda,0,a;t,http://id.loc.gov/authorities/names/n81151982,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Rāvaṇa (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/names/n2018240960,,,,Rāvaṇa (Hindu mythological character),http://id.worldcat.org/fast/1102741,Q26929
-20250313-named-subjects-penn-marcxml-indic.csv,Rāvaṇa (Hindu mythological character),fast,a;c,http://id.worldcat.org/fast/1102741,,,,Rāvaṇa (Hindu mythological character),http://id.worldcat.org/fast/1102741,Q26929
-20250313-named-subjects-penn-marcxml-indic.csv,Lakshmī (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2018240265,,,,Lakshmī (Hindu deity),http://id.worldcat.org/fast/990964,Q26704
-20250313-named-subjects-penn-marcxml-indic.csv,Lakshmī (Hindu deity),fast,a;c,http://id.worldcat.org/fast/990964,,,,Lakshmī (Hindu deity),http://id.worldcat.org/fast/990964,Q26704
-20250313-named-subjects-penn-marcxml-indic.csv,Āraṇyakas,fast,a,http://id.worldcat.org/fast/1373904,Āraṇyakas,http://id.worldcat.org/fast/1373904,Q76127,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Aranyakas. Aitareyāraṇyaka,fast,a;p,http://id.worldcat.org/fast/1366264,Aranyakas. Aitareyāraṇyaka,http://id.worldcat.org/fast/1366264,Q76128,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Aranyakas. Aitareyāraṇyaka.--Selections,0,a;p--k,,Aranyakas. Aitareyāraṇyaka;Excerpts,http://id.worldcat.org/fast/1366264;http://id.worldcat.org/fast/1692837,Q76128;Q3547,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śaṅkarācārya. Śārīrakamīmāṃsābhāṣya,0,a;t,http://id.loc.gov/authorities/names/n88241759,Śārīrakamīmāṃsābhāṣya (Śaṅkarācārya),http://id.worldcat.org/fast/1365134,Q76129,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Kālidāsa. Raghuvaṃśa,0,a;t,http://id.loc.gov/authorities/names/n87861913,Raghuvaṃśa (Kālidāsa),http://id.worldcat.org/fast/1356717,Q76130,,,
-20250313-named-subjects-penn-marcxml-indic.csv,"Annambhaṭṭa, active 17th century. Tarkasaṅgraha",0,a;d;t,http://id.loc.gov/authorities/names/n82119557,Tarkasaṅgraha (Annambhaṭṭa),http://id.worldcat.org/fast/1361790,Q76131,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Brahmanas,fast,a,http://id.worldcat.org/fast/1357020,Brahmanas,http://id.worldcat.org/fast/1357020,Q76132,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Brahmanas. Śatapathabrāhmaṇa,fast,a;p,http://id.worldcat.org/fast/1357644,Brahmanas. Śatapathabrāhmaṇa,http://id.worldcat.org/fast/1357644,Q76133,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Br̥hadāraṇyakopaniṣad,0,a;p,http://id.loc.gov/authorities/names/n83159846,,,,Upanishads. Br̥hadāraṇyakopaniṣad,http://id.worldcat.org/fast/1363389,Q27113
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Br̥hadāraṇyakopaniṣad,fast,a;p,http://id.worldcat.org/fast/1363389,,,,Upanishads. Br̥hadāraṇyakopaniṣad,http://id.worldcat.org/fast/1363389,Q27113
-20250313-named-subjects-penn-marcxml-indic.csv,Brahmanas. Śatapathabrāhmaṇa.--Selections,0,a;p--k,,Brahmanas. Śatapathabrāhmaṇa;Excerpts,http://id.worldcat.org/fast/1357644;http://id.worldcat.org/fast/1692837,Q76133;Q3547,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śaṅkarācārya. Māṇḍūkyopaniṣadbhāṣya,0,a;t,http://id.loc.gov/authorities/names/no2013105433,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Gauḍapāda Ācārya. Gauḍapādakārikā,0,a;t,http://id.loc.gov/authorities/names/n82076361,Gauḍapādakārikā (Gauḍapāda Ācārya),http://id.worldcat.org/fast/1360713,Q76134,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Jaimini. Mīmāṃsāsūtra,0,a;t,http://id.loc.gov/authorities/names/n88192735,Mīmāṃsāsūtra (Jaimini),http://id.worldcat.org/fast/1357061,Q76135,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Parvati (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/no2019083403,,,,Parvati (Hindu deity),http://id.worldcat.org/fast/1054247,Q26932
-20250313-named-subjects-penn-marcxml-indic.csv,"Gaṅgeśa, active 13th century. Tattvacintāmaṇi",0,a;d;t,http://id.loc.gov/authorities/names/n84191658,Tattvacintāmaṇi (Gaṅgeśa),http://id.worldcat.org/fast/1358022,Q76136,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Bhaṭṭojī Dīkṣita. Siddhāntakaumudī,0,a;t,http://id.loc.gov/authorities/names/n2008207697,Siddhāntakaumudī (Bhaṭṭojī Dīkṣita),http://id.worldcat.org/fast/1359676,Q76137,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Taittirīyopaniṣad,0,a;p,http://id.loc.gov/authorities/names/n81104124,,,,Upanishads. Taittirīyopaniṣad,http://id.worldcat.org/fast/1357539,Q26604
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Taittirīyopaniṣad,fast,a;p,http://id.worldcat.org/fast/1357539,,,,Upanishads. Taittirīyopaniṣad,http://id.worldcat.org/fast/1357539,Q26604
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Śvetāśvataropaniṣad,0,a;p,http://id.loc.gov/authorities/names/n90647906,,,,Upanishads. Śvetāśvataropaniṣad,http://id.worldcat.org/fast/1363395,Q27408
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Śvetāśvataropaniṣad,fast,a;p,http://id.worldcat.org/fast/1363395,,,,Upanishads. Śvetāśvataropaniṣad,http://id.worldcat.org/fast/1363395,Q27408
-20250313-named-subjects-penn-marcxml-indic.csv,Madhusūdana Sarasvatī. Siddhāntabindu,0,a;t,http://id.loc.gov/authorities/names/n90663061,Siddhāntabindu (Madhusūdana Sarasvatī),http://id.worldcat.org/fast/1388976,Q76138,,,
-20250313-named-subjects-penn-marcxml-indic.csv,"Gaṅgeśa, active 13th century. Pratyakṣakhaṇḍa",0,a;d;t,http://id.loc.gov/authorities/names/n89297290,Pratyakṣakhaṇḍa (Gaṅgeśa),http://id.worldcat.org/fast/1382807,Q76139,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads,0,a,http://id.loc.gov/authorities/names/n80020526,,,,Upanishads,http://id.worldcat.org/fast/1356391,Q27293
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads,fast,a,http://id.worldcat.org/fast/1356391,,,,Upanishads,http://id.worldcat.org/fast/1356391,Q27293
-20250313-named-subjects-penn-marcxml-indic.csv,Sūrya (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2017066130,,,,Sūrya (Hindu deity),http://id.worldcat.org/fast/1141527,Q26821
-20250313-named-subjects-penn-marcxml-indic.csv,Sūrya (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1141527,,,,Sūrya (Hindu deity),http://id.worldcat.org/fast/1141527,Q26821
-20250313-named-subjects-penn-marcxml-indic.csv,Gaṇeśa (Hindu deity)--Art,0,a;c--v,,Gaṇeśa (Hindu deity);Art,http://id.worldcat.org/fast/939364;http://id.worldcat.org/fast/1423702,Q27053;Q38573,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Vedas. R̥gveda. Gāyatrī,0,a;p;p,http://id.loc.gov/authorities/names/n82047076,,,,Vedas. R̥gveda. Gāyatrī,http://id.worldcat.org/fast/1363664,Q26702
-20250313-named-subjects-penn-marcxml-indic.csv,Vedas. R̥gveda. Gāyatrī,fast,a;p;p,http://id.worldcat.org/fast/1363664,,,,Vedas. R̥gveda. Gāyatrī,http://id.worldcat.org/fast/1363664,Q26702
-20250313-named-subjects-penn-marcxml-indic.csv,Gaṇeśa (Hindu deity)--Early works to 1800,0,a;c--x,,,,,Gaṇeśa (Hindu deity);Early works,http://id.worldcat.org/fast/939364;http://id.worldcat.org/fast/1411636,Q27053;Q300
-20250313-named-subjects-penn-marcxml-indic.csv,Krishna (Hindu deity)--Early works to 1800,0,a;c--v,,Krishna (Hindu deity);Early works,http://id.worldcat.org/fast/989141;http://id.worldcat.org/fast/1411636,Q27188;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Bhagavadgītā,0,a,http://id.loc.gov/authorities/names/n79142762,,,,Bhagavadgītā,http://id.worldcat.org/fast/1356184,Q26635
-20250313-named-subjects-penn-marcxml-indic.csv,Bhagavadgītā,fast,a,http://id.worldcat.org/fast/1356184,,,,Bhagavadgītā,http://id.worldcat.org/fast/1356184,Q26635
-20250313-named-subjects-penn-marcxml-indic.csv,Radha (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2016245709,,,,Radha (Hindu deity),http://id.worldcat.org/fast/1102716,Q27211
-20250313-named-subjects-penn-marcxml-indic.csv,Radha (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1102716,,,,Radha (Hindu deity),http://id.worldcat.org/fast/1102716,Q27211
-20250313-named-subjects-penn-marcxml-indic.csv,Agni (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2017240192,,,,Agni (Hindu deity),http://id.worldcat.org/fast/800393,Q27033
-20250313-named-subjects-penn-marcxml-indic.csv,Agni (Hindu deity),fast,a;c,http://id.worldcat.org/fast/800393,,,,Agni (Hindu deity),http://id.worldcat.org/fast/800393,Q27033
-20250313-named-subjects-penn-marcxml-indic.csv,Śiva (Hindu deity)--Early works to 1800,0,a;c--x,,Sita (Hindu deity);Early works,http://id.worldcat.org/fast/1141519;http://id.worldcat.org/fast/1411636,Q26905;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Puranas. Padmapurāṇa,0,a;p,http://id.loc.gov/authorities/names/n50078444,,,,Puranas. Padmapurāṇa,http://id.worldcat.org/fast/1356527,Q26801
-20250313-named-subjects-penn-marcxml-indic.csv,Puranas. Padmapurāṇa,fast,a;p,http://id.worldcat.org/fast/1356527,,,,Puranas. Padmapurāṇa,http://id.worldcat.org/fast/1356527,Q26801
-20250313-named-subjects-penn-marcxml-indic.csv,Narasiṃha (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2019243995,Narasiṃha (Hindu deity),http://id.worldcat.org/fast/1032733,Q27296,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Indra (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2020242216,Indra (Hindu deity),http://id.worldcat.org/fast/970722,Q26686,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śaṅkarācārya. Pañcīkaraṇa,0,a;t,http://id.loc.gov/authorities/names/n90663102,Pañcīkaraṇa (Śaṅkarācārya),http://id.worldcat.org/fast/1375881,Q76140,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Balarāma (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2017241998,,,,Balarāma (Hindu deity),http://id.worldcat.org/fast/825729,Q27322
-20250313-named-subjects-penn-marcxml-indic.csv,Balarāma (Hindu deity),fast,a;c,http://id.worldcat.org/fast/825729,,,,Balarāma (Hindu deity),http://id.worldcat.org/fast/825729,Q27322
-20250313-named-subjects-penn-marcxml-indic.csv,Kuntī (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/names/n2020242356,,,,Kuntī (Hindu mythological character),http://id.worldcat.org/fast/989368,Q27209
-20250313-named-subjects-penn-marcxml-indic.csv,Kuntī (Hindu mythological character),fast,a;c,http://id.worldcat.org/fast/989368,,,,Kuntī (Hindu mythological character),http://id.worldcat.org/fast/989368,Q27209
-20250313-named-subjects-penn-marcxml-indic.csv,Gāyatrī (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2022240231,Gāyatrī (Hindu deity),http://id.worldcat.org/fast/949799,Q27137,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Sarasvatī (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/no2020029712,,,,Sarasvatī (Hindu deity),http://id.worldcat.org/fast/1105454,Q27377
-20250313-named-subjects-penn-marcxml-indic.csv,Sarasvatī (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1105454,,,,Sarasvatī (Hindu deity),http://id.worldcat.org/fast/1105454,Q27377
-20250313-named-subjects-penn-marcxml-indic.csv,Pr̥thuyaśas. Ṣaṭpañcāśikā,0,a;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Yama (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2018245504,,,,Yama (Hindu deity),http://id.worldcat.org/fast/1201104,Q26835
-20250313-named-subjects-penn-marcxml-indic.csv,Yama (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1201104,,,,Yama (Hindu deity),http://id.worldcat.org/fast/1201104,Q26835
-20250313-named-subjects-penn-marcxml-indic.csv,Śakti (Hindu deity)--Cult,0,a;c--x,,Śakti (Hindu deity);Cults,http://id.worldcat.org/fast/1185112;http://id.worldcat.org/fast/884980,Q26818;Q26639,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śakti (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1185112,,,,Śakti (Hindu deity),http://id.worldcat.org/fast/1185112,Q26818
-20250313-named-subjects-penn-marcxml-indic.csv,Gr̥hyasutras,0,a,http://id.loc.gov/authorities/names/n89297193,,,,Gr̥hyasutras,http://id.worldcat.org/fast/1361523,Q27085
-20250313-named-subjects-penn-marcxml-indic.csv,Gr̥hyasutras,fast,a,http://id.worldcat.org/fast/1361523,,,,Gr̥hyasutras,http://id.worldcat.org/fast/1361523,Q27085
-20250313-named-subjects-penn-marcxml-indic.csv,Śaṅkarācārya. Haristuti,0,a;t,http://id.loc.gov/authorities/names/no2013105366,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Gangā (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2018241436,,,,Gangā (Hindu deity),http://id.worldcat.org/fast/939362,Q27392
-20250313-named-subjects-penn-marcxml-indic.csv,Gangā (Hindu deity),fast,a;c,http://id.worldcat.org/fast/939362,,,,Gangā (Hindu deity),http://id.worldcat.org/fast/939362,Q27392
-20250313-named-subjects-penn-marcxml-indic.csv,Arjuna (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/names/n2017241681,,,,Arjuna (Hindu mythological character),http://id.worldcat.org/fast/814535,Q27151
-20250313-named-subjects-penn-marcxml-indic.csv,"Nīlakaṇṭha, active 16th century. Nīlakaṇṭhī",0,a;d;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Viśvanātha Nyāyapañcānana Bhaṭṭācārya. Bhāṣāpariccheda,0,a;t,http://id.loc.gov/authorities/names/n82010006,Bhāṣāpariccheda (Viśvanātha Nyāyapañcānana Bhaṭṭācārya),http://id.worldcat.org/fast/1373027,Q76141,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Aitareyopaniṣad,0,a;p,http://id.loc.gov/authorities/names/n50082015,,,,Upanishads. Aitareyopaniṣad,http://id.worldcat.org/fast/1358683,Q26641
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Aitareyopaniṣad,fast,a;p,http://id.worldcat.org/fast/1358683,,,,Upanishads. Aitareyopaniṣad,http://id.worldcat.org/fast/1358683,Q26641
-20250313-named-subjects-penn-marcxml-indic.csv,Radha (Hindu deity)--Poetry--Early works to 1800,0,a;c--v--v,,Radha (Hindu deity);Poetry;Early works,http://id.worldcat.org/fast/1102716;http://id.worldcat.org/fast/1423828;http://id.worldcat.org/fast/1411636,Q27211;Q247;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Udayanācārya. Kiraṇavalī,0,a;t,http://id.loc.gov/authorities/names/no2003091021,Kiraṇavalī (Udayanācārya),http://id.worldcat.org/fast/1373954,Q76142,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Rāma (Hindu deity)--Early works to 1800,0,a;c--v,,Rāma (Hindu deity);Early works,http://id.worldcat.org/fast/1102729;http://id.worldcat.org/fast/1411636,Q27467;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Rāma (Hindu deity)--Art,0,a;c--v,,Rāma (Hindu deity);Art,http://id.worldcat.org/fast/1102729;http://id.worldcat.org/fast/1423702,Q27467;Q38573,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Sita (Hindu deity)--Art,0,a;c--v,,Sita (Hindu deity);Art,http://id.worldcat.org/fast/1141519;http://id.worldcat.org/fast/1423702,Q26905;Q38573,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Hanumān (Hindu deity)--Art,0,a;c--v,,Hanumān (Hindu deity);Art,http://id.worldcat.org/fast/951117;http://id.worldcat.org/fast/1423702,Q26991;Q38573,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Taittirīyopaniṣad,0,a;p,,,,,Upanishads. Taittirīyopaniṣad,http://id.worldcat.org/fast/1357539,Q26604
-20250313-named-subjects-penn-marcxml-indic.csv,Bhānudatta Miśra. Rasataraṇgiṇī,0,a;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Vedas. Atharvaveda,fast,a;p,http://id.worldcat.org/fast/1359282,,,,Vedas. Atharvaveda,http://id.worldcat.org/fast/1359282,Q26819
-20250313-named-subjects-penn-marcxml-indic.csv,Vedas. Atharvaveda--Early works to 1800,0,a;p--v,,Vedas. Atharvaveda;Early works,http://id.worldcat.org/fast/1359282;http://id.worldcat.org/fast/1411636,Q26819;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Sita (Hindu deity)--Drama,0,a;c--v,,Sita (Hindu deity);Drama,http://id.worldcat.org/fast/1141519;http://id.worldcat.org/fast/1423879,Q26905;Q3010,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Rāma (Hindu deity)--Drama,0,a;c--v,,Rāma (Hindu deity);Drama,http://id.worldcat.org/fast/1102729;http://id.worldcat.org/fast/1423879,Q27467;Q3010,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Sureśvarācārya. Taittirīyopaniṣadbhāṣyavārttika,0,a;t,http://id.loc.gov/authorities/names/n88100483,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śaṅkarācārya. Taittirīyopaniṣadbhāṣya,0,a;t,http://id.loc.gov/authorities/names/n2016246567,Taittirīyopaniṣadbhāṣya (Śaṅkarācārya),http://id.worldcat.org/fast/2058154,Q76143,,,
-20250313-named-subjects-penn-marcxml-indic.csv,"Jānakīnātha Bhaṭṭācārya, active 16th century. Nyāyasiddhāntamañjarī",0,a;d;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Manu (Lawgiver). Mānavadharmaśāstra,0,a;c;t,http://id.loc.gov/authorities/names/n81022815,Mānavadharmaśāstra (Manu (Lawgiver)),http://id.worldcat.org/fast/1356989,Q76144,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Mārkaṇḍeya (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/names/n2019243999,Mārkaṇḍeya (Hindu mythology),http://id.worldcat.org/fast/1032026,Q76145,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Gaṇeśa (Hindu deity)--Painting,0,a;c--x,,Gaṇeśa (Hindu deity);Painting,http://id.worldcat.org/fast/939364;http://id.worldcat.org/fast/1050567,Q27053;Q19869,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śiva (Hindu deity)--Painting,0,a;c--x,,Sita (Hindu deity);Painting,http://id.worldcat.org/fast/1141519;http://id.worldcat.org/fast/1050567,Q26905;Q19869,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Parvati (Hindu deity)--Painting,0,a;c--x,,Parvati (Hindu deity);Painting,http://id.worldcat.org/fast/1054247;http://id.worldcat.org/fast/1050567,Q26932;Q19869,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Vedas--Recitation--Early works to 1800,0,a--x--v,,Vedas;Recitations;Early works,http://id.worldcat.org/fast/1356289;http://id.worldcat.org/fast/1091407;http://id.worldcat.org/fast/1411636,Q27198;Q11514;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,"Gaṇeśadaivajña, active 1520-1554. Jātakālaṃkāra",0,a;d;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Yājñavalkya. Yājñavalkyasmr̥ti--Early works to 1800,0,a;t--v,,Yājñavalkyasmr̥ti (Yājñavalkya);Early works,http://id.worldcat.org/fast/1360784;http://id.worldcat.org/fast/1411636,Q76146;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Puranas. Bhāgavatapurāṇa,0,a;p,http://id.loc.gov/authorities/names/n80121195,,,,Puranas. Bhāgavatapurāṇa,http://id.worldcat.org/fast/1356355,Q27402
-20250313-named-subjects-penn-marcxml-indic.csv,"Gaṅgeśa, active 13th century. Tattvacintāmaṇi--Early works to 1800",0,a;d;t--v,,Tattvacintāmaṇi (Gaṅgeśa);Early works,http://id.worldcat.org/fast/1358022;http://id.worldcat.org/fast/1411636,Q76136;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Yellamma (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2021241778,,,,Yellamma (Hindu deity),http://id.worldcat.org/fast/1747027,Q27470
-20250313-named-subjects-penn-marcxml-indic.csv,Yellamma (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1747027,,,,Yellamma (Hindu deity),http://id.worldcat.org/fast/1747027,Q27470
-20250313-named-subjects-penn-marcxml-indic.csv,Bhairava (Hindu deity)--Early works to 1800,0,a;c--v,,Bhairava (Hindu deity);Early works,http://id.worldcat.org/fast/831085;http://id.worldcat.org/fast/1411636,Q26863;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Vedas--Rites and ceremonies,0,a--x,http://id.loc.gov/authorities/subjects/sh85142470,Vedas;Rites and ceremonies,http://id.worldcat.org/fast/1356289;http://id.worldcat.org/fast/1098216,Q27198;Q7459,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śaṅkarācārya. Vākyasudhā,0,a;t,http://id.loc.gov/authorities/names/n82053211,Vākyasudhā (Śaṅkarācārya),http://id.worldcat.org/fast/1368905,Q76147,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Muṇḍakopaniṣad,fast,a;p,http://id.worldcat.org/fast/1361140,,,,Upanishads. Muṇḍakopaniṣad,http://id.worldcat.org/fast/1361140,Q27125
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Muṇḍakopaniṣad--Early works to 1800,0,a;p--v,,,,,Upanishads. Muṇḍakopaniṣad;Early works,http://id.worldcat.org/fast/1361140;http://id.worldcat.org/fast/1411636,Q27125;Q300
-20250313-named-subjects-penn-marcxml-indic.csv,"Śrīharṣa, active 12th century. Naiṣadhīyacarita",0,a;d;t,http://id.loc.gov/authorities/names/n88259167,,,,Naiṣadhīyacarita (Śrīharṣa),http://id.worldcat.org/fast/1365043,Q27304
-20250313-named-subjects-penn-marcxml-indic.csv,"Keśavācārya Daivajña, active 16th century. Jātakapaddhati--Early works to 1800",0,a;d;t--v,,Early works,http://id.worldcat.org/fast/1411636,Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Radha (Hindu deity)--Poetry,0,a;c--v,,Radha (Hindu deity);Poetry,http://id.worldcat.org/fast/1102716;http://id.worldcat.org/fast/1423828,Q27211;Q247,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Krishna (Hindu deity)--Poetry,0,a;c--v,,Krishna (Hindu deity);Poetry,http://id.worldcat.org/fast/989141;http://id.worldcat.org/fast/1423828,Q27188;Q247,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Sarvajñātman. Śārīraprakaraṇasaṃkṣepaśārīraka,0,a;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Bhānudatta Miśra. Rasamañjarī,0,a;t,http://id.loc.gov/authorities/names/n82129918,Rasamañjarī (Bhānudatta Miśra),http://id.worldcat.org/fast/1367194,Q76148,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śaṅkarācārya. Praśnopaniṣadbhāṣya,0,a;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Praśnopaniṣad,0,a;p,http://id.loc.gov/authorities/names/n88268074,,,,Upanishads. Praśnopaniṣad,http://id.worldcat.org/fast/1361688,Q26982
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Praśnopaniṣad,fast,a;p,http://id.worldcat.org/fast/1361688,,,,Upanishads. Praśnopaniṣad,http://id.worldcat.org/fast/1361688,Q26982
-20250313-named-subjects-penn-marcxml-indic.csv,"Pārthasārathimiśra, active 11th century. Śāstradīpikā",0,a;d;t,,Śāstradīpikā (Pārthasārathimiśra),http://id.worldcat.org/fast/2056947,Q76149,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Vedas. Atharvaveda,0,a;p,http://id.loc.gov/authorities/names/n80017844,,,,Vedas. Atharvaveda,http://id.worldcat.org/fast/1359282,Q26819
-20250313-named-subjects-penn-marcxml-indic.csv,"Bhaṭṭācāryya, Bhavānanda Siddhāntavāgīśa. TattvacintāmaṇidIdhitiprakāśa",0,a;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Govindaṭhakkura. Kāvyapradīpa,0,a;t,http://id.loc.gov/authorities/names/n2009215262,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Jesus Christ--Biography,0,a--v,http://id.loc.gov/authorities/subjects/sh85069970,Jesus Christ;Biographies,http://id.worldcat.org/fast/40116;http://id.worldcat.org/fast/1919896,Q338;Q3051,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Jesus Christ,fast,a,http://id.worldcat.org/fast/40116,,,,Jesus Christ,http://id.worldcat.org/fast/40116,Q338
-20250313-named-subjects-penn-marcxml-indic.csv,Jesus Christ--Teachings,0,a--x,http://id.loc.gov/authorities/subjects/sh85070127,Jesus Christ;Teachings,http://id.worldcat.org/fast/40116;http://id.worldcat.org/fast/1355128,Q338;Q27078,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Puranas. Mārkaṇḍeyapurāṇa. Devīmāhātmya,0,a;p;p,http://id.loc.gov/authorities/names/n78011434,,,,Puranas. Mārkaṇḍeyapurāṇa. Devīmāhātmya,http://id.worldcat.org/fast/1361522,Q27453
-20250313-named-subjects-penn-marcxml-indic.csv,Puranas. Mārkaṇḍeyapurāṇa. Devīmāhātmya,fast,a;p;p,http://id.worldcat.org/fast/1361522,,,,Puranas. Mārkaṇḍeyapurāṇa. Devīmāhātmya,http://id.worldcat.org/fast/1361522,Q27453
-20250313-named-subjects-penn-marcxml-indic.csv,Śakti (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2018245486,,,,Śakti (Hindu deity),http://id.worldcat.org/fast/1185112,Q26818
-20250313-named-subjects-penn-marcxml-indic.csv,Bādarāyaṇa. Brahmasūtra--Early works to 1800,0,a;t--v,,Brahmasūtra (Bādarāyaṇa);Early works,http://id.worldcat.org/fast/1357925;http://id.worldcat.org/fast/1411636,Q76124;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śaṅkarācārya. Śārīrakamīmāṃsābhāṣya--Early works to 1800,0,a;t--v,,Śārīrakamīmāṃsābhāṣya (Śaṅkarācārya);Early works,http://id.worldcat.org/fast/1365134;http://id.worldcat.org/fast/1411636,Q76129;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Vālmīki. Rāmāyaṇa--Early works to 1800,0,a;t--v,,Rāmāyaṇa (Vālmīki);Early works,http://id.worldcat.org/fast/1356702;http://id.worldcat.org/fast/1411636,Q26955;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Dhūrtasvāmī. Āpastambaśrautasūtra dhūtasvāmibhāṣya,0,a;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Āpastambaśrautasūtra,0,a,http://id.loc.gov/authorities/names/n82126807,,,,Āpastambaśrautasūtra,http://id.worldcat.org/fast/1374825,Q27150
-20250313-named-subjects-penn-marcxml-indic.csv,Āpastambaśrautasūtra,fast,a,http://id.worldcat.org/fast/1374825,,,,Āpastambaśrautasūtra,http://id.worldcat.org/fast/1374825,Q27150
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Kenopaniṣad,0,a;p,http://id.loc.gov/authorities/names/n81080100,,,,Upanishads. Kenopaniṣad,http://id.worldcat.org/fast/1362611,Q27388
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Kenopaniṣad,fast,a;p,http://id.worldcat.org/fast/1362611,,,,Upanishads. Kenopaniṣad,http://id.worldcat.org/fast/1362611,Q27388
-20250313-named-subjects-penn-marcxml-indic.csv,Śaṅkarācārya. Mahimnāstotra,0,a;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śaṅkarācārya. Aparokṣānubhūti,0,a;t,http://id.loc.gov/authorities/names/no2013101911,Aparokṣānubhūti (Śaṅkarācārya),http://id.worldcat.org/fast/1373931,Q76150,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Rudra (Hindu deity)--Early works to 1800,0,a;c--v,,,,,Rudra (Hindu deity);Early works,http://id.worldcat.org/fast/1101063;http://id.worldcat.org/fast/1411636,Q27463;Q300
-20250313-named-subjects-penn-marcxml-indic.csv,"Padmapādācārya, active 8th century. Pañcapādikā",0,a;d;t,http://id.loc.gov/authorities/names/no2002044640,Pañcapādikā (Padmapādācārya),http://id.worldcat.org/fast/1372822,Q76151,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Sadānanda Yogīndra. Vedāntasāra,0,a;t,http://id.loc.gov/authorities/names/no97062919,Vedāntasāra (Sadānanda Yogīndra),http://id.worldcat.org/fast/1372928,Q76152,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Kālidāsa. Raghuvaṃśa--Early works to 1800,0,a;t--v,,Raghuvaṃśa (Kālidāsa);Early works,http://id.worldcat.org/fast/1356717;http://id.worldcat.org/fast/1411636,Q76130;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,"Nāgeśabhaṭṭa, active 1670-1750. Paribhāṣenduśekhara",0,a;d;t,http://id.loc.gov/authorities/names/n2007210948,Paribhāṣenduśekhara (Nāgeśabhaṭṭa),http://id.worldcat.org/fast/1370004,Q76153,,,
-20250313-named-subjects-penn-marcxml-indic.csv,"Amaracandrasūri, active 13th century. Kavyakalpalatā",0,a;d;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Bhāravi. Kirātārjunīya,0,a;t,http://id.loc.gov/authorities/names/n84162331,,,,Kirātārjunīya (Bhāravi),http://id.worldcat.org/fast/1369338,Q26854
-20250313-named-subjects-penn-marcxml-indic.csv,Īśvarakr̥ṣṇa. Sāṅkhyakārikā,0,a;t,http://id.loc.gov/authorities/names/no93017682,Sāṅkhyakārikā (Īśvarakr̥ṣṇa),http://id.worldcat.org/fast/1356898,Q76154,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śaṅkarācārya. Chāndogyopaniṣadbhāṣya,0,a;t,http://id.loc.gov/authorities/names/n88022269,Chāndogyopaniṣadbhāṣya (Śaṅkarācārya),http://id.worldcat.org/fast/1366004,Q76155,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Chāndogyopaniṣad,0,a;p,http://id.loc.gov/authorities/names/n80017847,,,,Upanishads. Chāndogyopaniṣad,http://id.worldcat.org/fast/1359129,Q27362
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Chāndogyopaniṣad,fast,a;p,http://id.worldcat.org/fast/1359129,,,,Upanishads. Chāndogyopaniṣad,http://id.worldcat.org/fast/1359129,Q27362
-20250313-named-subjects-penn-marcxml-indic.csv,"Madhva, active 13th century",0,a;d,http://id.loc.gov/authorities/names/n50044991,,,,"Madhva, active 13th century",http://id.worldcat.org/fast/1832127,Q26731
-20250313-named-subjects-penn-marcxml-indic.csv,"Madhva, active 13th century",fast,a;d,http://id.worldcat.org/fast/1832127,,,,"Madhva, active 13th century",http://id.worldcat.org/fast/1832127,Q26731
-20250313-named-subjects-penn-marcxml-indic.csv,Puranas. Bhāgavatapurāṇa.--2. skandha,0,a;p--n,,Puranas. Bhāgavatapurāṇa,http://id.worldcat.org/fast/1356355,Q27402,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Puranas,fast,a,http://id.worldcat.org/fast/1357519,,,,Puranas,http://id.worldcat.org/fast/1357519,Q27019
-20250313-named-subjects-penn-marcxml-indic.csv,Viśvanātha Nyāyapañcānana Bhaṭṭācārya. Siddhāntamuktāvalī,0,a;t,http://id.loc.gov/authorities/names/n2018243958,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Vedas. Atharvaveda.--Selections,0,a;p--k,,Vedas. Atharvaveda;Excerpts,http://id.worldcat.org/fast/1359282;http://id.worldcat.org/fast/1692837,Q26819;Q3547,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Kālāgnirudropaniṣad,0,a;p,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Muṇḍakopaniṣad--Early works to 1800,0,a;p--x,,,,,Upanishads. Muṇḍakopaniṣad;Early works,http://id.worldcat.org/fast/1361140;http://id.worldcat.org/fast/1411636,Q27125;Q300
-20250313-named-subjects-penn-marcxml-indic.csv,Mahāvīra,0,a,http://id.loc.gov/authorities/names/n50059509,,,,Mahāvīra,http://id.worldcat.org/fast/18606,Q27383
-20250313-named-subjects-penn-marcxml-indic.csv,Mahāvīra,fast,a,http://id.worldcat.org/fast/18606,,,,Mahāvīra,http://id.worldcat.org/fast/18606,Q27383
-20250313-named-subjects-penn-marcxml-indic.csv,Jagadīśatarkālaṅkāra. Jāgadīśī,0,a;t,http://id.loc.gov/authorities/names/n80080343,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Kālidāsa. Kumārasambhava--Early works to 1800,0,a;t--v,,Kumārasambhava (Kālidāsa);Early works,http://id.worldcat.org/fast/1364820;http://id.worldcat.org/fast/1411636,Q76156;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Nr̥siṃhāśrama. Vedāntatattvaviveka,0,a;t,http://id.loc.gov/authorities/names/n88254517,Vedāntatattvaviveka (Nr̥siṃhāśrama),http://id.worldcat.org/fast/1368840,Q76157,,,
-20250313-named-subjects-penn-marcxml-indic.csv,"Rāmacandra, Somayāji. Samarasāra--Early works to 1800",0,a;c;t--v,,Early works,http://id.worldcat.org/fast/1411636,Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śītalā (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2014211030,,,,Śītalā (Hindu deity),http://id.worldcat.org/fast/1185155,Q26767
-20250313-named-subjects-penn-marcxml-indic.csv,Śītalā (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1185155,,,,Śītalā (Hindu deity),http://id.worldcat.org/fast/1185155,Q26767
-20250313-named-subjects-penn-marcxml-indic.csv,Jagadīśatarkālaṅkara. Vyādhikaraṇa,0,a;t,http://id.loc.gov/authorities/names/n89249578,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Bhaṭṭojī Dīkṣita. Siddhāntakaumudī--Early works to 1800,0,a;t--v,,Siddhāntakaumudī (Bhaṭṭojī Dīkṣita);Early works,http://id.worldcat.org/fast/1359676;http://id.worldcat.org/fast/1411636,Q76137;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śaunaka. R̥gvedaprātiśākhya,0,a;t,http://id.loc.gov/authorities/names/n88190883,R̥gvedaprātiśākhya (Śaunaka),http://id.worldcat.org/fast/1368311,Q76158,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Annapūrṇā (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/no2019090136,,,,Annapūrṇā (Hindu deity),http://id.worldcat.org/fast/809712,Q27449
-20250313-named-subjects-penn-marcxml-indic.csv,Annapūrṇā (Hindu deity),fast,a;c,http://id.worldcat.org/fast/809712,,,,Annapūrṇā (Hindu deity),http://id.worldcat.org/fast/809712,Q27449
-20250313-named-subjects-penn-marcxml-indic.csv,"Bhāskarācārya, 1114-1185. Siddhāntaśiromaṇi",0,a;d;t,http://id.loc.gov/authorities/names/n88179505,Siddhāntaśiromaṇi (Bhāskarācārya),http://id.worldcat.org/fast/1916918,Q76159,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Vāyu (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2018244504,Vāyu (Hindu deity),http://id.worldcat.org/fast/1169396,Q26683,,,
-20250313-named-subjects-penn-marcxml-indic.csv,"Dharmarājādhvarīndra, active 17th century. Vedāntaparibhāṣā",0,a;d;t,http://id.loc.gov/authorities/names/no2002034992,Vedāntaparibhāṣā (Dharmarājādhvarīndra),http://id.worldcat.org/fast/1374448,Q76160,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Mahābhārata--Commentaries--Early works to 1800,0,a--v--v,,Mahābhārata;Commentaries;Early works,http://id.worldcat.org/fast/1356112;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q26667;Q2812;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,"Gaṅgeśa, active 13th century. Siddhāntalakṣaṇa",0,a;d;t,http://id.loc.gov/authorities/names/n88265315,Siddhāntalakṣaṇa (Gaṅgeśa),http://id.worldcat.org/fast/1375405,Q76161,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Bhaṭṭojī Dīkṣita. Prauḍhamanoramā,0,a;t,http://id.loc.gov/authorities/names/no2007090932,Prauḍhamanoramā (Bhaṭṭojī Dīkṣita),http://id.worldcat.org/fast/2058142,Q76162,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śaṅkarācārya. Laghuvākyavr̥tti,0,a;t,http://id.loc.gov/authorities/names/no2013105420,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,"Rāṭhī, Dāmodaradāsa, 17th century. Sāṃgītadarpaṇa",0,a;d;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Vishnu (Hindu deity)--Early works to 1800,0,a;c--v,,Vishnu (Hindu deity);Early works,http://id.worldcat.org/fast/1167831;http://id.worldcat.org/fast/1411636,Q27014;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,"Mādhava, -1386. Anubhūtiprakāśa",0,a;d;t,http://id.loc.gov/authorities/names/n88254531,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Patañjali. Mahābhāṣya,0,a;t,http://id.loc.gov/authorities/names/n84226952,Mahābhāṣya (Patañjali),http://id.worldcat.org/fast/1356658,Q76163,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Jagannātha Paṇḍitarāja. Bhāminīvilāsa,0,a;t,http://id.loc.gov/authorities/names/no2001043890,Bhāminīvilāsa (Jagannātha Paṇḍitarāja),http://id.worldcat.org/fast/1387676,Q76164,,,
-20250313-named-subjects-penn-marcxml-indic.csv,"Gaṅgeśa, active 13th century. Anumānakhaṇḍa",0,a;d;t,http://id.loc.gov/authorities/names/n85103330,Anumānakhaṇḍa (Gaṅgeśa),http://id.worldcat.org/fast/1368540,Q76165,,,
-20250313-named-subjects-penn-marcxml-indic.csv,"Rāma Daivajña, active 17th century. Muhūrtacintāmaṇi",0,a;d;t,http://id.loc.gov/authorities/names/n84152483,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Vedas. Yajurveda. Kr̥ṣṇayajurveda (Taittirīyasaṃhitā),0,a;p;p,http://id.loc.gov/authorities/names/n82036156,,,,Vedas. Yajurveda. Kr̥ṣṇayajurveda (Taittirīyasaṃhitā),http://id.worldcat.org/fast/1358838,Q26877
-20250313-named-subjects-penn-marcxml-indic.csv,Vedas. Yajurveda. Kr̥ṣṇayajurveda (Taittirīyasaṃhitā),fast,a;p;p,http://id.worldcat.org/fast/1358838,,,,Vedas. Yajurveda. Kr̥ṣṇayajurveda (Taittirīyasaṃhitā),http://id.worldcat.org/fast/1358838,Q26877
-20250313-named-subjects-penn-marcxml-indic.csv,Viṣṇusmr̥ti,0,a,http://id.loc.gov/authorities/names/n79126893,,,,Viṣṇusmr̥ti,http://id.worldcat.org/fast/1398700,Q27031
-20250313-named-subjects-penn-marcxml-indic.csv,Viṣṇusmr̥ti,fast,a,http://id.worldcat.org/fast/1398700,,,,Viṣṇusmr̥ti,http://id.worldcat.org/fast/1398700,Q27031
-20250313-named-subjects-penn-marcxml-indic.csv,Rudra (Hindu deity)--Early works to 1800,0,a;c--x,,,,,Rudra (Hindu deity);Early works,http://id.worldcat.org/fast/1101063;http://id.worldcat.org/fast/1411636,Q27463;Q300
-20250313-named-subjects-penn-marcxml-indic.csv,Raghunātha Śiromaṇi. Tattvacintāmaṇidīdhiti--Early works to 1800,0,a;t--v,,Tattvacintāmaṇidīdhiti (Raghunātha Śiromaṇi);Early works,http://id.worldcat.org/fast/1364737;http://id.worldcat.org/fast/1411636,Q76123;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Āśvalāyanagr̥hyasūtra,fast,a,http://id.worldcat.org/fast/1369757,,,,Āśvalāyanagr̥hyasūtra,http://id.worldcat.org/fast/1369757,Q27324
-20250313-named-subjects-penn-marcxml-indic.csv,Āśvalāyanagr̥hyasūtra--Early works to 1800,0,a--v,,Āśvalāyanagr̥hyasūtra;Early works,http://id.worldcat.org/fast/1369757;http://id.worldcat.org/fast/1411636,Q27324;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Āśvalāyana. Āhnika,0,a;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śaṅkarācārya. Vākyavr̥tti,0,a;t,http://id.loc.gov/authorities/names/no2001085066,Vākyavr̥tti (Śaṅkarācārya),http://id.worldcat.org/fast/1795176,Q76166,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Vedas. R̥gveda--Early works to 1800,0,a;p--v,,Vedas. R̥gveda;Early works,http://id.worldcat.org/fast/1356526;http://id.worldcat.org/fast/1411636,Q26665;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,"Prakāśātma, Muni. Pañcapādikāvivaraṇa",0,a;c;t,http://id.loc.gov/authorities/names/no2004008630,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,"Nārāyaṇa Bhaṭṭa, active 16th century. Tristhalīsetu",0,a;d;t,http://id.loc.gov/authorities/names/n85045205,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Aitareyopaniṣad--Early works to 1800,0,a;p--v,,Upanishads. Aitareyopaniṣad;Early works,http://id.worldcat.org/fast/1358683;http://id.worldcat.org/fast/1411636,Q26641;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śaṅkarācārya. Aitareyabhāṣya,0,a;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Brahmanas. Aitareyabrāhmaṇa,0,a;p,http://id.loc.gov/authorities/names/n90625917,,,,Brahmanas. Aitareyabrāhmaṇa,http://id.worldcat.org/fast/1361705,Q27081
-20250313-named-subjects-penn-marcxml-indic.csv,Brahmanas. Aitareyabrāhmaṇa,fast,a;p,http://id.worldcat.org/fast/1361705,,,,Brahmanas. Aitareyabrāhmaṇa,http://id.worldcat.org/fast/1361705,Q27081
-20250313-named-subjects-penn-marcxml-indic.csv,"Narapati, active 12th century. Narapatijayacaryā",0,a;d;t,http://id.loc.gov/authorities/names/n89158487,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Nala (Hindu mythological character)--Early works to 1800,0,a;c--x,,Nala (Hindu mythological character);Early works,http://id.worldcat.org/fast/1032301;http://id.worldcat.org/fast/1411636,Q26770;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Damayantī (Hindu mythological character)--Early works to 1800,0,a;c--x,,Damayantī (Hindu mythological character);Early works,http://id.worldcat.org/fast/887293;http://id.worldcat.org/fast/1411636,Q27232;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Gaṇeśa (Hindu deity)--Early works to 1800,0,a;c--v,,,,,Gaṇeśa (Hindu deity);Early works,http://id.worldcat.org/fast/939364;http://id.worldcat.org/fast/1411636,Q27053;Q300
-20250313-named-subjects-penn-marcxml-indic.csv,Krishna (Hindu deity)--Disciples,0,a;c--x,,Krishna (Hindu deity);Disciples,http://id.worldcat.org/fast/989141;http://id.worldcat.org/fast/1352712,Q27188;Q27112,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Jagadīśatarkālaṅkāra. Tarkāmr̥ta,0,a;t,http://id.loc.gov/authorities/names/n2008205243,Tarkāmr̥ta (Jagadīśatarkālaṅkāra),http://id.worldcat.org/fast/1398914,Q76167,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Āśvalāyanagr̥hyasūtra,0,a,http://id.loc.gov/authorities/names/n82126569,,,,Āśvalāyanagr̥hyasūtra,http://id.worldcat.org/fast/1369757,Q27324
-20250313-named-subjects-penn-marcxml-indic.csv,"Vedas--Criticism, interpretation, etc",0,a--x,http://id.loc.gov/authorities/subjects/sh85142466,"Vedas;Criticism, interpretation, etc.",http://id.worldcat.org/fast/1356289;http://id.worldcat.org/fast/1411635,Q27198;Q177,,,
-20250313-named-subjects-penn-marcxml-indic.csv,"Annambhaṭṭa, active 17th century. Tarkasaṅgraha--Early works to 1800",0,a;d;t--v,,Tarkasaṅgraha (Annambhaṭṭa);Early works,http://id.worldcat.org/fast/1361790;http://id.worldcat.org/fast/1411636,Q76131;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Bhīma (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/names/n2022240017,Bhīma (Hindu mythological character),http://id.worldcat.org/fast/831178,Q76168,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Draupadī (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/names/n2017243108,,,,Draupadī (Hindu mythological character),http://id.worldcat.org/fast/897682,Q27373
-20250313-named-subjects-penn-marcxml-indic.csv,Draupadī (Hindu mythological character),fast,a;c,http://id.worldcat.org/fast/897682,,,,Draupadī (Hindu mythological character),http://id.worldcat.org/fast/897682,Q27373
-20250313-named-subjects-penn-marcxml-indic.csv,Prahlāda (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/names/n2017241938,,,,Prahlāda (Hindu mythological character),http://id.worldcat.org/fast/1074587,Q27040
-20250313-named-subjects-penn-marcxml-indic.csv,Prahlāda (Hindu mythological character),fast,a;c,http://id.worldcat.org/fast/1074587,,,,Prahlāda (Hindu mythological character),http://id.worldcat.org/fast/1074587,Q27040
-20250313-named-subjects-penn-marcxml-indic.csv,Patañjali. Yogasūtra,0,a;t,http://id.loc.gov/authorities/names/n82084253,Yogasūtra (Patañjali),http://id.worldcat.org/fast/1356519,Q76169,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Vishnu (Hindu deity)--Art,0,a;c--v,,Vishnu (Hindu deity);Art,http://id.worldcat.org/fast/1167831;http://id.worldcat.org/fast/1423702,Q27014;Q38573,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Taittirīyopaniṣad--Early works to 1800,0,a;p--v,,Upanishads. Taittirīyopaniṣad;Early works,http://id.worldcat.org/fast/1357539;http://id.worldcat.org/fast/1411636,Q26604;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Veṅkaṭeśvara (Hindu deity),0,a;c,,Veṅkaṭeśvara (Hindu deity),http://id.worldcat.org/fast/2000960,Q26951,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Puja,0,a,http://id.loc.gov/authorities/names/n2006171534,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Māgha. Śiśupālavadha,0,a;t,http://id.loc.gov/authorities/names/n90704208,Śiśupālavadha (Māgha),http://id.worldcat.org/fast/1380818,Q76170,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Vālmīki. Rāmāyaṇa,0,a;t,,,,,Rāmāyaṇa (Vālmīki),http://id.worldcat.org/fast/1356702,Q26955
-20250313-named-subjects-penn-marcxml-indic.csv,Vishnu (Hindu deity)--Prayers and devotions,0,a;c--v,,Vishnu (Hindu deity);Prayers and devotions,http://id.worldcat.org/fast/1167831;http://id.worldcat.org/fast/1423909,Q27014;Q3052,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Puranas. Bhāgavatapurāṇa--Early works to 1800,0,a;p--v,,Puranas. Bhāgavatapurāṇa;Early works,http://id.worldcat.org/fast/1356355;http://id.worldcat.org/fast/1411636,Q27402;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,"Nārāyaṇadaivajña, active 16th century. Muhūrtamārtaṇḍa",0,a;d;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Bāṇa. Kādambarī,0,a;t,http://id.loc.gov/authorities/names/n2016248258,Kādambarī (Bāṇa),http://id.worldcat.org/fast/1365084,Q76171,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Vedas. Yajurveda,0,a;p,http://id.loc.gov/authorities/names/n80009842,,,,Vedas. Yajurveda,http://id.worldcat.org/fast/1356493,Q27270
-20250313-named-subjects-penn-marcxml-indic.csv,Vedas. Yajurveda,fast,a;p,http://id.worldcat.org/fast/1356493,,,,Vedas. Yajurveda,http://id.worldcat.org/fast/1356493,Q27270
-20250313-named-subjects-penn-marcxml-indic.csv,Āśvalāyanaśrautasūtra,0,a,http://id.loc.gov/authorities/names/n82127485,,,,Āśvalāyanaśrautasūtra,http://id.worldcat.org/fast/1368328,Q26816
-20250313-named-subjects-penn-marcxml-indic.csv,Āśvalāyanaśrautasūtra,fast,a,http://id.worldcat.org/fast/1368328,,,,Āśvalāyanaśrautasūtra,http://id.worldcat.org/fast/1368328,Q26816
-20250313-named-subjects-penn-marcxml-indic.csv,Uṇādisūtra,0,a,http://id.loc.gov/authorities/names/n89297436,,,,Uṇādisūtra,http://id.worldcat.org/fast/1365151,Q27461
-20250313-named-subjects-penn-marcxml-indic.csv,Uṇādisūtra,fast,a,http://id.worldcat.org/fast/1365151,,,,Uṇādisūtra,http://id.worldcat.org/fast/1365151,Q27461
-20250313-named-subjects-penn-marcxml-indic.csv,"Keśavamiśra, active 13th century. Tarkabhāṣā",0,a;d;t,http://id.loc.gov/authorities/names/no2003082167,Tarkabhāṣā (Keśavamiśra),http://id.worldcat.org/fast/1373739,Q76172,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Aranyakas. Taittirīyāraṇyaka,0,a;p,,Aranyakas. Taittirīyāraṇyaka,http://id.worldcat.org/fast/1370324,Q76173,,,
-20250313-named-subjects-penn-marcxml-indic.csv,"Nāgeśabhaṭṭa, active 1670-1750. Mañjūṣā",0,a;d;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Patañjali. Sāṃkhyapravacana,0,a;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Sureśvarācārya. Sambandhavārtika,0,a;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śaṅkarācārya. Br̥hadāraṇyakopaniṣadbhāṣya,0,a;t,http://id.loc.gov/authorities/names/n88022268,Br̥hadāraṇyakopaniṣadbhāṣya (Śaṅkarācārya),http://id.worldcat.org/fast/1375057,Q76174,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Hanumān (Hindu deity)--Art--Early works to 1800,0,a;c--v--v,,Hanumān (Hindu deity);Art;Early works,http://id.worldcat.org/fast/951117;http://id.worldcat.org/fast/1423702;http://id.worldcat.org/fast/1411636,Q26991;Q38573;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Kapila. Sāṅkhyasūtra,0,a;t,http://id.loc.gov/authorities/names/n90721282,Sāṅkhyasūtra (Kapila),http://id.worldcat.org/fast/1362497,Q76175,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śaṅkarācārya. Dakṣiṇāmūrtistotra--Early works to 1800,0,a;t--v,,Dakṣiṇāmūrtistotra (Śaṅkarācārya);Early works,http://id.worldcat.org/fast/1359318;http://id.worldcat.org/fast/1411636,Q76176;Q300,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śakti,0,a,http://id.loc.gov/authorities/names/n89235542,,,,Śakti,http://id.worldcat.org/fast/359505,Q26934
-20250313-named-subjects-penn-marcxml-indic.csv,Śakti,fast,a,http://id.worldcat.org/fast/359505,,,,Śakti,http://id.worldcat.org/fast/359505,Q26934
-20250313-named-subjects-penn-marcxml-indic.csv,"Nāgeśabhaṭṭa, active 1670-1750. Laghuśabdenduśekhara",0,a;d;t,http://id.loc.gov/authorities/names/n88231443,Laghuśabdenduśekhara (Nāgeśabhaṭṭa),http://id.worldcat.org/fast/1373825,Q76177,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Śiva (Hindu deity)--Art,0,a;c--v,,Siva (Hindu deity);Art,http://id.worldcat.org/fast/1119826;http://id.worldcat.org/fast/1423702,Q26681;Q38573,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Bhartr̥hari. Śr̥ngāraśataka,0,a;t,,Śr̥ngāraśataka (Bhartr̥hari),http://id.worldcat.org/fast/1372225,Q76178,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Puranas,0,a,http://id.loc.gov/authorities/names/n79139448,,,,Puranas,http://id.worldcat.org/fast/1357519,Q27019
-20250313-named-subjects-penn-marcxml-indic.csv,Baudhāyana. Vihārasūtra,0,a;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Māṇḍūkyopaniṣad,0,a;p,http://id.loc.gov/authorities/names/n82067471,,,,Upanishads. Māṇḍūkyopaniṣad,http://id.worldcat.org/fast/1356983,Q26618
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Māṇḍūkyopaniṣad,fast,a;p,http://id.worldcat.org/fast/1356983,,,,Upanishads. Māṇḍūkyopaniṣad,http://id.worldcat.org/fast/1356983,Q26618
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Muṇḍakopaniṣad,0,a;p,http://id.loc.gov/authorities/names/n82077949,,,,Upanishads. Muṇḍakopaniṣad,http://id.worldcat.org/fast/1361140,Q27125
-20250313-named-subjects-penn-marcxml-indic.csv,Śāṇḍilya. Bhaktisūtra,0,a;t,http://id.loc.gov/authorities/names/no2006110141,Bhaktisūtra (Śāṇḍilya),http://id.worldcat.org/fast/1383285,Q76179,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Samarasiṃha. Gaṇakabhūṣaṇa,0,a;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Kaivalyopaniṣad,0,a;p,http://id.loc.gov/authorities/names/n81022145,,,,Upanishads. Kaivalyopaniṣad,http://id.worldcat.org/fast/1365244,Q26585
-20250313-named-subjects-penn-marcxml-indic.csv,Upanishads. Kaivalyopaniṣad,fast,a;p,http://id.worldcat.org/fast/1365244,,,,Upanishads. Kaivalyopaniṣad,http://id.worldcat.org/fast/1365244,Q26585
-20250313-named-subjects-penn-marcxml-indic.csv,Samarasiṃha. Tājakatantrasāra,0,a;t,,,,,,,
-20250313-named-subjects-penn-marcxml-indic.csv,Vedas--Early works to 1800,0,a--v,,Vedas;Early works,http://id.worldcat.org/fast/1356289;http://id.worldcat.org/fast/1411636,Q27198;Q300,,,
+subject_as_recorded,vocab,subfield_codes,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Vasugupta. Spandakārikā,0,a;t,http://id.loc.gov/authorities/names/n81144383,Spandakārikā (Vasugupta),http://id.worldcat.org/fast/1368200,Q76121,,,
+Tripurasundarī (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2017242618,,,,Tripurasundarī (Hindu deity),http://id.worldcat.org/fast/1157163,Q27036
+Tripurasundarī (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1157163,,,,Tripurasundarī (Hindu deity),http://id.worldcat.org/fast/1157163,Q27036
+Vedas--Recitation,0,a--x,http://id.loc.gov/authorities/subjects/sh85142469,,,,Vedas;Recitations,http://id.worldcat.org/fast/1356289;http://id.worldcat.org/fast/1091407,Q27198;Q11514
+Vedas,fast,a,http://id.worldcat.org/fast/1356289,Vedas,http://id.worldcat.org/fast/1356289,Q27198,,,
+Rudra (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2018244516,,,,Rudra (Hindu deity),http://id.worldcat.org/fast/1101063,Q27463
+Rudra (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1101063,,,,Rudra (Hindu deity),http://id.worldcat.org/fast/1101063,Q27463
+Śiva (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/nb2017001158,Siva (Hindu deity),http://id.worldcat.org/fast/1119826,Q26681,,,
+Siva (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1119826,,,,Siva (Hindu deity),http://id.worldcat.org/fast/1119826,Q26681
+Krishna (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/no2015096049,,,,Krishna (Hindu deity),http://id.worldcat.org/fast/989141,Q27188
+Krishna (Hindu deity),fast,a;c,http://id.worldcat.org/fast/989141,,,,Krishna (Hindu deity),http://id.worldcat.org/fast/989141,Q27188
+Mammaṭācārya. Kāvyaprakāśa,0,a;t,http://id.loc.gov/authorities/names/n81066199,Kāvyaprakāśa (Mammaṭācārya),http://id.worldcat.org/fast/1362499,Q76122,,,
+Raghunātha Śiromaṇi. Tattvacintāmaṇidīdhiti,0,a;t,http://id.loc.gov/authorities/names/n87871180,Tattvacintāmaṇidīdhiti (Raghunātha Śiromaṇi),http://id.worldcat.org/fast/1364737,Q76123,,,
+Mahābhārata,0,a,http://id.loc.gov/authorities/names/n79061233,,,,Mahābhārata,http://id.worldcat.org/fast/1356112,Q26667
+Mahābhārata,fast,a,http://id.worldcat.org/fast/1356112,,,,Mahābhārata,http://id.worldcat.org/fast/1356112,Q26667
+Puranas. Bhāgavatapurāṇa,fast,a;p,http://id.worldcat.org/fast/1356355,,,,Puranas. Bhāgavatapurāṇa,http://id.worldcat.org/fast/1356355,Q27402
+Puranas. Bhāgavatapurāṇa--Commentaries,0,a;p--v,,Puranas. Bhāgavatapurāṇa;Commentaries,http://id.worldcat.org/fast/1356355;http://id.worldcat.org/fast/1423723,Q27402;Q2812,,,
+Baudhāyana,0,a,http://id.loc.gov/authorities/names/n80089829,,,,Baudhāyana,http://id.worldcat.org/fast/57764,Q26888
+Baudhāyana,fast,a,http://id.worldcat.org/fast/57764,,,,Baudhāyana,http://id.worldcat.org/fast/57764,Q26888
+Jagadīśatarkālaṅkāra. Pakṣatā--Early works to 1800,0,a;t--v,,Early works,http://id.worldcat.org/fast/1411636,Q300,,,
+Bādarāyaṇa. Brahmasūtra,0,a;t,http://id.loc.gov/authorities/names/n91033932,Brahmasūtra (Bādarāyaṇa),http://id.worldcat.org/fast/1357925,Q76124,,,
+Bhairava (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2019244438,,,,Bhairava (Hindu deity),http://id.worldcat.org/fast/831085,Q26863
+Bhairava (Hindu deity),fast,a;c,http://id.worldcat.org/fast/831085,,,,Bhairava (Hindu deity),http://id.worldcat.org/fast/831085,Q26863
+Gaṇeśa (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2017065815,,,,Gaṇeśa (Hindu deity),http://id.worldcat.org/fast/939364,Q27053
+Gaṇeśa (Hindu deity),fast,a;c,http://id.worldcat.org/fast/939364,,,,Gaṇeśa (Hindu deity),http://id.worldcat.org/fast/939364,Q27053
+Nala (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/names/n2019240527,,,,Nala (Hindu mythological character),http://id.worldcat.org/fast/1032301,Q26770
+Nala (Hindu mythological character),fast,a;c,http://id.worldcat.org/fast/1032301,,,,Nala (Hindu mythological character),http://id.worldcat.org/fast/1032301,Q26770
+Upanishads. Īśopaniṣad,0,a;p,http://id.loc.gov/authorities/names/n82109977,,,,Upanishads. Īśopaniṣad,http://id.worldcat.org/fast/1357768,Q27323
+Upanishads. Īśopaniṣad,fast,a;p,http://id.worldcat.org/fast/1357768,,,,Upanishads. Īśopaniṣad,http://id.worldcat.org/fast/1357768,Q27323
+Bhāravi. Kirātārjunīya--Early works to 1800,0,a;t--v,,Kirātārjunīya (Bhāravi);Early works,http://id.worldcat.org/fast/1369338;http://id.worldcat.org/fast/1411636,Q26854;Q300,,,
+Śiva (Hindu deity)--Early works to 1800,0,a;c--v,,Siva (Hindu deity);Early works,http://id.worldcat.org/fast/1119826;http://id.worldcat.org/fast/1411636,Q26681;Q300,,,
+Arjuna (Hindu mythological character)--Early works to 1800,0,a;c--v,,Arjuna (Hindu mythological character);Early works,http://id.worldcat.org/fast/814535;http://id.worldcat.org/fast/1411636,Q27151;Q300,,,
+Arjuna (Hindu mythological character),fast,a;c,http://id.worldcat.org/fast/814535,,,,Arjuna (Hindu mythological character),http://id.worldcat.org/fast/814535,Q27151
+Damayantī (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/names/n2019244402,,,,Damayantī (Hindu mythological character),http://id.worldcat.org/fast/887293,Q27232
+Damayantī (Hindu mythological character),fast,a;c,http://id.worldcat.org/fast/887293,,,,Damayantī (Hindu mythological character),http://id.worldcat.org/fast/887293,Q27232
+Parvati (Hindu deity)--Early works to 1800,0,a;c--v,,Parvati (Hindu deity);Early works,http://id.worldcat.org/fast/1054247;http://id.worldcat.org/fast/1411636,Q26932;Q300,,,
+Parvati (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1054247,,,,Parvati (Hindu deity),http://id.worldcat.org/fast/1054247,Q26932
+Vishnu (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2018242971,,,,Vishnu (Hindu deity),http://id.worldcat.org/fast/1167831,Q27014
+Vishnu (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1167831,,,,Vishnu (Hindu deity),http://id.worldcat.org/fast/1167831,Q27014
+Hanumān (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2017240885,,,,Hanumān (Hindu deity),http://id.worldcat.org/fast/951117,Q26991
+Hanumān (Hindu deity),fast,a;c,http://id.worldcat.org/fast/951117,,,,Hanumān (Hindu deity),http://id.worldcat.org/fast/951117,Q26991
+Rāma (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2017241692,,,,Rāma (Hindu deity),http://id.worldcat.org/fast/1102729,Q27467
+Rāma (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1102729,,,,Rāma (Hindu deity),http://id.worldcat.org/fast/1102729,Q27467
+Narayana (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2021014665,Nārāyaṇa (Hindu deity),http://id.worldcat.org/fast/1042512,Q26813,,,
+Brahma (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/no2018072362,,,,Brahma (Hindu deity),http://id.worldcat.org/fast/837545,Q26761
+Brahma (Hindu deity),fast,a;c,http://id.worldcat.org/fast/837545,,,,Brahma (Hindu deity),http://id.worldcat.org/fast/837545,Q26761
+Vedas. R̥gveda,0,a;p,http://id.loc.gov/authorities/names/n80017845,,,,Vedas. R̥gveda,http://id.worldcat.org/fast/1356526,Q26665
+Vedas. R̥gveda,fast,a;p,http://id.worldcat.org/fast/1356526,,,,Vedas. R̥gveda,http://id.worldcat.org/fast/1356526,Q26665
+Vedas. Yajurveda. Kr̥ṣṇayajurveda (Taittirīyasaṃhitā).--Selections,0,a;p;p--k,http://id.loc.gov/authorities/names/n2016244980,Vedas. Yajurveda. Kr̥ṣṇayajurveda (Taittirīyasaṃhitā);Excerpts,http://id.worldcat.org/fast/1358838;http://id.worldcat.org/fast/1692837,Q26877;Q3547,,,
+Durgā (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2017244199,,,,Durgā (Hindu deity),http://id.worldcat.org/fast/899573,Q27459
+Durgā (Hindu deity),fast,a;c,http://id.worldcat.org/fast/899573,,,,Durgā (Hindu deity),http://id.worldcat.org/fast/899573,Q27459
+"Keśavācārya Daivajña, active 16th century. Jātakapaddhati",0,a;d;t,,,,,,,
+Sita (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2016248551,,,,Sita (Hindu deity),http://id.worldcat.org/fast/1141519,Q26905
+Sita (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1141519,,,,Sita (Hindu deity),http://id.worldcat.org/fast/1141519,Q26905
+Kālidāsa. Meghadūta,0,a;t,http://id.loc.gov/authorities/names/n84162302,Meghadūta (Kālidāsa),http://id.worldcat.org/fast/1363786,Q76125,,,
+Śaṅkarācārya. Daśaslokī,0,a;t,http://id.loc.gov/authorities/names/no2009174264,Daśaslokī (Śaṅkarācārya),http://id.worldcat.org/fast/1912997,Q76126,,,
+Bhīṣma (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/names/n2016247941,,,,Bhīṣma (Hindu mythological character),http://id.worldcat.org/fast/831179,Q26896
+Bhīṣma (Hindu mythological character),fast,a;c,http://id.worldcat.org/fast/831179,,,,Bhīṣma (Hindu mythological character),http://id.worldcat.org/fast/831179,Q26896
+Kālī (Hindu deity)--Early works to 1800,0,a;c--x,,Kālī (Hindu deity);Early works,http://id.worldcat.org/fast/989637;http://id.worldcat.org/fast/1411636,Q27351;Q300,,,
+Kālī (Hindu deity),fast,a;c,http://id.worldcat.org/fast/989637,,,,Kālī (Hindu deity),http://id.worldcat.org/fast/989637,Q27351
+Kālī (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2018241428,,,,Kālī (Hindu deity),http://id.worldcat.org/fast/989637,Q27351
+Vālmīki. Rāmāyaṇa,0,a;t,http://id.loc.gov/authorities/names/n82000506,,,,Rāmāyaṇa (Vālmīki),http://id.worldcat.org/fast/1356702,Q26955
+Raghunātha Śiromaṇi. Ākhyātavāda,0,a;t,http://id.loc.gov/authorities/names/n81151982,,,,,,
+Rāvaṇa (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/names/n2018240960,,,,Rāvaṇa (Hindu mythological character),http://id.worldcat.org/fast/1102741,Q26929
+Rāvaṇa (Hindu mythological character),fast,a;c,http://id.worldcat.org/fast/1102741,,,,Rāvaṇa (Hindu mythological character),http://id.worldcat.org/fast/1102741,Q26929
+Lakshmī (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2018240265,,,,Lakshmī (Hindu deity),http://id.worldcat.org/fast/990964,Q26704
+Lakshmī (Hindu deity),fast,a;c,http://id.worldcat.org/fast/990964,,,,Lakshmī (Hindu deity),http://id.worldcat.org/fast/990964,Q26704
+Āraṇyakas,fast,a,http://id.worldcat.org/fast/1373904,Āraṇyakas,http://id.worldcat.org/fast/1373904,Q76127,,,
+Aranyakas. Aitareyāraṇyaka,fast,a;p,http://id.worldcat.org/fast/1366264,Aranyakas. Aitareyāraṇyaka,http://id.worldcat.org/fast/1366264,Q76128,,,
+Aranyakas. Aitareyāraṇyaka.--Selections,0,a;p--k,,Aranyakas. Aitareyāraṇyaka;Excerpts,http://id.worldcat.org/fast/1366264;http://id.worldcat.org/fast/1692837,Q76128;Q3547,,,
+Śaṅkarācārya. Śārīrakamīmāṃsābhāṣya,0,a;t,http://id.loc.gov/authorities/names/n88241759,Śārīrakamīmāṃsābhāṣya (Śaṅkarācārya),http://id.worldcat.org/fast/1365134,Q76129,,,
+Kālidāsa. Raghuvaṃśa,0,a;t,http://id.loc.gov/authorities/names/n87861913,Raghuvaṃśa (Kālidāsa),http://id.worldcat.org/fast/1356717,Q76130,,,
+"Annambhaṭṭa, active 17th century. Tarkasaṅgraha",0,a;d;t,http://id.loc.gov/authorities/names/n82119557,Tarkasaṅgraha (Annambhaṭṭa),http://id.worldcat.org/fast/1361790,Q76131,,,
+Brahmanas,fast,a,http://id.worldcat.org/fast/1357020,Brahmanas,http://id.worldcat.org/fast/1357020,Q76132,,,
+Brahmanas. Śatapathabrāhmaṇa,fast,a;p,http://id.worldcat.org/fast/1357644,Brahmanas. Śatapathabrāhmaṇa,http://id.worldcat.org/fast/1357644,Q76133,,,
+Upanishads. Br̥hadāraṇyakopaniṣad,0,a;p,http://id.loc.gov/authorities/names/n83159846,,,,Upanishads. Br̥hadāraṇyakopaniṣad,http://id.worldcat.org/fast/1363389,Q27113
+Upanishads. Br̥hadāraṇyakopaniṣad,fast,a;p,http://id.worldcat.org/fast/1363389,,,,Upanishads. Br̥hadāraṇyakopaniṣad,http://id.worldcat.org/fast/1363389,Q27113
+Brahmanas. Śatapathabrāhmaṇa.--Selections,0,a;p--k,,Brahmanas. Śatapathabrāhmaṇa;Excerpts,http://id.worldcat.org/fast/1357644;http://id.worldcat.org/fast/1692837,Q76133;Q3547,,,
+Śaṅkarācārya. Māṇḍūkyopaniṣadbhāṣya,0,a;t,http://id.loc.gov/authorities/names/no2013105433,,,,,,
+Gauḍapāda Ācārya. Gauḍapādakārikā,0,a;t,http://id.loc.gov/authorities/names/n82076361,Gauḍapādakārikā (Gauḍapāda Ācārya),http://id.worldcat.org/fast/1360713,Q76134,,,
+Jaimini. Mīmāṃsāsūtra,0,a;t,http://id.loc.gov/authorities/names/n88192735,Mīmāṃsāsūtra (Jaimini),http://id.worldcat.org/fast/1357061,Q76135,,,
+Parvati (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/no2019083403,,,,Parvati (Hindu deity),http://id.worldcat.org/fast/1054247,Q26932
+"Gaṅgeśa, active 13th century. Tattvacintāmaṇi",0,a;d;t,http://id.loc.gov/authorities/names/n84191658,Tattvacintāmaṇi (Gaṅgeśa),http://id.worldcat.org/fast/1358022,Q76136,,,
+Bhaṭṭojī Dīkṣita. Siddhāntakaumudī,0,a;t,http://id.loc.gov/authorities/names/n2008207697,Siddhāntakaumudī (Bhaṭṭojī Dīkṣita),http://id.worldcat.org/fast/1359676,Q76137,,,
+Upanishads. Taittirīyopaniṣad,0,a;p,http://id.loc.gov/authorities/names/n81104124,,,,Upanishads. Taittirīyopaniṣad,http://id.worldcat.org/fast/1357539,Q26604
+Upanishads. Taittirīyopaniṣad,fast,a;p,http://id.worldcat.org/fast/1357539,,,,Upanishads. Taittirīyopaniṣad,http://id.worldcat.org/fast/1357539,Q26604
+Upanishads. Śvetāśvataropaniṣad,0,a;p,http://id.loc.gov/authorities/names/n90647906,,,,Upanishads. Śvetāśvataropaniṣad,http://id.worldcat.org/fast/1363395,Q27408
+Upanishads. Śvetāśvataropaniṣad,fast,a;p,http://id.worldcat.org/fast/1363395,,,,Upanishads. Śvetāśvataropaniṣad,http://id.worldcat.org/fast/1363395,Q27408
+Madhusūdana Sarasvatī. Siddhāntabindu,0,a;t,http://id.loc.gov/authorities/names/n90663061,Siddhāntabindu (Madhusūdana Sarasvatī),http://id.worldcat.org/fast/1388976,Q76138,,,
+"Gaṅgeśa, active 13th century. Pratyakṣakhaṇḍa",0,a;d;t,http://id.loc.gov/authorities/names/n89297290,Pratyakṣakhaṇḍa (Gaṅgeśa),http://id.worldcat.org/fast/1382807,Q76139,,,
+Upanishads,0,a,http://id.loc.gov/authorities/names/n80020526,,,,Upanishads,http://id.worldcat.org/fast/1356391,Q27293
+Upanishads,fast,a,http://id.worldcat.org/fast/1356391,,,,Upanishads,http://id.worldcat.org/fast/1356391,Q27293
+Sūrya (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2017066130,,,,Sūrya (Hindu deity),http://id.worldcat.org/fast/1141527,Q26821
+Sūrya (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1141527,,,,Sūrya (Hindu deity),http://id.worldcat.org/fast/1141527,Q26821
+Gaṇeśa (Hindu deity)--Art,0,a;c--v,,Gaṇeśa (Hindu deity);Art,http://id.worldcat.org/fast/939364;http://id.worldcat.org/fast/1423702,Q27053;Q38573,,,
+Vedas. R̥gveda. Gāyatrī,0,a;p;p,http://id.loc.gov/authorities/names/n82047076,,,,Vedas. R̥gveda. Gāyatrī,http://id.worldcat.org/fast/1363664,Q26702
+Vedas. R̥gveda. Gāyatrī,fast,a;p;p,http://id.worldcat.org/fast/1363664,,,,Vedas. R̥gveda. Gāyatrī,http://id.worldcat.org/fast/1363664,Q26702
+Gaṇeśa (Hindu deity)--Early works to 1800,0,a;c--x,,,,,Gaṇeśa (Hindu deity);Early works,http://id.worldcat.org/fast/939364;http://id.worldcat.org/fast/1411636,Q27053;Q300
+Krishna (Hindu deity)--Early works to 1800,0,a;c--v,,Krishna (Hindu deity);Early works,http://id.worldcat.org/fast/989141;http://id.worldcat.org/fast/1411636,Q27188;Q300,,,
+Bhagavadgītā,0,a,http://id.loc.gov/authorities/names/n79142762,,,,Bhagavadgītā,http://id.worldcat.org/fast/1356184,Q26635
+Bhagavadgītā,fast,a,http://id.worldcat.org/fast/1356184,,,,Bhagavadgītā,http://id.worldcat.org/fast/1356184,Q26635
+Radha (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2016245709,,,,Radha (Hindu deity),http://id.worldcat.org/fast/1102716,Q27211
+Radha (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1102716,,,,Radha (Hindu deity),http://id.worldcat.org/fast/1102716,Q27211
+Agni (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2017240192,,,,Agni (Hindu deity),http://id.worldcat.org/fast/800393,Q27033
+Agni (Hindu deity),fast,a;c,http://id.worldcat.org/fast/800393,,,,Agni (Hindu deity),http://id.worldcat.org/fast/800393,Q27033
+Śiva (Hindu deity)--Early works to 1800,0,a;c--x,,Sita (Hindu deity);Early works,http://id.worldcat.org/fast/1141519;http://id.worldcat.org/fast/1411636,Q26905;Q300,,,
+Puranas. Padmapurāṇa,0,a;p,http://id.loc.gov/authorities/names/n50078444,,,,Puranas. Padmapurāṇa,http://id.worldcat.org/fast/1356527,Q26801
+Puranas. Padmapurāṇa,fast,a;p,http://id.worldcat.org/fast/1356527,,,,Puranas. Padmapurāṇa,http://id.worldcat.org/fast/1356527,Q26801
+Narasiṃha (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2019243995,Narasiṃha (Hindu deity),http://id.worldcat.org/fast/1032733,Q27296,,,
+Indra (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2020242216,Indra (Hindu deity),http://id.worldcat.org/fast/970722,Q26686,,,
+Śaṅkarācārya. Pañcīkaraṇa,0,a;t,http://id.loc.gov/authorities/names/n90663102,Pañcīkaraṇa (Śaṅkarācārya),http://id.worldcat.org/fast/1375881,Q76140,,,
+Balarāma (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2017241998,,,,Balarāma (Hindu deity),http://id.worldcat.org/fast/825729,Q27322
+Balarāma (Hindu deity),fast,a;c,http://id.worldcat.org/fast/825729,,,,Balarāma (Hindu deity),http://id.worldcat.org/fast/825729,Q27322
+Kuntī (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/names/n2020242356,,,,Kuntī (Hindu mythological character),http://id.worldcat.org/fast/989368,Q27209
+Kuntī (Hindu mythological character),fast,a;c,http://id.worldcat.org/fast/989368,,,,Kuntī (Hindu mythological character),http://id.worldcat.org/fast/989368,Q27209
+Gāyatrī (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2022240231,Gāyatrī (Hindu deity),http://id.worldcat.org/fast/949799,Q27137,,,
+Sarasvatī (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/no2020029712,,,,Sarasvatī (Hindu deity),http://id.worldcat.org/fast/1105454,Q27377
+Sarasvatī (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1105454,,,,Sarasvatī (Hindu deity),http://id.worldcat.org/fast/1105454,Q27377
+Pr̥thuyaśas. Ṣaṭpañcāśikā,0,a;t,,,,,,,
+Yama (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2018245504,,,,Yama (Hindu deity),http://id.worldcat.org/fast/1201104,Q26835
+Yama (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1201104,,,,Yama (Hindu deity),http://id.worldcat.org/fast/1201104,Q26835
+Śakti (Hindu deity)--Cult,0,a;c--x,,Śakti (Hindu deity);Cults,http://id.worldcat.org/fast/1185112;http://id.worldcat.org/fast/884980,Q26818;Q26639,,,
+Śakti (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1185112,,,,Śakti (Hindu deity),http://id.worldcat.org/fast/1185112,Q26818
+Gr̥hyasutras,0,a,http://id.loc.gov/authorities/names/n89297193,,,,Gr̥hyasutras,http://id.worldcat.org/fast/1361523,Q27085
+Gr̥hyasutras,fast,a,http://id.worldcat.org/fast/1361523,,,,Gr̥hyasutras,http://id.worldcat.org/fast/1361523,Q27085
+Śaṅkarācārya. Haristuti,0,a;t,http://id.loc.gov/authorities/names/no2013105366,,,,,,
+Gangā (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2018241436,,,,Gangā (Hindu deity),http://id.worldcat.org/fast/939362,Q27392
+Gangā (Hindu deity),fast,a;c,http://id.worldcat.org/fast/939362,,,,Gangā (Hindu deity),http://id.worldcat.org/fast/939362,Q27392
+Arjuna (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/names/n2017241681,,,,Arjuna (Hindu mythological character),http://id.worldcat.org/fast/814535,Q27151
+"Nīlakaṇṭha, active 16th century. Nīlakaṇṭhī",0,a;d;t,,,,,,,
+Viśvanātha Nyāyapañcānana Bhaṭṭācārya. Bhāṣāpariccheda,0,a;t,http://id.loc.gov/authorities/names/n82010006,Bhāṣāpariccheda (Viśvanātha Nyāyapañcānana Bhaṭṭācārya),http://id.worldcat.org/fast/1373027,Q76141,,,
+Upanishads. Aitareyopaniṣad,0,a;p,http://id.loc.gov/authorities/names/n50082015,,,,Upanishads. Aitareyopaniṣad,http://id.worldcat.org/fast/1358683,Q26641
+Upanishads. Aitareyopaniṣad,fast,a;p,http://id.worldcat.org/fast/1358683,,,,Upanishads. Aitareyopaniṣad,http://id.worldcat.org/fast/1358683,Q26641
+Radha (Hindu deity)--Poetry--Early works to 1800,0,a;c--v--v,,Radha (Hindu deity);Poetry;Early works,http://id.worldcat.org/fast/1102716;http://id.worldcat.org/fast/1423828;http://id.worldcat.org/fast/1411636,Q27211;Q247;Q300,,,
+Udayanācārya. Kiraṇavalī,0,a;t,http://id.loc.gov/authorities/names/no2003091021,Kiraṇavalī (Udayanācārya),http://id.worldcat.org/fast/1373954,Q76142,,,
+Rāma (Hindu deity)--Early works to 1800,0,a;c--v,,Rāma (Hindu deity);Early works,http://id.worldcat.org/fast/1102729;http://id.worldcat.org/fast/1411636,Q27467;Q300,,,
+Rāma (Hindu deity)--Art,0,a;c--v,,Rāma (Hindu deity);Art,http://id.worldcat.org/fast/1102729;http://id.worldcat.org/fast/1423702,Q27467;Q38573,,,
+Sita (Hindu deity)--Art,0,a;c--v,,Sita (Hindu deity);Art,http://id.worldcat.org/fast/1141519;http://id.worldcat.org/fast/1423702,Q26905;Q38573,,,
+Hanumān (Hindu deity)--Art,0,a;c--v,,Hanumān (Hindu deity);Art,http://id.worldcat.org/fast/951117;http://id.worldcat.org/fast/1423702,Q26991;Q38573,,,
+Upanishads. Taittirīyopaniṣad,0,a;p,,,,,Upanishads. Taittirīyopaniṣad,http://id.worldcat.org/fast/1357539,Q26604
+Bhānudatta Miśra. Rasataraṇgiṇī,0,a;t,,,,,,,
+Vedas. Atharvaveda,fast,a;p,http://id.worldcat.org/fast/1359282,,,,Vedas. Atharvaveda,http://id.worldcat.org/fast/1359282,Q26819
+Vedas. Atharvaveda--Early works to 1800,0,a;p--v,,Vedas. Atharvaveda;Early works,http://id.worldcat.org/fast/1359282;http://id.worldcat.org/fast/1411636,Q26819;Q300,,,
+Sita (Hindu deity)--Drama,0,a;c--v,,Sita (Hindu deity);Drama,http://id.worldcat.org/fast/1141519;http://id.worldcat.org/fast/1423879,Q26905;Q3010,,,
+Rāma (Hindu deity)--Drama,0,a;c--v,,Rāma (Hindu deity);Drama,http://id.worldcat.org/fast/1102729;http://id.worldcat.org/fast/1423879,Q27467;Q3010,,,
+Sureśvarācārya. Taittirīyopaniṣadbhāṣyavārttika,0,a;t,http://id.loc.gov/authorities/names/n88100483,,,,,,
+Śaṅkarācārya. Taittirīyopaniṣadbhāṣya,0,a;t,http://id.loc.gov/authorities/names/n2016246567,Taittirīyopaniṣadbhāṣya (Śaṅkarācārya),http://id.worldcat.org/fast/2058154,Q76143,,,
+"Jānakīnātha Bhaṭṭācārya, active 16th century. Nyāyasiddhāntamañjarī",0,a;d;t,,,,,,,
+Manu (Lawgiver). Mānavadharmaśāstra,0,a;c;t,http://id.loc.gov/authorities/names/n81022815,Mānavadharmaśāstra (Manu (Lawgiver)),http://id.worldcat.org/fast/1356989,Q76144,,,
+Mārkaṇḍeya (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/names/n2019243999,Mārkaṇḍeya (Hindu mythology),http://id.worldcat.org/fast/1032026,Q76145,,,
+Gaṇeśa (Hindu deity)--Painting,0,a;c--x,,Gaṇeśa (Hindu deity);Painting,http://id.worldcat.org/fast/939364;http://id.worldcat.org/fast/1050567,Q27053;Q19869,,,
+Śiva (Hindu deity)--Painting,0,a;c--x,,Sita (Hindu deity);Painting,http://id.worldcat.org/fast/1141519;http://id.worldcat.org/fast/1050567,Q26905;Q19869,,,
+Parvati (Hindu deity)--Painting,0,a;c--x,,Parvati (Hindu deity);Painting,http://id.worldcat.org/fast/1054247;http://id.worldcat.org/fast/1050567,Q26932;Q19869,,,
+Vedas--Recitation--Early works to 1800,0,a--x--v,,Vedas;Recitations;Early works,http://id.worldcat.org/fast/1356289;http://id.worldcat.org/fast/1091407;http://id.worldcat.org/fast/1411636,Q27198;Q11514;Q300,,,
+"Gaṇeśadaivajña, active 1520-1554. Jātakālaṃkāra",0,a;d;t,,,,,,,
+Yājñavalkya. Yājñavalkyasmr̥ti--Early works to 1800,0,a;t--v,,Yājñavalkyasmr̥ti (Yājñavalkya);Early works,http://id.worldcat.org/fast/1360784;http://id.worldcat.org/fast/1411636,Q76146;Q300,,,
+Puranas. Bhāgavatapurāṇa,0,a;p,http://id.loc.gov/authorities/names/n80121195,,,,Puranas. Bhāgavatapurāṇa,http://id.worldcat.org/fast/1356355,Q27402
+"Gaṅgeśa, active 13th century. Tattvacintāmaṇi--Early works to 1800",0,a;d;t--v,,Tattvacintāmaṇi (Gaṅgeśa);Early works,http://id.worldcat.org/fast/1358022;http://id.worldcat.org/fast/1411636,Q76136;Q300,,,
+Yellamma (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2021241778,,,,Yellamma (Hindu deity),http://id.worldcat.org/fast/1747027,Q27470
+Yellamma (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1747027,,,,Yellamma (Hindu deity),http://id.worldcat.org/fast/1747027,Q27470
+Bhairava (Hindu deity)--Early works to 1800,0,a;c--v,,Bhairava (Hindu deity);Early works,http://id.worldcat.org/fast/831085;http://id.worldcat.org/fast/1411636,Q26863;Q300,,,
+Vedas--Rites and ceremonies,0,a--x,http://id.loc.gov/authorities/subjects/sh85142470,Vedas;Rites and ceremonies,http://id.worldcat.org/fast/1356289;http://id.worldcat.org/fast/1098216,Q27198;Q7459,,,
+Śaṅkarācārya. Vākyasudhā,0,a;t,http://id.loc.gov/authorities/names/n82053211,Vākyasudhā (Śaṅkarācārya),http://id.worldcat.org/fast/1368905,Q76147,,,
+Upanishads. Muṇḍakopaniṣad,fast,a;p,http://id.worldcat.org/fast/1361140,,,,Upanishads. Muṇḍakopaniṣad,http://id.worldcat.org/fast/1361140,Q27125
+Upanishads. Muṇḍakopaniṣad--Early works to 1800,0,a;p--v,,,,,Upanishads. Muṇḍakopaniṣad;Early works,http://id.worldcat.org/fast/1361140;http://id.worldcat.org/fast/1411636,Q27125;Q300
+"Śrīharṣa, active 12th century. Naiṣadhīyacarita",0,a;d;t,http://id.loc.gov/authorities/names/n88259167,,,,Naiṣadhīyacarita (Śrīharṣa),http://id.worldcat.org/fast/1365043,Q27304
+"Keśavācārya Daivajña, active 16th century. Jātakapaddhati--Early works to 1800",0,a;d;t--v,,Early works,http://id.worldcat.org/fast/1411636,Q300,,,
+Radha (Hindu deity)--Poetry,0,a;c--v,,Radha (Hindu deity);Poetry,http://id.worldcat.org/fast/1102716;http://id.worldcat.org/fast/1423828,Q27211;Q247,,,
+Krishna (Hindu deity)--Poetry,0,a;c--v,,Krishna (Hindu deity);Poetry,http://id.worldcat.org/fast/989141;http://id.worldcat.org/fast/1423828,Q27188;Q247,,,
+Sarvajñātman. Śārīraprakaraṇasaṃkṣepaśārīraka,0,a;t,,,,,,,
+Bhānudatta Miśra. Rasamañjarī,0,a;t,http://id.loc.gov/authorities/names/n82129918,Rasamañjarī (Bhānudatta Miśra),http://id.worldcat.org/fast/1367194,Q76148,,,
+Śaṅkarācārya. Praśnopaniṣadbhāṣya,0,a;t,,,,,,,
+Upanishads. Praśnopaniṣad,0,a;p,http://id.loc.gov/authorities/names/n88268074,,,,Upanishads. Praśnopaniṣad,http://id.worldcat.org/fast/1361688,Q26982
+Upanishads. Praśnopaniṣad,fast,a;p,http://id.worldcat.org/fast/1361688,,,,Upanishads. Praśnopaniṣad,http://id.worldcat.org/fast/1361688,Q26982
+"Pārthasārathimiśra, active 11th century. Śāstradīpikā",0,a;d;t,,Śāstradīpikā (Pārthasārathimiśra),http://id.worldcat.org/fast/2056947,Q76149,,,
+Vedas. Atharvaveda,0,a;p,http://id.loc.gov/authorities/names/n80017844,,,,Vedas. Atharvaveda,http://id.worldcat.org/fast/1359282,Q26819
+"Bhaṭṭācāryya, Bhavānanda Siddhāntavāgīśa. TattvacintāmaṇidIdhitiprakāśa",0,a;t,,,,,,,
+Govindaṭhakkura. Kāvyapradīpa,0,a;t,http://id.loc.gov/authorities/names/n2009215262,,,,,,
+Jesus Christ--Biography,0,a--v,http://id.loc.gov/authorities/subjects/sh85069970,Jesus Christ;Biographies,http://id.worldcat.org/fast/40116;http://id.worldcat.org/fast/1919896,Q338;Q3051,,,
+Jesus Christ,fast,a,http://id.worldcat.org/fast/40116,,,,Jesus Christ,http://id.worldcat.org/fast/40116,Q338
+Jesus Christ--Teachings,0,a--x,http://id.loc.gov/authorities/subjects/sh85070127,Jesus Christ;Teachings,http://id.worldcat.org/fast/40116;http://id.worldcat.org/fast/1355128,Q338;Q27078,,,
+Puranas. Mārkaṇḍeyapurāṇa. Devīmāhātmya,0,a;p;p,http://id.loc.gov/authorities/names/n78011434,,,,Puranas. Mārkaṇḍeyapurāṇa. Devīmāhātmya,http://id.worldcat.org/fast/1361522,Q27453
+Puranas. Mārkaṇḍeyapurāṇa. Devīmāhātmya,fast,a;p;p,http://id.worldcat.org/fast/1361522,,,,Puranas. Mārkaṇḍeyapurāṇa. Devīmāhātmya,http://id.worldcat.org/fast/1361522,Q27453
+Śakti (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2018245486,,,,Śakti (Hindu deity),http://id.worldcat.org/fast/1185112,Q26818
+Bādarāyaṇa. Brahmasūtra--Early works to 1800,0,a;t--v,,Brahmasūtra (Bādarāyaṇa);Early works,http://id.worldcat.org/fast/1357925;http://id.worldcat.org/fast/1411636,Q76124;Q300,,,
+Śaṅkarācārya. Śārīrakamīmāṃsābhāṣya--Early works to 1800,0,a;t--v,,Śārīrakamīmāṃsābhāṣya (Śaṅkarācārya);Early works,http://id.worldcat.org/fast/1365134;http://id.worldcat.org/fast/1411636,Q76129;Q300,,,
+Vālmīki. Rāmāyaṇa--Early works to 1800,0,a;t--v,,Rāmāyaṇa (Vālmīki);Early works,http://id.worldcat.org/fast/1356702;http://id.worldcat.org/fast/1411636,Q26955;Q300,,,
+Dhūrtasvāmī. Āpastambaśrautasūtra dhūtasvāmibhāṣya,0,a;t,,,,,,,
+Āpastambaśrautasūtra,0,a,http://id.loc.gov/authorities/names/n82126807,,,,Āpastambaśrautasūtra,http://id.worldcat.org/fast/1374825,Q27150
+Āpastambaśrautasūtra,fast,a,http://id.worldcat.org/fast/1374825,,,,Āpastambaśrautasūtra,http://id.worldcat.org/fast/1374825,Q27150
+Upanishads. Kenopaniṣad,0,a;p,http://id.loc.gov/authorities/names/n81080100,,,,Upanishads. Kenopaniṣad,http://id.worldcat.org/fast/1362611,Q27388
+Upanishads. Kenopaniṣad,fast,a;p,http://id.worldcat.org/fast/1362611,,,,Upanishads. Kenopaniṣad,http://id.worldcat.org/fast/1362611,Q27388
+Śaṅkarācārya. Mahimnāstotra,0,a;t,,,,,,,
+Śaṅkarācārya. Aparokṣānubhūti,0,a;t,http://id.loc.gov/authorities/names/no2013101911,Aparokṣānubhūti (Śaṅkarācārya),http://id.worldcat.org/fast/1373931,Q76150,,,
+Rudra (Hindu deity)--Early works to 1800,0,a;c--v,,,,,Rudra (Hindu deity);Early works,http://id.worldcat.org/fast/1101063;http://id.worldcat.org/fast/1411636,Q27463;Q300
+"Padmapādācārya, active 8th century. Pañcapādikā",0,a;d;t,http://id.loc.gov/authorities/names/no2002044640,Pañcapādikā (Padmapādācārya),http://id.worldcat.org/fast/1372822,Q76151,,,
+Sadānanda Yogīndra. Vedāntasāra,0,a;t,http://id.loc.gov/authorities/names/no97062919,Vedāntasāra (Sadānanda Yogīndra),http://id.worldcat.org/fast/1372928,Q76152,,,
+Kālidāsa. Raghuvaṃśa--Early works to 1800,0,a;t--v,,Raghuvaṃśa (Kālidāsa);Early works,http://id.worldcat.org/fast/1356717;http://id.worldcat.org/fast/1411636,Q76130;Q300,,,
+"Nāgeśabhaṭṭa, active 1670-1750. Paribhāṣenduśekhara",0,a;d;t,http://id.loc.gov/authorities/names/n2007210948,Paribhāṣenduśekhara (Nāgeśabhaṭṭa),http://id.worldcat.org/fast/1370004,Q76153,,,
+"Amaracandrasūri, active 13th century. Kavyakalpalatā",0,a;d;t,,,,,,,
+Bhāravi. Kirātārjunīya,0,a;t,http://id.loc.gov/authorities/names/n84162331,,,,Kirātārjunīya (Bhāravi),http://id.worldcat.org/fast/1369338,Q26854
+Īśvarakr̥ṣṇa. Sāṅkhyakārikā,0,a;t,http://id.loc.gov/authorities/names/no93017682,Sāṅkhyakārikā (Īśvarakr̥ṣṇa),http://id.worldcat.org/fast/1356898,Q76154,,,
+Śaṅkarācārya. Chāndogyopaniṣadbhāṣya,0,a;t,http://id.loc.gov/authorities/names/n88022269,Chāndogyopaniṣadbhāṣya (Śaṅkarācārya),http://id.worldcat.org/fast/1366004,Q76155,,,
+Upanishads. Chāndogyopaniṣad,0,a;p,http://id.loc.gov/authorities/names/n80017847,,,,Upanishads. Chāndogyopaniṣad,http://id.worldcat.org/fast/1359129,Q27362
+Upanishads. Chāndogyopaniṣad,fast,a;p,http://id.worldcat.org/fast/1359129,,,,Upanishads. Chāndogyopaniṣad,http://id.worldcat.org/fast/1359129,Q27362
+"Madhva, active 13th century",0,a;d,http://id.loc.gov/authorities/names/n50044991,,,,"Madhva, active 13th century",http://id.worldcat.org/fast/1832127,Q26731
+"Madhva, active 13th century",fast,a;d,http://id.worldcat.org/fast/1832127,,,,"Madhva, active 13th century",http://id.worldcat.org/fast/1832127,Q26731
+Puranas. Bhāgavatapurāṇa.--2. skandha,0,a;p--n,,Puranas. Bhāgavatapurāṇa,http://id.worldcat.org/fast/1356355,Q27402,,,
+Puranas,fast,a,http://id.worldcat.org/fast/1357519,,,,Puranas,http://id.worldcat.org/fast/1357519,Q27019
+Viśvanātha Nyāyapañcānana Bhaṭṭācārya. Siddhāntamuktāvalī,0,a;t,http://id.loc.gov/authorities/names/n2018243958,,,,,,
+Vedas. Atharvaveda.--Selections,0,a;p--k,,Vedas. Atharvaveda;Excerpts,http://id.worldcat.org/fast/1359282;http://id.worldcat.org/fast/1692837,Q26819;Q3547,,,
+Upanishads. Kālāgnirudropaniṣad,0,a;p,,,,,,,
+Upanishads. Muṇḍakopaniṣad--Early works to 1800,0,a;p--x,,,,,Upanishads. Muṇḍakopaniṣad;Early works,http://id.worldcat.org/fast/1361140;http://id.worldcat.org/fast/1411636,Q27125;Q300
+Mahāvīra,0,a,http://id.loc.gov/authorities/names/n50059509,,,,Mahāvīra,http://id.worldcat.org/fast/18606,Q27383
+Mahāvīra,fast,a,http://id.worldcat.org/fast/18606,,,,Mahāvīra,http://id.worldcat.org/fast/18606,Q27383
+Jagadīśatarkālaṅkāra. Jāgadīśī,0,a;t,http://id.loc.gov/authorities/names/n80080343,,,,,,
+Kālidāsa. Kumārasambhava--Early works to 1800,0,a;t--v,,Kumārasambhava (Kālidāsa);Early works,http://id.worldcat.org/fast/1364820;http://id.worldcat.org/fast/1411636,Q76156;Q300,,,
+Nr̥siṃhāśrama. Vedāntatattvaviveka,0,a;t,http://id.loc.gov/authorities/names/n88254517,Vedāntatattvaviveka (Nr̥siṃhāśrama),http://id.worldcat.org/fast/1368840,Q76157,,,
+"Rāmacandra, Somayāji. Samarasāra--Early works to 1800",0,a;c;t--v,,Early works,http://id.worldcat.org/fast/1411636,Q300,,,
+Śītalā (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2014211030,,,,Śītalā (Hindu deity),http://id.worldcat.org/fast/1185155,Q26767
+Śītalā (Hindu deity),fast,a;c,http://id.worldcat.org/fast/1185155,,,,Śītalā (Hindu deity),http://id.worldcat.org/fast/1185155,Q26767
+Jagadīśatarkālaṅkara. Vyādhikaraṇa,0,a;t,http://id.loc.gov/authorities/names/n89249578,,,,,,
+Bhaṭṭojī Dīkṣita. Siddhāntakaumudī--Early works to 1800,0,a;t--v,,Siddhāntakaumudī (Bhaṭṭojī Dīkṣita);Early works,http://id.worldcat.org/fast/1359676;http://id.worldcat.org/fast/1411636,Q76137;Q300,,,
+Śaunaka. R̥gvedaprātiśākhya,0,a;t,http://id.loc.gov/authorities/names/n88190883,R̥gvedaprātiśākhya (Śaunaka),http://id.worldcat.org/fast/1368311,Q76158,,,
+Annapūrṇā (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/no2019090136,,,,Annapūrṇā (Hindu deity),http://id.worldcat.org/fast/809712,Q27449
+Annapūrṇā (Hindu deity),fast,a;c,http://id.worldcat.org/fast/809712,,,,Annapūrṇā (Hindu deity),http://id.worldcat.org/fast/809712,Q27449
+"Bhāskarācārya, 1114-1185. Siddhāntaśiromaṇi",0,a;d;t,http://id.loc.gov/authorities/names/n88179505,Siddhāntaśiromaṇi (Bhāskarācārya),http://id.worldcat.org/fast/1916918,Q76159,,,
+Vāyu (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2018244504,Vāyu (Hindu deity),http://id.worldcat.org/fast/1169396,Q26683,,,
+"Dharmarājādhvarīndra, active 17th century. Vedāntaparibhāṣā",0,a;d;t,http://id.loc.gov/authorities/names/no2002034992,Vedāntaparibhāṣā (Dharmarājādhvarīndra),http://id.worldcat.org/fast/1374448,Q76160,,,
+Mahābhārata--Commentaries--Early works to 1800,0,a--v--v,,Mahābhārata;Commentaries;Early works,http://id.worldcat.org/fast/1356112;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q26667;Q2812;Q300,,,
+"Gaṅgeśa, active 13th century. Siddhāntalakṣaṇa",0,a;d;t,http://id.loc.gov/authorities/names/n88265315,Siddhāntalakṣaṇa (Gaṅgeśa),http://id.worldcat.org/fast/1375405,Q76161,,,
+Bhaṭṭojī Dīkṣita. Prauḍhamanoramā,0,a;t,http://id.loc.gov/authorities/names/no2007090932,Prauḍhamanoramā (Bhaṭṭojī Dīkṣita),http://id.worldcat.org/fast/2058142,Q76162,,,
+Śaṅkarācārya. Laghuvākyavr̥tti,0,a;t,http://id.loc.gov/authorities/names/no2013105420,,,,,,
+"Rāṭhī, Dāmodaradāsa, 17th century. Sāṃgītadarpaṇa",0,a;d;t,,,,,,,
+Vishnu (Hindu deity)--Early works to 1800,0,a;c--v,,Vishnu (Hindu deity);Early works,http://id.worldcat.org/fast/1167831;http://id.worldcat.org/fast/1411636,Q27014;Q300,,,
+"Mādhava, -1386. Anubhūtiprakāśa",0,a;d;t,http://id.loc.gov/authorities/names/n88254531,,,,,,
+Patañjali. Mahābhāṣya,0,a;t,http://id.loc.gov/authorities/names/n84226952,Mahābhāṣya (Patañjali),http://id.worldcat.org/fast/1356658,Q76163,,,
+Jagannātha Paṇḍitarāja. Bhāminīvilāsa,0,a;t,http://id.loc.gov/authorities/names/no2001043890,Bhāminīvilāsa (Jagannātha Paṇḍitarāja),http://id.worldcat.org/fast/1387676,Q76164,,,
+"Gaṅgeśa, active 13th century. Anumānakhaṇḍa",0,a;d;t,http://id.loc.gov/authorities/names/n85103330,Anumānakhaṇḍa (Gaṅgeśa),http://id.worldcat.org/fast/1368540,Q76165,,,
+"Rāma Daivajña, active 17th century. Muhūrtacintāmaṇi",0,a;d;t,http://id.loc.gov/authorities/names/n84152483,,,,,,
+Vedas. Yajurveda. Kr̥ṣṇayajurveda (Taittirīyasaṃhitā),0,a;p;p,http://id.loc.gov/authorities/names/n82036156,,,,Vedas. Yajurveda. Kr̥ṣṇayajurveda (Taittirīyasaṃhitā),http://id.worldcat.org/fast/1358838,Q26877
+Vedas. Yajurveda. Kr̥ṣṇayajurveda (Taittirīyasaṃhitā),fast,a;p;p,http://id.worldcat.org/fast/1358838,,,,Vedas. Yajurveda. Kr̥ṣṇayajurveda (Taittirīyasaṃhitā),http://id.worldcat.org/fast/1358838,Q26877
+Viṣṇusmr̥ti,0,a,http://id.loc.gov/authorities/names/n79126893,,,,Viṣṇusmr̥ti,http://id.worldcat.org/fast/1398700,Q27031
+Viṣṇusmr̥ti,fast,a,http://id.worldcat.org/fast/1398700,,,,Viṣṇusmr̥ti,http://id.worldcat.org/fast/1398700,Q27031
+Rudra (Hindu deity)--Early works to 1800,0,a;c--x,,,,,Rudra (Hindu deity);Early works,http://id.worldcat.org/fast/1101063;http://id.worldcat.org/fast/1411636,Q27463;Q300
+Raghunātha Śiromaṇi. Tattvacintāmaṇidīdhiti--Early works to 1800,0,a;t--v,,Tattvacintāmaṇidīdhiti (Raghunātha Śiromaṇi);Early works,http://id.worldcat.org/fast/1364737;http://id.worldcat.org/fast/1411636,Q76123;Q300,,,
+Āśvalāyanagr̥hyasūtra,fast,a,http://id.worldcat.org/fast/1369757,,,,Āśvalāyanagr̥hyasūtra,http://id.worldcat.org/fast/1369757,Q27324
+Āśvalāyanagr̥hyasūtra--Early works to 1800,0,a--v,,Āśvalāyanagr̥hyasūtra;Early works,http://id.worldcat.org/fast/1369757;http://id.worldcat.org/fast/1411636,Q27324;Q300,,,
+Āśvalāyana. Āhnika,0,a;t,,,,,,,
+Śaṅkarācārya. Vākyavr̥tti,0,a;t,http://id.loc.gov/authorities/names/no2001085066,Vākyavr̥tti (Śaṅkarācārya),http://id.worldcat.org/fast/1795176,Q76166,,,
+Vedas. R̥gveda--Early works to 1800,0,a;p--v,,Vedas. R̥gveda;Early works,http://id.worldcat.org/fast/1356526;http://id.worldcat.org/fast/1411636,Q26665;Q300,,,
+"Prakāśātma, Muni. Pañcapādikāvivaraṇa",0,a;c;t,http://id.loc.gov/authorities/names/no2004008630,,,,,,
+"Nārāyaṇa Bhaṭṭa, active 16th century. Tristhalīsetu",0,a;d;t,http://id.loc.gov/authorities/names/n85045205,,,,,,
+Upanishads. Aitareyopaniṣad--Early works to 1800,0,a;p--v,,Upanishads. Aitareyopaniṣad;Early works,http://id.worldcat.org/fast/1358683;http://id.worldcat.org/fast/1411636,Q26641;Q300,,,
+Śaṅkarācārya. Aitareyabhāṣya,0,a;t,,,,,,,
+Brahmanas. Aitareyabrāhmaṇa,0,a;p,http://id.loc.gov/authorities/names/n90625917,,,,Brahmanas. Aitareyabrāhmaṇa,http://id.worldcat.org/fast/1361705,Q27081
+Brahmanas. Aitareyabrāhmaṇa,fast,a;p,http://id.worldcat.org/fast/1361705,,,,Brahmanas. Aitareyabrāhmaṇa,http://id.worldcat.org/fast/1361705,Q27081
+"Narapati, active 12th century. Narapatijayacaryā",0,a;d;t,http://id.loc.gov/authorities/names/n89158487,,,,,,
+Nala (Hindu mythological character)--Early works to 1800,0,a;c--x,,Nala (Hindu mythological character);Early works,http://id.worldcat.org/fast/1032301;http://id.worldcat.org/fast/1411636,Q26770;Q300,,,
+Damayantī (Hindu mythological character)--Early works to 1800,0,a;c--x,,Damayantī (Hindu mythological character);Early works,http://id.worldcat.org/fast/887293;http://id.worldcat.org/fast/1411636,Q27232;Q300,,,
+Gaṇeśa (Hindu deity)--Early works to 1800,0,a;c--v,,,,,Gaṇeśa (Hindu deity);Early works,http://id.worldcat.org/fast/939364;http://id.worldcat.org/fast/1411636,Q27053;Q300
+Krishna (Hindu deity)--Disciples,0,a;c--x,,Krishna (Hindu deity);Disciples,http://id.worldcat.org/fast/989141;http://id.worldcat.org/fast/1352712,Q27188;Q27112,,,
+Jagadīśatarkālaṅkāra. Tarkāmr̥ta,0,a;t,http://id.loc.gov/authorities/names/n2008205243,Tarkāmr̥ta (Jagadīśatarkālaṅkāra),http://id.worldcat.org/fast/1398914,Q76167,,,
+Āśvalāyanagr̥hyasūtra,0,a,http://id.loc.gov/authorities/names/n82126569,,,,Āśvalāyanagr̥hyasūtra,http://id.worldcat.org/fast/1369757,Q27324
+"Vedas--Criticism, interpretation, etc",0,a--x,http://id.loc.gov/authorities/subjects/sh85142466,"Vedas;Criticism, interpretation, etc.",http://id.worldcat.org/fast/1356289;http://id.worldcat.org/fast/1411635,Q27198;Q177,,,
+"Annambhaṭṭa, active 17th century. Tarkasaṅgraha--Early works to 1800",0,a;d;t--v,,Tarkasaṅgraha (Annambhaṭṭa);Early works,http://id.worldcat.org/fast/1361790;http://id.worldcat.org/fast/1411636,Q76131;Q300,,,
+Bhīma (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/names/n2022240017,Bhīma (Hindu mythological character),http://id.worldcat.org/fast/831178,Q76168,,,
+Draupadī (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/names/n2017243108,,,,Draupadī (Hindu mythological character),http://id.worldcat.org/fast/897682,Q27373
+Draupadī (Hindu mythological character),fast,a;c,http://id.worldcat.org/fast/897682,,,,Draupadī (Hindu mythological character),http://id.worldcat.org/fast/897682,Q27373
+Prahlāda (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/names/n2017241938,,,,Prahlāda (Hindu mythological character),http://id.worldcat.org/fast/1074587,Q27040
+Prahlāda (Hindu mythological character),fast,a;c,http://id.worldcat.org/fast/1074587,,,,Prahlāda (Hindu mythological character),http://id.worldcat.org/fast/1074587,Q27040
+Patañjali. Yogasūtra,0,a;t,http://id.loc.gov/authorities/names/n82084253,Yogasūtra (Patañjali),http://id.worldcat.org/fast/1356519,Q76169,,,
+Vishnu (Hindu deity)--Art,0,a;c--v,,Vishnu (Hindu deity);Art,http://id.worldcat.org/fast/1167831;http://id.worldcat.org/fast/1423702,Q27014;Q38573,,,
+Upanishads. Taittirīyopaniṣad--Early works to 1800,0,a;p--v,,Upanishads. Taittirīyopaniṣad;Early works,http://id.worldcat.org/fast/1357539;http://id.worldcat.org/fast/1411636,Q26604;Q300,,,
+Veṅkaṭeśvara (Hindu deity),0,a;c,,Veṅkaṭeśvara (Hindu deity),http://id.worldcat.org/fast/2000960,Q26951,,,
+Puja,0,a,http://id.loc.gov/authorities/names/n2006171534,,,,,,
+Māgha. Śiśupālavadha,0,a;t,http://id.loc.gov/authorities/names/n90704208,Śiśupālavadha (Māgha),http://id.worldcat.org/fast/1380818,Q76170,,,
+Vālmīki. Rāmāyaṇa,0,a;t,,,,,Rāmāyaṇa (Vālmīki),http://id.worldcat.org/fast/1356702,Q26955
+Vishnu (Hindu deity)--Prayers and devotions,0,a;c--v,,Vishnu (Hindu deity);Prayers and devotions,http://id.worldcat.org/fast/1167831;http://id.worldcat.org/fast/1423909,Q27014;Q3052,,,
+Puranas. Bhāgavatapurāṇa--Early works to 1800,0,a;p--v,,Puranas. Bhāgavatapurāṇa;Early works,http://id.worldcat.org/fast/1356355;http://id.worldcat.org/fast/1411636,Q27402;Q300,,,
+"Nārāyaṇadaivajña, active 16th century. Muhūrtamārtaṇḍa",0,a;d;t,,,,,,,
+Bāṇa. Kādambarī,0,a;t,http://id.loc.gov/authorities/names/n2016248258,Kādambarī (Bāṇa),http://id.worldcat.org/fast/1365084,Q76171,,,
+Vedas. Yajurveda,0,a;p,http://id.loc.gov/authorities/names/n80009842,,,,Vedas. Yajurveda,http://id.worldcat.org/fast/1356493,Q27270
+Vedas. Yajurveda,fast,a;p,http://id.worldcat.org/fast/1356493,,,,Vedas. Yajurveda,http://id.worldcat.org/fast/1356493,Q27270
+Āśvalāyanaśrautasūtra,0,a,http://id.loc.gov/authorities/names/n82127485,,,,Āśvalāyanaśrautasūtra,http://id.worldcat.org/fast/1368328,Q26816
+Āśvalāyanaśrautasūtra,fast,a,http://id.worldcat.org/fast/1368328,,,,Āśvalāyanaśrautasūtra,http://id.worldcat.org/fast/1368328,Q26816
+Uṇādisūtra,0,a,http://id.loc.gov/authorities/names/n89297436,,,,Uṇādisūtra,http://id.worldcat.org/fast/1365151,Q27461
+Uṇādisūtra,fast,a,http://id.worldcat.org/fast/1365151,,,,Uṇādisūtra,http://id.worldcat.org/fast/1365151,Q27461
+"Keśavamiśra, active 13th century. Tarkabhāṣā",0,a;d;t,http://id.loc.gov/authorities/names/no2003082167,Tarkabhāṣā (Keśavamiśra),http://id.worldcat.org/fast/1373739,Q76172,,,
+Aranyakas. Taittirīyāraṇyaka,0,a;p,,Aranyakas. Taittirīyāraṇyaka,http://id.worldcat.org/fast/1370324,Q76173,,,
+"Nāgeśabhaṭṭa, active 1670-1750. Mañjūṣā",0,a;d;t,,,,,,,
+Patañjali. Sāṃkhyapravacana,0,a;t,,,,,,,
+Sureśvarācārya. Sambandhavārtika,0,a;t,,,,,,,
+Śaṅkarācārya. Br̥hadāraṇyakopaniṣadbhāṣya,0,a;t,http://id.loc.gov/authorities/names/n88022268,Br̥hadāraṇyakopaniṣadbhāṣya (Śaṅkarācārya),http://id.worldcat.org/fast/1375057,Q76174,,,
+Hanumān (Hindu deity)--Art--Early works to 1800,0,a;c--v--v,,Hanumān (Hindu deity);Art;Early works,http://id.worldcat.org/fast/951117;http://id.worldcat.org/fast/1423702;http://id.worldcat.org/fast/1411636,Q26991;Q38573;Q300,,,
+Kapila. Sāṅkhyasūtra,0,a;t,http://id.loc.gov/authorities/names/n90721282,Sāṅkhyasūtra (Kapila),http://id.worldcat.org/fast/1362497,Q76175,,,
+Śaṅkarācārya. Dakṣiṇāmūrtistotra--Early works to 1800,0,a;t--v,,Dakṣiṇāmūrtistotra (Śaṅkarācārya);Early works,http://id.worldcat.org/fast/1359318;http://id.worldcat.org/fast/1411636,Q76176;Q300,,,
+Śakti,0,a,http://id.loc.gov/authorities/names/n89235542,,,,Śakti,http://id.worldcat.org/fast/359505,Q26934
+Śakti,fast,a,http://id.worldcat.org/fast/359505,,,,Śakti,http://id.worldcat.org/fast/359505,Q26934
+"Nāgeśabhaṭṭa, active 1670-1750. Laghuśabdenduśekhara",0,a;d;t,http://id.loc.gov/authorities/names/n88231443,Laghuśabdenduśekhara (Nāgeśabhaṭṭa),http://id.worldcat.org/fast/1373825,Q76177,,,
+Śiva (Hindu deity)--Art,0,a;c--v,,Siva (Hindu deity);Art,http://id.worldcat.org/fast/1119826;http://id.worldcat.org/fast/1423702,Q26681;Q38573,,,
+Bhartr̥hari. Śr̥ngāraśataka,0,a;t,,Śr̥ngāraśataka (Bhartr̥hari),http://id.worldcat.org/fast/1372225,Q76178,,,
+Puranas,0,a,http://id.loc.gov/authorities/names/n79139448,,,,Puranas,http://id.worldcat.org/fast/1357519,Q27019
+Baudhāyana. Vihārasūtra,0,a;t,,,,,,,
+Upanishads. Māṇḍūkyopaniṣad,0,a;p,http://id.loc.gov/authorities/names/n82067471,,,,Upanishads. Māṇḍūkyopaniṣad,http://id.worldcat.org/fast/1356983,Q26618
+Upanishads. Māṇḍūkyopaniṣad,fast,a;p,http://id.worldcat.org/fast/1356983,,,,Upanishads. Māṇḍūkyopaniṣad,http://id.worldcat.org/fast/1356983,Q26618
+Upanishads. Muṇḍakopaniṣad,0,a;p,http://id.loc.gov/authorities/names/n82077949,,,,Upanishads. Muṇḍakopaniṣad,http://id.worldcat.org/fast/1361140,Q27125
+Śāṇḍilya. Bhaktisūtra,0,a;t,http://id.loc.gov/authorities/names/no2006110141,Bhaktisūtra (Śāṇḍilya),http://id.worldcat.org/fast/1383285,Q76179,,,
+Samarasiṃha. Gaṇakabhūṣaṇa,0,a;t,,,,,,,
+Upanishads. Kaivalyopaniṣad,0,a;p,http://id.loc.gov/authorities/names/n81022145,,,,Upanishads. Kaivalyopaniṣad,http://id.worldcat.org/fast/1365244,Q26585
+Upanishads. Kaivalyopaniṣad,fast,a;p,http://id.worldcat.org/fast/1365244,,,,Upanishads. Kaivalyopaniṣad,http://id.worldcat.org/fast/1365244,Q26585
+Samarasiṃha. Tājakatantrasāra,0,a;t,,,,,,,
+Vedas--Early works to 1800,0,a--v,,Vedas;Early works,http://id.worldcat.org/fast/1356289;http://id.worldcat.org/fast/1411636,Q27198;Q300,,,
