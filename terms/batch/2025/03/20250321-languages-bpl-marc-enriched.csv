@@ -1,30 +1,30 @@
-File,language_as_recorded,language_code,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
-20250321-languages-bpl-marc.csv,lat,,,,,Latin,Q397,Q113
-20250321-languages-bpl-marc.csv,frm,,,,,Middle French,Q1473289,Q110
-20250321-languages-bpl-marc.csv,ita,,,,,Italian,Q652,Q116
-20250321-languages-bpl-marc.csv,spa,,,,,Spanish,Q1321,Q114
-20250321-languages-bpl-marc.csv,ger,,,,,German,Q188,Q112
-20250321-languages-bpl-marc.csv,In Latin,,,,,Latin,Q397,Q113
-20250321-languages-bpl-marc.csv,per,,,,,Persian,Q9168,Q120
-20250321-languages-bpl-marc.csv,In Italian with some Latin,,,,,Italian;Latin,Q652;Q397,Q116;Q113
-20250321-languages-bpl-marc.csv,fre,,,,,French,Q150,Q111
-20250321-languages-bpl-marc.csv,In French,,,,,French,Q150,Q111
-20250321-languages-bpl-marc.csv,eng,,,,,English,Q1860,Q109
-20250321-languages-bpl-marc.csv,In Middle English,,,,,Middle English,Q36395,Q119
-20250321-languages-bpl-marc.csv,zxx,,,,,no linguistic content;undetermined language,Q22282939;Q22282914,Q16428;Q12714
-20250321-languages-bpl-marc.csv,dut,,,,,Dutch,Q7411,Q793
-20250321-languages-bpl-marc.csv,ara,,,,,Arabic,Q13955,Q118
-20250321-languages-bpl-marc.csv,heb,,,,,Hebrew,Q9288,Q117
-20250321-languages-bpl-marc.csv,"Language: Latin, English, and Anglo-Norman",,,,,Latin;English;Anglo-Norman,Q397;Q1860;Q35214,Q113;Q109;Q1315
-20250321-languages-bpl-marc.csv,grc,,,,,Ancient Greek,Q35497,Q3103
-20250321-languages-bpl-marc.csv,arm,,,,,Armenian,Q8785,Q792
-20250321-languages-bpl-marc.csv,gre,,,,,Greek,Q9129,Q1318
-20250321-languages-bpl-marc.csv,In Spanish,,,,,Spanish,Q1321,Q114
-20250321-languages-bpl-marc.csv,In Latin with German rubrics,,Latin;German,Q397;Q188,Q113;Q112,,,
-20250321-languages-bpl-marc.csv,In Latin with additions in Provençal,,Latin;Provençal,Q397;Q241243,Q113;Q7801,,,
-20250321-languages-bpl-marc.csv,chu,,,,,Church Slavonic,Q33251,Q16427
-20250321-languages-bpl-marc.csv,dum,,,,,Middle Dutch,Q178806,Q10833
-20250321-languages-bpl-marc.csv,In Latin and Italian,,,,,Latin;Italian,Q397;Q652,Q113;Q116
-20250321-languages-bpl-marc.csv,In Latin and French,,,,,Latin;French,Q397;Q150,Q113;Q111
-20250321-languages-bpl-marc.csv,"In Latin, with some French",,,,,Latin;French,Q397;Q150,Q113;Q111
-20250321-languages-bpl-marc.csv,In Italian,,,,,Italian,Q652,Q116
+language_as_recorded,language_code,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+lat,,,,,Latin,Q397,Q113
+frm,,,,,Middle French,Q1473289,Q110
+ita,,,,,Italian,Q652,Q116
+spa,,,,,Spanish,Q1321,Q114
+ger,,,,,German,Q188,Q112
+In Latin,,,,,Latin,Q397,Q113
+per,,,,,Persian,Q9168,Q120
+In Italian with some Latin,,,,,Italian;Latin,Q652;Q397,Q116;Q113
+fre,,,,,French,Q150,Q111
+In French,,,,,French,Q150,Q111
+eng,,,,,English,Q1860,Q109
+In Middle English,,,,,Middle English,Q36395,Q119
+zxx,,,,,no linguistic content;undetermined language,Q22282939;Q22282914,Q16428;Q12714
+dut,,,,,Dutch,Q7411,Q793
+ara,,,,,Arabic,Q13955,Q118
+heb,,,,,Hebrew,Q9288,Q117
+"Language: Latin, English, and Anglo-Norman",,,,,Latin;English;Anglo-Norman,Q397;Q1860;Q35214,Q113;Q109;Q1315
+grc,,,,,Ancient Greek,Q35497,Q3103
+arm,,,,,Armenian,Q8785,Q792
+gre,,,,,Greek,Q9129,Q1318
+In Spanish,,,,,Spanish,Q1321,Q114
+In Latin with German rubrics,,Latin;German,Q397;Q188,Q113;Q112,,,
+In Latin with additions in Provençal,,Latin;Provençal,Q397;Q241243,Q113;Q7801,,,
+chu,,,,,Church Slavonic,Q33251,Q16427
+dum,,,,,Middle Dutch,Q178806,Q10833
+In Latin and Italian,,,,,Latin;Italian,Q397;Q652,Q113;Q116
+In Latin and French,,,,,Latin;French,Q397;Q150,Q113;Q111
+"In Latin, with some French",,,,,Latin;French,Q397;Q150,Q113;Q111
+In Italian,,,,,Italian,Q652,Q116

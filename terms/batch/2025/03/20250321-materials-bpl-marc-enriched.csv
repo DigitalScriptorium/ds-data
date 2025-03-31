@@ -1,0 +1,21 @@
+material_as_recorded,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+parchment,,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+"parchment, ill.",,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+"paper, ill., charts",paper,http://vocab.getty.edu/aat/300014109,Q31,,,
+paper,,,,paper,http://vocab.getty.edu/aat/300014109,Q31
+parchment and paper,,,,parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
+"paper, ill.",,,,paper,http://vocab.getty.edu/aat/300014109,Q31
+"paper, ill., maps, diagrams",paper,http://vocab.getty.edu/aat/300014109,Q31,,,
+Paper,,,,paper,http://vocab.getty.edu/aat/300014109,Q31
+paper and parchment,,,,paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
+"paper, color coats of arms",paper,http://vocab.getty.edu/aat/300014109,Q31,,,
+"parchment, music",,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+"parchment, ill. ; 550 x 382 (365 x 270) mm",parchment,http://vocab.getty.edu/aat/300011851,Q33,,,
+"parchment, paper",,,,parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
+"parchment, ill",,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+"paper, ill., music",paper,http://vocab.getty.edu/aat/300014109,Q31,,,
+"paper, music",,,,paper,http://vocab.getty.edu/aat/300014109,Q31
+"paper and parchment, music",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33,,,
+embroidered silk over parchment,silk;parchment,http://vocab.getty.edu/aat/300014072;http://vocab.getty.edu/aat/300011851,Q34;Q33,,,
+"parchment and paper, ill.",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31,,,
+4 membranes,parchment,http://vocab.getty.edu/aat/300011851,Q33,,,
