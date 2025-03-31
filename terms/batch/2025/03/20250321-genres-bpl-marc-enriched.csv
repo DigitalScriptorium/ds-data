@@ -1,0 +1,195 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+"Manuscripts, Latin (Medieval and modern)--France",lcsh,,,,,"Manuscripts, Latin (Medieval and modern);France",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204289,Q10783;Q152
+"Manuscripts, Latin (Medieval and modern)--Germany",lcsh,,,,,"Manuscripts, Latin (Medieval and modern);Germany",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1210272,Q10783;Q3032
+Manuscript waste,rbmscv,,,,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568,Q5892
+Digital images,lcsh,,,,,Digital images,http://id.worldcat.org/fast/1739927,Q16300
+"Manuscripts, French--France",lcsh,,,,,"Manuscripts, French;France",http://id.worldcat.org/fast/1008338;http://id.worldcat.org/fast/1204289,Q319;Q152
+"Manuscripts, Medieval--France",lcsh,,,,,"Manuscripts, Medieval;France",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204289,Q325;Q152
+Inscriptions,rbmscv,,,,,Inscriptions,http://id.loc.gov/vocabulary/rbmscv/cv00180,Q5875
+Bookplates,rbmscv,,,,,Bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00138,Q5847
+Illuminations,gmgpc,,,,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
+Gothic scripts,aat,,,,,Gothic scripts,http://vocab.getty.edu/aat/300195226,Q16360
+"Manuscripts, Latin (Medieval and modern)--Netherlands",lcsh,,,,,"Manuscripts, Latin (Medieval and modern);Netherlands",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204034,Q10783;Q5863
+"Manuscripts, Medieval--Netherlands",lcsh,,,,,"Manuscripts, Medieval;Netherlands",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204034,Q325;Q5863
+"Manuscripts, Medieval--Germany",lcsh,,,,,"Manuscripts, Medieval;Germany",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1210272,Q325;Q3032
+Marginalia,rbmscv,,,,,Marginalia,http://id.loc.gov/vocabulary/rbmscv/cv00255,Q16344
+Edge titles,rbmscv,,,,,Edge titles,http://id.loc.gov/vocabulary/rbmscv/cv00436,Q16400
+"Manuscripts, Latin (Medieval and modern)--Belgium",lcsh,,,,,"Manuscripts, Latin (Medieval and modern);Belgium",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1210278,Q10783;Q16301
+"Manuscripts, Medieval--Belgium",lcsh,,,,,"Manuscripts, Medieval;Belgium",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1210278,Q325;Q16301
+Missals (Service books),lcgft,,,,,Missals (Service books),http://id.worldcat.org/fast/1920241,Q8363
+Embossed stamps,rbmscv,,,,,Embossed stamps,http://id.loc.gov/vocabulary/rbmscv/cv00238,Q16341
+"Manuscripts, Latin (Medieval and modern)--Italy",lcsh,,,,,"Manuscripts, Latin (Medieval and modern);Italy",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204565,Q10783;Q249
+"Manuscripts, Italian--Italy",lcsh,,,,,"Manuscripts, Italian;Italy",http://id.worldcat.org/fast/1008378;http://id.worldcat.org/fast/1204565,Q269;Q249
+"Manuscripts, Medieval--Italy",lcsh,,,,,"Manuscripts, Medieval;Italy",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204565,Q325;Q249
+Wooden boards,rbmscv,,,,,Wooden boards,http://id.loc.gov/vocabulary/rbmscv/cv00601,Q5870
+Catches,rbmscv,,,,,Catches,http://id.loc.gov/vocabulary/rbmscv/cv00459,Q16369
+Manicules,rbmscv,,,,,Manicules,http://id.loc.gov/vocabulary/rbmscv/cv00248,Q5909
+Autographs,rbmscv,,,,,Autographs,http://id.loc.gov/vocabulary/rbmscv/cv00177,Q38431
+Calf bindings,rbmscv,,,,,Calf bindings,http://id.loc.gov/vocabulary/rbmscv/cv00454,Q12556
+"Manuscripts, Medieval--Spain",lcsh,,,,,"Manuscripts, Medieval;Spain",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204303,Q325;Q343
+"Manuscripts, Spanish--Spain",lcsh,,,,,"Manuscripts, Spanish;Spain",http://id.worldcat.org/fast/1008500;http://id.worldcat.org/fast/1204303,Q202;Q343
+"Manuscripts, Latin (Medieval and modern)--Spain",lcsh,,,,,"Manuscripts, Latin (Medieval and modern);Spain",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204303,Q10783;Q343
+Bibles,lcsh,,,,,Bible,http://id.worldcat.org/fast/1356024,Q4267
+"Manuscripts, German--Germany",lcsh,,,,,"Manuscripts, German;Germany",http://id.worldcat.org/fast/1008346;http://id.worldcat.org/fast/1210272,Q142;Q3032
+Furniture,rbmscv,,,,,Furniture,http://id.loc.gov/vocabulary/rbmscv/cv00445,Q16323
+Metal clasps,rbmscv,,,,,Metal clasps,http://id.loc.gov/vocabulary/rbmscv/cv00602,Q16297
+Humanistic scripts,aat,,,,,humanistic scripts,http://vocab.getty.edu/aat/300210204,Q10824
+Poetry,,,,,,poetry,http://vocab.getty.edu/aat/300055931,Q11358
+Protogothic,aat,,,,,Protogothic,http://vocab.getty.edu/aat/300379143,Q16405
+Clasps,rbmscv,,,,,Clasps,http://id.loc.gov/vocabulary/rbmscv/cv00448,Q12690
+Deerskin bindings,rbmscv,,,,,Deerskin bindings,http://id.loc.gov/vocabulary/rbmscv/cv00504,Q16302
+Insertions,rbmscv,,,,,Insertions (Production),http://id.loc.gov/vocabulary/rbmscv/cv00768,Q16308
+Goatskin bindings,rbmscv,,,,,Goatskin bindings,http://id.loc.gov/vocabulary/rbmscv/cv00547,Q12526
+Silver clasp plates,rbmscv,,,,,Silver clasp plates,http://id.loc.gov/vocabulary/rbmscv/cv00715,Q16388
+Vellum bindings,rbmscv,,,,,Vellum bindings,http://id.loc.gov/vocabulary/rbmscv/cv00543,Q5878
+"Manuscripts, Latin (Medieval and modern)--England",lcsh,,,,,"Manuscripts, Latin (Medieval and modern);England",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1219920,Q10783;Q320
+"Manuscripts, Medieval--England",lcsh,,,,,"Manuscripts, Medieval;England",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1219920,Q325;Q320
+Devotional calendars,aat,,,,,devotional calendars,http://vocab.getty.edu/aat/300026750,Q2784
+Signed bindings,rbmscv,,,,,Signed bindings,http://id.loc.gov/vocabulary/rbmscv/cv00701,Q16282
+Poetry,lcgft,,,,,Poetry,http://id.worldcat.org/fast/1423828,Q247
+Cathedral bindings,rbmscv,,,,,Cathedral bindings,http://id.loc.gov/vocabulary/rbmscv/cv00131,Q16362
+Blocked bindings,rbmscv,,,,,Blocked bindings,http://id.loc.gov/vocabulary/rbmscv/cv00438,Q16351
+Dates (Provenance),rbmscv,,Dates (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00234,Q16354,,,
+Pasteboard,rbmscv,,,,,Pasteboard,http://id.loc.gov/vocabulary/rbmscv/cv00622,Q16370
+Woodblock printed papers,rbmscv,,,,,Woodblock-printed papers,http://id.loc.gov/vocabulary/rbmscv/cv01011,Q16346
+"Manuscripts, Latin--Italy",lcsh,,,,,"Manuscripts, Latin;Italy",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/1204565,Q210;Q249
+Decorated initials,aat,,,,,decorated initials,http://vocab.getty.edu/aat/300417548,Q10807
+Velvet bindings,rbmscv,,,,,Velvet bindings,http://id.loc.gov/vocabulary/rbmscv/cv00708,Q5833
+"Manuscripts, Persian--Iran",lcsh,,,,,"Manuscripts, Persian;Iran",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1204889,Q255;Q16384
+"Manuscripts,Medieval--Iran",lcsh,,,,,"Manuscripts, Medieval;Iran",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204889,Q325;Q16384
+"Epic poetry, Latin (Medieval and modern)",lcsh,,,,,"Epic poetry, Latin (Medieval and modern)",http://id.worldcat.org/fast/913967,Q16281
+Sprinkled paper bindings,rbmscv,,,,,Sprinkled paper bindings,http://id.loc.gov/vocabulary/rbmscv/cv00500,Q16363
+Stabbing,rbmscv,,,,,Stabbing,http://id.loc.gov/vocabulary/rbmscv/cv00675,Q16255
+Gauffered edges,rbmscv,,,,,Gauffered edges,http://id.loc.gov/vocabulary/rbmscv/cv00745,Q10809
+Illegible markings,rbmscv,,,,,Illegible markings,http://id.loc.gov/vocabulary/rbmscv/cv00159,Q16287
+Ink stamps,rbmscv,,,,,Ink stamps,http://id.loc.gov/vocabulary/rbmscv/cv00246,Q16275
+"Manuscripts, Latin (Medieval and modern)",lcsh,,,,,"Manuscripts, Latin (Medieval and modern)",http://id.worldcat.org/fast/1008399,Q10783
+"Manuscripts, Medieval",lcsh,,,,,"Manuscripts, Medieval",http://id.worldcat.org/fast/1008422,Q325
+Numbers,rbmscv,,,,,Numbers (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00020,Q5864
+Morocco bindings,rbmscv,,,,,Morocco bindings,http://id.loc.gov/vocabulary/rbmscv/cv00548,Q12652
+Library copies,rbmscv,,,,,Library copies,http://id.loc.gov/vocabulary/rbmscv/cv00154,Q16329
+Shelfmarks,rbmscv,,,,,Shelf marks,http://id.loc.gov/vocabulary/rbmscv/cv00268,Q16356
+Thumb indexes,rbmscv,,,,,Thumb indexes,http://id.loc.gov/vocabulary/rbmscv/cv00754,Q16314
+Armorials,rbmscv,,,,,Armorials,http://id.loc.gov/vocabulary/rbmscv/cv00965,Q16263
+Prices,rbmscv,,,,,Prices (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00263,Q5893
+Codes,rbmscv,,,,,Codes (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00231,Q16404
+Stencilled initials,rbmscv,,,,,Stencilled initials,http://id.loc.gov/vocabulary/rbmscv/cv00245,Q16381
+"Manuscripts, English--England",lcsh,,,,,"Manuscripts, English;England",http://id.worldcat.org/fast/1008324;http://id.worldcat.org/fast/1219920,Q200;Q320
+"Manuscripts, Renaissance--England",lcsh,,,,,"Manuscripts, Renaissance;England",http://id.worldcat.org/fast/1008472;http://id.worldcat.org/fast/1219920,Q311;Q320
+Armorial bookplates,rbmscv,,,,,Armorial bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00136,Q16277
+Incunabula,lcsh,,,,,Incunabula,http://id.worldcat.org/fast/2070682,Q38481
+Pigskin bindings,rbmscv,,,,,Pigskin bindings,http://id.loc.gov/vocabulary/rbmscv/cv00624,Q12678
+Bevelled edge boards,rbmscv,,,,,Bevelled edge boards,http://id.loc.gov/vocabulary/rbmscv/cv00211,Q16274
+Blind tooled bindings,rbmscv,,,,,Blind tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00632,Q5877
+Printed waste,rbmscv,,,,,Printed waste,http://id.loc.gov/vocabulary/rbmscv/cv01764,Q5925
+Breviaries,lcgft,,,,,Breviaries,http://id.worldcat.org/fast/1922430,Q38440
+Psalters,lcsh,,,,,Psalters,http://id.worldcat.org/fast/1922512,Q38533
+"Manuscripts, English (Middle)--England",lcsh,,,,,"Manuscripts, English (Middle);England",http://id.worldcat.org/fast/1008329;http://id.worldcat.org/fast/1219920,Q328;Q320
+Political poetry,lcsh,,Political poetry,http://id.worldcat.org/fast/1941332,Q76235,,,
+Homiliaries,lcsh,,,,,Homiliaries,http://id.worldcat.org/fast/959694,Q16286
+Caroline minuscule,aat,,,,,Caroline minuscule,http://vocab.getty.edu/aat/300195207,Q10803
+Lectionaries,lcgft,,,,,Lectionaries,http://id.worldcat.org/fast/1922449,Q38489
+Antiphonaries (Service books),lcgft,,,,,Antiphonaries (Service books),http://id.worldcat.org/fast/1920004,Q4297
+Books of hours,rbmscv,,,,,Books of hours,http://id.loc.gov/vocabulary/rbmscv/cv01037,Q38439
+Graduals (Service books),lcgft,,,,,Graduals (Service books),http://id.worldcat.org/fast/1920168,Q16317
+Antiphonaries (service books),lcgft,,,,,Antiphonaries (Service books),http://id.worldcat.org/fast/1920004,Q4297
+Evangeliaries,lcsh,,,,,Evangeliaries,http://id.worldcat.org/fast/916991,Q4182
+"Manuscripts, Latin (Medieval and modern)--Austria",lcsh,,,,,"Manuscripts, Latin (Medieval and modern);Austria",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204901,Q10783;Q2798
+"Manuscripts, Medieval--Austria",lcsh,,,,,"Manuscripts, Medieval;Austria",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204901,Q325;Q2798
+"Manuscripts, Medieval--Massachusetts--England",lcsh,,,,,"Manuscripts, Medieval;Massachusetts;England",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204307;http://id.worldcat.org/fast/1219920,Q325;Q16292;Q320
+Legal instruments,rbmscv,,,,,Legal instruments,http://id.loc.gov/vocabulary/rbmscv/cv00057,Q16322
+Seals,rbmscv,,,,,Seals,http://id.loc.gov/vocabulary/rbmscv/cv00267,Q16345
+Indentures,aat,,,,,indentures,http://vocab.getty.edu/aat/300027753,Q230
+"Manuscripts, Dutch--Netherlands",lcsh,,,,,"Manuscripts, Dutch;Netherlands",http://id.worldcat.org/fast/1008323;http://id.worldcat.org/fast/1204034,Q5931;Q5863
+"Manuscripts, Arabic",lcsh,,,,,"Manuscripts, Arabic",http://id.worldcat.org/fast/1008278,Q256
+"Manuscripts, African",lcsh,,,,,"Manuscripts, African",http://id.worldcat.org/fast/1008267,Q16389
+Graduals (service books),lcgft,,,,,Graduals (Service books),http://id.worldcat.org/fast/1920168,Q16317
+"Manuscripts, Latin (Medieval and Modern)--Italy",lcsh,,,,,"Manuscripts, Latin (Medieval and modern);Italy",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204565,Q10783;Q249
+Neumes,lcsh,,,,,Neumes,http://id.worldcat.org/fast/1036242,Q5879
+Scrolls,lcsh,,,,,Scrolls,http://id.worldcat.org/fast/1109413,Q12687
+"Manuscripts, Spanish--Belgium",lcsh,,,,,"Manuscripts, Spanish;Belgium",http://id.worldcat.org/fast/1008500;http://id.worldcat.org/fast/1210278,Q202;Q16301
+"Manuscripts, French",lcsh,,,,,"Manuscripts, French",http://id.worldcat.org/fast/1008338,Q319
+"Manuscripts, Hebrew--Germany",lcsh,,,,,"Manuscripts, Hebrew;Germany",http://id.worldcat.org/fast/1008360;http://id.worldcat.org/fast/1210272,Q150;Q3032
+"Manuscripts, Latin (Medieval and Modern)--France",lcsh,,,,,"Manuscripts, Latin (Medieval and modern);France",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204289,Q10783;Q152
+"Manuscripts, Renaissance--Italy",lcsh,,,,,"Manuscripts, Renaissance;Italy",http://id.worldcat.org/fast/1008472;http://id.worldcat.org/fast/1204565,Q311;Q249
+Manuscripts,lcsh,,,,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
+Humanist scripts,aat,,,,,humanistic scripts,http://vocab.getty.edu/aat/300210204,Q10824
+Volvelles,rbmscv,,,,,Volvelles,http://id.loc.gov/vocabulary/rbmscv/cv02024,Q12569
+"Manuscripts, French--England",lcsh,,,,,"Manuscripts, French;England",http://id.worldcat.org/fast/1008338;http://id.worldcat.org/fast/1219920,Q319;Q320
+Paste paper bindings,rbmscv,,,,,Paste paper bindings,http://id.loc.gov/vocabulary/rbmscv/cv00498,Q5821
+"Manuscripts, Greek (Medieval and modern)--Italy",lcsh,,,,,"Manuscripts, Greek (Medieval and modern);Italy",http://id.worldcat.org/fast/1008354;http://id.worldcat.org/fast/1204565,Q2962;Q249
+Prices (Provenance),rbmscv,,Prices (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00263,Q5893,,,
+Manuscript waste,rbmscv,,,,,Manuscript waste,http://id.loc.gov/vocabulary/rbmscv/cv01568,Q5892
+Armorial stamps,rbmscv,,,,,Armorial stamps,http://id.loc.gov/vocabulary/rbmscv/cv00139,Q16391
+Armorial bindings,rbmscv,,,,,Armorial bindings,http://id.loc.gov/vocabulary/rbmscv/cv00132,Q12580
+Psalters,lcgft,,,,,Psalters,http://id.worldcat.org/fast/1922512,Q38533
+Processionals (Service books),lcgft,,,,,Processionals (Service books),http://id.worldcat.org/fast/1920299,Q16327
+"Manuscripts, Latin (Medieval and Modern)--Belgium",lcsh,,,,,"Manuscripts, Latin (Medieval and modern);Belgium",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1210278,Q10783;Q16301
+"Manuscripts, Latin (Medieval and modern)--Flanders",lcsh,,,,,"Manuscripts, Latin (Medieval and modern)",http://id.worldcat.org/fast/1008399,Q10783
+"Manuscripts, Medieval--Flanders",lcsh,,,,,"Manuscripts, Medieval;Europe--Flanders",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1245991,Q325;Q4193
+Autographs,rbmscv,,,,,Autographs,http://id.loc.gov/vocabulary/rbmscv/cv00177,Q38431
+Monogrammed bindings,rbmscv,,,,,Monogrammed bindings,http://id.loc.gov/vocabulary/rbmscv/cv00134,Q16284
+Ties,rbmscv,,,,,Ties,http://id.loc.gov/vocabulary/rbmscv/cv00463,Q12522
+"Manuscripts, Dutch--Flanders",lcsh,,,,,"Manuscripts, Dutch;Europe--Flanders",http://id.worldcat.org/fast/1008323;http://id.worldcat.org/fast/1245991,Q5931;Q4193
+Prayer books,lcsh,,,,,Prayers,http://id.worldcat.org/fast/1939841,Q38528
+Panel-stamped bindings,rbmscv,,,,,Panel-stamped bindings,http://id.loc.gov/vocabulary/rbmscv/cv00441,Q16324
+"Manuscripts, Latin (Medieval and modern)--Massachusetts--Boston",lcsh,,,,,"Manuscripts, Latin (Medieval and modern);Massachusetts--Boston",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1205012,Q10783;Q16365
+Gold tooled bindings,rbmscv,,,,,Gold tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00551,Q5859
+"Manuscripts, Medieval--Armenia",lcsh,,,,,"Manuscripts, Medieval;Armenia",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1206470,Q325;Q3017
+"Manuscripts, Armenian--Armenia",lcsh,,,,,"Manuscripts, Armenian;Armenia",http://id.worldcat.org/fast/1008290;http://id.worldcat.org/fast/1206470,Q2964;Q3017
+Cloth bindings,rbmscv,,,,,Cloth bindings,http://id.loc.gov/vocabulary/rbmscv/cv00451,Q11478
+Flap bindings,rbmscv,,,,,Flap bindings,http://id.loc.gov/vocabulary/rbmscv/cv00468,Q5826
+Booksellers' labels,rbmscv,,,,,Booksellers' labels,http://id.loc.gov/vocabulary/rbmscv/cv00228,Q5899
+Digital images,,,,,,digital images,http://vocab.getty.edu/aat/300215302,Q42451
+Shelf marks,rbmscv,,,,,Shelf marks,http://id.loc.gov/vocabulary/rbmscv/cv00268,Q16356
+Booksellers' copies,rbmscv,,,,,Booksellers' copies,http://id.loc.gov/vocabulary/rbmscv/cv00150,Q16325
+Stamps,rbmscv,,,,,Stamps,http://id.loc.gov/vocabulary/rbmscv/cv00142,Q3075
+"Manuscripts, Greek (Medieval and modern)--Greece",lcsh,,,,,"Manuscripts, Greek (Medieval and modern);Greece",http://id.worldcat.org/fast/1008354;http://id.worldcat.org/fast/1208380,Q2962;Q8324
+"Manuscripts, Medieval--Greece",lcsh,,,,,"Manuscripts, Medieval;Greece",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1208380,Q325;Q8324
+Greek style bindings,rbmscv,,,,,Greek style bindings,http://id.loc.gov/vocabulary/rbmscv/cv00330,Q16313
+"Manuscripts, Medieval--Massachusetts--Boston",lcsh,,,,,"Manuscripts, Medieval;Massachusetts--Boston",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1205012,Q325;Q16365
+"Manuscripts, Medieval--Iran",lcsh,,,,,"Manuscripts, Medieval;Iran",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204889,Q325;Q16384
+Islamic bindings,rbmscv,,,,,Islamic bindings,http://id.loc.gov/vocabulary/rbmscv/cv00337,Q16307
+Chemises,rbmscv,,,,,Chemises,http://id.loc.gov/vocabulary/rbmscv/cv00732,Q16330
+Bevelled edge-boards,rbmscv,,,,,Bevelled edge boards,http://id.loc.gov/vocabulary/rbmscv/cv00211,Q16274
+Monastic rules,lcgft,,,,,Monastic rules,http://id.worldcat.org/fast/1922476,Q16395
+Mongrammed bindings,rbmscv,,,,,Monogrammed bindings,http://id.loc.gov/vocabulary/rbmscv/cv00134,Q16284
+Codes (Provenances),rbmscv,,,,,Codes (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00231,Q16404
+Expurgated copies,rbmscv,,,,,Expurgated copies,http://id.loc.gov/vocabulary/rbmscv/cv00239,Q16270
+Prayer books,rbmscv,,,,,Prayer books,http://id.loc.gov/vocabulary/rbmscv/cv01759,Q38527
+Breviaries,lcsh,,,,,Breviaries,http://id.worldcat.org/fast/1922430,Q38440
+Palimpsests,lcsh,,,,,Palimpsests,http://id.worldcat.org/fast/1051671,Q16326
+Bookseller's copies,rbmscv,,,,,Booksellers' copies,http://id.loc.gov/vocabulary/rbmscv/cv00150,Q16325
+Initials,rbmscv,,,,,Initials (Abbreviations),http://id.loc.gov/vocabulary/rbmscv/cv00244,Q16368
+Casting off,rbmscv,,,,,Casting off,http://id.loc.gov/vocabulary/rbmscv/cv00376,Q16258
+"Manuscripts,Medieval--France",lcsh,,,,,"Manuscripts, Medieval;France",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204289,Q325;Q152
+"Manuscripts, Latin (Medieval and Modern)--Germany",lcsh,,,,,"Manuscripts, Latin (Medieval and modern);Germany",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1210272,Q10783;Q3032
+Embroidering,aat,,,,,embroidering,http://vocab.getty.edu/aat/300053653,Q16295
+Broadsides,rbmscv,,,,,Broadsides,http://id.loc.gov/vocabulary/rbmscv/cv00912,Q16265
+Illuminations,aat,,,,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
+Annals and chronicles,lcgft,,,,,Annals and chronicles,http://id.worldcat.org/fast/1919892,Q336
+"Manuscripts, Latin (Medieval and Modern)--Austria",lcsh,,,,,"Manuscripts, Latin (Medieval and modern);Austria",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204901,Q10783;Q2798
+Miniature books,rbmscv,,,,,Miniature books,http://id.loc.gov/vocabulary/rbmscv/cv00867,Q16321
+Limp bindings,rbmscv,,,,,Limp bindings,http://id.loc.gov/vocabulary/rbmscv/cv00590,Q16312
+Tacketed bindings,rbmscv,,,,,Tacketed bindings,http://id.loc.gov/vocabulary/rbmscv/cv00677,Q5885
+Chained bindings,rbmscv,,,,,Chained bindings,http://id.loc.gov/vocabulary/rbmscv/cv00546,Q5812
+Silver bindings,rbmscv,,,,,Silver bindings,http://id.loc.gov/vocabulary/rbmscv/cv00723,Q16298
+Gospel books,rbmscv,,,,,Gospel books,http://id.loc.gov/vocabulary/rbmscv/cv01317,Q16379
+"Manuscripts, Armenian--Turkey",lcsh,,,,,"Manuscripts, Armenian;Turkey",http://id.worldcat.org/fast/1008290;http://id.worldcat.org/fast/1208963,Q2964;Q4294
+"Manuscripts, Medieval--Turkey",lcsh,,,,,"Manuscripts, Medieval;Turkey",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1208963,Q325;Q4294
+Manuscripts Latin (Medieval and modern)--Italy,lcsh,,,,,"Manuscripts, Latin (Medieval and modern);Italy",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204565,Q10783;Q249
+Stained calf bindings,rbmscv,,,,,Stained calf bindings,http://id.loc.gov/vocabulary/rbmscv/cv00595,Q16357
+Pointille tooling,rbmscv,,,,,Pointillé tooling,http://id.loc.gov/vocabulary/rbmscv/cv00627,Q16377
+"Manuscripts, Persian",lcsh,,,,,"Manuscripts, Persian",http://id.worldcat.org/fast/1008462,Q255
+Sermons,rbmscv,,,,,Sermons,http://id.loc.gov/vocabulary/rbmscv/cv00099,Q38542
+Manuscripts,lcgft,,,,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
+Deeds,lcgft,,,,,Deeds,http://id.worldcat.org/fast/1774263,Q38455
+"Manuscripts, Italian -- Italy",lcsh,,,,,"Manuscripts, Italian;Italy",http://id.worldcat.org/fast/1008378;http://id.worldcat.org/fast/1204565,Q269;Q249
+"Manuscripts, Medieval -- Italy",lcsh,,,,,"Manuscripts, Medieval;Italy",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204565,Q325;Q249
+Psalters,rbmscv,,,,,Psalters,http://id.loc.gov/vocabulary/rbmscv/cv01544,Q38532
+Breviaries,rbmscv,,,,,Breviaries,http://id.loc.gov/vocabulary/rbmscv/cv01045,Q17492
+Estate inventories,aat,,,,,estate inventories,http://vocab.getty.edu/aat/300027876,Q8002
+Missals (Services books),lcgft,,Missals (Service books),http://id.worldcat.org/fast/1920241,Q8363,,,
+"Manuscripts, Italian --Italy",lcsh,,"Manuscripts, Italian;Italy",http://id.worldcat.org/fast/1008378;http://id.worldcat.org/fast/1204565,Q269;Q249,,,
+"Manuscripts, Medieval --Italy",lcsh,,"Manuscripts, Medieval;Italy",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204565,Q325;Q249,,,
+"Manuscript, Latin (Medieval and Modern)--Italy",lcsh,,"Manuscripts, Latin (Medieval and modern);Italy",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204565,Q10783;Q249,,,

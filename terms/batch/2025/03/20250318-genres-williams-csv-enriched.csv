@@ -1,0 +1,35 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Bibles,ds-genre,,,,,Bibles,http://vocab.getty.edu/aat/300264513,Q3561
+lectionaries,ds-genre,,,,,lectionaries,http://vocab.getty.edu/aat/300026464,Q4274
+liturgical texts,ds-genre,,,,,liturgical texts,http://vocab.getty.edu/aat/300202991,Q38493
+sermons,ds-genre,,,,,sermons,http://vocab.getty.edu/aat/300026669,Q3590
+homiliaries,ds-genre,,homiliaries,http://vocab.getty.edu/aat/300211641,Q4140,,,
+commentaries,ds-genre,,,,,commentaries,http://vocab.getty.edu/aat/300026098,Q298
+psalters (books),ds-genre,,,,,psalters (books),http://vocab.getty.edu/aat/300026477,Q4134
+processionals,ds-genre,,,,,processionals,http://vocab.getty.edu/aat/300395571,Q38530
+graduals,ds-genre,,,,,graduals,http://vocab.getty.edu/aat/300026462,Q4165
+books of hours,ds-genre,,,,,books of hours,http://vocab.getty.edu/aat/300026457,Q3618
+theology,ds-genre,,,,,theology,http://vocab.getty.edu/aat/300054313,Q42400
+hagiographies (literary genre),ds-genre,,hagiographies (literary genre),http://vocab.getty.edu/aat/300201063,Q2966,,,
+grammar (discipline),ds-genre,,grammar (discipline),http://vocab.getty.edu/aat/300263250,Q42415,,,
+textbooks,ds-genre,,textbooks,http://vocab.getty.edu/aat/300026384,Q76229,,,
+Latin poetry,ds-genre,,Latin poetry,http://vocab.getty.edu/aat/300417825,Q76230,,,
+epic poetry,ds-genre,,,,,epic poetry,http://vocab.getty.edu/aat/300404208,Q48676
+narrative poetry,ds-genre,,narrative poetry,http://vocab.getty.edu/aat/300404206,Q76231,,,
+astronomy,ds-genre,,astronomy,http://vocab.getty.edu/aat/300054534,Q42421,,,
+astrology,ds-genre,,astrology,http://vocab.getty.edu/aat/300054589,Q48809,,,
+breviaries,ds-genre,,,,,breviaries,http://vocab.getty.edu/aat/300026459,Q4135
+religious texts,ds-genre,,religious texts,http://vocab.getty.edu/aat/300220519,Q42399,,,
+miscellanies,ds-genre,,,,,miscellanies,http://vocab.getty.edu/aat/300404026,Q17508
+missals,ds-genre,,,,,missals,http://vocab.getty.edu/aat/300026472,Q4244
+letters patent,ds-genre,,letters patent,http://vocab.getty.edu/aat/300027820,Q337,,,
+survey,ds-genre,,surveys (documents),http://vocab.getty.edu/aat/300226986,Q4804,,,
+census,ds-genre,,census records,http://vocab.getty.edu/aat/300026832,Q76232,,,
+atlases,ds-genre,,atlases,http://vocab.getty.edu/aat/300028053,Q2772,,,
+nautical charts,ds-genre,,nautical charts,http://vocab.getty.edu/aat/300028325,Q38509,,,
+Qur'ans,ds-genre,,,,,Qur'ans,http://vocab.getty.edu/aat/300265128,Q3532
+herbals (reference sources),ds-genre,,herbals (reference sources),http://vocab.getty.edu/aat/300185352,Q226,,,
+magic scrolls,ds-genre,,magic scrolls,http://vocab.getty.edu/aat/300264705,Q76233,,,
+obituaries,ds-genre,,obituaries,http://vocab.getty.edu/aat/300026443,Q76234,,,
+divination,ds-genre,,divination,http://vocab.getty.edu/aat/300207879,Q48806,,,
+antiphonaries,ds-genre,,,,,antiphonaries,http://vocab.getty.edu/aat/300188812,Q6845
