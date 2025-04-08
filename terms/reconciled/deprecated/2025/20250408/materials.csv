@@ -196,7 +196,6 @@ material_as_recorded,authorized_label,structured_value,ds_qid
 [],undetermined,http://vocab.getty.edu/aat/300379012,Q38412
 "15 maps, hand col. parchment",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "24 maps, 3 ill., 6 tables, hand col. parchment",parchment,http://vocab.getty.edu/aat/300011851,Q33
-4 membranes,parchment,http://vocab.getty.edu/aat/300011851,Q33
 "5 hand col. maps, vellum",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "6 hand col. maps, parchment",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "6 maps, 1 ill., hand col. parchment",parchment,http://vocab.getty.edu/aat/300011851,Q33
@@ -204,18 +203,13 @@ material_as_recorded,authorized_label,structured_value,ds_qid
 "amatl paper, color illustrations",amate paper,http://vocab.getty.edu/aat/300264681,Q22
 banana leaf,leaf,http://vocab.getty.edu/aat/300011892,Q26
 bark,bark,http://vocab.getty.edu/aat/300011860,Q23
-birch bark,bark,http://vocab.getty.edu/aat/300011860,Q23
-black paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 Chancery 2° paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 Chancery 2° paper;,paper,http://vocab.getty.edu/aat/300014109,Q31
 cloth,cloth,http://vocab.getty.edu/aat/300162391,Q26528
-consecutive; losses; fire damage; Halper 298 folio2 unevenly cut; flayhole in Halper 298 folio2 repaired by scribe with parchment patch,parchment,http://vocab.getty.edu/aat/300011851,Q33
-embroidered silk over parchment,silk;parchment,http://vocab.getty.edu/aat/300014072;http://vocab.getty.edu/aat/300011851,Q34;Q33
 "European laid paper, illuminations",paper,http://vocab.getty.edu/aat/300014109,Q31
 European laid paper with watermarks,paper,http://vocab.getty.edu/aat/300014109,Q31
 "European watermarked paper, illuminations",paper,http://vocab.getty.edu/aat/300014109,Q31
 fine vellum,parchment,http://vocab.getty.edu/aat/300011851,Q33
-"folded widthwise; 1v left blank (according to Halper, ""2 paper leaves"" : ""originally it seems to have been one sheet, upon one side of which (not folded) was a letter in Arabic character, the lines being written lengthwise ... Some time later the letter was folded int two, and upon 1a was copied part of the burial service [...] in a Yemenite square hand"")",paper,http://vocab.getty.edu/aat/300014109,Q31
 glazed paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 "hand col., parchment",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "hand col., vellum",parchment,http://vocab.getty.edu/aat/300011851,Q33
@@ -255,14 +249,12 @@ laid paper with watermarks,paper,http://vocab.getty.edu/aat/300014109,Q31
 "Laid paper with watermarks, illuminations",paper,http://vocab.getty.edu/aat/300014109,Q31
 leather,leather,http://vocab.getty.edu/aat/300011845,Q27
 "light brown paper, glazed and watermarked with letters V. G.",paper,http://vocab.getty.edu/aat/300014109,Q31
-lontar,palm leaf,http://vocab.getty.edu/aat/300011894,Q30
 machine-made wove paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 maguey paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 "manuscript, parchment",parchment,http://vocab.getty.edu/aat/300011851,Q33
 membrane,parchment,http://vocab.getty.edu/aat/300011851,Q33
 Mixed,mixed media,http://vocab.getty.edu/aat/300163347,Q29
 native paper,paper,http://vocab.getty.edu/aat/300014109,Q31
-nearly complete; shaped around uneven cut of parchment,parchment,http://vocab.getty.edu/aat/300011851,Q33
 non-European laid paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 Non-European laid paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 "non-European laid paper, illuminations",paper,http://vocab.getty.edu/aat/300014109,Q31
@@ -273,7 +265,6 @@ palm (taliput) leaf,palm leaf,http://vocab.getty.edu/aat/300011894,Q30
 palm leaf,palm leaf,http://vocab.getty.edu/aat/300011894,Q30
 "palm leaf, illustrations",palm leaf,http://vocab.getty.edu/aat/300011894,Q30
 palm leaves,palm leaf,http://vocab.getty.edu/aat/300011894,Q30
-palmyra palm leaf,palm leaf,http://vocab.getty.edu/aat/300011894,Q30
 paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 Paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, 41 col. ill.",paper,http://vocab.getty.edu/aat/300014109,Q31
@@ -285,7 +276,6 @@ Paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, col. illuminations",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, col. illuminations ; 220 x 150 (130 x 90) mm bound to 230 x 160 mm",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, color, illustrations",paper,http://vocab.getty.edu/aat/300014109,Q31
-"paper, color coats of arms",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, colored illustrations",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, color illustrations",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, color illustrations, coats of arms",paper,http://vocab.getty.edu/aat/300014109,Q31
@@ -298,9 +288,6 @@ Paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, ill.",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper , ill.",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, ill., 6 maps",paper,http://vocab.getty.edu/aat/300014109,Q31
-"paper, ill., charts",paper,http://vocab.getty.edu/aat/300014109,Q31
-"paper, ill., maps, diagrams",paper,http://vocab.getty.edu/aat/300014109,Q31
-"paper, ill., music",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, ill. (some col.)",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, illuminated",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, illumination",paper,http://vocab.getty.edu/aat/300014109,Q31
@@ -346,7 +333,6 @@ paper ; 216 x 159 (155 x 90) mm. bound to 214 x 167 mm,paper,http://vocab.getty.
 paper ; 220 x 162 (195 x 125) mm. bound to 220 x 160 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
 paper ; 314 x 215 (216 x 150 and 267 x 180) mm. bound to 314 x 215 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
 paper ; 39 x 26 cm,paper,http://vocab.getty.edu/aat/300014109,Q31
-paper?,paper,http://vocab.getty.edu/aat/300014109,Q31
 paper.,paper,http://vocab.getty.edu/aat/300014109,Q31
 Paper.,paper,http://vocab.getty.edu/aat/300014109,Q31
 paper (?),paper;undetermined,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300379012,Q31;Q38412
@@ -366,7 +352,6 @@ paper and parchment,paper;parchment,http://vocab.getty.edu/aat/300014109;http://
 "paper and parchment, color illustrations",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
 "paper and parchment, illuminations",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
 "paper and parchment, illuminations ;",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
-"paper and parchment, music",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
 paper and parchment ;,paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
 paper and parchment.,paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
 paper and parchment|paper,paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
@@ -424,7 +409,6 @@ Parchment,parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, ill",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, ill.",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, ill., music",parchment,http://vocab.getty.edu/aat/300011851,Q33
-"parchment, ill. ; 550 x 382 (365 x 270) mm",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, ill. (some col.)",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, illuminated",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, illuminated, miniatures",parchment,http://vocab.getty.edu/aat/300011851,Q33
@@ -503,16 +487,12 @@ parchment and paper,parchment;paper,http://vocab.getty.edu/aat/300011851;http://
 "parchment and paper, col. ill., coat of arms",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 "parchment and paper, color illustrations",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 "parchment and paper, color illustrations, music",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
-"parchment and paper, ill.",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 "parchment and paper, illumination",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
 "parchment and paper, illustrations",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 "parchment and paper, music",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
-"parchment unevenly cut, torn; verso is blank, save few scribbled words",parchment,http://vocab.getty.edu/aat/300011851,Q33
-parchment unevenly cut; two lines partially lacking from the head edge,parchment,http://vocab.getty.edu/aat/300011851,Q33
 parchmetn,parchment,http://vocab.getty.edu/aat/300011851,Q33
 pepar,paper,http://vocab.getty.edu/aat/300014109,Q31
 rag paper,paper,http://vocab.getty.edu/aat/300014109,Q31
-sanchipat,paper,http://vocab.getty.edu/aat/300014109,Q31
 stone,stone,http://vocab.getty.edu/aat/300011176,Q36
 tempera and gold on vellum,parchment,http://vocab.getty.edu/aat/300011851,Q33
 tinted smooth paper,paper,http://vocab.getty.edu/aat/300014109,Q31
