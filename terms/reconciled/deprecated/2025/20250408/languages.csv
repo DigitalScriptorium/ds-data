@@ -93,19 +93,12 @@ Arabic with translation in Persian,ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Aragonese,,Aragonese,Q8765,Q42443
 Aramaic,,Aramaic,Q28602,Q3663
 Aramaic,heb,Aramaic,Q28602,Q3663
-"Aramaic, Hebrew, and Judeo-Arabic",,Aramaic;Hebrew;Judeo-Arabic,Q28602;Q9288;Q37733,Q3663;Q117;Q38106
-"Aramaic, Hebrew, and Judeo-Tajik",,Aramaic;Hebrew;Bukharian,Q28602;Q9288;Q56469,Q3663;Q117;Q76104
-"Aramaic, Hebrew. Judeo-Arabic",,Aramaic;Hebrew;Judeo-Arabic,Q28602;Q9288;Q37733,Q3663;Q117;Q38106
-Aramaic and Hebrew,,Aramaic;Hebrew,Q28602;Q9288,Q3663;Q117
-Aramaic and Judeo-Arabic,,Aramaic;Judeo-Arabic,Q28602;Q37733,Q3663;Q38106
-"Aramaic and Judeo-Arabic, Hebrew",,Aramaic;Judeo-Arabic;Hebrew,Q28602;Q37733;Q9288,Q3663;Q38106;Q117
 Aramaic in Hebrew letters with Syriac vocalization,,Aramaic;Hebrew;Syriac,Q28602;Q9288;Q33538,Q3663;Q117;Q12713
 arc,arc,Imperial Aramaic,Q7079491,Q38091
 arm,arm,Armenian,Q8785,Q792
 Armenian,,Armenian,Q8785,Q792
 Armenian,arm,Armenian,Q8785,Q792
 Armeno-Turkish with some Armenian,,Armeno-Turkish;Armenian,Q65071381;Q8785,Q54964;Q792
-Assamese,,Assamese,Q29401,Q76236
 ave,ave,Avestan,Q29572,Q27501
 Avestan (in Pahlavi script) and Pahlavi with one line in Gujarati,ave,Avestan;Middle Persian;Gujarati,Q29572;Q32063;Q5137,Q27501;Q27493;Q27495
 Avestan and Persian with some Pahlavi,ave,Avestan;Persian;Middle Persian,Q29572;Q9168;Q32063,Q27501;Q120;Q27493
@@ -114,7 +107,6 @@ Batak script,,Batak,Q1998595,Q42449
 ber,ber,Berber,Q25448,Q38092
 Boethius's commentary in the original Latin; Averroës' commentary translated from Arabic,,Latin;Arabic,Q397;Q13955,Q113;Q118
 bra,bra,Braj Bhasha,Q35243,Q27513
-Burmese,,Burmese,Q9228,Q76238
 Cambodian (Khmer) in Thai script,,Khmer;Thai,Q9205;Q9217,Q27499;Q27515
 Castilian,,Spanish,Q1321,Q114
 "Castilian, Spanish",spa,Spanish,Q1321,Q114
@@ -144,7 +136,6 @@ Chiefly in Latin with some Italian,,Latin;Italian,Q397;Q652,Q113;Q116
 "Chiefly Latin, with some French, Greek, Italian, and English texts",,Latin;French;Greek;Italian;English,Q397;Q150;Q9129;Q652;Q1860,Q113;Q111;Q1318;Q116;Q109
 "Chiefly Latin, with some French, or Italian texts",,Latin;French;Italian,Q397;Q150;Q652,Q113;Q111;Q116
 Chiefly Ottoman Turkish with Persian and Arabic vocabulary and headings in Arabic,ota;ara;per,Persian;Arabic;Ottoman Turkish,Q9168;Q13955;Q36730,Q120;Q118;Q3104
-Chinese,,Chinese,Q7850,Q12715
 chu,chu,Church Slavonic,Q33251,Q16427
 Church Slavic,chu,Church Slavonic,Q33251,Q16427
 "Church Slavic, Church Slavonic, Old Bulgarian, Old Church Slavonic, Old Slavonic",chu,Church Slavonic;Old Church Slavonic,Q33251;Q35499,Q16427;Q20366
@@ -262,7 +253,6 @@ French with some Latin,fre,French;Latin,Q150;Q397,Q111;Q113
 frm,frm,Middle French,Q1473289,Q110
 frm;lat,frm;lat,Middle French;Latin,Q1473289;Q397,Q110;Q113
 fro,fro,Old French,Q35222,Q3106
-Ge'ez,,Ge'ez,Q35667,Q3664
 Ge'ez (Ethopic),,Ge'ez,Q35667,Q3664
 ger,,German,Q188,Q112
 ger,ger,German,Q188,Q112
@@ -320,36 +310,19 @@ heb,,Hebrew,Q9288,Q117
 heb,heb,Hebrew,Q9288,Q117
 Hebrew,heb,Hebrew,Q9288,Q117
 Hebrew,,Hebrew,Q9288,Q117
-"Hebrew, Aramaic, and Judeo-Arabic",,Hebrew;Aramaic;Judeo-Arabic,Q9288;Q28602;Q37733,Q117;Q3663;Q38106
-"Hebrew, Judeo-Arabic, and Arabic",,Hebrew;Judeo-Arabic;Arabic,Q9288;Q37733;Q13955,Q117;Q38106;Q118
-"Hebrew, Judeo-Arabic, Arabic",,Hebrew;Judeo-Arabic;Arabic,Q9288;Q37733;Q13955,Q117;Q38106;Q118
-"Hebrew, with a few words in Italian in the genealogy portion on the rear paste-down",,Hebrew;Italian,Q9288;Q652,Q117;Q116
-"Hebrew, with instructions in Italian",,Hebrew;Italian,Q9288;Q652,Q117;Q116
 "Hebrew, with occasional notes in Italian (f. 22r, 24v, 26v, 27v, 82v, 83v)",heb;ita,Hebrew;Italian,Q9288;Q652,Q117;Q116
 "Hebrew, with one interlinear glossed word in Latin (f. 54r)",heb;lat,Hebrew;Latin,Q9288;Q397,Q117;Q113
-"Hebrew, with some words of Aramaic",,Hebrew;Aramaic,Q9288;Q28602,Q117;Q3663
-"Hebrew, with two words in Judeo-Arabic (f. 78r)",,Hebrew;Judeo-Arabic,Q9288;Q37733,Q117;Q38106
 Hebrew; Aramaic,heb;arc,Hebrew;Aramaic,Q9288;Q28602,Q117;Q3663
 Hebrew; Aramaic,,Hebrew;Aramaic,Q9288;Q28602,Q117;Q3663
 Hebrew; introduction in Italian,heb;ita,Hebrew;Italian,Q9288;Q652,Q117;Q116
 Hebrew; Latin,,Hebrew;Latin,Q9288;Q397,Q117;Q113
-"Hebrew; one word in German (in Hebrew charachters, repeated twice)",,Hebrew;German,Q9288;Q188,Q117;Q112
-Hebrew; postscript in Yiddish,,Hebrew;Yiddish,Q9288;Q8641,Q117;Q74791
-Hebrew; text of the Scroll of Antiochus in the original Aramaic (f. 1r-v),,Hebrew;Aramaic,Q9288;Q28602,Q117;Q3663
 Hebrew.,,Hebrew,Q9288,Q117
-Hebrew. Partial vocalization (Tiberian),,Hebrew;Tiberian Hebrew,Q9288;Q2071345,Q117;Q76105
-Hebrew (Samaritan charachters; derived from the Paleo-Hebrew alphabet),,Hebrew;Samaritan Hebrew;Paleo-Hebrew,Q9288;Q56502;Q440608,Q117;Q76107;Q76108
 Hebrew (vocalized),heb,Hebrew,Q9288,Q117
 Hebrew (vocalized and with accents),heb,Hebrew,Q9288,Q117
-Hebrew and Arabic,,Hebrew;Arabic,Q9288;Q13955,Q117;Q118
 Hebrew and Aramaic,;heb;arc,Hebrew;Aramaic,Q9288;Q28602,Q117;Q3663
 Hebrew and Aramaic,,Hebrew;Aramaic,Q9288;Q28602,Q117;Q3663
 Hebrew and Aramaic.,,Hebrew;Aramaic,Q9288;Q28602,Q117;Q3663
-Hebrew and Greek,,Hebrew;Greek,Q9288;Q9129,Q117;Q1318
-Hebrew and Judeo-Arabic,,Hebrew;Judeo-Arabic,Q9288;Q37733,Q117;Q38106
 Hebrew and Latin,heb;lat,Hebrew;Latin,Q9288;Q397,Q117;Q113
-"Hebrew and Yiddish, with Yiddish notes at the end (f. 26v-28r) and a few words in German (f. 13r)",,Hebrew;Yiddish;German,Q9288;Q8641;Q188,Q117;Q74791;Q112
-Hebrew with Arabic,,Hebrew;Arabic,Q9288;Q13955,Q117;Q118
 hin,hin,Hindi,Q1568,Q18354
 Hindi,hin,Hindi,Q1568,Q18354
 Hindustani,inc,Hindustani,Q11051,Q18353
@@ -367,7 +340,6 @@ In Arabic,ara,Arabic,Q13955,Q118
 "In Arabic, Persian and Turkish.",ara;per;ota,Arabic;Persian;Turkish,Q13955;Q9168;Q256,Q118;Q120;Q4337
 "In Arabic, some notes in Persian",;ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
 "In Arabic, with Farsi translations of main Arabic text in red beneath each line",,Arabic;Persian,Q13955;Q9168,Q118;Q120
-In Arabic; later text (from paper re-use) in Hebrew,,Arabic;Hebrew,Q13955;Q9288,Q118;Q117
 In Arabic.,ara,Arabic,Q13955,Q118
 In Arabic.,,Arabic,Q13955,Q118
 In Arabic (Naskhi script),,Arabic,Q13955,Q118
@@ -470,16 +442,9 @@ In Greek.,,Greek,Q9129,Q1318
 In Hebrew,,Hebrew,Q9288,Q117
 In Hebrew,heb,Hebrew,Q9288,Q117
 "In Hebrew, with annotations in Yiddish",,Hebrew;Yiddish,Q9288;Q8641,Q117;Q74791
-"In Hebrew, with a number of lines in Italian on items 1-5 and item 7",,Hebrew;Italian,Q9288;Q652,Q117;Q116
-"In Hebrew, with some passages in Judeo-Arabic (f. 4v, 178r-178v)",,Hebrew;Judeo-Arabic,Q9288;Q37733,Q117;Q38106
-In Hebrew; single verse in Aramaic Targum (verso),,Hebrew;Aramaic,Q9288;Q28602,Q117;Q3663
-"In Hebrew; Targum in Aramaic, translated from the Hebrew",,Hebrew;Aramaic,Q9288;Q28602,Q117;Q3663
 In Hebrew.,heb,Hebrew,Q9288,Q117
 In Hebrew.,,Hebrew,Q9288,Q117
-In Hebrew (fragments 4 and 5; possible Hebrew palimpsest writing on fragment 3); additional Arabic text (fragments 1-3),,Hebrew;Arabic,Q9288;Q13955,Q117;Q118
 In Hebrew (standard Tiberian vocalization and accentuation),,Hebrew,Q9288,Q117
-In Hebrew and Judeo-Arabic,,Hebrew;Judeo-Arabic,Q9288;Q37733,Q117;Q38106
-In Hebrew and Judeo-Malayalam,,Hebrew;Judeo-Malayalam,Q9288;Q56600,Q117;Q76106
 In Hebrew with Aramaic translation,heb;arc,Hebrew;Aramaic,Q9288;Q28602,Q117;Q3663
 In High German,ger,Standard High German,Q279350,Q38100
 In High German,,Standard High German,Q279350,Q38100
@@ -524,7 +489,6 @@ In Japanese,eng,Japanese,Q5287,Q12711
 In Japanese.,,Japanese,Q5287,Q12711
 In Japanese.,jpn,Japanese,Q5287,Q12711
 In Japanese.,eng,Japanese,Q5287,Q12711
-In Judeo-Arabic,,Judeo-Arabic,Q37733,Q38106
 In Judeo-Spanish (Ladino),,Judaeo-Spanish,Q36196,Q7217
 "In Kanbun, without typical Japanese reading marks",,Kanbun,Q7901319,Q67914
 "In Kekchi, with Spanish titles",,Q’eqchi’;Spanish,Q35536;Q1321,Q64218;Q114
@@ -612,14 +576,12 @@ In Latin and Middle Low German.,lat,Latin;Middle Low German,Q397;Q505674,Q113;Q3
 In Latin and Middle Low German.,lat;nds,Latin;Middle Low German,Q397;Q505674,Q113;Q38101
 In Latin and Old French,,Latin;Old French,Q397;Q35222,Q113;Q3106
 In Latin and Spanish,,Latin;Spanish,Q397;Q1321,Q113;Q114
-In Latin with additions in Provençal,,Latin;Provençal,Q397;Q241243,Q113;Q7801
 In Latin with a few lines of marginalia in Middle English (f. 1).,lat,Latin;Middle English,Q397;Q36395,Q113;Q119
 In Latin with a few lines of marginalia in Middle English (f. 1).,,Latin;Middle English,Q397;Q36395,Q113;Q119
 In Latin with a few lines of marginalia in Middle English (f 1),lat,Latin;Middle English,Q397;Q36395,Q113;Q119
 In Latin with a few lines of marginalia in Middle English (f 1),,Latin;Middle English,Q397;Q36395,Q113;Q119
 In Latin with calendar in French,,Latin;French,Q397;Q150,Q113;Q111
 In Latin with extensive rubrics in German,lat;ger,Latin;German,Q397;Q188,Q113;Q112
-In Latin with German rubrics,,Latin;German,Q397;Q188,Q113;Q112
 In Latin with one rubric in Italian (f. 22r).,lat,Latin;Italian,Q397;Q652,Q113;Q116
 In Latin with one rubric in Italian (f. 22r).,ita;lat,Latin;Italian,Q397;Q652,Q113;Q116
 In Latin with one rubric in Italian (f 22r),lat,Latin;Italian,Q397;Q652,Q113;Q116
@@ -701,7 +663,6 @@ In Pali.,pli,Pali,Q36727,Q27511
 In Pali.,,Pali,Q36727,Q27511
 In Pali (Khmer script) and Khmer,,Pali;Khmer,Q36727;Q9205,Q27511;Q27499
 In Pali and Khmer,pli;khm,Pali;Khmer,Q36727;Q9205,Q27511;Q27499
-In Pali and Thai,,Pali;Thai,Q36727;Q9217,Q27511;Q27515
 In Panjabi,pan,Punjabi,Q58635,Q27505
 In Panjabi,lah,Punjabi,Q58635,Q27505
 In Persian,per,Persian,Q9168,Q120
@@ -718,7 +679,6 @@ In Prakrit,pra,Prakrit,Q192170,Q27516
 In Prakrit and Gujarati,pra,Prakrit;Gujarati,Q192170;Q5137,Q27516;Q27495
 In Pushto (Afghānī),,Pashto,Q58680,Q48679
 In Rajasthani,raj,Rajasthani,Q13196,Q27510
-In Samaritan characters (Paleo-Hebrew),,Samaritan Hebrew;Paleo-Hebrew,Q56502;Q440608,Q76107;Q76108
 In Sanskrit,san,Sanskrit,Q11059,Q27494
 "In Sanskrit, Tamil, and Telugu",san;tam;tel,Sanskrit;Tamil;Telugu,Q11059;Q5885;Q8097,Q27494;Q27498;Q27503
 In Sanskrit (Devanāgari),san,Sanskrit,Q11059,Q27494
@@ -769,8 +729,6 @@ In Thai and Pali,tha;pli,Thai;Pali,Q9217;Q36727,Q27515;Q27511
 In Valencian Catalan,cat,Valencian,Q32641,Q8381
 In vocalized Hebrew and Italian,,Hebrew;Italian,Q9288;Q652,Q117;Q116
 in Yiddish (Judeo-German),,Yiddish,Q8641,Q74791
-In Yiddish and Hebrew,,Yiddish;Hebrew,Q8641;Q9288,Q74791;Q117
-"In Yiddish with Hebrew title, and a few words in French and German",,Yiddish;Hebrew;French;German,Q8641;Q9288;Q150;Q188,Q74791;Q117;Q111;Q112
 it,it,Italian,Q652,Q116
 ita,,Italian,Q652,Q116
 ita,ita,Italian,Q652,Q116
@@ -803,7 +761,6 @@ Italian,ita,Italian,Q652,Q116
 "Italian, with a short work in Latin (f. 26r-30v)",ita;lat,Italian;Latin,Q652;Q397,Q116;Q113
 "Italian, with colophon in Latin",ita,Italian;Latin,Q652;Q397,Q116;Q113
 "Italian, with first item and some titles in Latin",ita,Italian;Latin,Q652;Q397,Q116;Q113
-"Italian, with Greek on flyleaves",,Italian;Greek,Q652;Q9129,Q116;Q1318
 "Italian, with headings and occasional marginal notes in Latin",ita;lat,Italian;Latin,Q652;Q397,Q116;Q113
 "Italian, with occasional phrases in Latin",ita;lat,Italian;Latin,Q652;Q397,Q116;Q113
 "Italian, with one letter in Spanish",ita;spa,Italian;Spanish,Q652;Q1321,Q116;Q114
@@ -857,20 +814,11 @@ jpn,jpn,Japanese,Q5287,Q12711
 jpr,,Judeo-Persian,Q33367,Q74793
 jrb,jrb,Judeo-Arabic,Q37733,Q38106
 Judeo-Arabic,,Judeo-Arabic,Q37733,Q38106
-"Judeo-Arabic, Aramaic, and Hebrew",,Judeo-Arabic;Aramaic;Hebrew,Q37733;Q28602;Q9288,Q38106;Q3663;Q117
-"Judeo-Arabic, Aramaic, and Hebrew(?)",,Judeo-Arabic;Aramaic;Hebrew,Q37733;Q28602;Q9288,Q38106;Q3663;Q117
-"Judeo-Arabic, Hebrew, and Arabic",,Judeo-Arabic;Hebrew;Arabic,Q37733;Q9288;Q13955,Q38106;Q117;Q118
-"Judeo-Arabic, Hebrew, and Aramaic",,Judeo-Arabic;Hebrew;Aramaic,Q37733;Q9288;Q28602,Q38106;Q117;Q3663
 "Judeo-Arabic, with a brief work in Hebrew (f. 25r-39v); notes in Samaritan (f. 1v-7v, 21r-22v, 3 bifolia laid in after f. 22v, marginal notes as on f. 281v), Arabic (f. 1r, marginal notes on Samaritan bifolia), and Latin letters (f. 20v, 25v, 238r, 239v)",jrb;heb;sam,Judeo-Arabic;Hebrew;Samaritan Aramaic;Arabic;Latin,Q37733;Q9288;Q56612;Q13955;Q397,Q38106;Q117;Q6995;Q118;Q113
-Judeo-Arabic and Arabic,,Judeo-Arabic;Arabic,Q37733;Q13955,Q38106;Q118
-Judeo-Arabic and Aramaic,,Judeo-Arabic;Aramaic,Q37733;Q28602,Q38106;Q3663
-Judeo-Arabic and Hebrew,,Judeo-Arabic;Hebrew,Q37733;Q9288,Q38106;Q117
-"Judeo-Italian, Italian, and Hebrew",,Judæo-Italian;Italian;Hebrew,Q1145414;Q652;Q9288,Q74794;Q116;Q117
 khm,khm,Khmer,Q9205,Q27499
 kor,kor,Korean,Q9176,Q12712
 lad,lad,Judaeo-Spanish,Q36196,Q7217
 Ladino,lad,Judaeo-Spanish,Q36196,Q7217
-Ladino and Hebrew,,Judaeo-Spanish;Hebrew,Q36196;Q9288,Q7217;Q117
 lah,lah,Lahnda,Q112670533,Q38107
 "Language: Latin, English, and Anglo-Norman",mul;lat;eng;fre,Latin;English;Anglo-Norman,Q397;Q1860;Q35214,Q113;Q109;Q1315
 Language: Latin. Cover flyleaf and rear board contain notes written in Italian,lat,Italian;Latin,Q652;Q397,Q116;Q113
@@ -1317,7 +1265,6 @@ por,,Portuguese,Q5146,Q38114
 por,por,Portuguese,Q5146,Q38114
 por;lat,por;lat,Portuguese;Latin,Q5146;Q397,Q38114;Q113
 Portuguese,,Portuguese,Q5146,Q38114
-"Portuguese, with occasional words, phrases, or brief passages in Latin",,Portuguese;Latin,Q5146;Q397,Q38114;Q113
 Portuguese; Latin,,Portuguese;Latin,Q5146;Q397,Q38114;Q113
 Portuguese and Latin,,Portuguese;Latin,Q5146;Q397,Q38114;Q113
 Portuguese with laid-in map of Mexico City in Spanish,por,Portuguese;Spanish,Q5146;Q1321,Q38114;Q114
@@ -1351,8 +1298,6 @@ raj,raj,Rajasthani,Q13196,Q27510
 roa,roa,Romance languages,Q19814,Q38116
 sam,sam,Samaritan Aramaic,Q56612,Q6995
 sam;ara,sam;ara,Samaritan Aramaic;Arabic,Q56612;Q13955,Q6995;Q118
-Samaritan,,Samaritan Aramaic,Q56612,Q6995
-Samaritan Aramaic,,Samaritan Aramaic,Q56612,Q6995
 Samaritan Aramaic with some headings and comments in Arabic,sam;ara,Samaritan Aramaic;Arabic,Q56612;Q13955,Q6995;Q118
 san,san,Sanskrit,Q11059,Q27494
 Sanskrit,,Sanskrit,Q11059,Q27494
@@ -1362,7 +1307,6 @@ Sanskrit in Devanagari script.,san,Sanskrit;Devanagari,Q11059;Q38592,Q27494;Q381
 Sanskrit in Devanagari script.,,Sanskrit;Devanagari,Q11059;Q38592,Q27494;Q38117
 scn,scn,Sicilian,Q33973,Q6996
 Serbian Slavonic,,Slavonic-Serbian,Q1639124,Q38118
-Shan,,Shan,Q56482,Q76237
 Sicilian,,Sicilian,Q33973,Q6996
 sin,sin,Sinhala,Q13267,Q27509
 Sinhalese script,,Sinhala,Q13267,Q27509
@@ -1511,7 +1455,6 @@ tib,,Tibetan,Q34271,Q67912
 Translated from the Persian,;ara,Persian,Q9168,Q120
 tur,,Turkish,Q256,Q4337
 Turkish,,Turkish,Q256,Q4337
-"Turkish, Aramaic, and Hebrew",,Turkish;Aramaic;Hebrew,Q256;Q28602;Q9288,Q4337;Q3663;Q117
 Turkish and Arabic,,Turkish;Arabic,Q256;Q13955,Q4337;Q118
 Turkish and Persian,,Turkish;Persian,Q256;Q9168,Q4337;Q120
 Turkish dialect of the Mamluk-Kipchak branch in Arabic script,,Turkish;Mamluk-Kipchak;Arabic,Q256;Q4279942;Q13955,Q4337;Q52676;Q118
@@ -1570,6 +1513,5 @@ Written in Pali,,Pali,Q36727,Q27511
 xno,xno,Anglo-Norman,Q35214,Q1315
 Yemenite Hebrew & Judeo-Arabic,,Yemenite Hebrew;Judeo-Arabic,Q34291;Q37733,Q74786;Q38106
 yid,,Yiddish,Q8641,Q74791
-"Yiddish, in Ashkenazi Hebrew characters, with a few words in Latin (f. 2r)",,Yiddish;Ashkenazi Hebrew,Q8641;Q2740724,Q74791;Q76103
 zxx,,no linguistic content,Q22282939,Q16428
 zxx,zxx,no linguistic content;undetermined language,Q22282939;Q22282914,Q16428;Q12714
