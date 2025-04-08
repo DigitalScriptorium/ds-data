@@ -984,9 +984,9 @@ Greece,Greece,http://vocab.getty.edu/tgn/1000074,Q16421
 "Greece, Crete (?)",Greece;Crete,http://vocab.getty.edu/tgn/1000074;http://vocab.getty.edu/tgn/7012056,Q16421;Q38179
 "Greece, Greece (?)",Greece,http://vocab.getty.edu/tgn/1000074,Q16421
 "Greece, Melos","Greece;Mílos, Nísos",http://vocab.getty.edu/tgn/1000074;http://vocab.getty.edu/tgn/7010922,Q16421;Q38333
-"Greece, Mount Athos",Greece;Mount Athos,http://vocab.getty.edu/tgn/1000074;http://vocab.getty.edu/tgn/7235644,Q16421;Q38255
-"Greece, Mt. Athos",Greece;Mount Athos,http://vocab.getty.edu/tgn/1000074;http://vocab.getty.edu/tgn/7235644,Q16421;Q38255
-"Greece, Mt. Athos?",Greece;Mount Athos,http://vocab.getty.edu/tgn/1000074;http://vocab.getty.edu/tgn/7235644,Q16421;Q38255
+"Greece, Mount Athos",Greece;Mount Athos (region),http://vocab.getty.edu/tgn/1000074;http://vocab.getty.edu/tgn/7235644,Q16421;Q38255
+"Greece, Mt. Athos",Greece;Mount Athos (region),http://vocab.getty.edu/tgn/1000074;http://vocab.getty.edu/tgn/7235644,Q16421;Q38255
+"Greece, Mt. Athos?",Greece;Mount Athos (region),http://vocab.getty.edu/tgn/1000074;http://vocab.getty.edu/tgn/7235644,Q16421;Q38255
 Greece?,Greece,http://vocab.getty.edu/tgn/1000074,Q16421
 "Greece?, Epirus",Greece;Epirus,http://vocab.getty.edu/tgn/1000074;http://vocab.getty.edu/tgn/7030329,Q16421;Q38193
 "Greece?, Epirus?",Greece;Epirus,http://vocab.getty.edu/tgn/1000074;http://vocab.getty.edu/tgn/7030329,Q16421;Q38193
@@ -1512,7 +1512,7 @@ Morocco or Algeria?],Morocco;Algeria,http://vocab.getty.edu/tgn/1000179;http://v
 "Mosan, France",Mosan;France,http://vocab.getty.edu/tgn/7030259;http://vocab.getty.edu/tgn/1000070,Q19903;Q122
 Moscow,Moscow,http://vocab.getty.edu/tgn/7012974,Q38254
 "Mosul?, Iraq",Mosul;Iraq,http://vocab.getty.edu/tgn/7002471;http://vocab.getty.edu/tgn/1000118,Q3100;Q3090
-Mt. Athos,Mount Athos,http://vocab.getty.edu/tgn/7235644,Q38255
+Mt. Athos,Mount Athos (region),http://vocab.getty.edu/tgn/7235644,Q38255
 Mt. Sinai; Constantinople,"Mūsá, Jabal;Istanbul",http://vocab.getty.edu/tgn/7001247;http://vocab.getty.edu/tgn/7002473,Q38334;Q11605
 "Muḥammadʹābād, Banāras",Muhammadābād;Benares,http://vocab.getty.edu/tgn/1076267;http://vocab.getty.edu/tgn/7001509,Q18346;Q18349
 Munich,Munich,http://vocab.getty.edu/tgn/7004333,Q5010
