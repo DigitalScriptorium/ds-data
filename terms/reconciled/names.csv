@@ -37,6 +37,7 @@ Abbazia di Morimondo,former owner,,http://id.loc.gov/authorities/names/nr9303592
 Abbey of Bury St. Edmunds,former owner,,http://id.loc.gov/authorities/names/n81086928,organization,Bury St Edmunds Abbey,Q334286,DSNAME5482,Q41927
 Abbey of Bury St. Edmunds,former owner,,,organization,Bury St Edmunds Abbey,Q334286,DSNAME5482,Q41927
 "Abbey of St. Mary of Oliva (Oliwa, Poland)",former owner,,,organization,Santa María de la Oliva,Q110621,DSNAME5483,Q41928
+Abbey of St. Peter in Gloucester,former owner,,,organization,Gloucester Cathedral,Q262500,DSNAME8575,Q76704
 Abbey of Ste-Genevieve,former owner,,,organization,Abbey of St Genevieve,Q1766069,DSNAME5622,Q42095
 Abbot von Heselwang,former owner,,,human,Abbot von Heselwang,Q114242549,DSNAME2786,Q20106
 Abdalla ben Sukar,author,עבדאללה בן סוכר,,human,Abdalla ben Sukar,Q132799214,DSNAME8392,Q75803
@@ -49,6 +50,8 @@ Abdülbâkî Esîrîzade,author,,,human,Abdülbâkî Esîrîzade,Q130374950,DSNA
 "Abdullah Salahattin Uşşakî, 1705-1782",author,عبد الله صلاح الدىن عشاقى، d. 1782,,human,Ṣalāḥ-ed-Dīn ʿUşşāḳī,Q113827947,DSNAME6801,Q54782
 "Abdullah Yenişehirli, -1742 or 1743",author,"عبد الله يكيشهرى, -1742 or 1743",,human,Abdullah Yenişehirli,Q130374960,DSNAME6789,Q54770
 "Abdullah Yenişehirli, -1742 or 1743",author,عبد الله يكيشهرى,,human,Abdullah Yenişehirli,Q130374960,DSNAME6789,Q54770
+"Abe, Shōō, approximately 1650-1753",author,,,human,Abe Shōō,Q11657816,DSNAME8527,Q76644
+"Abe, Shōō, approximately 1650-1753",artist,,,human,Abe Shōō,Q11657816,DSNAME8527,Q76644
 "Abell, William, active approximately 1440-1460",artist,,,human,William Abell,Q18577146,DSNAME3621,Q40066
 "Abezier, Johann",former owner,,,human,Johannes Abezier,Q95771,DSNAME2835,Q20153
 "Abhinanda, active 9th century",author,,http://id.loc.gov/authorities/names/n88147689,human,Abhinanda,Q99972294,DSNAME3397,Q28181
@@ -67,7 +70,9 @@ Abraham bar Hiyya ha-Nasi,author,,,human,Abraham bar Hiyya,Q31439,DSNAME896,Q373
 "Abraham bar Hiyya Savasorda, approximately 1065-approximately 1136",author,,http://id.loc.gov/authorities/names/n50057585,human,Abraham bar Hiyya,Q31439,DSNAME896,Q3736
 "Abraham ben Alexander, of Cologne, active 13th century",author,"אברהם בן אלכסנדר, מקולוניא, active 13th century",,human,Abraham ben Alexander of Cologne,Q120599105,DSNAME8180,Q75596
 "Abraham ben Eliezer, ha-Levi, approximately 1460-approximately 1529",author,"אברהם בן אליעזר, הלוי, approximately 1460-approximately 1529",,human,Abraham ben Eliezer Halevi,Q330771,DSNAME8183,Q75599
+"Abraham ben Isaac, of Narbonne, approximately 1110-1179",author,,,human,Abraham ben Isaac of Narbonne,Q133849452,DSNAME8607,Q76724
 "Abraham ben Meshullam, of Sant'Angelo",scribe,,,human,Abraham ben Meshullam of Sant'Angelo,Q124426309,DSNAME893,Q3733
+"Abraham ben Moses ben Maimon, 1186-1237",author,,,human,Abraham ben Moses ben Maimon,Q2874503,DSNAME8601,Q76718
 Abraham ben Moshe,scribe,,,human,Abraham ben Moshe,Q125930752,DSNAME5623,Q42096
 Abraham Faber,author,,,human,Abraham Faber,Q67198306,DSNAME1279,Q6158
 Abraham ibn Ezra,author,,,human,Abraham ibn Ezra,Q270670,DSNAME3624,Q40069
@@ -106,6 +111,7 @@ Abū al-Ḥasan Sa'ad,scribe,,,human,Abū al-Ḥasan Sa'ad,Q116235219,DSNAME1335
 "Abū al-Qāsim Khalaf ibn ʻAbbās al-Zahrāwī, -1013",author,,,human,Abu al-Qasim al-Zahrawi,Q311495,DSNAME827,Q3228
 "Abū al-Qāsim Khalaf ibn ʻAbbās al-Zahrāwī, -1013",author,,,human,Abu al-Qasim al-Zahrawi,Q311495,DSNAME827,Q3228
 "Abū al-Qāsim Khalaf ibn ʻAbbās al-Zahrāwī, -1013",author,أبو القاسم خلف بن عباس الزهراوي، -1013,http://id.loc.gov/authorities/names/n80103641,human,Abu al-Qasim al-Zahrawi,Q311495,DSNAME827,Q3228
+"Abū al-Qāsim Khalaf ibn ʻAbbās al-Zahrāwī, -1013?",author,أبو القاسم خلف بن عباس الزهراوي، -1013?,,human,Abu al-Qasim al-Zahrawi,Q311495,DSNAME827,Q3228
 "Abū al-Saʻūd Muḥammad ibn Muḥammad, 1492 or 1493-1574 or 1575",author,ابو السعود محمد بن محمد، 1492 or 1493-1574 or 1575,,human,Ebussuud Effendi,Q4892993,DSNAME1899,Q12429
 "Abū al-ʻAmaythal, ʻAbd Allāh ibn Khulayd, -854",author,,,human,ʻAbd Allāh ibn Khulayd Abū al-ʻAmaythal,Q129951608,DSNAME6602,Q54233
 "Abū Bakr al-Ḥaṣṣār, active 12th century",author,,,human,Abu Bakr al-Hassar,Q4116723,DSNAME731,Q2841
@@ -202,6 +208,7 @@ Adam of Eynsham,author,,,human,Adam of Eynsham,Q4680065,DSNAME3630,Q40075
 "Adams, J. C.",former owner,,,human,John Couch Adams,Q20015,DSNAME3631,Q40076
 "Adamson, Emily",former owner,,,human,Emily Adamson,Q131623175,DSNAME7148,Q67394
 "Adamson, Gordon",former owner,,,human,Gordon Adamson,Q27919811,DSNAME7301,Q67547
+Adam Weinberger (active October 2023),former owner,,,organization,Adam Weinberger Rare Books,Q133839487,DSNAME8574,Q76703
 "Adani, David ben Amram, active 13th century-14th century",author,"העדני, דוד בן עמרם active 13th century-14th century",,human,David ben Amram Adani,Q902744,DSNAME8380,Q75792
 "Adapāzārī, ʻUthmān ibn Fatḥ Allāh, d. 1691",author,,,human,ʻUthmān ibn Fatḥ Allāh Adapāzārī,Q129951555,DSNAME6563,Q54194
 "Adda, Gerolamo, marchese d', 1815-1881",former owner,,,human,Girolamo d'Adda,Q47468683,DSNAME8019,Q68629
@@ -222,6 +229,7 @@ Adolph Sutro,former owner,,,human,Adolph Sutro,Q214461,DSNAME225,Q829
 Adolph Sutro (1830-1898),former owner,,,human,Adolph Sutro,Q214461,DSNAME225,Q829
 "Adranawī, Muḥammad ibn Ḥasan, -1461 or 1462",author,ادرنوي، محمد بن حسن، -1461 or 1462,,human,Muḥammad ibn Ḥasan Adranawī,Q129951590,DSNAME6588,Q54219
 "Adranawī, Muḥammad Kāmī ibn Ibrāhīm, 1649 or 1650-1723 or 1724",author,,,human,Muḥammad Kāmī,Q124772546,DSNAME6993,Q63923
+"Adret, Solomon ben Abraham, 1235-1310",author,,,human,Shlomo ben Aderet,Q982170,DSNAME8538,Q76653
 "Adrian VI, Pope, 1459-1523",author,,,human,Adrian VI,Q57087,DSNAME1610,Q8101
 "Adrian VI, Pope, 1459-1523",author,,http://id.loc.gov/authorities/names/n80020628,human,Adrian VI,Q57087,DSNAME1610,Q8101
 "Adye, Willett L",former owner,,,human,Willett Lawrence Adye,Q124566703,DSNAME3633,Q40078
@@ -262,6 +270,7 @@ A follower of the Masters of the Golden Fleece,artist,,,organization,Masters of 
 Āghā Faṣāḥat ʻAlī,former owner,آغا فصاحت على،,,human,Āghā Faṣāḥat ʻAlī,Q123581789,DSNAME2688,Q18735
 "Aghā Raḍī al-Dīn, Muḥammad ibn al-Ḥasan, -1685",author,اغا رضي الدين، محمد بن الحسن، d. 1685,,human,Muḥammad ibn al-Ḥasan Aghā Raḍī al-Dīn,Q129453273,DSNAME6257,Q49128
 "Agli, Pellegrino, 1440-1468",scribe,,,human,Pellegrino Agli,Q109875978,DSNAME2325,Q16626
+"Agli, Pellegrino, 1440-1468?",scribe,,,human,Pellegrino Agli,Q109875978,DSNAME2325,Q16626
 "Agnese, Battista, active 16th century",author,,http://id.loc.gov/authorities/names/n81089266,human,Battista Agnese,Q612967,DSNAME728,Q2838
 "Agnese, Battista, active 16th century",author,,,human,Battista Agnese,Q612967,DSNAME728,Q2838
 "Agnese, Battista 16th cent",author,,,human,Battista Agnese,Q612967,DSNAME728,Q2838
@@ -350,6 +359,8 @@ Alan of Lille,author,,,human,Alain of Lille,Q4313,DSNAME1433,Q7594
 Alanus ab Insulis,author,,,human,Alain of Lille,Q4313,DSNAME1433,Q7594
 "Alāʼīyawī, Maḥmūd ibn ʻAbd al-Raḥmān",author,,,human,Maḥmūd ibn ʻAbd al-Raḥmān Alāʼīyawī,Q114242456,DSNAME3655,Q40100
 "Alāʼīyawī, Maḥmūd ibn ʻAbd al-Raḥmān",author,,,human,Maḥmūd ibn ʻAbd al-Raḥmān Alāʼīyawī,Q114242456,DSNAME3655,Q40100
+"Albalag, Isaac, active 13th century",author,,,human,Isaac Albalag,Q1673485,DSNAME8610,Q76727
+"Albaradani, Joseph, approximately 925-approximately 999",author,,,human,Joseph Albaradani,Q133849450,DSNAME8605,Q76722
 "Albergati, Nicolò, 1375-1443",former owner,,,human,Niccolò Albergati,Q717720,DSNAME3656,Q40101
 "Albericus, de Rosate, 1290-1360",author,,,human,Albericus de Rosate,Q3607990,DSNAME7988,Q68598
 "Albert, Count of Mansfeld (1480-1560)",former owner,,,human,Albert VII of Mansfeld,Q109747,DSNAME5630,Q42103
@@ -363,6 +374,7 @@ Albertanus of Brescia,author,,,human,Albertanus of Brescia,Q2831705,DSNAME1127,Q
 "Alberti, Leon Battista, 1404-1472",author,,,human,Leon Battista Alberti,Q182046,DSNAME3658,Q40103
 Albertino Mussato,author,,,human,Albertino Mussato,Q737321,DSNAME3659,Q40104
 Albert of Saxony,author,,,human,Albertus de Saxonia,Q61044,DSNAME3660,Q40105
+Alberto Govi (Firm),former owner,,,organization,Alberto Govi,Q120869213,DSNAME8586,Q76706
 Alberto Pio 1475-1531,author,,,human,Alberto III Pio,Q1754523,DSNAME3661,Q40106
 Alberto Trotti,author,,,human,Alberto Trotti,Q113779031,DSNAME3662,Q40107
 Alberto Trotti?,author,,,human,Alberto Trotti,Q113779031,DSNAME3662,Q40107
@@ -376,6 +388,7 @@ Albertus Magnus,author,,,human,Albertus Magnus,Q60059,DSNAME137,Q410
 "Albertus Magnus, Saint 1193?-1280.",author,,,human,Albertus Magnus,Q60059,DSNAME137,Q410
 "Albicans, Juliuscaesar",scribe,,,human,Antonio Carafa,Q601248,DSNAME3664,Q40109
 "Albizzi, Pepo d'Antonio di Lando Degli",author,,,human,Pepo d'Antonio di Lando Degli Albizzi,Q131623298,DSNAME7269,Q67515
+Albizzi family,former owner,,,organization,Albizzi,Q1756103,DSNAME8557,Q76702
 "Albohazen Haly, son of Abenragel",author,,,human,Haly Abenragel,Q2081331,DSNAME926,Q3765
 "Albrecht, Bishop of Strassburg, 1440-1506",author,,,human,Albrecht von Pfalz-Mosbach,Q1739358,DSNAME3665,Q40110
 Albucasis,author,,,human,Abu al-Qasim al-Zahrawi,Q311495,DSNAME827,Q3228
@@ -430,6 +443,7 @@ Alexander VI,author,,,human,Alexander VI,Q108316,DSNAME979,Q3818
 "Aleyn, Richard",scribe,,,human,Richard Aleyn,Q124380396,DSNAME3677,Q40122
 "Alfandari, Eliyahu, 1670?-1717",author,"אלפאנדארי, אליהו בן יעקב, 1670?-1717",,human,Eliyahu Alfandari,Q113355511,DSNAME8249,Q75662
 "Alfasi, Isaac ben Jacob, 1013-1103",author,"אלפסי, יצחק בן יעקב, הרי״ף, 1013-1103",,human,Isaac Alfasi,Q523491,DSNAME8248,Q75661
+"Alfen, Philip Joseph van, 1894-1969",former owner,,,human,Philip van Alfen,Q108815052,DSNAME8644,Q76760
 Alfonso de Vargas y Toledo,author,,,human,Alphonsus Vargas,Q115217863,DSNAME3678,Q40123
 Alfonso de Vargas y Toledo.,author,,,human,Alphonsus Vargas,Q115217863,DSNAME3678,Q40123
 "Alfonso V, King of Aragon, 1396-1458",associated name,,,human,Alfonso V of Aragon,Q312304,DSNAME3679,Q40124
@@ -441,6 +455,7 @@ Alfonso X of Castile,author,,,human,Alfonso X of Castile and Leon,Q47595,DSNAME3
 Alfonso X of Castille,author,,,human,Alfonso X of Castile and Leon,Q47595,DSNAME3007,Q20317
 Alfraganus,author,,,human,Ahmad ibn Muhammad ibn Kathīr al-Farghānī,Q336550,DSNAME3680,Q40125
 Alfred Chester Beatty (1875-1968),former owner,,,human,Alfred Chester Beatty,Q1387981,DSNAME166,Q439
+Alfred Clark Chapin,former owner,,,human,Alfred C. Chapin,Q250486,DSNAME8553,Q76668
 Alfred Henry Huth (1850-1910),former owner,,,human,Alfred Henry Huth,Q15706103,DSNAME2106,Q12914
 "Alfred Higgins, F.S.A. (d. 1903; bought in May 1903: he died in October), with his signature and booklabel; his sale, Sotheby’s, 2 May 1904, lot 228; Michael Tomkinson (1841-1921); his sale, Sotheby’s, 3 April 1922, lot 878, to Quaritch; C. L. Ricketts, bought in 1923; acquired by the Lilly Library with the Ricketts Collection in 1961",former owner,,,human;human;human,Alfred Higgins;Michael Tomkinson;Coella Lindsay Ricketts,Q116809261;Q18811090;Q116771179,DSNAME588;DSNAME589;DSNAME363,Q1823;Q1824;Q1527
 "Alfred Higgins, F.S.A. (d. 1903; bought in May 1903: he died in October), with his signature and booklabel; his sale, Sotheby’s, 2 May 1904, lot 228; Michael Tomkinson (1841-1921); his sale, Sotheby’s, 3 April 1922, lot 878, to Quaritch; C. L. Ricketts, bought in 1923; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human;human,Alfred Higgins;Michael Tomkinson;Coella Lindsay Ricketts,Q116809261;Q18811090;Q116771179,DSNAME588;DSNAME589;DSNAME363,Q1823;Q1824;Q1527
@@ -480,6 +495,7 @@ Alkindi,author,,,human,Al-Kindi,Q179759,DSNAME3682,Q40127
 "Allegri, Bernardo",author,,,human,Bernardo Allegri,Q116040860,DSNAME1179,Q5506
 "Allen, Henry Ellis",former owner,,,human,Henry Ellis Allen,Q20978682,DSNAME3683,Q40128
 "Allen, Henry Ellis, 1808-1874",former owner,,,human,Henry Ellis Allen,Q20978682,DSNAME3683,Q40128
+"Allen, Herbert M.",former owner,,,human,Herbert M. Allen,Q75439512,DSNAME8642,Q76758
 "Allen, Samuel",former owner,,,human,Samuel Allen,Q75633505,DSNAME3684,Q40129
 "Allen, William H",former owner,,http://id.loc.gov/authorities/names/n86811333,human,William H. Allen,Q64020626,DSNAME1530,Q7895
 "Allen, William H",former owner,,,human,William H. Allen,Q64020626,DSNAME1530,Q7895
@@ -585,6 +601,7 @@ Anantakavi,author,,http://id.loc.gov/authorities/names/n83053767,human,Anantakav
 "Anastasius Sinaita, Saint fl. 640-700.",author,,,human,Anastasius Sinaita,Q473291,DSNAME3699,Q40144
 "Anatoli, Jacob ben Abba Mari ben Samson, active 13th century",author,"אנטולי, יעקב בן אבא מרי בן שמשון, המאה ה־13",,human,Jacob Anatoli,Q958438,DSNAME8147,Q75564
 "Anatoli, Jacob ben Abba Mari ben Samson, active 13th century",author,"אנטולי, יעקב בן אבא מרי בן שמשון active 13th century",,human,Jacob Anatoli,Q958438,DSNAME8147,Q75564
+"Anav, Jehiel ben Jekuthiel ben Benjamin, active 13th century",author,,,human,Jehiel ben Jekuthiel ben Benjamin Anav,Q133849447,DSNAME8600,Q76717
 Anaximenes of Lampsacus,author,,,human,Anaximenes of Lampsacus,Q221787,DSNAME3700,Q40145
 Ancona (Italy). Anziani,author,,,organization,Palazzo degli Anziani,Q3891178,DSNAME1640,Q8209
 "and 829 of the remaining manuscripts for 16,000 lire to the Rev. Walter Sneyd (1809-1888); Sneyd’s sale, Sotheby’s, 16 December 1903, lot 805; Leighton cat. 1908, no. 5793; sale at Sotheby’s, 16 May 1955, lot 108; George A. Poole, bought from Lawrence Witten in 1956, and acquired by the Lilly Library with the Poole Collection in 1958",former owner,,,human;human;human,Walter Sneyd;Laurence Claiborne Witten II;George Amos Poole,Q62619661;Q6500535;Q64683625,DSNAME278;DSNAME575;DSNAME360,Q891;Q1810;Q1524
@@ -593,6 +610,7 @@ Ancona (Italy). Anziani,author,,,organization,Palazzo degli Anziani,Q3891178,DSN
 "Anderdon, Oliver",former owner,,,human,Thomas Oliver Anderdon,Q115556398,DSNAME2974,Q20285
 "Anderson, Tobin",former owner,,,human,Tobin Anderson,Q114413987,DSNAME2487,Q17696
 Anderson & Gall,former owner,,,organization,Anderson Galleries,Q72940895,DSNAME5488,Q41933
+Anderson Galleries,former owner,,,organization,Anderson Galleries,Q72940895,DSNAME5488,Q41933
 "and finally no. 73 in the list prepared after the sequestration of Pontigny at the French Revolution, described there as in-folio atlantico, elegans et completus dismembered probably in Auxerre in the early nineteenth century; John William Bradley (1830-1916), who gave it to C. L. Ricketts in 1913; acquired by the Lilly Library with the Ricketts Collection in 1961",former owner,,,human;human,John William Bradley;Coella Lindsay Ricketts,Q52148380;Q116771179,DSNAME426;DSNAME363,Q1590;Q1527
 "and finally no. 73 in the list prepared after the sequestration of Pontigny at the French Revolution, described there as in-folio atlantico, elegans et completus dismembered probably in Auxerre in the early nineteenth century; John William Bradley (1830-1916), who gave it to C. L. Ricketts in 1913; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,John William Bradley;Coella Lindsay Ricketts,Q52148380;Q116771179,DSNAME426;DSNAME363,Q1590;Q1527
 "and in 1578 great-granddaughter, Catharina ven den Steen (wife of Jan de Langue, secretary of Brielle), all recorded inside the upper cover; A. D. Schinkel (1784-1864), of The Hague, printer; his sale, The Hague, 21 November 1864, lot 3; William Bragge (1823–1884); probably no. 54 in Burlington Fine Arts Club 1874, p. 11, lent by Bragge",former owner,,,human;human;human,Catharina ven den Steen;Adrianus David Schinkel;William Bragge,Q117843635;Q55901559;Q15453218,DSNAME8513;DSNAME624;DSNAME615,Q75931;Q1859;Q1850
@@ -616,11 +634,13 @@ Andreas de Isernia,author,,,human,Andrea da Isernia,Q3616124,DSNAME3704,Q40149
 Andreas Didaci de Escobar,author,,,human,Andreas de Escobar,Q2849009,DSNAME1134,Q5127
 Andrés de Escobar,author,,,human,Andreas de Escobar,Q2849009,DSNAME1134,Q5127
 "Andres de Escobar, Bishop",author,,,human,Andreas de Escobar,Q2849009,DSNAME1134,Q5127
+Andrés Solano,scribe,,,human,Andrés Solano,Q30917236,DSNAME8564,Q76678
 "Andrew, Lord Windsor, Keeper of the Great Wardrobe (c. 1466-1520) recipient of letter",other,,,human,"Andrew Windsor, 1st Baron Windsor",Q4758954,DSNAME661,Q1896
 "Andrew of Crete, Saint ca. 660-740",author,,,human,Andrew of Crete,Q372688,DSNAME3705,Q40150
 "Andrew of Crete, Saint ca. 660-740.",author,,,human,Andrew of Crete,Q372688,DSNAME3705,Q40150
 "Andrews, William Loring, 1837-1920",former owner,,,human,William Loring Andrews,Q56000453,DSNAME2406,Q16706
 "Andrinopoliti, ʻEzrah ben Eliyahu",author,"אנדרינופוליטי, עזרה בן אליהו",,human,ʻEzrah ben Eliyahu Andrinopoliti,Q132798608,DSNAME8269,Q75682
+"Andrus, Alpheus N.",former owner,,,human,Alphaeus N. Andrus,Q133839470,DSNAME8562,Q76676
 "and to Bridget’s daughter Elizabeth, who in 1690 married Richard Sanders (d. 1723) all of whom appear in the genealogical notes added in the margins of fols. 103v-109v; sale at Sotheby’s, 6 August 1878, lot 1440 (among ‘other properties’), to Quaritch (his General Catalogue, 1880, no. 8575; cat. 332, 1880, no. 41; General Catalogue VIII, 1884, no. 17397; and cat. 369, 1886, no. 35668);",former owner,,,organization;organization,Sotheby's;Bernard Quaritch Ltd,Q654762;Q65034936,DSNAME2546;DSNAME279,Q17754;Q892
 Angela of Foligno 1248?-1309,author,,,human,Angela of Foligno,Q240297,DSNAME3706,Q40151
 Angela of Foligno 1248?-1309.,author,,,human,Angela of Foligno,Q240297,DSNAME3706,Q40151
@@ -786,6 +806,7 @@ Archipresbyter Leo,author,,,human,Leo Archpriest,Q1818805,DSNAME2725,Q20050
 "Ardabīlī, Muḥammad ibn ʻAbd al-Ghanī, -1249 or 1250.",author,اردبيلي، محمد بن عبد الغني,,human,Muḥammad ibn ʻAbd al-Ghanī Ardabīlī,Q129951750,DSNAME6590,Q54221
 Ardillonius,scribe,,,human,Ardillonius,Q116235905,DSNAME1565,Q7927
 "Arenberg, dukes of",former owner,,,organization,Arenburg,Q37520720,DSNAME5490,Q41935
+"Aresty, Esther B",former owner,,,human,Esther Bradford Aresty,Q18619001,DSNAME1522,Q7887
 "Aresty, Esther Bradford",former owner,,,human,Esther Bradford Aresty,Q18619001,DSNAME1522,Q7887
 "Aretino, Pietro, 1492-1556",author,,http://id.loc.gov/authorities/names/n79089193,human,Pietro Aretino,Q296272,DSNAME1365,Q7306
 "Aretino, Pietro, 1492-1556",author,,,human,Pietro Aretino,Q296272,DSNAME1365,Q7306
@@ -921,12 +942,14 @@ Augustine,author,,,human,Augustine of Hippo,Q8018,DSNAME351,Q1515
 "Augustine, of Hippo, Saint, 354-430",author,,http://id.loc.gov/authorities/names/n80126290,human,Augustine of Hippo,Q8018,DSNAME351,Q1515
 "Augustine, of Hippo, Saint, 354-430",author,,,human,Augustine of Hippo,Q8018,DSNAME351,Q1515
 "Augustine, of Hippo, Saint, 354-430.",author,,,human,Augustine of Hippo,Q8018,DSNAME351,Q1515
+"Augustine, of Hippo, Saint, 354-430. Eadmer, -1124?",author,,,human;human,Augustine of Hippo;Eadmer,Q8018;Q725614,DSNAME351;DSNAME4121,Q1515;Q40566
 "Augustine, Saint, Bishop of Hippo",author,,http://id.loc.gov/authorities/names/n80126290.html,human,Augustine of Hippo,Q8018,DSNAME351,Q1515
 "Augustine, Saint, Bishop of Hippo",author,,http://viaf.org/viaf/66806872/,human,Augustine of Hippo,Q8018,DSNAME351,Q1515
 Augustine?,author,,,human,Augustine of Hippo,Q8018,DSNAME351,Q1515
 Augustine (Aurelius Augustinus),author,,,human,Augustine of Hippo,Q8018,DSNAME351,Q1515
 Augustine of Hippo,author,,,human,Augustine of Hippo,Q8018,DSNAME351,Q1515
 Augustine of Hippo?,author,,,human,Augustine of Hippo,Q8018,DSNAME351,Q1515
+"Augustiner-Chorherrenstift Sankt Johannes Baptist (Rebdorf, Germany)",former owner,,,organization,Kloster Rebdorf,Q1775841,DSNAME2458,Q17667
 Augustinerkloster Neuwerk bei Halle (Germany),former owner,,,organization,Neuwerk Nunnery,Q1775714,DSNAME5494,Q41939
 Augustinerkloster Ramsau,former owner,,,organization,Ramsau Monastery,Q1321580,DSNAME2412,Q16711
 "Augustine Saint, Bishop of Hippo",author,,,human,Augustine of Hippo,Q8018,DSNAME351,Q1515
@@ -977,8 +1000,11 @@ Avicenna,author,,,human,Avicenna,Q8011,DSNAME890,Q2845
 "Avigdor, Abraham ben Meshullam ben Salomon",author,"אביגדור, אברהם בן משולם בן שלמה בן משולם",,human,Abraham ben Meshullam ben Salomon Avigdor,Q132752924,DSNAME8512,Q75922
 Avi Shalom,former owner,,,human,Avi Shalom,Q125930762,DSNAME5642,Q42115
 "Avraham, Avraham Mosheh",author,"אברהם, אברהם משה",,human,Avraham Mosheh Avraham,Q132799183,DSNAME8229,Q75642
+"Avraham ben Eliyah, ish Romi",scribe,,,human,Avraham ben Eliyah,Q133849455,DSNAME8611,Q76728
 Avraham ben Shekar,scribe,,,human,Avraham ben Shekar,Q125930763,DSNAME5643,Q42116
+"Avraham ben Tamim, al-Raḥbi",author,,,human,Avraham ben Tamim,Q133849461,DSNAME8618,Q76735
 Avraham ben Yahya,former owner,,,human,Avraham ben Yahya,Q125930764,DSNAME5644,Q42117
+Avraham ben ʻAlon,former owner,אברהם בן עלון,,human,Avraham ben ʻAlon,Q133849464,DSNAME8620,Q76737
 "Avraham Dov, mi-Hungariah",author,"אברהם דב, מהונגריה",,human,Avraham Dov,Q132799176,DSNAME8192,Q75606
 Avraham Gimani,former owner,,,human,Avraham Gimani,Q125930765,DSNAME5645,Q42118
 "Awḥad al-Dīn Kirmānī, Ḥāmid ibn Abī al-Fakhr, -1237 or 1238",author,اوحد الدىن کرمانى، حامد بن ابى الفخر، -1237 or 1238,,human,Ḥāmid ibn Abī al-Fakhr Awḥad al-Dīn Kirmānī,Q129453340,DSNAME6295,Q49166
@@ -1406,6 +1432,7 @@ Bentivoglio family,former owner,,,organization,House of Bentivoglio,Q2365088,DSN
 "Benveniste, Joshua Raphael ben Israel, 1590?-1665?",author,"בנבנשתי, יהושע רפאל בן ישראל, 1590?-1665?",,human,Joshua ben Israel Benveniste,Q992584,DSNAME8476,Q75887
 Benvenuto da Imola,author,,,human,Benvenuto Rambaldi da Imola,Q773623,DSNAME2177,Q16485
 "Benvenutus, de Imola, -1387 or 1388",author,,,human,Benvenuto Rambaldi da Imola,Q773623,DSNAME2177,Q16485
+"Ben Yijû, Abraham, active 12th century",author,,,human,Abraham Ben Yijû,Q133849462,DSNAME8619,Q76736
 "Ben Zeʼev, Judah Leib, 1764-1811",author,"בן זאב, יהודה ליב, 1764-1811",,human,Judah Leib Ben Zeev,Q12407826,DSNAME8247,Q75660
 "Benziger, Adelrich, -1896",former owner,,http://id.loc.gov/authorities/names/n82016936,human,Adelrich Benziger,Q94866969,DSNAME3824,Q40269
 "Ben Zion, Raphael",author,בנציון רפאל,,human,Raphael Ben Zion,Q132752888,DSNAME8270,Q75683
@@ -1564,6 +1591,7 @@ Biblioteca Malvezzi-Medici,former owner,,,organization,Malvezzi de' Medici,Q1166
 Biblioteca trivulziana,former owner,,,organization,Biblioteca Trivulziana,Q974532,DSNAME2354,Q16655
 Bibliotheca Billiana,former owner,,,human,Nicolas Antoine Labbey de Billy,Q60840320,DSNAME858,Q3259
 "Bibliotheca Philosophica Hermetica (Amsterdam, Netherlands)",former owner,,,organization,Bibliotheca Philosophica Hermetica,Q315883,DSNAME7451,Q67697
+Bibliothece Weissenau,former owner,,,organization,Weissenau Abbey,Q458074,DSNAME438,Q1602
 "Bibliothek der Israelitischen Theologischen Lehranstalt (Vienna, Austria)",former owner,,,organization,Rabbinical Seminary Vienna,Q20502385,DSNAME5502,Q41947
 Bibliothek von Portheim-Stiftung,former owner,,,organization,Bibliothek von Portheim-Stiftung,Q28738613,DSNAME5503,Q41948
 Bibliothèque royale de Belgique,former owner,,,organization,Royal Library of Belgium,Q383931,DSNAME7445,Q67691
@@ -1661,6 +1689,7 @@ Bloomsbury's,former owner,,,organization,Bloomsbury Auctions,Q124337557,DSNAME56
 "Boccardi, Giovanni di Giuliano, 1460-1529",illuminator,,,human,Giovanni Boccardi,Q3766845,DSNAME2314,Q16615
 "Bochini, Alvise, active 17th century",former owner,,,human,Alvise Bochini,Q123274728,DSNAME2368,Q16669
 "Bodeck, Nicholai von, 17th century",former owner,,,human,Nicholai von Bodeck,Q116269466,DSNAME768,Q3169
+"Boehlen, Ernst",former owner,,,human,Ernst Boehlen,Q133839476,DSNAME8587,Q76697
 Boethius,author,,,human,Boethius,Q102851,DSNAME1093,Q398
 "Boethius, -524",author,,http://id.loc.gov/authorities/names/n79029805,human,Boethius,Q102851,DSNAME1093,Q398
 "Boethius, -524",author,,,human,Boethius,Q102851,DSNAME1093,Q398
@@ -1819,6 +1848,7 @@ Bought in 1909 by C. L. Ricketts from Tregaskis; acquired by the Lilly Library w
 "Bracton, Henry de, -1268",author,,http://id.loc.gov/authorities/names/n83055716,human,Henry de Bracton,Q1197107,DSNAME3888,Q40333
 "Bracton, Henry de -1268",author,,,human,Henry de Bracton,Q1197107,DSNAME3888,Q40333
 "Bracton, Henry de -1268.",author,,,human,Henry de Bracton,Q1197107,DSNAME3888,Q40333
+"Brady, Dorothy S. 1903-1977",former owner,,,human,Dorothy Stahl Brady,Q4096246,DSNAME8531,Q76647
 Bragadin family,author,,,organization,Bragadin,Q2923529,DSNAME1366,Q7307
 "Bragge, William",former owner,,,human,William Bragge,Q15453218,DSNAME615,Q1850
 "Bragge, William, 1823-1884",former owner,,,human,William Bragge,Q15453218,DSNAME615,Q1850
@@ -1841,6 +1871,7 @@ Braybrook,scribe,,,human,Andrew Braybrook,Q321681,DSNAME3892,Q40337
 "Bremond, Estienne",author,,,human,Estienne Bremond,Q124380399,DSNAME3894,Q40339
 Breslau (Germany : Archdiocese),author,,,organization,Silesia,Q81720,DSNAME5507,Q41952
 "Breslauer, Martin, 1871-1940",former owner,,,human,Martin Breslauer,Q15431928,DSNAME2826,Q20144
+Breslauer und Meyer,former owner,,,organization,Breslauer and Meyer,Q133849866,DSNAME8646,Q76763
 "Bretherton, George",associated name,,,human,George Bretherton,Q120442556,DSNAME3895,Q40340
 "Breton, John le, -1275",author,,http://viaf.org/viaf/312646159,human,John de Breton,Q6265502,DSNAME2801,Q20120
 "Breton, Nicholas 1545?-1626",author,,,human,Nicholas Breton,Q1984811,DSNAME3896,Q40341
@@ -1892,6 +1923,7 @@ Brought from the library of Engelberg Abbey in Switzerland to Conception Abbey s
 "Brouscon, Guillaume",author,,http://id.loc.gov/authorities/names/no2018117664,human,Guillaume Brouscon,Q3119724,DSNAME3913,Q40358
 Brousses (Seigneury),author,,,organization,Seigneury de Brousses,Q116694949,DSNAME1356,Q7297
 "Brown, Howard Mayer",former owner,,,human,Howard Mayer Brown,Q3787230,DSNAME7383,Q67629
+"Brown, Nathan, 1807-1886",former owner,,,human,Nathan Brown,Q5756388,DSNAME8567,Q76681
 "Brown, W. Norman 1892-1975",former owner,,,human,W. Norman Brown,Q7945849,DSNAME3355,Q28139
 "Browne, Agnes",former owner,,,human,Agnes Browne,Q122873234,DSNAME3040,Q20527
 "Browne, Edward Granville, 1862-1926",author,,,human,Edward Granville Browne,Q982047,DSNAME6366,Q49237
@@ -1908,10 +1940,12 @@ Brudenell family,former owner,,,human,Brudenell family,Q121464921,DSNAME1997,Q12
 Brunetto Latini,author,,,human,Brunetto Latini,Q366328,DSNAME3916,Q40361
 "Bruni, Leonardo, 1369-1444",author,,,human,Leonardo Bruni,Q314488,DSNAME689,Q1924
 "Bruni, Leonardo, 1369-1444",associated name,,,human,Leonardo Bruni,Q314488,DSNAME689,Q1924
+"Bruni, Leonardo, 1369-1444, translator.",author,,,human,Leonardo Bruni,Q314488,DSNAME689,Q1924
 "Bruni, Leonardo 1369-1444",author,,,human,Leonardo Bruni,Q314488,DSNAME689,Q1924
 "Bruni, Leonardo 1369-1444.",author,,,human,Leonardo Bruni,Q314488,DSNAME689,Q1924
 Brunner Library,former owner,,,organization,Northwich Library,Q26454778,DSNAME2530,Q17738
 Bruno,author,,,human,Giordano Bruno,Q36330,DSNAME3917,Q40362
+"Bruno, Saint, Bishop of Würzburg, approximately 1005-1045",author,,,human,Bruno,Q563247,DSNAME3918,Q40363
 "Bruno Iohannis, de Davantria, active 1446-1454",author,,,human,Bruno Iohannis de Davantria,Q131822035,DSNAME8051,Q68661
 Bruno of Würzburg,author,,,human,Bruno,Q563247,DSNAME3918,Q40363
 "Brunus Aretinus, Leonardis",author,,,human,Leonardo Bruni,Q314488,DSNAME689,Q1924
@@ -1928,6 +1962,7 @@ Bruno of Würzburg,author,,,human,Bruno,Q563247,DSNAME3918,Q40363
 "Buckler, William H",former owner,,,human,William Hepburn Buckler,Q59629350,DSNAME8024,Q68634
 Buddhabhaṭṭa,author,,http://id.loc.gov/authorities/names/n89145947,human,Buddhabhaṭṭa,Q124252826,DSNAME3327,Q28111
 "Budé, Guillaume",former owner,,,human,Guillaume Budé,Q353668,DSNAME2459,Q17668
+"Budé, Jean, 1430-1501",former owner,,,human,Jean Budé,Q3171023,DSNAME2280,Q16582
 "Budé, Jean, 1430-1502",former owner,,,human,Jean Budé,Q3171023,DSNAME2280,Q16582
 "Budé, Jean, 1430-1502",former owner,,,human,Jean Budé,Q3171023,DSNAME2280,Q16582
 Budhakauśika,author,,http://id.loc.gov/authorities/names/n84048369,human,Budhakauśika,Q124252827,DSNAME3381,Q28165
@@ -2409,6 +2444,7 @@ Chaucer,author,,,human,Geoffrey Chaucer,Q5683,DSNAME1984,Q12798
 "Chavaillor, Octave",former owner,,,human,Octave Chavaillor,Q124566761,DSNAME3985,Q40430
 "Chavero, Alfredo, 1841-1906",former owner,,,human,Alfredo Chavero,Q2408299,DSNAME7281,Q67527
 "Chen, Renxi, 1581-1636",author,"陳仁錫, 1581-1636",http://id.loc.gov/authorities/names/n84040073,human,Chen Renxi,Q15909844,DSNAME2063,Q12872
+"Cheney, C. R. 1906-1987",former owner,,,human,Christopher Cheney,Q18592972,DSNAME8582,Q76693
 "Cheney, Edward, 1803-1884",former owner,,http://id.loc.gov/authorities/names/no98108800,human,Edward Cheney,Q19039655,DSNAME1430,Q7591
 "Cheney, Edward, 1803-1884",former owner,,,human,Edward Cheney,Q19039655,DSNAME1430,Q7591
 "Cherubino, da Siena, frate, -1484",author,,https://viaf.org/viaf/232426123,human,Cherubino da Spoleto,Q18945146,DSNAME1222,Q6101
@@ -2533,6 +2569,7 @@ Cleopatra,author,,,human,Cleopatra,Q635,DSNAME5671,Q42144
 "Clermont-Tonnerre, Charles-Henri, comte de, -1640",former owner,,,human,Charles-Henri de Clermont-Tonnerre,Q2958132,DSNAME4004,Q40449
 "Cleseby, John, active 1426",author,,,human,John Cleseby,Q123274740,DSNAME2230,Q16533
 "Cline, Clarence",former owner,,,human,Clarence Lee Cline,Q110040716,DSNAME2558,Q17766
+"Clough, Cecil H",former owner,,,human,Cecil H. Clough,Q87069468,DSNAME8583,Q76694
 "Clovio, Giulio, 1498-1578",artist,,http://id.loc.gov/authorities/names/n83073672,human,Giulio Clovio,Q281219,DSNAME4005,Q40450
 "Clovio, Giulio, 1498-1578",illuminator,,,human,Giulio Clovio,Q281219,DSNAME4005,Q40450
 "Clynton, J",scribe,,,human,J. Clynton,Q131623284,DSNAME7253,Q67499
@@ -2682,6 +2719,7 @@ Cornelius Nepos c. 110 BC- ca. 25 BC,author,,,human,Cornelius Nepos,Q109594,DSNA
 "Corser, Thomas, 1793-1876",former owner,,http://id.loc.gov/authorities/names/nr97040258,human,Thomas Corser,Q7788623,DSNAME4025,Q40470
 "Corte, Carlo da, fl. 1592",author,,,human,Carlo da Corte,Q131623225,DSNAME7196,Q67442
 "Cortese, Cristoforo",illuminator,,,human,Cristoforo Cortese,Q21207630,DSNAME4026,Q40471
+"Cortese, Cristoforo, approximately 1367-approximately 1445",illuminator,,,human,Cristoforo Cortese,Q21207630,DSNAME4026,Q40471
 "Cosci, Francesco",author,,,human,Francesco Cosci,Q114860576,DSNAME1657,Q8226
 "Cosimo III, Grand Duke of Tuscany",author,,,human,"Cosimo III de' Medici, Grand Duke of Tuscany",Q47292,DSNAME4027,Q40472
 "Cosman, Madeleine Pelner",former owner,,http://id.loc.gov/authorities/names/n99835106,human,Madeleine Cosman,Q15486045,DSNAME1077,Q4441
@@ -2699,6 +2737,7 @@ Costantino Garzoni,author,,,human,Costantino Garzoni,Q87124617,DSNAME4029,Q40474
 "Cotrugli, Benedetto, -1468",author,,,human,Benedikt Kotruljević,Q554825,DSNAME4030,Q40475
 "Cotrugli, Benedetto d. 1468",author,,,human,Benedikt Kotruljević,Q554825,DSNAME4030,Q40475
 "Cotrugli, Benedetto d. 1468.",author,,,human,Benedikt Kotruljević,Q554825,DSNAME4030,Q40475
+"Coudray, Charles Lenormand du",former owner,,,human,Charles Lenormand du Coudray,Q123274784,DSNAME2344,Q16645
 "Council of Basel (1431-1449 : Basel, Switzerland)",author,,http://id.loc.gov/authorities/names/n79129626,organization,Council of Basel,Q694141,DSNAME1478,Q7639
 "Council of Basel (1431-1449 : Basel, Switzerland)",author,,,organization,Council of Basel,Q694141,DSNAME1478,Q7639
 "Count Archinto, of Milan",former owner,,,human,"Carlo Archinto, 2nd Marquess of Parona, 3rd Count of Trainate",Q665628,DSNAME224,Q828
@@ -2888,12 +2927,15 @@ Dattātreya,author,,http://id.loc.gov/authorities/names/n85072232,human,Dattatre
 David ap Phillip,author,,,human,David ap Phillip,Q113818743,DSNAME4061,Q40506
 David Bee,former owner,,,human,David Bee,Q125930780,DSNAME5678,Q42151
 "David ben Aaron ibn Ḥassin, approximately 1730-1792",author,"דוד בן אהרן אבן חסין, approximately 1730-1792",,human,David Ben Hassin,Q3018048,DSNAME8278,Q75691
+"David ben Abraham Maimuni, 1222 or 1223-1300",author,,,human,David HaNagid,Q6126127,DSNAME8614,Q76731
 Daṿid ben Benayah ben Seʻadyah ben Zekharyah,scribe,דוד בן בניה בן זכריה,,human,Daṿid ben Benayah ben Seʻadyah ben Zekharyah,Q116324054,DSNAME966,Q3805
 Daṿid ben Benayah ben Seʻadyah ben Zekharyah,scribe,,,human,Daṿid ben Benayah ben Seʻadyah ben Zekharyah,Q116324054,DSNAME966,Q3805
 Daṿid ben Benayah ben Seʻadyah ben Zekharyah,scribe,דוד בן בניה בן זכריה,,human,Daṿid ben Benayah ben Seʻadyah ben Zekharyah,Q116324054,DSNAME966,Q3805
 Daṿid ben Benayah ben Seʻadyah ben Zekharyah,scribe,,,human,Daṿid ben Benayah ben Seʻadyah ben Zekharyah,Q116324054,DSNAME966,Q3805
+"David ben Hezekiah, active 11th century",author,,,human,David ben Hezekiah,Q133849446,DSNAME8595,Q76712
 David ben Jacob,former owner,,,human,Giacobbe Marcaria,Q116983082,DSNAME4062,Q40507
 "David ben Judah, he-Ḥasid, approximately 1240-approximately 1320",author,"דוד בן יהודה, החסיד, approximately 1240-approximately 1320",,human,"David ben Judah, he-Ḥasid",Q107929944,DSNAME8468,Q75879
+"Daṿid ben Shekhanya, active 11th century",author,,,human,Daṿid ben Shekhanya,Q133849467,DSNAME8630,Q76746
 David Ben Yosef Albotzi,scribe,,,human,David Ben Yosef Albotzi,Q125930781,DSNAME5679,Q42152
 David Eugene Smith (1860-1944),former owner,,,human,David Eugene Smith,Q1174369,DSNAME3104,Q27891
 David Eugene Smith (1860-1944).,former owner,,,human,David Eugene Smith,Q1174369,DSNAME3104,Q27891
@@ -3044,6 +3086,7 @@ Diego Hurtado de Mendoza,author,,,human,Diego Hurtado de Mendoza,Q2297287,DSNAME
 "Dietrichstein, Moritz, Graf von, 1775-1864",former owner,,http://id.loc.gov/authorities/names/nr2001025931,human,Moritz Joseph Johann von Dietrichstein,Q1947966,DSNAME1102,Q5095
 "Dietrichstein, Moritz, Graf von, 1775-1864",former owner,,,human,Moritz Joseph Johann von Dietrichstein,Q1947966,DSNAME1102,Q5095
 "Digby, Henry",former owner,,,human,Henry Digby,Q123378470,DSNAME2476,Q17685
+"Digby, Simon",former owner,,,human,Simon Digby,Q7518621,DSNAME8532,Q76648
 "Dihdār, Maḥmūd ibn Muḥammad",author,دهدار، محمود بن محمد,,human,Maḥmūd ibn Muḥammad Dihdār,Q129453099,DSNAME6149,Q49020
 "Dihdār Shīrāzī, Muḥammad ibn Maḥmūd, 1540 or 1541-1607 or 1608",author,دهدار شىرازى، محمد بن محمود، 1540 or 1541-1607 or 1608,,human,Muḥammad ibn Maḥmūd Dihdār Shīrāzī,Q129453070,DSNAME6132,Q49003
 "Dihlavī, Muḥammad Lād",author,,,human,Muḥammad Lād Dihlavī,Q129453520,DSNAME6406,Q49277
@@ -3249,6 +3292,7 @@ Edward Walmsley,former owner,,,human,Edward Walmsley,Q125930786,DSNAME5691,Q4216
 "Edwin Hanson Freshfield (1864?-1948); Isaac Foot (1880-1960), Lord Mayor of Plymouth; acquired with the Foot Collection by the University of California system (1962).",former owner,,,human;human,Edwin Hanson Freshfield;Isaac Foot,Q18528429;Q6076320,DSNAME4131;DSNAME4132,Q40576;Q40577
 "Eerens, Conradus",former owner,,,human,Conradus Eerens,Q122873306,DSNAME2845,Q20163
 "Eerens, Lambertus",former owner,,,human,Lambertus Eerens,Q122873307,DSNAME2844,Q20162
+"Efraim ben Shemarya, approximately 980-approximately 1060",scribe,,,human,Efrayim ben Shemaryah,Q120300869,DSNAME8603,Q76720
 "Ege, Otto F",former owner,,,human,Otto Ege,Q7109575,DSNAME220,Q808
 "Ege, Otto F",former owner,,http://id.loc.gov/authorities/names/no99020371,human,Otto Ege,Q7109575,DSNAME220,Q808
 "Egerton Master, active 1410",artist,,,human,Master of Egerton,Q29609,DSNAME3045,Q20532
@@ -3260,10 +3304,12 @@ Egidio Foscarari,author,,,human,Egidio Foscarari,Q41569530,DSNAME723,Q1958
 "Eichō, 1014-1095",author,"永超, 1014-1095",,human,Eichō,Q122949257,DSNAME2083,Q12892
 "Eichō, 1014-1095",author,"永超, 1014-1095",,human,Eichō,Q122949257,DSNAME2083,Q12892
 "Einhard, approximately 770-840",author,,,human,Einhard,Q154526,DSNAME8107,Q68811
+"Einhorn, Yizhak",former owner,,,human,Yizhak Einhorn,Q133849448,DSNAME8602,Q76719
 "Eisemann, Heinrich",former owner,,,human,Heinrich Eisemann,Q72936970,DSNAME2319,Q16620
 "Elarousi, Saadia ben Zakaria, Halevi",scribe,,,human,"Elarousi, Saadia ben Zakaria, Halevi",Q125930787,DSNAME5692,Q42165
 "Eldaoudi, Makhlouf, Ḥakham bashi, 1825-1909",author,"אלדאודי, מכלוף, חכם באשי, 1825-1909",,human,Makhlouf Eldaoudi,Q1886354,DSNAME8169,Q75586
 Eleanor of Mohun,former owner,,,human,Eleanor of Mohun,Q123274756,DSNAME2276,Q16578
+"Elhanan ben Shemariah, -1026",author,,,human,Elhanan ben Shemariah,Q133849469,DSNAME8632,Q76748
 "Elia da Cortona, frate d. 1253",author,,,human,Elias of Cortona,Q1329212,DSNAME4135,Q40580
 "Elia da Cortona, frate d. 1253.",author,,,human,Elias of Cortona,Q1329212,DSNAME4135,Q40580
 "Elia III, Abū Ḥalīm",author,,,human,Nisibis Elias Abū-Ḥalīm III.,Q113717505,DSNAME4136,Q40581
@@ -3276,6 +3322,7 @@ Elijah ben Rephael Solomon,author,"אליהו בן רפאל שלמה, הלוי",
 Eliott Baldwin Hague,former owner,,,human,Eliott Baldwin Hague,Q125930788,DSNAME5693,Q42166
 "Elisabeth von Walmden, nun of Hildesheim who commissioned manuscript",other,,,human,Elisabeth von Walmden,Q117448054,DSNAME642,Q1877
 "Elishaʻa, ha-Yeṿani, active 14th century",author,"אלישע, היווני, active 14th century",,human,"Elishaʻa, ha-Yeṿani",Q132798374,DSNAME8381,Q75793
+"Eliyah ben Shelomoh, active 11th century",author,,,human,Eliyah ben Shelomoh,Q133849474,DSNAME8639,Q76755
 "Eliyahu Barukh, Yerushalmi",author,"ירושלמי, אליהו ברוך",,human,Yerushalmi Eliyahu Barukh,Q132752900,DSNAME8332,Q75744
 "Eliyahu Baʻal-Shem, mi-Ṿermaiza, 1536 or 1537-1583",author,"אליהו בעל־שם, מוורמייזא, 1536 or 1537-1583",,human,Eliyahu Baal Shem of Worms,Q5362047,DSNAME8277,Q75690
 "Elizabeth I, Queen of England",author,,,human,Elizabeth I of England,Q7207,DSNAME4139,Q40584
@@ -3336,6 +3383,7 @@ Enselmino da Montebelluna,author,,,human,Enselmino da Montebelluna,Q3726173,DSNA
 Ephraem Syrus,author,,,human,Ephrem the Syrian,Q200608,DSNAME4158,Q40603
 "Ephraem Syrus, Saint 303-373",author,,,human,Ephrem the Syrian,Q200608,DSNAME4158,Q40603
 "Ephraem Syrus, Saint 303-373.",author,,,human,Ephrem the Syrian,Q200608,DSNAME4158,Q40603
+"Ephraim, Benjamin Veitel, 1742-1811",author,"בנימין בן פייטל, מבערלין",,human,Benjamin Veitel Ephraim,Q817717,DSNAME8543,Q76658
 Ephraim Syrus,author,,,human,Ephrem the Syrian,Q200608,DSNAME4158,Q40603
 "Epiphanius, Saint, Bishop of Constantia in Cyprus, approximately 310-403",author,,https://viaf.org/viaf/13651211,human,Epiphanius of Salamis,Q313922,DSNAME2913,Q20229
 Epiphanius Scholasticus,author,,,human,Epiphanius Scholasticus,Q710039,DSNAME4159,Q40604
@@ -3370,6 +3418,7 @@ Ernst F. Detterer (1888-1947),former owner,,,human,Ernst F. Detterer,Q5394976,DS
 "Eşrefoğlu Rumî, -1469",author,اشرف اوغلى رومى، -1469,,human,Eshrefoglu Rumi,Q5397928,DSNAME6781,Q54762
 "Ess, Leander van, 1772-1847",former owner,,http://id.loc.gov/authorities/names/no92013806,human,Johann Heinrich van Ess,Q1810643,DSNAME350,Q1514
 "Ess, Leander van, 1772-1847",former owner,,,human,Johann Heinrich van Ess,Q1810643,DSNAME350,Q1514
+"Ess, Leander van, 1772-1847, former owner.",former owner,,,human,Johann Heinrich van Ess,Q1810643,DSNAME350,Q1514
 "Ess, Leander van 1772-1847",former owner,,,human,Johann Heinrich van Ess,Q1810643,DSNAME350,Q1514
 "Essen, Anna van, Sister",former owner,,,human,Sister Anna van Essen,Q122873312,DSNAME2979,Q20290
 "Essex, Robert Devereux, Earl of, 1566-1601",former owner,,,human,"Robert Devereux, 2nd Earl of Essex",Q437917,DSNAME4164,Q40609
@@ -3545,6 +3594,7 @@ Fazio degli Uberti,author,,,human,Fazio of Uberti,Q1399161,DSNAME4194,Q40639
 "Feisenberger, H.A",former owner,,,human,Hellmut Albert Feisenberger,Q55682647,DSNAME2318,Q16619
 "Feiss, Paul Louis, 1875-",former owner,,http://id.loc.gov/authorities/names/no96017538,human,Paul Louis Feiss,Q102427026,DSNAME1497,Q7658
 "Feiss, Paul Louis, 1875-",former owner,,,human,Paul Louis Feiss,Q102427026,DSNAME1497,Q7658
+"Feiss, Paul Louis, 1875-1952",former owner,,,human,Paul Louis Feiss,Q102427026,DSNAME1497,Q7658
 "Feldinger, Avraham Kopel",author,"פלדינגר, אברהם קאפל",,human,Avraham Kopel Feldinger,Q132799190,DSNAME8242,Q75655
 "Feldman, Lew David",former owner,,,human,Lew David Feldman,Q120691901,DSNAME2455,Q17664
 "Felice, Matteo, active 1467-1493",illuminator,,,human,Matteo Felice,Q85719073,DSNAME2282,Q16584
@@ -3643,6 +3693,7 @@ First Master of the Choir Books,illuminator,,,human,First Master of the Choir Bo
 "Fishacre, Richard, approximately 1200-1248",author,,,human,Richard Fishacre,Q7325681,DSNAME7960,Q68570
 "Fisher, Henry M",former owner,,,human,Henry M. Fisher,Q124566802,DSNAME4208,Q40653
 "Fisher, Otto Orren",former owner,,,human,Otto Orren Fisher,Q116326593,DSNAME1714,Q8429
+"Fisher, Otto Orren, 1881-1961",former owner,,,human,Otto Orren Fisher,Q116326593,DSNAME1714,Q8429
 "Fīshī, Muḥammad ibn Aḥmad, active 16th century",scribe,فيشي، محمد بن احمد، active 16th century,,human,Muḥammad ibn Aḥmad Fīshī,Q131748566,DSNAME7798,Q68408
 "Fiske, Willard, 1831-1904",former owner,,,human,Willard Fiske,Q2047315,DSNAME4209,Q40654
 "FitzHerbert, Henry, Sir, bart",former owner,,,human,"Sir Henry FitzHerbert, 3rd Baronet",Q75282279,DSNAME4210,Q40655
@@ -3667,6 +3718,8 @@ Florence (Tuscany). Otto di guardia e balia,author,,,organization,"Otto di guard
 "Flores, Pietro, Bishop",author,,,human,Pietro Flores,Q116327081,DSNAME1655,Q8224
 Floriani family,former owner,,,organization,Floriani family,Q116522686,DSNAME236,Q840
 "Florimi, Matteo",author,,,human,Matteo Florimi,Q42753438,DSNAME4214,Q40659
+"Florio, Daniele, 1710-1789",former owner,,,human,Daniele Florio,Q55227681,DSNAME8588,Q76698
+"Florio, Francesco",former owner,,,human,Francesco Florio,Q41528964,DSNAME8645,Q76761
 "Florus, Lucius Annaeus",author,,,human,Lucius Annaeus Florus,Q316483,DSNAME1720,Q10860
 Florus of Lyon,author,,,human,Florus of Lyon,Q3074346,DSNAME4215,Q40660
 "Fogg, Sam",former owner,,,organization,Sam Fogg Rare Books & Manuscripts,Q116189818,DSNAME3085,Q27872
@@ -4023,6 +4076,8 @@ George Atherton Aitken (1860-1917),former owner,,,human,George Atherton Aitken,Q
 George Atherton Aitken (1860-1917).,former owner,,,human,George Atherton Aitken,Q15930536,DSNAME2434,Q17643
 George Bruce collection; given to the Grolier Club in July 1894 by David Wolfe Bruce,former owner,,,human;human,George Bruce;David Wolfe Bruce,Q2757147;Q116598092,DSNAME260;DSNAME261,Q873;Q874
 George Bruce collection; given to the Grolier Club in July 1894 by David Wolfe Bruce.,former owner,,,human;human,George Bruce;David Wolfe Bruce,Q2757147;Q116598092,DSNAME260;DSNAME261,Q873;Q874
+George D. Smith,former owner,,,human,George D. Smith,Q116594130,DSNAME273,Q886
+George Dunn,former owner,,,human,George Dunn,Q112841325,DSNAME1990,Q1572
 "George Dunn, 1864-1912",former owner,,,human,George Dunn,Q112841325,DSNAME1990,Q1572
 "George Dunn (1865-1912), with his booklabel, bought in March 1900, probably from Sydney Cockerell (to judge from Dunn’s pencil note ""S.C.C.""); Dunn sale, Sotheby’s, 11 February 1913, lot 356, to Young; bought the following day by C. L. Ricketts, and acquired by the Lilly Library with the Ricketts collection in 1961",former owner,,,human;human;human,George Dunn;Sydney Cockerell;Coella Lindsay Ricketts,Q112841325;Q966843;Q116771179,DSNAME1990;DSNAME2136;DSNAME363,Q1572;Q1609;Q1527
 "George Dunn (1865-1912), with his booklabel, bought in March 1900, probably from Sydney Cockerell (to judge from Dunn’s pencil note ""S.C.C.""); Dunn sale, Sotheby’s, 11 February 1913, lot 356, to Young; bought the following day by C. L. Ricketts, and acquired by the Lilly Library with the Ricketts collection in 1961.",former owner,,,human;human;human,George Dunn;Sydney Cockerell;Coella Lindsay Ricketts,Q112841325;Q966843;Q116771179,DSNAME1990;DSNAME2136;DSNAME363,Q1572;Q1609;Q1527
@@ -4345,6 +4400,7 @@ Gorakṣanātha,author,,http://id.loc.gov/authorities/names/n88152565,human,Gora
 "Gottschalk, Paul, 1880-",former owner,,,human,Paul Gottschalk,Q72937167,DSNAME2275,Q16577
 "Gough, Richard, 1735-1809",former owner,,http://id.loc.gov/authorities/names/n85024864,human,Richard Gough,Q7326006,DSNAME4342,Q40787
 "Gougy, Lucien",former owner,,,human,Lucien Gougy,Q89484729,DSNAME1556,Q7920
+"Gougy, Lucien, 1863-1931",former owner,,,human,Lucien Gougy,Q89484729,DSNAME1556,Q7920
 "Gould, Jay, 1836-1892",former owner,,,human,Jay Gould,Q709595,DSNAME7405,Q67651
 "Gourley, William Boyle, 1856-1935",former owner,,,human,William Boyle Gourley,Q123274768,DSNAME2236,Q16539
 "Goussen, Andrea",author,,,human,Andrea Goussen,Q116378030,DSNAME1008,Q4372
@@ -4580,6 +4636,9 @@ Gulielmus Herlyacensis,author,,,human,Gulielmus Herlyacensis,Q122873465,DSNAME28
 "Gunther, Charles Frederick, 1837-1920",former owner,,,human,Charles F. Gunther,Q5077520,DSNAME2736,Q18670
 "Gunthorpe, John, -1498",former owner,,,human,John Gunthorpe,Q6236600,DSNAME4382,Q40827
 "Guo, Kui, d. 1365",author,"郭奎, d. 1365",,human,Guo Kui,Q45424337,DSNAME2052,Q12861
+"Gurney, Hudson, 1775-1864",former owner,,,human,Hudson Gurney,Q5928688,DSNAME8578,Q76690
+"Gurney, J. H. 1848-1922",former owner,,,human,John Henry Gurney Jr.,Q6238813,DSNAME8579,Q76691
+"Gurney, Q. E. 1883-",former owner,,,human,Quinton Edward Gurney,Q133839475,DSNAME8580,Q76692
 "Gutman, Eugen",former owner,,,human,Friedrich Gutmann,Q5503811,DSNAME4383,Q40828
 Guyart des Moulins,author,,,human,Guyart des Moulins,Q3122335,DSNAME4363,Q40808
 Guy de Chauliac,author,,,human,Guy de Chauliac,Q61474715,DSNAME5715,Q42188
@@ -4594,6 +4653,7 @@ Gwenllian,author,,,human,Gwenllian of Wales,Q469952,DSNAME1276,Q6155
 "Gwenllian, daughter of Howel Vaughan",author,,,human,Gwenllian Vaughan,Q114242550,DSNAME4384,Q40829
 H. Malcolm Fraser,former owner,,,human,Henry Malcolm Fraser,Q112430625,DSNAME5716,Q42189
 H.P. Kraus (Firm),former owner,,,organization,H. P. Kraus (firm),Q113864096,DSNAME512,Q1676
+H. Richard Archer,former owner,,,human,H. Richard Archer,Q109856252,DSNAME8572,Q76686
 "Hackenmayrin, Barbara",former owner,,,human,Barbara Hackenmayrin,Q122873467,DSNAME2957,Q20269
 "Hacı Bektaş Veli, active 13th century",author,حاجى بكتاش ولى,,human,Haji Bektash Veli,Q469865,DSNAME6935,Q54916
 Hada Alftra Haq Salem N. Salman,former owner,,,human,Hada Alftra Haq Salem N. Salman,Q125930803,DSNAME5717,Q42190
@@ -4660,6 +4720,7 @@ Håkon Hallberg,former owner,,,human,Håkon Hallberg,Q125930804,DSNAME5718,Q4219
 "Halberstam, S. J. 1832-1900",former owner,,,human,Solomon Joachim Halberstam,Q2895410,DSNAME887,Q3728
 "Hale, Matthew, 1609-1676",former owner,,http://id.loc.gov/authorities/names/n50018613,human,Matthew Hale,Q130059,DSNAME2122,Q12929
 "Ḥalfon, Abraham, 1735-1819 or 1820",author,"כלפון, אברהם, 1735-1819 or 1820",,human,Abraham Khalfon,Q18120872,DSNAME8262,Q75675
+"Halfon ben Manasse, active 1100-1138",scribe,,,human,Halfon ben Manasse,Q133849470,DSNAME8633,Q76749
 "Halgren, John, of Abbeville",author,,,human,John Halgren of Abbeville,Q3129519,DSNAME226,Q830
 "Halgrin, John",author,,,human,John Halgren of Abbeville,Q3129519,DSNAME226,Q830
 "Halgrin, John.",author,,,human,John Halgren of Abbeville,Q3129519,DSNAME226,Q830
@@ -4705,6 +4766,7 @@ Hamdullah bin Hayreddin,author,,,human,Hamdullah bin Hayreddin,Q130375005,DSNAME
 "Hamilton, William Alexander Louis Stephen Douglas-Hamilton, Duke of, 1845-1895",former owner,,,human,"William Douglas-Hamilton, 12th Duke of Hamilton",Q336666,DSNAME8021,Q68631
 "Hamme, Guilielmus van, active 1659",former owner,,,human,Guilielmus van Hamme,Q131623212,DSNAME7184,Q67430
 Hammond,former owner,,,human,Hammond,Q123378477,DSNAME2500,Q17709
+"Hamy, E. T. (Ernest Théodore), 1842-1908",former owner,,,human,Ernest Hamy,Q1356363,DSNAME8565,Q76679
 "Ḥamzāwī, Maḥmūd ibn Muḥammad, 1820 or 1821-1887",author,,,human,Mahmud Hamza,Q57971645,DSNAME7059,Q63989
 "Ḥamzāwī, Muḥammad Shākir ibn Muḥammad Asʻad, active 19th century",author,,,human,Muḥammad Shākir ibn Muḥammad Asʻad Ḥamzāwī,Q129951605,DSNAME6601,Q54232
 "Ḥanafī, Aḥmad ibn Aḥmad, active 14th century",scribe,حنفي، احمد بن احمد، active 14th century,,human,Aḥmad ibn Aḥmad Ḥanafī,Q131748663,DSNAME7932,Q68542
@@ -4714,6 +4776,8 @@ Hammond,former owner,,,human,Hammond,Q123378477,DSNAME2500,Q17709
 "Ḥanafī, Yaḥyá ibn Abī Bakr",author,,,human,Yaḥyá ibn Abī Bakr al-Ḥanafī,Q124566995,DSNAME4389,Q40834
 "ḥanafī, ʻAbd Allāh ibn Maḥmūd",author,,,human,Abdullah Ibn Mahmud al-Mawsili,Q12238806,DSNAME1783,Q12313
 "Ḥanafī, ʻAbd Allāh ibn Maḥmūd",author,حنفي، عبد الله بن محمود,,human,Abdullah Ibn Mahmud al-Mawsili,Q12238806,DSNAME1783,Q12313
+"Hananel ben Ḥushiʼel, -1055 or 1056",author,,,human,Chananel ben Chushiel,Q1061624,DSNAME8638,Q76754
+"Hananel ben Samuel, active 13th century",author,"חננאל בן שמואל, המאה ה־13",,human,Chananel ben Shmuel,Q85998071,DSNAME8626,Q76742
 "Ḥananyah, mi-Montselise, active 17th century",author,"חנניה, ממונציליסי, active 17th century",,human,"Ḥananyah, mi-Montselise",Q132752896,DSNAME8281,Q75694
 "Hanaoka, Seishū, 1760-1835",author,"華岡青洲, 1760-1835",http://id.loc.gov/authorities/names/n88091783,human,Hanaoka Seishū,Q1376935,DSNAME2078,Q12887
 "Hanaoka, Seishū, 1760-1835",author,"華岡青洲, 1760-1835",http://id.loc.gov/authorities/names/n88091783,human,Hanaoka Seishū,Q1376935,DSNAME2078,Q12887
@@ -4772,6 +4836,7 @@ Harry Levinson,former owner,,,human,Harry Levinson,Q5670578,DSNAME2719,Q20044
 "Hartman, Rutgerus, active 1460",author,,,human,Rutgerus Hartman,Q124566822,DSNAME4400,Q40845
 "Hartung, T.L",former owner,,,human,T.L. Hartung,Q122873468,DSNAME3025,Q20333
 "Hartung, T.L.",former owner,,,human,T.L. Hartung,Q122873468,DSNAME3025,Q20333
+Harvard University,former owner,,,organization,Harvard University,Q13371,DSNAME5909,Q42438
 "Ḥasan, al-Ḥasan ʻAlī, active 18th century",scribe,حسن، الحسن علي active 18th century,,human,al-Ḥasan ʻAlī Ḥasan,Q131748558,DSNAME7785,Q68395
 "Hasan Çelebi, Kınalı-zade, 1546-1604",author,"حسن چلبي, قينالي زاده",,human,Kınalızâde Hasan Çelebi,Q23583764,DSNAME6715,Q54696
 "Ḥasanī, Aḥmad ibn Makkī, active 17th century",author,حسني، احمد بن مكي، active 17th century,,human,Aḥmad ibn Makkī Ḥasanī,Q131398930,DSNAME7813,Q68423
@@ -4815,6 +4880,7 @@ Hastings (Family),former owner,,,organization,Hastings family,Q4134121,DSNAME554
 "Hawkeslowe, Johanna, senior, active 1518",author,,,human,Johanna Hawkeslowe (Sr.),Q123274774,DSNAME2231,Q16534
 "Hawkins, John Sidney, 1758-1842",former owner,,http://id.loc.gov/authorities/names/n2001128290,human,John Sidney Hawkins,Q18546564,DSNAME4404,Q40849
 "Hawkins, Rush C",former owner,,,human,Rush Hawkins,Q7380701,DSNAME2910,Q20226
+"Hawkins, Rush C. 1831-1920",former owner,,,human,Rush Hawkins,Q7380701,DSNAME2910,Q20226
 "Hawtrey, Edward Craven, 1789-1862",former owner,,,human,Edward Craven Hawtrey,Q5342450,DSNAME4405,Q40850
 "Hawzālī, Muḥammad ibn ʻAlī, -1748 or 1749",author,هوزالي، محمد بن علي، 1748 أو 1749,,human,Mohammed Awzal,Q592255,DSNAME4406,Q40851
 "Hawzālī, Muḥammad ibn ʻAlī, -1748 or 1749",author,هوزالي، محمد بن علي، 1748 أو 1749,,human,Mohammed Awzal,Q592255,DSNAME4406,Q40851
@@ -4824,6 +4890,7 @@ Hastings (Family),former owner,,,organization,Hastings family,Q4134121,DSNAME554
 "Hayatizade Mustafa Feyzi, -1692",author,"حىاتى‌زاده مصطفى فىضى, -1692",,human,Hayatizade Mustafa Feyzi,Q130375002,DSNAME6846,Q54827
 "Ḥaydarī, ʻAbd Allāh ibn ʻAbd Allāh, active 19th century",scribe,حيدري. عبد الله بن عبد الله، active 19th century,,human,ʻAbd Allāh ibn ʻAbd Allāh Ḥaydarī,Q131748478,DSNAME7667,Q68277
 "ḥaydarīzādah, Ibrāhīm ibn Ṣibghat Allāh, d. 1881 or 2",author,,,human,Ibrāhīm ibn Ṣibghat Allāh Ḥaydarīzādah,Q131432225,DSNAME7056,Q63986
+Ḥayim ben ʻAmar,author,,,human,Ḥayim ben ʻAmar,Q133849475,DSNAME8640,Q76756
 "Ḥayim ʻOvadyah, -1560",author,"עובדיה, חיים בן יעקב, -1560",,human,Ḥayim ʻOvadyah,Q132752913,DSNAME8428,Q75839
 "Hayley, William, 1745-1820",former owner,,http://id.loc.gov/authorities/names/n50034041,human,William Hayley,Q74936,DSNAME4407,Q40852
 "Haymo, Bishop of Halberstadt, -853",author,,,human,Haymo of Halberstadt,Q472833,DSNAME682,Q1917
@@ -4837,6 +4904,7 @@ Haymo of Halberstadt,author,,,human,Haymo of Halberstadt,Q472833,DSNAME682,Q1917
 "Hazard, Rowland, 1829-1898",former owner,,,human,Rowland Hazard,Q109858645,DSNAME6707,Q54688
 "Hazard, Rowland Gibson, 1801-1888",former owner,,,human,Rowland G. Hazard,Q7372131,DSNAME4408,Q40853
 "Ḥāzimī, Muḥammad ibn Mūsá, 1154?-1188 or 1189",author,حازمي، محمد بن موسى، 1154?-1188 or 1189,http://id.loc.gov/authorities/names/nr91038815 http://id.loc.gov/authorities/names/nr91038815 http://viaf.org/viaf/sourceID/LC%7cnr91038815,human,Muḥammad ibn Mūsá Ḥāzimī,Q122946987,DSNAME1900,Q12430
+"Hazlitt, William Carew, 1834-1913",former owner,,,human,William Carew Hazlitt,Q5794619,DSNAME8554,Q76669
 "He, Jingming, 1483-1521",author,"何景明, 1483-1521",http://id.loc.gov/authorities/names/nr96022079,human,He Jingming,Q10886251,DSNAME2064,Q12873
 "Hearst, Phoebe Apperson, 1842-1919",former owner,,,human,Phoebe Hearst,Q463046,DSNAME5998,Q42690
 "Hearst, Phoebe Apperson, 1842-1919.",former owner,,,human,Phoebe Hearst,Q463046,DSNAME5998,Q42690
@@ -4844,6 +4912,7 @@ Haymo of Halberstadt,author,,,human,Haymo of Halberstadt,Q472833,DSNAME682,Q1917
 "Heber, Richard, 1773-1833",former owner,,,human,Richard Heber,Q4502479,DSNAME1563,Q6134
 "Heber, Richard, Sir",former owner,,,human,Richard Heber,Q4502479,DSNAME1563,Q6134
 "Heberle, Johann Matthias, 1775-1840",former owner,,,human,Johann Matthias Heberle,Q55674575,DSNAME4409,Q40854
+"Ḥefeẓ ben Yaẓliʼaḥ, active 10th century",author,,,human,Ḥefeẓ ben Yaẓliʼaḥ,Q133849444,DSNAME8592,Q76709
 "Heilbrun, G",former owner,,,human,G. Heilbrun,Q114242441,DSNAME200,Q473
 "Heilpronn, Avraham ben Mosheh",author,"הלפרין, אברהם בן משה",,human,Avraham ben Mosheh Heilpronn,Q132798442,DSNAME8334,Q75746
 "Heinrich, Bishop of Eichstätt",author,,,human,Heribert,Q1609862,DSNAME4410,Q40855
@@ -4908,6 +4977,7 @@ Henry VI of England,author,,,human,Henry VI of England,Q160337,DSNAME4152,Q40597
 "Henry Walton Lawrence; his sale, Sotheby’s, 15 December 1892, lot 235, to Robson; C. L. Ricketts, bought from Robson, cat. 96 (1915), no. 219; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human,Edwin Henry Lawrence;Coella Lindsay Ricketts,Q116786361;Q116771179,DSNAME678;DSNAME363,Q1913;Q1527
 "Henry Willett (1823-1905); his sale, Sotheby’s, 5 July 1905, lot 15, to E. Parsons; Parsons cat. 261 (1907), no. 455; C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961",former owner,,,human;organization;human,Henry Willett;Edwin Parsons & Sons;Coella Lindsay Ricketts,Q60797951;Q111399316;Q116771179,DSNAME653;DSNAME530;DSNAME363,Q1888;Q1694;Q1527
 "Henry Willett (1823-1905); his sale, Sotheby’s, 5 July 1905, lot 15, to E. Parsons; Parsons cat. 261 (1907), no. 455; C. L. Ricketts, and acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;organization;human,Henry Willett;Edwin Parsons & Sons;Coella Lindsay Ricketts,Q60797951;Q111399316;Q116771179,DSNAME653;DSNAME530;DSNAME363,Q1888;Q1694;Q1527
+Henry William Poor,former owner,,,human,Henry William Poor,Q5730239,DSNAME272,Q885
 "Henry Yates Thompson (1838-1928), bought from Quaritch, 14 March 1895, with his bookplate, his no. 29; his sale, Sotheby’s, 23 March 1920, lot 43, to Tregaskis (his cat. 850, 1922, no. 17, and cat. 871, 1923, no. 15); C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961",former owner,,,human;human;human,Henry Yates Thompson;James Tregaskis;Coella Lindsay Ricketts,Q2044609;Q94138739;Q116771179,DSNAME525;DSNAME451;DSNAME363,Q1689;Q1615;Q1527
 "Henry Yates Thompson (1838-1928), bought from Quaritch, 14 March 1895, with his bookplate, his no. 29; his sale, Sotheby’s, 23 March 1920, lot 43, to Tregaskis (his cat. 850, 1922, no. 17, and cat. 871, 1923, no. 15); C. L. Ricketts; acquired by the Lilly Library with the Ricketts Collection in 1961.",former owner,,,human;human;human,Henry Yates Thompson;James Tregaskis;Coella Lindsay Ricketts,Q2044609;Q94138739;Q116771179,DSNAME525;DSNAME451;DSNAME363,Q1689;Q1615;Q1527
 Henry Young (Firm),former owner,,,organization,Henry Young and Sons,Q120869253,DSNAME2889,Q16448
@@ -5040,6 +5110,7 @@ Hodgson and Co.,former owner,,,organization,Hodgson & Co.,Q24203977,DSNAME2842,Q
 "Hoe, Robert",former owner,,,human,Robert Hoe III,Q3663034,DSNAME165,Q438
 "Hoe, Robert, 1839-1909",former owner,,http://id.loc.gov/authorities/names/n79003231,human,Robert Hoe III,Q3663034,DSNAME165,Q438
 "Hoe, Robert, 1839-1909",former owner,,,human,Robert Hoe III,Q3663034,DSNAME165,Q438
+"Hoepli (Firm : Milan, Italy)",former owner,,,organization,Hoepli,Q3786216,DSNAME8581,Q76705
 "Hofer, Philip, 1898-1984",former owner,,,human,Philip Hofer,Q19754076,DSNAME2358,Q16659
 "Hoffmann, Ferdinand, 1827-1906",former owner,,,human,Ferdinand Hoffmann,Q69590412,DSNAME4449,Q40894
 "Hoffmann, Ferdinand, Baron, 1540-1607",former owner,,,human,Ferdinand Hofmann von Grünbühel,Q55238084,DSNAME4450,Q40895
@@ -5215,6 +5286,7 @@ Huth Library,former owner,,,human,Henry Huth,Q15438897,DSNAME2941,Q12913
 "Huzard, J.-B. 1755-1838",former owner,,,human,Jean-Baptiste Huzard,Q3164161,DSNAME740,Q2850
 "Huzard, J.-B. 1755-1838",former owner,,http://id.loc.gov/authorities/names/n88255469,human,Jean-Baptiste Huzard,Q3164161,DSNAME740,Q2850
 "Ḥuznī, ʻAbd al-Qādir ibn Muḥammad, active 18th century",scribe,حزني، عبد القادر بن محمد، active 18th century,,human,ʻAbd al-Qādir ibn Muḥammad Ḥuznī,Q131748477,DSNAME7666,Q68276
+"Hyde, John Kenneth",former owner,,,human,Kenneth Hyde,Q26838544,DSNAME8584,Q76695
 I. Sonne,author,,,human,Isaiah Sonne,Q57418943,DSNAME4471,Q40916
 Iachetus Italianus,author,,,human,Iachetus Italianus,Q124566832,DSNAME4472,Q40917
 Iacobo Cattaneo Lagomarsino,author,,,human,Iacobo Cattaneo Lagomarsino,Q125930810,DSNAME5725,Q42198
@@ -5374,6 +5446,7 @@ Iacobus of Speyer.,author,,,human,Jakob Montanus,Q1677587,DSNAME4475,Q40920
 "Ibn al-ʻImād al-Aqfahsī, Aḥmad, approximately 1349-1405",author,ابن العماد الاقفهسي، احمد، approximately 1349-1405,http://id.loc.gov/authorities/names/nr91043779,human,Aḥmad Ibn al-ʻImād al-Aqfahsī,Q6537116,DSNAME1774,Q12304
 "Ibn al-ʻImād al-Aqfahsī, Aḥmad, approximately 1349-1405",author,ابن العماد الاقفهسي، احمد، approximately 1349-1405,http://id.loc.gov/authorities/names/nr91043779,human,Aḥmad Ibn al-ʻImād al-Aqfahsī,Q6537116,DSNAME1774,Q12304
 "Ibn al-ʻIrāqī, Aḥmad ibn ʻAbd al-Raḥīm, 1361-1423",author,ابن العراقي، احمد بن عبد الرحيم، 1361-1423,http://id.loc.gov/authorities/names/nr90017336,human,Abū Zurʻah al-ʻIrāqī,Q12251239,DSNAME1961,Q12491
+"Ibn Avitor, Joseph ben Isaac ben Shtnash, active 10th century-11th century",author,,,human,Joseph ibn Abitur,Q551536,DSNAME8635,Q76751
 "Ibn Awmarāqāy, Ḥusayn, active 18th century",scribe,ابن اومراقاي، حسين، active 18th century,,human,Ḥusayn Ibn Awmarāqāy,Q131748482,DSNAME7671,Q68281
 "Ibn Bābashādh, Ṭāhir ibn Aḥmad, -1077",author,ابن بابشاذ، طاهر بن احمد,,human,Ṭāhir ibn Aḥmad Ibn Bābashādh,Q129951526,DSNAME6543,Q54174
 "Ibn Bābawayh al-Qummī, Muḥammad ibn ʻAlī, 918 or 919-991 or 992",author,ابن بابويه القمي، محمد بن علي، 918 or 919-991 or 992,,human,Shaykh Saduq,Q2743660,DSNAME5212,Q41657
@@ -5401,6 +5474,7 @@ Iacobus of Speyer.,author,,,human,Jakob Montanus,Q1677587,DSNAME4475,Q40920
 "Ibn Elezar, Isaac, ha-Rofe",former owner,,,human,Isaac ha-Rofe ben Moses ibn Elezar,Q124566834,DSNAME4486,Q40931
 "Ibn Ezra, Abraham ben Meïr, 1089-1164",author,"אבן עזרא, אברהם בן מאיר, 1089-1164",,human,Abraham ibn Ezra,Q270670,DSNAME3624,Q40069
 "Ibn Ezra, Abraham ben Meïr, 1089-1164",author,,,human,Abraham ibn Ezra,Q270670,DSNAME3624,Q40069
+"Ibn Ezra, Isaac, active 12th century",author,,,human,Isaac ibn Ezra,Q16340145,DSNAME8628,Q76744
 "Ibn Faḍl Allāh al-ʻUmarī, Aḥmad ibn Yaḥyá, 1301-1349",author,ابن فضل الله العمري، احمد بن يحيى، 1301-1349,http://id.loc.gov/authorities/names/nr89013200,human,Chihab al-Umari,Q2658869,DSNAME856,Q3257
 "Ibn Faḍl Allāh al-ʻUmarī, Aḥmad ibn Yaḥyá, 1301-1349",author,,,human,Chihab al-Umari,Q2658869,DSNAME856,Q3257
 "Ibn Faḍl Allāh al-ʻUmarī, Aḥmad ibn Yaḥyá, 1301-1349",author,,,human,Chihab al-Umari,Q2658869,DSNAME856,Q3257
@@ -5416,6 +5490,7 @@ Iacobus of Speyer.,author,,,human,Jakob Montanus,Q1677587,DSNAME4475,Q40920
 "Ibn Ghānim, ʻIzz al-Dīn ʻAbd al-Salām ibn Aḥmad, -1279",author,,http://id.loc.gov/authorities/names/n84077355,human,Izz al-Din al-Mosadeqi,Q15930652,DSNAME4487,Q40932
 "Ibn Ghānim, ʻIzz al-Dīn ʻAbd al-Salām ibn Aḥmad, -1279",author,,http://id.loc.gov/authorities/names/n84077355,human,Izz al-Din al-Mosadeqi,Q15930652,DSNAME4487,Q40932
 "Ibn Ghāzī, Muḥammad ibn Aḥmad, 1437 or 1438-1513",author,ابن غازي، محمد بن احمد، 1437 أو 1438-1513,,human,Ibn Ghazi al-Miknasi,Q10299689,DSNAME3158,Q27944
+"Ibn Ghiyyat, Isaac, 1038-1089",author,,,human,Isaac ibn Ghiyyat,Q2909247,DSNAME8542,Q76657
 "Ibn Ḥabib, Jacob ben Solomon, 1445?-1515 or 1516",author,,,human,Jacob ibn Habib,Q1679441,DSNAME8153,Q75570
 "Ibn Ḥabīb al-Ḥalabī, Badr al-Dīn al-Ḥasan ibn ʻUmar, 1310-1377",author,ابن حبيب الحلبي، بدر الدين الحسن بن عمر، 1310-1377,,human,Ibn Habib al-Halabi,Q42298972,DSNAME3137,Q27923
 "Ibn Ḥajar al-Haythamī, Aḥmad ibn Muḥammad, approximately 1503-approximately 1566",author,,http://id.loc.gov/authorities/names/n82165741,human,Ibn Hajar al-Haytami,Q3147445,DSNAME1804,Q12334
@@ -5493,6 +5568,7 @@ Iacobus of Speyer.,author,,,human,Jakob Montanus,Q1677587,DSNAME4475,Q40920
 "Ibn Maʻṣūm, ʻAlī ibn Aḥmad, 1642-approximately 1707.",author,,,human,ʿAlī Ibn-Aḥmad Ibn-Maʿṣūm,Q55888825,DSNAME6585,Q54216
 "Ibn Maʻtūq, Shihāb al-Dīn, 1616 or 1617-1676 or 1677",author,ابن معتوق، شهاب الدين، 1616 or 1617-1676 or 1677,,human,Abu Maʻtuq al-Musawi,Q6537777,DSNAME1811,Q12341
 "Ibn Maʻtūq, Shihāb al-Dīn, 1616 or 1617-1676 or 1677",author,ابن معتوق، شهاب الدين، 1616 or 1617-1676 or 1677,,human,Abu Maʻtuq al-Musawi,Q6537777,DSNAME1811,Q12341
+"Ibn Migash, Joseph ben Meir, ha-Levi, 1077-1141",author,,,human,Joseph ibn Migash,Q958361,DSNAME8536,Q76651
 "Ibn Muḥammad Riz̤ā Muḥammad, active 1716",scribe,ابن محمد رضا محمد، active 1716,,human,Ibn Muḥammad Riz̤ā Muḥammad,Q124130463,DSNAME3225,Q28009
 "Ibn Muḥarram, Aḥmad ibn Muḥammad, active 18th century",scribe,ابن محرم، احمد بن محمد، active 18th century,,human,Aḥmad ibn Muḥammad Ibn Muḥarram,Q131748483,DSNAME7672,Q68282
 "Ibn Muḥyī, ʻAbd Allāh Quṭb, active 14th-15th century",author,ابن محىى، عبد الله قطب، 14th-15th cent,,human,ʻAbd Allāh Quṭb Ibn Muḥyī,Q129453134,DSNAME6172,Q49043
@@ -5754,6 +5830,7 @@ Israel Sri,former owner,,,human,Israel Sri,Q125930811,DSNAME5728,Q42201
 "Istirābādī, Muḥammad Jaʻfar ibn Muḥammad Ṣādiq, active 1739",scribe,استرابادى، محمد جعفر بن محمد صادق،,,human,Muḥammad Jaʻfar ibn Muḥammad Ṣādiq Istirābādī,Q123581733,DSNAME2698,Q18745
 "Iṭinga, Yitsḥaḳ Aharon, ha-Leṿi, 1827-1891",author,"איטינגא, יצחק אהרן, הלוי, 1827-1891",,human,Isaak Aaron Ettinger,Q55843754,DSNAME8231,Q75644
 "Itqānī, Amīr Kātib ibn Amīr ʻUmar, 1286 or 1287-1356 or 1357",author,اتقاني، امير كاتب بن امير عمر، 1286 or 1287-1356 or 1357,http://id.loc.gov/authorities/names/no2006082739,human,Amīr Kātib ibn Amīr ʻUmar Itqānī,Q122946967,DSNAME1948,Q12478
+"Itzig, Daniel, 1723-1799",former owner,,,human,Daniel Itzig,Q72600,DSNAME8528,Q76645
 "Ivani, Antonio 1430-1482",author,,,human,Antonio Ivani,Q30434026,DSNAME4517,Q40962
 "Ivani, Antonio 1430-1482.",author,,,human,Antonio Ivani,Q30434026,DSNAME4517,Q40962
 "Ives, Brayton, 1840-1914",former owner,,http://id.loc.gov/authorities/names/n84001824,human,Brayton C. Ives,Q4958571,DSNAME4518,Q40963
@@ -5780,6 +5857,7 @@ J. P. Gumbert (1936-2016),former owner,,,human,J. P. Gumbert,Q28481183,DSNAME573
 J. Palmer,former owner,,,human,J. Palmer,Q114242514,DSNAME2723,Q20048
 J. Paul Getty Museum,former owner,,,organization,J. Paul Getty Museum,Q731126,DSNAME183,Q456
 J. Paul Getty Museum,former owner,,http://id.loc.gov/authorities/names/n79046211,organization,J. Paul Getty Museum,Q731126,DSNAME183,Q456
+J&J Leighton,former owner,,,organization,J. & J. Leighton,Q113850145,DSNAME2962,Q20273
 "Jabartī, Ḥasan ibn Ibrāhīm, 1698 or 1699-1774",author,,http://id.loc.gov/authorities/names/nr94039118,human,Hassan al-Jabarti,Q5679896,DSNAME1843,Q12373
 "Jabartī, Ḥasan ibn Ibrāhīm, 1698 or 1699-1774",author,,http://id.loc.gov/authorities/names/nr94039118,human,Hassan al-Jabarti,Q5679896,DSNAME1843,Q12373
 "Jabartī, Maḥmūd ibn Ḥusayn ibn ʻAbd Allāh",scribe,جبرتي، محمود بن حسين بن عبد الله,,human,Maḥmūd ibn Ḥusayn ibn ʻAbd Allāh Jabartī,Q124130479,DSNAME3190,Q27974
@@ -5795,6 +5873,7 @@ Jachopo di Domenicho vinattiere de' Seghalorzi di Firenze,scribe,,,human,Jacopo 
 "Jackson, Johan C.",former owner,,,human,Johan C. Jackson,Q122873474,DSNAME2942,Q20256
 "Jackson, John C",former owner,,,human,John C. Jackson,Q111734155,DSNAME1464,Q7625
 "Jackson, John C",former owner,,http://id.loc.gov/authorities/names/n77019920,human,John C. Jackson,Q111734155,DSNAME1464,Q7625
+"Jacob, of Marvège, 12th/13th century",author,,,human,Jacob HaLevi of Marvège,Q24038338,DSNAME8593,Q76710
 "Jacob, of Serug, 451-521",author,,,human,Jacob of Serugh,Q947711,DSNAME4520,Q40965
 "Jacob ben Asher, approximately 1269-approximately 1340",author,,http://id.loc.gov/authorities/names/n82247752,human,Jacob ben Asher,Q1376849,DSNAME974,Q3813
 "Jacob ben Asher, approximately 1269-approximately 1340",author,,,human,Jacob ben Asher,Q1376849,DSNAME974,Q3813
@@ -5825,6 +5904,7 @@ Jacobus de Lausanne,author,,,human,James of Lausanne,Q19663889,DSNAME1205,Q6084
 Jacobus de Teramo,author,,,human,Jacobus de Teramo,Q3805915,DSNAME2147,Q16458
 Jacobus de Voragine,author,,,human,Jacobus de Voragine,Q313460,DSNAME3083,Q7339
 Jacobus de Voragine?,author,,,human,Jacobus de Voragine,Q313460,DSNAME3083,Q7339
+Jacobus de Voragine (c. 1230-1298),author,,,human,Jacobus de Voragine,Q313460,DSNAME3083,Q7339
 Jacobus de Voragine ca. 1229-1298,author,,,human,Jacobus de Voragine,Q313460,DSNAME3083,Q7339
 Jacobus de Voragine ca. 1229-1298.,author,,,human,Jacobus de Voragine,Q313460,DSNAME3083,Q7339
 Jacobus filius condam Adriani de Abbacia policini,scribe,,,human,Jacobus de Adriani,Q117448374,DSNAME245,Q849
@@ -5864,6 +5944,7 @@ Jacques Rosenthal (Firm),former owner,,,organization,Jacques Rosenthal,Q11466767
 "Jaeger, Werner, 1888-1961",former owner,,,human,Werner Jaeger,Q61882,DSNAME4529,Q40974
 "Jaffe, Mordecai ben Abraham, approximately 1535-1612",author,"יפה, מרדכי בן אברהם, approximately 1535-1612",,human,Mordecai Yoffe,Q982189,DSNAME8429,Q75840
 "Jaffe, Mosheh ben Yiśakhar",author,"יפה, משה בן יששכר",,human,Mosheh ben Yiśakhar Jaffe,Q132799177,DSNAME8193,Q75607
+"Jagaddhara, active 14th century.",author,,,human,Jagaddhara,Q133839471,DSNAME8563,Q76677
 Jagadīśatarkālaṅkāra,author,,http://id.loc.gov/authorities/names/n80080344,human,Jagadīśatarkālaṅkāra,Q124252858,DSNAME3424,Q28208
 "Jagannātha, 1652-",author,,http://id.loc.gov/authorities/names/n2004057674,human,Jagannatha Panditaraja,Q17081645,DSNAME3383,Q28167
 Jagannātha Paṇḍitarāja,author,,http://id.loc.gov/authorities/names/n83167409,human,Jagannatha Panditaraja,Q17081645,DSNAME3383,Q28167
@@ -5898,6 +5979,7 @@ Jaimini,author,,http://id.loc.gov/authorities/names/n79114209,human,Jaimini,Q275
 "James, of Viterbo, Archbishop of Naples, approximately 1255-1307 or 1308",author,,,human,James of Viterbo,Q352625,DSNAME4533,Q40978
 "James, Walter, active 1627-1628",former owner,,,human,Walter James,Q131623183,DSNAME7156,Q67402
 James Clerke,former owner,,,human,James Clerke,Q6131453,DSNAME5736,Q42209
+James F. Drake,former owner,,,human,James F. Drake,Q1568238,DSNAME8555,Q76670
 "James Freeman Clarke, 1810-1888",former owner,,,human,James Freeman Clarke,Q323362,DSNAME4534,Q40979
 James of Milan,author,,,human,James of Milan,Q41569767,DSNAME4521,Q40966
 James Tregaskis (Firm),former owner,,,organization,James & Mary Lee Tregaskis (Firm),Q114242604,DSNAME497,Q1661
@@ -5920,6 +6002,7 @@ Jans Enikel,author,,,human,Jans der Enikel,Q689252,DSNAME4537,Q40982
 "Jān Sipār Khān ibn Rustamdilkhān, -1701",former owner,جان سپار خان بن رستمدلخان،,,human,Jān Sipār Khān ibn Rustamdilkhān,Q123581739,DSNAME2667,Q18714
 "Jān Sipār Khān ibn Rustamdilkhān, -1701?",former owner,جان سپار خان بن رستمدلخان،,,human,Jān Sipār Khān ibn Rustamdilkhān,Q123581739,DSNAME2667,Q18714
 "Jantsch, Heinrich",former owner,,,human,Heinrich Jantsch,Q1597872,DSNAME4538,Q40983
+"Japheth ben Ali, ha-Levi, active 10th century",author,,,human,Yefet ben Ali,Q194803,DSNAME8623,Q76739
 "Jārbardī, Fakhr al-Dīn Aḥmad ibn al-Ḥasan, -1345",author,جاربردي، فخر الدين احمد بن الحسن، -1345,,human,Fakhr al-Dīn Aḥmad ibn al-Ḥasan Jārbardī,Q120752948,DSNAME1835,Q12365
 "Jārbardī, Fakhr al-Dīn Aḥmad ibn al-Ḥasan, -1345",author,جاربردي، فخر الدين احمد بن الحسن، -1345,,human,Fakhr al-Dīn Aḥmad ibn al-Ḥasan Jārbardī,Q120752948,DSNAME1835,Q12365
 "Jarbī, Sulaymān ibn ʻAbd al-Raḥmān, active 16th century",author,جربي، سليمان بن عبد الرحمن، active 16th century,,human,Sulaymān ibn ʻAbd al-Raḥmān Jarbī,Q131398890,DSNAME7703,Q68313
@@ -5939,6 +6022,7 @@ Jans Enikel,author,,,human,Jans der Enikel,Q689252,DSNAME4537,Q40982
 "Jawharī, Ismāʻīl ibn Ḥammād, -1003",author,,,human,Ismail ibn Hammad al-Jawhari,Q403498,DSNAME797,Q3198
 "Jawharī, Ismāʻīl ibn Ḥammād, -1003",author,,,human,Ismail ibn Hammad al-Jawhari,Q403498,DSNAME797,Q3198
 "Jawharī, Ismāʻīl ibn Ḥammād, -1003",author,جوهري، اسماعيل بن حماد، -1003؟,http://id.loc.gov/authorities/names/n82085863,human,Ismail ibn Hammad al-Jawhari,Q403498,DSNAME797,Q3198
+"Jawharī, Ismāʻīl ibn Ḥammād, -1003?",author,جوهري، اسماعيل بن حماد، -1003؟,,human,Ismail ibn Hammad al-Jawhari,Q403498,DSNAME797,Q3198
 "Jawharī, Muḥammad Ibrāhīm ibn Muḥammad Bāqir, -1837",author,جوهرى، محمد ابراهىم بن محمد باقر، d. 1837,,human,Muḥammad Ibrāhīm ibn Muḥammad Bāqir Jawharī,Q129453251,DSNAME6239,Q49110
 "Jayadeva, active 12th century",author,,http://id.loc.gov/authorities/names/n50082235,human,Jayadeva,Q335015,DSNAME3403,Q28187
 "Jayadeva, active 13th century",author,,http://id.loc.gov/authorities/names/n88283513,human,Jayadeva,Q335015,DSNAME3403,Q28187
@@ -6134,6 +6218,7 @@ John Chrysostom,author,,,human,John Chrysostom,Q43706,DSNAME1245,Q6124
 "John Chrysostom, Saint (historical Syrian archbishop, 347-407)",author,,,human,John Chrysostom,Q43706,DSNAME1245,Q6124
 John Chrysostom Saint d. 407,author,,,human,John Chrysostom,Q43706,DSNAME1245,Q6124
 John Chrysostom Saint d. 407.,author,,,human,John Chrysostom,Q43706,DSNAME1245,Q6124
+John Chyrsostom Saint -407,author,,,human,John Chrysostom,Q43706,DSNAME1245,Q6124
 John Clerk,scribe,,,human,John Clerk,Q124380423,DSNAME4577,Q41022
 "John Climacus, Saint 6th cent",author,,,human,John Climacus,Q317072,DSNAME4573,Q41018
 "John Climacus, Saint 6th cent.",author,,,human,John Climacus,Q317072,DSNAME4573,Q41018
@@ -6229,6 +6314,7 @@ Joseph de Jesus Maria,author,,,human,José de Jesús María,Q114827003,DSNAME460
 Joseph Haslewood,former owner,,,human,Joseph Haslewood,Q6283838,DSNAME2453,Q17662
 "Joseph ibn Ṭabūl, active 16th century-17th century",author,"יוסף אבן טבול, active 16th century-17th century",,human,Josef ibn Tabul,Q1706133,DSNAME8220,Q75633
 Joseph Martini,former owner,,,human,Giuseppe Martini,Q98834332,DSNAME332,Q1497
+Joseph Martini (Lugano),former owner,,,human,Giuseppe Martini,Q98834332,DSNAME332,Q1497
 "Joseph Pope (Toronto, ON) (ca. 2010)",former owner,,,human,Joseph Pope,Q120869143,DSNAME3084,Q27871
 Joseph Rubinstein (Firm),former owner,,,organization,Joseph Rubinstein (Firm),Q120442750,DSNAME5553,Q41998
 Josephus,author,,,human,Josephus,Q134461,DSNAME193,Q466
@@ -6245,6 +6331,7 @@ Juan de Mena,author,,,human,Juan de Mena,Q388140,DSNAME4604,Q41049
 "Juan II, King of Castile and Leon, 1405-1454",author,,,human,John II of Castile,Q297278,DSNAME1689,Q8404
 "Juan II, King of Castile and Leon, 1405-1454",author,,http://id.loc.gov/authorities/names/n84238852,human,John II of Castile,Q297278,DSNAME1689,Q8404
 Juan Rodriguez,former owner,,,human,Juan Rodriguez,Q125930823,DSNAME5746,Q42219
+"Judah, ha-Levi, active 12th century",author,,,human,Judah Halevi,Q299200,DSNAME8597,Q76714
 "Judah ben Jacob, 15th century",scribe,,,human,Judah ben Jacob,Q116446930,DSNAME862,Q3263
 "Judah ben Moses, ha-Rofe, ha-Kohen",former owner,,,human,"Judah ben Moses, ha-Rofe, ha-Kohen",Q124566846,DSNAME4605,Q41050
 "Jūdī, ʻUmar, active 1754",scribe,جودي، عمر،,,human,ʻUmar Jūdī,Q131863668,DSNAME8126,Q68830
@@ -6334,7 +6421,9 @@ Kaṇāda,author,,http://id.loc.gov/authorities/names/n84021695,human,Kanada,Q29
 "Kann, Maurice",former owner,,,human,Maurice Kann,Q3300968,DSNAME2259,Q16562
 "Kanō, Gensen, 1685−1751",author,"狩野元仙, 1685−1751",,human,Kanō Gensen,Q123005896,DSNAME2082,Q12891
 "Kanō, Gensen, 1685−1751",author,"狩野元仙, 1685−1751",,human,Kanō Gensen,Q123005896,DSNAME2082,Q12891
+"Kanroji, Motonaga, 1457-1527",author,,,human,Kanroji Motonaga,Q17990301,DSNAME8569,Q76683
 "Kantakouzenos, Michael",former owner,,,human,Michael Kantakouzenos Şeytanoğlu,Q13648753,DSNAME4613,Q41058
+"Kanzi, Yitsḥaḳ",author,,,human,Yitsḥaḳ Kanzi,Q133849456,DSNAME8612,Q76729
 Kapila,author,,http://id.loc.gov/authorities/names/n50059441,human,Kapila,Q574355,DSNAME3362,Q28146
 "Kaplenevsky, Aaron ben Avraham",scribe,"קפלנווסקי, אהרן בן אברהם (מעתיק)",,human,Aaron ben Avraham Kaplenevsky,Q132798663,DSNAME8402,Q75813
 "Karaçelebizade Abdülaziz, 1591-1658",author,قره چلبي زاده عبد العزيز,,human,Karaçelebizade Abdülaziz,Q20471822,DSNAME6743,Q54724
@@ -6386,6 +6475,7 @@ Karl W. Hiersemann (Firm),former owner,,,human,Karl Wilhelm Hiersemann,Q1473427,
 Kāśīnātha,scribe,,http://id.loc.gov/authorities/names/n97113027,human,Kāśīnātha,Q124252877,DSNAME3331,Q28115
 Kāśīnātha,author,,http://id.loc.gov/authorities/names/n97113027,human,Kāśīnātha,Q124252877,DSNAME3331,Q28115
 Kāśīnātha Bhaṭṭācārya,author,,http://id.loc.gov/authorities/names/n91014355,human,Kāśīnātha Bhaṭṭācārya,Q124252878,DSNAME3441,Q28225
+Kaśīnātha Tāmūlī-Phukana,author,,,human,Kaśīnātha Tāmūlī-Phukana,Q133839472,DSNAME8566,Q76680
 "Kāśīnātha Upādhyāya, -1805",author,,http://id.loc.gov/authorities/names/n88110526,human,Kāśīnātha Upādhyāya,Q124252879,DSNAME3376,Q28160
 Katharienconvent,scribe,,,organization,"Katharinenkirche, Nuremberg",Q1736108,DSNAME568,Q1803
 "Kātib, Malik Muḥammad ibn Darvīsh Muḥammad, active 1574",scribe,كاتب، ملك محمد بن درويش محمد، active 1574,,human,Malik Muḥammad ibn Darvīsh Muḥammad Kātib,Q124130489,DSNAME3229,Q28013
@@ -6578,6 +6668,7 @@ Kiśorīdāsa,author,,http://id.loc.gov/authorities/names/n81002457,human,Kiśor
 "Klein, Eugène, 1898-",former owner,,,human,Eugène Klein,Q116419229,DSNAME959,Q3798
 "Klein, Eugène, 1898-",former owner,,http://id.loc.gov/authorities/names/no2010124464,human,Eugène Klein,Q116419229,DSNAME959,Q3798
 "Klein, Eugène, 1898-",former owner,,,human,Eugène Klein,Q116419229,DSNAME959,Q3798
+"Klopfer, Donald, 1902-1986",former owner,,,human,Donald S. Klopfer,Q16011602,DSNAME8561,Q76675
 "Kloss, Georg",former owner,,,human,Georg Kloss,Q214047,DSNAME1473,Q7634
 "Kloss, George",former owner,,,human,Georg Kloss,Q214047,DSNAME1473,Q7634
 "Kloss, Georg Franz Burkhard, 1787-1854",former owner,,,human,Georg Kloss,Q214047,DSNAME1473,Q7634
@@ -6589,6 +6680,7 @@ Kloster Kuringen,former owner,,,human,Kloster Kuringen,Q122873482,DSNAME2920,Q20
 Kloster Medingen,author,,,organization,Medingen Abbey,Q15252661,DSNAME5557,Q42002
 Kloster Ochsenhausen,former owner,,,organization,Ochsenhausen Abbey,Q561312,DSNAME8053,Q68663
 Kloster Riddagshausen,former owner,,http://id.loc.gov/authorities/names/n84079289,organization,Riddagshausen Abbey,Q896558,DSNAME5558,Q42003
+Kloster St. Gallen.,former owner,,,organization,Abbey of Saint Gall,Q155699,DSNAME5604,Q42049
 "Kloster St. Johann der Evangelist (Waldhausen, Austria)",former owner,,,organization,Parish Church of Waldhausen im Strudengau,Q37881281,DSNAME6006,Q42698
 "Kluger, Solomon ben Judah Aaron, -1869",author,"קלוגר, שלמה בן יהודה אהרן, -1869",,human,Shlomo Kluger,Q2907784,DSNAME8264,Q75677
 "Knevellynthusen, Hermannus",scribe,,,human,Hermannus Knevellynthusen,Q123274780,DSNAME2154,Q16462
@@ -6712,6 +6804,7 @@ Lallācārya,author,,http://id.loc.gov/authorities/names/n88231387,human,Lalla,Q
 Lambert le Bègue (d. 1177),author,,,human,Lambert le Bègue,Q3216644,DSNAME5754,Q42227
 "Lamberto, Pietro, Bishop of Caserta",author,,,human,Pietro Lamberti,Q64777442,DSNAME1659,Q8228
 "Lâmiî Çelebi, 1472-1532",author,لامعي چلبي، 1472-1532,,human,Lamii çelebi,Q4308882,DSNAME4644,Q41089
+"Lamm, Louis, 1871-1943",former owner,,,human,Louis Lamm,Q56450599,DSNAME8596,Q76713
 "Lamoignon, Chrétien-François de, 1735-1789",former owner,,,human,Chrétien-François II de Lamoignon,Q2967449,DSNAME2182,Q16490
 "Lamoignon, Chrétien-François de, 1735-1789",former owner,,,human,Chrétien-François II de Lamoignon,Q2967449,DSNAME2182,Q16490
 "Lampridio, Benedetto",author,,,human,Benito Lampridio,Q6395546,DSNAME4645,Q41090
@@ -6752,7 +6845,9 @@ Lapo da Castiglionchio,author,,,human,Lapo da Castiglionchio,Q21544875,DSNAME575
 "Lasso, Orlando di 1532-1594",author,,,human,Orlande de Lassus,Q154792,DSNAME4652,Q41097
 "Lasso, Orlando di 1532-1594.",author,,,human,Orlande de Lassus,Q154792,DSNAME4652,Q41097
 Lathcen,author,,,human,Laidcenn mac Buith Bannaig,Q6473761,DSNAME4653,Q41098
+Lathrop C. Harper,former owner,,,human,Lathrop Colgate Harper,Q133839469,DSNAME8552,Q76667
 "Lathrop C. Harper, Inc",former owner,,,organization,"Lathrop C. Harper, Inc.",Q116785327,DSNAME476,Q1640
+Lathrop Harper,former owner,,,human,Lathrop Colgate Harper,Q133839469,DSNAME8552,Q76667
 "Latifı̂, 1491-1582",author,"لطيفى, 1491-1582",,human,Latîfî,Q12810590,DSNAME6783,Q54764
 "Latifı̂, 1491-1582",author,لطفى، ١٤٩١-١٥٨٢؟,,human,Latîfî,Q12810590,DSNAME6783,Q54764
 "Latini, Brunetto, 1220-1295",author,,,human,Brunetto Latini,Q366328,DSNAME3916,Q40361
@@ -6886,6 +6981,7 @@ Lescut,author,,,human,Lescut,Q124566863,DSNAME4683,Q41128
 "Le Seigneur, Margaret",former owner,,,human,Margaret Le Seigneur,Q122873487,DSNAME2882,Q20199
 Les Enluminures,former owner,,,organization,Enluminures,Q120442746,DSNAME2176,Q16484
 Leslie Hindman,former owner,,,human,Leslie Hindman,Q125930832,DSNAME5759,Q42232
+"Lesnick, Howard, 1931-",former owner,,,human,Howard Lesnick,Q63383511,DSNAME8529,Q76646
 "Lessi, P",artist,,,human,P. Lessi,Q116181757,DSNAME1116,Q5109
 "Le Strange, Hamon, 1840-1918",former owner,,,human,Hamon Styleman Le Strange,Q19357033,DSNAME1106,Q5099
 "Le Strange, Hamon, 1840-1918",former owner,,http://id.loc.gov/authorities/names/no2020122399,human,Hamon Styleman Le Strange,Q19357033,DSNAME1106,Q5099
@@ -7143,6 +7239,7 @@ Macer Floridus.,author,,,human,Odo of Meung,Q41617302,DSNAME1719,Q10859
 "Machiavelli, Niccolò, 1469-1527",author,,,human,Niccolò Machiavelli,Q1399,DSNAME4732,Q41177
 "Machiavelli, Niccolò di Giovanni",author,,,human,Niccolò di Giovanni Machiavelli,Q114242520,DSNAME160,Q433
 "Machiavelli, Niccolò di Giovanni",author,,,human,Niccolò di Giovanni Machiavelli,Q114242520,DSNAME160,Q433
+"Macro, Cox, -1767",former owner,,,human,Cox Macro,Q18559710,DSNAME8643,Q76759
 "Macrobius, Ambrosius Aurelius Theodosius",author,,,human,Macrobius,Q313934,DSNAME4733,Q41178
 "Macrobius, Ambrosius Aurelius Theodosius.",author,,,human,Macrobius,Q313934,DSNAME4733,Q41178
 "Madan, Falconer, 1851-1935",former owner,,http://id.loc.gov/authorities/names/n50043614,human,Falconer Madan,Q1237930,DSNAME1107,Q5100
@@ -7354,6 +7451,7 @@ Marcus Tullius Cicero,author,,,human,Cicero,Q1541,DSNAME578,Q1813
 Marcus Ulpius Julianus,author,,,human,Marcus Ulpius Julianus,Q121956495,DSNAME374,Q1538
 Marcus Valerius Probus c. 20/30-105 AD,author,,,human,Marcus Valerius Probus,Q722683,DSNAME4755,Q41200
 "Mardāwī, Yūsuf ibn Muḥammad, 1300 or 1301-1367",author,,,human,Yūsuf ibn Muḥammad Mardāwī,Q131575230,DSNAME7532,Q67818
+Mardukh ben Musi,author,,,human,Mardukh ben Musi,Q133849449,DSNAME8604,Q76721
 "Margaret, of Croy, active 1450",former owner,,,human,Margaret of Croy,Q131623209,DSNAME7181,Q67427
 Margaret Barclay Wilson,former owner,,,human,Margaret Barclay Wilson,Q94995753,DSNAME5770,Q42243
 "Marghīnānī, Maḥmūd ibn Aḥmad, 1156 or 1157-1219 or 1220",author,مرغيناني، محمود بن احمد,,human,Maḥmūd ibn Aḥmad Marghīnānī,Q131575255,DSNAME7518,Q67804
@@ -7397,6 +7495,7 @@ Marius Victorinus,author,,,human,Gaius Marius Victorinus,Q708247,DSNAME4760,Q412
 "Marmion, Simon, 1420-1489",illuminator,,,human,Simon Marmion,Q676247,DSNAME4708,Q41153
 "Marot, Jean, 1463-1523",author,,,human,Jean Marot,Q377324,DSNAME1579,Q8070
 "Marot, Jean, 1463-1523",author,,http://id.loc.gov/authorities/names/no94022615,human,Jean Marot,Q377324,DSNAME1579,Q8070
+Marqah,author,,,human,Marqah,Q48734457,DSNAME8539,Q76654
 "Marquand, Allan, 1853-1924",former owner,,,human,Allan Marquand,Q117093,DSNAME8093,Q68797
 "Marquand, Eleanor Cross, 1873-1950",former owner,,,human,Eleanor Cross Marquand,Q5354255,DSNAME8094,Q68798
 Marquis of Astorga,former owner,,,human,Marquis of Astorga,Q112225539,DSNAME2575,Q17783
@@ -7425,6 +7524,7 @@ Martin Crusius 1526-1607,author,,,human,Martin Crusius,Q72906,DSNAME4765,Q41210
 "Martini, Francesco di Giorgio 1439-1502.",author,,,human,Francesco di Giorgio,Q434425,DSNAME4224,Q40669
 "Martini, Giuseppe, 1870-1944",former owner,,,human,Giuseppe Martini,Q98834332,DSNAME332,Q1497
 "Martini, Giuseppe, 1870-1944",former owner,,http://id.loc.gov/authorities/names/nr99009017,human,Giuseppe Martini,Q98834332,DSNAME332,Q1497
+"Martini, Giuseppe, 1870-1944, bookseller.Phillipps, Thomas, Sir, 1792-1872",former owner,,,human;human,Giuseppe Martini;Thomas Phillipps,Q98834332;Q2147709,DSNAME332;DSNAME998,Q1497;Q385
 "Martini, Giuseppe, 1870-1944.",former owner,,http://id.loc.gov/authorities/names/nr99009017,human,Giuseppe Martini,Q98834332,DSNAME332,Q1497
 "Martini, J",former owner,,,human,J. Martini,Q115960451,DSNAME2273,Q16575
 Martin Luther,author,,,human,Martin Luther,Q9554,DSNAME2104,Q12912
@@ -7441,6 +7541,7 @@ Martin Schøyen,former owner,,,human,Martin Schøyen,Q6776549,DSNAME2418,Q16717
 "Martinus, Polonus, -1279",associated name,,,human,Martin of Opava,Q431054,DSNAME4769,Q41214
 "Martinus, Polonus, -1279.",associated name,,,human,Martin of Opava,Q431054,DSNAME4769,Q41214
 Martinus Garatus Laudensis,author,,,human,Martino Garrati,Q41569684,DSNAME4771,Q41216
+"Martinus Nijhoff (Firm : Hague, Netherlands)",former owner,,,organization,Martinus Nijhoff,Q1905756,DSNAME2312,Q16613
 Martinus Oppaviensis,author,,,human,Martin of Opava,Q431054,DSNAME4769,Q41214
 Martinus Polonus,author,,,human,Martin of Opava,Q431054,DSNAME4769,Q41214
 Martinus Polonus (Martin of Troppau),author,,,human,Martin of Opava,Q431054,DSNAME4769,Q41214
@@ -7510,6 +7611,7 @@ Masters of the Gold Scrolls,illuminator,,,organization,Masters of the Gold Scrol
 "Masters of the Gold Scrolls, In the style of.",artist,,,human,Masters of the Gold Scrolls,Q23888760,DSNAME2853,Q1488
 Masters of the Wouter Grauwert,illuminator,,,organization,Masters of the Wouter Grauwert,Q123285060,DSNAME2303,Q16604
 Masters of the Zwolle Bible,illuminator,,,human,Masters of the Zwolle Bible,Q123274796,DSNAME2310,Q16611
+"Masters of the Zwolle Bible, 1460-1480",illuminator,,,human,Masters of the Zwolle Bible,Q123274796,DSNAME2310,Q16611
 Master William the monk,other,,,human,Master William the monk,Q117448603,DSNAME410,Q1574
 Masullus,scribe,,,human,Masullus,Q131623204,DSNAME7176,Q67422
 "Masʻud, Sagi Nehor",author,"מסעוד, סגי נהור",,human,Sagi Nehor Masʻud,Q132798372,DSNAME8342,Q75754
@@ -7597,6 +7699,7 @@ Mayfair Rare Books and Manuscripts,former owner,,,organization,Mayfair Rare Book
 "Medici, Lorenzo de', 1449-1492",author,,,human,Lorenzo de' Medici,Q177854,DSNAME4702,Q41147
 "Medici, Niccolo de'",author,,,human,Niccolo de Medici,Q18289508,DSNAME1172,Q5499
 "Medico, Alessandro di Nicolo",scribe,,,human,Alessandro di Nicolo Medico,Q116453207,DSNAME912,Q3751
+"Medin, Antonio, conte, 1857-1930",former owner,,,human,Antonio Medin,Q59527703,DSNAME8585,Q76696
 "Medina, Bartolomé de, 1527 or 1528-1580",author,,,human,Bartolomé de Medina,Q809544,DSNAME6021,Q42713
 "Medina, Pedro de 1493?-1567",author,,,human,Pedro de Medina,Q112366594,DSNAME4800,Q41245
 "Medina, Pedro de 1493?-1567?",author,,,human,Pedro de Medina,Q112366594,DSNAME4800,Q41245
@@ -7666,6 +7769,7 @@ Messrs. J. & J. Leighton,former owner,,,organization,J. & J. Leighton,Q113850145
 "Mettler, Arnold",former owner,,,human,Arnold Mettler,Q28077318,DSNAME1022,Q4386
 "Mettler, Arnold J",former owner,,,human,Arnold Mettler,Q28077318,DSNAME1022,Q4386
 "Mettler-Specker, Arnold, 1867-1945",former owner,,,human,Arnold Mettler,Q28077318,DSNAME1022,Q4386
+"Mevorakh ben Natan, active 12th century",scribe,,,human,Mevorakh ben Natan,Q133849459,DSNAME8616,Q76733
 "Mewe, Henricus",former owner,,,human,Henricus Mewe,Q114242530,DSNAME2727,Q20052
 "Mexía, Pedro, 1496?-1552",author,,,human,Pedro Mexía,Q462274,DSNAME7975,Q68585
 "Mexía, Pedro, 1496?-1552?",author,,,human,Pedro Mexía,Q462274,DSNAME7975,Q68585
@@ -7764,6 +7868,7 @@ Misalı̂,author,مثالى,,human,Misalı̂,Q130375057,DSNAME6929,Q54910
 "Miṣrī, Muḥammad ʻAbd al-Jawād, active 19th century",scribe,مصري، محمد عبد الجواد، active 19th century,,human,Muḥammad ʻAbd al-Jawād Miṣrī,Q131748593,DSNAME7830,Q68440
 "Miṣrī, Yūḥannā ibn Isrāʼīl",author,مصرى، ىوحنا بن اسرائيل,,human,Yūḥannā ibn Isrāʼīl Miṣrī,Q129453386,DSNAME6331,Q49202
 "Missinisi, Vincenzo Paolino, active 15th century",former owner,,,human,Vincenzo Paolino Missinisi,Q123274800,DSNAME2179,Q16487
+"Missy, César de, 1703-1775",former owner,,,human,César de Missy,Q3010518,DSNAME8550,Q76665
 "Mitchell, Morton Davis",former owner,,,human,Morton Davis Mitchell,Q124566882,DSNAME4825,Q41270
 "Mizzī, Yūsuf ibn al-Zakī ʻAbd al-Raḥmān, 1256-1341",author,,,human,Yusuf ibn Abd al-Rahman al-Mizzi,Q3607449,DSNAME7527,Q67813
 "Miʻmār, ʻAlī Nūr al-Dīn ibn Muḥammad Badr al-Dīn, active 16th century",scribe,معمار، علي نور الدين بن محمد بدر الدين، active 16th century,,human,ʻAlī Nūr al-Dīn ibn Muḥammad Badr al-Dīn Miʻmār,Q131748531,DSNAME7742,Q68352
@@ -7773,6 +7878,7 @@ Mobed Hormazdyar Mobed Khodabaksh,former owner,,,human,Mobed Hormazdyar Mobed Kh
 "Mobray, John de, 8th Baron Mowbray, 1286-1322",author,,,human,"John de Mowbray, 2nd Baron Mowbray",Q6265599,DSNAME7357,Q67603
 "Mocenigo, Alvise I, 1507-1577",author,,,human,Alvise I Mocenigo,Q449435,DSNAME744,Q2854
 "Mocenigo, Alvise I, 1507-1577",author,,http://id.loc.gov/authorities/names/n95010092,human,Alvise I Mocenigo,Q449435,DSNAME744,Q2854
+"Modaʻi, Ḥayim",author,,,human,Ḥayim Modaʻi,Q6677692,DSNAME8537,Q76652
 "Modena, Leone, 1571-1648",author,"מודינא, יהודה אריה בן יצחק, 1571-1648",,human,Leon of Modena,Q1652176,DSNAME8276,Q75689
 "Modestus, Saint, -approximately 300",associated name,,,human,Modestus,Q1942111,DSNAME4826,Q41271
 "Modestus, Saint, -approximately 300.",associated name,,,human,Modestus,Q1942111,DSNAME4826,Q41271
@@ -7888,6 +7994,7 @@ Moses ben Jacob of Coucy,author,,,human,Moses ben Jacob of Coucy,Q2916539,DSNAME
 Moses Maimonides,author,,,human,Moshe ben Maimon,Q127398,DSNAME1780,Q12310
 Moses Maimonides (1135 or 1138-1204),author,,,human,Moshe ben Maimon,Q127398,DSNAME1780,Q12310
 Moses Shapira,former owner,,,human,Moses Shapira,Q1246291,DSNAME8519,Q75960
+"Mosheh ben Yaʹaḳov, 11th century",author,,,human,Moses ibn Ezra,Q719393,DSNAME8534,Q76649
 "Moss, William E",former owner,,,human,William E. Moss,Q120869140,DSNAME3012,Q20321
 "Moss, William E.",former owner,,,human,William E. Moss,Q120869140,DSNAME3012,Q20321
 "Mosteiro dos Jerónimos (Lisbon, Portugal)",former owner,,,organization,Jerónimos Monastery,Q272781,DSNAME2991,Q20302
@@ -7899,6 +8006,7 @@ Moses Shapira,former owner,,,human,Moses Shapira,Q1246291,DSNAME8519,Q75960
 "Motha, Paulus a",scribe,,,human,Paulus A Motha,Q124566891,DSNAME4848,Q41293
 "Motion, Laura Hurd",former owner,,,human,Laura Hurd Motion,Q131863654,DSNAME8104,Q68808
 "Moulins, Guyart des",author,,,human,Guyart des Moulins,Q3122335,DSNAME4363,Q40808
+"Moussaieff, Shlomo",former owner,,,human,Shlomo Moussaieff,Q7499597,DSNAME8599,Q76716
 "Moy, Venanzio",author,,,human,Venanzio Moy,Q127510466,DSNAME6031,Q42723
 "Moynan, Thomas H",former owner,,,human,Thomas H. Moynan,Q122873502,DSNAME2830,Q20148
 "Moynan, Thomas H.",former owner,,,human,Thomas H. Moynan,Q122873502,DSNAME2830,Q20148
@@ -8346,6 +8454,7 @@ Nicomachus of Gerasa.,author,,,human,Nicomachus,Q360366,DSNAME4895,Q41340
 "Nider, Johannes, approximately 1380-1438",author,,,human,Johannes Nider,Q66836,DSNAME1246,Q6125
 "Nider, Johannes, approximately 1380-1438.",author,,,human,Johannes Nider,Q66836,DSNAME1246,Q6125
 "Nigamabodha Tīrtha, Swami",scribe,,http://id.loc.gov/authorities/names/n84103647,human,Swami Nigamabodha Tīrtha,Q124252902,DSNAME3296,Q28080
+"Nigrin, Mosheh, active 16th century",author,"Nigrin, Mosheh, active 16th century",,human,Mosheh Nigrin,Q118915574,DSNAME8546,Q76661
 "Nijhoff, Martinus, firm, booksellers, The Hague",former owner,,,organization,Martinus Nijhoff,Q1905756,DSNAME2312,Q16613
 Nikephoros Gregoras,author,,,human,Nicephorus Gregoras,Q372109,DSNAME4896,Q41341
 Niklas von Wyle,author,,,human,Niklas von Wyle,Q1990490,DSNAME4897,Q41342
@@ -8374,6 +8483,7 @@ Nilus of Ancyra,author,,,human,Nilus of Sinai,Q770938,DSNAME1090,Q4454
 "Nishānjīʹzādah, Muḥammad ibn Aḥmad, 1555-1622",author,,,human,Muḥammad ibn Aḥmad Nishānjīʹzādah,Q131432238,DSNAME7106,Q64036
 "Nīshāpūrī, Ḥusayn ibn Muḥammad, -1499",author,نىشاپورى، حسىن بن محمد، -1499,,human,Ḥusayn ibn Muḥammad Nīshāpūrī,Q129453431,DSNAME6357,Q49228
 "Nīshāpūrī, ʻAlī Muḥammad ibn Muḥammad Ṣāliḥ, 19th century",author,نىشاپورى، على محمد بن محمد صالح، 19th century,,human,ʻAlī Muḥammad ibn Muḥammad Ṣāliḥ Nīshāpūrī,Q129453343,DSNAME6301,Q49172
+"Nissim ben Jacob ben Nissim ibn Shahin, active 11th century",author,,,human,Nissim ben Jacob,Q690381,DSNAME8622,Q76738
 "Nithārī, Muḥammad ibn ʻAbd Allāh, -1774 or 1775",author,,,human,Muḥammad ibn ʻAbd Allāh Nithārī,Q125099237,DSNAME6506,Q54137
 Nityanātha,author,,http://id.loc.gov/authorities/names/n84086528,human,Gorakṣanātha Heiliger,Q113399663,DSNAME3361,Q28145
 "Nix, Richard, Bishop of Norwich, approximately 1447-1535",author,,http://id.loc.gov/authorities/names/no2015163899,human,Richard Nykke,Q7328116,DSNAME4899,Q41344
@@ -8385,6 +8495,8 @@ Nityanātha,author,,http://id.loc.gov/authorities/names/n84086528,human,Gorakṣ
 "Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203",author,,,human,Nizami Ganjavi,Q234908,DSNAME2172,Q16480
 "Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203",author,نظامى گنجوى، 1140 یا 1141-1202 یا 1203,,human,Nizami Ganjavi,Q234908,DSNAME2172,Q16480
 "Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203",author,نظامى گنجوى، 1140 یا 1141-1202 یا 1203,,human,Nizami Ganjavi,Q234908,DSNAME2172,Q16480
+"Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203. 
+نظامى گنجوى.",author,,,human,Nizami Ganjavi,Q234908,DSNAME2172,Q16480
 Niẓāmī Ganjavī ca.1141-ca.1209,author,,,human,Nizami Ganjavi,Q234908,DSNAME2172,Q16480
 "Niẓāmī ʻArūz̤ī, active 1110-1161",author,نظامى عروضى، active 1110-1161,,human,Nizami Aruzi,Q1152795,DSNAME6197,Q49068
 "Niʻmat Allāh, active 1613-1630",author,نعمت الله، active 1613-1630,,human,Nimat Allah al-Harawi,Q17012484,DSNAME6214,Q49085
@@ -8519,6 +8631,7 @@ Onasander,author,,,human,Onasander,Q373042,DSNAME4920,Q41365
 "Oppenheimer, Henry",former owner,,,human,Henry Oppenheimer,Q113626114,DSNAME4922,Q41367
 Oppian fl. 2nd cent,author,,,human,Oppian,Q116508,DSNAME4923,Q41368
 Oppian fl. 2nd cent.,author,,,human,Oppian,Q116508,DSNAME4923,Q41368
+"Orbicciani, Bonagiunta, active 13th century.",author,,,human,Bonagiunta Orbicciani,Q530026,DSNAME8556,Q76671
 "Ord, Craven, 1756-1832",former owner,,,human,Craven Ord,Q18756634,DSNAME4924,Q41369
 Order of the Garter,author,,,organization,Order of the Garter,Q215248,DSNAME5575,Q42020
 "Ordoñez, Andrés",former owner,,,human,Andrés Ordoñez,Q122873508,DSNAME2818,Q20137
@@ -8702,6 +8815,7 @@ Paterius notarius Gregorii I,author,,,human,Paterius,Q672439,DSNAME4959,Q41404
 "Patetta, Federico, 1867-1945",former owner,,http://id.loc.gov/authorities/names/no2009176411,human,Federico Patetta,Q56708246,DSNAME1546,Q7911
 "Patou, Johannes",former owner,,,human,Johannes Patou,Q122873511,DSNAME3004,Q20314
 "Patrick, Albert M",former owner,,,human,Albert M. Patrick,Q116192893,DSNAME1713,Q8428
+"Patteson, John, 1755-1833",former owner,,,human,John Patteson,Q6252141,DSNAME8577,Q76689
 Paul,author,,,human,Paul the Apostle,Q9200,DSNAME4960,Q41405
 Paul Durrieux,former owner,,,human,Paul Durrieux,Q125930853,DSNAME5799,Q42272
 "Pauli, N., active 1411",former owner,,,human,N. Pauli,Q123274805,DSNAME2366,Q16667
@@ -8939,6 +9053,7 @@ Philip Hurd,former owner,,,human,Philip Hurd,Q108308272,DSNAME2983,Q20294
 "Philip II, King of Spain, 1527-1598",author,,,human,Philip II of Spain,Q34417,DSNAME2572,Q17780
 "Philip II, King of Spain 1527-1598",author,,,human,Philip II of Spain,Q34417,DSNAME2572,Q17780
 "Philip IV, King of Spain, 1605-1665",author,,,human,Philip IV of Spain,Q691402,DSNAME6053,Q42745
+Philip J. Pirages,former owner,,,organization,Phillip J. Pirages Fine Books & Manuscripts,Q116790542,DSNAME310,Q1127
 Philip Jacob Grangier (1785); CSL assession number 18294,former owner,,,human,Philip Jacob Grangier,Q116523308,DSNAME253,Q857
 Philip Jacob Grangier (1785); CSL assession number 18294.,former owner,,,human,Philip Jacob Grangier,Q116523308,DSNAME253,Q857
 Philip Milburn,former owner,,,human,Philip Milburn,Q125930855,DSNAME5805,Q42278
@@ -9007,6 +9122,7 @@ Piccolomini family,author,,,organization,Piccolomini,Q611733,DSNAME1638,Q8207
 "Pichon, Jérôme, baron, 1812-1896",former owner,,,human,Jérôme Pichon,Q3191022,DSNAME1541,Q7906
 "Pichon, Jérôme, baron, 1812-1896",former owner,,,human,Jérôme Pichon,Q3191022,DSNAME1541,Q7906
 "Pichon, Jérôme, baron, 1812-1896",former owner,,http://id.loc.gov/authorities/names/n88244569,human,Jérôme Pichon,Q3191022,DSNAME1541,Q7906
+"Pickering, William, 1796-1854",former owner,,,human,William Pickering,Q4362574,DSNAME8551,Q76666
 "Pico della Mirandola, Galeotto, Conte di Concordia",author,,,human,Galeotto IV Pico della Mirandola,Q86335289,DSNAME5030,Q41475
 "Pico della Mirandola, Giovanni, 1463-1494",author,,,human,Giovanni Pico della Mirandola,Q182128,DSNAME5031,Q41476
 Pier Candido Decembrio,author,,,human,Pietro Candido Decembrio,Q714963,DSNAME4067,Q40512
@@ -9663,6 +9779,7 @@ Raymundus de Pennaforte (Raimundus de Pennaforti),author,,,human,Raymond of Peny
 "Rāzī, Abū Bakr Muḥammad ibn Zakarīyā, 865?-925",author,,http://id.loc.gov/authorities/names/n80133010,human,Abu Bakr al-Razi,Q169234,DSNAME792,Q3193
 "Rāzī, Abū Bakr Muḥammad ibn Zakarīyā, 865?-925",author,,http://id.loc.gov/authorities/names/n80133010,human,Abu Bakr al-Razi,Q169234,DSNAME792,Q3193
 "Rāzī, Abū Bakr Muḥammad ibn Zakarīyā, 865?-925",author,,,human,Abu Bakr al-Razi,Q169234,DSNAME792,Q3193
+"Rāzī, Abū Bakr Muḥammad ibn Zakarīyā, 865?-925?",author,,,human,Abu Bakr al-Razi,Q169234,DSNAME792,Q3193
 "Rāzī, Fakhr al-Dīn Muḥammad ibn ʻUmar, 1149 or 1150-1210",author,رازي، فخر الدين محمد بن عمر، 1149 or 1150-1210,http://id.loc.gov/authorities/names/n81070765,human,Fakhr al-Din al-Razi,Q333703,DSNAME806,Q3207
 "Rāzī, Fakhr al-Dīn Muḥammad ibn ʻUmar, 1149 or 1150-1210",author,,,human,Fakhr al-Din al-Razi,Q333703,DSNAME806,Q3207
 "Rāzī, Fakhr al-Dīn Muḥammad ibn ʻUmar, 1149 or 1150-1210",author,رازي، فخر الدين محمد بن عمر، 1149 or 1150-1210,http://id.loc.gov/authorities/names/n81070765,human,Fakhr al-Din al-Razi,Q333703,DSNAME806,Q3207
@@ -9679,6 +9796,7 @@ Raymundus de Pennaforte (Raimundus de Pennaforti),author,,,human,Raymond of Peny
 "Refiʻı̂, active 14th century-15th century",author,رفيعي,,human,Refiʻı̂,Q130374965,DSNAME6798,Q54779
 "Regiomontanus, Joannes, 1436-1476",author,,,human,Regiomontanus,Q76365,DSNAME197,Q470
 "Regiomontanus, Joannes, 1436-1476",author,,http://id.loc.gov/authorities/names/n81002844,human,Regiomontanus,Q76365,DSNAME197,Q470
+"Regnault, Eugène, -1933",former owner,,,human,Eugène Regnault,Q3060131,DSNAME8590,Q76707
 "Regnier, Élie, active 1483-1494",associated name,,,human,Élie Régnier,Q41617754,DSNAME5118,Q41563
 "Regnier, Élie, active 1483-1494.",associated name,,,human,Élie Régnier,Q41617754,DSNAME5118,Q41563
 "Reguera, Juan Antonio de la",former owner,,,human,Juan Antonio de la Reguera,Q124566928,DSNAME5119,Q41564
@@ -10066,6 +10184,7 @@ Saint-Mihiel (Benedictine abbey),former owner,,,organization,Saint Mihiel Abbey,
 "Sakhāwī, ʻAlī ibn Tāj al-Dīn, active 17th century",scribe,سخاوي، علي بن تاج الدين، active 17th century,,human,ʻAlī ibn Tāj al-Dīn Sakhāwī,Q131748440,DSNAME7608,Q68218
 "Sakkākī, Yūsuf ibn Abī Bakr, 1160-",author,,,human,Yūsuf ibn Abī Bakr Sakkākī,Q719328,DSNAME6527,Q54158
 "Sakkākī, Yūsuf ibn Abī Bakr, 1160-",author,سكاكي، يوسف بن ابي بكر,,human,Yūsuf ibn Abī Bakr Sakkākī,Q719328,DSNAME6527,Q54158
+Salamah ben Musa ben Yitsḥaḳ,author,,,human,Salamah ben Musa ben Yitsḥaḳ,Q133849468,DSNAME8631,Q76747
 "Salamon, Taddea",author,,,human,Taddea Salamon,Q116576428,DSNAME1633,Q8202
 "Salamona, Shelomo Yedidyah",author,,,human,Shelomo Yedidyah Salamona,Q132798643,DSNAME8508,Q75918
 "Salando, Francescomaria",author,,,human,Francescomaria Salando,Q131623255,DSNAME7225,Q67471
@@ -10112,6 +10231,8 @@ Sam Fogg,former owner,,,organization,Sam Fogg Rare Books & Manuscripts,Q11618981
 "Samson ben Eliezer, active 14th century",author,"שמשון בן אליעזר, active 14th century",,human,Samson ben Eliezer,Q31197317,DSNAME8273,Q75686
 "Samuel, Marochitanus",author,,,human,Samuel Marochitanus,Q18945778,DSNAME5180,Q41625
 Samuel b. Meshullam Gerondi (ca. 1300),author,,,human,Samuel ben Meshullam Gerondi,Q133265999,DSNAME8522,Q75963
+"Samuel ben Hophni, -1013",author,,,human,Samuel ben Hofni,Q457187,DSNAME8540,Q76655
+"Samuel ben Judah, of Marseilles, 1294-",author,,,human,Samuel de Marseille,Q3471276,DSNAME8591,Q76708
 Samuel Frederick Houston,former owner,,,human,Samuel Frederick Houston,Q122873524,DSNAME3013,Q20322
 "Samut, Yaʻaḳov",author,"סמוט, יעקב",,human,Yaʻaḳov Samut,Q132799203,DSNAME8311,Q75723
 "Sanāmī, ʻUmar ibn Muḥammad ibn ʻAwaḍ",author,,,human,ʻUmar ibn Muḥammad ibn ʻAwaḍ Sanāmī,Q17344330,DSNAME7104,Q64034
@@ -10119,6 +10240,7 @@ Samuel Frederick Houston,former owner,,,human,Samuel Frederick Houston,Q12287352
 "Sanāʼī al-Ghaznavī, Abū al-Majd Majdūd ibn Ādam, -approximately 1150",author,سنائي الغزنوى، ابو المجد مجدود بن آدم، -approximately 1150,,human,Sanai,Q1148049,DSNAME6442,Q49313
 "Sanāʼī al-Ghaznavī, Abū al-Majd Majdūd ibn Ādam, -approximately 1150",author,,,human,Sanai,Q1148049,DSNAME6442,Q49313
 "Sanborn, Ashton Rollins",former owner,,,human,Ashton Rollins Sanborn,Q124566936,DSNAME5181,Q41626
+"Sanches, António Nunes Ribeiro, 1699-1783",author,,,human,António Nunes Ribeiro Sanches,Q611232,DSNAME8548,Q76663
 "Sánchez de Arévalo, Rodrigo, 1404-1470",author,,,human,Rodrigo Sánchez de Arévalo,Q2777336,DSNAME7312,Q67558
 "Sánchez de Valladolid, Fernán, active 1325-1348",author,,,human,Fernán Sánchez de Valladolid,Q127510492,DSNAME6062,Q42754
 "Sandayūnī, Aḥmad Ḥijāzī, active 19th century",scribe,سنديوني، احمد حجازي، active 19th century,,human,Aḥmad Ḥijāzī Sandayūnī,Q131748504,DSNAME7694,Q68304
@@ -10241,6 +10363,7 @@ Saʻīd ibn al-Shaykh Aḥmad,former owner,سعيد بن الشيخ احمد،,,
 "Saʻīd ibn Hibat Allāh ibn al-Ḥusayn, 1004-1101",author,,,human,Saʻīd ibn Hibat Allāh ibn al-Ḥusayn,Q22933906,DSNAME800,Q3201
 "Saʻīd ibn Hibat Allāh ibn al-Ḥusayn, 1004-1101",author,,,human,Saʻīd ibn Hibat Allāh ibn al-Ḥusayn,Q22933906,DSNAME800,Q3201
 "Saʻīd ibn Hibat Allāh ibn al-Ḥusayn, 1004-1101",author,"سعيد بن هبة الله بن الحسين, 1004-1101",http://id.loc.gov/authorities/names/n88248346,human,Saʻīd ibn Hibat Allāh ibn al-Ḥusayn,Q22933906,DSNAME800,Q3201
+"Saʻīd ibn Hibat Allāh ibn al-Ḥusayn, 1044-1101",author,"سعيد بن هبة الله بن الحسين, 1004-1101",,human,Saʻīd ibn Hibat Allāh ibn al-Ḥusayn,Q22933906,DSNAME800,Q3201
 "Saʻīrī, ʻUmar ibn Muḥammad, active 1495",scribe,سعيري، عمر بن محمد، active 1495،,,human,ʻUmar ibn Muḥammad Saʻīrī,Q124130524,DSNAME3147,Q27933
 "Saʻūdī, Muḥammad ibn Aḥmad ibn Muḥammad",scribe,,,human,Muḥammad ibn Aḥmad ibn Muḥammad Saʻūdī,Q116192855,DSNAME948,Q3787
 "Saʻūdī, Muḥammad ibn Aḥmad ibn Muḥammad",scribe,سعودي، محمد بن احمد بن محمد,,human,Muḥammad ibn Aḥmad ibn Muḥammad Saʻūdī,Q116192855,DSNAME948,Q3787
@@ -10311,6 +10434,7 @@ Schloss Nordkirchen (Germany),former owner,,,organization,Schloss Nordkirchen,Q6
 "Schwent, Hans",scribe,,,human,Hans Schwent,Q116619680,DSNAME1085,Q4449
 "Schwohe, Johann Christian",former owner,,,human,"Schwohe, Johann Christian",Q123581782,DSNAME2587,Q18635
 "Schøyen, Martin",former owner,,,human,Martin Schøyen,Q6776549,DSNAME2418,Q16717
+Schøyen Collection,former owner,,,organization,Schøyen Collection,Q2380144,DSNAME8533,Q76701
 Scott J. Gwara,former owner,,,human,Scott Gwara,Q112474785,DSNAME5846,Q42319
 "Scottowe, John, -1607",author,,,human,John Scottowe,Q120752975,DSNAME7366,Q67612
 "Scurhoven, Gerard de",scribe,,,human,Gerard de Scurhoven,Q131623299,DSNAME7271,Q67517
@@ -10375,6 +10499,7 @@ Servius 4th cent.,author,,,human,Servius,Q355350,DSNAME5200,Q41645
 "Sessa, Luis Fernández de Córdoba Cardona y Aragón, duque de, 1582-1645",former owner,,,human,Luis Fernández de Córdoba y Aragón,Q97161291,DSNAME1344,Q7285
 "Sessa, Luis Fernández de Córdoba Cardona y Aragón, duque de, 1582-1645",former owner,,http://id.loc.gov/authorities/names/n88258314,human,Luis Fernández de Córdoba y Aragón,Q97161291,DSNAME1344,Q7285
 "Sessa, Luis Fernández de Córdoba Cardona y Aragón, duque de, 1582-1645",former owner,,,human,Luis Fernández de Córdoba y Aragón,Q97161291,DSNAME1344,Q7285
+"Sessa, Luis Fernández de Córdoba Cardona y Aragón, duque de, 1582-1645?",former owner,,,human,Luis Fernández de Córdoba y Aragón,Q97161291,DSNAME1344,Q7285
 "Sessler, Charles",former owner,,,human,Charles Sessler,Q99399771,DSNAME2712,Q20037
 "Seton, Walter",former owner,,,human,Walter Seton,Q96007459,DSNAME2457,Q17666
 "Settala, Ludovico, 1552?-1633",former owner,,http://id.loc.gov/authorities/names/n84805551,human,Ludovico Settala,Q3839144,DSNAME872,Q3273
@@ -10409,6 +10534,7 @@ Sextus Pythagoricus,author,,,human,Sextus Empiricus,Q236594,DSNAME766,Q3167
 Seyyit Mehmet Rıza,author,سيد محمد رضا,,human,Seyyit Mehmet Rıza,Q130374975,DSNAME6811,Q54792
 "Sezaî, 1669-1738",author,سزائي,,human,Hasan Sezai Gülşenî,Q6030513,DSNAME6733,Q54714
 "Sezaî, 1669-1738",author,"سزائي, 1669-1738",,human,Hasan Sezai Gülşenî,Q6030513,DSNAME6733,Q54714
+"Seʻadyah ben Hilel, ha-Leṿi",former owner,,,human,Seʻadyah ben Hilel ha-Leṿi,Q133849473,DSNAME8637,Q76753
 "Sforno, Ḥananel ben Yisʹraʼel",author,"ספורנו, חננאל בן ישראל",,human,Ḥananel ben Yisʹraʼel Sforno,Q132798619,DSNAME8317,Q75729
 Sforza,former owner,,,organization,House of Sforza,Q130858,DSNAME2970,Q20281
 "Sforza, Ascanio Maria, 1455-1505",author,,http://id.loc.gov/authorities/names/no2003010876,human,Ascanio Sforza,Q561411,DSNAME1648,Q8217
@@ -10513,10 +10639,13 @@ Shaykh ʻAbd Allāh,author,,,human,Shaykh ʻAbd Allāh,Q124566945,DSNAME5213,Q41
 "Shaʻrānī, ʻAlī ibn Aḥmad, active 16th century",author,شعراني، علي بن احمد، active 16th century,,human,ʻAlī ibn Aḥmad Shaʻrānī,Q131398945,DSNAME7872,Q68482
 "Shedd, John H",former owner,,,human,John Haskell Shedd,Q89168165,DSNAME5214,Q41659
 "Shelley, Edward",author,,,human,Edward Shelley,Q75826767,DSNAME2557,Q17765
+"Shelomoh ben Eliyah, ha-Melamed, active 13th century",author,,,human,Shelomoh ben Eliyah ha-Melamed,Q133849454,DSNAME8609,Q76726
 Shelomoh ben Yitsḥaḳ,author,שלמה בן יצחק,,human,Rashi,Q26456,DSNAME5816,Q42289
+"Shelomoh ben Yosef, Ḥaver",author,,,human,"Shelomoh ben Yosef, Ḥaver",Q133849458,DSNAME8615,Q76732
 "Shelomoh Zalman ben Moshe, mi-Lisa",author,"שלמה זלמן בן משה, מליסא",,human,Shelomoh Zalman ben Moshe,Q132798617,DSNAME8309,Q75721
 Shem Tov ben Yitzchak Erdutiel,former owner,,,human,Shem Tov ben Yitzchak Erdutiel,Q125930886,DSNAME5850,Q42323
 "Shemuʼel ben Yeḥiʼel Ḥayyim, mi-Ioannina",author,"שמואל בן יחיאל חיים, מינינא",,human,Shemuʼel ben Yeḥiʼel Ḥayyim,Q132799238,DSNAME8498,Q75909
+Shemuʾel ben Hoshaʻna,author,,,human,Shemuʾel ben Hoshaʻna,Q133849460,DSNAME8617,Q76734
 "Shepard, Helen Miller Gould, 1868-",former owner,,,human,Helen Miller Shepard,Q1563645,DSNAME7406,Q67652
 "Shibshīrī, Muḥammad ibn ʻAlī, -1581 or 1582",author,شبشيري، محمد بن علي، -1581 or 1582,http://id.loc.gov/authorities/names/nr00023145,human,Muḥammad ibn ʻAlī Shibshīrī,Q122946978,DSNAME1919,Q12449
 "Shifāʼī, Muẓaffar ibn Muḥammad, -1555 or 1556",author,شفائي، مظفر بن محمد، -1555 or 1556,,human,Muẓaffar ibn Muḥammad Shifāʼī,Q129453300,DSNAME6272,Q49143
@@ -10738,7 +10867,9 @@ Solinus,author,,,human,Gaius Julius Solinus,Q520487,DSNAME5243,Q41688
 "Solinus, C. Julius, active 3rd century",author,,,human,Gaius Julius Solinus,Q520487,DSNAME5243,Q41688
 "Solinus, C. Julius 3rd cent",author,,,human,Gaius Julius Solinus,Q520487,DSNAME5243,Q41688
 "Solinus, C. Julius 3rd cent?",author,,,human,Gaius Julius Solinus,Q520487,DSNAME5243,Q41688
+"Solis-Cohen, Solomon, ǂd 1857-1948",former owner,,,human,Solomon Solis-Cohen,Q18912080,DSNAME8629,Q76745
 "Solomon, King of Israel",supposed author,,,human,Solomon,Q37085,DSNAME6967,Q55376
+"Solomon ben Judah, -1051",author,,,human,Solomon Ben Judah Gaon,Q107084483,DSNAME8624,Q76740
 "Somadeva, 1934-",author,,http://id.loc.gov/authorities/names/n89253449,human,Somdev,Q61940680,DSNAME3455,Q28239
 "Somerset, Charles Seymour, Duke of, 1662-1748",former owner,,http://id.loc.gov/authorities/names/n85311388,human,"Charles Seymour, 6th Duke of Somerset",Q1066062,DSNAME1114,Q5107
 "Somerset, Charles Seymour, Duke of, 1662-1748",former owner,,,human,"Charles Seymour, 6th Duke of Somerset",Q1066062,DSNAME1114,Q5107
@@ -10761,6 +10892,7 @@ Sor Thomas Phillipps (1792-1872),former owner,,,human,Thomas Phillipps,Q2147709,
 Sotheby's,former owner,,,organization,Sotheby's,Q654762,DSNAME2546,Q17754
 Sotheby's (firm),former owner,,,organization,Sotheby's,Q654762,DSNAME2546,Q17754
 "Sotheby & Co. (London, England)",former owner,,,organization,Sotheby's,Q654762,DSNAME2546,Q17754
+Sotheyby & Wilkinson,former owner,,,organization,"Sotheby, Wilkinson & Hodge",Q120442756,DSNAME5603,Q42048
 Sothmann,former owner,,,organization,galerie Sothmann antiquariaat,Q73897765,DSNAME5855,Q42328
 "Soto Posada, Felipe de",former owner,,,human,Felipe de Soto Posada,Q78462303,DSNAME5251,Q41696
 "Soto y Posada, Felipe de",former owner,,,human,Felipe de Soto y Posada,Q124566952,DSNAME5252,Q41697
@@ -10835,6 +10967,7 @@ St. Katerinenkloster,former owner,,,organization,"Katharinenkirche, Nuremberg",Q
 "Stafileo, Giovanni, 1472-1528",author,,http://id.loc.gov/authorities/names/n93011774,human,Giovanni Stafileo,Q12633264,DSNAME1654,Q8223
 "Stafileo, Giovanni, 1472-1528",author,,,human,Giovanni Stafileo,Q12633264,DSNAME1654,Q8223
 "Stamler, Peter, active 1570",author,,,human,Peter Stamler,Q131623262,DSNAME7231,Q67477
+"Stangenwald, Hugo",former owner,,,human,Hugo Stangenwald,Q46483438,DSNAME8568,Q76682
 Stanhope family,former owner,,,organization,Earl of Chesterfield,Q2778272,DSNAME5607,Q42052
 "Stanitz, John D",former owner,,,human,John D. Stanitz,Q114242546,DSNAME104,Q377
 "Stanitz, John D",former owner,,http://id.loc.gov/authorities/names/no89002502,human,John D. Stanitz,Q114242546,DSNAME104,Q377
@@ -10870,6 +11003,7 @@ Stephen Whitney Phoenix (1839-1881).,former owner,,,human,S. Whitney Phoenix,Q94
 "Stevens, Henry, Jr., 1819-1886",former owner,,,human,Henry Stevens,Q15506342,DSNAME7296,Q67542
 "Stevens, Henry, Sr., 1791-1867",former owner,,http://id.loc.gov/authorities/names/nr90008857,human,Henry Stevens,Q94626228,DSNAME5272,Q41717
 "Stevens, Henry Newton, 1855-1930",former owner,,,human,Stevens Henry Newton,Q59626576,DSNAME7297,Q67543
+"Stevens-Cox, James",former owner,,,human,James Stevens-Cox,Q120691965,DSNAME8547,Q76662
 "Stewart, Alexander Bannatyne",former owner,,,human,Alexander Bannatyne Stewart,Q122873529,DSNAME2852,Q20170
 "Stewart, Henry Clark",former owner,,,human,Henry Clark Stewart,Q116250300,DSNAME1080,Q4444
 "Stewart, J. A. 1846-1933",former owner,,http://id.loc.gov/authorities/names/n50022650,human,John Alexander Stewart,Q6218634,DSNAME1079,Q4443
@@ -10880,12 +11014,14 @@ Stift Admont,former owner,,,organization,Admont Abbey,Q667615,DSNAME1435,Q7596
 Stift Admont. Bibliothek,former owner,,,organization,Admont Abbey Library,Q304668,DSNAME2395,Q16695
 Stift Hamersleben,former owner,,,organization,Stift Hamersleben,Q131623281,DSNAME7447,Q67693
 Stift Melk,former owner,,,organization,Melk Abbey,Q660082,DSNAME5608,Q42053
+Stiftsbibliothek Kremsmünster,former owner,,,organization,Stiftsbibliothek Kremsmünster,Q2348727,DSNAME8530,Q76700
 "Stille, Klaus von, active 15th century",author,,,human,Klaus von Stille,Q127510500,DSNAME6074,Q42766
 "Sṭiller, Shemuʼel Pinḥas",author,"שטיללער, שמואל פנחס",,human,Shemuʼel Pinḥas Sṭiller,Q132752914,DSNAME8434,Q75845
 "Stilwell, Brian Douglas",former owner,,,human,Brian Douglas Stilwell,Q123274816,DSNAME2363,Q16664
 "Stirling Maxwell, William, 1818-1878",former owner,,,human,"Sir William Stirling-Maxwell, 9th Baronet",Q334215,DSNAME5273,Q41718
 "Stirton, John, 1871-1944",former owner,,,human,John Stirton,Q120898777,DSNAME5274,Q41719
 "St Monica's Priory, Spetisbury",former owner,,,organization,"St Monica's Priory, Spetisbury",Q7594891,DSNAME2484,Q17693
+"Stoddard, Charles Augustus, 1833-1920",former owner,,,human,Charles Augustus Stoddard,Q94511446,DSNAME8560,Q76674
 "Stonor, Thomas, third Lord Camoys",former owner,,,human,"Thomas Stonor, 3rd Baron Camoys",Q7794220,DSNAME1359,Q7300
 "Stos, Philip",author,,,human,Philip Stos,Q124566956,DSNAME5275,Q41720
 "Stow, John, 1525?-1605",former owner,,http://id.loc.gov/authorities/names/n85310579,human,John Stow,Q1230454,DSNAME5276,Q41721
@@ -11031,6 +11167,7 @@ Swarthmore College,former owner,,,organization,Swarthmore College,Q1378320,DSNAM
 "Symmachus, Quintus Aurelius, approximately 340-402",author,,,human,Quintus Aurelius Symmachus,Q355720,DSNAME7945,Q68555
 "Syon Abbey (Isleworth, London, England)",former owner,,http://id.loc.gov/authorities/names/nr88002550,organization,Syon Abbey,Q7662966,DSNAME5611,Q42056
 Syrian Orthodox Church,author,,,organization,Syriac Orthodox Church,Q210540,DSNAME5612,Q42057
+"Szajkowski, Zosa, 1911-1978",former owner,"שייקאווסקי, ז., 1911־1978",,human,Zosa Szajkowski,Q3576130,DSNAME8541,Q76656
 Sırrı Ali Efendi,author,سرى على افندى,,human,Sırrı Ali Efendi,Q130374934,DSNAME6740,Q54721
 T. Harrison Garrett (d. 1888),former owner,,,human,Thomas Harrison Garrett,Q73896539,DSNAME5290,Q41735
 T. Harrison Garrett (d. 1888).,former owner,,,human,Thomas Harrison Garrett,Q73896539,DSNAME5290,Q41735
@@ -11153,6 +11290,7 @@ Teresa Gomez,former owner,,,human,Teresa Gomez,Q125930891,DSNAME5859,Q42332
 "Terni, Mattatyah Nissim, 1745-approximately 1815",author,"טירני, מתתיה נסים, 1745-approximately 1815",,human,Mattatyah Nissim Terni,Q25492348,DSNAME8471,Q75882
 "Terrell, A. W",former owner,,,human,Alexander W. Terrell,Q1238513,DSNAME2482,Q17691
 "Terry, Roderick, 1849-1933",former owner,,,human,Roderick Terry,Q94139193,DSNAME5303,Q41748
+"Tessier, Andrea, active 1858",former owner,,,human,Andrea Tessier,Q23011967,DSNAME8589,Q76699
 "Testa, Giovanni di Urbano Piccolomini del",author,,,human,Giovanni di Urbano Piccolomini del Testa,Q116619969,DSNAME1644,Q8213
 "Testard, Robinet, active 1475-1531",artist,,http://id.loc.gov/authorities/names/nr98027627,human,Robinet Testard,Q727191,DSNAME5304,Q41749
 Teutonic Knights,author,,http://id.loc.gov/authorities/names/n50068830,human,knight of the Teutonic Order,Q96651577,DSNAME1066,Q4430
@@ -11160,6 +11298,7 @@ Teutonic Knights,author,,,human,knight of the Teutonic Order,Q96651577,DSNAME106
 "Teʼomim, Avraham, a.ba.d Zalishṭshiḳi",author,"תאומים, אברהם, אב""ד זאלישטשיק",,human,Avraham Teʼomim,Q132799187,DSNAME8233,Q75646
 "Thacher, John Boyd, 1847-1909",former owner,,http://id.loc.gov/authorities/names/n89604810,human,John Boyd Thacher I,Q6222761,DSNAME5305,Q41750
 Thaddeus de Parma,author,,,human,Thaddeus of Parma,Q2408399,DSNAME5306,Q41751
+That Guy with the Books,former owner,,,organization,That Guy with the Books,Q133849928,DSNAME8647,Q76764
 "Thaʻālibī, ʻAbd al-Malik ibn Muḥammad, 961 or 962-1037 or 1038",author,ثعالبي، عبد الملك بن محمد، 961 or 962-1037 or 1038,,human,Tha'ālibī,Q1231017,DSNAME1816,Q12346
 "Thaʻālibī, ʻAbd al-Malik ibn Muḥammad, 961 or 962-1037 or 1038",author,ثعالي، عبد المل بن محمد، 961 or 962-1037 or 1038,,human,Tha'ālibī,Q1231017,DSNAME1816,Q12346
 "Thaʻālibī, ʻAbd al-Malik ibn Muḥammad, 961 or 962-1037 or 1038",author,ثعالي، عبد المل بن محمد، 961 or 962-1037 or 1038,,human,Tha'ālibī,Q1231017,DSNAME1816,Q12346
@@ -11347,6 +11486,7 @@ Titus Flavius Josephus,author,,,human,Josephus,Q134461,DSNAME193,Q466
 Titus Livius,author,,,human,Titus Livius,Q2039,DSNAME712,Q1947
 Titus Livius of Forli,author,,https://viaf.org/viaf/79274162,human,Tito Livio Frulovisi,Q2436996,DSNAME2898,Q20214
 Titus Livy,author,,,human,Titus Livius,Q2039,DSNAME712,Q1947
+"Toaff, Ariel, 1942-",former owner,"טואף, אריאל, בעלים קודמים",,human,Ariel Toaff,Q659340,DSNAME8535,Q76650
 "Todd, Albert May, 1850-1931",former owner,,http://id.loc.gov/authorities/names/n95016564,human,Albert M. Todd,Q2638433,DSNAME1062,Q4426
 "Todd, Albert May, 1850-1931",former owner,,,human,Albert M. Todd,Q2638433,DSNAME1062,Q4426
 "Todd, James Henthorn, 1805-1869",former owner,,,human,James Henthorn Todd,Q6135937,DSNAME1065,Q4429
@@ -11388,7 +11528,9 @@ Torquato Tasso,author,,,human,Torquato Tasso,Q168962,DSNAME5297,Q41742
 "Trabotto, Yeḥiʼel ben ʻAzriʼel",author,"טרבוט, יחיאל בן עזריאל",,human,Yeḥiʼel ben ʻAzriʼel Trabotto,Q132798597,DSNAME8156,Q75573
 "Traces of a library stamp on f. 1. Acquired from Robson and Kerslake (according to de Ricci) by Daniel B. Fearing of Newport, Rhode Island who gave it to the Grolier Club in 1908",former owner,,,organization;human,Robson & Kerslake;Daniel B. Fearing,Q116626228;Q76009758,DSNAME269;DSNAME270,Q882;Q883
 "Traces of a library stamp on f. 1. Acquired from Robson and Kerslake (according to de Ricci) by Daniel B. Fearing of Newport, Rhode Island who gave it to the Grolier Club in 1908.",former owner,,,organization;human,Robson & Kerslake;Daniel B. Fearing,Q116626228;Q76009758,DSNAME269;DSNAME270,Q882;Q883
+"Tracy, William, 1807-1877",former owner,,,human,William Tracy,Q133839473,DSNAME8570,Q76684
 "Traiecto, Petrus de",scribe,,,human,Petrus de Traiecto,Q114242494,DSNAME163,Q436
+"Trani, Joseph ben Moses, 1568-1639",author,,,human,Joseph Trani,Q633076,DSNAME8598,Q76715
 "Trapnell, Alfred",former owner,,,human,Alfred Trapnell,Q120691931,DSNAME2881,Q20198
 "Trau, Franz, 1842-1905",former owner,,,human,Franz Trau,Q98834877,DSNAME2403,Q16703
 "Traversari, Ambrogio 1386-1439",author,,,human,Ambrose Traversari,Q458842,DSNAME3693,Q40138
@@ -11520,6 +11662,7 @@ United States Naval Academy,former owner,,,organization,United States Naval Acad
 "Università de' mercanti (Florence, Italy)",author,,,organization,Uffizio della mercanzia of Florence,Q116709749,DSNAME1152,Q5144
 "Università de' mercanti (Siena, Italy)",author,,,organization,Università de' mercanti (Siena),Q116710000,DSNAME1603,Q8094
 "Università de' mercanti (Siena, Italy)",author,,,organization,Università de' mercanti (Siena),Q116710000,DSNAME1603,Q8094
+Università di Padova,author,,,organization,University of Padua,Q193510,DSNAME8621,Q76762
 Universität Wien. Kollegium St. Nikolaus,author,,,organization,Kollegium Sankt Nikolaus,Q1310128,DSNAME5615,Q42060
 Universität Wien. Orientalisches Institut,former owner,,,organization,Institut für Orientalistik (Universität Wien),Q116706885,DSNAME971,Q3810
 Universität Wien. Orientalisches Institut,former owner,,http://id.loc.gov/authorities/names/n81108646,organization,Institut für Orientalistik (Universität Wien),Q116706885,DSNAME971,Q3810
@@ -11713,6 +11856,8 @@ Vergil (Publius Vergilius Maro),author,,,human,Virgil,Q1398,DSNAME1554,Q6128
 "Verherent, Antonius",author,,,human,Antonius Verherent,Q123378492,DSNAME2539,Q17747
 "Verliot, Petrus",scribe,,,human,Petrus Verliot,Q124566971,DSNAME5371,Q41816
 "Vernoils, Joham de",author,,,human,Joham de Vernoils,Q116648135,DSNAME1585,Q8076
+"Vernon, Baron, 1889-1963",former owner,,,human,"Francis Venables-Vernon, 9th Lord Vernon, Baron of Kinderton",Q75282367,DSNAME8559,Q76673
+"Vernon, Francis William Lawrance Venables",former owner,,,human,Francis William Lawrance Venables-Vernon,Q133598117,DSNAME8558,Q76672
 "Vernon, G. J. Warren Baron, 1803-1866",former owner,,,human,"George Venables-Vernon, 5th Baron Vernon",Q5545476,DSNAME252,Q856
 "Vernon, George John Warren, 1803-1866",former owner,,,human,"George Venables-Vernon, 5th Baron Vernon",Q5545476,DSNAME252,Q856
 "Vernon, George John Warren, 5th baron, 1803-1866",former owner,,,human,"George Venables-Vernon, 5th Baron Vernon",Q5545476,DSNAME252,Q856
@@ -11725,6 +11870,7 @@ Vergil (Publius Vergilius Maro),author,,,human,Virgil,Q1398,DSNAME1554,Q6128
 "Verstegen, Richard ca. 1550-1640",author,,,human,Richard Rowlands,Q656317,DSNAME5374,Q41819
 "Verstegen, Richard ca. 1550-1640.",author,,,human,Richard Rowlands,Q656317,DSNAME5374,Q41819
 "Veruela (Monastery : Tarazona de Aragón, Spain)",author,,,organization,Veruela Abbey,Q125335,DSNAME5617,Q42062
+"Vesalius, Andreas, 1514-1564",author,,,human,Andreas Vesalius,Q170267,DSNAME8549,Q76664
 Vesconte Maggiolo,author,,,human,Visconte Maggiolo,Q2521066,DSNAME4737,Q41182
 "Vestri, Michele",scribe,,,human,Michele Vestri,Q116648473,DSNAME1291,Q7039
 "Vettori, Pietro, 1499-1585",author,,,human,Piero Vettori,Q784373,DSNAME1592,Q8083
@@ -11863,6 +12009,7 @@ Walerand ap Adam,author,,,human,Walerand ap Adam,Q114242491,DSNAME1277,Q6156
 "Walker, Thomas Shadford, 1834-1885",former owner,,,human,Thomas Shadford Walker,Q114242411,DSNAME2737,Q20060
 "Walker, W. P. Hall",former owner,,,human,W. P. Hall Walker,Q124566974,DSNAME5389,Q41834
 "Wall, Herman van de, 1672-1733",former owner,,,human,Hermann van de Wall,Q113821077,DSNAME5390,Q41835
+"Wall, Thomas, 1504-1536",former owner,,,human,Thomas Wall,Q98137446,DSNAME8576,Q76688
 "Wallace, Walter Thomas",former owner,,,human,Walter Thomas Wallace,Q116784946,DSNAME583,Q1818
 "Waller, John, sacristan of Battle Abbey",scribe,,,human,John Waller,Q124380446,DSNAME5391,Q41836
 "Wallfahrtskirche zur Heiligsten Dreifaltigkeit (Gössweinstein, Germany)",former owner,,,organization,Basilica Gößweinstein,Q810087,DSNAME1988,Q12802
@@ -11905,6 +12052,7 @@ Walter Raglan Hubbard (1890),former owner,,,human,Walter Raglan Hubbard,Q1142424
 "Warrāq, Muḥammad ibn ʻAbd al-ʻAzīz, -1281",author,وراق، محمد بن عبد العزيز، -1281,,human,Muḥammad ibn ʻAbd al-ʻAzīz Warrāq,Q131398867,DSNAME7609,Q68219
 "Wasey, George Leigh",former owner,,,human,William George Leigh Wasey,Q75941064,DSNAME2475,Q17684
 "Waṣfī, Adʹham Nūrī",former owner,وصفي، ادهم نوري.,,human,Adʹham Nūrī Waṣfī,Q123581788,DSNAME2608,Q18656
+"Washburn, G. T.",former owner,,,human,G. T. Washburn,Q133839474,DSNAME8571,Q76685
 "Wāsiṭī, Muḥammad ibn Jaysh, active 12th century",scribe,واسطي، محمد بن جيش، active 12th century,,human,Muḥammad ibn Jaysh Wāsiṭī,Q131748524,DSNAME7731,Q68341
 Wasservas,former owner,,,human,Wasservas,Q123274821,DSNAME2170,Q16478
 "Wassonius, Natalis",scribe,,,human,Natalis Wassonius,Q116650025,DSNAME1444,Q7605
@@ -12035,6 +12183,7 @@ William of Ockham ca. 1285-ca. 1349.,author,,,human,William of Ockham,Q43936,DSN
 "William of Waddington, attributed to",author,,,human,William of Waddington,Q3568227,DSNAME5411,Q41856
 William Peraldus,author,,,human,William Perault,Q8016774,DSNAME1161,Q5152
 William Poul of Pagula,author,,,human,William of Pagula,Q8020898,DSNAME1485,Q7646
+William Ralph Inge (1860-1954),former owner,,,human,William Ralph Inge,Q5823132,DSNAME8573,Q76687
 William Redman,other,,,human,William Redman,Q8017426,DSNAME5418,Q41863
 "Williams, Edward H.",former owner,,,human,Edward H. Williams,Q15995588,DSNAME8102,Q68806
 "Williams, John Camp, 1859?-1929",former owner,,http://id.loc.gov/authorities/names/nr97034499,human,John Camp Williams,Q111383985,DSNAME1583,Q8074
@@ -12058,6 +12207,7 @@ William Trench,former owner,,,human,William Trench,Q125930900,DSNAME5880,Q42353
 "Wimpheling, Jakob, 1450-1528",author,,,human,Jakob Wimpfeling,Q71848,DSNAME7372,Q67618
 "Winans, Ross, 1850-1912",former owner,,http://id.loc.gov/authorities/names/no2018110064,human,Ross Winans,Q124380449,DSNAME5425,Q41870
 "Windus, Thomas, 1778-1854",former owner,,,human,Thomas Windus,Q109859298,DSNAME5426,Q41871
+"Winestine, Norman, 1895-1986",former owner,,,human,Norman Winestine,Q133849457,DSNAME8613,Q76730
 "Wing, C. W. (Charles William), active 1826-1860",artist,,,human,Charles William Wing,Q115182706,DSNAME2865,Q20182
 "Wing, C. W. (Charles William) fl. 1826-1860",author,,,human,Charles William Wing,Q115182706,DSNAME2865,Q20182
 "Wing, C. W. (Charles William) fl. 1826-1860.",author,,,human,Charles William Wing,Q115182706,DSNAME2865,Q20182
@@ -12077,6 +12227,7 @@ Winifred A. Myers (Autographs) Ltd,former owner,,,organization,Winifred A. Myers
 Wolfram von Eschenbach 12th cent,author,,,human,Wolfram von Eschenbach,Q18821,DSNAME5430,Q41875
 Wolfram von Eschenbach 12th cent.,author,,,human,Wolfram von Eschenbach,Q18821,DSNAME5430,Q41875
 "Wollaston, W",former owner,,,human,W. Wollaston,Q124566979,DSNAME5431,Q41876
+"Wood, Casey A. 1856-1942",former owner,,,human,Casey Albert Wood,Q2751498,DSNAME8545,Q76660
 "Woodin, William Hartmann",former owner,,,human,William H. Woodin,Q2031553,DSNAME5432,Q41877
 "Woodward, Margaret F",former owner,,,human,Margaret F. Woodward,Q123274823,DSNAME2232,Q16535
 "Woodward, Thomas, active 17th century",former owner,,,human,Thomas Woodward,Q63410216,DSNAME2263,Q16566
@@ -12155,6 +12306,7 @@ Yājñavalkya,author,,http://id.loc.gov/authorities/names/n50016743,human,Yajnav
 "Yamanī, Muḥammad, active 18th century",scribe,يمني، محمد، active 18th century,,human,Muḥammad Yamanī,Q131748474,DSNAME7662,Q68272
 "Yamanī, Muḥammad ibn Jābir, active 18th century",scribe,يمني، محمد بن جابر، active 18th century,,human,Muḥammad ibn Jābir Yamanī,Q131748554,DSNAME7780,Q68390
 "Yang, Jue, 1493-1549",author,"楊爵, 1493-1549",http://id.loc.gov/authorities/names/nr96021158,human,Yang Jue,Q11101888,DSNAME2035,Q12844
+Yannai,author,,,human,Yanai,Q454433,DSNAME8544,Q76659
 "Yao, Guangxiao, 1335-1419",author,"姚廣孝, 1335-1419",http://id.loc.gov/authorities/names/n87873474,human,Yao Guang Xiao,Q10943311,DSNAME2032,Q12841
 "Yashkhūnī, Yūsuf ibn Aḥmad al-Sawwāq, active 18th century",scribe,يشخوني، يوسف بن احمد السواق، active 18th century,,human,Yūsuf ibn Aḥmad al-Sawwāq Yashkhūnī,Q131748652,DSNAME7918,Q68528
 Yāska,author,,http://id.loc.gov/authorities/names/n85210711,human,Yāska,Q993504,DSNAME3280,Q28064
@@ -12171,7 +12323,10 @@ Yāska,author,,http://id.loc.gov/authorities/names/n85210711,human,Yāska,Q99350
 Yazıcı Salahuddin,author,يازجى صلاح الدين,,human,Yazıcı Salahuddin,Q130375066,DSNAME6940,Q54921
 Yaʻaḳov ben Yehudah Ben ʻAṭar,author,,,human,Ya'aḳov ben Yehudah Ben 'Aṭar,Q125930901,DSNAME5881,Q42354
 "Yaʻqūb ibn Khiḍr, d. 1480",author,,,human,Hayreddin Barbarossa,Q200582,DSNAME7023,Q63953
+"Yefet ben Daṿid, -1057",scribe,,,human,Yefet ben Daṿid,Q133849445,DSNAME8594,Q76711
+"Yeḥezḳel ben ʻAli, ha-Kohen, active 11th century",author,,,human,Yeḥezḳel ben ʻAli ha-Kohen,Q133849465,DSNAME8625,Q76741
 Yehuda Elmaleh,author,,,human,Yehuda Elmaleh,Q125930911,DSNAME5892,Q42365
+"Yehudah ben Eliyahu, ha-Zaḳen",author,,,human,Yehudah ben Eliyahu ha-Zaḳen,Q133849466,DSNAME8627,Q76743
 Yehudah ben Noaḥ,author,יהודה בן נח,,human,Yehudah ben Noaḥ,Q132799207,DSNAME8360,Q75772
 "Yemeniz, Nicolas, 1775-1871",former owner,,,human,Nicolas Yemeniz,Q54517667,DSNAME2132,Q16444
 "Yerushalmi, Avraham ben Yoshiahu, 1685-1734",author,"ירושלמי, אברהם בן יאשיהו, 1685-1734",,human,Abraham ben Josiah Yerushalmi,Q132798395,DSNAME8163,Q75580
@@ -12180,6 +12335,8 @@ Yehudah ben Noaḥ,author,יהודה בן נח,,human,Yehudah ben Noaḥ,Q132799
 Yesolah Daṿid,author,"יסולה, דוד",,human,Yesolah Daṿid,Q132799234,DSNAME8483,Q75894
 "Yin, Kui, 1331-1376",author,"殷奎, 1331-1376",http://id.loc.gov/authorities/names/no2002094437,human,Yin Kui,Q45424247,DSNAME2034,Q12843
 "Yisʹrael Avraham, a.b.d Satanow",author,"ישראל אברהם, אב""ד סטינוב",,human,Yisʹrael Avraham,Q132799222,DSNAME8435,Q75846
+Yitsḥaḳ ben Aharon Sigilmasi,author,,,human,Yitsḥaḳ ben Aharon Sigilmasi,Q133849451,DSNAME8606,Q76723
+"Yitsḥaḳ ben Benvenishti, active 12th century",author,,,human,Yitsḥaḳ ben Benvenishti,Q133849472,DSNAME8636,Q76752
 Yitsḥaḳ ben Daṿid,author,יצחק בן דוד,,human,Daṿid ben Yitsḥaḳ,Q118917122,DSNAME8260,Q75673
 "Yitsḥaḳ ben Moshe, mi- Verona",author,"יצחק בן משה, מוירונה",,human,Yitsḥaḳ ben Moshe,Q132799204,DSNAME8313,Q75725
 "Yitzhak ben Mordekhai, Kimhi",author,,,human,Kimhi Yitzhak ben Mordekhai,Q132798630,DSNAME8420,Q75831
@@ -12193,10 +12350,12 @@ Yosef ben Avigdor,author,יוסף בן אביגדור,,human,Yosef ben Avigdor,Q
 Yosef ben Avraham,author,יוסף בן אברהם,,human,Avraham Ben-Yosef,Q7019290,DSNAME8191,Q75605
 Yosef Ben Said Algridi,scribe,,,human,Yosef Ben Said Algridi,Q125930914,DSNAME5894,Q42367
 Yosef Ben Said Altanami,former owner,,,human,Yosef Ben Said Altanami,Q125930915,DSNAME5895,Q42368
+"Yosef ben Shelomoh, ha-Kohen, active 11th century",scribe,,,human,Yosef ben Shelomoh ha-Kohen,Q133849471,DSNAME8634,Q76750
 Yosef ben Shem Ṭov be yeshuʻah Ḥay,author,יוסף בן שם טוב בן ישועה חי,,human,Yosef ben Shem Ṭov ben Yeshuʻah Ḥai,Q132798373,DSNAME8367,Q75779
 Yosef ben Shmuel Zabri,former owner,,,human,Yosef ben Shmuel Zabri,Q125930916,DSNAME5896,Q42369
 Yosef ibn Ḥassan,author,יוסף אבן חסן,,human,Yosef ibn Ḥassan,Q132799212,DSNAME8377,Q75789
 Yosef Shab,scribe,,,human,Yosef Shab,Q125930917,DSNAME5897,Q42370
+"Yoshayah ben Neḥemyah, ha-Ḥazan",author,,,human,Yoshayah ben Neḥemyah ha-Ḥazan,Q133849453,DSNAME8608,Q76725
 "Young, Owen D., 1874-1962",former owner,,,human,Owen D. Young,Q944509,DSNAME5443,Q41888
 "Ysermans, Petrus",former owner,,,human,Petrus Ysermans,Q122873546,DSNAME2856,Q20173
 Ysidorus,scribe,,,human,Isidorus,Q11714977,DSNAME1128,Q5121
