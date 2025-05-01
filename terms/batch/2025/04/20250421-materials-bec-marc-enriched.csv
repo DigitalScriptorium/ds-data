@@ -1,6 +1,6 @@
-File,material_as_recorded,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
-20250421-materials-bec-marc.csv,portrait,,,,,,
-20250421-materials-bec-marc.csv,vellum,,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
-20250421-materials-bec-marc.csv,color illustrations,,,,,,
-20250421-materials-bec-marc.csv,"vellum (manuscript leaf), paper (accompanying letter)",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31,,,
-20250421-materials-bec-marc.csv,"vellum, color illustrations",,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+material_as_recorded,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+portrait,,,,,,
+vellum,,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+color illustrations,,,,,,
+"vellum (manuscript leaf), paper (accompanying letter)",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31,,,
+"vellum, color illustrations",,,,parchment,http://vocab.getty.edu/aat/300011851,Q33

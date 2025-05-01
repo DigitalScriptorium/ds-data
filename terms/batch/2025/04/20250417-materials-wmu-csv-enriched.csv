@@ -1,5 +1,5 @@
-File,material_as_recorded,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
-20250417-materials-wmu-csv.csv,paper,,,,paper,http://vocab.getty.edu/aat/300014109,Q31
-20250417-materials-wmu-csv.csv,parchment,,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
-20250417-materials-wmu-csv.csv,"vellum, illustrations",parchment,http://vocab.getty.edu/aat/300011851,Q33,,,
-20250417-materials-wmu-csv.csv,palm leaf (material),palm leaf,http://vocab.getty.edu/aat/300011894,Q30,,,
+material_as_recorded,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+paper,,,,paper,http://vocab.getty.edu/aat/300014109,Q31
+parchment,,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+"vellum, illustrations",parchment,http://vocab.getty.edu/aat/300011851,Q33,,,
+palm leaf (material),palm leaf,http://vocab.getty.edu/aat/300011894,Q30,,,
