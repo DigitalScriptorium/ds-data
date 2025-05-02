@@ -1,0 +1,42 @@
+subject_as_recorded,vocab,subfield_codes,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Illumination of books and manuscripts--Specimens,0,a--v,,,,,Illumination of books and manuscripts;Specimens,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1423861,Q272;Q239
+Manuscripts--Specimens,0,a--v,,Manuscripts;Specimens,http://id.worldcat.org/fast/1008230;http://id.worldcat.org/fast/1423861,Q38609;Q239,,,
+"Manuscripts, Latin (Medieval and modern)--Specimens",0,a--v,,,,,"Manuscripts, Latin (Medieval and modern);Specimens",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1423861,Q10783;Q239
+"Manuscripts, Latin--New York (State)--Buffalo",0,a--z--z,,"Manuscripts, Latin;New York (State)--Buffalo",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/1205730,Q210;Q100362,,,
+Antiphonaries,0,a,,,,,Antiphonaries,http://id.worldcat.org/fast/810657,Q4306
+Music--Manuscripts,0,a--x,,,,,Music--Manuscripts,http://id.worldcat.org/fast/1030385,Q4764
+"Manuscripts, Latin--Specimens",0,a--v,,,,,"Manuscripts, Latin;Specimens",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/1423861,Q210;Q239
+"Manuscripts, Medieval--Specimens",0,a--v,,,,,"Manuscripts, Medieval;Specimens",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1423861,Q325;Q239
+Antiphonaries,fast,a,(OCoLC)fst00810657,,,,Antiphonaries,http://id.worldcat.org/fast/810657,Q4306
+"Manuscripts, Latin",fast,a,(OCoLC)fst01008395,,,,"Manuscripts, Latin",http://id.worldcat.org/fast/1008395,Q210
+"Manuscripts, Medieval",fast,a,(OCoLC)fst01008422,,,,"Manuscripts, Medieval",http://id.worldcat.org/fast/1008422,Q325
+Music,fast,a,(OCoLC)fst01030269,,,,Music,http://id.worldcat.org/fast/1030269,Q287
+New York (State)--Buffalo,fast,a--z,(OCoLC)fst01205730,New York (State)--Buffalo,http://id.worldcat.org/fast/1205730,Q100362,,,
+Graduals (Chants),0,a,,,,,Graduals (Chants),http://id.worldcat.org/fast/1761754,Q4137
+Illumination of books and manuscripts,fast,a,(OCoLC)fst00967235,,,,Illumination of books and manuscripts,http://id.worldcat.org/fast/967235,Q272
+Breviaries,0,a,,,,,Breviaries,http://id.worldcat.org/fast/838495,Q3593
+Breviaries,fast,a,(OCoLC)fst00838495,,,,Breviaries,http://id.worldcat.org/fast/838495,Q3593
+Illumination of books and manuscripts,0,a,,,,,Illumination of books and manuscripts,http://id.worldcat.org/fast/967235,Q272
+Manuscripts--New York (State)--Buffalo,0,a--z--z,,Manuscripts;New York (State)--Buffalo,http://id.worldcat.org/fast/1008230;http://id.worldcat.org/fast/1205730,Q38609;Q100362,,,
+Manuscripts,fast,a,(OCoLC)fst01008230,,,,Manuscripts,http://id.worldcat.org/fast/1008230,Q38609
+Missals,0,a,,Missals,http://id.worldcat.org/fast/1023680,Q4233,,,
+"Manuscripts, Latin--15th century",0,a--y,,"Manuscripts, Latin;Fifteenth century",http://id.worldcat.org/fast/1008395;http://id.worldcat.org/fast/923962,Q210;Q154,,,
+Missals,fast,a,(OCoLC)fst01023680,,,,Missals,http://id.worldcat.org/fast/1023680,Q4233
+1400-1499,fast,a,,,,,Fifteenth century,http://id.worldcat.org/fast/923962,Q154
+"Manuscripts, Medieval--New York (State)--Buffalo",0,a--z--z,,"Manuscripts, Medieval;New York (State)--Buffalo",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1205730,Q325;Q100362,,,
+Liturgics,fast,a,(OCoLC)fst01000579,,,,Liturgics,http://id.worldcat.org/fast/1000579,Q207
+Canon law--Manuscripts,0,a--x,,Canon law--Manuscripts,http://id.worldcat.org/fast/845922,Q100363,,,
+Canon law--Commentaries,0,a--v,,Canon law;Commentaries,http://id.worldcat.org/fast/845910;http://id.worldcat.org/fast/1423723,Q204;Q2812,,,
+Canon law,fast,a,(OCoLC)fst00845910,,,,Canon law,http://id.worldcat.org/fast/845910,Q204
+Graduals (Chants),fast,a,(OCoLC)fst01761754,,,,Graduals (Chants),http://id.worldcat.org/fast/1761754,Q4137
+Sequentiaries,0,a,,Sequentiaries,http://id.worldcat.org/fast/1112898,Q100364,,,
+Hymnals,0,a,,Hymns,http://id.worldcat.org/fast/965486,Q48655,,,
+Music--Manuscripts,0,a--v,,,,,Music;Manuscripts,http://id.worldcat.org/fast/1030269;http://id.worldcat.org/fast/1424060,Q287;Q331
+Breviaries--Italy--Specimens,0,a--z--v,,Breviaries;Italy;Specimens,http://id.worldcat.org/fast/838495;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1423861,Q3593;Q249;Q239,,,
+"Manuscripts, French--Specimens",0,a--v,,,,,"Manuscripts, French;Specimens",http://id.worldcat.org/fast/1008338;http://id.worldcat.org/fast/1423861,Q319;Q239
+"Manuscripts, Dutch--Specimens",0,a--v,,"Manuscripts, Dutch;Specimens",http://id.worldcat.org/fast/1008323;http://id.worldcat.org/fast/1423861,Q5931;Q239,,,
+"Manuscripts, Dutch",fast,a,(OCoLC)fst01008323,,,,"Manuscripts, Dutch",http://id.worldcat.org/fast/1008323,Q5931
+"Manuscripts, French",fast,a,(OCoLC)fst01008338,,,,"Manuscripts, French",http://id.worldcat.org/fast/1008338,Q319
+Liturgies,0,a,,,,,Liturgies,http://id.worldcat.org/fast/1000586,Q18305
+Prayer books,0,a,,,,,Prayer books,http://id.worldcat.org/fast/1074734,Q12535
+"Manuscripts, Latin (Medieval and modern)",0,a,,,,,"Manuscripts, Latin (Medieval and modern)",http://id.worldcat.org/fast/1008399,Q10783
