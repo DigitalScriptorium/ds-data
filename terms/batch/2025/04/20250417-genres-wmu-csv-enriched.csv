@@ -1,0 +1,9 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+detached leaves,ds-genre,,detached leaves,http://vocab.getty.edu/aat/300379890,Q2954,,,
+books of hours,ds-genre,,,,,books of hours,http://vocab.getty.edu/aat/300026457,Q3618
+fragments (object portions),ds-genre,,,,,fragments (object portions),http://vocab.getty.edu/aat/300117130,Q222
+Genealogy,ds-genre,,genealogies (histories),http://vocab.getty.edu/aat/300027015,Q141,,,
+Heraldry,ds-genre,,heraldry,http://vocab.getty.edu/aat/300077808,Q100386,,,
+Detached leaves,ds-genre,,detached leaves,http://vocab.getty.edu/aat/300379890,Q2954,,,
+Incunabula,ds-genre,,incunabula (books),http://vocab.getty.edu/aat/300055021,Q100387,,,
+Palm-leaf manuscripts,ds-genre,,palm-leaf manuscripts,http://vocab.getty.edu/aat/300451691,Q66735,,,
