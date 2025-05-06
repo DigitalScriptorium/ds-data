@@ -1,0 +1,7 @@
+name_as_recorded,role,name_agr,source_authority_uri,instance_of_add,authorized_label_add,structured_value_add,ds_id_add,ds_qid_add,instance_of,authorized_label,structured_value,ds_qid
+Catholic Church,author,,http://viaf.org/viaf/130782063,,,,,,organization,Catholic Church,Q9592,Q425
+"Elson, Louis Charles, 1848-1920",former owner,,,human,Louis Charles Elson,Q4531342,DSNAME8655,Q100381,,,,
+"Clement V, Pope, approximately 1260-1314",author,,https://viaf.org/viaf/100213157,,,,,,human,Clement V,Q131463,Q20141
+"Frédol, Bérenger, -1323",author,,,human,Bérenger de Frédol,Q108450181,DSNAME8656,Q100382,,,,
+Catholic Church. Liturgy and ritual. Processional,author,,,organization,Catholic Church,Q9592,DSNAME152,Q425,,,,
+"Ege, Otto F",author,,http://id.loc.gov/authorities/names/no99020371,,,,,,human,Otto Ege,Q7109575,Q808

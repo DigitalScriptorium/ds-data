@@ -1,0 +1,8 @@
+name_as_recorded,role,name_agr,source_authority_uri,instance_of_add,authorized_label_add,structured_value_add,ds_id_add,ds_qid_add,instance_of,authorized_label,structured_value,ds_qid
+"Simon, de Cremona, -1390",author,,,,,,,,human,Simon of Cremona,Q16205160,Q41674
+"Misnensis, Caspar",scribe,,,human,Caspar Misnensis,Q124515268,DSNAME3955,Q40400,,,,
+"Hugh, of Saint-Victor, 1096?-1141",author,,,,,,,,human,Hugh of Saint Victor,Q317554,Q1511
+Catholic Church,author,,http://viaf.org/viaf/130782063,,,,,,organization,Catholic Church,Q9592,Q425
+"Melber, Johannes, active 15th century",author,,,human,Johannes Melber,Q131864180,DSNAME8657,Q100383,,,,
+"Husner, Georg, -1505 (contributor)",author,,,human,Georg Husner,Q55124776,DSNAME8658,Q100384,,,,
+Firdawsi?,author,,,human,Ferdowsi,Q43459,DSNAME2643,Q18691,,,,

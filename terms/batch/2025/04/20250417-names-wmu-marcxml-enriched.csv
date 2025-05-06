@@ -1,0 +1,39 @@
+name_as_recorded,role,name_agr,source_authority_uri,instance_of_add,authorized_label_add,structured_value_add,ds_id_add,ds_qid_add,instance_of,authorized_label,structured_value,ds_qid
+"Cicero, Marcus Tullius",author,,http://id.loc.gov/authorities/names/n79032166,,,,,,human,Cicero,Q1541,Q1813
+Catholic Church,author,,http://viaf.org/viaf/130782063,,,,,,organization,Catholic Church,Q9592,Q425
+"Giorgio, d'Alemagna, active 1441-1476",illuminator,,,,,,,,human,Giorgio d'Alemagna,Q3106916,Q1103
+"Este, Leonello d', 1407-1450",former owner,,,,,,,,human,"Leonello d'Este, Marquis of Ferrara",Q1379797,Q1105
+"Llangattock, John Allan Rolls, Baron , 1837-1912",former owner,,,,,,,,human,"John Rolls, 1st Baron Llangattock",Q1101328,Q27880
+"Isidore, of Seville, Saint, -636",author,,http://id.loc.gov/authorities/names/n80139470,,,,,,human,Isidore of Seville,Q166876,Q428
+"Caesarius, of Arles, Saint, 470?-542",author,,,,,,,,human,Caesarius of Arles,Q304832,Q27881
+"Eucherius, of Lyon, Saint, -449?",author,,,human,Eucherius of Lyon,Q671419,DSNAME3095,Q27882,,,,
+"Eusebius, of Caesarea, Bishop of Caesarea, approximately 260-approximately 340",author,,http://id.loc.gov/authorities/names/n79150225,,,,,,human,Eusebius of Caesarea,Q142999,Q899
+"Augustine, of Hippo, Saint, 354-430",author,,,,,,,,human,Augustine of Hippo,Q8018,Q1515
+"Hugh, of Saint-Victor, 1096?-1141",author,,,,,,,,human,Hugh of Saint Victor,Q317554,Q1511
+"Benedict XII, Pope, -1342",author,,,,,,,,human,Benedict XII,Q170389,Q27883
+"Urban V, Pope, 1310-1370",author,,,,,,,,human,Urban V,Q133046,Q27884
+"Faustus, of Riez, active 5th century",author,,,,,,,,human,Faustus of Riez,Q2351792,Q27885
+Livy,author,,,,,,,,human,Titus Livius,Q2039,Q1947
+"Curlo, Giacomo, active 1423-1467",scribe,,,,,,,,human,Giacomo Curlo,Q88467297,Q27886
+"Ege, Otto F",former owner,,http://id.loc.gov/authorities/names/no99020371,,,,,,human,Otto Ege,Q7109575,Q808
+Coptic Church,author,,http://id.loc.gov/authorities/names/n79107736,,,,,,organization,Coptic Orthodox Church,Q198998,Q4389
+"Cambron Abbey (Brugelette, Belgium)",author,,,,,,,,organization,Cambron Abbey,Q948743,Q1592
+"Oglerio, di Lucedio, -1214",author,,,,,,,,human,Oglerio di Lucedio,Q3881214,Q27870
+Catholic Church. Pope (1471-1484 : Sixtus IV),author,,,,,,,,organization;human,Catholic Church;Sixtus IV,Q9592;Q163514,Q425;Q16716
+"Jacobus, de Voragine, approximately 1229-1298",author,,,,,,,,human,Jacobus de Voragine,Q313460,Q7339
+"Pope, Joseph, 1921-",former owner,,,,,,,,human,Joseph Pope,Q120869143,Q27871
+"Fogg, Sam",former owner,,,,,,,,organization,Sam Fogg Rare Books & Manuscripts,Q116189818,Q27872
+Catholic Church. Pope (1254-1261 : Alexander IV),author,,,,,,,,organization;human,Catholic Church;Alexander IV,Q9592;Q169915,Q425;Q27873
+"Gregory I, Pope, approximately 540-604",author,,,,,,,,human,Gregory I,Q42827,Q889
+"Charles, Duke of Burgundy, 1433-1477",author,,,,,,,,human,Charles the Bold,Q151120,Q27874
+"Charles VI, King of France, 1368-1422",author,,,,,,,,human,Charles VI of France,Q160349,Q27875
+"Charles V, King of France, 1338-1380",author,,,,,,,,human,Charles V of France,Q167782,Q27876
+"Babington, William, Sir, approximately 1370-1454",author,,,,,,,,human,William Babington,Q8004897,Q27877
+"Bernardus, Abbot of Monte Cassino, -1282",author,,,,,,,,human,Bernhard Ayglerius,Q622900,Q27878
+"Vincent, of Beauvais, -1264",author,,,,,,,,human,Vincent of Beauvais,Q455162,Q381
+"Bottoni, Bernardo, -1266",author,,"http://viaf.org/viaf/88059068/#Bottoni,_Bernardo,_-1266.",,,,,,human,Bernard of Botone,Q942419,Q20149
+"Peter Lombard, Bishop of Paris, approximately 1100-1160",author,,,,,,,,human,Peter Lombard,Q315347,Q1124
+"Paschasius Radbertus, Saint, 786-approximately 860",author,,,,,,,,human,Paschasius Radbertus,Q654858,Q838
+"Hauchamps, Jean-Baptiste",author,,,,,,,,human,Jean-Baptiste Hauchamps,Q123910022,Q27879
+Catholic Church. Pope (1305-1314 : Clement V),author,,,,,,,,organization;human,Catholic Church;Clement V,Q9592;Q131463,Q425;Q20141
+"Nicholas, of Lyra, approximately 1270-1349",author,,http://id.loc.gov/authorities/names/n81077197.html,,,,,,human,Nicholas of Lyra,Q1969164,Q1922
