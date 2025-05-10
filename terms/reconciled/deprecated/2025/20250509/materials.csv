@@ -237,8 +237,6 @@ ill. paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 ill. parchment,parchment,http://vocab.getty.edu/aat/300011851,Q33
 illumination on parchment,parchment,http://vocab.getty.edu/aat/300011851,Q33
 "illustrations, 12 hand color ms. maps, vellum",parchment,http://vocab.getty.edu/aat/300011851,Q33
-"illustrations, illuminations, parchment",parchment,http://vocab.getty.edu/aat/300011851,Q33
-"illustrations, illuminations, vellum",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "illustrations, paper",paper,http://vocab.getty.edu/aat/300014109,Q31
 "illustrations, parchment",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "illustrations (woodcuts), parchment",parchment,http://vocab.getty.edu/aat/300011851,Q33
@@ -274,7 +272,6 @@ Ostrakon,ceramic,http://vocab.getty.edu/aat/300235507,Q63761
 palm (taliput) leaf,palm leaf,http://vocab.getty.edu/aat/300011894,Q30
 palm leaf,palm leaf,http://vocab.getty.edu/aat/300011894,Q30
 "palm leaf, illustrations",palm leaf,http://vocab.getty.edu/aat/300011894,Q30
-palm leaf (material),palm leaf,http://vocab.getty.edu/aat/300011894,Q30
 palm leaves,palm leaf,http://vocab.getty.edu/aat/300011894,Q30
 palmyra palm leaf,palm leaf,http://vocab.getty.edu/aat/300011894,Q30
 paper,paper,http://vocab.getty.edu/aat/300014109,Q31
@@ -292,7 +289,6 @@ Paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, colored illustrations",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, color illustrations",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, color illustrations, coats of arms",paper,http://vocab.getty.edu/aat/300014109,Q31
-"paper, color illustrations, illuminations",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, color illustrations, music",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, color illustrations ;",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, diagram",paper,http://vocab.getty.edu/aat/300014109,Q31
@@ -536,12 +532,9 @@ vellum,parchment,http://vocab.getty.edu/aat/300011851,Q33
 "vellum , ill.",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "vellum, illuminated in gold and colors",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "vellum, illustration",parchment,http://vocab.getty.edu/aat/300011851,Q33
-"vellum, illustrations",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "vellum, music",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "vellum, paper",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 "vellum, paper, ill.",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
-"vellum, paper, illuminations",parchment,http://vocab.getty.edu/aat/300011851,Q33
-"vellum (manuscript leaf), paper (accompanying letter)",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 vellum & paper,parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 vellum and paper,parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 "vellum and paper, ill.",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
