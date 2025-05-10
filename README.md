@@ -35,7 +35,7 @@ See also instructions at [ds-open-refine/instructions/json/all] (https://github.
 5. `Commit changes` directly to main branch.
 
 
-## Directory structure:
+## Directory structure
 
 ```text
 .
