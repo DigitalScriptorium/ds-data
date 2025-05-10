@@ -33,6 +33,7 @@
 |nyu|New York University|Q1914|
 |oberlin|Oberlin College|Q63948|
 |ohio|Ohio University|
+|oregon|University of Oregon|Q10856|
 |osu|Ohio State University|Q42431|
 |penn|University of Pennsylvania|Q374|
 |princeton|Princeton University|Q12264|
