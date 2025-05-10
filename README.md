@@ -27,7 +27,7 @@ New files should be called: `DATE-name.csv`, where `DATE` is the date the file w
 
 ### Updating reconciled "term" values to be used in Wikibase import and unreconciled data for documentation:
 
-See also instructions at [ds-open-refine/instructions/json/all] (https://github.com/DigitalScriptorium/ds-open-refine/tree/main/instructions/json/all)
+See also instructions at [ds-open-refine/instructions/json/all](https://github.com/DigitalScriptorium/ds-open-refine/tree/main/instructions/json/all)
 
 1. Navigate to `ds-data/terms/reconciled` directory
 3. Click on `Add File` button and click `Upload files` from context menu (file to be uploaded should be 'element.csv`).
