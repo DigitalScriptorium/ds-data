@@ -25,9 +25,9 @@ New files should be called: `DATE-name.csv`, where `DATE` is the date the file w
 4. Drag and drop or `choose your files` to be uploaded.
 5. `Commit changes` directly to main branch.
 
-### Updating reconciled "term" values to be used in Wikibase import and unreconciled data for documentation:
+### Updating reconciled "term" values to be used in Wikibase import documentation:
 
-See also instructions at [ds-open-refine/instructions/json/all](https://github.com/DigitalScriptorium/ds-open-refine/tree/main/instructions/json/all)
+See also instructions at [ds-open-refine/instructions/](https://github.com/DigitalScriptorium/ds-open-refine/blob/main/instructions/merge-new-data.md#updating-data-dictionaries-in-ds-data-repository)
 
 1. Navigate to `ds-data/terms/reconciled` directory
 3. Click on `Add File` button and click `Upload files` from context menu (file to be uploaded should be 'element.csv`).
