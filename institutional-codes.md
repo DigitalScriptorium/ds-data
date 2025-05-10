@@ -1,0 +1,58 @@
+# Institutional Code List
+
+| Code        | Institution | DS QID |
+|-------------|-------------|--------|
+|bec|Buffalo & Erie County Public Library|Q54839|
+|bpl|Boston Public Library|Q16442|
+|brynmawr|Bryn Mawr College|Q68553|
+|ccny|City College of New York|Q858|
+|chicago|University of Chicago|Q67876|
+
+|columbia|
+|conception|
+|cornell|
+|csl|
+|dayton|
+|flp|
+|folger|
+|fordham|
+|grolier|
+|gts|
+|harvard|
+|hrc|
+|huntington|
+|indiana|
+|jts|
+|kansas|
+|lehigh|
+|missouri|
+|nelsonatkins|
+|newberry|
+|nyam|
+|nyu|
+|oberlin|
+|osu|
+|penn|
+|princeton|
+|providence|
+|rit|
+|rochester|
+|rome|
+|rutgers|
+|sfsu|
+|shi|
+|slu|
+|smith|
+|tufts|
+|ucb|
+|ucdavis|
+|ucr|
+|uwmadison|
+|vassar|
+|vermont|
+|walters|
+|wellesley|
+|williams|
+|wmu|
+|yale|
+
