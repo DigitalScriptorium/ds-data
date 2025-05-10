@@ -7,7 +7,6 @@
 |brynmawr|Bryn Mawr College|Q68553|
 |ccny|City College of New York|Q858|
 |chicago|University of Chicago|Q67876|
-
 |columbia|
 |conception|
 |cornell|
