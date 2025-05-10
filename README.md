@@ -6,7 +6,7 @@ This repository is for CSVs of DS data at various stages of extraction, transfor
 
 New files should be called: `DATE-name.csv`, where `DATE` is the date the file was created in `YYYYMMDD` format and `name` is a description, like `jhu`, `combined`, `upenn`, etc. When more than one descriptor is applied, descriptors are separated by a dash, such as in `20220920-language-combined-enriched`. In addition, when `element` is provided in the instructions, it is a description of the metadata element, field, or type of data, such as in `languages.csv`, `named-subjects-unreconciled.csv`, or `20220705-places-combined-enriched.csv`. 
 
-## Data management workflow for current and previous reconciled data
+## Data management workflow for current and previously reconciled data
 
 ### Uploading data for Wikibase import:
 
