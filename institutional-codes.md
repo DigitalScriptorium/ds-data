@@ -1,4 +1,4 @@
-# Institutional Code List
+# DS Institutional Code List
 
 | Code        | Institution | DS QID |
 |-------------|-------------|--------|
