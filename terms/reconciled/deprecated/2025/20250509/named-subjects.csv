@@ -22,7 +22,6 @@ subject_as_recorded,vocab,subfield_codes,source_authority_uri,authorized_label,s
 18th century.,fast,a,,Eighteenth century,http://id.worldcat.org/fast/904058,Q3024
 600-1500,fast,a,,500-1500,http://id.worldcat.org/fast/1355938,Q4252
 "Aachen, Hans von, 1552-1615",0,a;d,,"Aachen, Hans von, 1552-1615",http://id.worldcat.org/fast/260595,Q38556
-"Abbaye aux Dames (Caen, France)--History--Sources",0,a--x--v,,"Abbaye aux Dames (Caen, France);History;Sources",http://id.worldcat.org/fast/582483;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1423900,Q5474;Q6879;Q2769
 Abbaye de Corbie,0,a,,Abbaye de Corbie,http://id.worldcat.org/fast/676843,Q38557
 Abbaye de Fontfroide,0,a,,Abbaye de Fontfroide,http://id.worldcat.org/fast/1628589,Q38558
 "Abbaye de Montier-en-Der (Montier-en-Der, France)",0,a,,"Abbaye de Montier-en-Der (Montier-en-Der, France)",http://id.worldcat.org/fast/768564,Q38559
@@ -100,7 +99,6 @@ Aesop,0,a,http://id.loc.gov/authorities/names/n81066350,Aesop,http://id.worldcat
 Aesop's fables.--Hebrew--Early works to 1800,0,a--l--v,,Aesop's fables;Hebrew language;Early works,http://id.worldcat.org/fast/1356097;http://id.worldcat.org/fast/954191;http://id.worldcat.org/fast/1411636,Q66847;Q38720;Q300
 Aesop's fables--Translations into Latin,0,a--v,,Aesop's fables;Translations;Latin language,http://id.worldcat.org/fast/1356097;http://id.worldcat.org/fast/1423791;http://id.worldcat.org/fast/993125,Q66847;Q18303;Q4170
 "Agamemnon, King of Mycenae (Mythological character)--Drama",0,a;c--v,,"Agamemnon, King of Mycenae (Mythological character);Drama",http://id.worldcat.org/fast/800082;http://id.worldcat.org/fast/1423879,Q38565;Q3010
-"Agnes, Saint, Martyr",0,a;c,,"Agnes, Saint, Martyr",http://id.worldcat.org/fast/109463,Q100380
 Agni (Hindu deity),fast,a;c,http://id.worldcat.org/fast/800393,Agni (Hindu deity),http://id.worldcat.org/fast/800393,Q27033
 Agni (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2017240192,Agni (Hindu deity),http://id.worldcat.org/fast/800393,Q27033
 "Aḥa, of Shabḥa, 680-752. Sheʼeltot",0,a;c;d;t,http://id.loc.gov/authorities/names/nr93043985,"Sheʼeltot (Aḥa, of Shabḥa)",http://id.worldcat.org/fast/1374110,Q75388
@@ -265,970 +263,969 @@ Annapūrṇā (Hindu deity),fast,a;c,http://id.worldcat.org/fast/809712,Annapū
 "Anthony, of Padua, Saint, 1195-1231--Art.",0,a;c;d--v,,"Anthony, of Padua, Saint, 1195-1231;Art",http://id.worldcat.org/fast/17594;http://id.worldcat.org/fast/1423702,Q10798;Q38573
 "Anthony, of Padua, Saint, 1195-1231--Liturgy--Texts",0,a;c;d--x--v,,"Anthony, of Padua, Saint, 1195-1231;Liturgics;Texts",http://id.worldcat.org/fast/17594;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705,Q10798;Q207;Q3066
 "Anthony, of Padua, Saint, 1195-1231--Portraits",0,a;c;d--v,,"Anthony, of Padua, Saint, 1195-1231;Portraits",http://id.worldcat.org/fast/17594;http://id.worldcat.org/fast/1423831,Q10798;Q199
-"Anthony, of Padua, Saint, 1195-1231--Prayers and devotions",0,a;c;d--x,,"Anthony, of Padua, Saint, 1195-1231;Prayers and devotions",http://id.worldcat.org/fast/17594;http://id.worldcat.org/fast/1935484,Q10798;Q48394
 "Anvarī, Awḥad al-Dīn, -1189 or 1190",0,a;d,http://id.loc.gov/authorities/names/n83066091,"Anvarī, Awḥad al-Dīn, -1189 or 1190",http://id.worldcat.org/fast/1804909,Q48905
 "Anwār al-tanzīl wa-asrār al-taʼwīl (Bayḍāwī, ʻAbd Allāh ibn ʻUmar)",fast,a,(OCoLC)fst01369620,"Anwār al-tanzīl wa-asrār al-taʼwīl (Bayḍāwī, ʻAbd Allāh ibn ʻUmar)",http://id.worldcat.org/fast/1369620,Q11452
-"Anwār al-tanzīl wa-asrār al-taʼwīl (Bayḍāwī, ʻAbd Allāh ibn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Anwār al-tanzīl wa-asrār al-taʼwīl (Bayḍāwī, ʻAbd Allāh ibn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				ʻUmar)",fast,a,(OCoLC)fst01369620,"Anwār al-tanzīl wa-asrār al-taʼwīl (Bayḍāwī, ʻAbd Allāh ibn ʻUmar)",http://id.worldcat.org/fast/1369620,Q11452
-"Anwār al-tanzīl wa-asrār al-taʼwīl (Bayḍāwī, ʻAbd Allāh ibn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Anwār al-tanzīl wa-asrār al-taʼwīl (Bayḍāwī, ʻAbd Allāh ibn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				ʻUmar)",fast,a,(OCoLC)fst01369620,"Anwār al-tanzīl wa-asrār al-taʼwīl (Bayḍāwī, ʻAbd Allāh ibn ʻUmar)",http://id.worldcat.org/fast/1369620,Q11452
 Āpastambaśrautasūtra,fast,a,http://id.worldcat.org/fast/1374825,Āpastambaśrautasūtra,http://id.worldcat.org/fast/1374825,Q27150
 Āpastambaśrautasūtra,0,a,http://id.loc.gov/authorities/names/n82126807,Āpastambaśrautasūtra,http://id.worldcat.org/fast/1374825,Q27150
@@ -1543,7 +1540,6 @@ Benedictines--Netherlands--Early works to 1800.,0,a--z--v,,Benedictines;Netherla
 Benedictines--Prayers and devotions--Early works to 1800,0,a--v--v,,Benedictines;Prayers and devotions;Early works,http://id.worldcat.org/fast/553736;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q6908;Q3052;Q300
 Benedictines--Privileges and immunities--Texts,0,a--x--v,,Benedictines;Privileges and immunities;Texts,http://id.worldcat.org/fast/553736;http://id.worldcat.org/fast/1077674;http://id.worldcat.org/fast/1423705,Q6908;Q38630;Q3066
 Benedictines--Privileges and immunities--Texts.,0,a--x--v,,Benedictines;Privileges and immunities;Texts,http://id.worldcat.org/fast/553736;http://id.worldcat.org/fast/1077674;http://id.worldcat.org/fast/1423705,Q6908;Q38630;Q3066
-Benedictines--Rules,0,a--v,,Benedictines;Rules,http://id.worldcat.org/fast/553736;http://id.worldcat.org/fast/1423857,Q6908;Q4910
 Benedictines--Rules,0,a--x,,Benedictines;Rules,http://id.worldcat.org/fast/553736;http://id.worldcat.org/fast/1423857,Q6908;Q4910
 Benedictines--Rules--Early works to 1800,0,a--v--v,,Benedictines;Rules;Early works,http://id.worldcat.org/fast/553736;http://id.worldcat.org/fast/1423857;http://id.worldcat.org/fast/1411636,Q6908;Q4910;Q300
 Benedictines--Rules--Manuscripts--Texts,0,a--x--x--v,,Benedictines;Rules;Manuscripts;Texts,http://id.worldcat.org/fast/553736;http://id.worldcat.org/fast/1423857;http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1423705,Q6908;Q4910;Q331;Q3066
@@ -1612,7 +1608,6 @@ Bible. Corinthians,fast,a;p,(OCoLC)fst01892891,Bible. Corinthians,http://id.worl
 "Bible. Corinthians, 2nd--Criticism, interpretation, etc.--Early works to 1800",0,a;p--x--v,,"Bible. Corinthians, 2nd;Criticism and interpretation;Early works",http://id.worldcat.org/fast/1892892;http://id.worldcat.org/fast/1198648;http://id.worldcat.org/fast/1411636,Q6872;Q292;Q300
 "Bible. Corinthians, 2nd--Criticism, interpretation, etc.--Early works to 1800.",0,a;p--x--v,,"Bible. Corinthians, 2nd;Criticism and interpretation;Early works",http://id.worldcat.org/fast/1892892;http://id.worldcat.org/fast/1198648;http://id.worldcat.org/fast/1411636,Q6872;Q292;Q300
 Bible. Corinthians--Commentaries,0,a;p--v,,Bible. Corinthians;Commentaries,http://id.worldcat.org/fast/1892891;http://id.worldcat.org/fast/1423723,Q67980;Q2812
-Bible. Daniel.--Latin--Manuscripts,0,a;p--l--x,,Bible. Daniel;Latin language;Manuscripts,http://id.worldcat.org/fast/1892893;http://id.worldcat.org/fast/993125;http://id.worldcat.org/fast/1008230,Q38589;Q4170;Q38609
 Bible. Daniel--Commentaries--Early works to 1800,0,a;p--x--v,,Bible. Daniel;Commentaries;Early works,http://id.worldcat.org/fast/1892893;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q38589;Q2812;Q300
 Bible. Daniel IX-XII--Commentaries--Early works to 1800,0,a;p--v--v,,Bible. Daniel;Commentaries;Early works,http://id.worldcat.org/fast/1892893;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q38589;Q2812;Q300
 Bible. Deuteronomy,0,a;p,http://id.loc.gov/authorities/names/n79135429,Bible. Deuteronomy,http://id.worldcat.org/fast/1808024,Q20462
@@ -1621,8 +1616,6 @@ Bible. Deuteronomy--Commentaries--Early works to 1800,0,a;p--v--v,,Bible. Deuter
 Bible. Deuteronomy--Commentaries--History and criticism,0,a;p--x--x,,"Bible. Deuteronomy;Commentaries;Criticism, interpretation, etc.",http://id.worldcat.org/fast/1808024;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411635,Q20462;Q2812;Q177
 "Bible. Deuteronomy--Criticism, interpretation, etc",0,a;p--x,,"Bible. Deuteronomy;Criticism, interpretation, etc.",http://id.worldcat.org/fast/1808024;http://id.worldcat.org/fast/1411635,Q20462;Q177
 Bible. Deuteronomy--Early works to 1800,0,a;p--v,,Bible. Deuteronomy;Early works,http://id.worldcat.org/fast/1808024;http://id.worldcat.org/fast/1411636,Q20462;Q300
-Bible. Deuteronomy--Manuscripts,0,a;p--x,,Bible. Deuteronomy;Manuscripts,http://id.worldcat.org/fast/1808024;http://id.worldcat.org/fast/1008230,Q20462;Q38609
-Bible. Deuteronomy--Manuscripts--Specimens,0,a;p--x--v,,Bible. Deuteronomy;Manuscripts;Specimens,http://id.worldcat.org/fast/1808024;http://id.worldcat.org/fast/1008230;http://id.worldcat.org/fast/1423861,Q20462;Q38609;Q239
 Bible. Deuteronomy--Translations into Latin--Early works to 1800,0,a;p--v--v,,Bible. Deuteronomy;Translations;Latin language;Early works,http://id.worldcat.org/fast/1808024;http://id.worldcat.org/fast/1423791;http://id.worldcat.org/fast/993125;http://id.worldcat.org/fast/1411636,Q20462;Q18303;Q4170;Q300
 Bible. Ecclesiastes,0,a;p,,Bible. Ecclesiastes,http://id.worldcat.org/fast/1892894,Q38590
 Bible. Ecclesiastes--19th century,0,a;p--y,,Bible. Ecclesiastes;Nineteenth century,http://id.worldcat.org/fast/1892894;http://id.worldcat.org/fast/1037841,Q38590;Q3538
@@ -1637,7 +1630,6 @@ Bible. Ecclesiasticus--Commentaries--Early works to 1800,0,a;p--v--v,,Bible. Ecc
 Bible.--English (Middle English)--Versions--Wycliffe,0,a--l--x--x,http://id.loc.gov/authorities/subjects/sh85013746,Bible;English language--Middle English,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1710955,Q4267;Q38592
 Bible.--English (Middle English)--Versions--Wycliffe.,0,a--l--x--x,http://id.loc.gov/authorities/subjects/sh85013746,Bible;English language--Middle English,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1710955,Q4267;Q38592
 Bible.--English--Versions,0,a--l--x,http://id.loc.gov/authorities/subjects/sh85013741,Bible;English language,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/910920,Q4267;Q12536
-Bible. Ephesians--Manuscripts,0,a;p--x,,Bible. Ephesians;Manuscripts,http://id.worldcat.org/fast/1892895;http://id.worldcat.org/fast/1008230,Q67893;Q38609
 "Bible. Epistle of John, 1st--Commentaries--Early works to 1800",0,a;p--v--v,,"Bible. Epistle of John, 1st;Commentaries;Early works",http://id.worldcat.org/fast/1892896;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q66841;Q2812;Q300
 Bible. Epistles,0,a;p,http://id.loc.gov/authorities/names/n80025989,Bible. Epistles,http://id.worldcat.org/fast/1892899,Q38595
 Bible. Epistles,fast,a;p,(OCoLC)fst01892899,Bible. Epistles,http://id.worldcat.org/fast/1892899,Q38595
@@ -1647,7 +1639,6 @@ Bible. Epistles--Commentaries--Early works to 1800,0,a;p--v--v,,Bible. Epistles;
 Bible. Epistles--Liturgical use,0,a;p--x,,Bible. Epistles;Liturgics,http://id.worldcat.org/fast/1892899;http://id.worldcat.org/fast/1000579,Q38595;Q207
 Bible. Epistles of John,0,a;p,,Bible. Epistles of John,http://id.worldcat.org/fast/1892900,Q38593
 "Bible. Epistles of John--Criticism, interpretation, etc.--Early works to 1800",0,a;p--x--v,,"Bible. Epistles of John;Criticism, interpretation, etc.;Early works",http://id.worldcat.org/fast/1892900;http://id.worldcat.org/fast/1411635;http://id.worldcat.org/fast/1411636,Q38593;Q177;Q300
-Bible. Epistles of John--Manuscripts,0,a;p--x,,Bible. Epistles of John;Manuscripts,http://id.worldcat.org/fast/1892900;http://id.worldcat.org/fast/1008230,Q38593;Q38609
 Bible. Epistles of Paul,fast,a;p,(OCoLC)fst01808029,Bible. Epistles of Paul,http://id.worldcat.org/fast/1808029,Q38594
 Bible. Epistles of Paul.--Latin,0,a;p--l,,Bible. Epistles of Paul;Latin language,http://id.worldcat.org/fast/1808029;http://id.worldcat.org/fast/993125,Q38594;Q4170
 Bible. Epistles of Paul--Commentaries,0,a;p--v,,Bible. Epistles of Paul;Commentaries,http://id.worldcat.org/fast/1808029;http://id.worldcat.org/fast/1423723,Q38594;Q2812
@@ -1688,10 +1679,8 @@ Bible. Ezekiel--Commentaries--Early works to 1800,0,a;p--x--v,,Bible. Ezekiel;Co
 Bible. Ezekiel--Commentaries--History and criticism,0,a;p--x--x,,"Bible. Ezekiel;Commentaries;Criticism, interpretation, etc.",http://id.worldcat.org/fast/1892903;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411635,Q38596;Q2812;Q177
 Bible. Ezekiel I.--Aramaic--Versions,0,a;p--l--x,,Bible. Ezekiel;Aramaic language,http://id.worldcat.org/fast/1892903;http://id.worldcat.org/fast/812667,Q38596;Q67192
 "Bible. Ezekiel I--Criticism, interpretation, etc., Jewish--Early works to 1800",0,a;p--x--v,,"Bible. Ezekiel;Criticism, interpretation, etc.;Early works",http://id.worldcat.org/fast/1892903;http://id.worldcat.org/fast/1411635;http://id.worldcat.org/fast/1411636,Q38596;Q177;Q300
-Bible. Ezekiel--Manuscripts,0,a;p--x,,Bible. Ezekiel;Manuscripts,http://id.worldcat.org/fast/1892903;http://id.worldcat.org/fast/1008230,Q38596;Q38609
 Bible. Ezekiel--Sermons,0,a;p--v,,Bible. Ezekiel;Sermons,http://id.worldcat.org/fast/1892903;http://id.worldcat.org/fast/1423904,Q38596;Q180
 Bible. Ezekiel--Translations into Latin--Early works to 1800,0,a;p--v--v,,Bible. Ezekiel;Translations;Latin language;Early works,http://id.worldcat.org/fast/1892903;http://id.worldcat.org/fast/1423791;http://id.worldcat.org/fast/993125;http://id.worldcat.org/fast/1411636,Q38596;Q18303;Q4170;Q300
-Bible. Galatians.--Latin--Commentaries--Early works to 1800,0,a;p--l--v--v,,Bible. Galatians;Latin language;Commentaries;Early works,http://id.worldcat.org/fast/1892906;http://id.worldcat.org/fast/993125;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q67990;Q4170;Q2812;Q300
 Bible. Genesis,fast,a;p,,Bible. Genesis,http://id.worldcat.org/fast/1808046,Q7130
 Bible. Genesis,fast,a;p,http://id.worldcat.org/fast/1808046,Bible. Genesis,http://id.worldcat.org/fast/1808046,Q7130
 Bible. Genesis,0,a;p,http://id.loc.gov/authorities/names/n80017837,Bible. Genesis,http://id.worldcat.org/fast/1808046,Q7130
@@ -1706,7 +1695,6 @@ Bible. Genesis--Commentaries--History and criticism,0,a;p--x--x,,"Bible. Genesis
 "Bible. Genesis--Criticism, interpretation, etc.--Early works to 1800.",0,a;p--x--v,,Bible. Genesis;Criticism and interpretation;Early works,http://id.worldcat.org/fast/1808046;http://id.worldcat.org/fast/1198648;http://id.worldcat.org/fast/1411636,Q7130;Q292;Q300
 Bible. Genesis--Early works to 1800,0,a;p--v,,Bible. Genesis;Early works,http://id.worldcat.org/fast/1808046;http://id.worldcat.org/fast/1411636,Q7130;Q300
 "Bible. Genesis I, 1-4--Commentaries--Early works to 1800",0,a;p--v--v,,Bible. Genesis;Commentaries;Early works,http://id.worldcat.org/fast/1808046;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q7130;Q2812;Q300
-Bible. Genesis--Manuscripts,0,a;p--x,,Bible. Genesis;Manuscripts,http://id.worldcat.org/fast/1808046;http://id.worldcat.org/fast/1008230,Q7130;Q38609
 "Bible. Genesis--Paraphrases, Italian",0,a;p--v,,Bible. Genesis;Paraphrases,http://id.worldcat.org/fast/1808046;http://id.worldcat.org/fast/1423839,Q7130;Q5830
 "Bible. Genesis--Paraphrases, Italian.",0,a;p--v,,Bible. Genesis;Paraphrases,http://id.worldcat.org/fast/1808046;http://id.worldcat.org/fast/1423839,Q7130;Q5830
 Bible. Genesis--Selection--19th century,0,a;p--x--y,,Bible. Genesis;Excerpts;Nineteenth century,http://id.worldcat.org/fast/1808046;http://id.worldcat.org/fast/1692837;http://id.worldcat.org/fast/1037841,Q7130;Q3547;Q3538
@@ -1791,7 +1779,6 @@ Bible. John--Commentaries--Early works to 1800.,0,a;p--v--v,,Bible. John;Comment
 "Bible. John--Criticism, interpretation, etc.--Early works to 1800.",0,a;p--x--v,,Bible. John;Criticism and interpretation;Early works,http://id.worldcat.org/fast/1696638;http://id.worldcat.org/fast/1198648;http://id.worldcat.org/fast/1411636,Q4214;Q292;Q300
 Bible. John--Early works to 1800,0,a;p--v,,Bible. John;Early works,http://id.worldcat.org/fast/1696638;http://id.worldcat.org/fast/1411636,Q4214;Q300
 Bible. John--Early works to 1800.,0,a;p--v,,Bible. John;Early works,http://id.worldcat.org/fast/1696638;http://id.worldcat.org/fast/1411636,Q4214;Q300
-Bible. John--Manuscripts,0,a;p--x,,Bible. John;Manuscripts,http://id.worldcat.org/fast/1696638;http://id.worldcat.org/fast/1008230,Q4214;Q38609
 Bible. John--Sermons--Early works to 1800,0,a;p--x--v,(uri) http://id.loc.gov/authorities/names/n79060414--(uri) http://viaf.org/viaf/sourceID/LC%7cn79060414,Bible. John;Sermons;Early works,http://id.worldcat.org/fast/1696638;http://id.worldcat.org/fast/1113216;http://id.worldcat.org/fast/1411636,Q4214;Q38598;Q300
 Bible. John--Sermons--Early works to 1800.,0,a;p--x--v,(uri) http://id.loc.gov/authorities/names/n79060414--(uri) http://viaf.org/viaf/sourceID/LC%7cn79060414,Bible. John;Sermons;Early works,http://id.worldcat.org/fast/1696638;http://id.worldcat.org/fast/1113216;http://id.worldcat.org/fast/1411636,Q4214;Q38598;Q300
 Bible. John--Translations into Latin--Early works to 1800,0,a;p--v--v,,Bible. John;Translations;Latin language;Early works,http://id.worldcat.org/fast/1696638;http://id.worldcat.org/fast/1423791;http://id.worldcat.org/fast/993125;http://id.worldcat.org/fast/1411636,Q4214;Q18303;Q4170;Q300
@@ -1801,7 +1788,6 @@ Bible. Jonah--Commentaries--History and criticism,0,a;p--x--x,,"Bible. Jonah;Com
 Bible. Joshua--Commentaries--Early works to 1800,0,a;p--v--v,,Bible. Joshua;Commentaries;Early works,http://id.worldcat.org/fast/1892919;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q67285;Q2812;Q300
 Bible. Joshua VI-XIV--Commentaries--Early works to 1800,0,a;p--v--v,,Bible. Joshua;Commentaries;Early works,http://id.worldcat.org/fast/1892919;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q67285;Q2812;Q300
 Bible. Judges--Commentaries--Early works to 1800,0,a;p--v--v,,Bible. Judges;Commentaries;Early works,http://id.worldcat.org/fast/1892921;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q67929;Q2812;Q300
-Bible. Judges--Manuscripts,0,a;p--x,,Bible. Judges;Manuscripts,http://id.worldcat.org/fast/1892921;http://id.worldcat.org/fast/1008230,Q67929;Q38609
 "Bible. Judith--Criticism, interpretation, etc.--Early works to 1800",0,a;p--x--v,,"Bible. Judith;Criticism, interpretation, etc.;Early works",http://id.worldcat.org/fast/1808015;http://id.worldcat.org/fast/1411635;http://id.worldcat.org/fast/1411636,Q67964;Q177;Q300
 Bible. Judith--Translations into Latin--Early works to 1800,0,a;p--x--v,,Bible. Judith;Translations;Latin language;Early works,http://id.worldcat.org/fast/1808015;http://id.worldcat.org/fast/1154827;http://id.worldcat.org/fast/993125;http://id.worldcat.org/fast/1411636,Q67964;Q39019;Q4170;Q300
 Bible. Kings,0,a;p,,Bible. Kings,http://id.worldcat.org/fast/1808077,Q38601
@@ -1835,8 +1821,6 @@ Bible. Luke,0,a;p,,Bible. Luke,http://id.worldcat.org/fast/1892926,Q38604
 Bible. Luke--Commentaries--Early works to 1800,0,a;p--x--v,,Bible. Luke;Commentaries;Early works,http://id.worldcat.org/fast/1892926;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q38604;Q2812;Q300
 Bible. Luke--Commentaries--Early works to 1800,0,a;p--v--v,,Bible. Luke;Commentaries;Early works,http://id.worldcat.org/fast/1892926;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q38604;Q2812;Q300
 "Bible. Luke--Criticism, interpretation, etc.--Early works to 1800",0,a;p--x--v,,"Bible. Luke;Criticism, interpretation, etc.;Early works",http://id.worldcat.org/fast/1892926;http://id.worldcat.org/fast/1411635;http://id.worldcat.org/fast/1411636,Q38604;Q177;Q300
-Bible. Luke--Manuscripts,0,a;p--x,,Bible. Luke;Manuscripts,http://id.worldcat.org/fast/1892926;http://id.worldcat.org/fast/1008230,Q38604;Q38609
-Bible. Luke--Manuscripts--Specimens,0,a;p--x--v,,Bible. Luke;Manuscripts;Specimens,http://id.worldcat.org/fast/1892926;http://id.worldcat.org/fast/1008230;http://id.worldcat.org/fast/1423861,Q38604;Q38609;Q239
 Bible. Luke--Translations into Latin--Early works to 1800,0,a;p--v--v,,Bible. Luke;Translations;Latin language;Early works,http://id.worldcat.org/fast/1892926;http://id.worldcat.org/fast/1423791;http://id.worldcat.org/fast/993125;http://id.worldcat.org/fast/1411636,Q38604;Q18303;Q4170;Q300
 "Bible. Maccabees, 1st",0,a;p,,"Bible. Maccabees, 1st",http://id.worldcat.org/fast/1808017,Q63905
 Bible. Maccabees--Translations into Latin--Early works to 1800,0,a;p--v--v,,Bible. Maccabees;Translations;Latin language;Early works,http://id.worldcat.org/fast/1808016;http://id.worldcat.org/fast/1423791;http://id.worldcat.org/fast/993125;http://id.worldcat.org/fast/1411636,Q66875;Q18303;Q4170;Q300
@@ -1844,7 +1828,6 @@ Bible. Mark,fast,a;p,http://id.worldcat.org/fast/01892928,Bible. Mark,http://id.
 Bible. Mark,0,a;p,,Bible. Mark,http://id.worldcat.org/fast/1892928,Q38605
 Bible. Mark.--Greek,0,a;p--l,,Bible. Mark;Greek language,http://id.worldcat.org/fast/1892928;http://id.worldcat.org/fast/947178,Q38605;Q67947
 Bible. Mark.--Latin--Commentaries,0,a;p--l--v,,Bible. Mark;Latin language;Commentaries,http://id.worldcat.org/fast/1892928;http://id.worldcat.org/fast/993125;http://id.worldcat.org/fast/1423723,Q38605;Q4170;Q2812
-Bible. Mark.--Selections--Manuscripts,0,a;p--k--x,,Bible. Mark;Excerpts;Manuscripts,http://id.worldcat.org/fast/1892928;http://id.worldcat.org/fast/1692837;http://id.worldcat.org/fast/1008230,Q38605;Q3547;Q38609
 Bible. Mark--Commentaries,0,a;p--x,,Bible. Mark;Commentaries,http://id.worldcat.org/fast/1892928;http://id.worldcat.org/fast/1423723,Q38605;Q2812
 Bible. Mark--Commentaries--Early works to 1800,0,a;p--v--v,,Bible. Mark;Commentaries;Early works,http://id.worldcat.org/fast/1892928;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q38605;Q2812;Q300
 Bible. Matthew,fast,a;p,http://id.worldcat.org/fast/1808086,Bible. Matthew,http://id.worldcat.org/fast/1808086,Q5898
@@ -1852,7 +1835,6 @@ Bible. Matthew,0,a;p,,Bible. Matthew,http://id.worldcat.org/fast/1808086,Q5898
 Bible. Matthew,0,a;p,http://id.loc.gov/authorities/names/n79056834,Bible. Matthew,http://id.worldcat.org/fast/1808086,Q5898
 "Bible. Matthew, 21--Criticism, interpretation, etc",0,a;p--x,,"Bible. Matthew;Criticism, interpretation, etc.",http://id.worldcat.org/fast/1808086;http://id.worldcat.org/fast/1411635,Q5898;Q177
 Bible. Matthew.,0,a;p,,Bible. Matthew,http://id.worldcat.org/fast/1808086,Q5898
-Bible. Matthew.--Selections--Manuscripts,0,a;p--k--x,,Bible. Matthew;Excerpts;Manuscripts,http://id.worldcat.org/fast/1808086;http://id.worldcat.org/fast/1692837;http://id.worldcat.org/fast/1008230,Q5898;Q3547;Q38609
 Bible. Matthew--Commentaries,0,a;p--x,,Bible. Matthew;Commentaries,http://id.worldcat.org/fast/1808086;http://id.worldcat.org/fast/1423723,Q5898;Q2812
 Bible. Matthew--Commentaries--Early works to 1800,0,a;p--v--v,,Bible. Matthew;Commentaries;Early works,http://id.worldcat.org/fast/1808086;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q5898;Q2812;Q300
 Bible. Matthew--Commentaries--Early works to 1800,0,a;p--x--v,,Bible. Matthew;Commentaries;Early works,http://id.worldcat.org/fast/1808086;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q5898;Q2812;Q300
@@ -2009,7 +1991,6 @@ Bible. Romans--Commentaries--Early works to 1800,0,a;p--v--v,,Bible. Romans;Comm
 Bible. Ruth,fast,a;p,http://id.worldcat.org/fast/1892945,Bible. Ruth,http://id.worldcat.org/fast/1892945,Q67937
 Bible. Ruth--19th century,0,a;p--y,,Bible. Ruth;Nineteenth century,http://id.worldcat.org/fast/1892945;http://id.worldcat.org/fast/1037841,Q67937;Q3538
 Bible. Ruth--Commentaries--Early works to 1800,0,a;p--v--v,,Bible. Ruth;Commentaries;Early works,http://id.worldcat.org/fast/1892945;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q67937;Q2812;Q300
-Bible. Ruth--Manuscripts,0,a;p--x,,Bible. Ruth;Manuscripts,http://id.worldcat.org/fast/1892945;http://id.worldcat.org/fast/1008230,Q67937;Q38609
 Bible. Samuel,0,a;p,,Bible. Samuel,http://id.worldcat.org/fast/1892946,Q38607
 "Bible. Samuel, 1st, XXV, 30-XVII, 10--Commentaries--Early works to 1800",0,a;p--v--v,,"Bible. Samuel, 1st;Commentaries;Early works",http://id.worldcat.org/fast/1808109;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q75515;Q2812;Q300
 "Bible. Samuel, 2nd, II, 1-2--Commentaries--Early works to 1800",0,a;p--v--v,,Bible. Samuel;Commentaries;Early works,http://id.worldcat.org/fast/1892946;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q38607;Q2812;Q300
@@ -2041,7 +2022,6 @@ Bible. Song of Solomon--Early works to 1800.,0,a;p--v,,Bible. Song of Solomon;Ea
 "Bible. Timothy, 2nd--Translations into Latin--Early works to 1800",0,a;p--v--v,,"Bible. Timothy, 2nd;Translations;Latin language;Early works",http://id.worldcat.org/fast/1892960;http://id.worldcat.org/fast/1423791;http://id.worldcat.org/fast/993125;http://id.worldcat.org/fast/1411636,Q66843;Q18303;Q4170;Q300
 Bible. Timothy--Translations into Latin--Early works to 1800,0,a;p--v--v,,Bible. Timothy;Translations;Latin language;Early works,http://id.worldcat.org/fast/1892958;http://id.worldcat.org/fast/1423791;http://id.worldcat.org/fast/993125;http://id.worldcat.org/fast/1411636,Q66881;Q18303;Q4170;Q300
 Bible. Titus--Translations into Latin--Early works to 1800,0,a;p--v--v,,Bible. Titus;Translations;Latin language;Early works,http://id.worldcat.org/fast/1892961;http://id.worldcat.org/fast/1423791;http://id.worldcat.org/fast/993125;http://id.worldcat.org/fast/1411636,Q66874;Q18303;Q4170;Q300
-Bible. Tobit.--Selections,0,a;p--k,,Bible. Tobit;Excerpts,http://id.worldcat.org/fast/1808020;http://id.worldcat.org/fast/1692837,Q67889;Q3547
 Bible. Tobit--Translations into Latin--Early works to 1800,0,a;p--x--v,,Bible. Tobit;Translations;Latin language;Early works,http://id.worldcat.org/fast/1808020;http://id.worldcat.org/fast/1154827;http://id.worldcat.org/fast/993125;http://id.worldcat.org/fast/1411636,Q67889;Q39019;Q4170;Q300
 Bible. Wisdom of Solomon,0,a;p,http://id.loc.gov/authorities/names/n85256302,Bible. Wisdom of Solomon,http://id.worldcat.org/fast/1808021,Q4976
 Bible. Wisdom of Solomon,fast,a;p,http://id.worldcat.org/fast/1808021,Bible. Wisdom of Solomon,http://id.worldcat.org/fast/1808021,Q4976
@@ -2231,7 +2211,6 @@ Būstān (Saʻdī),fast,a,,Būstān (Saʻdī),http://id.worldcat.org/fast/136647
 "Caesar, Julius--Fiction",0,a--v,,"Caesar, Julius;Fiction",http://id.worldcat.org/fast/31693;http://id.worldcat.org/fast/1423787,Q3022;Q3039
 "Caesar, Julius--Fiction.",0,a--v,,"Caesar, Julius;Fiction",http://id.worldcat.org/fast/31693;http://id.worldcat.org/fast/1423787,Q3022;Q3039
 "Caesar, Julius--Poetry",0,a--v,,"Caesar, Julius;Poetry",http://id.worldcat.org/fast/31693;http://id.worldcat.org/fast/1423828,Q3022;Q247
-"Caesarius, of Arles, Saint, 470?-542--Sermons.--Selections",0,a;c;d--v--k,,"Caesarius, of Arles, Saint, 470?-542;Sermons;Excerpts",http://id.worldcat.org/fast/200573;http://id.worldcat.org/fast/1423904;http://id.worldcat.org/fast/1692837,Q16342;Q180;Q3547
 "Cafsuto, Moisè Vita, active 18th century--Diaries",0,a;d--v,,"Cafsuto, Moisè Vita, active 18th century;Diaries",http://id.worldcat.org/fast/1810729;http://id.worldcat.org/fast/1423794,Q75416;Q55302
 "Callistus II, Pope, -1124",0,a;b;c;d,http://id.loc.gov/authorities/names/n79108027,"Callistus II, Pope, -1124",http://id.worldcat.org/fast/1811013,Q48189
 "Callistus II, Pope, -1124",fast,a;b;c;d,,"Callistus II, Pope, -1124",http://id.worldcat.org/fast/1811013,Q48189
@@ -2244,7 +2223,6 @@ Camaldolese--Prayers and devotions--Early works to 1800,0,a--v--v,,Camaldolese;P
 "Cambrai, League of, 1508",0,a,http://id.loc.gov/authorities/subjects/sh85019097,"Cambrai, League of, 1508",http://id.worldcat.org/fast/631407,Q4828
 "Cambrai, League of, 1508.",fast,a,http://id.worldcat.org/fast/631407,"Cambrai, League of, 1508",http://id.worldcat.org/fast/631407,Q4828
 "Cambrai, League of, 1508.",0,a,http://id.loc.gov/authorities/subjects/sh85019097,"Cambrai, League of, 1508",http://id.worldcat.org/fast/631407,Q4828
-"Cambron Abbey (Brugelette, Belgium)--History--Sources",0,a--x--v,,History;Sources,http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1423900,Q6879;Q2769
 "Campeggi, Tommaso, 1483-1564",0,a;d,,"Campeggi, Tommaso, 1483-1564",http://id.worldcat.org/fast/274728,Q38620
 Capponi family,0,a,,Capponi family,http://id.worldcat.org/fast/360471,Q8128
 Capponi family,fast,a,(OCoLC)fst00360471,Capponi family,http://id.worldcat.org/fast/360471,Q8128
@@ -2359,7 +2337,6 @@ Catholic Church. Diocese of Toul (France),fast,a;b,http://id.worldcat.org/fast/5
 Catholic Church. Diocese of Toul (France),0,a;b,http://id.loc.gov/authorities/names/n79075244,Catholic Church. Diocese of Toul (France),http://id.worldcat.org/fast/534582,Q8009
 Catholic Church. Liber sextus decretalium,0,a;t,http://id.loc.gov/authorities/names/n91072238,Liber sextus decretalium (Catholic Church),http://id.worldcat.org/fast/1369655,Q4950
 Catholic Church. Little office of the Blessed Virgin Mary,0,a;t,,Little office of the Blessed Virgin Mary (Catholic Church),http://id.worldcat.org/fast/1364470,Q55349
-Catholic Church. Missal,0,a;t,,Missal (Catholic Church),http://id.worldcat.org/fast/1356512,Q100378
 Catholic Church. Officiumpro defunctis--Texts,0,a;t--v,,Officium pro defunctis (Catholic Church);Texts,http://id.worldcat.org/fast/1373569;http://id.worldcat.org/fast/1423705,Q12666;Q3066
 Catholic Church. Officium pro defunctis--Texts,0,a;t--v,,Officium pro defunctis (Catholic Church);Texts,http://id.worldcat.org/fast/1373569;http://id.worldcat.org/fast/1423705,Q12666;Q3066
 Catholic Church. Pope (1471-1484 : Sixtus IV),0,a;b,,"Catholic Church. Pope;Sixtus IV, Pope, 1414-1484",http://id.worldcat.org/fast/540752;http://id.worldcat.org/fast/199677,Q66850;Q38777
@@ -2584,7 +2561,6 @@ Celestines--Manuscripts.,0,a--x,,Celestines;Manuscripts,http://id.worldcat.org/f
 "Charles, Duke of Burgundy, 1433-1477",fast,a;c;d,http://id.worldcat.org/fast/54638,"Charles, Duke of Burgundy, 1433-1477",http://id.worldcat.org/fast/54638,Q7714
 "Charles, Duke of Burgundy, 1433-1477.",fast,a;c;d,http://id.worldcat.org/fast/54638,"Charles, Duke of Burgundy, 1433-1477",http://id.worldcat.org/fast/54638,Q7714
 "Charles, Duke of Burgundy, 1433-1477.",0,a;c;d,http://id.loc.gov/authorities/names/n80056901,"Charles, Duke of Burgundy, 1433-1477",http://id.worldcat.org/fast/54638,Q7714
-"Charles, Duke of Burgundy, 1433-1477--Sources",0,a;c;d--v,,"Charles, Duke of Burgundy, 1433-1477;Sources",http://id.worldcat.org/fast/54638;http://id.worldcat.org/fast/1423900,Q7714;Q2769
 "Charles I, 1516-1556",fast,a,,1516-1556,http://id.worldcat.org/fast/1355580,Q254
 "Charles I, 1516-1556.",fast,a,,1516-1556,http://id.worldcat.org/fast/1355580,Q254
 "Charles II, King of Spain, 1661-1700",0,a;b;c;d,http://id.loc.gov/authorities/names/n50081499,"Charles II, King of Spain, 1661-1700",http://id.worldcat.org/fast/19631,Q67948
@@ -2607,7 +2583,6 @@ Celestines--Manuscripts.,0,a--x,,Celestines;Manuscripts,http://id.worldcat.org/f
 "Charles VI, King of France, 1368-1422",0,a;b;c;d,http://id.loc.gov/authorities/names/n80123242,"Charles VI, King of France, 1368-1422",http://id.worldcat.org/fast/61233,Q4949
 "Charles VI, King of France, 1368-1422.",fast,a;b;c;d,http://id.worldcat.org/fast/61233,"Charles VI, King of France, 1368-1422",http://id.worldcat.org/fast/61233,Q4949
 "Charles VI, King of France, 1368-1422.",0,a;b;c;d,http://id.loc.gov/authorities/names/n80123242,"Charles VI, King of France, 1368-1422",http://id.worldcat.org/fast/61233,Q4949
-"Charles VI, King of France, 1368-1422--Sources",0,a;b;c;d--v,,"Charles VI, King of France, 1368-1422;Sources",http://id.worldcat.org/fast/61233;http://id.worldcat.org/fast/1423900,Q4949;Q2769
 "Charles VII, King of France, 1403-1461",0,a;b;c;d,,"Charles VII, King of France, 1403-1461",http://id.worldcat.org/fast/12387,Q66823
 "Charles VIII, King of France, 1470-1498",fast,a;b;c;d,http://id.worldcat.org/fast/102718,"Charles VIII, King of France, 1470-1498",http://id.worldcat.org/fast/102718,Q7706
 "Charles VIII, King of France, 1470-1498",0,a;b;c;d,http://id.loc.gov/authorities/names/n82158482,"Charles VIII, King of France, 1470-1498",http://id.worldcat.org/fast/102718,Q7706
@@ -2630,7 +2605,6 @@ Ciacci family.,0,a,http://id.loc.gov/authorities/subjects/sh85025907,Ciacci fami
 "Cicero, Marcus Tullius",fast,a,http://id.worldcat.org/fast/32861,"Cicero, Marcus Tullius",http://id.worldcat.org/fast/32861,Q7943
 "Cicero, Marcus Tullius.",0,a,http://id.loc.gov/authorities/names/n79032166,"Cicero, Marcus Tullius",http://id.worldcat.org/fast/32861,Q7943
 "Cicero, Marcus Tullius.",fast,a,http://id.worldcat.org/fast/32861,"Cicero, Marcus Tullius",http://id.worldcat.org/fast/32861,Q7943
-"Cicero, Marcus Tullius. De finibus bonorum et malorum",0,a;t,,"De finibus bonorum et malorum (Cicero, Marcus Tullius)",http://id.worldcat.org/fast/1360446,Q100375
 "Cicero, Marcus Tullius. De oratore",0,a;t,http://id.loc.gov/authorities/names/nr98001754,"De oratore (Cicero, Marcus Tullius)",http://id.worldcat.org/fast/1359018,Q67978
 "Cicero, Marcus Tullius. De re republica",0,a;t,,"De republica (Cicero, Marcus Tullius)",http://id.worldcat.org/fast/1358232,Q7426
 "Cicero, Marcus Tullius. Epistolae ad familiares",0,a;t,http://id.loc.gov/authorities/names/n86114112,"Epistolae ad familiares (Cicero, Marcus Tullius)",http://id.worldcat.org/fast/1360120,Q4819
@@ -2645,15 +2619,11 @@ Cistercians,fast,a,(OCoLC)fst00554661,Cistercians,http://id.worldcat.org/fast/55
 Cistercians,fast,a,http://id.worldcat.org/fast/554661,Cistercians,http://id.worldcat.org/fast/554661,Q2799
 Cistercians.,fast,a,http://id.worldcat.org/fast/554661,Cistercians,http://id.worldcat.org/fast/554661,Q2799
 Cistercians--Discipline and government--Early works to 1800,0,a--x--v,,Cistercians;Discipline;Early works,http://id.worldcat.org/fast/554661;http://id.worldcat.org/fast/894841;http://id.worldcat.org/fast/1411636,Q2799;Q3516;Q300
-Cistercians--England--History--Sources,0,a--z--x--v,,Cistercians;England;History;Sources,http://id.worldcat.org/fast/554661;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1423900,Q2799;Q320;Q6879;Q2769
-Cistercians--France,0,a--z,,Cistercians;France,http://id.worldcat.org/fast/554661;http://id.worldcat.org/fast/1204289,Q2799;Q152
 Cistercians--Italy,0,a--z,,Cistercians,http://id.worldcat.org/fast/554661,Q2799
 Cistercians--Liturgy--Early works to 1800,0,a--x--v,,Cistercians;Liturgics;Early works,http://id.worldcat.org/fast/554661;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1411636,Q2799;Q207;Q300
 Cistercians--Liturgy--Texts,0,a--x--v,,Cistercians;Liturgics;Texts,http://id.worldcat.org/fast/554661;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705,Q2799;Q207;Q3066
 Cistercians--Liturgy--Texts.,0,a--x--v,,Cistercians;Liturgics;Texts,http://id.worldcat.org/fast/554661;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705,Q2799;Q207;Q3066
 Cistercians--Liturgy--Texts--Early works to 1800,0,a--x--v--v,,Cistercians;Liturgics;Texts;Early works,http://id.worldcat.org/fast/554661;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636,Q2799;Q207;Q3066;Q300
-Cistercians--Liturgy--Texts--Manuscripts,0,a--x--v--v,,Cistercians;Liturgics;Texts;Manuscripts,http://id.worldcat.org/fast/554661;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1424060,Q2799;Q207;Q3066;Q331
-Cistercians--Manuscripts,0,a--x,,Cistercians;Manuscripts,http://id.worldcat.org/fast/554661;http://id.worldcat.org/fast/1008230,Q2799;Q38609
 Cistercians--Prayers and devotions--Early works to 1800,0,a--v--v,,Cistercians;Prayers and devotions;Early works,http://id.worldcat.org/fast/554661;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q2799;Q3052;Q300
 Cistercians--Privileges and immunities--Early works to 1800,0,a--x--v,,Cistercians;Privileges and immunities;Early works,http://id.worldcat.org/fast/554661;http://id.worldcat.org/fast/1077674;http://id.worldcat.org/fast/1411636,Q2799;Q38630;Q300
 Cistercians--Rules--Early works to 1800,0,a--x--v,,Cistercians;Rules;Early works,http://id.worldcat.org/fast/554661;http://id.worldcat.org/fast/1423857;http://id.worldcat.org/fast/1411636,Q2799;Q4910;Q300
@@ -2686,7 +2656,6 @@ Cofradía de la Transfixión de Zaragoza--History--Early works to 1800,0,a--x--v
 Cofradía Mayor de Medinaceli (Spain)--History--Early works to 1800,0,a--x--v,,History;Early works,http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q6879;Q300
 "Coligny, Gaspard de, seigneur de Châtillon, 1519-1572",0,a;c;d,,"Coligny, Gaspard de, seigneur de Châtillon, 1519-1572",http://id.worldcat.org/fast/17752,Q38632
 "Collégiale Sainte-Gertrude (Nivelles, Belgium)",0,a,,"Collégiale Sainte-Gertrude (Nivelles, Belgium)",http://id.worldcat.org/fast/550429,Q38633
-Collégiale Saint-Vincent de Soignies--History--Sources,0,a--x--v,,Collégiale Saint-Vincent de Soignies;History;Sources,http://id.worldcat.org/fast/662537;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1423900,Q6875;Q6879;Q2769
 "Colleoni, Bartolomeo, 1400-1475",fast,a;d,http://id.worldcat.org/fast/170042,"Colleoni, Bartolomeo, 1400-1475",http://id.worldcat.org/fast/170042,Q4221
 "Colleoni, Bartolomeo, 1400-1475",0,a;d,http://id.loc.gov/authorities/names/n85326439,"Colleoni, Bartolomeo, 1400-1475",http://id.worldcat.org/fast/170042,Q4221
 "Colleoni, Bartolomeo, 1400-1475.",0,a;d,http://id.loc.gov/authorities/names/n85326439,"Colleoni, Bartolomeo, 1400-1475",http://id.worldcat.org/fast/170042,Q4221
@@ -2712,7 +2681,6 @@ Coptic Church,fast,a,http://id.worldcat.org/fast/536919,Coptic Church,http://id.
 Coptic Church.,fast,a,http://id.worldcat.org/fast/536919,Coptic Church,http://id.worldcat.org/fast/536919,Q4250
 Coptic Church--Liturgy,0,a--x,http://id.loc.gov/authorities/subjects/sh99014993,Coptic Church;Liturgics,http://id.worldcat.org/fast/536919;http://id.worldcat.org/fast/1000579,Q4250;Q207
 Coptic Church--Liturgy.,0,a--x,http://id.loc.gov/authorities/subjects/sh99014993,Coptic Church;Liturgics,http://id.worldcat.org/fast/536919;http://id.worldcat.org/fast/1000579,Q4250;Q207
-Coptic Church--Liturgy--Texts--16th century,0,a--x--v--y,,Coptic Church;Liturgics;Texts;Sixteenth century,http://id.worldcat.org/fast/536919;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1119851,Q4250;Q207;Q3066;Q335
 Coptic Church--Liturgy--Texts--Manuscripts,0,a--x--v--x,,Coptic Church;Liturgics;Texts;Manuscripts,http://id.worldcat.org/fast/536919;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1424060,Q4250;Q207;Q3066;Q331
 Coptic Church--Liturgy--Texts--Manuscripts.,0,a--x--v--x,,Coptic Church;Liturgics;Texts;Manuscripts,http://id.worldcat.org/fast/536919;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1424060,Q4250;Q207;Q3066;Q331
 Coran,6,a,,Qurʼan,http://id.worldcat.org/fast/1842877,Q11441
@@ -2727,7 +2695,6 @@ Coran--Récitation--Ouvrages avant 1800,6,a--x--v,,Qurʼan;Recitations;Early wor
 Cornell University,0,a,,Cornell University,http://id.worldcat.org/fast/530369,Q39936
 Cornell University,fast,a,(OCoLC)fst00530369,Cornell University,http://id.worldcat.org/fast/530369,Q39936
 Corpus commentariorum Averrois in Aristotelem (Averroës),fast,a,(OCoLC)fst01779643,Corpus commentariorum Averrois in Aristotelem (Averroës),http://id.worldcat.org/fast/1779643,Q48181
-Corpus juris civilis,0,a,,Corpus juris civilis,http://id.worldcat.org/fast/1358135,Q100379
 Correspondence (Namık Kemal),fast,a,,Correspondence (Namık Kemal),http://id.worldcat.org/fast/1912815,Q27343
 "Cosimo I, Grand-Duke of Tuscany, 1519-1574",fast,a;b;c;d,http://id.worldcat.org/fast/34278,"Cosimo I, Grand-Duke of Tuscany, 1519-1574",http://id.worldcat.org/fast/34278,Q6932
 "Cosimo I, Grand-Duke of Tuscany, 1519-1574",0,a;b;c;d,http://id.loc.gov/authorities/names/n79043917,"Cosimo I, Grand-Duke of Tuscany, 1519-1574",http://id.worldcat.org/fast/34278,Q6932
@@ -2854,7 +2821,6 @@ Dominicans--Hymns--Early works to 1800,0,a--v--v,,Dominicans;Hymns;Early works,h
 Dominicans--In art,0,a--v,,Dominicans,http://id.worldcat.org/fast/533548,Q181
 Dominicans--In art.,0,a--v,,Dominicans,http://id.worldcat.org/fast/533548,Q181
 Dominican Sisters--Liturgy--Texts--Early works to 1800,0,a--x--v--v,,Dominican sisters;Liturgics;Texts;Early works,http://id.worldcat.org/fast/896774;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636,Q4916;Q207;Q3066;Q300
-Dominicans--Italy,0,a--z,,Dominicans;Italy,http://id.worldcat.org/fast/533548;http://id.worldcat.org/fast/1204565,Q181;Q249
 Dominicans--Italy--Ferrara--History--16th century--Sources,0,a--z--z--x--y--v,,Dominicans;Italy--Ferrara;History;Sixteenth century;Sources,http://id.worldcat.org/fast/533548;http://id.worldcat.org/fast/1204575;http://id.worldcat.org/fast/1411628;http://id.worldcat.org/fast/1119851;http://id.worldcat.org/fast/1423900,Q181;Q7179;Q279;Q335;Q2769
 Dominicans--Italy--History--16th century,0,a--z--x--y,,Dominicans;Italy;History;Sixteenth century,http://id.worldcat.org/fast/533548;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1119851,Q181;Q249;Q6879;Q335
 Dominicans--Liturgy,0,a--x,,Dominicans;Liturgics,http://id.worldcat.org/fast/533548;http://id.worldcat.org/fast/1000579,Q181;Q207
@@ -2874,7 +2840,6 @@ Dominicans--Prayers and devotions--Early works to 1800,0,a--v--v,,Dominicans;Pra
 Dominicans--Prayers and devotions--Latin--Early works to 1800,0,a--v--x--v,,Dominicans;Prayers and devotions;Latin language;Early works,http://id.worldcat.org/fast/533548;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/993125;http://id.worldcat.org/fast/1411636,Q181;Q3052;Q4170;Q300
 Dominicans--Sermons--Early works to 1800,0,a--x--v,,Dominicans;Sermons;Early works,http://id.worldcat.org/fast/533548;http://id.worldcat.org/fast/1113216;http://id.worldcat.org/fast/1411636,Q181;Q38598;Q300
 Dominicans--Sermons--Early works to 1800.,0,a--x--v,,Dominicans;Sermons;Early works,http://id.worldcat.org/fast/533548;http://id.worldcat.org/fast/1113216;http://id.worldcat.org/fast/1411636,Q181;Q38598;Q300
-Dominicans Sisters--Prayers and devotions--Early works to 1800,0,a--v--v,,Dominican sisters;Prayers and devotions;Early works,http://id.worldcat.org/fast/896774;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q4916;Q3052;Q300
 Dominicans Sisters--Prayers and devotions--Latin--Early works to 1800,0,a--v--x--v,,Dominican sisters;Prayers and devotions;Latin language;Early works,http://id.worldcat.org/fast/896774;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/993125;http://id.worldcat.org/fast/1411636,Q4916;Q3052;Q4170;Q300
 Dominikanerinnenkloster Heilig Kreuz Regensburg--History--17th century--Sources,0,a--x--y--v,,Dominikanerinnenkloster Heilig Kreuz Regensburg;History;Seventeenth century;Sources,http://id.worldcat.org/fast/627191;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1113663;http://id.worldcat.org/fast/1423900,Q66791;Q6879;Q2771;Q2769
 "Domitian, Emperor of Rome, 51-96",fast,a;c;d,http://id.worldcat.org/fast/39095,"Domitian, Emperor of Rome, 51-96",http://id.worldcat.org/fast/39095,Q7666
@@ -3003,486 +2968,486 @@ Fables of Bidpai.--Persian,0,a--l,,Fables of Bidpai;Persian language,http://id.w
 "Farāʼiḍ al-Sirājīyah (Sajāwandī, Sirāj al-Dīn Muḥammad ibn Muḥammad)",fast,a,http://id.worldcat.org/fast/1781891,"Farāʼiḍ al-Sirājīyah (Sajāwandī, Sirāj al-Dīn Muḥammad ibn Muḥammad)",http://id.worldcat.org/fast/1781891,Q3011
 "Farāʼiḍ al-Sirājīyah (Sajāwandī, Sirāj al-Dīn Muḥammad ibn Muḥammad)",fast,a,http://id.worldcat.org/fast/1781891,"Farāʼiḍ al-Sirājīyah (Sajāwandī, Sirāj al-Dīn Muḥammad ibn Muḥammad)",http://id.worldcat.org/fast/1781891,Q3011
 "Fatḥ al-Wahhāb bi-sharḥ Manhaj al-ṭullāb (Anṣārī, Zakarīyā ibn Muḥammad)",fast,a,(OCoLC)fst01378040,"Fatḥ al-Wahhāb bi-sharḥ Manhaj al-ṭullāb (Anṣārī, Zakarīyā ibn Muḥammad)",http://id.worldcat.org/fast/1378040,Q11329
-"Fatḥ al-Wahhāb bi-sharḥ Manhaj al-ṭullāb (Anṣārī, Zakarīyā ibn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Fatḥ al-Wahhāb bi-sharḥ Manhaj al-ṭullāb (Anṣārī, Zakarīyā ibn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				Muḥammad)",fast,a,(OCoLC)fst01378040,"Fatḥ al-Wahhāb bi-sharḥ Manhaj al-ṭullāb (Anṣārī, Zakarīyā ibn Muḥammad)",http://id.worldcat.org/fast/1378040,Q11329
 "Fāṭimah, -632 or 633",fast,a;d,(OCoLC)fst01818087,"Fāṭimah, -632 or 633",http://id.worldcat.org/fast/1818087,Q11590
 "Fāṭimah, -632 or 633.",fast,a;d,(OCoLC)fst01818087,"Fāṭimah, -632 or 633",http://id.worldcat.org/fast/1818087,Q11590
@@ -3533,486 +3498,486 @@ Fiqh al-akbar (Abū Ḥanīfah),fast,a,(OCoLC)fst01374867,Fiqh al-akbar (Abū �
 "Fīrūzābādī, Muḥammad ibn Yaʻqūb, 1329-1414 or 1415. Qāmūs al-muḥīṭ",0,a;d;t,,"Qāmūs al-muḥīṭ (Fīrūzābādī, Muḥammad ibn Yaʻqūb)",http://id.worldcat.org/fast/1368549,Q11438
 "Fīrūzābādī, Muḥammad ibn Yaʻqūb, 1329-1414 or 1415. Qāmūs al-muḥīṭ.",0,a;d;t,,"Qāmūs al-muḥīṭ (Fīrūzābādī, Muḥammad ibn Yaʻqūb)",http://id.worldcat.org/fast/1368549,Q11438
 "Fīrūzābādī al-Shīrāzī, Abū Isḥāq Ibrāhīm ibn ʻAlī ibn Yūsuf, approximately 1003-1083. Tanbīh",0,a;d;t,,"Tanbīh (Fīrūzābādī al-Shīrāzī, Abū Isḥāq Ibrāhīm ibn ʻAlī ibn Yūsuf)",http://id.worldcat.org/fast/1376081,Q11442
-"Fīrūzābādī al-Shīrāzī, Abū Isḥāq Ibrāhīm ibn ʻAlī ibn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Fīrūzābādī al-Shīrāzī, Abū Isḥāq Ibrāhīm ibn ʻAlī ibn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				Yūsuf, approximately 1003-1083. Tanbīh.",0,a;d;t,,"Tanbīh (Fīrūzābādī al-Shīrāzī, Abū Isḥāq Ibrāhīm ibn ʻAlī ibn Yūsuf)",http://id.worldcat.org/fast/1376081,Q11442
 "Fiske, Willard, 1831-1904",0,a;d,,"Fiske, Willard, 1831-1904",http://id.worldcat.org/fast/1531682,Q39916
 "Fiske, Willard, 1831-1904",fast,a;d,(OCoLC)fst01531682,"Fiske, Willard, 1831-1904",http://id.worldcat.org/fast/1531682,Q39916
@@ -4369,486 +4334,486 @@ Hippocrates. Aphorisms.,0,a;t,http://id.loc.gov/authorities/names/n80119944,Apho
 Hippocrates--Fiction,0,a--v,,Hippocrates;Fiction,http://id.worldcat.org/fast/30023;http://id.worldcat.org/fast/1423787,Q3074;Q3039
 Hippocrates--Fiction.,0,a--v,,Hippocrates;Fiction,http://id.worldcat.org/fast/30023;http://id.worldcat.org/fast/1423787,Q3074;Q3039
 "Ḥirz al-amānī wa-wajh al-tahānī (Shāṭibī, al-Qāsim ibn Fīrruh)",fast,a,(OCoLC)fst01369357,"Ḥirz al-amānī wa-wajh al-tahānī (Shāṭibī, al-Qāsim ibn Fīrruh)",http://id.worldcat.org/fast/1369357,Q11166
-"Ḥirz al-amānī wa-wajh al-tahānī (Shāṭibī, al-Qāsim ibn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Ḥirz al-amānī wa-wajh al-tahānī (Shāṭibī, al-Qāsim ibn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				Fīrruh)",fast,a,(OCoLC)fst01369357,"Ḥirz al-amānī wa-wajh al-tahānī (Shāṭibī, al-Qāsim ibn Fīrruh)",http://id.worldcat.org/fast/1369357,Q11166
 Ḥirz al-Yamānī,0,a,,"Ḥusayn ibn ʻAlī, -680",http://id.worldcat.org/fast/1825184,Q42452
 "Historia del famoso predicador fray Gerundio de Campazas, alias Zotes (Isla, José Francisco de)",fast,a,,"Historia del famoso predicador fray Gerundio de Campazas, alias Zotes (Isla, José Francisco de)",http://id.worldcat.org/fast/1378131,Q48115
@@ -5074,7 +5039,6 @@ Isaiah (Biblical prophet)--Pictorial works,0,a;c--v,,Isaiah (Biblical prophet);P
 Ise monogatari--Manuscripts--Early works to 1800,0,a--v--v,,Ise monogatari;Manuscripts;Early works,http://id.worldcat.org/fast/1363876;http://id.worldcat.org/fast/1424060;http://id.worldcat.org/fast/1411636,Q38692;Q331;Q300
 "Isidore, of Seville, Saint, -636",ds-subject,,,"Isidore, of Seville, Saint, -636",http://id.worldcat.org/fast/1801057,Q48212
 "Isidore, of Seville, Saint, -636",fast,a;c;d,(OCoLC)fst01801057,"Isidore, of Seville, Saint, -636",http://id.worldcat.org/fast/1801057,Q48212
-"Isidore, of Seville, Saint, -636. Etymologiae",0,a;c;d;t,,"Etymologiae (Isidore, of Seville, Saint)",http://id.worldcat.org/fast/1359998,Q100376
 "Isidore, of Seville, Saint, -636. Historia de regibus Gothorum, Vandalorum, et Suevorum",0,a;c;d;t,,"Historia de regibus Gothorum, Vandalorum, et Suevorum (Isidore, of Seville, Saint)",http://id.worldcat.org/fast/1384107,Q66786
 "Isidore, of Seville, Saint, -636--Poetry",0,a;c;d--v,,"Isidore, of Seville, Saint, -636;Poetry",http://id.worldcat.org/fast/1801057;http://id.worldcat.org/fast/1423828,Q48212;Q247
 "Isla, José Francisco de, 1703-1781",fast,a;d,,"Isla, José Francisco de, 1703-1781",http://id.worldcat.org/fast/32886,Q48116
@@ -5143,486 +5107,486 @@ Jāmiʻ al-ṣaḥīḥ (Muslim ibn al-Ḥajjāj al-Qushayrī),fast,a,(OCoLC)fst
 "Jammāʻīlī, ʻAbd al-Ghanī ibn ʻAbd al-Wāḥid, 1146-1203. ʻUmdat al-aḥkām",0,a;d;t,,"ʻUmdat al-aḥkām (Jammāʻīlī, ʻAbd al-Ghanī ibn ʻAbd al-Wāḥid)",http://id.worldcat.org/fast/1369686,Q64125
 "Jammāʿīlī, ʿAbd al-Ghanī ibn ʿAbd al-Wāḥid, 1146-1203. ʿUmdat al-aḥkām",0,a;d;t,,"ʻUmdat al-aḥkām (Jammāʻīlī, ʻAbd al-Ghanī ibn ʻAbd al-Wāḥid)",http://id.worldcat.org/fast/1369686,Q64125
 "Jamʻ al-jawāmiʻ fī al-uṣūl (Subkī, Tāj al-Dīn ʻAbd al-Wahhāb ibn ʻAlī)",fast,a,(OCoLC)fst01378154,"Jamʻ al-jawāmiʻ fī al-uṣūl (Subkī, Tāj al-Dīn ʻAbd al-Wahhāb ibn ʻAlī)",http://id.worldcat.org/fast/1378154,Q11316
-"Jamʻ al-jawāmiʻ fī al-uṣūl (Subkī, Tāj al-Dīn ʻAbd al-Wahhāb ibn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Jamʻ al-jawāmiʻ fī al-uṣūl (Subkī, Tāj al-Dīn ʻAbd al-Wahhāb ibn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				ʻAlī)",fast,a,(OCoLC)fst01378154,"Jamʻ al-jawāmiʻ fī al-uṣūl (Subkī, Tāj al-Dīn ʻAbd al-Wahhāb ibn ʻAlī)",http://id.worldcat.org/fast/1378154,Q11316
 "Jamʻ bayna al-ṣaḥīḥayn (Ḥumaydī, Muḥammad ibn Fattūḥ)",fast,a,,"Jamʻ bayna al-ṣaḥīḥayn (Ḥumaydī, Muḥammad ibn Fattūḥ)",http://id.worldcat.org/fast/1388795,Q64142
 "János I Zápolya, King of Hungary, 1487-1540",0,a;b;c;d,http://id.loc.gov/authorities/names/n2002040065,"János I Zápolya, King of Hungary, 1487-1540",http://id.worldcat.org/fast/482354,Q4315
@@ -5767,7 +5731,6 @@ Job (Biblical figure)--Sermons--Early works to 1800,0,a;c--x--v,,Job (Biblical f
 "John, the Apostle, Saint",0,a;c,http://id.loc.gov/authorities/names/n79060715,"John, the Apostle, Saint",http://id.worldcat.org/fast/36704,Q7193
 "John, the Apostle, Saint--Art",0,a;c--x,,"John, the Apostle, Saint;Art",http://id.worldcat.org/fast/36704;http://id.worldcat.org/fast/815177,Q7193;Q184
 "John, the Apostle, Saint--Art.",0,a;c--x,,"John, the Apostle, Saint;Art",http://id.worldcat.org/fast/36704;http://id.worldcat.org/fast/815177,Q7193;Q184
-"John, the Apostle, Saint--Illustrations",0,a;c--v,,"John, the Apostle, Saint;Illustrated works",http://id.worldcat.org/fast/36704;http://id.worldcat.org/fast/1423873,Q7193;Q294
 "John, the Baptist, Saint",0,a;c,http://id.loc.gov/authorities/names/n78095804,"John, the Baptist, Saint",http://id.worldcat.org/fast/29179,Q7105
 "John, the Baptist, Saint",fast,a;c,http://id.worldcat.org/fast/29179,"John, the Baptist, Saint",http://id.worldcat.org/fast/29179,Q7105
 "John Chrysostom, Saint, -407",0,a;c;d,,"John Chrysostom, Saint, -407",http://id.worldcat.org/fast/1827247,Q39919
@@ -6020,486 +5983,486 @@ Lord's prayer--Early works to 1800.,0,a--v,,Lord's prayer;Early works,http://id.
 "Louis XII, King of France, 1462-1515.",0,a;b;c;d,http://id.loc.gov/authorities/names/n50080620,"Louis XII, King of France, 1462-1515",http://id.worldcat.org/fast/19560,Q4872
 "Lowenstamm, Saul, 1717-1790--Trials, litigation, etc",0,a;d--x,,"Shaʼul, 1717-1790;Trials, litigation, etc.",http://id.worldcat.org/fast/351118;http://id.worldcat.org/fast/1423712,Q76205;Q38749
 "Lubāb al-iʻrāb al-māniʻ min al-laḥn fī al-sunnah wa-al-Kitāb (Shaʻrānī, ʻAbd al-Wahhāb ibn Aḥmad)",fast,a,(OCoLC)fst01391140,"Lubāb al-iʻrāb al-māniʻ min al-laḥn fī al-sunnah wa-al-Kitāb (Shaʻrānī, ʻAbd al-Wahhāb ibn Aḥmad)",http://id.worldcat.org/fast/1391140,Q11170
-"Lubāb al-iʻrāb al-māniʻ min al-laḥn fī al-sunnah wa-al-Kitāb
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Lubāb al-iʻrāb al-māniʻ min al-laḥn fī al-sunnah wa-al-Kitāb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				(Shaʻrānī, ʻAbd al-Wahhāb ibn Aḥmad)",fast,a,(OCoLC)fst01391140,"Lubāb al-iʻrāb al-māniʻ min al-laḥn fī al-sunnah wa-al-Kitāb (Shaʻrānī, ʻAbd al-Wahhāb ibn Aḥmad)",http://id.worldcat.org/fast/1391140,Q11170
 Lucan,0,a,,"Lucan, 39-65",http://id.worldcat.org/fast/40568,Q38712
 "Lucan, 39-65. Pharsalia",0,a;d;t,http://id.loc.gov/authorities/names/n81132997,Pharsalia (Lucan),http://id.worldcat.org/fast/1356201,Q38713
@@ -7075,486 +7038,486 @@ Muḥammad ibn ʻAbd al-Raḥmān--Knowledge and learning.,0,a--x,,Learning and 
 "Mukhtaṣar al-Manār (Ibn Ḥabīb, Ṭāhir ibn al-Ḥasan)",fast,a,,"Mukhtaṣar al-Manār (Ibn Ḥabīb, Ṭāhir ibn al-Ḥasan)",http://id.worldcat.org/fast/1391683,Q63777
 "Mukhtaṣar al-Qudūrī (Qudūrī, Aḥmad ibn Muḥammad)",fast,a,,"Mukhtaṣar al-Qudūrī (Qudūrī, Aḥmad ibn Muḥammad)",http://id.worldcat.org/fast/1377526,Q63782
 "Mukhtaṣar fī al-fiqh ʻalá madhhab al-Shāfiʻī (Abū Shujāʻ al-Iṣfahānī, Aḥmad ibn al-Ḥusayn)",fast,a,(OCoLC)fst01403587,"Mukhtaṣar fī al-fiqh ʻalá madhhab al-Shāfiʻī (Abū Shujāʻ al-Iṣfahānī, Aḥmad ibn al-Ḥusayn)",http://id.worldcat.org/fast/1403587,Q11280
-"Mukhtaṣar fī al-fiqh ʻalá madhhab al-Shāfiʻī (Abū Shujāʻ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Mukhtaṣar fī al-fiqh ʻalá madhhab al-Shāfiʻī (Abū Shujāʻ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				al-Iṣfahānī, Aḥmad ibn al-Ḥusayn)",fast,a,(OCoLC)fst01403587,"Mukhtaṣar fī al-fiqh ʻalá madhhab al-Shāfiʻī (Abū Shujāʻ al-Iṣfahānī, Aḥmad ibn al-Ḥusayn)",http://id.worldcat.org/fast/1403587,Q11280
 "Mulakhkhaṣ fī al-hayʼah (Jaghmīnī, Maḥmūd ibn Muḥammad)",fast,a,http://id.worldcat.org/fast/1380591,"Mulakhkhaṣ fī al-hayʼah (Jaghmīnī, Maḥmūd ibn Muḥammad)",http://id.worldcat.org/fast/1380591,Q3015
 "Mulakhkhaṣ fī al-hayʼah (Jaghmīnī, Maḥmūd ibn Muḥammad)",fast,a,http://id.worldcat.org/fast/1380591,"Mulakhkhaṣ fī al-hayʼah (Jaghmīnī, Maḥmūd ibn Muḥammad)",http://id.worldcat.org/fast/1380591,Q3015
@@ -7562,486 +7525,486 @@ Mulḥat al-iʻrāb (Ḥarīrī),fast,a,(OCoLC)fst01938007,Mulḥat al-iʻrāb 
 "Mullawī, Aḥmad ibn ʻAbd al-Fattāḥ, 1677-1767. Sharḥ al-Samarqandīyah fī al-balāghah",0,a;d;t,,"Sharḥ al-Samarqandīyah fī al-balāghah (Mullawī, Aḥmad ibn ʻAbd al-Fattāḥ)",http://id.worldcat.org/fast/2058619,Q38338
 "Munfarijah (Ibn al-Naḥwī, Yūsuf ibn Muḥammad)",fast,a,,"Munfarijah (Ibn al-Naḥwī, Yūsuf ibn Muḥammad)",http://id.worldcat.org/fast/2058137,Q11470
 "Munyat al-muṣallī wa-ghunyat al-mubtadiʼ (Kāshgharī, Sadīd al-Dīn)",fast,a,(OCoLC)fst01369619,"Munyat al-muṣallī wa-ghunyat al-mubtadiʼ (Kāshgharī, Sadīd al-Dīn)",http://id.worldcat.org/fast/1369619,Q11419
-"Munyat al-muṣallī wa-ghunyat al-mubtadiʼ (Kāshgharī, Sadīd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Munyat al-muṣallī wa-ghunyat al-mubtadiʼ (Kāshgharī, Sadīd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				al-Dīn)",fast,a,(OCoLC)fst01369619,"Munyat al-muṣallī wa-ghunyat al-mubtadiʼ (Kāshgharī, Sadīd al-Dīn)",http://id.worldcat.org/fast/1369619,Q11419
 "Murādī ibn Umm Qāsim, al-Ḥasan ibn Qāsim, -1348 or 1349. Tawḍīḥ maqāṣid al-Alfīyah",0,a;d;t,http://id.loc.gov/authorities/names/n85290602,"Tawḍīḥ maqāṣid al-Alfīyah (Murādī ibn Umm Qāsim, al-Ḥasan ibn Qāsim)",http://id.worldcat.org/fast/1370666,Q12579
 "Murtola, Gaspare, -1624",0,a;d,,"Murtola, Gaspare, -1624",http://id.worldcat.org/fast/1836543,Q38737
@@ -8103,486 +8066,486 @@ Narayana (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2021014665,Nā
 "Nasafī, ʻUmar ibn Muḥammad, 1068?-1142. ʻAqāʼid.",0,a;d;t,,"ʻAqāʼid (Nasafī, ʻUmar ibn Muḥammad)",http://id.worldcat.org/fast/1381144,Q11181
 "Nasafī, ʻUmar ibn Muḥammad, 1068?-1142. ʻAqāʼid.",0,a;d;t,,"ʻAqāʼid (Nasafī, ʻUmar ibn Muḥammad)",http://id.worldcat.org/fast/1381144,Q11181
 "Naṣīḥat al-ikhwān wa-murshidat al-khillān (Ibn al-Wardī, Zayn al-Dīn ʻUmar ibn al-Muẓaffar)",fast,a,(OCoLC)fst01787943,"Naṣīḥat al-ikhwān wa-murshidat al-khillān (Ibn al-Wardī, Zayn al-Dīn ʻUmar ibn al-Muẓaffar)",http://id.worldcat.org/fast/1787943,Q11253
-"Naṣīḥat al-ikhwān wa-murshidat al-khillān (Ibn al-Wardī, Zayn al-Dīn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Naṣīḥat al-ikhwān wa-murshidat al-khillān (Ibn al-Wardī, Zayn al-Dīn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				ʻUmar ibn al-Muẓaffar)",fast,a,(OCoLC)fst01787943,"Naṣīḥat al-ikhwān wa-murshidat al-khillān (Ibn al-Wardī, Zayn al-Dīn ʻUmar ibn al-Muẓaffar)",http://id.worldcat.org/fast/1787943,Q11253
 "Nāṣir al-Dīn Shāh, Shah of Iran, 1831-1896",0,a;c;d,http://id.loc.gov/authorities/names/n79102800,"Nāṣir al-Dīn Shāh, Shah of Iran, 1831-1896",http://id.worldcat.org/fast/42232,Q48950
 "Nāṣir al-Dīn Shāh, Shah of Iran, 1831-1896",0,a;c;d,,"Nāṣir al-Dīn Shāh, Shah of Iran, 1831-1896",http://id.worldcat.org/fast/42232,Q48950
@@ -8642,968 +8605,968 @@ Noah and the ark--Commentaries--Early works to 1800,0,a--v--v,,Commentaries;Earl
 "Norton, Andrew of Bristow--Will",0,a;c--x,,Wills,http://id.worldcat.org/fast/1175513,Q8019
 Nr̥siṃhāśrama. Vedāntatattvaviveka,0,a;t,http://id.loc.gov/authorities/names/n88254517,Vedāntatattvaviveka (Nr̥siṃhāśrama),http://id.worldcat.org/fast/1368840,Q76157
 "Nukhbat al-fikar fī muṣṭalaḥ ahl al-athar (Ibn Ḥajar al-ʻAsqalānī, Aḥmad ibn ʻAlī)",fast,a,(OCoLC)fst01372699,"Nukhbat al-fikar fī muṣṭalaḥ ahl al-athar (Ibn Ḥajar al-ʻAsqalānī, Aḥmad ibn ʻAlī)",http://id.worldcat.org/fast/1372699,Q11422
-"Nukhbat al-fikar fī muṣṭalaḥ ahl al-athar (Ibn Ḥajar al-ʻAsqalānī,
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Nukhbat al-fikar fī muṣṭalaḥ ahl al-athar (Ibn Ḥajar al-ʻAsqalānī,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				Aḥmad ibn ʻAlī)",fast,a,(OCoLC)fst01372699,"Nukhbat al-fikar fī muṣṭalaḥ ahl al-athar (Ibn Ḥajar al-ʻAsqalānī, Aḥmad ibn ʻAlī)",http://id.worldcat.org/fast/1372699,Q11422
 "Nūr al-īḍāḥ fī al-fiqh ʻalá madhhab al-Imām Abī Ḥanīfah (Shurunbulālī, Ḥasan ibn ʻAmmār)",fast,a,(OCoLC)fst01390906,"Nūr al-īḍāḥ fī al-fiqh ʻalá madhhab al-Imām Abī Ḥanīfah (Shurunbulālī, Ḥasan ibn ʻAmmār)",http://id.worldcat.org/fast/1390906,Q11285
-"Nūr al-īḍāḥ fī al-fiqh ʻalá madhhab al-Imām Abī Ḥanīfah
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Nūr al-īḍāḥ fī al-fiqh ʻalá madhhab al-Imām Abī Ḥanīfah
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				(Shurunbulālī, Ḥasan ibn ʻAmmār)",fast,a,(OCoLC)fst01390906,"Nūr al-īḍāḥ fī al-fiqh ʻalá madhhab al-Imām Abī Ḥanīfah (Shurunbulālī, Ḥasan ibn ʻAmmār)",http://id.worldcat.org/fast/1390906,Q11285
 "Nūr Jahān, Empress, consort of Jahangir, Emperor of Hindustan, -1645--Portraits--Specimens",0,a;c;d--v--v,,"Nūr Jahān, Empress, consort of Jahangir, Emperor of Hindustan, -1645;Portraits;Specimens",http://id.worldcat.org/fast/1838715;http://id.worldcat.org/fast/1423831;http://id.worldcat.org/fast/1423861,Q48938;Q199;Q239
 "Ocampo, Florián de, 1499?-1555? Cronica general de España",0,a;d;t,http://id.loc.gov/authorities/names/n88244727,"Cronica general de España (Ocampo, Florián de)",http://id.worldcat.org/fast/1398882,Q48208
@@ -9882,7 +9845,6 @@ Prahlāda (Hindu mythological character),fast,a;c,http://id.worldcat.org/fast/10
 Prester John (Legendary character),0,a;c,,Prester John (Legendary character),http://id.worldcat.org/fast/1076039,Q48408
 Priestly blessing--Commentaries--Early works to 1800,0,a--v--v,,Priestly blessing;Commentaries;Early works,http://id.worldcat.org/fast/1365867;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q75112;Q2812;Q300
 Prior analytics (Aristotle),fast,a,http://id.worldcat.org/fast/fst01356260--http://id.worldcat.org/fast/1356260,Prior analytics (Aristotle),http://id.worldcat.org/fast/1356260,Q67987
-"Priscian, active approximately 500-530. Intitutio de arte grammatica--Commentaries",ds-subject,,,Commentaries,http://id.worldcat.org/fast/1423723,Q2812
 Profession of faith (Catholic Church),fast,a,http://id.worldcat.org/fast/1375849,Profession of faith (Catholic Church),http://id.worldcat.org/fast/1375849,Q4776
 "Propertius, Sextus",fast,a,http://id.worldcat.org/fast/33965,"Propertius, Sextus",http://id.worldcat.org/fast/33965,Q4234
 "Propertius, Sextus.",fast,a,http://id.worldcat.org/fast/33965,"Propertius, Sextus",http://id.worldcat.org/fast/33965,Q4234
@@ -10104,7 +10066,6 @@ Rāvaṇa (Hindu mythological character),0,a;c,http://id.loc.gov/authorities/nam
 "Raymond, of Peñafort, Saint, 1175?-1275",0,a;c;d,,"Raymond, of Peñafort, Saint, 1175?-1275",http://id.worldcat.org/fast/75368,Q38766
 "Rāzī, Muḥammad ibn Abī Bakr, fl. 1261. Tuḥfat al-mulūk",0,a;d;t,,"Tuḥfat al-mulūk (Rāzī, Muḥammad ibn Abī Bakr)",http://id.worldcat.org/fast/2057768,Q63780
 Rebellion (Turkey : 1703),fast,a;c;d,(OCoLC)fst01354201,Rebellion (Turkey : 1703),http://id.worldcat.org/fast/1354201,Q7677
-Renaut de Montauban (Chanson de geste),0,a,,Renaut de Montauban (Chanson de geste),http://id.worldcat.org/fast/1360436,Q100377
 Renouf family--Archives,0,a--v,,Archives,http://id.worldcat.org/fast/1423700,Q4174
 "Republic, 510-30 B.C",fast,a,,510-30 B.C.,http://id.worldcat.org/fast/1355940,Q7180
 "Republic, 510-30 B.C.",fast,a,,510-30 B.C.,http://id.worldcat.org/fast/1355940,Q7180
@@ -10119,486 +10080,486 @@ Rhetorica ad Herennium.,fast,a,http://id.worldcat.org/fast/1357545,Rhetorica ad 
 "Ripley, George, -1490",0,a;d,http://id.loc.gov/authorities/names/n84051473,"Ripley, George, -1490?",http://id.worldcat.org/fast/1844109,Q38767
 "Ripley, George, -1490?",0,a;d,http://id.loc.gov/authorities/names/n84051473,"Ripley, George, -1490?",http://id.worldcat.org/fast/1844109,Q38767
 "Risālah al-waḍʻīyah (Ījī, ʻAḍud al-Dīn ʻAbd al-Raḥmān ibn Aḥmad)",fast,a,(OCoLC)fst02057930,"Risālah al-waḍʻīyah (Ījī, ʻAḍud al-Dīn ʻAbd al-Raḥmān ibn Aḥmad)",http://id.worldcat.org/fast/2057930,Q11484
-"Risālah al-waḍʻīyah (Ījī, ʻAḍud al-Dīn ʻAbd al-Raḥmān ibn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Risālah al-waḍʻīyah (Ījī, ʻAḍud al-Dīn ʻAbd al-Raḥmān ibn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				Aḥmad)",fast,a,(OCoLC)fst02057930,"Risālah al-waḍʻīyah (Ījī, ʻAḍud al-Dīn ʻAbd al-Raḥmān ibn Aḥmad)",http://id.worldcat.org/fast/2057930,Q11484
 Riyāḍ al-ṣāliḥīn (Nawawī),fast,a,,Riyāḍ al-ṣāliḥīn (Nawawī),http://id.worldcat.org/fast/1367593,Q64118
 "Riz̤ā-ʼi ʻAbbāsī, Āqā, approximately 1570-1635?--Portraits--Specimens",0,a;c;d--v--v,,"Riz̤ā-ʼi ʻAbbāsī, Āqā, approximately 1570-1635?;Portraits;Specimens",http://id.worldcat.org/fast/1844159;http://id.worldcat.org/fast/1423831;http://id.worldcat.org/fast/1423861,Q48934;Q199;Q239
@@ -10804,486 +10765,486 @@ Shanfará. Lāmīyat al-ʻArab,0,a;t,,Lāmīyat al-ʻArab (Shanfará),http://id.
 "Sharḥ al-Wiqāyah (Maḥbūbī, ʻUbayd Allāh ibn Masʻūd)",fast,a,(OCoLC)fst01371415,"Sharḥ al-Wiqāyah (Maḥbūbī, ʻUbayd Allāh ibn Masʻūd)",http://id.worldcat.org/fast/1371415,Q11276
 "Sharḥ al-Wiqāyah (Maḥbūbī, ʻUbayd Allāh ibn Masʻūd)",fast,a,(OCoLC)fst01371415,"Sharḥ al-Wiqāyah (Maḥbūbī, ʻUbayd Allāh ibn Masʻūd)",http://id.worldcat.org/fast/1371415,Q11276
 "Sharḥ al-ʻAqāʼid al-Nasafīyah (Taftāzānī, Masʻūd ibn ʻUmar)",fast,a,(OCoLC)fst01365468,"Sharḥ al-ʻAqāʼid al-Nasafīyah (Taftāzānī, Masʻūd ibn ʻUmar)",http://id.worldcat.org/fast/1365468,Q11328
-"Sharḥ al-ʻAqāʼid al-Nasafīyah (Taftāzānī, Masʻūd ibn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Sharḥ al-ʻAqāʼid al-Nasafīyah (Taftāzānī, Masʻūd ibn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				ʻUmar)",fast,a,(OCoLC)fst01365468,"Sharḥ al-ʻAqāʼid al-Nasafīyah (Taftāzānī, Masʻūd ibn ʻUmar)",http://id.worldcat.org/fast/1365468,Q11328
 "Sharḥ Shamsīyah (Quṭb al-Taḥtānī, Muḥammad ibn Muḥammad)",fast,a,(OCoLC)fst01916876,"Sharḥ Shamsīyah (Quṭb al-Taḥtānī, Muḥammad ibn Muḥammad)",http://id.worldcat.org/fast/1916876,Q11307
 "Sharḥ Shamsīyah (Quṭb al-Taḥtānī, Muḥammad ibn Muḥammad)",fast,a,(OCoLC)fst01916876,"Sharḥ Shamsīyah (Quṭb al-Taḥtānī, Muḥammad ibn Muḥammad)",http://id.worldcat.org/fast/1916876,Q11307
@@ -11306,486 +11267,486 @@ Shanfará. Lāmīyat al-ʻArab,0,a;t,,Lāmīyat al-ʻArab (Shanfará),http://id.
 "Shaybānī, Muḥammad ibn al-Ḥasan, approximately 750-804 or 805. ʻAqīdah",0,a;d;t,,"ʻAqīdah (Shaybānī, Muḥammad ibn al-Ḥasan)",http://id.worldcat.org/fast/2058443,Q11209
 "Shaybānī, Muḥammad ibn al-Ḥasan, approximately 750-804 or 805. ʻAqīdah.",0,a;d;t,,"ʻAqīdah (Shaybānī, Muḥammad ibn al-Ḥasan)",http://id.worldcat.org/fast/2058443,Q11209
 "Shaʻrānī, ʻAbd al-Wahhāb ibn Aḥmad, approximately 1493-1565 or 1566. Lubāb al-iʻrāb al-māniʻ min al-laḥn fī al-sunnah wa-al-Kitāb",0,a;d;t,,"Lubāb al-iʻrāb al-māniʻ min al-laḥn fī al-sunnah wa-al-Kitāb (Shaʻrānī, ʻAbd al-Wahhāb ibn Aḥmad)",http://id.worldcat.org/fast/1391140,Q11170
-"Shaʻrānī, ʻAbd al-Wahhāb ibn Aḥmad, approximately 1493-1565 or 1566. Lubāb al-iʻrāb al-māniʻ min al-laḥn fī al-sunnah
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Shaʻrānī, ʻAbd al-Wahhāb ibn Aḥmad, approximately 1493-1565 or 1566. Lubāb al-iʻrāb al-māniʻ min al-laḥn fī al-sunnah
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				wa-al-Kitāb.",0,a;d;t,,"Lubāb al-iʻrāb al-māniʻ min al-laḥn fī al-sunnah wa-al-Kitāb (Shaʻrānī, ʻAbd al-Wahhāb ibn Aḥmad)",http://id.worldcat.org/fast/1391140,Q11170
 "Shaʼul, 1717-1790",fast,a;d,http://id.worldcat.org/fast/351118,"Shaʼul, 1717-1790",http://id.worldcat.org/fast/351118,Q76205
 "Shaʼul, 1717-1790--Trials, litigation, etc",0,a;d--x,,"Shaʼul, 1717-1790;Trials, litigation, etc.",http://id.worldcat.org/fast/351118;http://id.worldcat.org/fast/1423712,Q76205;Q38749
@@ -11801,486 +11762,486 @@ Shema--Early works to 1800,0,a--v,,Shema;Early works,http://id.worldcat.org/fast
 Shir ha-yiḥud--Early works to 1800,0,a--v,,Shir ha-yiḥud;Early works,http://id.worldcat.org/fast/1375003;http://id.worldcat.org/fast/1411636,Q75106;Q300
 "Shmuel Zanvill Segel (Samuel Levy), of Balbronn, 1711-1802--Library--Catalogs",4,a;q;c;d--x--v,,Libraries;Catalogs,http://id.worldcat.org/fast/997341;http://id.worldcat.org/fast/1423692,Q26811;Q12586
 "Shudhūr al-dhahab fī maʻrifat kalām al-ʻArab (Ibn Hishām, ʻAbd Allāh ibn Yūsuf)",fast,a,(OCoLC)fst01938130,"Shudhūr al-dhahab fī maʻrifat kalām al-ʻArab (Ibn Hishām, ʻAbd Allāh ibn Yūsuf)",http://id.worldcat.org/fast/1938130,Q11158
-"Shudhūr al-dhahab fī maʻrifat kalām al-ʻArab (Ibn Hishām, ʻAbd Allāh ibn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Shudhūr al-dhahab fī maʻrifat kalām al-ʻArab (Ibn Hishām, ʻAbd Allāh ibn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				Yūsuf)",fast,a,(OCoLC)fst01938130,"Shudhūr al-dhahab fī maʻrifat kalām al-ʻArab (Ibn Hishām, ʻAbd Allāh ibn Yūsuf)",http://id.worldcat.org/fast/1938130,Q11158
 "Shurunbulālī, Ḥasan ibn ʻAmmār, 1585 or 1586-1659. Nūr al-īḍāḥ",0,a;d;t,,"Nūr al-īḍāḥ fī al-fiqh ʻalá madhhab al-Imām Abī Ḥanīfah (Shurunbulālī, Ḥasan ibn ʻAmmār)",http://id.worldcat.org/fast/1390906,Q11285
 "Shurunbulālī, Ḥasan ibn ʻAmmār, 1585 or 1586-1659. Nūr al-īḍāḥ fī al-fiqh ʻalá madhhab al-Imām Abī Ḥanīfah",0,a;d;t,http://id.loc.gov/authorities/names/n97907226,"Nūr al-īḍāḥ fī al-fiqh ʻalá madhhab al-Imām Abī Ḥanīfah (Shurunbulālī, Ḥasan ibn ʻAmmār)",http://id.worldcat.org/fast/1390906,Q11285
@@ -12389,486 +12350,486 @@ SS. Trinità e S. Michele Arcangelo di Brondolo (Monastery),0,a,http://id.loc.go
 "Subkī, Tāj al-Dīn ʻAbd al-Wahhāb ibn ʻAlī, approximately 1327-1370. Jamʻ al-jawāmiʻ fī al-uṣūl",0,a;d;t,,"Jamʻ al-jawāmiʻ fī al-uṣūl (Subkī, Tāj al-Dīn ʻAbd al-Wahhāb ibn ʻAlī)",http://id.worldcat.org/fast/1378154,Q11316
 "Subkī, Tāj al-Dīn ʻAbd al-Wahhāb ibn ʻAlī, approximately 1327-1370. Jamʻ al-jawāmiʻ fī al-uṣūl.",0,a;d;t,,"Jamʻ al-jawāmiʻ fī al-uṣūl (Subkī, Tāj al-Dīn ʻAbd al-Wahhāb ibn ʻAlī)",http://id.worldcat.org/fast/1378154,Q11316
 "Ṣughrá al-ṣughrá fī ʻilm al-tawḥīd (Sanūsī, Muḥammad ibn Yūsuf)",fast,a,(OCoLC)fst02058151,"Ṣughrá al-ṣughrá fī ʻilm al-tawḥīd (Sanūsī, Muḥammad ibn Yūsuf)",http://id.worldcat.org/fast/2058151,Q11260
-"Ṣughrá al-ṣughrá fī ʻilm al-tawḥīd (Sanūsī, Muḥammad ibn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Ṣughrá al-ṣughrá fī ʻilm al-tawḥīd (Sanūsī, Muḥammad ibn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				Yūsuf)",fast,a,(OCoLC)fst02058151,"Ṣughrá al-ṣughrá fī ʻilm al-tawḥīd (Sanūsī, Muḥammad ibn Yūsuf)",http://id.worldcat.org/fast/2058151,Q11260
 "Süleyman I, 1520-1566",fast,a,,1520-1566,http://id.worldcat.org/fast/1355582,Q4925
 "Süleyman I, 1520-1566.",fast,a,,1520-1566,http://id.worldcat.org/fast/1355582,Q4925
@@ -12917,1452 +12878,1452 @@ Taḥanun (Jewish prayer),0,a,http://id.loc.gov/authorities/names/n99025537,Ta�
 Taḥanun (Jewish prayer),fast,a,http://id.worldcat.org/fast/1387781,Taḥanun (Jewish prayer),http://id.worldcat.org/fast/1387781,Q75176
 Taḥanun (Jewish prayer)--19th century,0,a--y,,Taḥanun (Jewish prayer);Nineteenth century,http://id.worldcat.org/fast/1387781;http://id.worldcat.org/fast/1037841,Q75176;Q3538
 "Tahdhīb al-Kamāl fī asmāʼ al-rijāl (Mizzī, Yūsuf ibn al-Zakī ʻAbd al-Raḥmān)",fast,a,(OCoLC)fst01380469,"Tahdhīb al-Kamāl fī asmāʼ al-rijāl (Mizzī, Yūsuf ibn al-Zakī ʻAbd al-Raḥmān)",http://id.worldcat.org/fast/1380469,Q11557
-"Tahdhīb al-Kamāl fī asmāʼ al-rijāl (Mizzī, Yūsuf ibn al-Zakī ʻAbd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Tahdhīb al-Kamāl fī asmāʼ al-rijāl (Mizzī, Yūsuf ibn al-Zakī ʻAbd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				al-Raḥmān)",fast,a,(OCoLC)fst01380469,"Tahdhīb al-Kamāl fī asmāʼ al-rijāl (Mizzī, Yūsuf ibn al-Zakī ʻAbd al-Raḥmān)",http://id.worldcat.org/fast/1380469,Q11557
 Taira family--Fiction,0,a--v,,Taira family;Fiction,http://id.worldcat.org/fast/220258;http://id.worldcat.org/fast/1423787,Q12649;Q3039
 Taira family--Fiction.,0,a--v,,Taira family;Fiction,http://id.worldcat.org/fast/220258;http://id.worldcat.org/fast/1423787,Q12649;Q3039
 "Tajrīd al-iʻtiqād (Ṭūsī, Naṣīr al-Dīn Muḥammad ibn Muḥammad)",fast,a,(OCoLC)fst01377889,"Tajrīd al-iʻtiqād (Ṭūsī, Naṣīr al-Dīn Muḥammad ibn Muḥammad)",http://id.worldcat.org/fast/1377889,Q11208
-"Tajrīd al-iʻtiqād (Ṭūsī, Naṣīr al-Dīn Muḥammad ibn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Tajrīd al-iʻtiqād (Ṭūsī, Naṣīr al-Dīn Muḥammad ibn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				Muḥammad)",fast,a,(OCoLC)fst01377889,"Tajrīd al-iʻtiqād (Ṭūsī, Naṣīr al-Dīn Muḥammad ibn Muḥammad)",http://id.worldcat.org/fast/1377889,Q11208
 "Talkhīṣ Miftāḥ al-ʻulūm (Qazwīnī, Jalāl al-Dīn Muḥammad ibn ʻAbd al-Raḥmān)",fast,a,(OCoLC)fst02057805,"Talkhīṣ Miftāḥ al-ʻulūm (Qazwīnī, Jalāl al-Dīn Muḥammad ibn ʻAbd al-Raḥmān)",http://id.worldcat.org/fast/2057805,Q11156
-"Talkhīṣ Miftāḥ al-ʻulūm (Qazwīnī, Jalāl al-Dīn Muḥammad ibn ʻAbd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Talkhīṣ Miftāḥ al-ʻulūm (Qazwīnī, Jalāl al-Dīn Muḥammad ibn ʻAbd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				al-Raḥmān)",fast,a,(OCoLC)fst02057805,"Talkhīṣ Miftāḥ al-ʻulūm (Qazwīnī, Jalāl al-Dīn Muḥammad ibn ʻAbd al-Raḥmān)",http://id.worldcat.org/fast/2057805,Q11156
 Talmud,fast,a,,Talmud,http://id.worldcat.org/fast/1356431,Q48130
 Talmud,fast,a,http://id.worldcat.org/fast/1356431,Talmud,http://id.worldcat.org/fast/1356431,Q48130
@@ -14588,7 +14549,6 @@ Tipiṭaka. Vinayapiṭaka,0,a;p,,Tipiṭaka. Vinayapiṭaka,http://id.worldcat.
 Tipiṭaka. Vinayapiṭaka,fast,a;p,(OCoLC)fst01357384,Tipiṭaka. Vinayapiṭaka,http://id.worldcat.org/fast/1357384,Q48167
 "Tirmidhī, Muḥammad ibn ʻĪsá, -892. Shamāʼil",0,a;d;t,http://id.loc.gov/authorities/names/n93110494,"Shamāʼil (Tirmidhī, Muḥammad ibn ʻĪsá)",http://id.worldcat.org/fast/1376072,Q11221
 "Tirmidhī, Muḥammad ibn ʻĪsá, -892. Shamāʼil.",0,a;d;t,http://id.loc.gov/authorities/names/n93110494,"Shamāʼil (Tirmidhī, Muḥammad ibn ʻĪsá)",http://id.worldcat.org/fast/1376072,Q11221
-Tobias (Biblical figure),0,a;c,,Tobias (Biblical figure),http://id.worldcat.org/fast/183150,Q66848
 Tobias (Biblical figure),fast,a;c,(OCoLC)fst00183150,Tobias (Biblical figure),http://id.worldcat.org/fast/183150,Q66848
 Tobias (Biblical figure)--Poetry--Early works to 1800,0,a;c--v--v,,Tobias (Biblical figure);Poetry;Early works,http://id.worldcat.org/fast/183150;http://id.worldcat.org/fast/1423828;http://id.worldcat.org/fast/1411636,Q66848;Q247;Q300
 "Ṭoledano, Avraham ben Mosheh--Marriage",0,a--x,,Marriage,http://id.worldcat.org/fast/1010443,Q3553
