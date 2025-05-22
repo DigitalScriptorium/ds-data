@@ -1,0 +1,6 @@
+File,subject_as_recorded,vocab,subfield_codes,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+wmu-csv-named-subjects.csv,"Simon, de Cremona, -1390",ds-subject,,,,,,,,
+wmu-csv-named-subjects.csv,"Palladius, Bishop of Aspuna, -approximately 430. Lausiac history",ds-subject,,,"Lausiac history (Palladius, Bishop of Aspuna)",http://id.worldcat.org/fast/1363294,Q8136,,,
+wmu-csv-named-subjects.csv,"Garnier, Bernard",ds-subject,,,,,,,,
+wmu-csv-named-subjects.csv,Everingham family,ds-subject,,,Everingham family,http://id.worldcat.org/fast/219205,Q100356,,,
+wmu-csv-named-subjects.csv,Firdawsī. Shāhnāmah. Selections,ds-subject,,,Shāhnāmah (Firdawsī);Excerpts,http://id.worldcat.org/fast/1357173;http://id.worldcat.org/fast/1692837,Q48945;Q3547,,,
