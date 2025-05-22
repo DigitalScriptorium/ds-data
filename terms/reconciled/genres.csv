@@ -968,6 +968,7 @@ Formularies--England--15th century,aat,,formularies;England;Fifteenth century,ht
 Fragments,,,fragments (object portions),http://vocab.getty.edu/aat/300117130,Q222
 Fragments,lcsh,,Manuscript fragments,http://id.worldcat.org/fast/1938802,Q5809
 Fragments,aat,,fragments (object portions),http://vocab.getty.edu/aat/300117130,Q222
+fragments (object portions),,,fragments (object portions),http://vocab.getty.edu/aat/300117130,Q222
 fragments (object portions),aat,,fragments (object portions),http://vocab.getty.edu/aat/300117130,Q222
 fragments (object portions),ds-genre,,fragments (object portions),http://vocab.getty.edu/aat/300117130,Q222
 Fragments (object portions),aat,,fragments (object portions),http://vocab.getty.edu/aat/300117130,Q222
@@ -3106,54 +3107,246 @@ Poésie macaronique,rvmgf,,Macaronic verse,http://id.worldcat.org/fast/1922458,Q
 Poésie populaire,rvmgf,,Folk poetry,http://id.worldcat.org/fast/1921661,Q42600
 poetry,aat,,poetry,http://vocab.getty.edu/aat/300055931,Q11358
 poetry,ds-genre,,poetry,http://vocab.getty.edu/aat/300055931,Q11358
-Poetry,lcgft,"http://id.loc.gov/authorities/genreForms/gf2014026481(uri)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Poetry,lcgft,"http://id.loc.gov/authorities/genreForms/gf2014026481(uri)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				http://id.loc.gov/authorities/genreForms/gf2014026481",Poetry,http://id.worldcat.org/fast/1423828,Q247
 Poetry,fast,(OCoLC)fst01423828,Poetry,http://id.worldcat.org/fast/1423828,Q247
 Poetry,fast,,Poetry,http://id.worldcat.org/fast/1423828,Q247
