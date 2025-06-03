@@ -1,0 +1,19 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Encyclopedias,lcgft,,,,,Encyclopedias,http://id.worldcat.org/fast/1423798,Q38469
+illuminated manuscripts,aat,,,,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,Q4268
+Flap bindings,rbmscv,,,,,Flap bindings,http://id.loc.gov/vocabulary/rbmscv/cv00468,Q5826
+Annotations,rbmscv,,,,,Annotations,http://id.loc.gov/vocabulary/rbmscv/cv00102,Q2982
+Illegible markings,rbmscv,,,,,Illegible markings,http://id.loc.gov/vocabulary/rbmscv/cv00159,Q16287
+miniatures (paintings),aat,,,,,miniatures (paintings),http://vocab.getty.edu/aat/300033936,Q262
+Ink stamps,rbmscv,,,,,Ink stamps,http://id.loc.gov/vocabulary/rbmscv/cv00246,Q16275
+Inscriptions,rbmscv,,,,,Inscriptions,http://id.loc.gov/vocabulary/rbmscv/cv00180,Q5875
+Poetry,lcgft,,,,,Poetry,http://id.worldcat.org/fast/1423828,Q247
+Prayers,lcgft,,,,,Prayers,http://id.worldcat.org/fast/1939841,Q38528
+Prayer books,rbmscv,,,,,Prayer books,http://id.loc.gov/vocabulary/rbmscv/cv01759,Q38527
+Manuscripts,lcgft,,,,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
+Armorial bookplates,rbmscv,,,,,Armorial bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00136,Q16277
+illuminated manuscripts,aat,(CStmoGRI)aatgf300265483,,,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,Q4268
+Lacquered bindings,rbmscv,,,,,Lacquered bindings,http://id.loc.gov/vocabulary/rbmscv/cv00578,Q27295
+Miniatures (Illuminations),gmgpc,,,,,miniatures (paintings),http://vocab.getty.edu/aat/300033936,Q262
+Masnavis,lcgft,,Masnavis,http://id.worldcat.org/fast/1922465,Q12520,,,
+Epic poetry,lcgft,,,,,Epic poetry,http://id.worldcat.org/fast/1726596,Q38472
