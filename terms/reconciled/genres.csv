@@ -535,6 +535,7 @@ Collations,aat,,collations,http://vocab.getty.edu/aat/300311715,Q2805
 Collections,fast,,Collections,http://id.worldcat.org/fast/1424032,Q48879
 collective biographies,aat,,collective biographies,http://vocab.getty.edu/aat/300080111,Q38451
 Collective biographies--Afghanistan--15th century,aat,,collective biographies;Afghanistan;Fifteenth century,http://vocab.getty.edu/aat/300080111;http://id.worldcat.org/fast/1205406;http://id.worldcat.org/fast/923962,Q38451;Q38444;Q154
+Colored papers,rbmscv,,Colored papers,http://id.loc.gov/vocabulary/rbmscv/cv01138,Q11569
 Colored papers (Paper),rbpap,,Colored papers,http://id.loc.gov/vocabulary/rbmscv/cv01138,Q11569
 Comedies,rbmscv,,Comedies,http://id.loc.gov/vocabulary/rbmscv/cv01142,Q42591
 Comedies,aat,http://vocab.getty.edu/aat/300201014,comedies (literary genre),http://vocab.getty.edu/aat/300201014,Q26946
@@ -851,6 +852,7 @@ Emblem books--England--16th century,aat,,emblem books;England;Sixteenth century,
 Emblem books--Italy,rbgenr,,Emblem books;Italy,http://id.loc.gov/vocabulary/rbmscv/cv01280;http://id.worldcat.org/fast/1204565,Q67936;Q249
 Emblem books--Italy--16th century,lcsh,,Emblem books;Italy;Sixteenth century,http://id.worldcat.org/fast/1919920;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1119851,Q38465;Q249;Q335
 Emblems,gmgpc,,Emblems,http://id.worldcat.org/fast/908357,Q38893
+Embossed papers,rbmscv,,Embossed papers,http://id.loc.gov/vocabulary/rbmscv/cv01281,Q11580
 Embossed papers (Paper),rbpap,,Embossed papers,http://id.loc.gov/vocabulary/rbmscv/cv01281,Q11580
 Embossed stamps,rbmscv,,Embossed stamps,http://id.loc.gov/vocabulary/rbmscv/cv00238,Q16341
 Embroidered bindings,rbmscv,,Embroidered bindings,http://id.loc.gov/vocabulary/rbmscv/cv00522,Q38466
@@ -1125,6 +1127,7 @@ Headpieces (layout features)--Iran--16th century,aat,,headpieces (layout feature
 Headpieces (layout features)--Iran--17th century,aat,,headpieces (layout features);Iran;Seventeenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1113663,Q11536;Q16384;Q2771
 Headpieces (layout features)--Iran--19th century,aat,,headpieces (layout features);Iran;Nineteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1037841,Q11536;Q16384;Q3538
 Headpieces (layout features)--Iran--20th century,aat,,headpieces (layout features);Iran;Twentieth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1159810,Q11536;Q16384;Q5942
+Headpieces (Layout features)--Iran--Dizfūl--15th century,aat,,headpieces (layout features);Iran--Dizfūl;Fifteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1303213;http://id.worldcat.org/fast/923962,Q11536;Q8138;Q154
 Headpieces (layout features)--Iran--Mashhad--17th century,aat,,headpieces (layout features);Iran;Seventeenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1113663,Q11536;Q16384;Q2771
 Headpieces (layout features)--Iran--Shīrāz--16th century,aat,,headpieces (layout features);Iran--Shīrāz;Sixteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1208873;http://id.worldcat.org/fast/1119851,Q11536;Q48253;Q335
 Headpieces (layout features)--Iran--Shīrāz--19th century,aat,,headpieces (layout features);Iran--Shīrāz;Nineteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1208873;http://id.worldcat.org/fast/1037841,Q11536;Q48253;Q3538
@@ -1136,7 +1139,9 @@ Headpieces (layout features)--Islamic countries--19th century,aat,,headpieces (l
 Headpieces (layout features)--Islamic Empire--14th century,aat,,headpieces (layout features);Islamic Empire;Fourteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/933420,Q11536;Q11211;Q295
 Headpieces (layout features)--Islamic Empire--15th century,aat,,headpieces (layout features);Islamic Empire;Fifteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/923962,Q11536;Q11211;Q154
 Headpieces (layout features)--Islamic Empire--16th century,aat,,headpieces (layout features);Islamic Empire;Sixteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1119851,Q11536;Q11211;Q335
+Headpieces (layout features)--Syria--Damascus--18th century,aat,,headpieces (layout features);Syria--Damascus;Eighteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1207112;http://id.worldcat.org/fast/904058,Q11536;Q11409;Q3024
 Headpieces (layout features)--Turkey--Constantinople--16th century,aat,,headpieces (layout features);Turkey--Istanbul;Sixteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1204833;http://id.worldcat.org/fast/1119851,Q11536;Q4823;Q335
+Headpieces (layout features)--Turkey--Istanbul--17th century,aat,,headpieces (layout features);Turkey--Istanbul;Seventeenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1204833;http://id.worldcat.org/fast/1113663,Q11536;Q4823;Q2771
 Headpieces (layout features)--Turkey--Istanbul--19th century,aat,,headpieces (layout features);Turkey--Istanbul;Nineteenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1204833;http://id.worldcat.org/fast/1037841,Q11536;Q4823;Q3538
 Headpieces (layout features)--Uzbekistan--Samarqand--17th century,aat,,headpieces (layout features);Uzbekistan--Samarqand;Seventeenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1210007;http://id.worldcat.org/fast/1113663,Q11536;Q11433;Q2771
 Headpieces (layout features) z Islamic countries--17th century,aat,,headpieces (layout features);Islamic countries;Seventeenth century,http://vocab.getty.edu/aat/300207342;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1113663,Q11536;Q2810;Q2771
@@ -1273,6 +1278,7 @@ Illuminated manuscripts--Iran--16th century,aat,,illuminated manuscripts;Iran;Si
 Illuminated manuscripts--Iran--17th century,aat,,illuminated manuscripts;Iran;Seventeenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1113663,Q4268;Q16384;Q2771
 Illuminated manuscripts--Iran--19th century,aat,,illuminated manuscripts;Iran;Nineteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1037841,Q4268;Q16384;Q3538
 Illuminated manuscripts--Iran--20th century,aat,,illuminated manuscripts;Iran;Twentieth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1159810,Q4268;Q16384;Q5942
+Illuminated manuscripts--Iran--Dizfūl--15th century,aat,,illuminated manuscripts;Iran--Dizfūl;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1303213;http://id.worldcat.org/fast/923962,Q4268;Q8138;Q154
 Illuminated manuscripts--Iran--Iṣfahān--17th century,aat,,illuminated manuscripts;Iran--Iṣfahān;Seventeenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1220534;http://id.worldcat.org/fast/1113663,Q4268;Q48723;Q2771
 Illuminated manuscripts--Iran--Mashhad--17th century,aat,,illuminated manuscripts;Iran--Mashhad;Seventeenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1206478;http://id.worldcat.org/fast/1113663,Q4268;Q48743;Q2771
 Illuminated manuscripts--Iran--Shīrāz--16th century,aat,,illuminated manuscripts;Iran--Shīrāz;Sixteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1208873;http://id.worldcat.org/fast/1119851,Q4268;Q48253;Q335
@@ -1284,6 +1290,7 @@ Illuminated manuscripts--Islamic countries--18th century,aat,,illuminated manusc
 Illuminated manuscripts--Islamic countries--18th century,lcsh,,illuminated manuscripts;Islamic countries;Eighteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/904058,Q4268;Q2810;Q3024
 Illuminated manuscripts--Islamic countries--19th century,aat,,illuminated manuscripts;Islamic countries;Nineteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1037841,Q4268;Q2810;Q3538
 Illuminated manuscripts--Islamic countries--20th century,aat,,illuminated manuscripts;Islamic countries;Twentieth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1159810,Q4268;Q2810;Q5942
+Illuminated manuscripts--Islamic Empire--14th century,aat,,illuminated manuscripts;Islamic Empire;Fourteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/933420,Q4268;Q11211;Q295
 Illuminated manuscripts--Islamic Empire--15th century,aat,,illuminated manuscripts;Islamic Empire;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/923962,Q4268;Q11211;Q154
 Illuminated manuscripts--Islamic empire--16th century,aat,,illuminated manuscripts;Islamic Empire;Sixteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1119851,Q4268;Q11211;Q335
 Illuminated manuscripts--Islamic Empire--16th century,aat,,illuminated manuscripts;Islamic Empire;Sixteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1119851,Q4268;Q11211;Q335
@@ -1308,6 +1315,7 @@ Illuminated manuscripts--Turkey--Istanbul--19th century,aat,,illuminated manuscr
 Illuminated manuscripts--Uzbekistan--Samarqand--17th century,aat,,illuminated manuscripts;Uzbekistan--Samarqand;Seventeenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1210007;http://id.worldcat.org/fast/1113663,Q4268;Q11433;Q2771
 Illuminated title pages--Egypt--Cairo--16th century,local,,illuminations (paintings);title pages;Egypt--Cairo;Sixteenth century,http://vocab.getty.edu/aat/300264522;http://vocab.getty.edu/aat/300055033;http://id.worldcat.org/fast/1205204;http://id.worldcat.org/fast/1119851,Q225;Q20371;Q11261;Q335
 Illuminated title pages--Iran--15th century,local,,illuminations (paintings);title pages;Iran;Fifteenth century,http://vocab.getty.edu/aat/300264522;http://vocab.getty.edu/aat/300055033;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/923962,Q225;Q20371;Q16384;Q154
+Illuminated title pages--Iran--Dizfūl--15th century,aat,,illuminations (paintings);title pages;Iran--Dizfūl;Fifteenth century,http://vocab.getty.edu/aat/300264522;http://vocab.getty.edu/aat/300055033;http://id.worldcat.org/fast/1303213;http://id.worldcat.org/fast/923962,Q225;Q20371;Q8138;Q154
 Illuminated title pages--Islamic countries,local,,illuminations (paintings);title pages;Islamic countries,http://vocab.getty.edu/aat/300264522;http://vocab.getty.edu/aat/300055033;http://id.worldcat.org/fast/1244130,Q225;Q20371;Q2810
 Illuminated title pages--Islamic countries--19th century,local,,illuminations (paintings);title pages;Islamic countries;Nineteenth century,http://vocab.getty.edu/aat/300264522;http://vocab.getty.edu/aat/300055033;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1037841,Q225;Q20371;Q2810;Q3538
 Illuminated title pages--Islamic empire,local,,illuminations (paintings);title pages;Islamic Empire,http://vocab.getty.edu/aat/300264522;http://vocab.getty.edu/aat/300055033;http://id.worldcat.org/fast/1244134,Q225;Q20371;Q11211
@@ -1375,6 +1383,7 @@ Indentures,aat,,indentures,http://vocab.getty.edu/aat/300027753,Q230
 Indentures--15th century,aat,,indentures;Fifteenth century,http://vocab.getty.edu/aat/300027753;http://id.worldcat.org/fast/923962,Q230;Q154
 Indentures--England--14th century,aat,,indentures;England;Fourteenth century,http://vocab.getty.edu/aat/300027753;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/933420,Q230;Q320;Q295
 Indentures--England--15th century,aat,,indentures;England;Fifteenth century,http://vocab.getty.edu/aat/300027753;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/923962,Q230;Q320;Q154
+Indexes,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026112,Indexes,http://id.worldcat.org/fast/1423761,Q11334
 Indexes,fast,(OCoLC)fst01423761,Indexes,http://id.worldcat.org/fast/1423761,Q11334
 Indexes,aat,,indexes (reference sources),http://vocab.getty.edu/aat/300026554,Q6971
 Indulgences,aat,,indulgences (documents),http://vocab.getty.edu/aat/300201452,Q8163
@@ -1661,6 +1670,7 @@ Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
 "Manuscripts, Arabic--20th century",local,,"Manuscripts, Arabic;Twentieth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1159810,Q256;Q5942
 "Manuscripts, Arabic--9th century",lcsh,,"Manuscripts, Arabic",http://id.worldcat.org/fast/1008278,Q256
 "Manuscripts, Arabic--Afghanistan--Herat--15th century",lcsh,,"Manuscripts, Arabic;Afghanistan--Herat;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1215453;http://id.worldcat.org/fast/923962,Q256;Q48725;Q154
+"Manuscripts, Arabic--al-Khalīl--14th century",lcsh,,"Manuscripts, Arabic;West Bank--Hebron;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1213942;http://id.worldcat.org/fast/933420,Q256;Q75317;Q295
 "Manuscripts, Arabic--Bulgaria--Sofia--17th century",lcsh,,"Manuscripts, Arabic;Bulgaria--Sofia;Seventeenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1206893;http://id.worldcat.org/fast/1113663,Q256;Q64095;Q2771
 "Manuscripts, Arabic--Caucasus",lcsh,,"Manuscripts, Arabic;Caucasus",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1244425,Q256;Q39960
 "Manuscripts, Arabic--Caucasus--18th century",lcsh,,"Manuscripts, Arabic;Caucasus;Eighteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1244425;http://id.worldcat.org/fast/904058,Q256;Q39960;Q3024
@@ -1674,15 +1684,18 @@ Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
 "Manuscripts, Arabic--Egypt--Cairo--Jāmiʻ al-Azhar--15th century",lcsh,,"Manuscripts, Arabic;Egypt--Cairo;Jāmiʻ al-Azhar;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1205204;http://id.worldcat.org/fast/560467;http://id.worldcat.org/fast/923962,Q256;Q11261;Q64093;Q154
 "Manuscripts, Arabic--Egypt--Cairo--Jāmiʻ al-Azhar--16th century",lcsh,,"Manuscripts, Arabic;Egypt--Cairo;Jāmiʻ al-Azhar;Sixteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1205204;http://id.worldcat.org/fast/560467;http://id.worldcat.org/fast/1119851,Q256;Q11261;Q64093;Q335
 "Manuscripts, Arabic--Egypt--Cairo--Madrasah Shaykhū--14th century",lcsh,,"Manuscripts, Arabic;Egypt--Cairo;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1205204;http://id.worldcat.org/fast/933420,Q256;Q11261;Q295
+"Manuscripts, Arabic--Fragments",lcsh,,"Manuscripts, Arabic;Manuscript fragments",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1938802,Q256;Q5809
 "Manuscripts, Arabic--Georgia (Republic)--Tʻbilisi--19th century",lcsh,,"Manuscripts, Arabic;Georgia (Republic)--Tʻbilisi;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1206337;http://id.worldcat.org/fast/1037841,Q256;Q48760;Q3538
 "Manuscripts, Arabic--Greece--Giannitsa--16th century",lcsh,,"Manuscripts, Arabic;Greece--Giannitsa;Sixteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1878833;http://id.worldcat.org/fast/1119851,Q256;Q7694;Q335
 "Manuscripts, Arabic--India--19th century",lcsh,,"Manuscripts, Arabic;India;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1210276;http://id.worldcat.org/fast/1037841,Q256;Q26595;Q3538
 "Manuscripts, Arabic--India--Bandar Sūrat--17th century",lcsh,,"Manuscripts, Arabic;India--Surat;Seventeenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1210504;http://id.worldcat.org/fast/1113663,Q256;Q48757;Q2771
 "Manuscripts, Arabic--India--Delhi--17th century",lcsh,,"Manuscripts, Arabic;India--Delhi;Seventeenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1205766;http://id.worldcat.org/fast/1113663,Q256;Q48746;Q2771
 "Manuscripts, Arabic--India--Hyderabad--17th century",lcsh,,"Manuscripts, Arabic;India--Hyderabad;Seventeenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1207982;http://id.worldcat.org/fast/1113663,Q256;Q48718;Q2771
+"Manuscripts, Arabic--Iran--15th century",lcsh,,"Manuscripts, Arabic;Iran;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/923962,Q256;Q16384;Q154
 "Manuscripts, Arabic--Iran--17th century",lcsh,,"Manuscripts, Arabic;Iran;Seventeenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1113663,Q256;Q16384;Q2771
 "Manuscripts, Arabic--Iran--19th century",lcsh,,"Manuscripts, Arabic;Iran;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1037841,Q256;Q16384;Q3538
 "Manuscripts, Arabic--Iran--Āvarneh--17th century",lcsh,,"Manuscripts, Arabic;Iran;Seventeenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1113663,Q256;Q16384;Q2771
+"Manuscripts, Arabic--Iran--Dizfūl--15th century",lcsh,,"Manuscripts, Arabic;Iran--Dizfūl;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1303213;http://id.worldcat.org/fast/923962,Q256;Q8138;Q154
 "Manuscripts, Arabic--Iran--Mashhad--17th century",lcsh,,"Manuscripts, Arabic;Iran--Mashhad;Seventeenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1206478;http://id.worldcat.org/fast/1113663,Q256;Q48743;Q2771
 "Manuscripts, Arabic--Iran--Qazvīn--19th century",lcsh,,"Manuscripts, Arabic;Iran--Qazvīn;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1250763;http://id.worldcat.org/fast/1037841,Q256;Q48740;Q3538
 "Manuscripts, Arabic--Iran--Sabzavār (Khurāsān)--15th century",lcsh,,"Manuscripts, Arabic;Iran--Sabzevār (Khurāsān-i Raz̤avī);Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1322049;http://id.worldcat.org/fast/923962,Q256;Q39932;Q154
@@ -1691,6 +1704,7 @@ Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
 "Manuscripts, Arabic--Iran--Tabrīz--Madrasah al-Ghāzānīyah--14th century",lcsh,,"Manuscripts, Arabic;Iran--Tabrīz;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1206575;http://id.worldcat.org/fast/933420,Q256;Q48737;Q295
 "Manuscripts, Arabic--Iran--Tehran--19th century",lcsh,,"Manuscripts, Arabic;Iran--Tehran;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204877;http://id.worldcat.org/fast/1037841,Q256;Q48736;Q3538
 "Manuscripts, Arabic--Iraq--Baghdad--14th century",lcsh,,"Manuscripts, Arabic;Iraq--Baghdad;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1207444;http://id.worldcat.org/fast/933420,Q256;Q48745;Q295
+"Manuscripts, Arabic--Iraq--Mosul--14th century",lcsh,,"Manuscripts, Arabic;Iraq--Mosul;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1202687;http://id.worldcat.org/fast/933420,Q256;Q64094;Q295
 "Manuscripts, Arabic--Iraq--Mosul--19th century",lcsh,,"Manuscripts, Arabic;Iraq--Mosul;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1202687;http://id.worldcat.org/fast/1037841,Q256;Q64094;Q3538
 "Manuscripts, Arabic--Jerusalem--14th century",lcsh,,"Manuscripts, Arabic;Middle East--Jerusalem;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1216276;http://id.worldcat.org/fast/933420,Q256;Q7086;Q295
 "Manuscripts, Arabic--Jerusalem--15th century",lcsh,,"Manuscripts, Arabic;Middle East--Jerusalem;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1216276;http://id.worldcat.org/fast/923962,Q256;Q7086;Q154
@@ -1701,10 +1715,12 @@ Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
 "Manuscripts, Arabic--Macedonia (Republic)--Skopje--15th century",lcsh,,"Manuscripts, Arabic;North Macedonia--Skopje;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1223537;http://id.worldcat.org/fast/923962,Q256;Q39903;Q154
 "Manuscripts, Arabic--Safad--14th century",lcsh,,"Manuscripts, Arabic;Israel--Tsefat;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1209839;http://id.worldcat.org/fast/933420,Q256;Q64096;Q295
 "Manuscripts, Arabic--Saudi Arabia--Mecca--15th century",lcsh,,"Manuscripts, Arabic;Saudi Arabia--Mecca;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204780;http://id.worldcat.org/fast/923962,Q256;Q11321;Q154
+"Manuscripts, Arabic--Saudi Arabia--Mecca--16th century",lcsh,,"Manuscripts, Arabic;Saudi Arabia--Mecca;Sixteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204780;http://id.worldcat.org/fast/1119851,Q256;Q11321;Q335
 "Manuscripts, Arabic--Saudi Arabia--Mecca--17th century",lcsh,,"Manuscripts, Arabic;Saudi Arabia--Mecca;Seventeenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204780;http://id.worldcat.org/fast/1113663,Q256;Q11321;Q2771
 "Manuscripts, Arabic--Saudi Arabia--Mecca--Masjid al-Ḥarām--16th century",lcsh,,"Manuscripts, Arabic;Saudi Arabia--Mecca;Masjid al-Ḥarām;Sixteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204780;http://id.worldcat.org/fast/560924;http://id.worldcat.org/fast/1119851,Q256;Q11321;Q26868;Q335
 "Manuscripts, Arabic--Saudi Arabia--Medina--14th century",lcsh,,"Manuscripts, Arabic;Saudi Arabia--Medina;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1213531;http://id.worldcat.org/fast/933420,Q256;Q18323;Q295
 "Manuscripts, Arabic--Saudi Arabia--Medina--16th century",lcsh,,"Manuscripts, Arabic;Saudi Arabia--Medina;Sixteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1213531;http://id.worldcat.org/fast/1119851,Q256;Q18323;Q335
+"Manuscripts, Arabic--Saudi Arabia--Medina--17th century",lcsh,,"Manuscripts, Arabic;Saudi Arabia--Medina;Seventeenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1213531;http://id.worldcat.org/fast/1113663,Q256;Q18323;Q2771
 "Manuscripts, Arabic--Saudi Arabia--Medina--18th century",lcsh,,"Manuscripts, Arabic;Saudi Arabia--Medina;Eighteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1213531;http://id.worldcat.org/fast/904058,Q256;Q18323;Q3024
 "Manuscripts, Arabic--Syria--16th century",lcsh,,"Manuscripts, Arabic;Syria;Sixteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1208757;http://id.worldcat.org/fast/1119851,Q256;Q11447;Q335
 "Manuscripts, Arabic--Syria--Aleppo--15th century",lcsh,,"Manuscripts, Arabic;Syria--Aleppo;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1213345;http://id.worldcat.org/fast/923962,Q256;Q54953;Q154
@@ -1714,6 +1730,7 @@ Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
 "Manuscripts, Arabic--Syria--Damascus--14th century",lcsh,,"Manuscripts, Arabic;Syria--Damascus;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1207112;http://id.worldcat.org/fast/933420,Q256;Q11409;Q295
 "Manuscripts, Arabic--Syria--Damascus--15th century",lcsh,,"Manuscripts, Arabic;Syria--Damascus;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1207112;http://id.worldcat.org/fast/923962,Q256;Q11409;Q154
 "Manuscripts, Arabic--Syria--Damascus--16th century",lcsh,,"Manuscripts, Arabic;Syria--Damascus;Sixteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1207112;http://id.worldcat.org/fast/1119851,Q256;Q11409;Q335
+"Manuscripts, Arabic--Syria--Damascus--18th century",lcsh,,"Manuscripts, Arabic;Syria--Damascus;Eighteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1207112;http://id.worldcat.org/fast/904058,Q256;Q11409;Q3024
 "Manuscripts, Arabic--Syria--Damascus--Madrasah al-ʻĀdilīyah al-Sayfīyah--13th century",lcsh,,"Manuscripts, Arabic;Syria--Damascus;Thirteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1207112;http://id.worldcat.org/fast/1150138,Q256;Q11409;Q245
 "Manuscripts, Arabic--Syria--Damascus--Madrasat al-Qilījīyah--14th century",lcsh,,"Manuscripts, Arabic;Syria--Damascus;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1207112;http://id.worldcat.org/fast/933420,Q256;Q11409;Q295
 "Manuscripts, Arabic--Syria--Damascus--Ṣāliḥīyah--15th century",lcsh,,"Manuscripts, Arabic;Syria--Damascus;Syria--Ṣāliḥīyah;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1207112;http://id.worldcat.org/fast/1282383;http://id.worldcat.org/fast/923962,Q256;Q11409;Q64100;Q154
@@ -1728,8 +1745,11 @@ Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
 "Manuscripts, Arabic--Turkey--Constantinople--19th century",lcsh,,"Manuscripts, Arabic;Turkey--Istanbul;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204833;http://id.worldcat.org/fast/1037841,Q256;Q4823;Q3538
 "Manuscripts, Arabic--Turkey--Erzurum--18th century",lcsh,,"Manuscripts, Arabic;Turkey--Erzurum;Eighteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1207363;http://id.worldcat.org/fast/904058,Q256;Q63770;Q3024
 "Manuscripts, Arabic--Turkey--Erzurum--Madrasah al-Jalālīyah--14th century",lcsh,,"Manuscripts, Arabic;Turkey--Erzurum;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1207363;http://id.worldcat.org/fast/933420,Q256;Q63770;Q295
+"Manuscripts, Arabic--Turkey--Istanbul--17th century",lcsh,,"Manuscripts, Arabic;Turkey--Istanbul;Seventeenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204833;http://id.worldcat.org/fast/1113663,Q256;Q4823;Q2771
 "Manuscripts, Arabic--Turkey--Qayṣarīyah--18th century",lcsh,,"Manuscripts, Arabic;Turkey--Kayseri;Eighteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1214648;http://id.worldcat.org/fast/904058,Q256;Q64098;Q3024
 "Manuscripts, Arabic--Turkey--Qusṭanṭinīyah--15th century",lcsh,,"Manuscripts, Arabic;Turkey--Istanbul;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204833;http://id.worldcat.org/fast/923962,Q256;Q4823;Q154
+"Manuscripts, Arabic--Uzbekistan--Bukhoro--16th century",lcsh,,"Manuscripts, Arabic;Uzbekistan--Bukhoro;Sixteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1221549;http://id.worldcat.org/fast/1119851,Q256;Q76441;Q335
+"Manuscripts, Arabic--Uzbekistan--Samarqand--15th century",lcsh,,"Manuscripts, Arabic;Uzbekistan--Samarqand;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1210007;http://id.worldcat.org/fast/923962,Q256;Q11433;Q154
 "Manuscripts, Arabic--Uzbekistan--Samarqand--16th century",lcsh,,"Manuscripts, Arabic;Uzbekistan--Samarqand;Sixteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1210007;http://id.worldcat.org/fast/1119851,Q256;Q11433;Q335
 "Manuscripts, Arabic--Uzbekistan--Samarqand--Madrasat Ulugh Beg--15th century",lcsh,,"Manuscripts, Arabic;Uzbekistan--Samarqand;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1210007;http://id.worldcat.org/fast/923962,Q256;Q11433;Q154
 "Manuscripts, Aramaic--13th century",local,,"Manuscripts, Aramaic;Thirteenth century",http://id.worldcat.org/fast/1008286;http://id.worldcat.org/fast/1150138,Q12675;Q245
@@ -2508,6 +2528,7 @@ Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
 "Manuscripts, Thai--19th century",lcsh,,"Manuscripts, Thai;Nineteenth century",http://id.worldcat.org/fast/1008516;http://id.worldcat.org/fast/1037841,Q27118;Q3538
 "Manuscripts, Turkish",lcsh,,"Manuscripts, Turkish",http://id.worldcat.org/fast/1008521,Q3068
 "Manuscripts, Turkish",openn-form/genre,,"Manuscripts, Turkish",http://id.worldcat.org/fast/1008521,Q3068
+"Manuscripts, Turkish.--16th century",lcsh,,"Manuscripts, Turkish;Sixteenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/1119851,Q3068;Q335
 "Manuscripts, Turkish--14th century",lcsh,,"Manuscripts, Turkish;Fourteenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/933420,Q3068;Q295
 "Manuscripts, Turkish--15th century",lcsh,,"Manuscripts, Turkish;Fifteenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/923962,Q3068;Q154
 "Manuscripts, Turkish--15th century.",lcsh,,"Manuscripts, Turkish;Fifteenth century",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/923962,Q3068;Q154
@@ -2778,6 +2799,7 @@ Marriage licenses--Italy--16th century,aat,,marriage licenses;Italy;Sixteenth ce
 Martyrologies,lcgft,,Martyrologies,http://id.worldcat.org/fast/1922463,Q66749
 Martyrologies,aat,http://vocab.getty.edu/aat/300026471,martyrologies,http://vocab.getty.edu/aat/300026471,Q38502
 Martyrologies--Germany--15th century,aat,,martyrologies;Germany;Fifteenth century,http://vocab.getty.edu/aat/300026471;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/923962,Q38502;Q3032;Q154
+Masnavis,lcgft,,Masnavis,http://id.worldcat.org/fast/1922465,Q12520
 Masses,lcgft,,Masses,http://id.worldcat.org/fast/1726667,Q67933
 Maxims,aat,,maxims,http://vocab.getty.edu/aat/300264591,Q7785
 medical,ds-genre,,medicine (discipline),http://vocab.getty.edu/aat/300054518,Q42420
@@ -3107,246 +3129,246 @@ Poésie macaronique,rvmgf,,Macaronic verse,http://id.worldcat.org/fast/1922458,Q
 Poésie populaire,rvmgf,,Folk poetry,http://id.worldcat.org/fast/1921661,Q42600
 poetry,aat,,poetry,http://vocab.getty.edu/aat/300055931,Q11358
 poetry,ds-genre,,poetry,http://vocab.getty.edu/aat/300055931,Q11358
-Poetry,lcgft,"http://id.loc.gov/authorities/genreForms/gf2014026481(uri)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Poetry,lcgft,"http://id.loc.gov/authorities/genreForms/gf2014026481(uri)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 				http://id.loc.gov/authorities/genreForms/gf2014026481",Poetry,http://id.worldcat.org/fast/1423828,Q247
 Poetry,fast,(OCoLC)fst01423828,Poetry,http://id.worldcat.org/fast/1423828,Q247
 Poetry,fast,,Poetry,http://id.worldcat.org/fast/1423828,Q247
@@ -3815,6 +3837,7 @@ Trial and arbitral proceedings,fast,http://id.worldcat.org/fast/1774319,Trial an
 Trials,aat,,trials,http://vocab.getty.edu/aat/300069665,Q17498
 "Trials, litigation, etc",fast,(OCoLC)fst01423712,"Trials, litigation, etc.",http://id.worldcat.org/fast/1423712,Q38749
 Trimmed edges,rbmscv,,Trimmed edges,http://id.loc.gov/vocabulary/rbmscv/cv01987,Q67935
+Trivia and miscellanea,fast,,Trivia and miscellanea,http://id.worldcat.org/fast/1921748,Q26886
 Trivia and miscellanea,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026201,Trivia and miscellanea,http://id.worldcat.org/fast/1921748,Q26886
 Trivia and miscellanea,lcgft,,Trivia and miscellanea,http://id.worldcat.org/fast/1921748,Q26886
 Trough-marbled paper,lobt,,trough-marbled paper,http://w3id.org/lob/concept/3990,Q27104
@@ -3868,6 +3891,7 @@ Volvelles,rbmscv,,Volvelles,http://id.loc.gov/vocabulary/rbmscv/cv02024,Q12569
 Volvelles--Germany--17th century,aat,,volvelles;Germany;Seventeenth century,http://vocab.getty.edu/aat/300247651;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/1113663,Q3063;Q3032;Q2771
 Vows,local,,Vows,http://id.worldcat.org/fast/1169298,Q39121
 Wafers,aat,,wafers (seals),http://vocab.getty.edu/aat/300263433,Q38552
+Waqf,lcsh,,Waqf,http://id.worldcat.org/fast/1170323,Q11403
 Waqf--Books,lcsh,,Waqf;Books,http://id.worldcat.org/fast/1170323;http://id.worldcat.org/fast/836401,Q11403;Q40000
 Waqf--Books--15th century,lcsh,,Waqf;Books;Fifteenth century,http://id.worldcat.org/fast/1170323;http://id.worldcat.org/fast/836401;http://id.worldcat.org/fast/923962,Q11403;Q40000;Q154
 Waqf--Books--17th century,lcsh,,Waqf;Books;Seventeenth century,http://id.worldcat.org/fast/1170323;http://id.worldcat.org/fast/836401;http://id.worldcat.org/fast/1113663,Q11403;Q40000;Q2771
@@ -3877,6 +3901,7 @@ Waqf--Books--Lebanon--Tripoli--15th century,lcsh,,Waqf;Books;Lebanon--Tripoli;Fi
 Waqf--Books--Syria--Damascus--15th century,lcsh,,Waqf;Books;Syria--Damascus;Fifteenth century,http://id.worldcat.org/fast/1170323;http://id.worldcat.org/fast/836401;http://id.worldcat.org/fast/1207112;http://id.worldcat.org/fast/923962,Q11403;Q40000;Q11409;Q154
 Waqf--Books--Syria--Damascus--Ṣāliḥīyah,lcsh,,Waqf;Books;Syria--Damascus;Syria--Ṣāliḥīyah,http://id.worldcat.org/fast/1170323;http://id.worldcat.org/fast/836401;http://id.worldcat.org/fast/1207112;http://id.worldcat.org/fast/1282383,Q11403;Q40000;Q11409;Q64100
 Waqf--Books--Turkey--Istanbul,,,Waqf;Books;Turkey--Istanbul,http://id.worldcat.org/fast/1170323;http://id.worldcat.org/fast/836401;http://id.worldcat.org/fast/1204833,Q11403;Q40000;Q4823
+Waqf--Books--Turkey--Kütahya--Lala Hüseyin Paşa Mosque--16th century,lcsh,,Waqf;Books;Turkey--Kütahya;Sixteenth century,http://id.worldcat.org/fast/1170323;http://id.worldcat.org/fast/836401;http://id.worldcat.org/fast/1695379;http://id.worldcat.org/fast/1119851,Q11403;Q40000;Q8122;Q335
 Warrants,aat,,warrants,http://vocab.getty.edu/aat/300027863,Q42581
 Waste paper,aat,,Waste paper,http://id.worldcat.org/fast/1171056,Q38553
 Watercolors,gmgpc,,Watercolors,http://id.worldcat.org/fast/1986272,Q66758

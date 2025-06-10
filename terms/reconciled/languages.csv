@@ -21,6 +21,8 @@ language_as_recorded,language_code,authorized_label,structured_value,ds_qid
 Added notes in Italian (Volume 1),zxx;ita,Italian,Q652,Q116
 "All texts are in Ottoman Turkish (including those whose titles are given in Arabic), with the exception of small sections in Arabic in cases of excerpts from Futūḥāt al-Makkīyah",,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
 amh,,Amharic,Q28244,Q42444
+amh;Geez,,Amharic;Ge'ez,Q28244;Q35667,Q42444;Q3664
+Amharic,,Amharic,Q28244,Q42444
 Ancient Greek,grc,Ancient Greek,Q35497,Q3103
 Ancient Greek (to 1453),grc,Ancient Greek,Q35497,Q3103
 ang,ang,Old English,Q42365,Q1317
@@ -42,6 +44,7 @@ ara;per;ota,ara;per;ota,Arabic;Persian;Ottoman Turkish,Q13955;Q9168;Q36730,Q118;
 Arabic,,Arabic,Q13955,Q118
 Arabic,ara;eng,Arabic,Q13955,Q118
 Arabic,ara,Arabic,Q13955,Q118
+"Arabic, Ottoman Turkish, and Persian",,Arabic;Ottoman Turkish;Persian,Q13955;Q36730;Q9168,Q118;Q3104;Q120
 "Arabic, Persian, and Ottoman Turkish",,Arabic;Persian;Ottoman Turkish,Q13955;Q9168;Q36730,Q118;Q120;Q3104
 "Arabic, Persian, and Urdu",,Arabic;Persian;Urdu,Q13955;Q9168;Q1617,Q118;Q120;Q27496
 "Arabic, Persian and Ottoman Turkish",;ara;per;ota,Arabic;Persian;Ottoman Turkish,Q13955;Q9168;Q36730,Q118;Q120;Q3104
@@ -54,11 +57,13 @@ Arabic; Persian,,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic; some notes in Persian,ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic and Coptic,ara;cop,Arabic;Coptic,Q13955;Q36155,Q118;Q4335
 Arabic and Coptic,cop;ara,Arabic;Coptic,Q13955;Q36155,Q118;Q4335
+Arabic and Hausa,,Arabic;Hausa,Q13955;Q56475,Q118;Q100835
 Arabic and Javanese in Arabic script,,Arabic;Javanese,Q13955;Q33549,Q118;Q38105
 Arabic and Ottoman Turkish,;ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
 Arabic and Persian,,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic and Persian,ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic and Turkish,;ara;ota,Arabic;Turkish,Q13955;Q256,Q118;Q4337
+Arabic and Turkish in Arabic script,,Arabic;Turkish,Q13955;Q256,Q118;Q4337
 Arabic hand,,Arabic,Q13955,Q118
 "Arabic headwords, Ottoman definitions",ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
 Arabic text with Persian marginalia,ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
@@ -133,6 +138,8 @@ chi,chi,Chinese,Q7850,Q12715
 chi;jpn,chi;jpn,Chinese;Japanese,Q7850;Q5287,Q12715;Q12711
 Chiefly Arabic with some Persian,ara,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Chiefly Arabic with some Samaritan Aramaic,ara,Arabic;Samaritan Aramaic,Q13955;Q56612,Q118;Q6995
+Chiefly in Arabic with 1 text in Ottoman Turkish,,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
+Chiefly in Arabic with a couple of texts in Ottoman Turkish,,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
 "Chiefly in Latin, often lapsing into the vernacular. One piece, dated 1497, is entirely in Catalan",,Latin;Catalan,Q397;Q7026,Q113;Q1316
 "Chiefly in Latin, with a few documents in Spanish or Catalan",,Latin;Spanish,Q397;Q1321,Q113;Q114
 "Chiefly in Latin, with one document in Catalan",,Latin;Catalan,Q397;Q7026,Q113;Q1316
@@ -265,6 +272,7 @@ frm;lat,frm;lat,Middle French;Latin,Q1473289;Q397,Q110;Q113
 fro,fro,Old French,Q35222,Q3106
 Ge'ez,,Ge'ez,Q35667,Q3664
 Ge'ez (Ethopic),,Ge'ez,Q35667,Q3664
+Geez,,Ge'ez,Q35667,Q3664
 ger,,German,Q188,Q112
 ger,ger,German,Q188,Q112
 ger;lat,ger;lat,German;Latin,Q188;Q397,Q112;Q113
@@ -293,6 +301,7 @@ German and Latin words,,German;Latin,Q188;Q397,Q112;Q113
 German with Latin calendar and colophon,gmh;lat,German;Latin,Q188;Q397,Q112;Q113
 German with some Latin,,German;Latin,Q188;Q397,Q112;Q113
 gez,gez,Ge'ez,Q35667,Q3664
+gez;Amharic,,Ge'ez;Amharic,Q35667;Q28244,Q3664;Q42444
 gmh,gmh,Middle High German,Q837985,Q115
 gmh;fre,gmh;fre,Middle High German;French,Q837985;Q150,Q115;Q111
 gmh;lat,gmh;lat,Middle High German;Latin,Q837985;Q397,Q115;Q113

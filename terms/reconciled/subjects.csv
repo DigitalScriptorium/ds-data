@@ -618,6 +618,7 @@ Arabes--Musique,6,a--x,,Arabs--Music,http://id.worldcat.org/fast/1424542,Q11432
 Arabes--Musique.,6,a--x,,Arabs--Music,http://id.worldcat.org/fast/1424542,Q11432
 "Arabia, Southern--History--Poetry--Early works to 1800",0,a--x--v--v,(uri) http://id.loc.gov/authorities/subjects/sh86000427,Southern Arabia;History;Poetry;Early works,http://id.worldcat.org/fast/1692642;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1423828;http://id.worldcat.org/fast/1411636,Q11563;Q6879;Q247;Q300
 "Arabia, Southern--History--Poetry--Early works to 1800.",0,a--x--v--v,(uri) http://id.loc.gov/authorities/subjects/sh86000427,Southern Arabia;History;Poetry;Early works,http://id.worldcat.org/fast/1692642;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1423828;http://id.worldcat.org/fast/1411636,Q11563;Q6879;Q247;Q300
+Arabian Peninsula--Description and travel--Early works to 1800,0,a--x--v,,Arabian Peninsula;Voyages and travels;Early works,http://id.worldcat.org/fast/1240131;http://id.worldcat.org/fast/1169308;http://id.worldcat.org/fast/1411636,Q20347;Q3600;Q300
 Arabic alphabet,0,a,,Arabic alphabet,http://id.worldcat.org/fast/812259,Q11300
 Arabic alphabet,0,a,http://id.loc.gov/authorities/subjects/sh85006297,Arabic alphabet,http://id.worldcat.org/fast/812259,Q11300
 Arabic alphabet--Religious aspects--Islam,0,a--x--x,,Arabic alphabet--Religious aspects--Islam,http://id.worldcat.org/fast/812261,Q38811
@@ -4402,6 +4403,7 @@ Epic literature,fast,a,http://id.worldcat.org/fast/913695,Epic literature,http:/
 "Epic poetry, Latin",ds-subject,,,"Epic poetry, Latin",http://id.worldcat.org/fast/913954,Q38897
 "Epic poetry, Latin",0,a,http://id.loc.gov/authorities/subjects/sh85044336,"Epic poetry, Latin",http://id.worldcat.org/fast/913954,Q38897
 "Epic poetry, Persian -- Early works to 1800",ds-subject,,,"Epic poetry, Persian;Early works",http://id.worldcat.org/fast/1741636;http://id.worldcat.org/fast/1411636,Q18334;Q300
+"Epic poetry, Persian--Early works to 1800",0,a--v,,"Epic poetry, Persian;Early works",http://id.worldcat.org/fast/1741636;http://id.worldcat.org/fast/1411636,Q18334;Q300
 "Epic poetry, Persian--Early works to 1800",openn-subjects,,,"Epic poetry, Persian;Early works",http://id.worldcat.org/fast/1741636;http://id.worldcat.org/fast/1411636,Q18334;Q300
 "Epigrams, Latin",fast,a,http://id.worldcat.org/fast/914156,"Epigrams, Latin",http://id.worldcat.org/fast/914156,Q4219
 "Epigrams, Latin",0,a,http://id.loc.gov/authorities/subjects/sh85044394,"Epigrams, Latin",http://id.worldcat.org/fast/914156,Q4219
@@ -4652,6 +4654,7 @@ Falconry--Early works to 1800.,0,a--v,http://id.loc.gov/authorities/subjects/sh2
 Fallacies (Logic),0,a,http://id.loc.gov/authorities/subjects/sh85046973,Fallacies (Logic),http://id.worldcat.org/fast/920044,Q26949
 Fallacies (Logic),fast,a,http://id.worldcat.org/fast/920044,Fallacies (Logic),http://id.worldcat.org/fast/920044,Q26949
 Fallacies (Logic)--Early works to 1800,0,a--v,,Fallacies (Logic);Early works,http://id.worldcat.org/fast/920044;http://id.worldcat.org/fast/1411636,Q26949;Q300
+Falnamas,0,a,,Falnamas,http://id.worldcat.org/fast/1748126,Q7762
 Families,fast,a,,Families,http://id.worldcat.org/fast/1728849,Q5939
 Families,fast,a,http://id.worldcat.org/fast/1728849,Families,http://id.worldcat.org/fast/1728849,Q5939
 Families.,fast,a,http://id.worldcat.org/fast/1728849,Families,http://id.worldcat.org/fast/1728849,Q5939
@@ -6783,6 +6786,7 @@ Illumination of books and manuscripts,ds-subject,,,Illumination of books and man
 Illumination of books and manuscripts,0,a,,Illumination of books and manuscripts,http://id.worldcat.org/fast/967235,Q272
 Illumination of books and manuscripts,fast,a,(OCoLC)fst00967235,Illumination of books and manuscripts,http://id.worldcat.org/fast/967235,Q272
 Illumination of books and manuscripts,fast,a,http://id.worldcat.org/fast/967235,Illumination of books and manuscripts,http://id.worldcat.org/fast/967235,Q272
+"Illumination of books and manuscripts, Arab",0,a,,"Illumination of books and manuscripts, Arab",http://id.worldcat.org/fast/967250,Q8144
 "Illumination of books and manuscripts, Carolingian",fast,a,http://id.worldcat.org/fast/967267,"Illumination of books and manuscripts, Carolingian",http://id.worldcat.org/fast/967267,Q342
 "Illumination of books and manuscripts, Carolingian--Specimens",0,a--v,,"Illumination of books and manuscripts, Carolingian;Specimens",http://id.worldcat.org/fast/967267;http://id.worldcat.org/fast/1423861,Q342;Q239
 "Illumination of books and manuscripts, Ethiopian",0,a,http://id.loc.gov/authorities/subjects/sh88000554,"Illumination of books and manuscripts, Ethiopian",http://id.worldcat.org/fast/967285,Q68062
@@ -6826,6 +6830,9 @@ Illumination of books and manuscripts,fast,a,http://id.worldcat.org/fast/967235,
 "Illumination of books and manuscripts, Iranian",0,a,http://id.loc.gov/authorities/subjects/sh85064362,"Illumination of books and manuscripts, Iranian",http://id.worldcat.org/fast/967304,Q18302
 "Illumination of books and manuscripts, Iranian",fast,a,http://id.worldcat.org/fast/fst00967304,"Illumination of books and manuscripts, Iranian",http://id.worldcat.org/fast/967304,Q18302
 "Illumination of books and manuscripts, Iranian",openn-subjects,,,"Illumination of books and manuscripts, Iranian",http://id.worldcat.org/fast/967304,Q18302
+"Illumination of books and manuscripts, Iranian--16th century",0,a--y,,"Illumination of books and manuscripts, Iranian;Sixteenth century",http://id.worldcat.org/fast/967304;http://id.worldcat.org/fast/1119851,Q18302;Q335
+"Illumination of books and manuscripts, Iranian--18th century",0,a--y,,"Illumination of books and manuscripts, Iranian;Eighteenth century",http://id.worldcat.org/fast/967304;http://id.worldcat.org/fast/904058,Q18302;Q3024
+"Illumination of books and manuscripts, Iranian--Early works to 1800",0,a--v,,"Illumination of books and manuscripts, Iranian;Early works",http://id.worldcat.org/fast/967304;http://id.worldcat.org/fast/1411636,Q18302;Q300
 "Illumination of books and manuscripts, Iranian--Specimens",0,a--v,,"Illumination of books and manuscripts, Iranian;Specimens",http://id.worldcat.org/fast/967304;http://id.worldcat.org/fast/1423861,Q18302;Q239
 "Illumination of books and manuscripts, Iranian--Specimens",openn-subjects,,,"Illumination of books and manuscripts, Iranian;Specimens",http://id.worldcat.org/fast/967304;http://id.worldcat.org/fast/1423861,Q18302;Q239
 "Illumination of books and manuscripts, Italian",0,a,http://id.loc.gov/authorities/subjects/sh85064365,"Illumination of books and manuscripts, Italian",http://id.worldcat.org/fast/967315,Q38503
@@ -6851,6 +6858,7 @@ Illumination of books and manuscripts,fast,a,http://id.worldcat.org/fast/967235,
 "Illumination of books and manuscripts, Renaissance--France--Specimens",0,a--z--v,,"Illumination of books and manuscripts, Renaissance;France;Specimens",http://id.worldcat.org/fast/967343;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1423861,Q48375;Q152;Q239
 "Illumination of books and manuscripts, Thai",ds-subject,,,"Illumination of books and manuscripts, Thai",http://id.worldcat.org/fast/967365,Q76555
 "Illumination of books and manuscripts, Thai -- Specimens",ds-subject,,,"Illumination of books and manuscripts, Thai;Specimens",http://id.worldcat.org/fast/967365;http://id.worldcat.org/fast/1423861,Q76555;Q239
+"Illumination of books and manuscripts, Turkish",0,a,,"Illumination of books and manuscripts, Turkish",http://id.worldcat.org/fast/967369,Q16309
 Illumination of books and manuscripts.,fast,a,http://id.worldcat.org/fast/967235,Illumination of books and manuscripts,http://id.worldcat.org/fast/967235,Q272
 Illumination of books and manuscripts--18th century,0,a--y,,Illumination of books and manuscripts;Eighteenth century,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/904058,Q272;Q3024
 Illumination of books and manuscripts--19th century,0,a--y,,Illumination of books and manuscripts;Nineteenth century,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1037841,Q272;Q3538
@@ -6891,6 +6899,7 @@ Illumination of books and manuscripts--Technique,0,a--x,http://id.loc.gov/author
 Illumination of books and manuscripts--Technique,fast,a--x,http://id.worldcat.org/fast/967242,Illumination of books and manuscripts--Technique,http://id.worldcat.org/fast/967242,Q4142
 Illumination of books and manuscripts--Technique.,0,a--x,http://id.loc.gov/authorities/subjects/sh2009126730,Illumination of books and manuscripts--Technique,http://id.worldcat.org/fast/967242,Q4142
 Illumination of books and manuscripts--Technique.,fast,a--x,http://id.worldcat.org/fast/967242,Illumination of books and manuscripts--Technique,http://id.worldcat.org/fast/967242,Q4142
+Illumination of books and manuscripts--Turkey,0,a--z,,Illumination of books and manuscripts;Turkey,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1208963,Q272;Q4294
 Illuminations (painting),ds-subject,,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
 Illuminations (visual works),ds-subject,,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
 Illusion (Philosophy),0,a,http://id.loc.gov/authorities/subjects/sh85064394,Illusion (Philosophy),http://id.worldcat.org/fast/967374,Q26778
@@ -7256,7 +7265,7 @@ Islam--Biographies,6,a--v,,Islam;Biographies,http://id.worldcat.org/fast/979776;
 Islam--Biography,0,a--v,,Islam;Biographies,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1919896,Q3549;Q3051
 Islam--Charities--Early works to 1800,0,a--x--v,,Islam--Charities;Early works,http://id.worldcat.org/fast/979780;http://id.worldcat.org/fast/1411636,Q64215;Q300
 Islam -- China,ds-subject,,,Islam;China,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1206073,Q3549;Q12627
-"Islam -- China
+"Islam -- China
 illuminated manuscripts",ds-subject,,,Islam;China;illuminated manuscripts,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1206073;http://vocab.getty.edu/aat/300265483,Q3549;Q12627;Q4268
 Islam--Coutumes et pratiques,6,a--x,,Islam--Customs and practices,http://id.worldcat.org/fast/979785,Q11380
 Islam--Coutumes et pratiques--Ouvrages avant 1800,6,a--x--v,,Islam--Customs and practices;Early works,http://id.worldcat.org/fast/979785;http://id.worldcat.org/fast/1411636,Q11380;Q300
@@ -7498,6 +7507,9 @@ Islamic magic--Early works to 1800,0,a--v,,Islamic magic;Early works,http://id.w
 Islamic magic--Early works to 1800.,0,a--v,,Islamic magic;Early works,http://id.worldcat.org/fast/1730344;http://id.worldcat.org/fast/1411636,Q2807;Q300
 "Islamic magic--Formulae, receipts, prescriptions--Early works to 1800",0,a--v--v,,"Islamic magic;Prescriptions, formulae, receipts, etc.;Early works",http://id.worldcat.org/fast/1730344;http://id.worldcat.org/fast/1424054;http://id.worldcat.org/fast/1411636,Q2807;Q3042;Q300
 Islamic meditations--Early works to 1800,0,a--v,,Islamic meditations;Early works,http://id.worldcat.org/fast/979989;http://id.worldcat.org/fast/1411636,Q48832;Q300
+Islamic miniature painting--17th century,0,a--y,,Islamic miniature painting;Seventeenth century,http://id.worldcat.org/fast/1730349;http://id.worldcat.org/fast/1113663,Q4875;Q2771
+Islamic miniature painting--18th century,0,a--y,,Islamic miniature painting;Eighteenth century,http://id.worldcat.org/fast/1730349;http://id.worldcat.org/fast/904058,Q4875;Q3024
+Islamic miniature painting--Iran--16th century,0,a--z--y,,Islamic miniature painting;Iran;Sixteenth century,http://id.worldcat.org/fast/1730349;http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/1119851,Q4875;Q16384;Q335
 Islamic music--Early works to 1800,0,a--v,,Islamic music;Early works,http://id.worldcat.org/fast/979993;http://id.worldcat.org/fast/1411636,Q48838;Q300
 Islamic New Year--Early works to 1800,0,a--v,,Islamic New Year;Early works,http://id.worldcat.org/fast/979902;http://id.worldcat.org/fast/1411636,Q48824;Q300
 Islamic occultism,fast,a,http://id.worldcat.org/fast/1730354,Islamic occultism,http://id.worldcat.org/fast/1730354,Q2773
@@ -8773,7 +8785,7 @@ Khalwatīyah--Early works to 1800,0,a--v,,Khalwatīyah;Early works,http://id.wor
 Khamti language,ds-subject,,,Khamti language,http://id.worldcat.org/fast/987074,Q76567
 Khlat (Armenia)--History,0,a--x,,History,http://id.worldcat.org/fast/958235,Q6879
 Khurāsān (Iran)--Description and travel--Poetry--Early works to 1800,0,a--x--v--v,,Iran--Khurāsān;Voyages and travels;Poetry;Early works,http://id.worldcat.org/fast/1206477;http://id.worldcat.org/fast/1169308;http://id.worldcat.org/fast/1423828;http://id.worldcat.org/fast/1411636,Q10792;Q3600;Q247;Q300
-"Kimonos
+"Kimonos
 Textile design -- Japan -- History -- Edo period, 1600-1868",ds-subject,,,Kimonos;Textile design;Japan;History;1600-1868;Textile design--Edo period,http://id.worldcat.org/fast/987533;http://id.worldcat.org/fast/1148616;http://id.worldcat.org/fast/1204082;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1355642;http://id.worldcat.org/fast/1907229,Q76557;Q76536;Q12622;Q6879;Q12634;Q76535
 Kingdom of God,0,a,,Kingdom of God,http://id.worldcat.org/fast/987680,Q5928
 Kingdom of God.,0,a,,Kingdom of God,http://id.worldcat.org/fast/987680,Q5928
@@ -9761,6 +9773,9 @@ Manuscripts,fast,a,http://id.worldcat.org/fast/1008230,Manuscripts,http://id.wor
 "Manuscripts, Arabic.",fast,a,(OCoLC)fst01008278--(uri) http://id.worldcat.org/fast/fst01008278,"Manuscripts, Arabic",http://id.worldcat.org/fast/1008278,Q256
 "Manuscripts, Arabic.",fast,a,(OCoLC)fst01008278,"Manuscripts, Arabic",http://id.worldcat.org/fast/1008278,Q256
 "Manuscripts, Arabic (Papyri)",ds-subject,,,"Manuscripts, Arabic (Papyri)",http://id.worldcat.org/fast/1008285,Q100365
+"Manuscripts, Arabic--10th century",0,a--y,,"Manuscripts, Arabic;Tenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1147737,Q256;Q12530
+"Manuscripts, Arabic--11th century",0,a--y,,"Manuscripts, Arabic;Eleventh century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/908096,Q256;Q306
+"Manuscripts, Arabic--12th century",0,a--y,,"Manuscripts, Arabic;Twelfth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1159791,Q256;Q304
 "Manuscripts, Arabic--14th century",openn-subjects,,,"Manuscripts, Arabic;Fourteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/933420,Q256;Q295
 "Manuscripts, Arabic--15th century",openn-subjects,,,"Manuscripts, Arabic;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/923962,Q256;Q154
 "Manuscripts, Arabic--15th century",0,a--y,,"Manuscripts, Arabic;Fifteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/923962,Q256;Q154
@@ -9870,6 +9885,7 @@ Manuscripts,fast,a,http://id.worldcat.org/fast/1008230,Manuscripts,http://id.wor
 "Manuscripts, Ethiopic",0,a,http://id.loc.gov/authorities/subjects/sh85080711,"Manuscripts, Ethiopic",http://id.worldcat.org/fast/1008334,Q3511
 "Manuscripts, Ethiopic",fast,a,http://id.worldcat.org/fast/fst01008334,"Manuscripts, Ethiopic",http://id.worldcat.org/fast/1008334,Q3511
 "Manuscripts, Ethiopic",fast,a,(OCoLC)fst01008334,"Manuscripts, Ethiopic",http://id.worldcat.org/fast/1008334,Q3511
+"Manuscripts, Ethiopic.",ds-subject,,,"Manuscripts, Ethiopic",http://id.worldcat.org/fast/1008334,Q3511
 "Manuscripts, Ethiopic--California--Berkeley",0,a--z--z,,"Manuscripts, Ethiopic;California--Berkeley",http://id.worldcat.org/fast/1008334;http://id.worldcat.org/fast/1205020,Q3511;Q48231
 "Manuscripts, Ethiopic--Missouri--Saint Louis",0,a--z--z,,"Manuscripts, Ethiopic;Missouri--Saint Louis",http://id.worldcat.org/fast/1008334;http://id.worldcat.org/fast/1204930,Q3511;Q38990
 "Manuscripts, Ethiopic -- Specimens",ds-subject,,,"Manuscripts, Ethiopic;Specimens",http://id.worldcat.org/fast/1008334;http://id.worldcat.org/fast/1423861,Q3511;Q239
@@ -10207,6 +10223,7 @@ Manuscripts,fast,a,http://id.worldcat.org/fast/1008230,Manuscripts,http://id.wor
 "Manuscripts, Persian--17th century",openn-subjects,,,"Manuscripts, Persian;Seventeenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1113663,Q255;Q2771
 "Manuscripts, Persian--18th century",openn-subjects,,,"Manuscripts, Persian;Eighteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/904058,Q255;Q3024
 "Manuscripts, Persian -- 19th century",ds-subject,,,"Manuscripts, Persian;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1037841,Q255;Q3538
+"Manuscripts, Persian--19th century",0,a--y,,"Manuscripts, Persian;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1037841,Q255;Q3538
 "Manuscripts, Persian--19th century",openn-subjects,,,"Manuscripts, Persian;Nineteenth century",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1037841,Q255;Q3538
 "Manuscripts, Persian--California--Berkeley",0,a--z--z,,"Manuscripts, Persian;California--Berkeley",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1205020,Q255;Q48231
 "Manuscripts, Persian--Illinois--Chicago",0,a--z--z,,"Manuscripts, Persian;Illinois--Chicago",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1204048,Q255;Q67920
@@ -10617,6 +10634,7 @@ Martyrs--Sermons--Early works to 1800,0,a--v--v,,Martyrs;Sermons;Early works,htt
 "Mary, Blessed Virgin, Saint, and the church--Early works to 1800",0,a--v,,"Mary, Blessed Virgin, Saint, and the church;Early works",http://id.worldcat.org/fast/1010976;http://id.worldcat.org/fast/1411636,Q75072;Q300
 "Mary, Blessed Virgin, Saint, in the liturgy",openn-subjects,,,"Mary, Blessed Virgin, Saint, in the liturgy",http://id.worldcat.org/fast/1010978,Q18320
 "Mary, Blessed Virgin, Saint, in the liturgy--Prayers and devotions--Early works to 1800",openn-subjects,,,"Mary, Blessed Virgin, Saint, in the liturgy;Prayers and devotions;Early works",http://id.worldcat.org/fast/1010978;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q18320;Q3052;Q300
+"Masnavis, Persian",0,a,,"Masnavis, Persian",http://id.worldcat.org/fast/1011127,Q7480
 "Masnavis, Persian -- Early works to 1800",ds-subject,,,"Masnavis, Persian;Early works",http://id.worldcat.org/fast/1011127;http://id.worldcat.org/fast/1411636,Q7480;Q300
 "Masnavis, Persian--Early works to 1800",openn-subjects,,,"Masnavis, Persian;Early works",http://id.worldcat.org/fast/1011127;http://id.worldcat.org/fast/1411636,Q7480;Q300
 "Masnavis, Persian--Early works to 1800",0,a--v,,"Masnavis, Persian;Early works",http://id.worldcat.org/fast/1011127;http://id.worldcat.org/fast/1411636,Q7480;Q300
@@ -11113,6 +11131,8 @@ Miniature,openn-subjects,,,miniatures (paintings),http://vocab.getty.edu/aat/300
 Miniature books--Specimens,0,a--v,,Miniature books;Specimens,http://id.worldcat.org/fast/1022666;http://id.worldcat.org/fast/1423861,Q68096;Q239
 Miniature painting,0,a,http://id.loc.gov/authorities/subjects/sh85085670,Miniature painting,http://id.worldcat.org/fast/1022730,Q68064
 Miniature painting,fast,a,http://id.worldcat.org/fast/fst01022730,Miniature painting,http://id.worldcat.org/fast/1022730,Q68064
+"Miniature painting, Iranian--16th century",0,a--y,,"Miniature painting, Iranian;Sixteenth century",http://id.worldcat.org/fast/1022754;http://id.worldcat.org/fast/1119851,Q76560;Q335
+"Miniature painting, Iranian--18th century",0,a--y,,"Miniature painting, Iranian;Eighteenth century",http://id.worldcat.org/fast/1022754;http://id.worldcat.org/fast/904058,Q76560;Q3024
 "Miniature painting, Iranian -- Specimens",ds-subject,,,"Miniature painting, Iranian;Specimens",http://id.worldcat.org/fast/1022754;http://id.worldcat.org/fast/1423861,Q76560;Q239
 Miniatures (Illuminations) -- Spain -- Granada -- 16th century,ds-subject,,,miniatures (paintings);Spain--Granada;Sixteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1207338;http://id.worldcat.org/fast/1119851,Q262;Q48477;Q335
 Miniatures (Illuminations)--Turkey--20th century,gmgpc,a--z--y,,miniatures (paintings);Turkey;Twentieth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1208963;http://id.worldcat.org/fast/1159810,Q262;Q4294;Q12528
@@ -13509,6 +13529,7 @@ Psalters--Early works to 1800,0,a--v,,Psalters;Early works,http://id.worldcat.or
 Psalters--England,0,a--z,(uri) http://id.loc.gov/authorities/subjects/sh85108218,Psalters;England,http://id.worldcat.org/fast/1080778;http://id.worldcat.org/fast/1219920,Q4323;Q320
 Psalters--England.,0,a--z,(uri) http://id.loc.gov/authorities/subjects/sh85108218,Psalters;England,http://id.worldcat.org/fast/1080778;http://id.worldcat.org/fast/1219920,Q4323;Q320
 Psalters--Ethiopia,0,a--z,,Psalters;Ethiopia,http://id.worldcat.org/fast/1080778;http://id.worldcat.org/fast/1205830,Q4323;Q11151
+Psalters - -Ethiopia.,ds-subject,,,Psalters;Ethiopia,http://id.worldcat.org/fast/1080778;http://id.worldcat.org/fast/1205830,Q4323;Q11151
 Psalters--France,0,a--z,,Psalters;France,http://id.worldcat.org/fast/1080778;http://id.worldcat.org/fast/1204289,Q4323;Q152
 Psalters--France.,0,a--z,,Psalters;France,http://id.worldcat.org/fast/1080778;http://id.worldcat.org/fast/1204289,Q4323;Q152
 Psalters--Italy,0,a--z,,Psalters;Italy,http://id.worldcat.org/fast/1080778;http://id.worldcat.org/fast/1204565,Q4323;Q249
@@ -14920,6 +14941,7 @@ Shīʿah--Doctrines,0,a--x,,Shīʻah--Doctrines,http://id.worldcat.org/fast/1117
 Shīʿah--Doctrines--Early works to 1800,0,a--x--v,,Shīʻah--Doctrines;Early works,http://id.worldcat.org/fast/1117948;http://id.worldcat.org/fast/1411636,Q39091;Q300
 Shīʿah--Doctrines--Sources,0,a--x--x,,Shīʻah--Doctrines--Sources,http://id.worldcat.org/fast/1199631,Q54960
 Shīʿah--Doctrines--Sources--Early works to 1800,0,a--x--x--v,,Shīʻah--Doctrines--Sources;Early works,http://id.worldcat.org/fast/1199631;http://id.worldcat.org/fast/1411636,Q54960;Q300
+Shīʿah--Prayers and devotions--Early works to 1800,0,a--v--v,,Shīʻah;Prayers and devotions;Early works,http://id.worldcat.org/fast/1117946;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q11431;Q3052;Q300
 Shīʿah--Sermons--Early works to 1800,0,a--v--v,,Shīʻah;Sermons;Early works,http://id.worldcat.org/fast/1117946;http://id.worldcat.org/fast/1423904;http://id.worldcat.org/fast/1411636,Q11431;Q180;Q300
 Shīʿah--Sermons--Early works to 1800.,0,a--v--v,,Shīʻah;Sermons;Early works,http://id.worldcat.org/fast/1117946;http://id.worldcat.org/fast/1423904;http://id.worldcat.org/fast/1411636,Q11431;Q180;Q300
 Shofar,0,a,http://id.loc.gov/authorities/subjects/sh85121774,Shofar,http://id.worldcat.org/fast/1116788,Q74842
@@ -16300,6 +16322,7 @@ Turkey--Foreign relations--Catholic Church,0,a--x--x,,Turkey;International relat
 Turkey--Foreign relations--Catholic Church.,0,a--x--x,,Turkey;International relations;Catholic Church,http://id.worldcat.org/fast/1208963;http://id.worldcat.org/fast/977053;http://id.worldcat.org/fast/531720,Q4294;Q3603;Q310
 Turkey--Foreign relations--France,0,a--x--z,http://id.loc.gov/authorities/subjects/sh2008117309,Turkey;International relations;France,http://id.worldcat.org/fast/1208963;http://id.worldcat.org/fast/977053;http://id.worldcat.org/fast/1204289,Q4294;Q3603;Q152
 Turkey--Foreign relations--Italy--Venice,0,a--x--z--z,,Turkey;International relations;Italy--Venice,http://id.worldcat.org/fast/1208963;http://id.worldcat.org/fast/977053;http://id.worldcat.org/fast/1204473,Q4294;Q3603;Q2814
+Turkey--Geography--Early works to 1800,0,a--x--v,,Turkey;Geography;Early works,http://id.worldcat.org/fast/1208963;http://id.worldcat.org/fast/940469;http://id.worldcat.org/fast/1411636,Q4294;Q191;Q300
 "Turkey--History, Military",0,a--x,,"Turkey;History, Military",http://id.worldcat.org/fast/1208963;http://id.worldcat.org/fast/1353231,Q4294;Q4309
 "Turkey--History, Military--19th century",0,a--x--y,,"Turkey;History, Military;Nineteenth century",http://id.worldcat.org/fast/1208963;http://id.worldcat.org/fast/1353231;http://id.worldcat.org/fast/1037841,Q4294;Q4309;Q3538
 "Turkey--History, Military--Early works to 1800",0,a--x--v,,"Turkey;History, Military;Early works",http://id.worldcat.org/fast/1208963;http://id.worldcat.org/fast/1353231;http://id.worldcat.org/fast/1411636,Q4294;Q4309;Q300
