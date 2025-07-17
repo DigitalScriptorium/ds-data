@@ -45,6 +45,7 @@ Arabic,,Arabic,Q13955,Q118
 Arabic,ara;eng,Arabic,Q13955,Q118
 Arabic,ara,Arabic,Q13955,Q118
 "Arabic, Ottoman Turkish, and Persian",,Arabic;Ottoman Turkish;Persian,Q13955;Q36730;Q9168,Q118;Q3104;Q120
+"Arabic, Persian",,Arabic;Persian,Q13955;Q9168,Q118;Q120
 "Arabic, Persian, and Ottoman Turkish",,Arabic;Persian;Ottoman Turkish,Q13955;Q9168;Q36730,Q118;Q120;Q3104
 "Arabic, Persian, and Urdu",,Arabic;Persian;Urdu,Q13955;Q9168;Q1617,Q118;Q120;Q27496
 "Arabic, Persian and Ottoman Turkish",;ara;per;ota,Arabic;Persian;Ottoman Turkish,Q13955;Q9168;Q36730,Q118;Q120;Q3104
@@ -165,6 +166,7 @@ cop,cop,Coptic,Q36155,Q4335
 cop;ara,cop;ara,Coptic;Arabic,Q36155;Q13955,Q4335;Q118
 Coptic,,Coptic,Q36155,Q4335
 Coptic,cop,Coptic,Q36155,Q4335
+"Coptic, Arabic",,Coptic;Arabic,Q36155;Q13955,Q4335;Q118
 "Coptic, Bohairic dialect, with a few notations in Arabic",cop,Coptic;Bohairic;Arabic,Q36155;Q890733;Q13955,Q4335;Q27517;Q118
 "Coptic and Arabic, marginal notes in Arabic",,Coptic;Arabic,Q36155;Q13955,Q4335;Q118
 Cyrillic,,Cyrillic script,Q8209,Q48677
@@ -917,6 +919,8 @@ Latin,frm,Latin,Q397,Q113
 Latin,ita,Latin,Q397,Q113
 LAtin,,Latin,Q397,Q113
 "Latin, Anglo Norman, and Middle English",lat,Latin;Anglo-Norman;Middle English,Q397;Q35214;Q36395,Q113;Q1315;Q119
+"Latin, Catalan",,Latin;Catalan,Q397;Q7026,Q113;Q1316
+"Latin, English",,Latin;English,Q397;Q1860,Q113;Q109
 "Latin, except for one document in Italian",lat;ita,Latin;Italian,Q397;Q652,Q113;Q116
 "Latin, French",,Latin;French,Q397;Q150,Q113;Q111
 "Latin, French",lat;fre,Latin;French,Q397;Q150,Q113;Q111
