@@ -8578,7 +8578,14 @@ Nityanātha,author,,http://id.loc.gov/authorities/names/n84086528,human,Gorakṣ
 "Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203",author,,,human,Nizami Ganjavi,Q234908,DSNAME2172,Q16480
 "Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203",author,نظامى گنجوى، 1140 یا 1141-1202 یا 1203,,human,Nizami Ganjavi,Q234908,DSNAME2172,Q16480
 "Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203",author,نظامى گنجوى، 1140 یا 1141-1202 یا 1203,,human,Nizami Ganjavi,Q234908,DSNAME2172,Q16480
-"Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203. 
+"Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203. 
+
+
+
+
+
+
+
 نظامى گنجوى.",author,,,human,Nizami Ganjavi,Q234908,DSNAME2172,Q16480
 Niẓāmī Ganjavī ca.1141-ca.1209,author,,,human,Nizami Ganjavi,Q234908,DSNAME2172,Q16480
 "Niẓāmī ʻArūz̤ī, active 1110-1161",author,نظامى عروضى، active 1110-1161,,human,Nizami Aruzi,Q1152795,DSNAME6197,Q49068
@@ -10254,6 +10261,7 @@ Saint Allyre (Abbey),former owner,,,organization,Abbaye de Saint-Alyre,Q2820668,
 Saint-Amand-les-Eaux (Abbey),former owner,,,organization,Saint-Amand Abbey,Q334131,DSNAME2194,Q16502
 "Saint Antoninus, Archbishop of Florence",author,,,human,Antoninus of Florence,Q773822,DSNAME552,Q1787
 Saint Antoninus of Florence,other,,,human,Antoninus of Florence,Q773822,DSNAME552,Q1787
+Saint Augustine,author,,,human,Augustine of Hippo,Q8018,DSNAME351,Q1515
 Saint Bassanio,other,,,human,Saint Bassian,Q1289858,DSNAME508,Q1672
 Saint-Bénigne of Dijon,former owner,,,human,Benignus of Dijon,Q652797,DSNAME2739,Q20062
 Saint-Benoît-sur-Loire (Abbey),former owner,,http://id.loc.gov/authorities/names/n83019607,organization,Fleury Abbey,Q956741,DSNAME127,Q400
@@ -10266,6 +10274,7 @@ Saint Catherine (Monastery : Mount Sinai),author,,,organization,Saint Catherine 
 "Saint-Gatien (Cathedral : Tours, France)",former owner,,,organization,Tours Cathedral,Q547013,DSNAME1489,Q7650
 "Saint-Germain-des-Prés (Abbey : Paris, France)",former owner,,,organization,Abbey of Saint-Germain-des-Prés,Q334186,DSNAME1190,Q6069
 "Saint-Germain-des-Prés (Abbey : Paris, France)",former owner,,,organization,Abbey of Saint-Germain-des-Prés,Q334186,DSNAME1190,Q6069
+Saint Jerome,author,,,human,Jerome,Q44248,DSNAME285,Q898
 Saint-Martin de Plaimpied (Augustinian Monastery),author,,,organization,Abbaye Saint-Martin de Plaimpied,Q23304128,DSNAME7432,Q67678
 "Saint-Martin Of Tournai, Abbey",former owner,,,organization,Abbaye de Saint-Martin de Tournai,Q2820407,DSNAME2167,Q16475
 "Saint Mary's Abbey (Holme Cultram, England)",former owner,,,organization,Holmcultram Abbey,Q5883306,DSNAME5587,Q42032
@@ -12258,6 +12267,7 @@ William Bishop of Achaden,author,,,human,William Bishop of Achaden,Q131623270,DS
 "William Bragge (1823-1884); his sale, Sotheby’s, 7 June 1876, lot 237, to Quaritch (his cat. 31, June 1876, no. 87); John Ruskin (1819-1900), inscribed by him to Lawrence Hilliard, Brantwood, 25 January 1881; William K. Bixby (1857-1931); his sale, Anderson, New York, 29 March 1916, lot 743,",former owner,,,human;organization;human;human,William Bragge;Bernard Quaritch Ltd;John Ruskin;William Keeney Bixby,Q15453218;Q65034936;Q179126;Q24900668,DSNAME615;DSNAME279;DSNAME463;DSNAME502,Q1850;Q892;Q1627;Q1666
 William Chmurny,former owner,,,human,William Chmurny,Q125930898,DSNAME5876,Q42349
 William de Brailes,artist,,,human,William de Brailes,Q8020766,DSNAME450,Q1614
+William de Brailes (Illuminator),artist,,,human,William de Brailes,Q8020766,DSNAME450,Q1614
 William de Montibus,author,,,human,William de Montibus,Q18535021,DSNAME1214,Q6093
 William de Rothwell,author,,,human,William Rothwell,Q115182672,DSNAME1462,Q7623
 William Durand,author,,,human,Guillaume Durand,Q2329414,DSNAME1502,Q7868
