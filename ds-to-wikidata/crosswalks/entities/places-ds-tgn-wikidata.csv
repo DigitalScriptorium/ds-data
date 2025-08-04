@@ -1,22 +1,36 @@
 ds_label,ds_qid,tgn_label,tgn_id,wikidata_label,wikidata_qid
 Aachen,Q4990,Aachen,7004799,Aachen,Q1017
 Aakkâr,Q11613,Aakkâr,7594637,Akkar Governorate,Q556146
+Abarkūh,Q48704,Abarkuh,8881087,Abarkūh,Q919547
 Aberdeen,Q17535,Aberdeen,7009782,Aberdeen,Q36405
 Abruzzi,Q17526,Abruzzi,7009084,Abruzzo,Q1284
+Adkān,Q40046,Adkan,8881601,Adkān,Q4683228
+Adria,Q76303,Adria,7008301,Adria,Q34615
+Affi,Q76265,Affi,1043111,Affi,Q46642
 Afghanistan,Q3101,Afghānestān,7016612,Afghanistan,Q889
+Africa,Q66926,Africa,7001242,Africa,Q15
 Afyon,Q18347,Afyon,7002512,Afyonkarahisar,Q166824
 Agadir,Q42072,Agadir,1091336,Agadir,Q170525
-Āgra,Q27477,Āgra,7001493,Agra,Q42941
 Aix-en-Provence,Q38134,Aix-en-Provence,7010786,Aix-en-Provence,Q47465
-Albania,Q8378,Albania,7006417,Albania,Q222
+Ajuda,Q66892,Ajuda,7746220,Ajuda,Q413311
+Al Madīnah al Munawwarah,Q40040,Medina Province,7000678,Al Madīnah al Munawwarah,Q236027
+Albania,Q8378,Shqipëria,7006417,Albania,Q222
+Alcalá de Henares,Q42495,Alcalá de Henares,7007139,Alcalá de Henares,Q46940
+Alençon,Q66899,Alençon,7008621,Alençon,Q181269
 Aleppo,Q3095,Ḥalab,7002252,Aleppo,Q41183
-Algeria,Q27489,Algeria,7016752,Algeria,Q262
+Alexandria,Q74802,Al Iskandarīyah,7001188,Alexandria,Q87
+Algeria,Q27489,Al-Jazā'ir,7016752,Algeria,Q262
 Alsace,Q38135,Alsace,7024265,Alsace,Q1142
+Alta Verapaz,Q66888,Alta Verapaz,1000495,Alta Verapaz Department,Q504637
+Altona,Q74806,Altona,7012310,Altona,Q1630
 Amasya,Q26527,Amasya,7002337,Amasya,Q170532
 Amberg,Q19894,Amberg,7012357,Amberg,Q7042
+Amboise,Q66887,Amboise,7008272,Amboise,Q205116
 Ameglia,Q5005,Ameglia,7005369,Ameglia,Q269943
 Amiens,Q20361,Amiens,7010588,Amiens,Q41604
 Amorbach,Q38136,Amorbach,7005993,Amorbach,Q474051
+Amsterdam,Q74801,Amsterdam,7006952,Amsterdam,Q727
+An-Najaf,Q11624,An-Najaf,1079401,Najaf,Q168193
 Ancona,Q7511,Ancona,7003980,Ancona,Q3415
 Ancrum,Q38137,Ancrum,1050378,Ancrum,Q3997506
 Andalusia,Q3097,Andalucía,7024275,Andalusia,Q5783
@@ -25,200 +39,308 @@ Andorra,Q38138,Andorra,1000061,Andorra,Q228
 Angers,Q42092,Angers,7008480,Angers,Q38380
 Anghiari,Q42073,Anghiari,7006115,Anghiari,Q52063
 Anjou,Q1288,Anjou,7017069,Anjou,Q107426
-An-Najaf,Q11624,An-Najaf,1079401,Najaf,Q168193
+Antakya,Q52691,Antakya,7594295,Antakya,Q80561
+Antigua Guatemala,Q66884,Antigua Guatemala,7005496,Antigua Guatemala,Q212773
 Antwerp,Q38139,Antwerpen,7007856,Antwerp,Q12892
 Aosta Valley,Q38140,Valle d'Aosta,7003126,Aosta Valley,Q1222
 Apulia,Q38141,Puglia,7010380,Apulia,Q1447
 Aquitaine,Q12693,Aquitaine,7002878,Aquitaine,Q1179
 Arabian Peninsula,Q27492,Arabian Peninsula,1012700,Arabian Peninsula,Q31945
 Aragon,Q38142,Aragón,7024276,Kingdom of Aragon,Q199442
+Arcade,Q76318,Arcade,1043256,Arcade,Q29393
+Arce,Q76297,Arce,1043257,Arce,Q116423
 Arcevia,Q38143,Arcevia,7004003,Arcevia,Q123540
 Arequipa,Q38144,Arequipa,7005825,Arequipa,Q159273
 Arles,Q8029,Arles,7008775,Arles,Q48292
 Armenia,Q791,Hayastan,7006651,Armenia,Q399
 Arras,Q7504,Arras,7008468,Arras,Q131329
+Arāk,Q48706,Arak,1078967,Arāk,Q212628
 As-Salamīyah,Q11606,As-Salamīyah,1085102,Salamiyah,Q75621
+Assam,Q76341,Assam,1001832,Assam,Q1164
+Asti,Q74816,Asti,7005610,Asti,Q6122
 Astorga,Q16413,Astorga,7007313,Astorga,Q465078
 Athens,Q38145,Athínai,7001393,Athens,Q1524
 Augsburg,Q4997,Augsburg,7004324,Augsburg,Q2749
 Austria,Q132,Österreich,1000062,Austria,Q40
+Autun,Q76256,Autun,7008237,Autun,Q190827
 Auvergne,Q38146,Auvergne,7024266,Auvergne,Q1152
 Auvergne-Rhône-Alpes,Q38147,Auvergne-Rhône-Alpes,8711848,Auvergne-Rhône-Alpes,Q18338206
+Avarneh,Q63769,Avarneh,8898656,Avarneh,Q4827758
 Avignon,Q4328,Avignon,7008799,Avignon,Q6397
+Avio,Q76300,Avio,7005507,Avio,Q243944
+Baalbek,Q64091,Baalbek,7002856,Baalbek,Q178835
+Bad Breisig,Q54968,Bad Breisig,1038315,Bad Breisig,Q541726
 Baden-Württemberg,Q38149,Baden-Württemberg,7003692,Baden-Württemberg,Q985
 Badgastein,Q38150,Badgastein,1025441,Bad Gastein,Q254835
+Badia Polesine,Q76314,Badia Polesine,7003285,Badia Polesine,Q34672
 Baghdad,Q11612,Baghdād,7002482,Baghdad,Q1530
+Baja Verapaz,Q66889,Baja Verapaz,1000520,Baja Verapaz Department,Q504647
+Bali,Q100359,Bali,1001137,Bali,Q3125978
 Balkan Peninsula,Q27480,Balkan Peninsula,7011636,Balkans,Q23522
+Balıkesir,Q52678,Balıkesir,1086053,Balıkesir,Q199723
 Bamberg,Q6976,Bamberg,7004325,Bamberg,Q3936
+Bangkok,Q42468,Bangkok,7000983,Krung Thep,Q1861
 Barcelona,Q16423,Barcelona,7007426,Barcelona,Q1492
+Barchfeld,Q74805,Barchfeld,7210088,Barchfeld,Q31903502
+Bardolino,Q76262,Bardolino,7008874,Bardolino,Q46870
 Barga,Q38151,Barga,7006242,Barga,Q216479
 Basel,Q38152,Basel,7007269,Basel,Q78
 Basle-Country,Q5002,Basel-Landschaft,7003740,Basel-Landschaft,Q12146
+Bastogne,Q76345,Bastogne,7007861,Bastogne,Q34021
 Bavaria,Q1303,Bayern,7003669,Bavaria,Q980
 Bayt al Faqīh,Q11607,Bayt al Faqīh,1087306,Bayt al-Faqih,Q579291
 Beauvais,Q42079,Beauvais,7010570,Beauvais,Q174257
 Bedfordshire,Q38153,Bedfordshire,7008103,Bedfordshire,Q67387552
 Beijing,Q12694,Beijing (Beijing Shi),7001758,Beijing,Q956
-Belém,Q19884,Belém,7010773,Belém,Q18500330
 Belgium,Q1243,België,1000063,Belgium,Q31
+Belogorsk,Q74812,Bilohirsk,1052663,Belogorsk,Q863330
+Belém,Q19884,Belém,7010773,Belém,Q18500330
 Benares,Q18349,Vārānasi,7001509,Varanasi,Q79980
 Berat,Q8380,Berat,7006419,Berat,Q170244
 Bergamo,Q38154,Bergamo,7005025,Bergamo,Q628
 Berkshire,Q20363,Berkshire,7008101,Berkshire,Q67284726
-Besancon,Q10831,Besançon,7008356,Besançon,Q37776
+Berlin,Q54973,Berlin,7003712,Berlin (Berlin state),Q64
+Besançon,Q10831,Besançon,7008356,Besançon,Q37776
+Bevensen,Q76335,Bevensen,1038507,Bevensen,Q450856
+Bevilacqua,Q76301,Bevilacqua,4001486,Bevilacqua,Q47479
+Beyşehir,Q64092,Beyşehir,1086089,Beyşehir,Q127389
+Bharūch,Q48692,Bharuch,7545012,Bharūch,Q760153
+Bijāpur,Q48687,Vijaypura District,7001686,Bijāpur,Q83108
+Bionde di Visegna,Q76272,Bionde di Visegna,7059015,Bionde,Q3640168
+Bischheim,Q76332,Bischheim,1032154,Bischheim,Q21570
 Bobbio,Q16407,Bobbio,7004992,Bobbio,Q11498
 Bodensee,Q19909,Bodensee,7212103,Bodensee,Q579011
 Bohemia,Q7503,Čechy,7006470,Bohemia,Q39193
 Bolivia,Q17521,Bolivia,1000046,Bolivia,Q750
 Bologna,Q3087,Bologna,7004847,Bologna,Q1891
+Bombay,Q48707,Mumbai,7001518,Mumbai,Q1156
+Bonn,Q100361,Bonn,7005090,Bonn,Q586
 Bordeaux,Q7508,Bordeaux,7008161,Bordeaux,Q1479
+Bosnia and Herzegovina,Q39901,Bosna i Hercegovina,7006664,Bosnia and Herzegovina,Q225
 Bourg-en-Bresse,Q38155,Bourg-en-Bresse,7012558,Bourg-en-Bresse,Q133069
 Bourges,Q19908,Bourges,7017415,Bourges,Q132404
-Brabant,Q1313,Brabant,7003463,Brabant,Q3051218
+Brabant,Q1313,Brabant,7003463,Pagus Bracbatensis,Q3051218
 Brabant Wallon,Q38156,Brabant Wallon,7018238,Walloon Brabant,Q1122
+Brazil,Q42475,Brasil,1000047,Brazil,Q155
+Breonio,Q76263,Breonio,7058081,Breonio,Q18504040
 Brescia,Q7214,Brescia,7005764,Brescia,Q6221
 Bressanone,Q6994,Bressanone,7005433,Brixen,Q185541
+Brighton,Q54971,Brighton,7011483,Brighton,Q131491
 Brittany,Q1297,Bretagne,7024267,Brittany,Q327
+Brody,Q74815,Brody,1053087,Brody,Q465104
 Bruges,Q16418,Brugge,7007867,Bruges,Q12994
 Brussels,Q19905,Bruxelles,7007868,City of Brussels,Q239
 Buchau,Q3089,Buchau,7201751,Bad Buchau,Q496489
 Buckinghamshire,Q38157,Buckinghamshire,7008104,Buckinghamshire,Q67285329
+Bulgaria,Q52677,Bulgaria,7006413,Bulgaria,Q219
 Burgos,Q12698,Burgos,7007510,Burgos,Q9580
 Burgundy,Q7797,Bourgogne,7029372,Burgundy,Q1173
 Burj Ṣāfītā,Q11619,Burj Ṣāfītā,1085125,Chastel Blanc,Q2961468
 Bursa,Q11629,Bursa,7002420,Bursa,Q40738
 Bury Saint Edmunds,Q38158,Bury Saint Edmunds,7010914,Bury St Edmunds,Q764754
-Buxheim,Q38159,Buxheim,4002028,Buxheim,Q516273
+Bussolengo,Q76269,Bussolengo,1043688,Bussolengo,Q46765
+Buttapietra,Q76280,Buttapietra,1043694,Buttapietra,Q46731
+Buxheim,Q38159,Buxheim,4002028,Buxheim (Upper Bavaria),Q516273
 Byzantine Empire,Q38160,Byzantine Empire,7024407,Byzantine Empire,Q12544
+Béziers,Q66890,Béziers,7017414,Béziers,Q174019
+Cabrières,Q42465,Cabrières,7656498,Cabrières,Q251047
 Cairo,Q3093,Al Qāhirah,7001215,Cairo,Q85
+Cairo Montenotte,Q74818,Cairo Montenotte,1043712,Cairo Montenotte,Q270564
+Calais,Q76344,Calais,7009002,Calais,Q6454
+California,Q42487,California,7007157,California,Q99
+Cambodia,Q42481,Kâmpŭchéa,1000109,Cambodia,Q424
 Cambrai,Q19889,Cambrai,7008456,Cambrai,Q181285
 Cambridge,Q38162,Cambridge,7010874,Cambridge,Q350
 Cambridgeshire,Q38163,Cambridgeshire,7011980,Cambridgeshire,Q30612390
+Camin,Q76317,Camin,7046161,Camin,Q3651594
 Campania,Q38164,Campania,7003005,Campania,Q1438
 Cancon,Q7794,Cancon,1032406,Cancon,Q1063738
-Canton Grisons,Q38165,Graubünden,7003748,Grisons,Q11925
+Canterbury,Q76339,Canterbury,7012044,Canterbury,Q29303
+Canton Grisons,Q38165,Graubünden,7003748,Canton of the Grisons,Q11925
 Cappadocia,Q38166,Cappadocia,6003016,Cappadocia,Q217265
+Carolingian Empire,Q75953,Carolingian Empire,7024348,Carolingian Empire,Q31929
+Carpentras,Q74813,Carpentras,7008801,Carpentras,Q202560
 Carpi,Q16419,Carpi,7004950,Carpi,Q100041
+Cartagena,Q66922,Cartagena de Indias,7005072,Cartagena,Q657461
+Casale Monferrato,Q76322,Casale Monferrato,7003924,Casale Monferrato,Q16333
+Castelbaldo,Q76321,Castelbaldo,7045979,Castelbaldo,Q34423
 Castile,Q38167,Castilla,7002784,Castile,Q173063
 Castile-Leon,Q6992,Castilla y León,7001158,Castile and León,Q5739
 Castino,Q7501,Castino,7044382,Castino,Q19920
 Castres,Q38168,Castres,7008450,Castres,Q188776
 Catalonia,Q125,Cataluña,7030216,Catalonia,Q5705
 Catania,Q6984,Catania,7003947,Catania,Q1903
+Caucasus,Q39905,Caucasus,7016642,Caucasus,Q18869
+Caylus,Q42484,Caylus,1032459,Caylus,Q1432016
 Central America,Q38169,Central America,7016739,Mesoamerica,Q13703
+Central Asia,Q42470,Central Asia,8697475,Central Asia,Q27275
 Central Europe,Q5945,Central Europe,4003755,Central Europe,Q27509
 Central Italy,Q20356,Central Italy,4005361,Central Italy,Q1127320
+Cerea,Q76264,Cerea,1044154,Cerea,Q48030
 Chacombe,Q8377,Chacombe,7030792,Chacombe,Q965366
-Châlons,Q19910,Châlons,7657983,Chalon,Q1003011
+Chalons-sur-Marne,Q68006,Châlons-en-Champagne,7008339,Châlons-sur-Champagne,Q47135
+Chambly,Q66902,Chambly,7009014,Chambly,Q669309
 Champagne,Q1306,Champagne,7658604,Champagne,Q273827
 Chartres,Q38170,Chartres,7008267,Chartres,Q130272
-Châtenois,Q4996,Châtenois,1032520,Châtenois,Q21440
 Cheshire,Q38171,Cheshire,7008114,Cheshire,Q23064
+Chełm,Q74807,Chełm,7014788,Chełm,Q234184
 Chianti,Q38172,Chianti,7017853,Chianti,Q1071629
 China,Q12699,Zhongguo,1000111,People's Republic of China,Q148
+Chioggia,Q76319,Chioggia,7003037,Chioggia,Q55416
 Chur,Q38173,Chur,7007276,Chur,Q69007
+Châlons,Q19910,Châlons,7657983,Chalon,Q1003011
+Châtenois,Q4996,Châtenois,1032520,Châtenois,Q21440
 Cirencester,Q19888,Cirencester,7011127,Cirencester,Q852772
-Cîteaux,Q38161,Cîteaux,7656279,Cîteaux Abbey,Q843261
 Città di Castello,Q7796,Città di Castello,7005039,Città di Castello,Q20413
 City of Westminster,Q17528,City of Westminster,7018934,City of Westminster,Q179351
 Clermont,Q42086,Clermont,7655362,Clermont,Q546582
 Clermont-Ferrand,Q38174,Clermont-Ferrand,7008202,Clermont-Ferrand,Q42168
 Cleves,Q38175,Kleve,7012313,Kleve,Q6842
 Cochabamba,Q17524,Cochabamba,1020283,Cochabamba,Q183124
+Cochin,Q76326,Kochi,1075032,Kochi,Q1800
+Coddington,Q66916,Coddington,7027026,Coddington,Q3784752
 Cologne,Q4329,Köln,7004446,Cologne,Q365
+Colombia,Q66923,Colombia,1000050,Colombia,Q739
 Connecticut,Q17518,Connecticut,7007159,Connecticut,Q779
 Copenhagen,Q38176,København,7003474,Copenhagen,Q1748
+Cordova,Q54967,Córdoba,7007513,Córdoba,Q5818
+Corfu,Q74795,Corfu,7010883,Kérkira,Q121378
+Corvey,Q66924,Corvey,7004981,Corvey,Q45033207
 Cosenza,Q38177,Cosenza,7004274,Cosenza,Q13619
 Coutances,Q38178,Coutances,7008215,Coutances,Q202565
 Cracow,Q5004,Kraków,7007652,Kraków,Q31487
 Crema,Q7798,Crema,7005874,Crema,Q42793
 Cremona,Q3088,Cremona,7005868,Cremona,Q6231
 Crete,Q38179,Kríti,7012056,Crete,Q34374
+Crimea,Q42494,Crimea,7010345,Krym,Q7835
 Croatia,Q137,Hrvatska,7006663,Croatia,Q224
+Cuenca,Q42476,Cuenca,7007638,Cuenca,Q15098
+Culhuacán,Q66920,Pueblo Culhuacán,7357654,Culhuacán,Q11159224
 Cuyk,Q20353,Cuyk,7006847,Cuijk,Q13635419
+Cuzco,Q66919,Cuzco,7005819,Cusco,Q5582862
 Cyprus,Q7209,Kypriakí Dimokratía,1000112,Cyprus,Q229
-Czechoslovakia,Q38181,Československo,1000065,Czechoslovakia,Q33946
 Czech Republic,Q38180,Česko,1001780,Czech Republic,Q213
+Czechoslovakia,Q38181,Československo,1000065,Czechoslovakia,Q33946
+Cádiz,Q42458,Cádiz,7007512,Cádiz,Q15682
+Cîteaux,Q38161,Cîteaux,7656279,Cîteaux Abbey,Q843261
+Dagestan,Q40042,Dagestan,7011494,Dagestan,Q5118
 Dalmatia,Q42074,Dalmatia,2087680,Dalmatia,Q5211528
 Damascus,Q11626,Dimashq,7002261,Damascus,Q3766
+Danzig,Q76329,Gdańsk,7007660,Gdańsk,Q1792
 Dauphiné,Q1310,Dauphiné,7007764,Dauphiné,Q151999
 Deccan,Q121,Deccan,7001693,Deccan,Q117190935
 Delft,Q16420,Delft,7006804,Delft,Q690
+Delhi,Q48703,Delhi,7001535,Delhi,Q1353
 Denmark,Q38185,Danmark,1000066,Denmark,Q35
-Département de l'Eure,Q38183,Département de l'Eure,7002936,Eure,Q3372
-Département de la Loire,Q19902,Département de la Loire,7002958,Loire,Q12569
-Département de la Seine-Maritime,Q38182,Département de la Seine-Maritime,7002988,Seine-Maritime,Q12758
-Département de Seine-et-Marne,Q38184,Département de Seine-et-Marne,7002973,Seine-et-Marne,Q12753
-Département de Tarn-et-Garonne,Q8031,Département de Tarn-et-Garonne,7003218,Tarn-et-Garonne,Q12779
-Département du Tarn,Q5483,Département du Tarn,7003217,Tarn,Q12772
 Dewsbury,Q38186,Dewsbury,1029049,Dewsbury,Q525508
 Dieppe,Q38187,Dieppe,7008922,Dieppe,Q183557
 Dijon,Q19896,Dijon,7008224,Dijon,Q7003
+Dixton,Q17529,Dixton,7026610,Dixton,Q906614
 Diyarbakır,Q11622,Diyarbakır,7002338,Diyarbakır,Q83387
 Dorset,Q1286,Dorset,7011961,Dorset,Q23159
 Douai,Q7793,Douai,7008458,Douai,Q193826
 Drayton,Q8379,Drayton,7031272,Drayton,Q2784198
+Dresden,Q42462,Dresden,7004455,Dresden,Q1731
 Duderstadt,Q38188,Duderstadt,7005933,Duderstadt,Q498596
+Dumyāţ,Q76333,Damietta,7001099,Dumyāţ,Q189383
+Département de Saône-et-Loire,Q42464,Département de Saône-et-Loire,7002962,Saône-et-Loire,Q12736
+Département de Seine-et-Marne,Q38184,Département de Seine-et-Marne,7002973,Seine-et-Marne,Q12753
+Département de Tarn-et-Garonne,Q8031,Département de Tarn-et-Garonne,7003218,Tarn-et-Garonne,Q12779
+Département de l'Aveyron,Q42463,Aveyron,7002906,Département de l'Aveyron,Q3216
+Département de l'Essonne,Q42492,Département de l'Essonne,7002935,Essonne,Q3368
+Département de l'Eure,Q38183,Département de l'Eure,7002936,Eure,Q3372
+Département de la Loire,Q19902,Département de la Loire,7002958,Loire,Q12569
+Département de la Seine-Maritime,Q38182,Département de la Seine-Maritime,7002988,Seine-Maritime,Q12758
+Département des Alpes-de-Haute-Provence,Q42489,Département des Alpes-de-Haute-Provence,7017065,Alpes-de-Haute-Provence,Q3131
+Département des Bouches-du-Rhône,Q66913,Département des Bouches-du-Rhône,7002915,Bouches-du-Rhône,Q3240
+Département du Tarn,Q5483,Département du Tarn,7003217,Tarn,Q12772
 East Anglia,Q1291,East Anglia,7012973,East Anglia,Q580631
+East Flanders,Q38189,Oost-Vlaanderen,7003457,East Flanders,Q1114
 Eastern Europe,Q38190,Eastern Europe,4003756,Eastern Europe,Q27468
 Eastern France,Q38191,Eastern France,8716310,France,Q142
 Eastern Mediterranean,Q3658,Eastern Mediterranean,7593196,Eastern Mediterranean,Q3301962
-East Flanders,Q38189,Oost-Vlaanderen,7003457,East Flanders,Q1114
-Écija,Q6991,Écija,7007091,Écija,Q273413
 Edinburgh,Q38192,Edinburgh,7009546,Edinburgh,Q23436
+Edirne,Q52680,Edirne,7002317,Edirne,Q43387
 Egypt,Q3086,Miṣr,7016833,Egypt,Q79
+Eichstätt,Q66915,Eichstätt,7004613,Eichstätt,Q252772
 Elchingen,Q6989,Elchingen,4003589,Elchingen,Q503169
 Emilia,Q20365,Emilia,7015397,Emilia,Q1135779
 Emilia-Romagna,Q1100,Emilia-Romagna,7008516,Emilia-Romagna,Q1263
 England,Q133,England,7002445,England,Q21
+Enkhuizen,Q66898,Enkhuizen,7007064,Enkhuizen,Q9918
 Epirus,Q38193,Ípiros,7030329,Epirus,Q565751
 Erfurt,Q6983,Erfurt,7024031,Erfurt,Q1729
+Erzurum,Q63767,Erzurum,7017539,Erzurum,Q122803
 Essen,Q38194,Essen,7004905,Essen,Q2066
 Essex,Q38195,Essex,7008131,Essex,Q23240
 Estonia,Q38196,Eesti,7006540,Estonia,Q191
 Ethiopia,Q3655,Ityop'iya,7000489,Ethiopia,Q115
 Europe,Q1290,Europe,1000003,Europe,Q46
+Extremadura,Q66900,Extremadura,7003837,Extremadura,Q5777
 Fabriano,Q38197,Fabriano,7004004,Fabriano,Q13145
+Fagnano Olona,Q76284,Fagnano Olona,1044553,Fagnano Olona,Q39365
 Fano,Q38198,Fano,7003987,Fano,Q13142
 Ferrara,Q1299,Ferrara,7004264,Ferrara,Q13362
+Figueras,Q42483,Figueres,1062024,Figueras,Q6839
 Firfol,Q42083,Firfol,7649731,Firfol,Q740480
 Fivizzano,Q6980,Fivizzano,1044626,Fivizzano,Q52233
 Flanders,Q126,Flanders,7024097,County of Flanders,Q157070
+Flanders (region),Q100357,Vlaams Gewest,7018236,Flemish Region,Q9337
 Florence,Q3084,Firenze,7000457,Florence,Q2044
 Foligno,Q38199,Foligno,7005040,Foligno,Q20436
 Fontainebleau,Q17519,Fontainebleau,7008005,Fontainebleau,Q182872
+Fontevrault-l'Abbaye,Q68011,Fontevraud-l'Abbaye,7008488,Fontevrault-l'Abbaye,Q632276
+Fotheringhay,Q66886,Fotheringhay,4004017,Fotheringhay,Q2688940
 France,Q122,France,1000070,France,Q142
 Franche-Comté,Q38200,Franche-Comté,7645440,Franche-Comté,Q16394
 Francia Orientalis,Q27482,Francia Orientalis,7024345,East Francia,Q153080
 Franken,Q19893,Franken,7012456,Franconia,Q150907
 Freising,Q38201,Freising,7013338,Freising,Q6998
+Friedrichstadt,Q76330,Friedrichstadt,1039143,Friedrichstadt,Q21065
 "Frioul, Port du",Q38332,"Frioul, Port du",7645514,Marseille,Q23482
 Friuli,Q5009,Friuli,7008895,Friuli,Q160570
 Friuli-Venezia Giulia,Q38202,Friuli-Venezia Giulia,7002993,Friuli Venezia Giulia,Q1250
 Fulda,Q12704,Fulda,7005294,Fulda,Q3963
+Fumane,Q76260,Fumane,4004145,Fumane,Q47121
+Gazzuolo,Q76325,Gazzuolo,1044782,Gazzuolo,Q43011
+Geneva,Q42496,Genève,7007279,Geneva,Q71
 Genoa,Q7800,Genova,7008546,Genoa,Q1449
 Ger,Q38203,Ger,7647352,Ger,Q685416
 Germany,Q131,Deutschland,7000084,Germany,Q183
 Ghent,Q16408,Gent,7007887,Ghent,Q1296
+Gjirokastër,Q48700,Gjirokastër,7010755,Gjirokastër,Q173690
 Glastonbury,Q12695,Glastonbury,7011239,Glastonbury,Q210891
 Gloucester,Q17527,Gloucester,7011128,Gloucester,Q170497
 Goa,Q38204,Goa,7018161,Goa,Q1171
+Gorizia,Q76324,Gorizia,7005526,Gorizia,Q6596
+Gradara,Q42488,Gradara,7008870,Gradara,Q206990
 Granada,Q3081,Granada,7007703,Granada,Q8810
+Grasse,Q66906,Grasse,7008767,Grasse,Q173705
 Gravesend,Q26526,Gravesend,7011614,Gravesend,Q676689
 Graz,Q3650,Graz,7003097,Graz,Q13298
 Greece,Q16421,Ellás,1000074,Greece,Q41
 Grenoble,Q38205,Grenoble,7008759,Grenoble,Q1289
+Gualdo Tadino,Q68005,Gualdo Tadino,7005046,Gualdo Tadino,Q20457
+Guatemala,Q66885,Guatemala,7005493,Guatemala,Q774
 Gubbio,Q38206,Gubbio,7005048,Gubbio,Q20458
 Gwent,Q38207,Gwent,7008046,Gwent,Q1376956
+Gévaudan,Q66910,Gévaudan,4004160,Gévaudan,Q514081
+Görlitz,Q76338,Görlitz,7012813,Görlitz,Q4077
+"Hague, The",Q74820,̔s-Gravenhage,7006810,The Hague,Q36600
 Hainaut,Q38208,Hainaut,1003757,Hainaut,Q3125766
 "Hainaut, Province de",Q1300,"Hainaut, Province de",7007877,Hainaut,Q1129
+Halych,Q74808,Halych,1053938,Halych,Q146450
+Hamadan,Q48701,Hamadan,7002115,Hamadān,Q28587
 Hamburg,Q20352,Hamburg,7005289,Hamburg,Q1055
 Hampshire,Q38209,Hampshire,7008139,Hampshire,Q67531563
+Hanover,Q54969,Hannover,7013260,Hanover,Q1715
 Hanshan,Q12697,Hanshan,8203227,Hanshan,Q113491255
+Hartmannswiller,Q76328,Hartmannswiller,7643144,Hartmannswiller,Q332078
 "Hautecombe, Abbaye de",Q38331,"Hautecombe, Abbaye de",1100048,Hautecombe Abbey,Q63524
 Hebron,Q11621,Al-khalīl,7029354,Hebron,Q168225
 Henan,Q12710,Henan,7016672,Henan,Q43684
 Herat,Q3092,Herāt,7002243,Herat,Q45313
+Herefordshire,Q66917,Herefordshire,7008143,Herefordshire,Q23129
 Hesse,Q38210,Hessen,7003678,Hesse,Q1199
 Highland,Q17522,Highland,7008082,Highland,Q208279
 Hildesheim,Q19892,Hildesheim,7005248,Hildesheim,Q3185
@@ -226,12 +348,16 @@ Holland,Q1295,Holland,1003759,Holland,Q102911
 Hollfeld,Q38211,Hollfeld,1039662,Hollfeld,Q503048
 Holy Roman Empire,Q38212,Holy Roman Empire,7024415,Holy Roman Empire,Q12548
 Honduras,Q38213,Honduras,7005554,Honduras,Q783
+Horgau,Q54972,Horgau,7163517,Horgau,Q532260
+Huejotzingo,Q66904,Huejotzingo de Nieva,4005179,Huejotzingo,Q20204317
+Huete,Q42460,Huete,1062082,Huete,Q1827689
 Hungary,Q19897,Magyarország,7006278,Hungary,Q28
 Huy,Q38214,Huy,7007896,Huy,Q207095
 Huysburg,Q38215,Huysburg,4005207,Huysburg,Q1639470
+Hyderābād,Q48685,Hyderabad,7001541,Hyderābād,Q1361
 Iberian Peninsula,Q10828,"Ibérica, Península",7016676,Iberian Peninsula,Q12837
 Iceland,Q38216,Ísland,1000077,Iceland,Q189
-Île-de-France,Q38148,Île-de-France,7002883,Île-de-France,Q13917
+Illasi,Q76277,Illasi,1044938,Illasi,Q48474
 India,Q138,Bhārat,7000198,India,Q668
 Indonesia,Q38217,Indonesia,1000116,Indonesia,Q252
 Ingolstadt,Q3653,Ingolstadt,7017035,Ingolstadt,Q3004
@@ -240,14 +366,24 @@ Iran,Q2822,Īrān,7000231,Iran,Q794
 Iraq,Q3090,Al-ʻIrāq,1000118,Iraq,Q796
 Ireland,Q17520,Ireland,1000078,Ireland,Q27
 Isfahan,Q18350,Eşfahān,7017459,Isfahan,Q42053
+Isola della Scala,Q76291,Isola della Scala,1044966,Isola della Scala,Q47874
+Israel,Q74800,Yisra'el,1000119,Israel,Q801
 Istanbul,Q11605,İstanbul,7002473,Istanbul,Q406
 Italy,Q134,Italia,1000080,Italy,Q38
 Itchingfield,Q17523,Itchingfield,7461740,Itchingfield,Q2278583
 Japan,Q12707,Nihon,1000120,Japan,Q17
+Java,Q42456,Java,7003695,Java,Q3757
 Jerusalem,Q11620,Yerushalayim,7001371,Jerusalem,Q1218
+Johanngeorgenstadt,Q66925,Johanngeorgenstadt,1037009,Johanngeorgenstadt,Q32063218
 Kandahar,Q38414,Kandahār,7002248,Kandahar,Q45604
+Kandy,Q68001,Kandy,7002518,Kandy,Q203197
+Karahisar,Q63768,Karahisar,7716074,Karahisar,Q1728904
 Karaman,Q11627,Karaman,7002550,Karaman,Q262579
 Karaman (province),Q11623,Karaman,7018458,Karaman Province,Q482975
+Karasu,Q74814,Karasu,1086557,Karasu,Q1012874
+Karlsruhe,Q54975,Karlsruhe,7004424,Karlsruhe,Q1040
+Kashan,Q48698,Kashan,1079129,Kāshān,Q240475
+Kashi,Q52693,Kashgar,7008915,Kashi,Q170521
 Kashmir,Q18345,Kashmir,7029388,Kashmir,Q43100
 "Kashmir, Vale of",Q27478,"Kashmir, Vale of",1111685,Kashmir Valley,Q2361576
 Kastamonu,Q11616,Kastamonu,7002555,Kastamonu,Q155915
@@ -255,11 +391,17 @@ Kayseri,Q11614,Kayseri,7002465,Kayseri,Q48338
 Kazan',Q38218,Kazan',7015156,Kazan,Q900
 Kent,Q1294,Kent,7008153,Kent,Q23298
 Keswick,Q38219,Keswick,7010161,Keswick,Q1025076
-Khwārezm,Q11618,Khwārezm,8698237,Khwarezm,Q182647
+Khwārezm,Q11618,Khwārezm,8698237,Khwarazm,Q182647
+Kitzbühel,Q42472,Kitzbühel,7003244,Kitzbühel,Q264665
+Kolkata,Q48690,Kolkata,7030776,Kolkata,Q1348
 Konstanz,Q20351,Konstanz,7005174,Constance,Q3834
 Korea,Q12696,Korea,7059230,Korea,Q18097
 Kronstadt,Q38220,Brașov,7004272,Brașov,Q82174
+Kurdistan,Q74796,Kurdistan,1003770,Kurdistan,Q41470
+Kyustendil,Q52687,Kyustendil,7018071,Kyustendil,Q189305
 L'Aquila,Q38222,L'Aquila,7004067,L'Aquila,Q3476
+La Haye-du-Puits,Q66901,La Haye-du-Puits,1033665,La Haye-du-Puits,Q988095
+La Rioja,Q66911,La Rioja,7002789,La Rioja,Q5727
 Lahore,Q27479,Lahore,7001560,Lahore,Q11739
 Lambach,Q26524,Lambach,7003278,Lambach,Q686750
 Lancashire,Q20358,Lancashire,7008154,Lancashire,Q23077
@@ -269,14 +411,19 @@ Languedoc,Q38221,Languedoc,7002884,Languedoc,Q206221
 Laon,Q4334,Laon,7010220,Laon,Q167141
 Latium,Q1285,Latium,7594274,Latium,Q1048669
 Lazio,Q1302,Lazio,7003080,Lazio,Q1282
-Lebanon,Q11611,Lubnān,1000126,Lebanon,Q822
+Lazise,Q76287,Lazise,1045047,Lazise,Q46935
 Le Conquet,Q38223,Le Conquet,7634755,Le Conquet,Q326149
+Le Mans,Q66897,Le Mans,7008494,Le Mans,Q1476
+Lebanon,Q11611,Lubnān,1000126,Lebanon,Q822
 Leeuwarden,Q38225,Leeuwarden,7007006,Leeuwarden,Q25390
+Legnago,Q76273,Legnago,7003270,Legnago,Q48027
 Leicestershire,Q1301,Leicestershire,7008155,Leicestershire,Q67533246
 Leipzig,Q6988,Leipzig,7017167,Landkreis Leipzig,Q6308
-León,Q38224,León,7009120,León,Q15699
+Lendinara,Q76315,Lendinara,1045059,Lendinara,Q34390
+Lesina,Q76316,Lesina,1045071,Lesina,Q51931
 Levington,Q26525,Levington,7463262,Levington,Q5243916
 Leyden,Q17534,Leiden,7006809,Leiden,Q43631
+León,Q38224,León,7009120,León,Q15699
 Liege,Q4992,Liège,7007945,Liège,Q3992
 Liguria,Q38226,Liguria,7003236,Liguria,Q1256
 Limay,Q38227,Limay,1034056,Limay,Q526378
@@ -285,8 +432,12 @@ Limoges,Q42076,Limoges,7008410,Limoges,Q45656
 Limousin,Q38228,Limousin,7024270,Lemosin,Q109653972
 Lincolnshire,Q38229,Lincolnshire,7008157,Lincolnshire,Q67533486
 Lisbon,Q38230,Lisbon,7010978,Lisbon,Q597
+Lithuania,Q74810,Lietuva,7006542,Lithuania,Q37
 Little Malvern,Q38231,Little Malvern,7462299,Little Malvern,Q576836
 Livorno,Q7213,Livorno,7006074,Livorno,Q6761
+Llerena,Q54966,Llerena,7007926,Llerena,Q686184
+Lodi,Q76279,Lodi,7006011,Lodi,Q6244
+Logroño,Q54974,Logroño,7007928,Logroño,Q14325
 Loire Valley,Q38232,Val de Loire,4011586,Loire Valley,Q1050483
 Lombardi,Q19907,Lombardi,7054607,Masseria Lombardi,Q18436126
 Lombardy,Q809,Lombardia,7003237,Lombardy,Q1210
@@ -298,47 +449,65 @@ Lower Rhine,Q20359,Niederrhein,7013246,Lower Rhine,Q445609
 Lower Saxony,Q38234,Niedersachsen,7003676,Lower Saxony,Q1197
 Lubeck,Q38235,Lübeck,7012327,Lübeck,Q2843
 Lucca,Q8033,Lucca,7006076,Lucca,Q13373
+Lucknow,Q48693,Lucknow,7001561,Lucknow,Q47916
 Luxembourg,Q4332,Luxembourg,7003514,Luxembourg,Q32
 Lyon,Q6985,Lyon,7008772,Lyon,Q456
 Maastricht,Q38236,Maastricht,7006862,Maastricht,Q1309
 Macau,Q38237,Macau,7005019,Macau,Q14773
+Macedonia (ancient),Q68009,Macedonia,7001349,Macedonia (ancient),Q103251
 Macerata,Q6977,Macerata,7004018,Macerata,Q13135
 Madrid,Q7212,Madrid,7010413,Madrid,Q2807
+Madurai,Q76343,Madurai district,7001563,Madurai,Q15184
+Maghreb,Q76342,Maghreb,7032929,Maghreb,Q28227
+Mahābād,Q48708,Mahabad,8895832,Mahābād,Q4357699
 Maine,Q38238,Maine,7007514,Maine,Q732738
 Mainz,Q3082,Mainz,7004449,Mainz,Q1720
+Malcesine,Q76286,Malcesine,1045194,Malcesine,Q47821
 Mallorca,Q38239,Mallorca,7007959,Mallorca,Q8828
 Malta,Q38240,Malta,7005729,Malta,Q233
+Manisa,Q52692,Manisa,7002582,Manisa,Q147089
 Mantes-la-Jolie,Q38241,Mantes-la-Jolie,7008063,Mantes-la-Jolie,Q207253
 Mantua,Q2824,Mantova,7005879,Mantua,Q6247
+Maqueda,Q42482,Maqueda,7007979,Maqueda,Q1631202
 Maras,Q11625,Maras,7018751,Kahramanmaraş,Q134703
+Marcellise,Q76252,Marcellise,4006883,Marcellise,Q18504945
 Marches,Q38242,Marche,7003240,Marche,Q1279
 Marcoussis,Q38243,Marcoussis,1034251,Marcoussis,Q457389
 Mardin,Q11628,Mardin,7002596,Mardin,Q188022
+Marmande,Q66891,Marmande,1034281,Marmande,Q210742
 Marseilles,Q38244,Marseille,7008781,Marseille,Q23482
-Massachusetts,Q17530,Massachusetts,7007517,Massachusetts,Q771
+Mashhad,Q48702,Mashhad,7002247,Mashhad,Q121157
 Massa Marittima,Q20362,Massa Marittima,7006080,Massa Marittima,Q214725
+Massachusetts,Q17530,Massachusetts,7007517,Massachusetts,Q771
 Meaux,Q38245,Meaux,7008008,Meaux,Q207620
 Mecca,Q11615,Makkah,7003870,Mecca,Q5806
 Medina,Q11610,Al-Madīnah,7003869,Medina,Q35484
 Medina del Campo,Q17537,Medina del Campo,7008033,Medina del Campo,Q693913
+Medinaceli,Q42457,Medinaceli,1062226,Medinaceli,Q484628
+Mediterranean region,Q76257,Mediterranean Region,7018452,Mediterranean Region,Q155552
+Meiningen,Q42497,Meiningen,7012843,Meiningen,Q487278
 Melk,Q20360,Melk,7003193,Melk,Q489806
+Memmingen,Q66918,Memmingen,7012598,Memmingen,Q14825
 Mende,Q42081,Mende,7009335,Mende,Q191772
 Merseburg,Q38246,Merseburg,7012845,Merseburg,Q14945
 Messina,Q38247,Messina,7003897,Messina,Q13666
 Metz,Q6981,Metz,7008418,Metz,Q22690
 Meuse,Q38248,Meuse,1034373,Meuse,Q12631
 Mexico,Q1312,México,7005560,Mexico,Q96
+Mexico City,Q66883,Mexico City,7007227,Ciudad de México,Q1489
+Middelburg,Q68004,Middelburg,7006752,Middelburg,Q52101
 Middle East,Q38249,Middle East,7001526,Middle East,Q7204
 Middle Rhine,Q19898,Mittelrhein,7012605,Middle Rhine,Q571607
+Middlesex,Q55358,Middlesex,7012288,Middlesex,Q19186
 Midlands,Q38250,Midlands,4007188,Midlands,Q850235
 Milan,Q7499,Milano,7005903,Milan,Q490
-"Mílos, Nísos",Q38333,"Mílos, Nísos",7010922,Milos,Q203979
 Mirabella,Q7211,Mirabella,7055648,Mirabella,Q18506547
 Mistrás,Q38251,Mistrás,7010926,Mystras,Q19053
 Modena,Q4327,Modena,7009565,Modena,Q279
 Mons,Q19891,Mons,7007961,Mons,Q83407
 Montedoglio,Q7795,Montedoglio,4007415,Montedoglio,Q85632550
 Monterubbiano,Q7502,Monterubbiano,1045558,Monterubbiano,Q59260
+Montevarchi,Q76337,Montevarchi,7006114,Montevarchi,Q52089
 Montpellier,Q42087,Montpellier,7009369,Montpellier,Q6441
 Moravia,Q38252,Morava,7006467,Moravia,Q43266
 Morges,Q38253,Morges,7007414,Morges,Q69401
@@ -347,43 +516,61 @@ Morocco,Q3657,Al Maghrib,1000179,Morocco,Q1028
 Mosan,Q19903,Mosan,7030259,Maasland,Q5247515
 Moscow,Q38254,Moskva,7012974,Moscow,Q649
 Mosul,Q3100,Al-Mawṣil,7002471,Mosul,Q83317
-Mount Athos,Q38255,Ágion Óros,7235644,monastic community of Mount Athos,Q780149
+Mount Athos,Q76334,Mount Athos,7002722,Áthos,Q130321
+Mount Athos (region),Q38255,Ágion Óros,7235644,monastic community of Mount Athos,Q780149
 Muhammadābād,Q18346,Muhammadābād,1076267,Mohammadabad,Q2228712
 Munich,Q5010,München (Kreisfreie Stadt München),7004333,Munich,Q1726
 Muradiye,Q16417,Muradiye,1140822,Muradiye,Q1000878
+Murano,Q76320,Murano,7003021,Murano,Q52437
 Murbach,Q38256,Murbach,7008123,Murbach,Q148815
-"Mūsá, Jabal",Q38334,"Mūsá, Jabal",7001247,Mount Sinai,Q377485
+Murshidabad,Q48710,Murshidabad,1076286,Murshidabad,Q1017175
 Myanmar,Q38257,Myanma,1000108,Myanmar,Q836
+"Mílos, Nísos",Q38333,"Mílos, Nísos",7010922,Milos,Q203979
+"Mūsá, Jabal",Q38334,"Mūsá, Jabal",7001247,Mount Sinai,Q377485
+Nablus,Q76323,Nablus,1083909,Nābulus,Q214178
 Nangis,Q27483,Nangis,1034615,Nangis,Q271599
+Nantes,Q68012,Nantes,7008482,Nantes,Q12191
 Naples,Q3099,Napoli,7004474,Naples,Q2634
 Navarre,Q38258,Comunidad Foral de Navarra,7002790,Navarre,Q4018
+Negrar,Q76312,Negrar di Valpolicella,7051157,Negrar,Q46941
+Nervesa della Battaglia,Q76310,Nervesa della Battaglia,7003077,Nervesa della Battaglia,Q47249
 Netherlands,Q651,Nederland,7016845,Netherlands,Q55
+Neuberg,Q19899,Neuburg an der Donau,7124482,Neuberg,Q125652
 Neustadt,Q5008,Neustadt,1037375,Neustadt,Q32184230
 New Jersey,Q38259,New Jersey,7007565,New Jersey,Q1408
 New York,Q27486,New York,7007567,New York City,Q60
 Nigeria,Q38260,Nigeria,1000182,Nigeria,Q1033
+Noale,Q76313,Noale,7003048,Noale,Q46968
+Nogara,Q76298,Nogara,1045683,Nogara,Q47745
 Nola,Q38261,Nola,7004644,Nola,Q72288
 Nord-Pas-de-Calais,Q38262,Nord-Pas-de-Calais,7621379,Nord-Pas-de-Calais,Q16987
 Norfolk,Q38263,Norfolk,7008160,Norfolk,Q23109
 Normandy,Q1308,Normandie,7002886,Normandy,Q15878
 North Africa,Q3652,North Africa,7016886,North Africa,Q27381
+North Rhine-Westphalia,Q17538,Nordrhein-Westfalen,7003677,North Rhine-Westphalia,Q1198
 Northeastern France,Q38264,Northeastern France,7669119,France,Q142
 Northeastern Italy,Q38265,Northeastern Italy,4005362,Italy,Q38
 Northern Europe,Q38266,Northern Europe,4003757,Northern Europe,Q27479
 Northern France,Q1114,Northern France,4004036,Northern France,Q14201393
 Northern Germany,Q19886,Northern Germany,4004315,Northern Germany,Q46613
 Northern Italy,Q7507,Northern Italy,4005363,Northern Italy,Q4345530
-North Rhine-Westphalia,Q17538,Nordrhein-Westfalen,7003677,North Rhine-Westphalia,Q1198
 Northumbria,Q38267,Northumbria,7012294,Kingdom of Northumbria,Q107299
-Northwestern Italy,Q38268,Northwestern Italy,4005364,Italy,Q38
 Northwest Italy,Q42084,Northwest Italy,8725286,Northwest Italy,Q2725942
+Northwestern Italy,Q38268,Northwestern Italy,4005364,Italy,Q38
 Norwich,Q38269,Norwich,7012005,Norwich,Q130191
 Nottinghamshire,Q38270,Nottinghamshire,7008167,Nottinghamshire,Q23092
+Novalesa,Q66914,Novalesa,7005723,Novalesa,Q9514
 Nuremberg,Q3080,Nürnberg,7004334,Nuremberg,Q2090
 Obersachsen,Q38271,Obersachsen,7114973,Upper Saxony,Q457102
 Oberschwaben,Q1293,Oberschwaben,7118137,Upper Swabia,Q445702
+Oderzo,Q76308,Oderzo,7003301,Oderzo,Q48087
+Old Cairo,Q76258,Old Cairo,7024441,Mişr al Qadīmah,Q2993461
+Omurtag,Q52686,Omurtag,1026924,Omurtag,Q3882332
+Onara,Q76290,Onara,7055952,Onara,Q3543773
 Oregon,Q38272,Oregon,7007708,Oregon,Q824
+Orissa,Q68002,Odisha,7016694,Odisha,Q22048
 Orléans,Q16422,Orléans,7008337,Orléans,Q6548
+Ostiglia,Q76259,Ostiglia,7005892,Ostiglia,Q42597
 Ostra,Q5006,Ostra,7007555,Ostra,Q124572
 Otranto,Q38273,Otranto,7004093,Otranto,Q52174
 Ottoman Empire,Q38274,Ottoman Empire,7024412,Ottoman Empire,Q12560
@@ -396,6 +583,11 @@ Palencia,Q7792,Palencia,7008231,Palencia,Q8378
 Palermo,Q27485,Palermo,7003928,Palermo,Q2656
 Palestine,Q38277,Palestine,7004540,Palestine,Q23792
 Palma de Mallorca,Q38278,Palma de Mallorca,7008232,Palma,Q8826
+Palomares del Campo,Q42461,Palomares del Campo,7302133,Palomares del Campo,Q1647164
+Palù,Q76296,Palù,7053890,Palù,Q47647
+Pamplona,Q42459,Pamplona,7008233,Pamplona,Q10282
+Panama,Q66921,Panamá,7005565,Panama,Q804
+Panevėžys,Q74809,Panevėžys,1058187,Panevėžys,Q1719466
 Paris,Q136,Paris,7008038,Paris,Q90
 Parma,Q4331,Parma,7004942,Parma,Q2683
 Passau,Q5007,Passau,7004407,Passau,Q4190
@@ -405,85 +597,142 @@ Persia,Q127,Persia,7024079,Persian Empire,Q83311
 Peru,Q38279,Perú,1000056,Peru,Q419
 Perugia,Q3083,Perugia,7000526,Perugia,Q3437
 Pesaro,Q16406,Pesaro,7003991,Pesaro,Q13134
+Pescantina,Q76293,Pescantina,1045932,Pescantina,Q48107
+Peschiera,Q76271,Peschiera Borromeo,7051885,Peschiera,Q43028
 Philippines,Q38280,Pilipinas,1000135,Philippines,Q928
 Piacenza,Q4999,Piacenza,7004939,Piacenza,Q13329
-Picardy,Q859,Picardie,7002890,Picardy,Q1249603
+Pianzano,Q76305,Pianzano,7051003,Pianzano,Q42304001
+Picardy,Q859,Picardie,7024273,Picardy,Q1249603
 Piedmont,Q1287,Piemonte,7003120,Piedmont,Q1216
 Pieve di Cadore,Q5011,Pieve di Cadore,7003332,Pieve di Cadore,Q41065
 Pinerolo,Q4988,Pinerolo,7005728,Pinerolo,Q9573
 Piombino,Q38281,Piombino,7006194,Piombino,Q157824
+Piove di Sacco,Q76307,Piove di Sacco,7003082,Piove di Sacco,Q34317
 Piran,Q3656,Piran,7012980,Piran,Q1382
 Pisa,Q7207,Pisa,7006082,Pisa,Q13375
 Pistoia,Q38282,Pistoia,7005060,Pistoia,Q13376
+Pitigliano,Q74817,Pitigliano,7006177,Pitigliano,Q214929
+Plaimpied-Givaudins,Q66907,Plaimpied-Givaudins,7017150,Plaimpied-Givaudins,Q1172374
+Plovdiv,Q52688,Plovdiv,7010666,Plovdiv,Q459
 Plymouth,Q38283,Plymouth,7011301,Plymouth,Q43382
 Poggibonsi,Q16412,Poggibonsi,7006330,Poggibonsi,Q91350
+Poiana Maggiore,Q76311,Pojana Maggiore,7055091,Poiana Maggiore,Q46500
+Poiano,Q76285,Poiano,7055089,Poiano,Q3907084
 Poissy,Q42075,Poissy,7008066,Poissy,Q457
 Poitiers,Q42091,Poitiers,7017418,Poitiers,Q6616
 Poitou,Q42077,Poitou,7002891,Poitou,Q954076
 Poland,Q19890,Polska,7006366,Poland,Q36
+Polesine,Q76299,Polesine,7055068,Polesine,Q2249358
 Pomerania,Q38284,Pomerania,7013079,Pomerania,Q104520
 Pontigny,Q7505,Pontigny,7008254,Pontigny,Q828619
+Ponton,Q76270,Ponton,7054244,Ponton,Q3908308
+Porcia,Q76309,Porcia,1046130,Porcia,Q53182
+Pordenone,Q66908,Pordenone,7003352,Pordenone,Q6606
 Portland,Q38285,Portland,7014273,Portland,Q6106
 Portugal,Q19906,Portugal,1000090,Portugal,Q45
+Postuman,Q76268,Postuman,7053410,Postuman,Q18505389
 Prague,Q135,Praha,7006464,Prague,Q1085
 Pratovecchio,Q7208,Pratovecchio,5002845,Pratovecchio,Q52096
+Pressana,Q76306,Pressana,7003265,Pressana,Q47639
 Princeton,Q38286,Princeton,7016190,Princeton,Q138518
 Provence,Q128,Provence,7012209,Provence,Q101081
 Provence-Alpes-Côte d'Azur,Q38287,Provence-Alpes-Côte d'Azur,7002895,Provence-Alpes-Côte d'Azur,Q15104
 Provins,Q38415,Provins,7008028,Provins,Q203285
+Puebla de Zaragoza,Q75951,Puebla,7007118,Puebla de Zaragoza,Q7258412
+Punjab,Q48691,Punjab,7558524,Punjab,Q22424
+Qalyūb,Q76327,Qalyub,1095655,Qalyūb,Q336724
+Qazvīn,Q48699,Qazvin,1079247,Qazvīn,Q181578
+Qom,Q48709,Qom,1079254,Qom,Q170573
 Quercy,Q38288,Quercy,7009454,Quercy,Q1895719
 Raetia,Q38289,Raetia,7013254,Raetia,Q156789
+Ramle,Q76331,Ramla,7001366,Ramla,Q221447
+Ravenna,Q76288,Ravenna,7004935,Ravenna,Q13364
+Reading,Q42473,Reading,7011918,Reading,Q161491
 Regensburg,Q5000,Regensburg,7013496,Regensburg,Q2978
 Reggio nell'Emilia,Q6986,Reggio nell'Emilia,7005020,Reggio Emilia,Q13360
 Rennes,Q16414,Rennes,7008263,Rennes,Q647
 Rheims,Q8376,Reims,7011060,Reims,Q41876
 Rheinhessen-Pfalz,Q4994,Rheinhessen-Pfalz,7004453,Rheinhessen-Pfalz,Q517363
-Rhineland,Q1305,Rheinland,7003683,Rhineland,Q152243
 Rhine Valley,Q38290,Rhein,7032606,Alpine Rhine Valley,Q95747
+Rhineland,Q1305,Rheinland,7003683,Rhineland,Q152243
 Rieti,Q17525,Rieti,7006739,Rieti,Q13396
 Rimini,Q20354,Rimini,7004929,Rimini,Q13369
+Rio de Janeiro,Q42474,Rio de Janeiro,7017095,Rio de Janeiro,Q8678
 Rodez,Q42080,Rodez,7008423,Rodez,Q188780
 Romania,Q38291,România,1000091,Romania,Q218
 Rome,Q123,Roma,7000874,Rome,Q220
+Roncà,Q76295,Roncà,7042118,Roncà,Q47862
 Rothenburg ober der Tauber,Q5003,Rothenburg ober der Tauber,7005188,Rothenburg ob der Tauber,Q153494
 Rouen,Q1244,Rouen,7008929,Rouen,Q30974
 "Rouergue Occidentale, Le",Q38335,"Rouergue Occidentale, Le",7012210,Rouergue,Q590016
+Rovereto,Q76255,Rovereto,7005447,Rovereto,Q279373
 Rovigo,Q4989,Rovigo,7003271,Rovigo,Q6572
 Roxburghshire,Q38292,Roxburghshire,7448522,Roxburghshire,Q664892
 Royaumont,Q7510,Royaumont,4009491,Royaumont Abbey,Q377882
-Rüden,Q16415,Rüden,7103299,Obenrüden,Q19299580
 Russia,Q38293,Rossija,7002435,Russia,Q159
 Rutland,Q1304,Rutland,5000748,Rutland,Q23107
+Rüden,Q16415,Rüden,7103299,Obenrüden,Q19299580
+Rülzheim,Q42467,Rülzheim,1040803,Rülzheim,Q452704
+Rāmpur,Q48694,Rampur,1076698,Rāmpur,Q1487593
+Sacavém,Q66893,Sacavém,1049915,Sacavém,Q126681
+Sacile,Q76267,Sacile,7005537,Sacile,Q53190
+Safad,Q74799,Safed,7032018,Ẕefat,Q188336
 Saint Albans,Q12700,Saint Albans,7011871,St Albans,Q6226
+Saint Petersburg,Q52690,Sankt-Peterburg,7010273,Saint Petersburg,Q656
 Saint-Amand,Q19887,Saint-Amand,7610229,Saint-Amand,Q1067570
 Saint-Amand-les-Eaux,Q38294,Saint-Amand-les-Eaux,7008470,Saint-Amand-les-Eaux,Q626309
 Saint-Claude,Q42090,Saint-Claude,7009615,Saint-Claude,Q212444
 Saint-Dié,Q4998,Saint-Dié,7009618,Saint-Dié-des-Vosges,Q34427
 Saint-Geoire-en-Valdaine,Q8030,Saint-Geoire-en-Valdaine,1035337,Saint-Geoire-en-Valdaine,Q1002688
+Saint-Julien-du-Sault,Q66903,Saint-Julien-du-Sault,7009638,Saint-Julien-du-Sault,Q1373341
 Saint-Omer,Q42082,Saint-Omer,7011062,Saint-Omer,Q208793
+Sainte-Odile,Q66894,Mont Sainte-Odile,7612975,Sainte-Odile,Q1399857
+Sakarya,Q52682,Sakarya,1085920,Sakarya,Q3945164
 Salamanca,Q6987,Salamanca,7008561,Salamanca,Q15695
+Salizzole,Q76266,Salizzole,7042550,Salizzole,Q47696
 Salonika,Q3085,Thessaloníki,7011182,Thessaloniki,Q17151
 Saluzzo,Q7210,Saluzzo,7005648,Saluzzo,Q20454
 Salzburg,Q7509,Salzburg,7003256,Salzburg,Q34713
+Salò,Q42485,Salò,7005790,Salò,Q111705
 Samarkand,Q3098,Samarqand,7012290,Samarkand,Q5753
+San Bonifacio,Q76274,San Bonifacio,1046469,San Bonifacio,Q47882
+San Francisco,Q42486,San Francisco,7014456,San Francisco,Q62
+San Secondo Parmense,Q76283,San Secondo Parmense,7004969,San Secondo Parmense,Q100919
+Sana'a,Q42466,Sanaa,7004338,Ṣanʻā',Q2471
+Sancheville,Q66896,Sancheville,7604957,Sancheville,Q1138821
+Sankt Gallen,Q76336,Sankt Gallen,7007460,St. Gallen,Q25607
+Sant'Ambrogio,Q76292,Sant'Ambrogio,7040758,Sant'Ambrogio,Q1942359
+Santa Croce Bigolina,Q76253,Santa Croce Bigolina,4010054,Santa Croce Bigolina,Q18498831
+Santarém,Q66909,Santarém,7011005,Santarém,Q273877
+Sarajevo,Q40035,Sarajevo,7015438,Sarajevo,Q11194
+Sarāb,Q48705,Sarab,8914940,Sarāb,Q5705340
 Savoy,Q1292,Savoie,7024413,Duchy of Savoy,Q426025
 Saxony,Q19883,Sachsen,7003685,Saxony,Q1202
 Scandicci,Q38295,Scandicci,7006143,Scandicci,Q82842
+Scandinavia,Q75954,Scandinavia,7016881,Scandinavia,Q21195
 Scotland,Q17533,Scotland,7002444,Scotland,Q22
+Seddülbahir,Q52681,Seddülbahir,7701941,Seddülbahir,Q3893230
 Segovia,Q42089,Segovia,7008661,Segovia,Q15684
+Semnān,Q48688,Semnān,1001528,Semnan Province,Q168949
 Senigallia,Q38296,Senigallia,7004008,Senigallia,Q124925
 Serbia,Q38297,Srbija,7006669,Serbia,Q403
 Seville,Q3102,Sevilla,7008676,Seville,Q8717
 Shaanxi,Q12708,Shaanxi,7002084,Shaanxi,Q47974
 Shiraz,Q27484,Shīrāz,7002148,Shiraz,Q6397066
-Šibenik,Q130,Šibenik,7015447,Šibenik,Q3549
+Shīnḏanḏ,Q40034,Shindand,1065525,Shīnḏanḏ,Q2497882
 Sicily,Q6993,Sicilia,7003122,Sicily,Q1460
+Siem Reap,Q42480,Siem Reap,1066431,Siem Reap,Q11711
 Siena,Q3651,Siena,7011179,Siena,Q2751
-Silesia,Q38298,Slezsko,4010532,Silesia,Q81720
+Silesia,Q38298,Schlesien,7007552,Silesia,Q81720
+Sinop,Q52684,Sinop,7002620,Sinop,Q599416
 Sjælland,Q38299,Sjælland,7594008,Zealand,Q25535
+Skopje,Q40041,Skopje,7015643,Skopje,Q384
+Soave,Q76278,Soave,7003349,Soave,Q47876
+Sofia,Q52683,Sofiya,7009977,Sofia,Q472
 Soissons,Q42078,Soissons,7010563,Soissons,Q167152
 Somerset,Q20364,Somerset,7012032,Somerset,Q67461071
 South Asia,Q18348,South Asia,7000208,South Asia,Q771405
+Southeast Asia,Q75955,Southeast Asia,7016821,Southeast Asia,Q11708
 Southern Europe,Q42088,Southern Europe,4003760,Southern Europe,Q27449
 Southern France,Q19904,Southern France,4004037,Southern France,Q1237299
 Southern Germany,Q4333,Southern Germany,4004316,Southern Germany,Q46519
@@ -496,56 +745,84 @@ Spilimbergo,Q38301,Spilimbergo,7005532,Spilimbergo,Q53197
 Sri Lanka,Q38302,Shrī Laṁkā,1000110,Sri Lanka,Q854
 Staffordshire,Q1309,Staffordshire,7008174,Staffordshire,Q67574558
 Stagno,Q7206,Stagno,7038830,Stagno,Q2874832
+Strasburg,Q100358,Strasbourg,1037796,Strasburg,Q6602
 Suffolk,Q38303,Suffolk,7008185,Suffolk,Q23111
-Sūrat,Q27488,Sūrat,7001592,Surat,Q4629
+Sumatra,Q42478,Sumatra,7016484,Sumatera,Q3492
+Suriname,Q74803,Suriname,7015386,Suriname,Q730
 Surrey,Q38304,Surrey,7008175,Surrey,Q23276
 Sussex,Q1307,Sussex,7008133,Sussex,Q23346
 Sutherland,Q17531,Sutherland,5000461,Sutherland,Q1061313
 Swabia,Q12703,Schwaben,7017048,Swabia,Q11812551
 Sweden,Q38305,Sverige,1000097,Sweden,Q34
-Świętokrzyskie Voivodeship,Q4991,Świe̜tokrzyskie,7024129,Świętokrzyskie Voivodeship,Q54183
 Switzerland,Q652,Schweiz,7011731,Switzerland,Q39
 Syria,Q3096,Sūrīyah,1000140,Syria,Q858
 Syria (region),Q38306,Syria (historical),7594765,Syria,Q13415123
+Sīrdān,Q48681,Sirdan,1079282,Sīrdān,Q4358738
+Sūrat,Q27488,Sūrat,7001592,Surat,Q4629
 Tabriz,Q27491,Tabrīz,7002156,Tabriz,Q80053
 Takashima-shi,Q12705,Takashima-shi,8743324,Takashima,Q845794
 Tangier,Q27487,Tanger,7000442,Tangier,Q126148
+Tarascon,Q66912,Tarascon,7008795,Tarascon,Q234924
+Tarki,Q40056,Tarki,1060158,Tarki,Q1385112
 Tatarstan Republic,Q38307,Tatarstan,7011524,Tatarstan,Q5481
+Tbilisi,Q48711,Tbilisi,7012268,Tbilisi,Q994
+Tehran,Q48695,Tehrān,7002157,Tehran,Q3616
 Terranuova Bracciolini,Q6990,Terranuova Bracciolini,1047093,Terranuova Bracciolini,Q30031077
+Terrazzo,Q76302,Terrazzo,7038622,Terrazzo,Q48190
 Teruel,Q6982,Teruel,7008717,Teruel,Q14336
+Thailand,Q42469,Prathet Thai,1000142,Thailand,Q869
 Thiron-Gardais,Q38308,Thiron-Gardais,7009503,Thiron-Gardais,Q542280
 Thuringia,Q1314,Thüringen,7024274,Thuringia,Q1205
 Thuringia,Q42093,Thüringen,7003689,Thuringia,Q1205
+Thérouanne,Q66895,Thérouanne,7008478,Thérouanne,Q261399
+Tibet,Q68003,Xizang,7001319,Tibet Autonomous Region,Q17269
 Ticino,Q38309,Ticino,7004723,Ticino,Q12724
 Tivoli,Q38310,Tivoli,7006968,Tivoli,Q159605
 Toledo,Q12701,Toledo,7008719,Toledo,Q5836
+Tolox,Q76340,Tolox,7299097,Tolox,Q743326
+Torcello,Q76282,Torcello,7038388,Torcello,Q52441
+Torri del Benaco,Q76304,Torri del Benaco,7038215,Torri del Benaco,Q48481
+Toscolano Maderno,Q76289,Toscolano Maderno,7018793,Toscolano-Maderno,Q112101
 Toul,Q8032,Toul,7009506,Toul,Q154728
 Toulouse,Q3659,Toulouse,7008441,Toulouse,Q7880
 Tournai,Q16426,Tournai,7008002,Tournai,Q173219
 Tours,Q19885,Tours,7008323,Tours,Q288
+Tregnago,Q76294,Tregnago,1047189,Tregnago,Q48457
 Trento,Q4326,Trento,7005128,Trento,Q3376
+Trento (province),Q76254,Trento,7003158,Trentino,Q16289
 Treviso,Q38311,Treviso,7003297,Treviso,Q5475
 Treviso (province),Q19900,Treviso,7002996,Province of Treviso,Q16292
 Trier,Q38312,Trier,7004447,Trier,Q3138
+Trieste,Q74811,Trieste,7005539,Trieste,Q546
 Tripoli,Q11608,Ṭarābulus,7000630,Tripoli,Q3579
 Triptis,Q5001,Triptis,1037866,Triptis,Q266510
 Trois-Fontaines,Q38313,Trois-Fontaines,4011380,Trois-Fontaines-l'Abbaye,Q1103661
 Troyes,Q16425,Troyes,7008350,Troyes,Q5489
+Tubingen,Q54970,Tübingen,7004426,Tübingen,Q3806
 Tunis,Q11609,Tunis,7001016,Tunis,Q3572
+Tunisia,Q74797,Tūnis,1000205,Tunisia,Q948
+Turin,Q42490,Torino,7005688,Turin,Q495
 Turkey,Q3079,Türkiye,1000144,Turkey,Q43
+Turkistan,Q42477,Turkistan Region,7016836,Turkistan,Q815330
 Tuscany,Q860,Toscana,7009760,Tuscany,Q1273
 Tyrol,Q12709,Tirol,7003029,Tyrol,Q42880
 Udine,Q38314,Udine,7005139,Udine,Q2790
+Ukraine,Q74798,Ukraina,7006660,Ukraine,Q212
 Ulm,Q38315,Ulm,7005187,Ulm,Q3012
 Umbria,Q1311,Umbria,7003125,Umbria,Q1280
-undetermined,Q650,undetermined,7544559,undetermined geographic location,Q125847912
-United States,Q17532,United States,7012149,United States of America,Q30
+United States,Q17532,United States,7012149,United States,Q30
 Usedom,Q38316,Usedom,1037886,Usedom,Q29076
 Utrecht,Q10829,Utrecht,7006926,Utrecht,Q803
+Vadodara,Q48686,Vadodara district,7001505,Vadodara,Q578285
+Vakfıkebir,Q52679,Vakfıkebir,7700671,Vakfıkebir,Q1947455
 Valahia,Q38317,Valahia,7016657,Wallachia,Q171393
 Valdenoceda,Q6978,Valdenoceda,7299846,Valdenoceda,Q6158739
+Valdeosera,Q42493,Valdeosera,7299836,Valdeosera,Q6158743
 Valencia,Q1298,Valencia,7008769,Valencia,Q8818
+Valenciennes,Q68672,Valenciennes,7008471,Valenciennes,Q163795
 Valladolid,Q6979,Valladolid,7008771,Valladolid,Q8356
+Valognes,Q42491,Valognes,1035991,Valognes,Q326879
+Valpolicella,Q76261,Valpolicella,1112195,Valpolicella,Q852467
 Van,Q18351,Van,1086977,Van,Q83061
 Vaucluse,Q38319,Vaucluse,7599818,Vaucluse,Q12792
 Veneto,Q811,Veneto,7002997,Veneto,Q1243
@@ -555,32 +832,57 @@ Vicenza,Q7215,Vicenza,7003204,Vicenza,Q6537
 Vienna,Q3078,Wien,7003321,Vienna,Q1741
 Vienne,Q16416,Vienne,7008589,Vienne,Q26849
 Vigliano,Q7506,Vigliano,7037093,Vigliano,Q18427116
+Vilasacra,Q42479,Vila-sacra,7293758,Vilasacra,Q1043496
 Villeneuve-lès-Avignon,Q38320,Villeneuve-lès-Avignon,7007619,Villeneuve-lès-Avignon,Q269113
+Vione,Q76281,Vione,7036737,Vione,Q112215
 Vivarais,Q38321,Vivarais,1003864,Vivarais,Q1968100
 Volpago del Montello,Q19901,Volpago del Montello,1047496,Volpago del Montello,Q46827
 Volterra,Q5012,Volterra,7006305,Volterra,Q103305
 Waldhausen,Q38322,Waldhausen,8713458,Waldhausen,Q691524
 Wales,Q7799,Wales,7002443,Wales,Q25
+Wambaix,Q42471,Wambaix,7596307,Wambaix,Q1100744
 Warwick,Q20357,Warwick,7010957,Warwick,Q549761
 Warwickshire,Q810,Warwickshire,7008178,Warwickshire,Q67575123
+Wazīrābād,Q48697,Wazirabad,1083859,Wazīrābād,Q1026613
 Wernigerode,Q38323,Wernigerode,7012889,Wernigerode,Q15982
 West Africa,Q18344,West Africa,7032927,West Africa,Q4412
+West Azerbaijan,Q48712,West Azarbaijan Province,1001048,Āz̄arbāyjān-e Gharbī,Q134411
+West Midlands,Q38324,West Midlands,7029506,West Midlands,Q23124
+Western Asia,Q100360,West Asia,8714326,Western Asia,Q27293
 Western Europe,Q10830,Western Europe,4003761,Western Europe,Q27496
 Western France,Q38325,Western France,4004039,France,Q142
-West Midlands,Q38324,West Midlands,7029506,West Midlands,Q23124
+Westhoek,Q54678,Westhoek,8060287,Westhoek,Q955543
 Westphalia,Q38326,Westfalen,7012772,Westphalia,Q8614
 Wiblingen,Q38327,Wiblingen,7084564,Wiblingen,Q2567354
+Wigmore,Q68007,Wigmore,7011115,Wigmore,Q608317
 Wiltshire,Q17536,Wiltshire,7008180,Wiltshire,Q21694746
 Winchcombe,Q16424,Winchcombe,7011144,Winchcombe,Q1234937
 Wittenberg,Q3094,Wittenberg,7012349,Lutherstadt Wittenberg,Q6837
+Witzenhausen,Q74804,Witzenhausen,1041864,Witzenhausen,Q564827
 Worcestershire,Q1296,Worcestershire,5000227,Worcestershire,Q67575442
+Worms,Q68010,Worms,7005108,Worms,Q3852
 Würzburg,Q20355,Würzburg,7004335,Würzburg,Q2999
 Yazd,Q27481,Yazd,7002173,Yazd,Q182394
 Yemen,Q2825,Al Yaman,7000261,Yemen,Q805
+Yiannitsá,Q52689,Giannitsa,1042254,Yiannitsá,Q929022
 York,Q16409,York,7011995,York,Q42462
 Yorkshire,Q38328,Yorkshire,7008171,Yorkshire,Q163
 Yugoslavia,Q38329,Yugoslavia,8713918,Yugoslavia,Q36704
 Zaragoza,Q4330,Zaragoza,7008813,Zaragoza,Q10305
+Zevio,Q76276,Zevio,1047515,Zevio,Q48462
 Zhejiang,Q12706,Zhejiang,7002076,Zhejiang,Q16967
-Zurich,Q38330,Zürich,7007302,Zürich,Q72
+Zurich,Q38330,Zürich,7007302,Zurich,Q72
 Zwolle,Q16411,Zwolle,7007077,Zwolle,Q793
+undetermined,Q650,undetermined,7544559,undetermined geographic location,Q125847912
+Ávila,Q66905,Ávila,7007090,Ávila,Q15688
+Écija,Q6991,Écija,7007091,Écija,Q273413
+Édhessa,Q68008,Edessa,1041944,Édhessa,Q209978
+Évora,Q54965,Évora,7010600,Évora,Q179948
+Île-de-France,Q38148,Île-de-France,7002883,Île-de-France,Q13917
+Üsküdar,Q52685,Üsküdar,1085853,Üsküdar,Q326339
+Āgra,Q27477,Āgra,7001493,Agra,Q42941
+Ārān,Q48689,Aran va Bidgol County,1078919,Ārān,Q116115
+İstanbul,Q75952,İstanbul,1001052,Istanbul Province,Q534799
+Świętokrzyskie Voivodeship,Q4991,Świe̜tokrzyskie,7024129,Świętokrzyskie Voivodeship,Q54183
+Šibenik,Q130,Šibenik,7015447,Šibenik,Q3549
+Ḥamāh,Q64090,Hama,7002276,Ḥamāh,Q173545
