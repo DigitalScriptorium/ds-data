@@ -24,8 +24,8 @@
 |indiana|Indiana University Bloomington|Q1521|
 |jts|Jewish Theological Seminary of America|Q54963|
 |kansas|University of Kansas|Q6060|
-|lehigh|Lehigh University|
-|missouri|University of Missouri|Q42433
+|lehigh|Lehigh University|Q103453|
+|missouri|University of Missouri|Q42433|
 |nelsonatkins|The Nelson-Atkins Museum of Art|Q1123|
 |newberry|Newberry Library|Q64103|
 |nyam|New York Academy of Medicine|Q42265|
@@ -50,7 +50,7 @@
 |ucb|University of California, Berkeley|Q42437|
 |ucdavis|University of California, Davis|Q42441|
 |ucr|University of California, Riverside|Q42442|
-|uwmadison|University of Wisconsin-Madison|
+|uwmadison|University of Wisconsin-Madison|Q103703|
 |vassar|Vassar College|Q17745|
 |vermont|University of Vermont|Q42432|
 |walters|Walters Art Museum|
