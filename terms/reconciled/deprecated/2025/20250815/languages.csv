@@ -45,7 +45,6 @@ Arabic,,Arabic,Q13955,Q118
 Arabic,ara;eng,Arabic,Q13955,Q118
 Arabic,ara,Arabic,Q13955,Q118
 "Arabic, Ottoman Turkish, and Persian",,Arabic;Ottoman Turkish;Persian,Q13955;Q36730;Q9168,Q118;Q3104;Q120
-"Arabic, Ottoman Turkish and Persian",,Arabic;Ottoman Turkish;Persian,Q13955;Q36730;Q9168,Q118;Q3104;Q120
 "Arabic, Persian",,Arabic;Persian,Q13955;Q9168,Q118;Q120
 "Arabic, Persian, and Ottoman Turkish",,Arabic;Persian;Ottoman Turkish,Q13955;Q9168;Q36730,Q118;Q120;Q3104
 "Arabic, Persian, and Urdu",,Arabic;Persian;Urdu,Q13955;Q9168;Q1617,Q118;Q120;Q27496
@@ -67,7 +66,6 @@ Arabic and Persian,,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic and Persian,ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic and Turkish,;ara;ota,Arabic;Turkish,Q13955;Q256,Q118;Q4337
 Arabic and Turkish in Arabic script,,Arabic;Turkish,Q13955;Q256,Q118;Q4337
-Arabic and Urdu,,Arabic;Urdu,Q13955;Q1617,Q118;Q27496
 Arabic hand,,Arabic,Q13955,Q118
 "Arabic headwords, Ottoman definitions",ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
 Arabic text with Persian marginalia,ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
@@ -375,7 +373,6 @@ Icelandic,,Icelandic,Q294,Q38097
 In Anglo-Norman,,Anglo-Norman,Q35214,Q1315
 In Arabic,,Arabic,Q13955,Q118
 In Arabic,ara,Arabic,Q13955,Q118
-"In Arabic, Ottoman Turkish and Persian",,Arabic;Ottoman Turkish;Persian,Q13955;Q36730;Q9168,Q118;Q3104;Q120
 "In Arabic, Persian, Ottoman Turkish, and Greek",;ara;per;gre;ota,Arabic;Persian;Ottoman Turkish;Greek,Q13955;Q9168;Q36730;Q9129,Q118;Q120;Q3104;Q1318
 "In Arabic, Persian and Turkish",ara,Arabic;Persian;Turkish,Q13955;Q9168;Q256,Q118;Q120;Q4337
 "In Arabic, Persian and Turkish",ara;per;ota,Arabic;Persian;Turkish,Q13955;Q9168;Q256,Q118;Q120;Q4337
@@ -383,7 +380,6 @@ In Arabic,ara,Arabic,Q13955,Q118
 "In Arabic, Persian and Turkish.",ara;per;ota,Arabic;Persian;Turkish,Q13955;Q9168;Q256,Q118;Q120;Q4337
 "In Arabic, some notes in Persian",;ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
 "In Arabic, with Farsi translations of main Arabic text in red beneath each line",,Arabic;Persian,Q13955;Q9168,Q118;Q120
-"In Arabic, with one page in Persian",,Arabic;Persian,Q13955;Q9168,Q118;Q120
 In Arabic; later text (from paper re-use) in Hebrew,,Arabic;Hebrew,Q13955;Q9288,Q118;Q117
 In Arabic.,ara,Arabic,Q13955,Q118
 In Arabic.,,Arabic,Q13955,Q118
@@ -419,7 +415,6 @@ inc,inc,Indo-Aryan,Q33577,Q38098
 inc;per,inc;per,Indo-Aryan;Persian,Q33577;Q9168,Q38098;Q120
 In Castilian,,Spanish,Q1321,Q114
 In Catalan,cat,Catalan,Q7026,Q1316
-In Chagatai,,Chagatai,Q36831,Q42445
 In Chinese,chi,Chinese,Q7850,Q12715
 "In Chinese, with Japanese reading marks",jpn,Chinese;Japanese,Q7850;Q5287,Q12715;Q12711
 In Chinese and Japanese,,Chinese;Japanese,Q7850;Q5287,Q12715;Q12711
@@ -1266,7 +1261,6 @@ Ottoman Turkish,,Ottoman Turkish,Q36730,Q3104
 Ottoman Turkish,;ota,Ottoman Turkish,Q36730,Q3104
 Ottoman Turkish,ota,Ottoman Turkish,Q36730,Q3104
 "Ottoman Turkish, Arabic, and Persian",,Ottoman Turkish;Arabic;Persian,Q36730;Q13955;Q9168,Q3104;Q118;Q120
-"Ottoman Turkish, Persian and Arabic",,Ottoman Turkish;Persian;Arabic,Q36730;Q9168;Q13955,Q3104;Q120;Q118
 Ottoman Turkish.,,Ottoman Turkish,Q36730,Q3104
 Ottoman Turkish (1500-1928),ota,Ottoman Turkish,Q36730,Q3104
 Ottoman Turkish and Arabic,,Ottoman Turkish;Arabic,Q36730;Q13955,Q3104;Q118
@@ -1368,7 +1362,6 @@ Psalms in Latin with each verse translated into English prose with English comme
 Psalms in Latin with each verse translated into English prose with English commentary,enm;lat,Latin;English,Q397;Q1860,Q113;Q109
 Psalms in Latin with each verse translated into English prose with English commentary.,enm,Latin;English,Q397;Q1860,Q113;Q109
 Psalms in Latin with each verse translated into English prose with English commentary.,enm;lat,Latin;English,Q397;Q1860,Q113;Q109
-Pushto,,Pashto,Q58680,Q48679
 raj,raj,Rajasthani,Q13196,Q27510
 roa,roa,Romance languages,Q19814,Q38116
 sam,sam,Samaritan Aramaic,Q56612,Q6995
@@ -1544,14 +1537,12 @@ Turkish in Arabic script and Arabic,,Turkish;Arabic,Q256;Q13955,Q4337;Q118
 Turkish in Arabic script and Persian,,Turkish;Arabic;Persian,Q256;Q13955;Q9168,Q4337;Q118;Q120
 Turkish with a few sections in Arabic,,Turkish;Arabic,Q256;Q13955,Q4337;Q118
 Turkish with source text in Arabic,ota,Turkish;Arabic,Q256;Q13955,Q4337;Q118
-Turkmen in Arabic script,,Turkmen;Arabic,Q106562;Q13955,Q9267;Q118
 und,,undetermined language,Q22282914,Q12714
 und,und,undetermined language,Q22282914,Q12714
 und;eng,und;eng,undetermined language;English,Q22282914;Q1860,Q12714;Q109
 Unidentified Cipher,,undetermined language,Q22282914,Q12714
 Unvocalized Hebrew,,Hebrew,Q9288,Q117
 urd,urd,Urdu,Q1617,Q27496
-Urdu,,Urdu,Q1617,Q27496
 "Urdu, Arabic, and Persian",,Urdu;Arabic;Persian,Q1617;Q13955;Q9168,Q27496;Q118;Q120
 Vocalized Arabic,,Arabic,Q13955,Q118
 Vocalized Arabic and English,,Arabic;English,Q13955;Q1860,Q118;Q109
