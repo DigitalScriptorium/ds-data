@@ -65,6 +65,7 @@ Arabic and Javanese in Arabic script,,Arabic;Javanese,Q13955;Q33549,Q118;Q38105
 Arabic and Ottoman Turkish,;ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
 Arabic and Persian,,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic and Persian,ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
+Arabic or Persian,,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic and Turkish,;ara;ota,Arabic;Turkish,Q13955;Q256,Q118;Q4337
 Arabic and Turkish in Arabic script,,Arabic;Turkish,Q13955;Q256,Q118;Q4337
 Arabic and Urdu,,Arabic;Urdu,Q13955;Q1617,Q118;Q27496
@@ -229,6 +230,7 @@ English; Latin; French,,English;Latin;French,Q1860;Q397;Q150,Q109;Q113;Q111
 English; Old French; Latin,,English;Old French;Latin,Q1860;Q35222;Q397,Q109;Q3106;Q113
 English; Persian,eng;per,English;Persian,Q1860;Q9168,Q109;Q120
 English.,,English,Q1860,Q109
+English?,,English,Q1860,Q109
 English (Northern dialect),,English;Northern English,Q1860;Q1321639,Q109;Q38094
 English and Latin,,English;Latin,Q1860;Q397,Q109;Q113
 English and Latin,eng;lat,English;Latin,Q1860;Q397,Q109;Q113
