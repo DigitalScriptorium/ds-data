@@ -1,0 +1,15 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+almanacs,ds-genre,,almanacs,http://vocab.getty.edu/aat/300026705,Q3025,,,
+medical treatises,ds-genre,,medicine (discipline),http://vocab.getty.edu/aat/300054518,Q42420,,,
+miscellany,ds-genre,,miscellanies,http://vocab.getty.edu/aat/300404026,Q17508,,,
+apocalypse,ds-genre,,,,,,,
+rules,ds-genre,,rules (instructions),http://vocab.getty.edu/aat/300027458,Q108120,,,
+extreme unction,ds-genre,,extreme unction,http://vocab.getty.edu/aat/300162813,Q108121,,,
+sacraments,ds-genre,,sacraments,http://vocab.getty.edu/aat/300400550,Q108122,,,
+book of hours,ds-genre,,,,,books of hours,http://vocab.getty.edu/aat/300026457,Q3618
+missal,ds-genre,,missals,http://vocab.getty.edu/aat/300026472,Q4244,,,
+passionals,ds-genre,,passionals,http://vocab.getty.edu/aat/300026474,Q42556,,,
+psalters (books),ds-genre,,,,,psalters (books),http://vocab.getty.edu/aat/300026477,Q4134
+legal documents,ds-genre,,,,,legal documents,http://vocab.getty.edu/aat/300027590,Q236
+carta executoria de hidalguía,ds-genre,,,,,,,
+patents of nobility,ds-genre,,,,,,,
