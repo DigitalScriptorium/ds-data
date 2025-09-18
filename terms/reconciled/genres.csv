@@ -49,6 +49,7 @@ Allegories,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026218,Allegorie
 Allégories,rvmgf,,Allegories,http://id.worldcat.org/fast/1726523,Q42596
 allegories (literary genre),ds-genre,,allegories (literary genre),http://vocab.getty.edu/aat/300202507,Q7395
 Alleluias,ds-genre,,Alleluias (Chants),http://id.worldcat.org/fast/1919998,Q75943
+almanacs,ds-genre,,almanacs,http://vocab.getty.edu/aat/300026705,Q3025
 Almanacs,aat,,almanacs,http://vocab.getty.edu/aat/300026705,Q3025
 Almanacs,fast,,Almanacs,http://id.worldcat.org/fast/1423872,Q2788
 Almanacs,lcgft,,Almanacs,http://id.worldcat.org/fast/1423872,Q2788
@@ -928,6 +929,7 @@ Excerpts,lcgft,,Excerpts,http://id.worldcat.org/fast/1692837,Q3547
 Executive records,aat,,executive records,http://vocab.getty.edu/aat/300172756,Q4138
 Expurgated copies,rbmscv,,Expurgated copies,http://id.loc.gov/vocabulary/rbmscv/cv00239,Q16270
 Extracts of Court Rolls,ds-genre,,court rolls;extracts (partial documents),http://vocab.getty.edu/aat/300312072;http://vocab.getty.edu/aat/300312154,Q76111;Q76112
+extreme unction,ds-genre,,extreme unction,http://vocab.getty.edu/aat/300162813,Q108121
 Fables,aat,,fables,http://vocab.getty.edu/aat/300055917,Q27418
 Facsimiles,aat,,facsimiles (reproductions),http://vocab.getty.edu/aat/300121391,Q163
 Facsimiles,fast,,Facsimiles,http://id.worldcat.org/fast/1411642,Q2775
@@ -2860,6 +2862,7 @@ medical,ds-genre,,medicine (discipline),http://vocab.getty.edu/aat/300054518,Q42
 medical / scholastic / academic,ds-genre,,medicine (discipline);scholasticism;academia (learning concept),http://vocab.getty.edu/aat/300054518;http://vocab.getty.edu/aat/300055974;http://vocab.getty.edu/aat/300266107,Q42420;Q42401;Q42425
 Medical formularies--Germany--16th century,rbgenr,,Medical formularies;Germany;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01580;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/1119851,Q42574;Q3032;Q335
 medical texts,ds-genre,,medicine (discipline),http://vocab.getty.edu/aat/300054518,Q42420
+medical treatises,ds-genre,,medicine (discipline),http://vocab.getty.edu/aat/300054518,Q42420
 Memoirs,aat,,memoirs,http://vocab.getty.edu/aat/300202559,Q4948
 menologions,aat,,menologions,http://vocab.getty.edu/aat/300185338,Q42555
 Menus,aat,,menus,http://vocab.getty.edu/aat/300027191,Q3557
@@ -2942,6 +2945,8 @@ Miscellanies--England--14th century,aat,,miscellanies;England;Fourteenth century
 Miscellanies--England--15th century,aat,,miscellanies;England;Fifteenth century,http://vocab.getty.edu/aat/300404026;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/923962,Q17508;Q320;Q154
 Miscellanies--England--16th century,aat,,miscellanies;England;Sixteenth century,http://vocab.getty.edu/aat/300404026;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/1119851,Q17508;Q320;Q335
 Miscellanites,aat,,miscellanies,http://vocab.getty.edu/aat/300404026,Q17508
+miscellany,ds-genre,,miscellanies,http://vocab.getty.edu/aat/300404026,Q17508
+missal,ds-genre,,missals,http://vocab.getty.edu/aat/300026472,Q4244
 missals,aat,,missals,http://vocab.getty.edu/aat/300026472,Q4244
 missals,ds-genre,,missals,http://vocab.getty.edu/aat/300026472,Q4244
 Missals,rbmscv,,Missals,http://id.loc.gov/vocabulary/rbmscv/cv01605,Q38504
@@ -3094,6 +3099,7 @@ Parchment (Paper),rbpap,,Parchment (Paper),http://id.loc.gov/vocabulary/rbmscv/c
 Parliamentary papers,aat,,parliamentary papers,http://vocab.getty.edu/aat/300027915,Q38518
 Part books,lcgft,,Part books,http://id.worldcat.org/fast/1920271,Q66704
 Part books,rbmscv,,Part books,http://id.loc.gov/vocabulary/rbmscv/cv01682,Q66740
+passionals,ds-genre,,passionals,http://vocab.getty.edu/aat/300026474,Q42556
 passionals,aat,,passionals,http://vocab.getty.edu/aat/300026474,Q42556
 Passion plays,aat,,passion plays,http://vocab.getty.edu/aat/300055915,Q7135
 Passion plays--Italy--15th century,rbgenr,,Passion plays;Italy;Fifteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01694;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/923962,Q42584;Q249;Q154
@@ -3880,6 +3886,7 @@ Rosettes (motifs)--Islamic Empire--14th century,aat,,rosette (motif);Islamic Emp
 Rotunda (script),aat,,rotunda (script),http://vocab.getty.edu/aat/300417901,Q10820
 rubrics,aat,(CStmoGRI)aatgf300196121,rubrics,http://vocab.getty.edu/aat/300196121,Q7258
 Rubrics,aat,,rubrics,http://vocab.getty.edu/aat/300196121,Q7258
+rules,ds-genre,,rules (instructions),http://vocab.getty.edu/aat/300027458,Q108120
 Rules,fast,,Rules,http://id.worldcat.org/fast/1423857,Q4910
 Rules (layout features),aat,,rules (layout features),http://vocab.getty.edu/aat/300200009,Q38537
 Russia leather (Binding),rbbin,,Russia leather bindings,http://id.loc.gov/vocabulary/rbmscv/cv00692,Q12527
@@ -3890,6 +3897,7 @@ Russia leather bindings (Binding)--19th century,rbbin,,Russia leather bindings;N
 Rustic capitals,aat,,rustic capitals,http://vocab.getty.edu/aat/300196122,Q66723
 Sacramentaries,aat,,sacramentaries,http://vocab.getty.edu/aat/300192160,Q38538
 Sacramentaries--France--9th century,aat,,sacramentaries;France;Ninth century,http://vocab.getty.edu/aat/300192160;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1037854,Q38538;Q152;Q329
+sacraments,ds-genre,,sacraments,http://vocab.getty.edu/aat/300400550,Q108122
 Sacred books,fast,(OCoLC)fst01423905,Sacred books,http://id.worldcat.org/fast/1423905,Q11188
 Sacred books,fast,,Sacred books,http://id.worldcat.org/fast/1423905,Q11188
 Sacred music,fast,,Sacred music,http://id.worldcat.org/fast/1920332,Q10791
