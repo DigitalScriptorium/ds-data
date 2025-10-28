@@ -1,0 +1,11 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+History,fast,(OCoLC)fst01411628,,,,History,http://id.worldcat.org/fast/1411628,Q279
+Gregorian chants,lcgft,,,,,Gregorian chants,http://id.worldcat.org/fast/1726631,Q38479
+Early works,fast,(OCoLC)fst01411636,,,,Early works,http://id.worldcat.org/fast/1411636,Q300
+Prayers and devotions,fast,(OCoLC)fst01423909,,,,Prayers and devotions,http://id.worldcat.org/fast/1423909,Q3052
+Texts,fast,(OCoLC)fst01423705,,,,Texts,http://id.worldcat.org/fast/1423705,Q3066
+Devotional literature--Belgium--Flanders--1455,rbgenr,,Devotional literature;Belgium--Flanders,http://id.loc.gov/vocabulary/rbmscv/cv01040;http://id.worldcat.org/fast/1228041,Q38457;Q26763,,,
+Gothic scripts--Belgium--Flanders--1455,aat,,Gothic scripts;Belgium--Flanders,http://vocab.getty.edu/aat/300195226;http://id.worldcat.org/fast/1228041,Q16360;Q26763,,,
+Illuminated manuscripts--Belgium--Flanders--1455,aat,,illuminated manuscripts;Belgium--Flanders,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1228041,Q4268;Q26763,,,
+Devotional literature,rbgenr,,,,,Devotional literature,http://id.loc.gov/vocabulary/rbmscv/cv01040,Q38457
+Liturgical books,rbgenr,,,,,Liturgical books,http://id.loc.gov/vocabulary/rbmscv/cv00948,Q42549

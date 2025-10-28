@@ -1,0 +1,13 @@
+name_as_recorded,role,name_agr,source_authority_uri,instance_of_add,Len,Wikidata QID,DS ID,ds_qid_add,instance_of,authorized_label,structured_value,ds_qid
+"Sánchez de Arévalo, Rodrigo, 1404-1470",author,,,,,,,,human,Rodrigo Sánchez de Arévalo,Q2777336,Q67558
+"Decembrio, Pier Candido, 1399-1477",author,,,,,,,,human,Pietro Candido Decembrio,Q714963,Q40512
+"Brunus, Hercules",former attributed author,,,,,,,,,,,
+"Hilton, Walter, -1396",author,,,,,,,,human,Walter Hilton,Q2213072,Q7051
+Catholic Church,author,,http://viaf.org/viaf/130782063,,,,,,organization,Catholic Church,Q9592,Q425
+"Arcispedale Santa Maria Nuova (Reggio Emilia, Italy)",author,,,organization,Santa Maria Nuova Hospital,Q50376755,DSNAME9014,Q108625,,,,
+"Fiamma, Galvano, 1283-1344",author,,,human,Galvano Fiamma,Q3228790,DSNAME9013,Q108624,,,,
+"Holtnicker, Conradus",author,,,human,Conrad of Saxony,Q3694359,DSNAME4014,Q40459,,,,
+"Francesco, dalla Piaza, O.F.M.",author,,,,,,,,,,,
+Spain,author,,,organization,Spain,Q29,DSNAME119,Q392,,,,
+"Augustine, of Hippo, Saint, 354-430",author,,,,,,,,human,Augustine of Hippo,Q8018,Q1515
+"Sacro Bosco, Joannes de, active 1230",author,,,,,,,,human,Johannes de Sacrobosco,Q433841,Q391
