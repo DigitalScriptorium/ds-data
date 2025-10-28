@@ -1,4 +1,4 @@
-name_as_recorded,role,name_agr,source_authority_uri,instance_of_add,Len,Wikidata QID,DS ID,ds_qid_add,instance_of,authorized_label,structured_value,ds_qid
+name_as_recorded,role,name_agr,source_authority_uri,instance_of_add,authorized_label_add,structured_value_add,ds_id_add,ds_qid_add,instance_of,authorized_label,structured_value,ds_qid
 "Sánchez de Arévalo, Rodrigo, 1404-1470",author,,,,,,,,human,Rodrigo Sánchez de Arévalo,Q2777336,Q67558
 "Decembrio, Pier Candido, 1399-1477",author,,,,,,,,human,Pietro Candido Decembrio,Q714963,Q40512
 "Brunus, Hercules",former attributed author,,,,,,,,,,,
