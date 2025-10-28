@@ -173,6 +173,7 @@ Austria or Southern Germany,Austria;Southern Germany,http://vocab.getty.edu/tgn/
 Austro-Bavaria,Bavaria,http://vocab.getty.edu/tgn/7003669,Q1303
 Autun,Autun,http://vocab.getty.edu/tgn/7008237,Q76256
 "Autun, France",Autun;France,http://vocab.getty.edu/tgn/7008237;http://vocab.getty.edu/tgn/1000070,Q76256;Q122
+Autun?] (France),Autun;France,http://vocab.getty.edu/tgn/7008237;http://vocab.getty.edu/tgn/1000070,Q76256;Q122
 Āvarnah,Avarneh,http://vocab.getty.edu/tgn/8898656,Q63769
 "Aveyron, France",Département de l'Aveyron;France,http://vocab.getty.edu/tgn/7002906;http://vocab.getty.edu/tgn/1000070,Q42463;Q122
 Avignon,Avignon,http://vocab.getty.edu/tgn/7008799,Q4328
@@ -632,6 +633,7 @@ Firenze,Florence,http://vocab.getty.edu/tgn/7000457,Q3084
 Fivizzano,Fivizzano,http://vocab.getty.edu/tgn/1044626,Q6980
 Flanders,Flanders,http://vocab.getty.edu/tgn/7024097,Q126
 "Flanders, Belgium",Flanders;Belgium,http://vocab.getty.edu/tgn/7024097;http://vocab.getty.edu/tgn/1000063,Q126;Q1243
+"Flanders, Belgium?",Flanders;Belgium,http://vocab.getty.edu/tgn/7024097;http://vocab.getty.edu/tgn/1000063,Q126;Q1243
 "Flanders, Bruges, Belgium",Flanders;Bruges;Belgium,http://vocab.getty.edu/tgn/7024097;http://vocab.getty.edu/tgn/7007867;http://vocab.getty.edu/tgn/1000063,Q126;Q16418;Q1243
 "Flanders, possibly Ghent",Flanders;Ghent,http://vocab.getty.edu/tgn/7024097;http://vocab.getty.edu/tgn/7007887,Q126;Q16408
 "Flanders, probably Bruges",Flanders (region);Bruges,http://vocab.getty.edu/tgn/7018236;http://vocab.getty.edu/tgn/7007867,Q100357;Q16418
@@ -1700,6 +1702,7 @@ Ostiglia,Ostiglia,http://vocab.getty.edu/tgn/7005892,Q76259
 Ottoman Empire,Ottoman Empire,http://vocab.getty.edu/tgn/7024412,Q38274
 Oxford,Oxford,http://vocab.getty.edu/tgn/7011931,Q3654
 "Oxford, England",Oxford;England,http://vocab.getty.edu/tgn/7011931;http://vocab.getty.edu/tgn/7002445,Q3654;Q133
+Oxford?,Oxford,http://vocab.getty.edu/tgn/7011931,Q3654
 "Oxford?, England",Oxford;England,http://vocab.getty.edu/tgn/7011931;http://vocab.getty.edu/tgn/7002445,Q3654;Q133
 Paderborn,Paderborn,http://vocab.getty.edu/tgn/7005101,Q38276
 "Padova, Italy",Padova;Italy,http://vocab.getty.edu/tgn/7002994;http://vocab.getty.edu/tgn/1000080,Q42085;Q134
@@ -1828,6 +1831,7 @@ Regensburg,Regensburg,http://vocab.getty.edu/tgn/7013496,Q5000
 "Regensburg, Germany",Regensburg;Germany,http://vocab.getty.edu/tgn/7013496;http://vocab.getty.edu/tgn/7000084,Q5000;Q131
 "Regensburg?, Germany",Regensburg;Germany,http://vocab.getty.edu/tgn/7013496;http://vocab.getty.edu/tgn/7000084,Q5000;Q131
 Reggio Emilia,Reggio nell'Emilia,http://vocab.getty.edu/tgn/7005020,Q6986
+Reggio Emilia (Italy),Reggio nell'Emilia;Italy,http://vocab.getty.edu/tgn/7005020;http://vocab.getty.edu/tgn/1000080,Q6986;Q134
 Reims,Rheims,http://vocab.getty.edu/tgn/7011060,Q8376
 "Reims, France",Rheims;France,http://vocab.getty.edu/tgn/7011060;http://vocab.getty.edu/tgn/1000070,Q8376;Q122
 "Reims?, France",Rheims;France,http://vocab.getty.edu/tgn/7011060;http://vocab.getty.edu/tgn/1000070,Q8376;Q122
@@ -1843,6 +1847,7 @@ Rimini,Rimini,http://vocab.getty.edu/tgn/7004929,Q20354
 "Rimini, Italy",Rimini;Italy,http://vocab.getty.edu/tgn/7004929;http://vocab.getty.edu/tgn/1000080,Q20354;Q134
 "Rimini?, Italy",Rimini;Italy,http://vocab.getty.edu/tgn/7004929;http://vocab.getty.edu/tgn/1000080,Q20354;Q134
 "Rngland, England",England,http://vocab.getty.edu/tgn/7002445,Q133
+Rocca Contrata,Arcevia,http://vocab.getty.edu/tgn/7004003,Q38143
 Roma,Rome,http://vocab.getty.edu/tgn/7000874,Q123
 Romae,Rome,http://vocab.getty.edu/tgn/7000874,Q123
 "Romania, Braṣow, Romania",Romania;Kronstadt,http://vocab.getty.edu/tgn/1000091;http://vocab.getty.edu/tgn/7004272,Q38291;Q38220

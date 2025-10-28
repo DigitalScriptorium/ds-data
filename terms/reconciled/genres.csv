@@ -749,6 +749,7 @@ Devotional literature,lcgft,,Devotional literature,http://id.worldcat.org/fast/1
 Devotional literature,lcsh,,Devotional literature,http://id.worldcat.org/fast/1423773,Q38696
 Devotional literature,openn-form/genre,,devotional literature,http://vocab.getty.edu/aat/300254377,Q4903
 Devotional literature,rbgenr,,Devotional literature,http://id.loc.gov/vocabulary/rbmscv/cv01040,Q38457
+Devotional literature--Belgium--Flanders--1455,rbgenr,,Devotional literature;Belgium--Flanders,http://id.loc.gov/vocabulary/rbmscv/cv01040;http://id.worldcat.org/fast/1228041,Q38457;Q26763
 Devotional literature--Italy--15th century,lcsh,,Devotional literature;Italy;Fifteenth century,http://id.worldcat.org/fast/1423773;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/923962,Q38696;Q249;Q154
 diagrams,aat,,diagrams,http://vocab.getty.edu/aat/300015387,Q276
 diagrams,openn-form/genre,,diagrams,http://vocab.getty.edu/aat/300015387,Q276
@@ -1052,6 +1053,7 @@ Gothic scripts,aat,http://vocab.getty.edu/aat/300195226,Gothic scripts,http://vo
 Gothic scripts,lcsh,,"Writing, Gothic",http://id.worldcat.org/fast/1181685,Q27244
 Gothic scripts.--Italy--14th century,aat,,Gothic scripts;Italy;Fourteenth century,http://vocab.getty.edu/aat/300195226;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/933420,Q16360;Q249;Q295
 Gothic scripts--Belgium--15th century,aat,,Gothic scripts;Belgium;Fifteenth century,http://vocab.getty.edu/aat/300195226;http://id.worldcat.org/fast/1210278;http://id.worldcat.org/fast/923962,Q16360;Q16301;Q154
+Gothic scripts--Belgium--Flanders--1455,aat,,Gothic scripts;Belgium--Flanders,http://vocab.getty.edu/aat/300195226;http://id.worldcat.org/fast/1228041,Q16360;Q26763
 Gothic scripts--England--13th century,aat,,Gothic scripts;England;Thirteenth century,http://vocab.getty.edu/aat/300195226;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/1150138,Q16360;Q320;Q245
 Gothic scripts--France--13th century,aat,,Gothic scripts;France;Thirteenth century,http://vocab.getty.edu/aat/300195226;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1150138,Q16360;Q152;Q245
 Gothic scripts--France--14th century,aat,,Gothic scripts;France;Fourteenth century,http://vocab.getty.edu/aat/300195226;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/933420,Q16360;Q152;Q295
@@ -1267,6 +1269,7 @@ illuminated manuscripts--aat,,,illuminated manuscripts,http://vocab.getty.edu/aa
 Illuminated manuscripts--Afghanistan--Herat--16th century,aat,,illuminated manuscripts;Afghanistan--Herat;Sixteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1215453;http://id.worldcat.org/fast/1119851,Q4268;Q48725;Q335
 Illuminated manuscripts--Belgium--15th century,aat,,illuminated manuscripts;Belgium;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1210278;http://id.worldcat.org/fast/923962,Q4268;Q16301;Q154
 Illuminated manuscripts--Belgium--Bruges--15th century,aat,,illuminated manuscripts;Belgium--Bruges;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204513;http://id.worldcat.org/fast/923962,Q4268;Q38496;Q154
+Illuminated manuscripts--Belgium--Flanders--1455,aat,,illuminated manuscripts;Belgium--Flanders,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1228041,Q4268;Q26763
 Illuminated manuscripts--Belgium--Mons--15th century,aat,,illuminated manuscripts;Belgium--Mons;Fifteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1206359;http://id.worldcat.org/fast/923962,Q4268;Q12585;Q154
 Illuminated manuscripts--California--San Francisco--19th century,aat,,illuminated manuscripts;California--San Francisco;Nineteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1204481;http://id.worldcat.org/fast/1037841,Q4268;Q42573;Q3538
 Illuminated manuscripts--Egypt--Cairo--16th century,aat,,illuminated manuscripts;Egypt--Cairo;Sixteenth century,http://vocab.getty.edu/aat/300265483;http://id.worldcat.org/fast/1205204;http://id.worldcat.org/fast/1119851,Q4268;Q11261;Q335
