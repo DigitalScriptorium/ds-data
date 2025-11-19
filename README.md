@@ -40,7 +40,7 @@ This directory (`member-data`) contains import spreadsheets used to upload aggre
 
 ### Terms
 
-This directory (`terms`) contains archived (`prototype-and-beta`) and active (`batch` and `reconciled`) files used in data reconciliation and enrichment of institutional metadata to transform it into DS data. CSV files found in the `reconciled` subdirectory are data dictionaries for types of metadata which are matched to DS authorities to faciliate automated data enrichment. These data dictionaries have been aggregated and updated with new contributions of institutional data during the life of the DS Catalog project. CSV files found in the `batch` subdirectory are archived versions of enriched data by individual dataset contributed, organized by date, and named using the file naming convention included in this document.
+This directory (`terms`) contains archived (`prototype-and-beta`) and active (`batch` and `reconciled`) files used in data reconciliation and enrichment processes to transform institutional metadata into DS data. CSV files found in the `reconciled` subdirectory are data dictionaries for types of metadata which are matched to DS authorities to faciliate automated data enrichment. These data dictionaries have been aggregated and updated with new contributions of institutional data during the life of the DS Catalog project. CSV files found in the `batch` subdirectory are archived versions of enriched data by individual dataset contributed, organized by date, and named using the file naming convention included in this document.
 
 ### Test
 
