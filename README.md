@@ -12,13 +12,45 @@ The ds-data repository principally contains CSVs of DS data at various stages of
 
 ### Data model
 
-This directory is dedicated to JSON files containing specifications for items and properties found in the DS Wikibase, based on the DS data model.
+This directory (`data-model`) is dedicated to JSON files containing specifications for items and properties found in the DS Wikibase, based on the DS data model.
 
 ### DS to SDBM
 
-This directory contains files generated through the DS Wikibase query service which are used to upload batch files into the Schoenberg Database of Manuscripts (SDBM) to create manuscript observations (`inputs`) and resulting data extracted from the SDBM after uploading and manual processing of additional information (`outputs`).
+This directory (`ds-to-sdbm`) contains files generated through the DS Wikibase query service which are used to upload batch files into the Schoenberg Database of Manuscripts (SDBM) to create manuscript observations (`inputs`) and resulting data extracted from the SDBM after uploading and manual processing of additional information (`outputs`).
 
-## File naming conventions
+## DS to Wikidata
+
+This directory (`ds-to-wikidata`) contains files used in an ongoing project to create items and upload description information about manuscript objects in DS collections to Wikidata. Files for this purpose include an OpenRefine schema for automated upload of data to Wikidata; SPARQL query templates for use in the DS Wikibase query service to generate upload datasets; the datasets generated, processed, and uploaded using OpenRefine (`datasets/inputs`); the resulting URLs for Wikidata items matched to DS-related data (`datasets/outputs`); and a series of crosswalks matching DS authorities to Wikibase items (`crosswalks/entities`), which are needed to match entities in DS data to their equivalents in Wikidata to properly structure properties and their values when creating Wikidata items.
+
+### IIIF
+
+This directory (`iiif`) contains a CSV file for a list of images from the previous DS database (no longer operational) which have been uploaded to and made available on Internet Archive.
+
+### Import
+
+This directory contains archived log files generated during DS Catalog prototype development.
+
+### Internet Archive
+
+This directory (`internet_archive`) contains a CSV file for a list of HTML pages from the previous DS database (no longer operational) rendered as PDFs which have been uploaded to and made available on Internet Archive.
+
+### Member data
+
+This directory (`member-data`) contains import spreadsheets used to upload aggregated, harmonized, and enriched institutional metadata about manuscript objects to the DS Wikibase in accordance with the DS Wikibase data model. Subdirectories are organized by institution and by YYYY-MM.
+
+### Terms
+
+This directory (`terms`) contains archived (`prototype-and-beta`) and active (`batch` and `reconciled`) files used in data reconciliation and enrichment of institutional metadata to transform it into DS data. CSV files found in the `reconciled` subdirectory are data dictionaries for types of metadata which are matched to DS authorities to faciliate automated data enrichment. These data dictionaries have been aggregated and updated with new contributions of institutional data during the life of the DS Catalog project. CSV files found in the `batch` subdirectory are archived versions of enriched data by individual dataset contributed, organized by date, and named using the file naming convention included in this document.
+
+### Test
+
+This directory contains archived test files generated during DS Catalog prototype development.
+
+### Workflow
+
+This directory contains archived workflow documents and files generated during DS Catalog prototype development.
+
+## General rules for file naming conventions
 
 New files should be called: `DATE-name.csv`, where `DATE` is the date the file was created in `YYYYMMDD` format and `name` is a description, like `jhu`, `combined`, `upenn`, etc. When more than one descriptor is applied, descriptors are separated by a dash, such as in `20220920-language-combined-enriched`. In addition, when `element` is provided in the instructions, it is a description of the metadata element, field, or type of data, such as in `languages.csv`, `named-subjects-unreconciled.csv`, or `20220705-places-combined-enriched.csv`. 
 
@@ -49,7 +81,6 @@ See also instructions at [ds-open-refine/instructions/](https://github.com/Digit
 3. Click on `Add File` button and click `Upload files` from context menu (file to be uploaded should be 'element.csv`).
 4. Drag and drop or `choose your files` to be uploaded.
 5. `Commit changes` directly to main branch.
-
 
 ## Directory structure
 
