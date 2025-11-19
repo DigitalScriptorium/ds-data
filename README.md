@@ -1,6 +1,22 @@
 # Digital Scriptorium data
 
-This repository is for CSVs of DS data at various stages of extraction, transformation, and enrichment. It also includes RDF and JSON data extracted from our linked database for display and search through a user interface.
+## Introduction
+
+This repository is for storing and sharing files for various projects related to the Digital Scriptorium (DS) Catalog, including data reuse initiatives such as creation of Wikidata items for manuscript objects owned by DS member institutions.
+
+Please note that DS data is made available to the public under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+The ds-data repository principally contains CSVs of DS data at various stages of extraction, transformation, and enrichment. It also includes RDF and JSON data extracted from our linked database for display and search through a user interface.
+
+## Directory information
+
+### Data model
+
+This directory is dedicated to JSON files containing specifications for items and properties found in the DS Wikibase, based on the DS data model.
+
+### DS to SDBM
+
+This directory contains files generated through the DS Wikibase query service which are used to upload batch files into the Schoenberg Database of Manuscripts (SDBM) to create manuscript observations (`inputs`) and resulting data extracted from the SDBM after uploading and manual processing of additional information (`outputs`).
 
 ## File naming conventions
 
