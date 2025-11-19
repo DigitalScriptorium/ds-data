@@ -18,7 +18,7 @@ This directory (`data-model`) is dedicated to JSON files containing specificatio
 
 This directory (`ds-to-sdbm`) contains files generated through the DS Wikibase query service which are used to upload batch files into the Schoenberg Database of Manuscripts (SDBM) to create manuscript observations (`inputs`) and resulting data extracted from the SDBM after uploading and manual processing of additional information (`outputs`).
 
-## DS to Wikidata
+### DS to Wikidata
 
 This directory (`ds-to-wikidata`) contains files used in an ongoing project to create items and upload description information about manuscript objects in DS collections to Wikidata. Files for this purpose include an OpenRefine schema for automated upload of data to Wikidata; SPARQL query templates for use in the DS Wikibase query service to generate upload datasets; the datasets generated, processed, and uploaded using OpenRefine (`datasets/inputs`); the resulting URLs for Wikidata items matched to DS-related data (`datasets/outputs`); and a series of crosswalks matching DS authorities to Wikibase items (`crosswalks/entities`), which are needed to match entities in DS data to their equivalents in Wikidata to properly structure properties and their values when creating Wikidata items.
 
