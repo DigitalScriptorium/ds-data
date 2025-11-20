@@ -6,7 +6,7 @@ This repository is for storing and sharing files for various projects related to
 
 Please note that DS data is made available to the public under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
-The ds-data repository principally contains CSVs of DS data at various stages of extraction, transformation, and enrichment. It also includes RDF and JSON data extracted from our linked database for display and search through a user interface.
+The ds-data repository principally contains CSVs of DS data at various stages of extraction, transformation, and enrichment. It also includes data in other formats (e.g., JSON, RDF) related to the DS Wikibase (our linked database infrastructure) and used in applications for display and search through a user interface.
 
 ## Directory information
 
