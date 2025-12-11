@@ -1,0 +1,32 @@
+subject_as_recorded,vocab,subfield_codes,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Catholic Church--Liturgy--Early works to 1800,0,a--x--v,,,,,Catholic Church;Liturgics;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1411636,Q310;Q207;Q300
+Franciscans--Liturgy--Early works to 1800,0,a--x--v,,,,,Franciscans;Liturgics;Early works,http://id.worldcat.org/fast/530004;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1411636,Q5840;Q207;Q300
+Catholic Church,fast,a,(OCoLC)fst00531720--http://id.worldcat.org/fast/531720,,,,Catholic Church,http://id.worldcat.org/fast/531720,Q310
+Franciscans,fast,a,(OCoLC)fst00530004--http://id.worldcat.org/fast/530004,,,,Franciscans,http://id.worldcat.org/fast/530004,Q5840
+Catholic Church--Liturgy--Texts--Early works to 1800,0,a--x--v--v,,,,,Catholic Church;Liturgics;Texts;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636,Q310;Q207;Q3066;Q300
+Catholic Church,fast,a,(OCoLC)fst00531720,,,,Catholic Church,http://id.worldcat.org/fast/531720,Q310
+Catholic Church--Prayers and devotions--Early works to 1800,0,a--v--v,,,,,Catholic Church;Prayers and devotions;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q310;Q3052;Q300
+Bible--Dictionaries--Early works to 1800,0,a--v--v,,,,,Bible;Dictionaries;Early works,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1423826;http://id.worldcat.org/fast/1411636,Q4267;Q3041;Q300
+Lord's prayer--Commentaries--Early works to 1800,0,a--v--v,,,,,Lord's prayer;Commentaries;Early works,http://id.worldcat.org/fast/1356166;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q7132;Q2812;Q300
+Vitae patrum.--Selections,0,a--k,,,,,Vitae patrum;Excerpts,http://id.worldcat.org/fast/1361599;http://id.worldcat.org/fast/1692837,Q48504;Q3547
+Bible,fast,a,(OCoLC)fst01356024,,,,Bible,http://id.worldcat.org/fast/1356024,Q4267
+Lord's prayer,fast,a,(OCoLC)fst01356166,,,,Lord's prayer,http://id.worldcat.org/fast/1356166,Q7132
+Vitae patrum,fast,a,(OCoLC)fst01361599,,,,Vitae patrum,http://id.worldcat.org/fast/1361599,Q48504
+Cistercians--Liturgy--Early works to 1800,0,a--x--v,,,,,Cistercians;Liturgics;Early works,http://id.worldcat.org/fast/554661;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1411636,Q2799;Q207;Q300
+Cistercians,fast,a,(OCoLC)fst00554661,,,,Cistercians,http://id.worldcat.org/fast/554661,Q2799
+Qurʼan--Geography--Early works to 1800,0,a--x--v,,,,,Qurʼan;Geography;Early works,http://id.worldcat.org/fast/1842877;http://id.worldcat.org/fast/940469;http://id.worldcat.org/fast/1411636,Q11441;Q191;Q300
+"ʻAlī ibn Abī Ṭālib, Caliph, approximately 600-661--Imamate",0,a;c;d--x,,"ʻAlī ibn Abī Ṭālib, Caliph, approximately 600-661;Imamate",http://id.worldcat.org/fast/1804105;http://id.worldcat.org/fast/967643,Q11345;Q48790,,,
+"ʻAlī ibn Abī Ṭālib, Caliph, approximately 600-661--Prayers and devotions",0,a;c;d--v,,"ʻAlī ibn Abī Ṭālib, Caliph, approximately 600-661;Prayers and devotions",http://id.worldcat.org/fast/1804105;http://id.worldcat.org/fast/1423909,Q11345;Q3052,,,
+Qurʼan.--Selections,0,a--k,,,,,Qurʼan;Excerpts,http://id.worldcat.org/fast/1842877;http://id.worldcat.org/fast/1692837,Q11441;Q3547
+Qurʼan--Prayers,0,a--v,,,,,Qurʼan;Prayers,http://id.worldcat.org/fast/1842877;http://id.worldcat.org/fast/1939841,Q11441;Q38528
+"Muḥammad, Prophet, -632--Prayers and devotions",0,a;c;d--v,,,,,"Muḥammad, Prophet, -632;Prayers and devotions",http://id.worldcat.org/fast/1836298;http://id.worldcat.org/fast/1423909,Q3639;Q3052
+"Wycliffe, John, -1384--Manuscripts",0,a;d--v,,"Wycliffe, John, -1384;Manuscripts",http://id.worldcat.org/fast/1858991;http://id.worldcat.org/fast/1424060,Q7423;Q331,,,
+Dominicans--Liturgy--Texts--Early works to 1800,0,a--x--v--v,,,,,Dominicans;Liturgics;Texts;Early works,http://id.worldcat.org/fast/533548;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636,Q181;Q207;Q3066;Q300
+Catholic Church--Liturgy--Texts--Early works to 1800,0,a--x--x--v,,,,,Catholic Church;Liturgics;Texts;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636,Q310;Q207;Q3066;Q300
+Augustinians--Liturgy--Texts--Early works to 1800,0,a--x--x--v,,Augustinians;Liturgics;Texts;Early works,http://id.worldcat.org/fast/549127;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636,Q7391;Q207;Q3066;Q300,,,
+Benedictines--Liturgy--Texts--Early works to 1800,0,a--x--v--v,,Benedictines;Liturgics;Texts;Early works,http://id.worldcat.org/fast/553736;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636,Q6908;Q207;Q3066;Q300,,,
+Bible. Corinthians.--Latin--Commentaries--Early works to 1800,0,a;p--l--v--v,,Bible. Corinthians;Latin language;Commentaries;Early works,http://id.worldcat.org/fast/1892891;http://id.worldcat.org/fast/993125;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q67980;Q4170;Q2812;Q300,,,
+Bible. Romans.--Latin--Commentaries--Early works to 1800,0,a;p--l--v--v,,Bible. Romans;Latin language;Commentaries;Early works,http://id.worldcat.org/fast/1892944;http://id.worldcat.org/fast/993125;http://id.worldcat.org/fast/1423723;http://id.worldcat.org/fast/1411636,Q7944;Q4170;Q2812;Q300,,,
+"Puñonrostro, Juan Arias de Avila Portocarrero, conde de, active 16th century",0,a;c;d,http://id.loc.gov/authorities/names/n85344603,,,,,,
+Qurʼan. Sūrat al-Aʻrāf,0,a;p,,,,,Qurʼan. Sūrat al-Aʻrāf,http://id.worldcat.org/fast/1842890,Q6868
+Qurʼan. Sūrat al-Rūm,0,a;p,,,,,Qurʼan. Sūrat al-Rūm,http://id.worldcat.org/fast/1842920,Q38763
