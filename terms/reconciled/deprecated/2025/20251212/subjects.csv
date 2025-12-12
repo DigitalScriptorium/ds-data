@@ -33,7 +33,6 @@ subject_as_recorded,vocab,subfield_codes,source_authority_uri,authorized_label,s
 13th century,openn-keywords,,,Thirteenth century,http://id.worldcat.org/fast/1150138,Q245
 13th century,openn-subjects,,,Thirteenth century,http://id.worldcat.org/fast/1150138,Q245
 13th century.,fast,a,,Thirteenth century,http://id.worldcat.org/fast/1150138,Q245
-1400 - 1499,fast,a,,Fifteenth century,http://id.worldcat.org/fast/923962,Q154
 1400-1499,fast,a,,Fifteenth century,http://id.worldcat.org/fast/923962,Q154
 1400-1599,fast,a,,Fifteenth century;Sixteenth century,http://id.worldcat.org/fast/923962;http://id.worldcat.org/fast/1119851,Q154;Q335
 1400-1899,fast,a,,Fifteenth century;Sixteenth century;Seventeenth century;Eighteenth century;Nineteenth century,http://id.worldcat.org/fast/923962;http://id.worldcat.org/fast/1119851;http://id.worldcat.org/fast/1113663;http://id.worldcat.org/fast/904058;http://id.worldcat.org/fast/1037841,Q154;Q335;Q2771;Q3024;Q3538
@@ -4351,7 +4350,6 @@ Education,fast,a,http://id.worldcat.org/fast/902499,Education,http://id.worldcat
 "Education, Greek--Controversial literature.",0,a--v,,"Education, Greek;Controversial literature",http://id.worldcat.org/fast/903002;http://id.worldcat.org/fast/1423907,Q3014;Q2992
 "Education, Higher--Mexico--Mexico City--History--16th century--Sources",0,a--z--z--x--y--v,,"Education, Higher;Mexico--Mexico City;History;Sixteenth century;Sources",http://id.worldcat.org/fast/903005;http://id.worldcat.org/fast/1206137;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1119851;http://id.worldcat.org/fast/1423900,Q66930;Q55272;Q6879;Q335;Q2769
 "Education, Medieval",0,a,http://id.loc.gov/authorities/subjects/sh85041071,"Education, Medieval",http://id.worldcat.org/fast/903153,Q16316
-"Education, Medieval--Early works to 1800",0,a--v,,"Education, Medieval",http://id.worldcat.org/fast/903153,Q16316;Q300
 "Education, Medieval--Textbooks--Early works to 1800",0,a--v--v,,"Education, Medieval;Textbooks;Early works",http://id.worldcat.org/fast/903153;http://id.worldcat.org/fast/1423863;http://id.worldcat.org/fast/1411636,Q16316;Q12633;Q300
 "Education, Medieval--Textbooks--Early works to 1800.",0,a--v--v,,"Education, Medieval;Textbooks;Early works",http://id.worldcat.org/fast/903153;http://id.worldcat.org/fast/1423863;http://id.worldcat.org/fast/1411636,Q16316;Q12633;Q300
 Education.,fast,a,http://id.worldcat.org/fast/902499,Education,http://id.worldcat.org/fast/902499,Q7479
@@ -5137,7 +5135,6 @@ Flemish,openn-subjects,,,Flemish (culture or style),http://vocab.getty.edu/aat/3
 Florence (Italie)--Administration--1421-1737,6,a--x--y,,Italy--Florence;Administration,http://id.worldcat.org/fast/1204699;http://id.worldcat.org/fast/1351613,Q3604;Q6907
 Florence (Italie)--Histoire--Jusqu'à 1421--Ouvrages avant 1800,6,a--x--y--v,,Italy--Florence;History;Early works,http://id.worldcat.org/fast/1204699;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q3604;Q6879;Q300
 Florence (Italy),0,a,http://id.loc.gov/authorities/names/n79027120,Italy--Florence,http://id.worldcat.org/fast/1204699,Q3604
-Florence (Italy)--14th century--Sources,0,a--y--v,,Italy--Florence,http://id.worldcat.org/fast/1204699,Q3604;Q295;Q2769
 Florence (Italy)--Church history,0,a--x,http://id.loc.gov/authorities/subjects/sh2008115036,Italy--Florence;Church history,http://id.worldcat.org/fast/1204699;http://id.worldcat.org/fast/860740,Q3604;Q38895
 Florence (Italy)--Church history.,0,a--x,http://id.loc.gov/authorities/subjects/sh2008115036,Italy--Florence;Church history,http://id.worldcat.org/fast/1204699;http://id.worldcat.org/fast/860740,Q3604;Q38895
 Florence (Italy)--Church history--15th century--Sources,0,a--x--y--v,,Italy--Florence;Church history;Fifteenth century;Sources,http://id.worldcat.org/fast/1204699;http://id.worldcat.org/fast/860740;http://id.worldcat.org/fast/923962;http://id.worldcat.org/fast/1423900,Q3604;Q38895;Q154;Q2769
@@ -5490,8 +5487,6 @@ Friendship--Philosophy,fast,a--x,,Friendship--Philosophy,http://id.worldcat.org/
 Friendship--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,Friendship--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/935186;http://id.worldcat.org/fast/1411636,Q64202;Q300
 Friuli (Italy)--History,0,a--x,,Italy--Friuli;History,http://id.worldcat.org/fast/1245492;http://id.worldcat.org/fast/958235,Q4963;Q6879
 Friuli (Italy)--History.,0,a--x,,Italy--Friuli;History,http://id.worldcat.org/fast/1245492;http://id.worldcat.org/fast/958235,Q4963;Q6879
-Friuli (Italy)--History--15th century--Sources,0,a--x--y--v,,Italy--Friuli,http://id.worldcat.org/fast/1245492,Q4963;Q6879;Q154;Q2769
-Friuli (Italy)--History--16th century--Sources,0,a--x--y--v,,Italy--Friuli,http://id.worldcat.org/fast/1245492,Q4963;Q6879;Q335;Q2769
 Frosinone (Italy : Province),0,a,http://id.loc.gov/authorities/names/n82051083,Italy--Frosinone (Province),http://id.worldcat.org/fast/1331460,Q8149
 Fruit trade,fast,a,http://id.worldcat.org/fast/935698,Fruit trade,http://id.worldcat.org/fast/935698,Q76459
 Fruit trade--Egypt--History--To 1500,0,a--z--x--y,,Fruit trade;Egypt;History,http://id.worldcat.org/fast/935698;http://id.worldcat.org/fast/1208755;http://id.worldcat.org/fast/958235,Q76459;Q11259;Q6879
@@ -7111,7 +7106,6 @@ Illumination of books and manuscripts,fast,a,http://id.worldcat.org/fast/967235,
 "Illumination of books and manuscripts, Carolingian",fast,a,http://id.worldcat.org/fast/967267,"Illumination of books and manuscripts, Carolingian",http://id.worldcat.org/fast/967267,Q342
 "Illumination of books and manuscripts, Carolingian--Specimens",0,a--v,,"Illumination of books and manuscripts, Carolingian;Specimens",http://id.worldcat.org/fast/967267;http://id.worldcat.org/fast/1423861,Q342;Q239
 "Illumination of books and manuscripts, Dutch",0,a,,"Illumination of books and manuscripts, Dutch",http://id.worldcat.org/fast/967281,Q108621
-"Illumination of books and manuscripts, English--14th century",0,a--y,,"Illumination of books and manuscripts, English",http://id.worldcat.org/fast/967283,Q108687;Q295
 "Illumination of books and manuscripts, Ethiopian",0,a,http://id.loc.gov/authorities/subjects/sh88000554,"Illumination of books and manuscripts, Ethiopian",http://id.worldcat.org/fast/967285,Q68062
 "Illumination of books and manuscripts, Ethiopian",fast,a,(OCoLC)fst00967285,"Illumination of books and manuscripts, Ethiopian",http://id.worldcat.org/fast/967285,Q68062
 "Illumination of books and manuscripts, Ethiopian",fast,a,http://id.worldcat.org/fast/fst00967285,"Illumination of books and manuscripts, Ethiopian",http://id.worldcat.org/fast/967285,Q68062
@@ -7124,7 +7118,6 @@ Illumination of books and manuscripts,fast,a,http://id.worldcat.org/fast/967235,
 "Illumination of books and manuscripts, French",0,a,,"Illumination of books and manuscripts, French",http://id.worldcat.org/fast/967289,Q7494
 "Illumination of books and manuscripts, French",fast,a,http://id.worldcat.org/fast/967289,"Illumination of books and manuscripts, French",http://id.worldcat.org/fast/967289,Q7494
 "Illumination of books and manuscripts, French.",fast,a,http://id.worldcat.org/fast/967289,"Illumination of books and manuscripts, French",http://id.worldcat.org/fast/967289,Q7494
-"Illumination of books and manuscripts, French--14th century",0,a--y,,"Illumination of books and manuscripts, French",http://id.worldcat.org/fast/967289,Q7494;Q295
 "Illumination of books and manuscripts, French--16th century",0,a--y,,"Illumination of books and manuscripts, French;Sixteenth century",http://id.worldcat.org/fast/967289;http://id.worldcat.org/fast/1119851,Q7494;Q335
 "Illumination of books and manuscripts, French--France--Paris",0,a--z--z,,"Illumination of books and manuscripts, French;France--Paris",http://id.worldcat.org/fast/967289;http://id.worldcat.org/fast/1205283,Q7494;Q27297
 "Illumination of books and manuscripts, French--France--Paris--14th century",0,a--z--z--y,,"Illumination of books and manuscripts, French;France--Paris;Fourteenth century",http://id.worldcat.org/fast/967289;http://id.worldcat.org/fast/1205283;http://id.worldcat.org/fast/933420,Q7494;Q27297;Q295
@@ -7174,7 +7167,6 @@ Illumination of books and manuscripts,fast,a,http://id.worldcat.org/fast/967235,
 "Illumination of books and manuscripts, Jewish--Specimens",0,a--v,,Jewish illumination of books and manuscripts;Specimens,http://id.worldcat.org/fast/1730505;http://id.worldcat.org/fast/1423861,Q3562;Q239
 "Illumination of books and manuscripts, Medieval",fast,a,(OCoLC)fst00967326,"Illumination of books and manuscripts, Medieval",http://id.worldcat.org/fast/967326,Q27352
 "Illumination of books and manuscripts, Medieval--Belgium--Specimens",0,a--z--v,,"Illumination of books and manuscripts, Medieval;Belgium;Specimens",http://id.worldcat.org/fast/967326;http://id.worldcat.org/fast/1210278;http://id.worldcat.org/fast/1423861,Q27352;Q16301;Q239
-"Illumination of books and manuscripts, Medieval--France",0,a--z,,"Illumination of books and manuscripts, Medieval",http://id.worldcat.org/fast/967326,Q27352;Q152
 "Illumination of books and manuscripts, Medieval--France--Specimens",0,a--z--v,,"Illumination of books and manuscripts, Medieval;France;Specimens",http://id.worldcat.org/fast/967326;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1423861,Q27352;Q152;Q239
 "Illumination of books and manuscripts, Medieval--Italy--Specimens",0,a--z--v,,"Illumination of books and manuscripts, Medieval;Italy;Specimens",http://id.worldcat.org/fast/967326;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1423861,Q27352;Q249;Q239
 "Illumination of books and manuscripts, Medieval--Specimens",0,a--v,,"Illumination of books and manuscripts, Medieval;Specimens",http://id.worldcat.org/fast/967326;http://id.worldcat.org/fast/1423861,Q27352;Q239
@@ -7196,7 +7188,6 @@ Illumination of books and manuscripts--Early works to 1800.,0,a--x,,Illumination
 Illumination of books and manuscripts--Early works to 1800--Specimens,0,a--v--v,,Illumination of books and manuscripts;Early works;Specimens,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1423861,Q272;Q300;Q239
 Illumination of books and manuscripts--England--14th century,0,a--z--y,,Illumination of books and manuscripts;England;Fourteenth century,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/933420,Q272;Q320;Q295
 Illumination of books and manuscripts--France,0,a--z,,Illumination of books and manuscripts;France,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1204289,Q272;Q152
-Illumination of books and manuscripts--France--14th century,0,a--z--y,,Illumination of books and manuscripts,http://id.worldcat.org/fast/967235,Q272;Q152;Q295
 Illumination of books and manuscripts--France--15th century,0,a--z--y,,Illumination of books and manuscripts;France;Fifteenth century,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/923962,Q272;Q152;Q154
 Illumination of books and manuscripts--France--Early works to 1800,0,a--z--v,,Illumination of books and manuscripts;France;Early works,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1411636,Q272;Q152;Q300
 Illumination of books and manuscripts--France--Reims--Specimens,0,a--z--z--v,,Illumination of books and manuscripts;France--Reims;Specimens,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1214167;http://id.worldcat.org/fast/1423861,Q272;Q66990;Q239
@@ -7205,7 +7196,6 @@ Illumination of books and manuscripts--France--Specimens.,0,a--z--v,,Illuminatio
 Illumination of books and manuscripts--Germany,0,a--z,,Illumination of books and manuscripts;Germany,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1210272,Q272;Q3032
 Illumination of books and manuscripts--Germany--Early works to 1800,0,a--z--v,,Illumination of books and manuscripts;Germany;Early works,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/1411636,Q272;Q3032;Q300
 Illumination of books and manuscripts--Germany--Nuremberg,0,a--z--z,,Illumination of books and manuscripts;Germany--Nuremberg,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1207726,Q272;Q4936
-Illumination of books and manuscripts--Iran,0,a--z,,Illumination of books and manuscripts,http://id.worldcat.org/fast/967235,Q272;Q16384
 Illumination of books and manuscripts--Italy,0,a--z,,Illumination of books and manuscripts;Italy,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1204565,Q272;Q249
 Illumination of books and manuscripts--Italy--15th century,0,a--z--y,,Illumination of books and manuscripts;Italy;Fifteenth century,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/923962,Q272;Q249;Q154
 Illumination of books and manuscripts--Italy--Ferrara,0,a--z--z,,Illumination of books and manuscripts;Italy--Ferrara,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1204575,Q272;Q7179
@@ -7213,7 +7203,6 @@ Illumination of books and manuscripts--Italy--Milan--Early works to 1800,0,a--z-
 Illumination of books and manuscripts--Italy--Vicenza--Early works to 1800,0,a--z--z--v,,Illumination of books and manuscripts;Italy--Vicenza;Early works,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1204960;http://id.worldcat.org/fast/1411636,Q272;Q4253;Q300
 Illumination of books and manuscripts--Mexico--Mexico City,0,a--z--z,,Illumination of books and manuscripts;Mexico--Mexico City,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1206137,Q272;Q55272
 Illumination of books and manuscripts--Netherlands,0,a--z,,Illumination of books and manuscripts;Netherlands,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1204034,Q272;Q12555
-Illumination of books and manuscripts--Netherlands--13th century,0,a--z--y,,Illumination of books and manuscripts,http://id.worldcat.org/fast/967235,Q272;Q5863;Q245
 Illumination of books and manuscripts--Spain,0,a--z,,Illumination of books and manuscripts;Spain,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1204303,Q272;Q343
 Illumination of books and manuscripts--Spain--Granada,0,a--z--z,,Illumination of books and manuscripts;Spain--Granada,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1207338,Q272;Q48477
 Illumination of books and manuscripts--Spain--Granada--Specimens,0,a--z--z--v,,Illumination of books and manuscripts;Spain--Granada;Specimens,http://id.worldcat.org/fast/967235;http://id.worldcat.org/fast/1207338;http://id.worldcat.org/fast/1423861,Q272;Q48477;Q239
@@ -10278,7 +10267,6 @@ Manuscripts,fast,a,http://id.worldcat.org/fast/1008230,Manuscripts,http://id.wor
 "Manuscripts, Arabic--17th century",openn-subjects,,,"Manuscripts, Arabic;Seventeenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1113663,Q256;Q2771
 "Manuscripts, Arabic--18th century",openn-subjects,,,"Manuscripts, Arabic;Eighteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/904058,Q256;Q3024
 "Manuscripts, Arabic--18th century",0,a--y,,"Manuscripts, Arabic;Eighteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/904058,Q256;Q3024
-"Manuscripts, Arabic--19th century",0,a--y,,"Manuscripts, Arabic",http://id.worldcat.org/fast/1008278,Q256;Q3538
 "Manuscripts, Arabic--19th century",openn-subjects,,,"Manuscripts, Arabic;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1037841,Q256;Q3538
 "Manuscripts, Arabic--19th century",lcsh,a--y,,"Manuscripts, Arabic;Nineteenth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1037841,Q256;Q3538
 "Manuscripts, Arabic--20th century",0,a--y,,"Manuscripts, Arabic;Twentieth century",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1159810,Q256;Q5942
@@ -10308,7 +10296,6 @@ Manuscripts,fast,a,http://id.worldcat.org/fast/1008230,Manuscripts,http://id.wor
 "Manuscripts, Armenian",fast,a,(OCoLC)fst01008290,"Manuscripts, Armenian",http://id.worldcat.org/fast/1008290,Q2964
 "Manuscripts, Armenian--California--Berkeley",0,a--z--z,,"Manuscripts, Armenian;California--Berkeley",http://id.worldcat.org/fast/1008290;http://id.worldcat.org/fast/1205020,Q2964;Q48231
 "Manuscripts, Armenian--Cyprus",0,a--z,,"Manuscripts, Armenian;Cyprus",http://id.worldcat.org/fast/1008290;http://id.worldcat.org/fast/1205213,Q2964;Q7162
-"Manuscripts, Armenian--Iran--Iṣfahān",0,a--z--z,,"Manuscripts, Armenian",http://id.worldcat.org/fast/1008290,Q2964;Q48723
 "Manuscripts, Armenian--Massachusetts--Boston",0,a--z--z,,"Manuscripts, Armenian;Massachusetts--Boston",http://id.worldcat.org/fast/1008290;http://id.worldcat.org/fast/1205012,Q2964;Q16365
 "Manuscripts, Armenian--Massachusetts--Boston.",0,a--z--z,,"Manuscripts, Armenian;Massachusetts--Boston",http://id.worldcat.org/fast/1008290;http://id.worldcat.org/fast/1205012,Q2964;Q16365
 "Manuscripts, Armenian -- Massachusetts -- Williamstown",ds-subject,,,"Manuscripts, Armenian;Massachusetts--Williamstown",http://id.worldcat.org/fast/1008290;http://id.worldcat.org/fast/1215172,Q2964;Q76537
@@ -10559,7 +10546,6 @@ Manuscripts,fast,a,http://id.worldcat.org/fast/1008230,Manuscripts,http://id.wor
 "Manuscripts, Latin (Medieval and modern)--France",0,a--z,(uri) http://id.loc.gov/authorities/subjects/sh85080735,"Manuscripts, Latin (Medieval and modern);France",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204289,Q10783;Q152
 "Manuscripts, Latin (Medieval and modern)--France.",0,a--z,(uri) http://id.loc.gov/authorities/subjects/sh85080735,"Manuscripts, Latin (Medieval and modern);France",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204289,Q10783;Q152
 "Manuscripts, Latin (Medieval and modern)--France--14th century",0,a--z--y,,"Manuscripts, Latin (Medieval and modern);France;Fourteenth century",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/933420,Q10783;Q152;Q295
-"Manuscripts, Latin (Medieval and modern)--France--15th century",0,a--z--y,,"Manuscripts, Latin (Medieval and modern)",http://id.worldcat.org/fast/1008399,Q10783;Q152;Q154
 "Manuscripts, Latin (Medieval and modern)--France--Paris",0,a--z--z,,"Manuscripts, Latin (Medieval and modern);France--Paris",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1205283,Q10783;Q27297
 "Manuscripts, Latin (Medieval and modern)--France--Specimens",0,a--z--v,,"Manuscripts, Latin (Medieval and modern);France;Specimens",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1423861,Q10783;Q152;Q239
 "Manuscripts, Latin (Medieval and modern)--Germany",0,a--z,,"Manuscripts, Latin (Medieval and modern);Germany",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1210272,Q10783;Q3032
@@ -10594,7 +10580,6 @@ Manuscripts,fast,a,http://id.worldcat.org/fast/1008230,Manuscripts,http://id.wor
 "Manuscripts, Latin (Medieval and modern)--Michigan--Kalamazoo",0,a--z--z,,"Manuscripts, Latin (Medieval and modern);Michigan--Kalamazoo",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204469,Q10783;Q27166
 "Manuscripts, Latin (Medieval and modern)--Missouri--Saint Louis",0,a--z--z,,"Manuscripts, Latin (Medieval and modern);Missouri--Saint Louis",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204930,Q10783;Q38990
 "Manuscripts, Latin (Medieval and modern)--Netherlands",0,a--z,,"Manuscripts, Latin (Medieval and modern);Netherlands",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204034,Q10783;Q5863
-"Manuscripts, Latin (Medieval and modern)--Netherlands--13th century",0,a--z--y,,"Manuscripts, Latin (Medieval and modern)",http://id.worldcat.org/fast/1008399,Q10783;Q5863;Q245
 "Manuscripts, Latin (Medieval and modern)--New Jersey--Princeton",0,a--z--z,(uri) http://id.loc.gov/authorities/subjects/sh85080735,"Manuscripts, Latin (Medieval and modern);New Jersey--Princeton",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204939,Q10783;Q11460
 "Manuscripts, Latin (Medieval and modern)--New Jersey--Princeton",0,a--z--z,,"Manuscripts, Latin (Medieval and modern);New Jersey--Princeton",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204939,Q10783;Q11460
 "Manuscripts, Latin (Medieval and modern)--New Jersey--Princeton.",0,a--z--z,,"Manuscripts, Latin (Medieval and modern);New Jersey--Princeton",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204939,Q10783;Q11460
@@ -10604,8 +10589,6 @@ Manuscripts,fast,a,http://id.worldcat.org/fast/1008230,Manuscripts,http://id.wor
 "Manuscripts, Latin (Medieval and modern)--Scotland",0,a--z,,"Manuscripts, Latin (Medieval and modern);Scotland",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1206715,Q10783;Q38497
 "Manuscripts, Latin (Medieval and modern)--Spain",0,a--z,,"Manuscripts, Latin (Medieval and modern);Spain",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204303,Q10783;Q343
 "Manuscripts, Latin (Medieval and modern)--Spain.",0,a--z,,"Manuscripts, Latin (Medieval and modern);Spain",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1204303,Q10783;Q343
-"Manuscripts, Latin (Medieval and modern)--Spain--17th century",0,a--z--y,,"Manuscripts, Latin (Medieval and modern)",http://id.worldcat.org/fast/1008399,Q10783;Q343;Q2771
-"Manuscripts, Latin (Medieval and modern)--Spain--18th century",0,a--z--y,,"Manuscripts, Latin (Medieval and modern)",http://id.worldcat.org/fast/1008399,Q10783;Q343;Q3024
 "Manuscripts, Latin (Medieval and modern)--Specimens",0,a--v,,"Manuscripts, Latin (Medieval and modern);Specimens",http://id.worldcat.org/fast/1008399;http://id.worldcat.org/fast/1423861,Q10783;Q239
 "Manuscripts, Latin (Mediveal and modern)",0,a,,"Manuscripts, Latin (Medieval and modern)",http://id.worldcat.org/fast/1008399,Q10783
 "Manuscripts, Latin (Papyri)--New Jersey--Princeton",0,a--z--z,,"Manuscripts, Latin (Papyri);New Jersey--Princeton",http://id.worldcat.org/fast/1008407;http://id.worldcat.org/fast/1204939,Q12665;Q11460
@@ -10660,8 +10643,6 @@ Manuscripts,fast,a,http://id.worldcat.org/fast/1008230,Manuscripts,http://id.wor
 "Manuscripts, Medieval -- England -- Specimens",ds-subject,,,"Manuscripts, Medieval;England;Specimens",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/1423861,Q325;Q320;Q239
 "Manuscripts, Medieval--France",0,a--z,http://id.loc.gov/authorities/subjects/sh2010100574,"Manuscripts, Medieval;France",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204289,Q325;Q152
 "Manuscripts, Medieval--France",0,a--z,,"Manuscripts, Medieval;France",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204289,Q325;Q152
-"Manuscripts, Medieval--France--14th century",0,a--z--y,,"Manuscripts, Medieval",http://id.worldcat.org/fast/1008422,Q325;Q152;Q295
-"Manuscripts, Medieval--France--15th century",0,a--z--y,,"Manuscripts, Medieval",http://id.worldcat.org/fast/1008422,Q325;Q152;Q154
 "Manuscripts, Medieval--France--15th century.",ds-subject,,,"Manuscripts, Medieval;France;Fifteenth century",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/923962,Q325;Q152;Q154
 "Manuscripts, Medieval--France--Paris",0,a--z--z,,"Manuscripts, Medieval;France--Paris",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1205283,Q325;Q27297
 "Manuscripts, Medieval--Germany",0,a--z,,"Manuscripts, Medieval;Germany",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1210272,Q325;Q3032
@@ -10683,7 +10664,6 @@ Manuscripts,fast,a,http://id.worldcat.org/fast/1008230,Manuscripts,http://id.wor
 "Manuscripts, Medieval--Massachussetts--Boston",0,a--z--z,,"Manuscripts, Medieval;Massachusetts--Boston",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1205012,Q325;Q16365
 "Manuscripts, Medieval--Michigan--Kalamazoo",0,a--z--z,,"Manuscripts, Medieval;Michigan--Kalamazoo",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204469,Q325;Q27166
 "Manuscripts, Medieval--Netherlands",0,a--z,,"Manuscripts, Medieval;Netherlands",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204034,Q325;Q5863
-"Manuscripts, Medieval--Netherlands--13th century",0,a--z--y,,"Manuscripts, Medieval",http://id.worldcat.org/fast/1008422,Q325;Q5863;Q245
 "Manuscripts, Medieval--New Jersey--Princeton",0,a--z--z,(uri) http://id.loc.gov/authorities/subjects/sh85080744,"Manuscripts, Medieval;New Jersey--Princeton",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204939,Q325;Q11460
 "Manuscripts, Medieval--New Jersey--Princeton.",0,a--z--z,(uri) http://id.loc.gov/authorities/subjects/sh85080744,"Manuscripts, Medieval;New Jersey--Princeton",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204939,Q325;Q11460
 "Manuscripts, Medieval--New York (State)--Buffalo",0,a--z--z,,"Manuscripts, Medieval;New York (State)--Buffalo",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1205730,Q325;Q100362
@@ -10902,8 +10882,6 @@ Manuscripts--Portugal--Specimens,0,a--z--v,,Manuscripts;Portugal;Specimens,http:
 Manuscripts--Prices--15th century,0,a--x--y,,Manuscripts--Prices;Fifteenth century,http://id.worldcat.org/fast/1008253;http://id.worldcat.org/fast/923962,Q75457;Q154
 Manuscripts--Prices--17th century,0,a--x--y,,Manuscripts--Prices;Seventeenth century,http://id.worldcat.org/fast/1008253;http://id.worldcat.org/fast/1113663,Q75457;Q2771
 Manuscripts--Prices--Early works to 1800,0,a--x--v,,Manuscripts--Prices;Early works,http://id.worldcat.org/fast/1008253;http://id.worldcat.org/fast/1411636,Q75457;Q300
-Manuscripts--Spain--17th century,0,a--z--y,,Manuscripts,http://id.worldcat.org/fast/1008230,Q38609;Q343;Q2771
-Manuscripts--Spain--18th century,0,a--z--y,,Manuscripts,http://id.worldcat.org/fast/1008230,Q38609;Q343;Q3024
 Manuscripts--Spain--Alcalá de Henares--Specimens,0,a--z--z--v,,Manuscripts;Spain--Alcalá de Henares;Specimens,http://id.worldcat.org/fast/1008230;http://id.worldcat.org/fast/1205149;http://id.worldcat.org/fast/1423861,Q38609;Q48497;Q239
 Manuscripts--Spain--Aragon--Specimens,0,a--z--z--v,,Manuscripts;Spain--Aragon;Specimens,http://id.worldcat.org/fast/1008230;http://id.worldcat.org/fast/1227604;http://id.worldcat.org/fast/1423861,Q38609;Q4227;Q239
 Manuscripts--Spain--Barcelona--Specimens,0,a--z--z--v,,Manuscripts;Spain--Barcelona;Specimens,http://id.worldcat.org/fast/1008230;http://id.worldcat.org/fast/1204531;http://id.worldcat.org/fast/1423861,Q38609;Q8343;Q239
@@ -11505,7 +11483,6 @@ Mensural notation--Early works to 1800,0,a--v,,Mensural notation;Early works,htt
 Mensural notation--Flanders--Early works to 1800,0,a--z--v,,Mensural notation;Europe--Flanders;Early works,http://id.worldcat.org/fast/1016298;http://id.worldcat.org/fast/1245991;http://id.worldcat.org/fast/1411636,Q39008;Q4193;Q300
 Mensural notation--Spain--Early works to 1800,0,a--z--v,,Mensural notation;Spain;Early works,http://id.worldcat.org/fast/1016298;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/1411636,Q39008;Q343;Q300
 Mental health--Religious aspects--19th century,0,a--x--y,,Mental health--Religious aspects;Nineteenth century,http://id.worldcat.org/fast/1016359;http://id.worldcat.org/fast/1037841,Q75459;Q3538
-Mercenary troops--Italy--14th century,0,a--z--y,,Mercenary troops,http://id.worldcat.org/fast/1016918,Q108688;Q249;Q295
 Merchants,fast,a,http://id.worldcat.org/fast/1017057,Merchants,http://id.worldcat.org/fast/1017057,Q266
 Merchants.,fast,a,http://id.worldcat.org/fast/1017057,Merchants,http://id.worldcat.org/fast/1017057,Q266
 Merchants--France--Toulouse,0,a--z--z,,Merchants;France--Toulouse,http://id.worldcat.org/fast/1017057;http://id.worldcat.org/fast/1206080,Q266;Q4151
@@ -15685,7 +15662,6 @@ Shīʻah--Doctrines--History--14th century--Sources,0,a--x--x--y--v,,Shīʻah--D
 Shīʻah--Doctrines--Sources,fast,a--x--x,,Shīʻah--Doctrines--Sources,http://id.worldcat.org/fast/1199631,Q54960
 Shīʻah--Early works to 1800,0,a--v,,Shīʻah;Early works,http://id.worldcat.org/fast/1117946;http://id.worldcat.org/fast/1411636,Q11431;Q300
 Shīʻah--History--16th century--Sources,0,a--x--y--v,,Shīʻah;History;Sixteenth century;Sources,http://id.worldcat.org/fast/1117946;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1119851;http://id.worldcat.org/fast/1423900,Q11431;Q6879;Q335;Q2769
-Shīʻah--Iran,0,a--z,,Shīʻah,http://id.worldcat.org/fast/1117946,Q11431;Q16384
 Shīʻah--Prayers and devotions,0,a--v,http://id.loc.gov/authorities/subjects/sh2010112936,Shīʻah;Prayers and devotions,http://id.worldcat.org/fast/1117946;http://id.worldcat.org/fast/1423909,Q11431;Q3052
 Shīʻah--Prayers and devotions--Early works to 1800,0,a--x--v,,Shīʻah--Prayers and devotions;Early works,http://id.worldcat.org/fast/1426601;http://id.worldcat.org/fast/1411636,Q26712;Q300
 Shīʻah--Prayers and devotions--Early works to 1800,0,a--v--v,,Shīʻah;Prayers and devotions;Early works,http://id.worldcat.org/fast/1117946;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q11431;Q3052;Q300
@@ -16955,7 +16931,6 @@ Titres de propriété--Autriche--Basse-Autriche,6,a--z--z,,Land titles;Austria--
 Tobacco,fast,a,(OCoLC)fst01432109,Tobacco,http://id.worldcat.org/fast/1432109,Q103519
 Tobacco--Early works to 1800,0,a--v,(uri) http://id.loc.gov/authorities/subjects/sh85135709,Tobacco;Early works,http://id.worldcat.org/fast/1432109;http://id.worldcat.org/fast/1411636,Q103519;Q300
 Tobacco use--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,Tobacco use;Islam;Early works,http://id.worldcat.org/fast/1431613;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636,Q101328;Q3549;Q300
-Toledo (Spain : Province)--History--16th century--Sources,0,a--x--y--v,,Spain--Toledo (Province),http://id.worldcat.org/fast/1330716,Q108689;Q6879;Q335;Q2769
 Toledo (Spain)--History--Early works to 1800,0,a--x--v,,Spain--Toledo;History;Early works,http://id.worldcat.org/fast/1204571;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q7141;Q6879;Q300
 Tolls--France--Tarascon (Bouches-du-Rhône)--History--14th century--Sources,0,a--z--z--x--y--v,,Tolls;France--Tarascon (Bouches-du-Rhône);History;Fourteenth century;Sources,http://id.worldcat.org/fast/1152293;http://id.worldcat.org/fast/1312823;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/933420;http://id.worldcat.org/fast/1423900,Q67101;Q67100;Q6879;Q295;Q2769
 Tombs,fast,a,(OCoLC)fst01152439,Tombs,http://id.worldcat.org/fast/1152439,Q11496

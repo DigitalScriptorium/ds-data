@@ -398,6 +398,8 @@ parchemnt,parchment,http://vocab.getty.edu/aat/300011851,Q33
 parchmennt,parchment,http://vocab.getty.edu/aat/300011851,Q33
 parchment,parchment,http://vocab.getty.edu/aat/300011851,Q33
 Parchment,parchment,http://vocab.getty.edu/aat/300011851,Q33
+Parchment(?),parchment,http://vocab.getty.edu/aat/300011851,Q33
+parchment(?) mounted on thin cardstock,parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment,",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, 1 col. ill.",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, 25 col. ill.",parchment,http://vocab.getty.edu/aat/300011851,Q33
@@ -438,8 +440,6 @@ Parchment,parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, decorated initials.",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, ill",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, ill.",parchment,http://vocab.getty.edu/aat/300011851,Q33
-"parchment, ill., coats of arms",parchment,http://vocab.getty.edu/aat/300011851,Q33
-"parchment, ill., illuminations",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, ill., music",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, ill. ; 550 x 382 (365 x 270) mm",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, ill. (some col.)",parchment,http://vocab.getty.edu/aat/300011851,Q33
@@ -448,7 +448,6 @@ Parchment,parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, illuminated, miniatures.",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, illuminated.",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, illumination",parchment,http://vocab.getty.edu/aat/300011851,Q33
-"parchment, illumination, music",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, illuminations",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, illuminations,",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, illuminations, frontispiece, coat of arms",parchment,http://vocab.getty.edu/aat/300011851,Q33
@@ -509,8 +508,6 @@ parchment :,parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment : diagram, calendar",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment : illustrations, illuminations",parchment,http://vocab.getty.edu/aat/300011851,Q33
 parchment.,parchment,http://vocab.getty.edu/aat/300011851,Q33
-Parchment(?),parchment,http://vocab.getty.edu/aat/300011851,Q33
-parchment(?) mounted on thin cardstock,parchment,http://vocab.getty.edu/aat/300011851,Q33
 parchment (9 paper),parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 parchment (goat),parchment,http://vocab.getty.edu/aat/300011851,Q33
 parchment (vellum),parchment,http://vocab.getty.edu/aat/300011851,Q33
