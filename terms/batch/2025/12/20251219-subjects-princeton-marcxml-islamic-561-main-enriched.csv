@@ -1,0 +1,759 @@
+subject_as_recorded,vocab,subfield_codes,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Morocco--History--647-1516,0,a--x--y,http://id.loc.gov/authorities/subjects/sh85087330,Morocco;History,http://id.worldcat.org/fast/1205592;http://id.worldcat.org/fast/958235,Q3567;Q6879,,,
+"Africa, North--History--647-1517",0,a--x--y,http://id.loc.gov/authorities/subjects/sh85001640,North Africa;History,http://id.worldcat.org/fast/1239515;http://id.worldcat.org/fast/958235,Q26769;Q6879,,,
+Spain--History--711-1516,0,a--x--y,http://id.loc.gov/authorities/subjects/sh85126074,,,,Spain;History,http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/958235,Q343;Q6879
+"Manuscripts, Arabic--New Jersey--Princeton",0,a--z--z,,,,,"Manuscripts, Arabic;New Jersey--Princeton",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204939,Q256;Q11460
+Arabic literature--History and criticism,0,a--x,,"Arabic literature;Criticism, interpretation, etc.",http://id.worldcat.org/fast/812478;http://id.worldcat.org/fast/1411635,Q11532;Q177,,,
+"Proverbs, Arabic--History--11th century--Sources",0,a--x--y--v,,"Proverbs, Arabic;History;Eleventh century;Sources",http://id.worldcat.org/fast/1080229;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/908096;http://id.worldcat.org/fast/1423900,Q11252;Q6879;Q306;Q2769,,,
+Islam--Doctrines--History--13th century--Sources,0,a--x--x--y--v,,Islam--Doctrines;History;Thirteenth century;Sources,http://id.worldcat.org/fast/979787;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1150138;http://id.worldcat.org/fast/1423900,Q11301;Q6879;Q245;Q2769,,,
+"Bible stories, Arabic",0,a,http://id.loc.gov/authorities/subjects/sh97004620,"Bible stories, Arabic",http://id.worldcat.org/fast/831270,Q11586,,,
+Account books--Syria,0,a--z,,Account books;Syria,http://id.worldcat.org/fast/795342;http://id.worldcat.org/fast/1208757,Q38801;Q11447,,,
+Agriculture--Taxation--Syria,0,a--x--z,,Agriculture--Taxation;Syria,http://id.worldcat.org/fast/801686;http://id.worldcat.org/fast/1208757,Q110453;Q11447,,,
+Business records--Syria,0,a--z,,Business records;Syria,http://id.worldcat.org/fast/842845;http://id.worldcat.org/fast/1208757,Q68120;Q11447,,,
+Islamic magic,0,a,http://id.loc.gov/authorities/subjects/sh85079615,,,,Islamic magic,http://id.worldcat.org/fast/1730344,Q2807
+Magic squares,0,a,http://id.loc.gov/authorities/subjects/sh85079628,,,,Magic squares,http://id.worldcat.org/fast/1005506,Q4977
+Manuscrits arabes--New Jersey--Princeton,6,a--z--z,,,,,"Manuscripts, Arabic;New Jersey--Princeton",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204939,Q256;Q11460
+"Manuscripts, Arabic",fast,a,,,,,"Manuscripts, Arabic",http://id.worldcat.org/fast/1008278,Q256
+New Jersey--Princeton,fast,a--z,,,,,New Jersey--Princeton,http://id.worldcat.org/fast/1204939,Q11460
+"Manuscripts, Arabic",fast,a,(OCoLC)fst01008278,,,,"Manuscripts, Arabic",http://id.worldcat.org/fast/1008278,Q256
+New Jersey--Princeton,fast,a--z,(OCoLC)fst01204939,,,,New Jersey--Princeton,http://id.worldcat.org/fast/1204939,Q11460
+Syria--History--To 333 B.C.,0,a--x--y,,Syria;History,http://id.worldcat.org/fast/1208757;http://id.worldcat.org/fast/958235,Q11447;Q6879,,,
+Syria--History--333 B.C.-634 A.D.,0,a--x--y,,Syria;History,http://id.worldcat.org/fast/1208757;http://id.worldcat.org/fast/958235,Q11447;Q6879,,,
+Syrie--Histoire--Jusqu'à 333 av. J.-C.,6,a--x--y,,Syria;History,http://id.worldcat.org/fast/1208757;http://id.worldcat.org/fast/958235,Q11447;Q6879,,,
+Syrie--Histoire--333 av. J.-C.-634,6,a--x--y,,Syria;History,http://id.worldcat.org/fast/1208757;http://id.worldcat.org/fast/958235,Q11447;Q6879,,,
+Syria,fast,a,,,,,Syria,http://id.worldcat.org/fast/1208757,Q11447
+To 634,fast,a,,,,,,,
+Maronite rite (Catholic Church),fast,a,,Maronite rite (Catholic Church),http://id.worldcat.org/fast/1695167,Q110382,,,
+Maronite rite (Catholic Church)--Liturgy,fast,a--x,,Maronite rite (Catholic Church)--Liturgy,http://id.worldcat.org/fast/1353664,Q110381,,,
+Christian hagiography--Early works to 1800,0,a--v,,,,,Christian hagiography;Early works,http://id.worldcat.org/fast/859164;http://id.worldcat.org/fast/1411636,Q5913;Q300
+Hagiographie chrétienne--Ouvrages avant 1800,6,a--v,,Christian hagiography;Early works,http://id.worldcat.org/fast/859164;http://id.worldcat.org/fast/1411636,Q5913;Q300,,,
+Antiochene rite (Catholic Church),fast,a,,Antiochene rite (Catholic Church),http://id.worldcat.org/fast/1431858,Q110383,,,
+Christian hagiography,fast,a,,,,,Christian hagiography,http://id.worldcat.org/fast/859164,Q5913
+Catholic Church--Oriental rites--Early works to 1800,0,a--x--v,,Oriental rites (Catholic Church);Early works,http://id.worldcat.org/fast/1695160;http://id.worldcat.org/fast/1411636,Q110454;Q300,,,
+Christian saints--Syria--Early works to 1800,0,a--z--v,,Christian saints;Syria;Early works,http://id.worldcat.org/fast/859491;http://id.worldcat.org/fast/1208757;http://id.worldcat.org/fast/1411636,Q10812;Q11447;Q300,,,
+Christian biography--Syria--Early works to 1800,0,a--z--v,,Christian biography;Syria;Early works,http://id.worldcat.org/fast/858936;http://id.worldcat.org/fast/1208757;http://id.worldcat.org/fast/1411636,Q110404;Q11447;Q300,,,
+Saints chrétiens--Syrie--Ouvrages avant 1800,6,a--z--v,,Christian saints;Syria;Early works,http://id.worldcat.org/fast/859491;http://id.worldcat.org/fast/1208757;http://id.worldcat.org/fast/1411636,Q10812;Q11447;Q300,,,
+Christian biography,fast,a,,Christian biography,http://id.worldcat.org/fast/858936,Q110404,,,
+Christian saints,fast,a,,,,,Christian saints,http://id.worldcat.org/fast/859491,Q10812
+Islam--Rituals,0,a--x,,,,,Islam--Rituals,http://id.worldcat.org/fast/979845,Q11593
+Islam--Customs and practices,0,a--x,,,,,Islam--Customs and practices,http://id.worldcat.org/fast/979785,Q11380
+Islam--Rituel,6,a--x,,,,,Islam--Rituals,http://id.worldcat.org/fast/979845,Q11593
+Islam--Coutumes et pratiques,6,a--x,,,,,Islam--Customs and practices,http://id.worldcat.org/fast/979785,Q11380
+Islam--Customs and practices,fast,a--x,,,,,Islam--Customs and practices,http://id.worldcat.org/fast/979785,Q11380
+Islam--Rituals,fast,a--x,,,,,Islam--Rituals,http://id.worldcat.org/fast/979845,Q11593
+Basmalah--Early works to 1800,0,a--v,,,,,Basmalah;Early works,http://id.worldcat.org/fast/828309;http://id.worldcat.org/fast/1411636,Q11237;Q300
+Islam--Doctrines--Early works to 1800,0,a--x--v,,,,,Islam--Doctrines;Early works,http://id.worldcat.org/fast/979787;http://id.worldcat.org/fast/1411636,Q11301;Q300
+Basmalah--Ouvrages avant 1800,6,a--v,,,,,Basmalah;Early works,http://id.worldcat.org/fast/828309;http://id.worldcat.org/fast/1411636,Q11237;Q300
+Basmalah,fast,a,,,,,Basmalah,http://id.worldcat.org/fast/828309,Q11237
+Islam--Doctrines,fast,a--x,,,,,Islam--Doctrines,http://id.worldcat.org/fast/979787,Q11301
+Days,0,a,,Days,http://id.worldcat.org/fast/888313,Q7470,,,
+"Astrology, Arab",0,a,,,,,"Astrology, Arab",http://id.worldcat.org/fast/819451,Q3616
+Jours,6,a,,Days,http://id.worldcat.org/fast/888313,Q7470,,,
+Astrologie arabe,6,a,,,,,"Astrology, Arab",http://id.worldcat.org/fast/819451,Q3616
+"Astrology, Arab",fast,a,,,,,"Astrology, Arab",http://id.worldcat.org/fast/819451,Q3616
+Days,fast,a,,Days,http://id.worldcat.org/fast/888313,Q7470,,,
+Prayer--Islam--Early works to 1800,0,a--x--v,,,,,Prayer--Islam;Early works,http://id.worldcat.org/fast/1074698;http://id.worldcat.org/fast/1411636,Q11135;Q300
+Jumʿah,0,a,,Jumʻah,http://id.worldcat.org/fast/984834,Q11206,,,
+Prière--Islam--Ouvrages avant 1800,6,a--x--v,,,,,Prayer--Islam;Early works,http://id.worldcat.org/fast/1074698;http://id.worldcat.org/fast/1411636,Q11135;Q300
+Jumʻah,fast,a,,,,,Jumʻah,http://id.worldcat.org/fast/984834,Q11206
+Prayer--Islam,fast,a--x,,,,,Prayer--Islam,http://id.worldcat.org/fast/1074698,Q11135
+God (Islam)--Name,0,a--x,,,,,God (Islam)--Name,http://id.worldcat.org/fast/944149,Q11248
+God (Islam)--Attributes,0,a--x,,,,,God (Islam)--Attributes,http://id.worldcat.org/fast/944143,Q11577
+Dieu (Islam)--Nom,6,a--x,,,,,God (Islam)--Name,http://id.worldcat.org/fast/944149,Q11248
+Dieu (Islam)--Attributs,6,a--x,,,,,God (Islam)--Attributes,http://id.worldcat.org/fast/944143,Q11577
+God (Islam)--Attributes,fast,a--x,,,,,God (Islam)--Attributes,http://id.worldcat.org/fast/944143,Q11577
+God (Islam)--Name,fast,a--x,,,,,God (Islam)--Name,http://id.worldcat.org/fast/944149,Q11248
+Alchemy--Islamic countries,0,a--z,,,,,Alchemy;Islamic countries,http://id.worldcat.org/fast/804245;http://id.worldcat.org/fast/1244130,Q3005;Q2810
+Alchimie--Pays musulmans,6,a--z,,Alchemy;Islamic countries,http://id.worldcat.org/fast/804245;http://id.worldcat.org/fast/1244130,Q3005;Q2810,,,
+Alchemy,fast,a,,,,,Alchemy,http://id.worldcat.org/fast/804245,Q3005
+Islamic countries,fast,a,,,,,Islamic countries,http://id.worldcat.org/fast/1244130,Q2810
+Islamic education,0,a,,Islamic education,http://id.worldcat.org/fast/979927,Q11133,,,
+Muslim children--Education,0,a--x,,Muslim children--Education,http://id.worldcat.org/fast/1030945,Q110405,,,
+Musulmans--Éducation,6,a--x,,Muslims--Education,http://id.worldcat.org/fast/1031043,Q7492,,,
+Enfants musulmans--Éducation,6,a--x,,Muslim children--Education,http://id.worldcat.org/fast/1030945,Q110405,,,
+Islamic education,fast,a,,,,,Islamic education,http://id.worldcat.org/fast/979927,Q11133
+Muslim children--Education,fast,a--x,,Muslim children--Education,http://id.worldcat.org/fast/1030945,Q110405,,,
+Sufism,0,a,,,,,Sufism,http://id.worldcat.org/fast/1137257,Q11239
+Mysticism--Islam,0,a--x,,,,,Mysticism--Islam,http://id.worldcat.org/fast/1031643,Q27457
+Soufisme,6,a,,,,,Sufism,http://id.worldcat.org/fast/1137257,Q11239
+Mysticisme--Islam,6,a--x,,,,,Mysticism--Islam,http://id.worldcat.org/fast/1031643,Q27457
+Sufism,aat,a,,,,,Sufism,http://vocab.getty.edu/aat/300155124,Q27713
+Mysticism--Islam,fast,a--x,,,,,Mysticism--Islam,http://id.worldcat.org/fast/1031643,Q27457
+Sufism,fast,a,,,,,Sufism,http://id.worldcat.org/fast/1137257,Q11239
+Alchemy--Islamic countries--Early works to 1800,0,a--z--v,,,,,Alchemy;Islamic countries;Early works,http://id.worldcat.org/fast/804245;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1411636,Q3005;Q2810;Q300
+Alchimie--Pays musulmans--Ouvrages avant 1800,6,a--z--v,,Alchemy;Islamic countries;Early works,http://id.worldcat.org/fast/804245;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1411636,Q3005;Q2810;Q300,,,
+Education of princes--Early works to 1800,0,a--v,,,,,Education of princes;Early works,http://id.worldcat.org/fast/902875;http://id.worldcat.org/fast/1411636,Q3071;Q300
+Islamic ethics--Early works to 1800,0,a--v,,,,,Islamic ethics;Early works,http://id.worldcat.org/fast/979936;http://id.worldcat.org/fast/1411636,Q11320;Q300
+Morale islamique--Ouvrages avant 1800,6,a--v,,,,,Islamic ethics;Early works,http://id.worldcat.org/fast/979936;http://id.worldcat.org/fast/1411636,Q11320;Q300
+Education of princes,fast,a,,,,,Education of princes,http://id.worldcat.org/fast/902875,Q3071
+Islamic ethics,fast,a,,,,,Islamic ethics,http://id.worldcat.org/fast/979936,Q11320
+Shīʿah--Prayers and devotions--Early works to 1800,0,a--v--v,,,,,Shīʻah;Prayers and devotions;Early works,http://id.worldcat.org/fast/1117946;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q11431;Q3052;Q300
+Islam--Prayers and devotions--Early works to 1800,0,a--v--v,,,,,Islam;Prayers and devotions;Early works,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q3549;Q3052;Q300
+Islam--Prières et dévotions--Ouvrages avant 1800,6,a--v--v,,,,,Islam;Prayers and devotions;Early works,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q3549;Q3052;Q300
+Islam,fast,a,,,,,Islam,http://id.worldcat.org/fast/979776,Q3549
+Shīʻah,fast,a,,,,,Shīʻah,http://id.worldcat.org/fast/1117946,Q11431
+Christians--Lebanon--History,0,a--z--x,,Christians;Lebanon;History,http://id.worldcat.org/fast/859760;http://id.worldcat.org/fast/1206063;http://id.worldcat.org/fast/1411628,Q12575;Q11205;Q279,,,
+"Dayr al Qamar, Lebanon, Massacre of, 1860",0,a,,"Massacre of Dayr al Qamar (Dayr al Qamar, Lebanon : 1860)",http://id.worldcat.org/fast/1709788,Q7725,,,
+Druzes--History,0,a--x,,Druzes;History,http://id.worldcat.org/fast/899110;http://id.worldcat.org/fast/958235,Q11412;Q6879,,,
+Chrétiens--Liban--Histoire,6,a--z--x,,Christians;Lebanon;History,http://id.worldcat.org/fast/859760;http://id.worldcat.org/fast/1206063;http://id.worldcat.org/fast/1411628,Q12575;Q11205;Q279,,,
+Druzes--Histoire,6,a--x,,Druzes;History,http://id.worldcat.org/fast/899110;http://id.worldcat.org/fast/958235,Q11412;Q6879,,,
+Christians,fast,a,,Christians,http://id.worldcat.org/fast/859760,Q12575,,,
+Druzes,fast,a,,,,,Druzes,http://id.worldcat.org/fast/899110,Q11412
+Lebanon--History--1516-1918,0,a--x--y,,Lebanon;History,http://id.worldcat.org/fast/1206063;http://id.worldcat.org/fast/958235,Q11205;Q6879,,,
+Liban--Histoire--1516-1918,6,a--x--y,,Lebanon;History,http://id.worldcat.org/fast/1206063;http://id.worldcat.org/fast/958235,Q11205;Q6879,,,
+Lebanon,fast,a,,,,,Lebanon,http://id.worldcat.org/fast/1206063,Q11205
+Lebanon--Dayr al-Qamar,fast,a--z,,Lebanon--Dayr al-Qamar,http://id.worldcat.org/fast/1248807,Q110380,,,
+1516-1918,fast,a,,,,,,,
+Arabic letters,0,a,,,,,Arabic letters,http://id.worldcat.org/fast/812473,Q11566
+Legal documents--Egypt--10th century--Specimen,0,a--z--y--v,,Legal documents;Egypt;Tenth century;Specimens,http://id.worldcat.org/fast/995459;http://id.worldcat.org/fast/1208755;http://id.worldcat.org/fast/1147737;http://id.worldcat.org/fast/1423861,Q4864;Q11259;Q12530;Q239,,,
+Legal documents--Egypt--11th century--Specimen,0,a--z--y--v,,Legal documents;Egypt;Eleventh century;Specimens,http://id.worldcat.org/fast/995459;http://id.worldcat.org/fast/1208755;http://id.worldcat.org/fast/908096;http://id.worldcat.org/fast/1423861,Q4864;Q11259;Q306;Q239,,,
+Arabic letters,fast,a,,,,,Arabic letters,http://id.worldcat.org/fast/812473,Q11566
+Legal documents,fast,a,,,,,Legal documents,http://id.worldcat.org/fast/995459,Q4864
+Egypt,fast,a,,,,,Egypt,http://id.worldcat.org/fast/1208755,Q11259
+900-1099,fast,a,,,,,Tenth century;Eleventh century,http://id.worldcat.org/fast/1147737;http://id.worldcat.org/fast/908096,Q12530;Q306
+"Africa, North--History--1517-1882",0,a--x--y,,North Africa;History,http://id.worldcat.org/fast/1239515;http://id.worldcat.org/fast/958235,Q26769;Q6879,,,
+Afrique du Nord--Histoire--1517-1882,6,a--x--y,,North Africa;History,http://id.worldcat.org/fast/1239515;http://id.worldcat.org/fast/958235,Q26769;Q6879,,,
+North Africa,fast,a,,,,,North Africa,http://id.worldcat.org/fast/1239515,Q26769
+1517-1882,fast,a,,,,,,,
+Olive oil--Syria,0,a--z,,Olive oil;Syria,http://id.worldcat.org/fast/1045502;http://id.worldcat.org/fast/1208757,Q110406;Q11447,,,
+Olive oil,fast,a,,Olive oil,http://id.worldcat.org/fast/1045502,Q110406,,,
+Muslim scholars--Syria--Damascus--Biography--Early works to 1800,0,a--z--z--v--v,,Muslim scholars;Syria--Damascus;Biographies;Early works,http://id.worldcat.org/fast/1731774;http://id.worldcat.org/fast/1207112;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q11224;Q11409;Q3051;Q300,,,
+Damascus (Syria)--Biography--Early works to 1800,0,a--v--v,,,,,Syria--Damascus;Biographies;Early works,http://id.worldcat.org/fast/1207112;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q11409;Q3051;Q300
+Damascus (Syria)--History--Early works to 1800,0,a--x--v,,,,,Syria--Damascus;History;Early works,http://id.worldcat.org/fast/1207112;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q11409;Q6879;Q300
+Sugar--Early works to 1800,0,a--v,,Sugar;Early works,http://id.worldcat.org/fast/1137272;http://id.worldcat.org/fast/1411636,Q110428;Q300,,,
+Fortune-telling,0,a,http://id.loc.gov/authorities/subjects/sh85050993,,,,Fortune-telling,http://id.worldcat.org/fast/933068,Q18299
+Music theory--Early works to 1800,0,a--v,http://id.loc.gov/authorities/subjects/sh89002983,,,,Music theory;Early works,http://id.worldcat.org/fast/1030620;http://id.worldcat.org/fast/1411636,Q268;Q300
+Musical instruments--Arab countries--Early works to 1800,0,a--z--v,,Musical instruments;Arab countries;Early works,http://id.worldcat.org/fast/1030728;http://id.worldcat.org/fast/1240128;http://id.worldcat.org/fast/1411636,Q110440;Q218;Q300,,,
+Yemen--History--Early works to 1800,0,a--x--v,,,,,Yemen (Republic);History;Early works,http://id.worldcat.org/fast/1309629;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q11522;Q6879;Q300
+Yemen (Republic),fast,a,,,,,Yemen (Republic),http://id.worldcat.org/fast/1309629,Q11522
+Islamic ethics--Early works to 1800,0,a--v,http://id.loc.gov/authorities/subjects/sh2008104964,,,,Islamic ethics;Early works,http://id.worldcat.org/fast/979936;http://id.worldcat.org/fast/1411636,Q11320;Q300
+Lebanon--History--Early works to 1800,0,a--x--v,,Lebanon;History;Early works,http://id.worldcat.org/fast/1206063;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q11205;Q6879;Q300,,,
+Druzes--History--Early works to 1800,0,a--x--v,,Druzes;History;Early works,http://id.worldcat.org/fast/899110;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q11412;Q6879;Q300,,,
+Dream interpretation--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,,,,Dream interpretation;Islam;Early works,http://id.worldcat.org/fast/897886;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636,Q16340;Q3549;Q300
+"Dream interpretation--Dictionaries, Arabic--Early work to 1800",0,a--x--v,,"Dream interpretation;Encyclopedias and dictionaries, Arabic;Early works",http://id.worldcat.org/fast/897886;http://id.worldcat.org/fast/909551;http://id.worldcat.org/fast/1411636,Q16340;Q101303;Q300,,,
+Sufism--Early works to 1800,0,a--v,,,,,Sufism;Early works,http://id.worldcat.org/fast/1137257;http://id.worldcat.org/fast/1411636,Q11239;Q300
+Soufisme--Ouvrages avant 1800,6,a--v,,,,,Sufism;Early works,http://id.worldcat.org/fast/1137257;http://id.worldcat.org/fast/1411636,Q11239;Q300
+Iran--History--Early works to 1800,0,a--x--v,,,,,Iran;History;Early works,http://id.worldcat.org/fast/1204889;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q16384;Q6879;Q300
+"Manuscripts, Persian--New Jersey--Princeton",0,a--z--z,,,,,"Manuscripts, Persian;New Jersey--Princeton",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1204939,Q255;Q11460
+Divination--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,,,,Divination--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/895750;http://id.worldcat.org/fast/1411636,Q38885;Q300
+Military fireworks--Islamic countries--Early works to 1800,0,a--z--v,,Military fireworks;Islamic countries;Early works,http://id.worldcat.org/fast/1021177;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1411636,Q110441;Q2810;Q300,,,
+Geometry--Islamic countries--Early works to 1800,0,a--z--v,,Geometry;Islamic countries;Early works,http://id.worldcat.org/fast/940864;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1411636,Q221;Q2810;Q300,,,
+Amulets (Islam),0,a,http://id.loc.gov/authorities/subjects/sh85004692,,,,Amulets (Islam),http://id.worldcat.org/fast/808068,Q27049
+Islamic Empire--History--Early works to 1800,0,a--x--v,,,,,Islamic Empire;History;Early works,http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q11211;Q6879;Q300
+Islamic Empire,fast,a,,,,,Islamic Empire,http://id.worldcat.org/fast/1244134,Q11211
+Islamic magic--Early works to 1800,0,a--v,,,,,Islamic magic;Early works,http://id.worldcat.org/fast/1730344;http://id.worldcat.org/fast/1411636,Q2807;Q300
+Triangle--Early works to 1800,0,a--v,,Triangle;Early works,http://id.worldcat.org/fast/1156434;http://id.worldcat.org/fast/1411636,Q110429;Q300,,,
+Education of princes--Arab countries--Early works to 1800,0,a--z--v,,Education of princes;Arab countries;Early works,http://id.worldcat.org/fast/902875;http://id.worldcat.org/fast/1240128;http://id.worldcat.org/fast/1411636,Q3071;Q218;Q300,,,
+Political science--Islamic Empire--History--Early works to 1800,0,a--z--x--v,,Political science;Islamic Empire;History;Early works,http://id.worldcat.org/fast/1069781;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q2976;Q11211;Q6879;Q300,,,
+Political science,fast,a,,,,,Political science,http://id.worldcat.org/fast/1069781,Q2976
+Arab countries,fast,a,,,,,Arab countries,http://id.worldcat.org/fast/1240128,Q218
+Divination--Religious aspects--Islam,0,a--x--x,,,,,Divination--Religious aspects--Islam,http://id.worldcat.org/fast/895750,Q38885
+Alchemy--Arab countries--Early works to 1800,0,a--z--v,,Alchemy;Arab countries;Early works,http://id.worldcat.org/fast/804245;http://id.worldcat.org/fast/1240128;http://id.worldcat.org/fast/1411636,Q3005;Q218;Q300,,,
+Prayer--Islam--Early works to 1800,0,a--x--v,http://id.loc.gov/authorities/subjects/sh2010108002,,,,Prayer--Islam;Early works,http://id.worldcat.org/fast/1074698;http://id.worldcat.org/fast/1411636,Q11135;Q300
+Salat--Early works to 1800,0,a--v,,,,,Salat;Early works,http://id.worldcat.org/fast/1103765;http://id.worldcat.org/fast/1411636,Q39075;Q300
+Shīʻah--Early works to 1800,0,a--v,http://id.loc.gov/authorities/subjects/sh2008111617,,,,Shīʻah;Early works,http://id.worldcat.org/fast/1117946;http://id.worldcat.org/fast/1411636,Q11431;Q300
+"Sermons, Arabic--Early works to 1800",0,a--v,,"Sermons, Arabic;Early works",http://id.worldcat.org/fast/1113233;http://id.worldcat.org/fast/1411636,Q27239;Q300,,,
+"Sermons, Arabic",fast,a,,"Sermons, Arabic",http://id.worldcat.org/fast/1113233,Q27239,,,
+Families--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,,,,Families--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/1728928;http://id.worldcat.org/fast/1411636,Q7401;Q300
+Muslim scholars--Early works to 1800,0,a--v,,,,,Muslim scholars;Early works,http://id.worldcat.org/fast/1731774;http://id.worldcat.org/fast/1411636,Q11224;Q300
+Savants musulmans--Ouvrages avant 1800,6,a--v,,Muslim scholars;Early works,http://id.worldcat.org/fast/1731774;http://id.worldcat.org/fast/1411636,Q11224;Q300,,,
+Families--Religious aspects--Islam,fast,a--x--x,,,,,Families--Religious aspects--Islam,http://id.worldcat.org/fast/1728928,Q7401
+Muslim scholars,fast,a,,,,,Muslim scholars,http://id.worldcat.org/fast/1731774,Q11224
+Eunuchs--Islamic Empire--Early works to 1800,0,a--z--v,,Eunuchs;Islamic Empire;Early works,http://id.worldcat.org/fast/916500;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636,Q64200;Q11211;Q300,,,
+Forgiveness of sin (Islam)--Early works to 1800,0,a--v,,,,,Forgiveness of sin (Islam);Early works,http://id.worldcat.org/fast/932872;http://id.worldcat.org/fast/1411636,Q11162;Q300
+Mihrabs--Early works to 1800,0,a--v,,,,,Mihrabs;Early works,http://id.worldcat.org/fast/1738166;http://id.worldcat.org/fast/1411636,Q101311;Q300
+Mosques--Early works to 1800,0,a--v,,,,,Mosques;Early works,http://id.worldcat.org/fast/1026761;http://id.worldcat.org/fast/1411636,Q64162;Q300
+Muslims--Conduct of life--Early works to 1800,0,a--x--v,,,,,Muslims--Conduct of life;Early works,http://id.worldcat.org/fast/1031037;http://id.worldcat.org/fast/1411636,Q11347;Q300
+Pastry--Islamic Empire--Early works to 1800,0,a--z--v,,Pastry;Islamic Empire;Early works,http://id.worldcat.org/fast/1054726;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636,Q64204;Q11211;Q300,,,
+Ummah (Islam)--Early works to 1800,0,a--v,,Ummah (Islam);Early works,http://id.worldcat.org/fast/1160811;http://id.worldcat.org/fast/1411636,Q110407;Q300,,,
+Waqf--Early works to 1800,0,a--v,,,,,Waqf;Early works,http://id.worldcat.org/fast/1170323;http://id.worldcat.org/fast/1411636,Q11403;Q300
+Islamic Empire--Kings and rulers--Religious aspects--Early works to 1800,0,a--x--x--v,,,,,Islamic Empire;Kings and rulers--Religious aspects;Early works,http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/987716;http://id.worldcat.org/fast/1411636,Q11211;Q11351;Q300
+Ummah (Islam)--Ouvrages avant 1800,6,a--v,,Ummah (Islam);Early works,http://id.worldcat.org/fast/1160811;http://id.worldcat.org/fast/1411636,Q110407;Q300,,,
+Waqf--Ouvrages avant 1800,6,a--v,,,,,Waqf;Early works,http://id.worldcat.org/fast/1170323;http://id.worldcat.org/fast/1411636,Q11403;Q300
+Eunuchs,fast,a,,Eunuchs,http://id.worldcat.org/fast/916500,Q64200,,,
+Forgiveness of sin (Islam),fast,a,,,,,Forgiveness of sin (Islam),http://id.worldcat.org/fast/932872,Q11162
+Kings and rulers--Religious aspects,fast,a--x,,,,,Kings and rulers--Religious aspects,http://id.worldcat.org/fast/987716,Q11351
+Mosques,fast,a,,,,,Mosques,http://id.worldcat.org/fast/1026761,Q64162
+Pastry,fast,a,,Pastry,http://id.worldcat.org/fast/1054726,Q64204,,,
+Ummah (Islam),fast,a,,Ummah (Islam),http://id.worldcat.org/fast/1160811,Q110407,,,
+Waqf,fast,a,,,,,Waqf,http://id.worldcat.org/fast/1170323,Q11403
+God (Islam)--Name--Prayers and devotions--Early works to 1800,0,a--x--v--v,,,,,God (Islam)--Name;Prayers and devotions;Early works,http://id.worldcat.org/fast/944149;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q11248;Q3052;Q300
+Dieu (Islam)--Nom--Prières et dévotions--Ouvrages avant 1800,6,a--x--v--v,,,,,God (Islam)--Name;Prayers and devotions;Early works,http://id.worldcat.org/fast/944149;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q11248;Q3052;Q300
+Dreams--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,Dreams--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/897904;http://id.worldcat.org/fast/1411636,Q48835;Q300,,,
+Islamic ethics--Islam--Early works to 1800,0,a--x--v,,Islamic ethics;Islam;Early works,http://id.worldcat.org/fast/979936;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636,Q11320;Q3549;Q300,,,
+"Purity, Ritual--Islam--Early works to 1800",0,a--x--v,,,,,"Purity, Ritual--Islam;Early works",http://id.worldcat.org/fast/1084388;http://id.worldcat.org/fast/1411636,Q11216;Q300
+Religious life--Islam--Early works to 1800,0,a--x--v,,,,,Religious life--Islam;Early works,http://id.worldcat.org/fast/1094119;http://id.worldcat.org/fast/1411636,Q3634;Q300
+Second Advent--Islamic interpretations--Early works to 1800,0,a--x--v,,Second Advent;Islam;Early works,http://id.worldcat.org/fast/1110547;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636,Q110460;Q3549;Q300,,,
+Squirrels--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,Squirrels;Islam;Early works,http://id.worldcat.org/fast/1131157;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636,Q110408;Q3549;Q300,,,
+Rêves--Aspect religieux--Islam--Ouvrages avant 1800,6,a--x--x--v,,Dreams--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/897904;http://id.worldcat.org/fast/1411636,Q48835;Q300,,,
+Second avènement--Interprétations islamiques--Ouvrages avant 1800,6,a--x--v,,Second Advent;Islam;Early works,http://id.worldcat.org/fast/1110547;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636,Q110460;Q3549;Q300,,,
+Dreams--Religious aspects--Islam,fast,a--x--x,,,,,Dreams--Religious aspects--Islam,http://id.worldcat.org/fast/897904,Q48835
+Islamic interpretations of sacred works,fast,a,,,,,Islamic interpretations of sacred works,http://id.worldcat.org/fast/1907309,Q11458
+"Purity, Ritual--Islam",fast,a--x,,,,,"Purity, Ritual--Islam",http://id.worldcat.org/fast/1084388,Q11216
+Religious life--Islam,fast,a--x,,,,,Religious life--Islam,http://id.worldcat.org/fast/1094119,Q3634
+Squirrels,fast,a,,Squirrels,http://id.worldcat.org/fast/1131157,Q110408,,,
+Cats--Early works to 1800,0,a--v,,Cats;Early works,http://id.worldcat.org/fast/849374;http://id.worldcat.org/fast/1411636,Q110409;Q300,,,
+Consolation (Islam)--Early works to 1800,0,a--v,,,,,Consolation (Islam);Early works,http://id.worldcat.org/fast/875656;http://id.worldcat.org/fast/1411636,Q11453;Q300
+Dogs--Early works to 1800,0,a--v,,Dogs;Early works,http://id.worldcat.org/fast/896265;http://id.worldcat.org/fast/1411636,Q110410;Q300,,,
+Islam and state--Early works to 1800,0,a--v,,,,,Islam and state;Early works,http://id.worldcat.org/fast/979890;http://id.worldcat.org/fast/1411636,Q48815;Q300
+Kings and rulers--Conduct of life--Early works to 1800,0,a--x--v,,Kings and rulers--Conduct of life;Early works,http://id.worldcat.org/fast/987699;http://id.worldcat.org/fast/1411636,Q110411;Q300,,,
+Kings and rulers--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,Kings and rulers--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/987720;http://id.worldcat.org/fast/1411636,Q110412;Q300,,,
+Lion--Early works to 1800,0,a--v,,Lion;Early works,http://id.worldcat.org/fast/1734554;http://id.worldcat.org/fast/1411636,Q110413;Q300,,,
+Roosters--Early works to 1800,0,a--v,,,,,Roosters;Early works,http://id.worldcat.org/fast/1100382;http://id.worldcat.org/fast/1411636,Q64206;Q300
+Consolation--Aspect religieux--Islam--Ouvrages avant 1800,6,a--x--x--v,,,,,Consolation (Islam);Early works,http://id.worldcat.org/fast/875656;http://id.worldcat.org/fast/1411636,Q11453;Q300
+Chiens--Ouvrages avant 1800,6,a--v,,Dogs;Early works,http://id.worldcat.org/fast/896265;http://id.worldcat.org/fast/1411636,Q110410;Q300,,,
+Islam et État--Ouvrages avant 1800,6,a--v,,Islam and state;Early works,http://id.worldcat.org/fast/979890;http://id.worldcat.org/fast/1411636,Q48815;Q300,,,
+Rois et souverains--Morale pratique--Ouvrages avant 1800,6,a--x--v,,Kings and rulers--Conduct of life;Early works,http://id.worldcat.org/fast/987699;http://id.worldcat.org/fast/1411636,Q110411;Q300,,,
+Rois et souverains--Aspect religieux--Islam--Ouvrages avant 1800,6,a--x--x--v,,Kings and rulers--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/987720;http://id.worldcat.org/fast/1411636,Q110412;Q300,,,
+Cats,fast,a,,Cats,http://id.worldcat.org/fast/849374,Q110409,,,
+Consolation (Islam),fast,a,,,,,Consolation (Islam),http://id.worldcat.org/fast/875656,Q11453
+Dogs,fast,a,,Dogs,http://id.worldcat.org/fast/896265,Q110410,,,
+Islam and state,fast,a,,Islam and state,http://id.worldcat.org/fast/979890,Q48815,,,
+Kings and rulers--Conduct of life,fast,a--x,,Kings and rulers--Conduct of life,http://id.worldcat.org/fast/987699,Q110411,,,
+Kings and rulers--Religious aspects--Islam,fast,a--x--x,,Kings and rulers--Religious aspects--Islam,http://id.worldcat.org/fast/987720,Q110412,,,
+Lion,fast,a,,Lion,http://id.worldcat.org/fast/1734554,Q110413,,,
+Roosters,fast,a,,Roosters,http://id.worldcat.org/fast/1100382,Q64206,,,
+Death--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,,,,Death--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/888666;http://id.worldcat.org/fast/1411636,Q11543;Q300
+Islam--Miscellanea,0,a--v,,,,,Islam;Trivia and miscellanea,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1921748,Q3549;Q26886
+Muslims--Conduct of life,0,a--x,,,,,Muslims--Conduct of life,http://id.worldcat.org/fast/1031037,Q11347
+Islam--Miscellanées,6,a--v,,Islam;Trivia and miscellanea,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1921748,Q3549;Q26886,,,
+Musulmans--Morale pratique,6,a--x,,Muslims--Conduct of life,http://id.worldcat.org/fast/1031037,Q11347,,,
+Death--Religious aspects--Islam,fast,a--x--x,,,,,Death--Religious aspects--Islam,http://id.worldcat.org/fast/888666,Q11543
+Muslims--Conduct of life,fast,a--x,,,,,Muslims--Conduct of life,http://id.worldcat.org/fast/1031037,Q11347
+Faith (Islam)--Early works to 1800,0,a--v,,,,,Faith (Islam);Early works,http://id.worldcat.org/fast/919954;http://id.worldcat.org/fast/1411636,Q11466;Q300
+Faith (Islam),fast,a,,,,,Faith (Islam),http://id.worldcat.org/fast/919954,Q11466
+Islam--Miscellanea--Early works to 1800,0,a--x--v,,,,,Islam;Miscellanea;Early works,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1353832;http://id.worldcat.org/fast/1411636,Q3549;Q11293;Q300
+Sufism--Rituals--Early works to 1800,0,a--x--v,,,,,Sufism--Rituals;Early works,http://id.worldcat.org/fast/1137268;http://id.worldcat.org/fast/1411636,Q54934;Q300
+Islam--Miscellanées--Ouvrages avant 1800,6,a--x--v,,,,,Islam;Miscellanea;Early works,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1353832;http://id.worldcat.org/fast/1411636,Q3549;Q11293;Q300
+Horsemanship--Early works to 1800,0,a--v,,,,,Horsemanship;Early works,http://id.worldcat.org/fast/960561;http://id.worldcat.org/fast/1411636,Q2770;Q300
+Muslim scholars--Biography--Early works to 1800,0,a--v--v,,,,,Muslim scholars;Biographies;Early works,http://id.worldcat.org/fast/1731774;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q11224;Q3051;Q300
+Équitation--Ouvrages avant 1800,6,a--v,,Horsemanship;Early works,http://id.worldcat.org/fast/960561;http://id.worldcat.org/fast/1411636,Q2770;Q300,,,
+Savants musulmans--Biographies--Ouvrages avant 1800,6,a--v--v,,,,,Muslim scholars;Biographies;Early works,http://id.worldcat.org/fast/1731774;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q11224;Q3051;Q300
+Horsemanship,fast,a,,,,,Horsemanship,http://id.worldcat.org/fast/960561,Q2770
+Divination--Arab countries--Early works to 1800,0,a--z--v,,,,,Divination;Arab countries;Early works,http://id.worldcat.org/fast/895747;http://id.worldcat.org/fast/1240128;http://id.worldcat.org/fast/1411636,Q26839;Q218;Q300
+Islamic astrology--Early works to 1800,0,a--v,,,,,Islamic astrology;Early works,http://id.worldcat.org/fast/979912;http://id.worldcat.org/fast/1411636,Q3020;Q300
+Arabic alphabet--Religious aspects--Islam,0,a--x--x,,,,,Arabic alphabet--Religious aspects--Islam,http://id.worldcat.org/fast/812261,Q38811
+Arabic alphabet--Symbolic aspects--Early works to 1800,0,a--x--v,,,,,Arabic alphabet;Symbolism;Early works,http://id.worldcat.org/fast/812259;http://id.worldcat.org/fast/1140749;http://id.worldcat.org/fast/1411636,Q11300;Q11505;Q300
+Astrologie islamique--Ouvrages avant 1800,6,a--v,,Islamic astrology;Early works,http://id.worldcat.org/fast/979912;http://id.worldcat.org/fast/1411636,Q3020;Q300,,,
+Alphabet arabe--Aspect symbolique--Ouvrages avant 1800,6,a--x--v,,,,,Arabic alphabet;Symbolism;Early works,http://id.worldcat.org/fast/812259;http://id.worldcat.org/fast/1140749;http://id.worldcat.org/fast/1411636,Q11300;Q11505;Q300
+Divination,fast,a,,,,,Divination,http://id.worldcat.org/fast/895747,Q26839
+Islamic astrology,fast,a,,,,,Islamic astrology,http://id.worldcat.org/fast/979912,Q3020
+Talismans--Islamic countries--Early works to 1800,0,a--z--v,,,,,Talismans;Islamic countries;Early works,http://id.worldcat.org/fast/1142279;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1411636,Q4822;Q2810;Q300
+"Karbalāʾ, Battle of, Karbalāʾ, Iraq, 680--Early works to 1800",0,a--v,,,,,"Battle of Karbalāʼ (Karbalāʼ, Iraq : 680);Early works",http://id.worldcat.org/fast/1710069;http://id.worldcat.org/fast/1411636,Q48801;Q300
+Imams (Shiites)--Biography--Early works to 1800,0,a--v--v,,,,,Imams (Shiites);Biographies;Early works,http://id.worldcat.org/fast/967650;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q48780;Q3051;Q300
+Muslim martyrs--Biography--Early works to 1800,0,a--v--v,,,,,Muslim martyrs;Biographies;Early works,http://id.worldcat.org/fast/1030962;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q48779;Q3051;Q300
+Imams (Shiites)--Early works to 1800,0,a--v,,,,,Imams (Shiites);Early works,http://id.worldcat.org/fast/967650;http://id.worldcat.org/fast/1411636,Q48780;Q300
+Muslim scholars--Certification--History--Yemen--Sources,0,a--x--x--z--v,,Muslim scholars;History;Yemen (Republic);Sources,http://id.worldcat.org/fast/1731774;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1309629;http://id.worldcat.org/fast/1423900,Q11224;Q6879;Q11522;Q2769,,,
+Zaydīyah--Doctrines--Early works to 1800,0,a--x--v,,,,,Zaydīyah--Doctrines;Early works,http://id.worldcat.org/fast/1184132;http://id.worldcat.org/fast/1411636,Q63803;Q300
+Magic squares--Early works to 1800,0,a--v,,,,,Magic squares;Early works,http://id.worldcat.org/fast/1005506;http://id.worldcat.org/fast/1411636,Q4977;Q300
+Magie islamique--Ouvrages avant 1800,6,a--v,,,,,Islamic magic;Early works,http://id.worldcat.org/fast/1730344;http://id.worldcat.org/fast/1411636,Q2807;Q300
+Carrés magiques--Ouvrages avant 1800,6,a--v,,,,,Magic squares;Early works,http://id.worldcat.org/fast/1005506;http://id.worldcat.org/fast/1411636,Q4977;Q300
+Islamic magic,fast,a,,,,,Islamic magic,http://id.worldcat.org/fast/1730344,Q2807
+Magic squares,fast,a,,,,,Magic squares,http://id.worldcat.org/fast/1005506,Q4977
+Fasting--Religious aspects--Christianity--Early works to 1800,0,a--x--x--v,,Fasting--Religious aspects--Christianity;Early works,http://id.worldcat.org/fast/921732;http://id.worldcat.org/fast/1411636,Q110443;Q300,,,
+Prayer--Christianity--Early works to 1800,0,a--x--v,http://id.loc.gov/authorities/subjects/sh2010107996,,,,Prayer--Christianity;Early works,http://id.worldcat.org/fast/1074688;http://id.worldcat.org/fast/1411636,Q39046;Q300
+Charity--Religious aspects--Christianity--Early works to 1800,0,a--x--x--v,,Charity--Religious aspects--Christianity;Early works,http://id.worldcat.org/fast/852451;http://id.worldcat.org/fast/1411636,Q110444;Q300,,,
+Mercy--Christianity--Early works to 1800,0,a--x--v,,Mercy;Christianity;Early works,http://id.worldcat.org/fast/1017156;http://id.worldcat.org/fast/859599;http://id.worldcat.org/fast/1411636,Q7780;Q5915;Q300,,,
+Humility--Christianity--Early works to 1800,0,a--x--v,,Humility;Christianity;Early works,http://id.worldcat.org/fast/963699;http://id.worldcat.org/fast/859599;http://id.worldcat.org/fast/1411636,Q110461;Q5915;Q300,,,
+Mysticism--Islam--Early works to 1800,0,a--x--v,,,,,Mysticism--Islam;Early works,http://id.worldcat.org/fast/1031643;http://id.worldcat.org/fast/1411636,Q27457;Q300
+Muslim scholars--Certification--18th century,0,a--x--y,,Muslim scholars;Eighteenth century,http://id.worldcat.org/fast/1731774;http://id.worldcat.org/fast/904058,Q11224;Q3024,,,
+Sufism--Early works to 1800,0,a--v,http://id.loc.gov/authorities/subjects/sh2008112367,,,,Sufism;Early works,http://id.worldcat.org/fast/1137257;http://id.worldcat.org/fast/1411636,Q11239;Q300
+Shādhilīyah--Early works to 1800,0,a--v,,,,,Shādhilīyah;Early works,http://id.worldcat.org/fast/1198519;http://id.worldcat.org/fast/1411636,Q11473;Q300
+Alchemy--Islamic Empire--Early works to 1800,0,a--z--v,,,,,Alchemy;Islamic Empire;Early works,http://id.worldcat.org/fast/804245;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636,Q3005;Q11211;Q300
+Alphabets--History--Early works to 1800,0,a--x--v,,Alphabets;History;Early works,http://id.worldcat.org/fast/805974;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q3534;Q6879;Q300,,,
+Alphabets--Early works to 1800,0,a--v,,,,,Alphabets;Early works,http://id.worldcat.org/fast/805974;http://id.worldcat.org/fast/1411636,Q3534;Q300
+Druzes--Sacred books,0,a--v,,,,,Druzes;Sacred books,http://id.worldcat.org/fast/899110;http://id.worldcat.org/fast/1423905,Q11412;Q11188
+Druzes,fast,a,(OCoLC)fst00899110,,,,Druzes,http://id.worldcat.org/fast/899110,Q11412
+"Geography, Arab--13th century",0,a--y,,"Geography, Arab;Thirteenth century",http://id.worldcat.org/fast/940571;http://id.worldcat.org/fast/1150138,Q18341;Q245,,,
+"Geography, Arab--14th century",0,a--y,,"Geography, Arab;Fourteenth century",http://id.worldcat.org/fast/940571;http://id.worldcat.org/fast/933420,Q18341;Q295,,,
+Islam--Doctrines--Early works to 1800,0,a--x--v,http://id.loc.gov/authorities/subjects/sh87000152,,,,Islam--Doctrines;Early works,http://id.worldcat.org/fast/979787;http://id.worldcat.org/fast/1411636,Q11301;Q300
+Metaphysics--Islamic empire--12th century,0,a--z--y,,Metaphysics;Islamic Empire;Twelfth century,http://id.worldcat.org/fast/1018304;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1159791,Q277;Q11211;Q304,,,
+Metaphysics--Islamic empire--13th century,0,a--z--y,,Metaphysics;Islamic Empire;Thirteenth century,http://id.worldcat.org/fast/1018304;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1150138,Q277;Q11211;Q245,,,
+"Knowledge, Theory of (Islam)--12th century",0,a--y,,"Knowledge, Theory of (Islam);Twelfth century",http://id.worldcat.org/fast/988208;http://id.worldcat.org/fast/1159791,Q64167;Q304,,,
+"Knowledge, Theory of (Islam)--13th century",0,a--y,,"Knowledge, Theory of (Islam);Thirteenth century",http://id.worldcat.org/fast/988208;http://id.worldcat.org/fast/1150138,Q64167;Q245,,,
+Steelyards--Early works to 1800,0,a--v,,Steelyards;Early works,http://id.worldcat.org/fast/1132899;http://id.worldcat.org/fast/1411636,Q110430;Q300,,,
+Meteorology--Early works to 1800,0,a--v,http://id.loc.gov/authorities/subjects/sh2008107719,,,,Meteorology;Early works,http://id.worldcat.org/fast/1018441;http://id.worldcat.org/fast/1411636,Q3044;Q300
+Classification of sciences--Early works to 1800,0,a--v,,,,,Classification of sciences;Early works,http://id.worldcat.org/fast/863687;http://id.worldcat.org/fast/1411636,Q11361;Q300
+Learning and scholarship--Early works to 1800,0,a--v,,,,,Learning and scholarship;Early works,http://id.worldcat.org/fast/994857;http://id.worldcat.org/fast/1411636,Q3591;Q300
+Prayer--Islam,0,a--x,,,,,Prayer--Islam,http://id.worldcat.org/fast/1074698,Q11135
+Prière--Islam,6,a--x,,,,,Prayer--Islam,http://id.worldcat.org/fast/1074698,Q11135
+Anecdotes--Islamic Empire--Early works to 1800,0,a--z--v,(uri) http://id.loc.gov/authorities/subjects/sh85004931,,,,Anecdotes;Islamic Empire;Early works,http://id.worldcat.org/fast/808608;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636,Q27035;Q11211;Q300
+Muslim saints--Early works to 1800,0,a--v,(uri) http://id.loc.gov/authorities/subjects/sh85089073,,,,Muslim saints;Early works,http://id.worldcat.org/fast/1030977;http://id.worldcat.org/fast/1411636,Q11264;Q300
+"Prophets, Pre-Islamic--Early works to 1800",0,a--v,http://id.loc.gov/authorities/subjects/sh2010108653--(uri) http://id.loc.gov/authorities/subjects/sh2010108653,,,,"Prophets, Pre-Islamic;Early works",http://id.worldcat.org/fast/1079226;http://id.worldcat.org/fast/1411636,Q11519;Q300
+Anecdotes,fast,a,(OCoLC)fst00808608,,,,Anecdotes,http://id.worldcat.org/fast/808608,Q27035
+Muslim saints,fast,a,(OCoLC)fst01030977,,,,Muslim saints,http://id.worldcat.org/fast/1030977,Q11264
+"Prophets, Pre-Islamic",fast,a,(OCoLC)fst01079226,,,,"Prophets, Pre-Islamic",http://id.worldcat.org/fast/1079226,Q11519
+Islamic Empire,fast,a,(OCoLC)fst01244134,,,,Islamic Empire,http://id.worldcat.org/fast/1244134,Q11211
+Sin--Islam--Early works to 1800,0,a--x--v,,,,,Sin--Islam;Early works,http://id.worldcat.org/fast/1119202;http://id.worldcat.org/fast/1411636,Q11474;Q300
+Caliphs--Biography--Early works to 1800,0,a--v--v,,,,,Caliphs;Biographies;Early works,http://id.worldcat.org/fast/844318;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q11342;Q3051;Q300
+Péché--Islam--Ouvrages avant 1800,6,a--x--v,,,,,Sin--Islam;Early works,http://id.worldcat.org/fast/1119202;http://id.worldcat.org/fast/1411636,Q11474;Q300
+Sin--Islam,fast,a--x,,,,,Sin--Islam,http://id.worldcat.org/fast/1119202,Q11474
+Muslim saints--Early works to 1800,0,a--v,,,,,Muslim saints;Early works,http://id.worldcat.org/fast/1030977;http://id.worldcat.org/fast/1411636,Q11264;Q300
+Saints musulmans--Ouvrages avant 1800,6,a--v,,,,,Muslim saints;Early works,http://id.worldcat.org/fast/1030977;http://id.worldcat.org/fast/1411636,Q11264;Q300
+Muslim saints,fast,a,,,,,Muslim saints,http://id.worldcat.org/fast/1030977,Q11264
+Islam--Customs and practices--Early works to 1800,0,a--x--v,,,,,Islam--Customs and practices;Early works,http://id.worldcat.org/fast/979785;http://id.worldcat.org/fast/1411636,Q11380;Q300
+Islam--Coutumes et pratiques--Ouvrages avant 1800,6,a--x--v,,,,,Islam--Customs and practices;Early works,http://id.worldcat.org/fast/979785;http://id.worldcat.org/fast/1411636,Q11380;Q300
+Work ethic--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,Work ethic;Islam;Early works,http://id.worldcat.org/fast/1180301;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636,Q110450;Q3549;Q300,,,
+Work ethic--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,(uri) http://id.loc.gov/authorities/subjects/sh85148148,Work ethic;Islam;Early works,http://id.worldcat.org/fast/1180301;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636,Q110450;Q3549;Q300,,,
+Islamic ethics--Early works to 1800,0,a--v,http://id.loc.gov/authorities/subjects/sh2008104964--(uri) http://id.loc.gov/authorities/subjects/sh2008104964,,,,Islamic ethics;Early works,http://id.worldcat.org/fast/979936;http://id.worldcat.org/fast/1411636,Q11320;Q300
+Islamic ethics,fast,a,(OCoLC)fst00979936,,,,Islamic ethics,http://id.worldcat.org/fast/979936,Q11320
+"Islamic sermons, Arabic--Early works to 1800",0,a--v,(uri) http://id.loc.gov/authorities/subjects/sh85068482,,,,"Islamic sermons, Arabic;Early works",http://id.worldcat.org/fast/980059;http://id.worldcat.org/fast/1411636,Q11140;Q300
+"Islamic sermons, Arabic",fast,a,(OCoLC)fst00980059,,,,"Islamic sermons, Arabic",http://id.worldcat.org/fast/980059,Q11140
+Women in the Qurʼan--Early works to 1800,0,a--v,,Women in the Qurʼan;Early works,http://id.worldcat.org/fast/1861916;http://id.worldcat.org/fast/1411636,Q110414;Q300,,,
+Women--Islamic Empire--Early works to 1800,0,a--z--v,(uri) http://id.loc.gov/authorities/subjects/sh85147274,,,,Women;Islamic Empire;Early works,http://id.worldcat.org/fast/1176568;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636,Q8004;Q11211;Q300
+Women,fast,a,(OCoLC)fst01176568,,,,Women,http://id.worldcat.org/fast/1176568,Q8004
+Women in the Qurʼan,fast,a,(OCoLC)fst01861916,Women in the Qurʼan,http://id.worldcat.org/fast/1861916,Q110414,,,
+Death--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,(uri) http://id.loc.gov/authorities/subjects/sh85036085,,,,Death--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/888666;http://id.worldcat.org/fast/1411636,Q11543;Q300
+Children--Death--Religious aspects--Islam--Early works to 1800,0,a--x--x--x--v,(uri) http://id.loc.gov/authorities/subjects/sh85023418,,,,Children--Death--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/2015671;http://id.worldcat.org/fast/1411636,Q48984;Q300
+Children--Death--Religious aspects--Islam,fast,a--x--x--x,(OCoLC)fst02015671,,,,Children--Death--Religious aspects--Islam,http://id.worldcat.org/fast/2015671,Q48984
+Death--Religious aspects--Islam,fast,a--x--x,(OCoLC)fst00888666,,,,Death--Religious aspects--Islam,http://id.worldcat.org/fast/888666,Q11543
+"Islamic sermons, Arabic--Early works to 1800",0,a--v,,,,,"Islamic sermons, Arabic;Early works",http://id.worldcat.org/fast/980059;http://id.worldcat.org/fast/1411636,Q11140;Q300
+"Islamic sermons, Arabic",fast,a,,,,,"Islamic sermons, Arabic",http://id.worldcat.org/fast/980059,Q11140
+God (Islam)--Name--Prayers and devotions--Early works to 1800,0,a--x--v--v,(uri) http://id.loc.gov/authorities/subjects/sh85055570,,,,God (Islam)--Name;Prayers and devotions;Early works,http://id.worldcat.org/fast/944149;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q11248;Q3052;Q300
+Religious life--Islam--Early works to 1800,0,a--x--v,http://id.loc.gov/authorities/subjects/sh86008165--(uri) http://id.loc.gov/authorities/subjects/sh86008165,,,,Religious life--Islam;Early works,http://id.worldcat.org/fast/1094119;http://id.worldcat.org/fast/1411636,Q3634;Q300
+Muslims--Conduct of life--Early works to 1800,0,a--x--v,http://id.loc.gov/authorities/subjects/sh2010102967--(uri) http://id.loc.gov/authorities/subjects/sh2010102967,,,,Muslims--Conduct of life;Early works,http://id.worldcat.org/fast/1031037;http://id.worldcat.org/fast/1411636,Q11347;Q300
+God (Islam)--Name,fast,a--x,(OCoLC)fst00944149,,,,God (Islam)--Name,http://id.worldcat.org/fast/944149,Q11248
+Muslims--Conduct of life,fast,a--x,(OCoLC)fst01031037,,,,Muslims--Conduct of life,http://id.worldcat.org/fast/1031037,Q11347
+Religious life--Islam,fast,a--x,(OCoLC)fst01094119,,,,Religious life--Islam,http://id.worldcat.org/fast/1094119,Q3634
+"Islamic literature, Arabic--Early works to 1800",0,a--v,(uri) http://id.loc.gov/authorities/subjects/sh85068464,,,,"Islamic literature, Arabic;Early works",http://id.worldcat.org/fast/979977;http://id.worldcat.org/fast/1411636,Q11279;Q300
+"Islamic literature, Arabic",fast,a,(OCoLC)fst00979977,,,,"Islamic literature, Arabic",http://id.worldcat.org/fast/979977,Q11279
+Islam--Early works to 1800,0,a--v,,,,,Islam;Early works,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636,Q3549;Q300
+Khalwatīyah--Early works to 1800,0,a--v,,,,,Khalwatīyah;Early works,http://id.worldcat.org/fast/987065;http://id.worldcat.org/fast/1411636,Q8152;Q300
+Islam--Ouvrages avant 1800,6,a--v,,,,,Islam;Early works,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636,Q3549;Q300
+Khalwatīyah,fast,a,,,,,Khalwatīyah,http://id.worldcat.org/fast/987065,Q8152
+Political science--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,(uri) http://id.loc.gov/authorities/subjects/sh85104440,Religion and politics;Islam;Early works,http://id.worldcat.org/fast/1093842;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636,Q11305;Q3549;Q300,,,
+Work ethic--Religious aspects--Islam,0,a--x--x,(uri) http://id.loc.gov/authorities/subjects/sh85148148,Work ethic;Islam,http://id.worldcat.org/fast/1180301;http://id.worldcat.org/fast/979776,Q110450;Q3549,,,
+Islamic ethics,0,a,http://id.loc.gov/authorities/subjects/sh85068451--(uri) http://id.loc.gov/authorities/subjects/sh85068451,,,,Islamic ethics,http://id.worldcat.org/fast/979936,Q11320
+Islamic ethics,0,a,,,,,Islamic ethics,http://id.worldcat.org/fast/979936,Q11320
+Morale islamique,6,a,,,,,Islamic ethics,http://id.worldcat.org/fast/979936,Q11320
+Homosexuality--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,,,,Homosexuality--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/959796;http://id.worldcat.org/fast/1411636,Q64177;Q300
+"Manuscripts, Turkish--New Jersey--Princeton",0,a--z--z,,,,,"Manuscripts, Turkish;New Jersey--Princeton",http://id.worldcat.org/fast/1008521;http://id.worldcat.org/fast/1204939,Q3068;Q11460
+Prayer--Islam--Early works to 1800,0,a--x--v,http://id.loc.gov/authorities/subjects/sh2010108002--(uri) http://id.loc.gov/authorities/subjects/sh2010108002,,,,Prayer--Islam;Early works,http://id.worldcat.org/fast/1074698;http://id.worldcat.org/fast/1411636,Q11135;Q300
+Prayer--Islam,fast,a--x,(OCoLC)fst01074698,,,,Prayer--Islam,http://id.worldcat.org/fast/1074698,Q11135
+God (Islam)--Names--Early works to 1800,0,a--x--v,,God (Islam)--Name;Early works,http://id.worldcat.org/fast/944149;http://id.worldcat.org/fast/1411636,Q11248;Q300,,,
+Islam--Prayers and devotions--Early works to 1800,0,a--v--v,(uri) http://id.loc.gov/authorities/subjects/sh85068390,,,,Islam;Prayers and devotions;Early works,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q3549;Q3052;Q300
+Islam,fast,a,(OCoLC)fst00979776,,,,Islam,http://id.worldcat.org/fast/979776,Q3549
+Praise--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,,,,Praise--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/2017549;http://id.worldcat.org/fast/1411636,Q11244;Q300
+Éloges--Aspect religieux--Islam--Ouvrages avant 1800,6,a--x--x--v,,,,,Eulogies;Islam;Early works,http://id.worldcat.org/fast/916476;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636,Q38901;Q3549;Q300
+Praise--Religious aspects--Islam,fast,a--x--x,,,,,Praise--Religious aspects--Islam,http://id.worldcat.org/fast/2017549,Q11244
+God (Islam)--Name--Early works to 1800,0,a--x--v,,,,,God (Islam)--Name;Early works,http://id.worldcat.org/fast/944149;http://id.worldcat.org/fast/1411636,Q11248;Q300
+Dieu (Islam)--Nom--Ouvrages avant 1800,6,a--x--v,,,,,God (Islam)--Name;Early works,http://id.worldcat.org/fast/944149;http://id.worldcat.org/fast/1411636,Q11248;Q300
+Islam--Prayers and devotions,0,a--v,,,,,Islam;Prayers and devotions,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1423909,Q3549;Q3052
+Islam--Prières et dévotions,6,a--v,,,,,Islam;Prayers and devotions,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1423909,Q3549;Q3052
+Sufi chants--Early works to 1800,0,a--v,,,,,Sufi chants;Early works,http://id.worldcat.org/fast/1137202;http://id.worldcat.org/fast/1411636,Q48878;Q300
+Talismans--Islamic Empire--Early works to 1800,0,a--z--v,,,,,Talismans;Islamic Empire;Early works,http://id.worldcat.org/fast/1142279;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636,Q4822;Q11211;Q300
+Talismans--Empire islamique--Ouvrages avant 1800,6,a--z--v,,Talismans;Islamic Empire;Early works,http://id.worldcat.org/fast/1142279;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636,Q4822;Q11211;Q300,,,
+Talismans,fast,a,,,,,Talismans,http://id.worldcat.org/fast/1142279,Q4822
+"Badr, Battle of, Badr Ḥunayn, Saudi Arabia, 624",0,a,,"Battle of Badr (Badr Ḥunayn, Saudi Arabia : 624)",http://id.worldcat.org/fast/1709746,Q11421,,,
+"Bataille de Badr, Badr Ḩunayn, Arabie saoudite, 624",6,a,,"Battle of Badr (Badr Ḥunayn, Saudi Arabia : 624)",http://id.worldcat.org/fast/1709746,Q11421,,,
+Friends and associates,fast,a,,,,,Friends and associates,http://id.worldcat.org/fast/1353140,Q11488
+Saudi Arabia--Badr Ḥunayn,fast,a--z,,,,,Saudi Arabia--Badr Ḥunayn,http://id.worldcat.org/fast/1300532,Q11572
+624,fast,a,,,,,,,
+Persian language--Dictionaries--Turkish--Early works to 1800,0,a--v--x--v,,,,,Persian language;Dictionaries;Turkish language;Early works,http://id.worldcat.org/fast/1058466;http://id.worldcat.org/fast/1423826;http://id.worldcat.org/fast/1159411;http://id.worldcat.org/fast/1411636,Q11515;Q3041;Q11148;Q300
+Morale islamique--Histoire--12e siècle--Sources,6,a--x--y--v,,Islamic ethics;History;Twelfth century;Sources,http://id.worldcat.org/fast/979936;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1159791;http://id.worldcat.org/fast/1423900,Q11320;Q6879;Q304;Q2769,,,
+"Manuscripts, Malay--New Jersey--Princeton",0,a--z--z,,"Manuscripts, Malay;New Jersey--Princeton",http://id.worldcat.org/fast/1008412;http://id.worldcat.org/fast/1204939,Q110372;Q11460,,,
+"Manuscripts, Malay",fast,a,,"Manuscripts, Malay",http://id.worldcat.org/fast/1008412,Q110372,,,
+Muslims--Biography--Dictionaries--Early works to 1800,0,a--v--v--v,,,,,Muslims;Biographies;Dictionaries;Early works,http://id.worldcat.org/fast/1031029;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1423826;http://id.worldcat.org/fast/1411636,Q11528;Q3051;Q3041;Q300
+Islamic Empire--Biography--Dictionaries--Early works to 1800,0,a--v--v--v,,Islamic Empire;Biographies;Dictionaries;Early works,http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1423826;http://id.worldcat.org/fast/1411636,Q11211;Q3051;Q3041;Q300,,,
+"Church history--Primitive and early church, ca. 30-600",0,a--y,http://id.loc.gov/authorities/subjects/sh85025620,,,,Church history;30-600;Church history--Primitive and early church,http://id.worldcat.org/fast/860740;http://id.worldcat.org/fast/1355906;http://id.worldcat.org/fast/1710945,Q38895;Q4180;Q68014
+Sufis--Biography,0,a--v,,,,,Sufis;Biographies,http://id.worldcat.org/fast/1137253;http://id.worldcat.org/fast/1919896,Q11475;Q3051
+"Manuscripts, Urdu--New Jersey--Princeton",0,a--z--z,,,,,"Manuscripts, Urdu;New Jersey--Princeton",http://id.worldcat.org/fast/1008525;http://id.worldcat.org/fast/1204939,Q48717;Q11460
+Manuscrits persans--New Jersey--Princeton,6,a--z--z,,,,,"Manuscripts, Persian;New Jersey--Princeton",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1204939,Q255;Q11460
+"Manuscripts, Persian",fast,a,,,,,"Manuscripts, Persian",http://id.worldcat.org/fast/1008462,Q255
+"Manuscripts, Urdu",fast,a,,,,,"Manuscripts, Urdu",http://id.worldcat.org/fast/1008525,Q48717
+Mahdi--Early works to 1800,0,a--v,,,,,Mahdi;Early works,http://id.worldcat.org/fast/1005989;http://id.worldcat.org/fast/1411636,Q11365;Q300
+"Proverbs, Arabic",0,a,http://id.loc.gov/authorities/subjects/sh85107847,,,,"Proverbs, Arabic",http://id.worldcat.org/fast/1080229,Q11252
+Arabic prose literature--750-1258,0,a--y,,Arabic prose literature,http://id.worldcat.org/fast/812549,Q11444,,,
+Arabic prose literature--11th century,0,a--y,,,,,Arabic prose literature;Eleventh century,http://id.worldcat.org/fast/812549;http://id.worldcat.org/fast/908096,Q11444;Q306
+Arabic prose literature--12th century,0,a--y,,,,,Arabic prose literature;Twelfth century,http://id.worldcat.org/fast/812549;http://id.worldcat.org/fast/1159791,Q11444;Q304
+Prose arabe--11e siècle,6,a--y,,,,,Arabic prose literature;Eleventh century,http://id.worldcat.org/fast/812549;http://id.worldcat.org/fast/908096,Q11444;Q306
+Prose arabe--12e siècle,6,a--y,,,,,Arabic prose literature;Twelfth century,http://id.worldcat.org/fast/812549;http://id.worldcat.org/fast/1159791,Q11444;Q304
+Prose arabe--750-1258,6,a--y,,Arabic prose literature,http://id.worldcat.org/fast/812549,Q11444,,,
+Arabic prose literature,fast,a,,,,,Arabic prose literature,http://id.worldcat.org/fast/812549,Q11444
+1000-1199,fast,a,,,,,Eleventh century;Twelfth century,http://id.worldcat.org/fast/908096;http://id.worldcat.org/fast/1159791,Q306;Q304
+Islamic occultism--Early works to 1800,0,a--v,,,,,Islamic occultism;Early works,http://id.worldcat.org/fast/1730354;http://id.worldcat.org/fast/1411636,Q2773;Q300
+Occultisme islamique--Ouvrages avant 1800,6,a--v,,Islamic occultism;Early works,http://id.worldcat.org/fast/1730354;http://id.worldcat.org/fast/1411636,Q2773;Q300,,,
+Sufism--Doctrines--Early works to 1800,0,a--x--v,,,,,Sufism--Doctrines;Early works,http://id.worldcat.org/fast/1137260;http://id.worldcat.org/fast/1411636,Q11235;Q300
+"Manuscripts, Arabic--New Jersey--Princeton",0,a--z--z,(uri) http://id.loc.gov/authorities/subjects/sh85080687,,,,"Manuscripts, Arabic;New Jersey--Princeton",http://id.worldcat.org/fast/1008278;http://id.worldcat.org/fast/1204939,Q256;Q11460
+Sufism--Doctrines,fast,a--x,(OCoLC)fst01137260,,,,Sufism--Doctrines,http://id.worldcat.org/fast/1137260,Q11235
+Druzes--Sacred books,0,a--x,,Druzes;Sacred books,http://id.worldcat.org/fast/899110;http://id.worldcat.org/fast/1423905,Q11412;Q11188,,,
+Islamic education--13th century,0,a--y,,Islamic education;Thirteenth century,http://id.worldcat.org/fast/979927;http://id.worldcat.org/fast/1150138,Q11133;Q245,,,
+Islamic education--14th century,0,a--y,,Islamic education;Fourteenth century,http://id.worldcat.org/fast/979927;http://id.worldcat.org/fast/933420,Q11133;Q295,,,
+Islamic learning and scholarship--13th century,0,a--y,,Islamic learning and scholarship;Thirteenth century,http://id.worldcat.org/fast/979968;http://id.worldcat.org/fast/1150138,Q11250;Q245,,,
+Islamic learning and scholarship--14th century,0,a--y,,Islamic learning and scholarship;Fourteenth century,http://id.worldcat.org/fast/979968;http://id.worldcat.org/fast/933420,Q11250;Q295,,,
+Education--Islamic Empire--13th century,0,a--z--y,,Education;Islamic Empire;Thirteenth century,http://id.worldcat.org/fast/902499;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1150138,Q7479;Q11211;Q245,,,
+Education--Islamic Empire--14th century,0,a--z--y,,Education;Islamic Empire;Fourteenth century,http://id.worldcat.org/fast/902499;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/933420,Q7479;Q11211;Q295,,,
+Islam--Doctrines--14th century,0,a--x--y,,,,,Islam--Doctrines;Fourteenth century,http://id.worldcat.org/fast/979787;http://id.worldcat.org/fast/933420,Q11301;Q295
+Islam--Doctrines--15th century,0,a--x--y,,,,,Islam--Doctrines;Fifteenth century,http://id.worldcat.org/fast/979787;http://id.worldcat.org/fast/923962,Q11301;Q154
+"Islamic magic--Formulae, receipts, prescriptions",0,a--v,,"Islamic magic;Prescriptions, formulae, receipts, etc.",http://id.worldcat.org/fast/1730344;http://id.worldcat.org/fast/1424054,Q2807;Q3042,,,
+Islamic magic--Syria--History--13th century--Sources,0,a--z--x--y--v,,Islamic magic;Syria;History;Thirteenth century;Sources,http://id.worldcat.org/fast/1730344;http://id.worldcat.org/fast/1208757;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1150138;http://id.worldcat.org/fast/1423900,Q2807;Q11447;Q6879;Q245;Q2769,,,
+1200-1299,fast,a,,,,,Thirteenth century,http://id.worldcat.org/fast/1150138,Q245
+"Astrology, Arab--9th century",0,a--y,,"Astrology, Arab;Ninth century",http://id.worldcat.org/fast/819451;http://id.worldcat.org/fast/1037854,Q3616;Q329,,,
+Daffodils--Pictorial works--Specimens,0,a--v--v,,Daffodils;Pictorial works;Specimens,http://id.worldcat.org/fast/886719;http://id.worldcat.org/fast/1423874;http://id.worldcat.org/fast/1423861,Q110431;Q240;Q239,,,
+"Calligraphy, Arabic",0,a,http://id.loc.gov/authorities/subjects/sh85018960,"Calligraphy, Arabic",http://id.worldcat.org/fast/844384,Q11395,,,
+Islam--Prayers and devotions,0,a--v,http://id.loc.gov/authorities/subjects/sh85068403,,,,Islam;Prayers and devotions,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1423909,Q3549;Q3052
+Botany--History--Islamic Empire--Sources,0,a--x--z--v,,Botany;History;Islamic Empire;Sources,http://id.worldcat.org/fast/836869;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1423900,Q264;Q6879;Q11211;Q2769,,,
+Botany--Pictorial works--Specimens,0,a--v--v,,,,,Botany;Pictorial works;Specimens,http://id.worldcat.org/fast/836869;http://id.worldcat.org/fast/1423874;http://id.worldcat.org/fast/1423861,Q264;Q240;Q239
+"Formulas, recipes, etc.--History--Islamic Empire--Sources",0,a--x--z--v,,"Formulas, recipes, etc.;History;Islamic Empire;Sources",http://id.worldcat.org/fast/1753650;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1423900,Q38915;Q6879;Q11211;Q2769,,,
+Geometry--Islamic Empire--Early works to 1800,0,a--z--v,,,,,Geometry;Islamic Empire;Early works,http://id.worldcat.org/fast/940864;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636,Q221;Q11211;Q300
+Pillars of Islam,0,a,,Pillars of Islam,http://id.worldcat.org/fast/1064104,Q11592,,,
+Zaydīs--History--Early works to 1800,0,a--x--v,,Zaydīs;History;Early works,http://id.worldcat.org/fast/1184128;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q64208;Q6879;Q300,,,
+Fatwas--Early works to 1800,0,a--v,,,,,Fatwas;Early works,http://id.worldcat.org/fast/921976;http://id.worldcat.org/fast/1411636,Q11267;Q300
+Shafiites--Early works to 1800,0,a--v,,,,,Shafiites;Early works,http://id.worldcat.org/fast/1115053;http://id.worldcat.org/fast/1411636,Q11573;Q300
+Chāfiʻites--Ouvrages avant 1800,6,a--v,,,,,Shafiites;Early works,http://id.worldcat.org/fast/1115053;http://id.worldcat.org/fast/1411636,Q11573;Q300
+Fatwas,fast,a,,,,,Fatwas,http://id.worldcat.org/fast/921976,Q11267
+Shafiites,fast,a,,,,,Shafiites,http://id.worldcat.org/fast/1115053,Q11573
+"Materia medica, Animal--Early works to 1800",0,a--x,,"Materia medica, Animal;Early works",http://id.worldcat.org/fast/1011721;http://id.worldcat.org/fast/1411636,Q48839;Q300,,,
+Zoology--Early works to 1800,0,a--v,,,,,Zoology;Early works,http://id.worldcat.org/fast/1184696;http://id.worldcat.org/fast/1411636,Q3009;Q300
+Islamic sermons--Early works to 1800,0,a--v,,,,,Islamic sermons;Early works,http://id.worldcat.org/fast/980058;http://id.worldcat.org/fast/1411636,Q11570;Q300
+Aleppo (Syria)--History--Early works to 1800,0,a--x--v,,Syria--Aleppo;History;Early works,http://id.worldcat.org/fast/1213345;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q54953;Q6879;Q300,,,
+Magic tricks--Early works to 1800,0,a--v,http://id.loc.gov/authorities/subjects/sh2010100286,,,,Magic tricks;Early works,http://id.worldcat.org/fast/1005507;http://id.worldcat.org/fast/1411636,Q106619;Q300
+Divination--Islamic countries,0,a--z,,,,,Divination;Islamic countries,http://id.worldcat.org/fast/895747;http://id.worldcat.org/fast/1244130,Q26839;Q2810
+Islamic magic--Early works to 1800,0,a--v,(uri) http://id.loc.gov/authorities/subjects/sh85079615,,,,Islamic magic;Early works,http://id.worldcat.org/fast/1730344;http://id.worldcat.org/fast/1411636,Q2807;Q300
+Fortune-telling--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,(uri) http://id.loc.gov/authorities/subjects/sh85050993,,,,Fortune-telling;Islam;Early works,http://id.worldcat.org/fast/933068;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636,Q18299;Q3549;Q300
+Arabic alphabet--Symbolic aspects--Early works to 1800,0,a--x--v,(uri) http://id.loc.gov/authorities/subjects/sh85006297,,,,Arabic alphabet;Symbolism;Early works,http://id.worldcat.org/fast/812259;http://id.worldcat.org/fast/1140749;http://id.worldcat.org/fast/1411636,Q11300;Q11505;Q300
+Talismans--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,,,,Talismans;Islam;Early works,http://id.worldcat.org/fast/1142279;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636,Q4822;Q3549;Q300
+Geomancy--Islamic Empire--Early works to 1800,0,a--z--v,,,,,Geomancy;Islamic Empire;Early works,http://id.worldcat.org/fast/940820;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636,Q16328;Q11211;Q300
+Predictive astrology--Islamic empire--Early works to 1800,0,a--z--v,,,,,Predictive astrology;Islamic Empire;Early works,http://id.worldcat.org/fast/1075039;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636,Q4881;Q11211;Q300
+"Astrology, Arab--Early works to 1800",0,a--v,,,,,"Astrology, Arab;Early works",http://id.worldcat.org/fast/819451;http://id.worldcat.org/fast/1411636,Q3616;Q300
+Hermetism--Islamic countries--Early works to 1800,0,a--z--v,,Hermetism;Islamic countries;Early works,http://id.worldcat.org/fast/955517;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1411636,Q26992;Q2810;Q300,,,
+Faith (Islam)--Early works to 1800,0,a--v,http://id.loc.gov/authorities/subjects/sh87000153,,,,Faith (Islam);Early works,http://id.worldcat.org/fast/919954;http://id.worldcat.org/fast/1411636,Q11466;Q300
+Sufis--Biography--Early works to 1800,0,a--v--v,,,,,Sufis;Biographies;Early works,http://id.worldcat.org/fast/1137253;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q11475;Q3051;Q300
+Muslim saints--Biography--Early works to 1800,0,a--v--v,,,,,Muslim saints;Biographies;Early works,http://id.worldcat.org/fast/1030977;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q11264;Q3051;Q300
+Soufis--Biographies--Ouvrages avant 1800,6,a--v--v,,,,,Sufis;Biographies;Early works,http://id.worldcat.org/fast/1137253;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q11475;Q3051;Q300
+Saints musulmans--Biographies--Ouvrages avant 1800,6,a--v--v,,Muslim saints;Biographies;Early works,http://id.worldcat.org/fast/1030977;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q11264;Q3051;Q300,,,
+Sufis,fast,a,,,,,Sufis,http://id.worldcat.org/fast/1137253,Q11475
+Islam--Doctrines--14e siècle,6,a--x--y,,,,,Islam--Doctrines;Fourteenth century,http://id.worldcat.org/fast/979787;http://id.worldcat.org/fast/933420,Q11301;Q295
+1300-1399,fast,a,,,,,Fourteenth century,http://id.worldcat.org/fast/933420,Q295
+Islam--Doctrines--13th century,0,a--x--y,,,,,Islam--Doctrines;Thirteenth century,http://id.worldcat.org/fast/979787;http://id.worldcat.org/fast/1150138,Q11301;Q245
+Islam--Doctrines--13e siècle,6,a--x--y,,Islam--Doctrines,http://id.worldcat.org/fast/979787,Q11301,,,
+Shīʻah--Doctrines--Early works to 1800,0,a--x--v,http://id.loc.gov/authorities/subjects/sh2008111616,,,,Shīʻah--Doctrines;Early works,http://id.worldcat.org/fast/1117948;http://id.worldcat.org/fast/1411636,Q39091;Q300
+Mosques--Syria--Damascus--Early works to 1800,0,a--z--z--v,,,,,Mosques;Syria--Damascus;Early works,http://id.worldcat.org/fast/1026761;http://id.worldcat.org/fast/1207112;http://id.worldcat.org/fast/1411636,Q64162;Q11409;Q300
+Schools--Syria--Damascus--Early works to 1800,0,a--z--z--v,,,,,Schools;Syria--Damascus;Early works,http://id.worldcat.org/fast/1107958;http://id.worldcat.org/fast/1207112;http://id.worldcat.org/fast/1411636,Q48884;Q11409;Q300
+Ṣāliḥīyah (Syria)--Intellectual life--Early works to 1800,0,a--x--v,,Syria--Ṣāliḥīyah;Intellectual life;Early works,http://id.worldcat.org/fast/1282383;http://id.worldcat.org/fast/975769;http://id.worldcat.org/fast/1411636,Q64100;Q7727;Q300,,,
+"Knowledge, Theory of (Islam)--Early works to 1800",0,a--v,,,,,"Knowledge, Theory of (Islam);Early works",http://id.worldcat.org/fast/988208;http://id.worldcat.org/fast/1411636,Q64167;Q300
+Théorie de la connaissance (Islam)--Ouvrages avant 1800,6,a--v,,,,,"Knowledge, Theory of (Islam);Early works",http://id.worldcat.org/fast/988208;http://id.worldcat.org/fast/1411636,Q64167;Q300
+"Knowledge, Theory of (Islam)",fast,a,,"Knowledge, Theory of (Islam)",http://id.worldcat.org/fast/988208,Q64167,,,
+1400-1499,fast,a,,,,,Fifteenth century,http://id.worldcat.org/fast/923962,Q154
+Persian language--Versification--Early works to 1800,0,a--x--v,,,,,Persian language--Versification;Early works,http://id.worldcat.org/fast/1058519;http://id.worldcat.org/fast/1411636,Q48776;Q300
+Hanbalites--14th century,0,a--y,,Hanbalites;Fourteenth century,http://id.worldcat.org/fast/950821;http://id.worldcat.org/fast/933420,Q3611;Q295,,,
+Temptation (Islam)--Early works to 1800,0,a--v,,,,,Temptation (Islam);Early works,http://id.worldcat.org/fast/1147516;http://id.worldcat.org/fast/1411636,Q63799;Q300
+Devil--Islam--Early works to 1800,0,a--x--v,,,,,Devil--Islam;Early works,http://id.worldcat.org/fast/891980;http://id.worldcat.org/fast/1411636,Q48834;Q300
+Démon--Islam--Ouvrages avant 1800,6,a--x--v,,Devil--Islam,http://id.worldcat.org/fast/891980,Q48834,,,
+Devil--Islam,fast,a--x,,,,,Devil--Islam,http://id.worldcat.org/fast/891980,Q48834
+Hanbalites,fast,a,,,,,Hanbalites,http://id.worldcat.org/fast/950821,Q3611
+Temptation (Islam),fast,a,,Temptation (Islam),http://id.worldcat.org/fast/1147516,Q63799,,,
+Sufism--Rituals,0,a--x,,,,,Sufism--Rituals,http://id.worldcat.org/fast/1137268,Q54934
+Islam--Doctrines,0,a--x,,,,,Islam--Doctrines,http://id.worldcat.org/fast/979787,Q11301
+Arabic literature--750-1258,0,a--y,,Arabic literature,http://id.worldcat.org/fast/812478,Q11532,,,
+Sufism,0,a,http://id.loc.gov/authorities/subjects/sh85129660,,,,Sufism,http://id.worldcat.org/fast/1137257,Q11239
+Basmalah--Early works to 1800,0,a--v,(uri) http://id.loc.gov/authorities/subjects/sh85012131,,,,Basmalah;Early works,http://id.worldcat.org/fast/828309;http://id.worldcat.org/fast/1411636,Q11237;Q300
+Praise--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,(uri) http://id.loc.gov/authorities/subjects/sh85106083,,,,Praise--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/2017549;http://id.worldcat.org/fast/1411636,Q11244;Q300
+Basmalah,fast,a,(OCoLC)fst00828309,,,,Basmalah,http://id.worldcat.org/fast/828309,Q11237
+Praise--Religious aspects--Islam,fast,a--x--x,(OCoLC)fst02017549,,,,Praise--Religious aspects--Islam,http://id.worldcat.org/fast/2017549,Q11244
+Religious life--Islam--Early works to 1800,0,a--x--v,http://id.loc.gov/authorities/subjects/sh86008165,,,,Religious life--Islam;Early works,http://id.worldcat.org/fast/1094119;http://id.worldcat.org/fast/1411636,Q3634;Q300
+Soufisme--Doctrines--Ouvrages avant 1800,6,a--x--v,,,,,Sufism--Doctrines;Early works,http://id.worldcat.org/fast/1137260;http://id.worldcat.org/fast/1411636,Q11235;Q300
+Soufisme--Rituel--Ouvrages avant 1800,6,a--x--v,,,,,Sufism--Rituals;Early works,http://id.worldcat.org/fast/1137268;http://id.worldcat.org/fast/1411636,Q54934;Q300
+Sufism--Doctrines,fast,a--x,,,,,Sufism--Doctrines,http://id.worldcat.org/fast/1137260,Q11235
+Sufism--Rituals,fast,a--x,,,,,Sufism--Rituals,http://id.worldcat.org/fast/1137268,Q54934
+Future life--Islam--Early works to 1800,0,a--x--v,(uri) http://id.loc.gov/authorities/subjects/sh85052611,,,,Future life--Islam;Early works,http://id.worldcat.org/fast/936737;http://id.worldcat.org/fast/1411636,Q11604;Q300
+Future life--Islam,fast,a--x,(OCoLC)fst00936737,,,,Future life--Islam;Islam,http://id.worldcat.org/fast/936737;http://id.worldcat.org/fast/979776,Q11604;Q3549
+Islamic interpretations of Adam,fast,a,(OCoLC)fst01353429,,,,Islamic interpretations of Adam,http://id.worldcat.org/fast/1353429,Q11381
+Islamic eschatology,0,a,http://id.loc.gov/authorities/subjects/sh85044792,,,,Islamic eschatology,http://id.worldcat.org/fast/1730321,Q11161
+Arabs and Islam--Early works to 1800,0,a--v,(uri) http://id.loc.gov/authorities/subjects/sh87000636,Arabs and Islam;Early works,http://id.worldcat.org/fast/812608;http://id.worldcat.org/fast/1411636,Q110415;Q300,,,
+Arabs and Islam,fast,a,(OCoLC)fst00812608,Arabs and Islam,http://id.worldcat.org/fast/812608,Q110415,,,
+Muslim heretics--Early works to 1800,0,a--v,,Muslim heretics;Early works,http://id.worldcat.org/fast/1731773;http://id.worldcat.org/fast/1411636,Q110432;Q300,,,
+Miracles (Islam)--Early works to 1800,0,a--v,(uri) http://id.loc.gov/authorities/subjects/sh85085934,,,,Miracles (Islam);Early works,http://id.worldcat.org/fast/1023547;http://id.worldcat.org/fast/1411636,Q63817;Q300
+Miracles (Islam),fast,a,(OCoLC)fst01023547,,,,Miracles (Islam),http://id.worldcat.org/fast/1023547,Q63817
+Creation (Islam),0,a,http://id.loc.gov/authorities/subjects/sh85033826,,,,Creation (Islam),http://id.worldcat.org/fast/882392,Q11434
+Islam--Relations--Christianity,0,a--x--x,,,,,Islam;Interfaith relations;Christianity,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1353343;http://id.worldcat.org/fast/859599,Q3549;Q7439;Q5915
+Christianity and other religions--Islam,0,a--x,,,,,Christianity and other religions;Islam,http://id.worldcat.org/fast/859685;http://id.worldcat.org/fast/979776,Q4853;Q3549
+Christianity--Controversial literature,0,a--v,,,,,Christianity;Controversial literature,http://id.worldcat.org/fast/859599;http://id.worldcat.org/fast/1423907,Q5915;Q2992
+Islam--Relations--Christianisme,6,a--x--x,,Islam;Interfaith relations;Christianity,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1353343;http://id.worldcat.org/fast/859599,Q3549;Q7439;Q5915,,,
+Christianisme--Relations--Islam,6,a--x--x,,Christianity;Interfaith relations;Islam,http://id.worldcat.org/fast/859599;http://id.worldcat.org/fast/1353343;http://id.worldcat.org/fast/979776,Q5915;Q7439;Q3549,,,
+Christianisme--Ouvrages de controverse,6,a--v,,Christianity;Controversial literature,http://id.worldcat.org/fast/859599;http://id.worldcat.org/fast/1423907,Q5915;Q2992,,,
+Christianity,fast,a,,,,,Christianity,http://id.worldcat.org/fast/859599,Q5915
+Interfaith relations,fast,a,,,,,Interfaith relations,http://id.worldcat.org/fast/1353343,Q7439
+God (Islam)--Early works to 1800,0,a--v,,,,,God (Islam);Early works,http://id.worldcat.org/fast/944142;http://id.worldcat.org/fast/1411636,Q11509;Q300
+Islam--Controversial literature--Early works to 1800,0,a--x--v,,Islam--Controversial literature;Early works,http://id.worldcat.org/fast/979782;http://id.worldcat.org/fast/1411636,Q110416;Q300,,,
+Islamic sects--Early works to 1800,0,a--v,,,,,Islamic sects;Early works,http://id.worldcat.org/fast/980055;http://id.worldcat.org/fast/1411636,Q11443;Q300
+Dieu (Islam)--Ouvrages avant 1800,6,a--v,,,,,God (Islam);Early works,http://id.worldcat.org/fast/944142;http://id.worldcat.org/fast/1411636,Q11509;Q300
+Islam--Ouvrages de controverse--Ouvrages avant 1800,6,a--x--v,,Islam--Controversial literature;Early works,http://id.worldcat.org/fast/979782;http://id.worldcat.org/fast/1411636,Q110416;Q300,,,
+Sectes islamiques--Ouvrages avant 1800,6,a--v,,Islamic sects;Early works,http://id.worldcat.org/fast/980055;http://id.worldcat.org/fast/1411636,Q11443;Q300,,,
+God (Islam),fast,a,,,,,God (Islam),http://id.worldcat.org/fast/944142,Q11509
+Islam--Controversial literature,fast,a--x,,Islam--Controversial literature,http://id.worldcat.org/fast/979782,Q110416,,,
+Islamic sects,fast,a,,,,,Islamic sects,http://id.worldcat.org/fast/980055,Q11443
+Judaism--Controversial literature,0,a--v,,Judaism;Controversial literature,http://id.worldcat.org/fast/984280;http://id.worldcat.org/fast/1423907,Q4197;Q2992,,,
+Islam--Relations--Judaism,0,a--x--x,,,,,Islam;Interfaith relations;Judaism,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1353343;http://id.worldcat.org/fast/984280,Q3549;Q7439;Q4197
+Judaïsme--Ouvrages de controverse,6,a--v,,Judaism;Controversial literature,http://id.worldcat.org/fast/984280;http://id.worldcat.org/fast/1423907,Q4197;Q2992,,,
+Islam--Relations--Judaïsme,6,a--x--x,,Islam;Interfaith relations;Judaism,http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1353343;http://id.worldcat.org/fast/984280,Q3549;Q7439;Q4197,,,
+Judaism,fast,a,,,,,Judaism,http://id.worldcat.org/fast/984280,Q4197
+Sufism--Early works to 1800,0,a--v,http://id.loc.gov/authorities/subjects/sh2008112367--(uri) http://id.loc.gov/authorities/subjects/sh2008112367,,,,Sufism;Early works,http://id.worldcat.org/fast/1137257;http://id.worldcat.org/fast/1411636,Q11239;Q300
+Sufism,fast,a,(OCoLC)fst01137257,,,,Sufism,http://id.worldcat.org/fast/1137257,Q11239
+Sufism--Doctrines--Early works to 1800,0,a--x--v,http://id.loc.gov/authorities/subjects/sh2010115027,,,,Sufism--Doctrines;Early works,http://id.worldcat.org/fast/1137260;http://id.worldcat.org/fast/1411636,Q11235;Q300
+Sufism,0,a,http://id.loc.gov/authorities/subjects/sh85129660--(uri) http://id.loc.gov/authorities/subjects/sh85129660,,,,Sufism,http://id.worldcat.org/fast/1137257,Q11239
+Sufi literature--Early works to 1800,0,a--v,,,,,Sufi literature;Early works,http://id.worldcat.org/fast/1137204;http://id.worldcat.org/fast/1411636,Q48818;Q300
+Kharijites--Doctrines,0,a--x,,Kharijites;Islam--Doctrines,http://id.worldcat.org/fast/987112;http://id.worldcat.org/fast/979787,Q110462;Q11301,,,
+Hashish--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,Hashish;Islam;Early works,http://id.worldcat.org/fast/951784;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636,Q110451;Q3549;Q300,,,
+Marriage--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,,,,Marriage--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/1010506;http://id.worldcat.org/fast/1411636,Q11189;Q300
+Marriage--Religious aspects--Islam,fast,a--x--x,,,,,Marriage--Religious aspects--Islam,http://id.worldcat.org/fast/1010506,Q11189
+Dialectic--Early works to 1800,0,a--v,,,,,Dialectic;Early works,http://id.worldcat.org/fast/892462;http://id.worldcat.org/fast/1411636,Q11445;Q300
+Dialectique--Ouvrages avant 1800,6,a--v,,,,,Dialectic;Early works,http://id.worldcat.org/fast/892462;http://id.worldcat.org/fast/1411636,Q11445;Q300
+Dialectic,fast,a,,,,,Dialectic,http://id.worldcat.org/fast/892462,Q11445
+Musulmans--Morale pratique--Ouvrages avant 1800,6,a--x--v,,,,,Muslims--Conduct of life;Early works,http://id.worldcat.org/fast/1031037;http://id.worldcat.org/fast/1411636,Q11347;Q300
+Sufism--Morocco--History,0,a--z--x,http://id.loc.gov/authorities/subjects/sh2010115022--(uri) http://id.loc.gov/authorities/subjects/sh2010115022,Sufism;Morocco;History,http://id.worldcat.org/fast/1137257;http://id.worldcat.org/fast/1205592;http://id.worldcat.org/fast/1411628,Q11239;Q3567;Q279,,,
+Morocco,fast,a,(OCoLC)fst01205592,,,,Morocco,http://id.worldcat.org/fast/1205592,Q3567
+Menstruation--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,,,,Menstruation--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/2008145;http://id.worldcat.org/fast/1411636,Q103517;Q300
+Anecdotes--Islamic Empire--Early works to 1800,0,a--z--v,,,,,Anecdotes;Islamic Empire;Early works,http://id.worldcat.org/fast/808608;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636,Q27035;Q11211;Q300
+Anecdotes--Empire islamique--Ouvrages avant 1800,6,a--z--v,,Anecdotes;Islamic Empire;Early works,http://id.worldcat.org/fast/808608;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636,Q27035;Q11211;Q300,,,
+Anecdotes,fast,a,,,,,Anecdotes,http://id.worldcat.org/fast/808608,Q27035
+Women--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,,,,Women--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/1176917;http://id.worldcat.org/fast/1411636,Q103515;Q300
+Women--Religious aspects--Islam,fast,a--x--x,,Women--Religious aspects--Islam,http://id.worldcat.org/fast/1176917,Q103515,,,
+Months--Religious aspects--Islam,0,a--x--x,,,,,Months;Islam,http://id.worldcat.org/fast/1025853;http://id.worldcat.org/fast/979776,Q48783;Q3549
+Tenth of Muḥarram,0,a,,Tenth of Muḥarram,http://id.worldcat.org/fast/1147739,Q11213,,,
+Archery--Islamic Empire--Early works to 1800,0,a--z--v,,,,,Archery;Islamic Empire;Early works,http://id.worldcat.org/fast/813043;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636,Q4895;Q11211;Q300
+Sexual ethics--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,,,,Sexual ethics--Religious aspects;Islam;Early works,http://id.worldcat.org/fast/1114840;http://id.worldcat.org/fast/979776;http://id.worldcat.org/fast/1411636,Q64171;Q3549;Q300
+Sufis--Morocco--Fès--History--Early works to 1800,0,a--z--z--x--v,,Sufis;Morocco--Fès;History;Early works,http://id.worldcat.org/fast/1137253;http://id.worldcat.org/fast/1207144;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q11475;Q75296;Q6879;Q300,,,
+Sufis--Genealogy--Early works to 1800,0,a--x--v,,,,,Sufis;Genealogy;Early works,http://id.worldcat.org/fast/1137253;http://id.worldcat.org/fast/939652;http://id.worldcat.org/fast/1411636,Q11475;Q38912;Q300
+Qādirīyah--Early works to 1800,0,a--v,,,,,Qādirīyah;Early works,http://id.worldcat.org/fast/1086201;http://id.worldcat.org/fast/1411636,Q54938;Q300
+Fès (Morocco)--History--Early works to 1800,0,a--x--v,,Morocco--Fès;History;Early works,http://id.worldcat.org/fast/1207144;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q75296;Q6879;Q300,,,
+"Theology, Doctrinal",0,a,http://id.loc.gov/authorities/subjects/sh85134686,,,,"Theology, Doctrinal",http://id.worldcat.org/fast/1149617,Q3578
+Geomancy--Islamic countries--Early works to 1800,0,a--z--v,(uri) http://id.loc.gov/authorities/subjects/sh85054121,,,,Geomancy;Islamic countries;Early works,http://id.worldcat.org/fast/940820;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1411636,Q16328;Q2810;Q300
+Divination--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,(uri) http://id.loc.gov/authorities/subjects/sh85038589,,,,Divination--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/895750;http://id.worldcat.org/fast/1411636,Q38885;Q300
+Divination--Religious aspects--Islam,fast,a--x--x,(OCoLC)fst00895750,,,,Divination--Religious aspects--Islam,http://id.worldcat.org/fast/895750,Q38885
+Geomancy,fast,a,(OCoLC)fst00940820,,,,Geomancy,http://id.worldcat.org/fast/940820,Q16328
+Islamic countries,fast,a,(OCoLC)fst01244130,,,,Islamic countries,http://id.worldcat.org/fast/1244130,Q2810
+Arabic literature--Early works to 1800,0,a--v,,,,,Arabic literature;Early works,http://id.worldcat.org/fast/812478;http://id.worldcat.org/fast/1411636,Q11532;Q300
+"Quotations, Arabic--Early works to 1800",0,a--v,,,,,"Quotations, Arabic;Early works",http://id.worldcat.org/fast/1086142;http://id.worldcat.org/fast/1411636,Q11232;Q300
+Littérature arabe--Ouvrages avant 1800,6,a--v,,Arabic literature;Early works,http://id.worldcat.org/fast/812478;http://id.worldcat.org/fast/1411636,Q11532;Q300,,,
+Arabic literature,fast,a,,,,,Arabic literature,http://id.worldcat.org/fast/812478,Q11532
+"Geography, Arab--Early works to 1800",0,a--v,,,,,"Geography, Arab;Early works",http://id.worldcat.org/fast/940571;http://id.worldcat.org/fast/1411636,Q18341;Q300
+Cities and towns--Islamic Empire--Early works to 1800,0,a--z--v,,Cities and towns;Islamic Empire;Early works,http://id.worldcat.org/fast/861748;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636,Q27046;Q11211;Q300,,,
+Villes--Empire islamique--Ouvrages avant 1800,6,a--z--v,,Cities and towns;Islamic Empire;Early works,http://id.worldcat.org/fast/861748;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636,Q27046;Q11211;Q300,,,
+Cities and towns,fast,a,,,,,Cities and towns,http://id.worldcat.org/fast/861748,Q27046
+"Geography, Arab",fast,a,,,,,"Geography, Arab",http://id.worldcat.org/fast/940571,Q18341
+1600-1699,fast,a,,,,,Seventeenth century,http://id.worldcat.org/fast/1113663,Q2771
+Zoology--Islamic empire--Early works to 1800,0,a--z--v,,,,,Zoology;Islamic Empire;Early works,http://id.worldcat.org/fast/1184696;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636,Q3009;Q11211;Q300
+Islamic magic,0,a,,,,,Islamic magic,http://id.worldcat.org/fast/1730344,Q2807
+Magic squares,0,a,,,,,Magic squares,http://id.worldcat.org/fast/1005506,Q4977
+Magie islamique,6,a,,,,,Islamic magic,http://id.worldcat.org/fast/1730344,Q2807
+Islam--Doctrines,6,a--x,,,,,Islam--Doctrines,http://id.worldcat.org/fast/979787,Q11301
+Prayers,0,a,http://id.loc.gov/authorities/subjects/sh85106139,,,,Prayers,http://id.worldcat.org/fast/1074737,Q153
+Christian saints--Syria,0,a--z,,Christian saints;Syria,http://id.worldcat.org/fast/859491;http://id.worldcat.org/fast/1208757,Q10812;Q11447,,,
+"Weights and measures, Arab--Early works to 1800",0,a--v,,,,,"Weights and measures, Arab;Early works",http://id.worldcat.org/fast/1173519;http://id.worldcat.org/fast/1411636,Q11315;Q300
+Mawlid al-Nabī,0,a,http://id.loc.gov/authorities/subjects/sh85082344,Mawlid al-Nabī,http://id.worldcat.org/fast/1012586,Q26638,,,
+Jews--History--To 70 A.D.,0,a--x--y,http://id.loc.gov/authorities/subjects/sh85070397,Jews;History,http://id.worldcat.org/fast/983135;http://id.worldcat.org/fast/958235,Q323;Q6879,,,
+"Jews--History--Rebellion, 66-73",0,a--x--y,http://id.loc.gov/authorities/subjects/sh85070405,,,,Jews;History;Jewish Rebellion (66-73 A.D.),http://id.worldcat.org/fast/983135;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1404530,Q323;Q6879;Q261
+Emperors--Rome--Biography,0,a--z--v,http://id.loc.gov/authorities/subjects/sh2008103002,,,,Emperors;Rome (Empire);Biographies,http://id.worldcat.org/fast/908898;http://id.worldcat.org/fast/1204885;http://id.worldcat.org/fast/1919896,Q5835;Q3038;Q3051
+Maccabees,0,a,http://id.loc.gov/authorities/subjects/sh85079260,Maccabees,http://id.worldcat.org/fast/1004677,Q67895,,,
+Education of princes--Islamic Empire--Early works to 1800,0,a--z--v,,,,,Education of princes;Islamic Empire;Early works,http://id.worldcat.org/fast/902875;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636,Q3071;Q11211;Q300
+"Astrology, Arab",0,a,http://id.loc.gov/authorities/subjects/sh85008896,,,,"Astrology, Arab",http://id.worldcat.org/fast/819451,Q3616
+Zodiac,0,a,http://id.loc.gov/authorities/subjects/sh85149938,,,,Zodiac,http://id.worldcat.org/fast/1184573,Q3030
+Litanies--Catholic Church--Antiochene rite,0,a--x--x,,Litanies--Catholic Church;Antiochene rite (Catholic Church),http://id.worldcat.org/fast/2027635;http://id.worldcat.org/fast/1431858,Q38984;Q110383,,,
+Litanies--Catholic Church--Maronite rite,0,a--x--x,,Litanies--Catholic Church;Maronite rite (Catholic Church),http://id.worldcat.org/fast/2027635;http://id.worldcat.org/fast/1695167,Q38984;Q110382,,,
+Islam--Doctrines,0,a--x,http://id.loc.gov/authorities/subjects/sh85068396,,,,Islam--Doctrines,http://id.worldcat.org/fast/979787,Q11301
+Islam--Customs and practices,0,a--x,http://id.loc.gov/authorities/subjects/sh87005732,,,,Islam--Customs and practices,http://id.worldcat.org/fast/979785,Q11380
+Islam--Rituals,0,a--x,http://id.loc.gov/authorities/subjects/sh90001655,,,,Islam--Rituals,http://id.worldcat.org/fast/979845,Q11593
+Talismans--Islamic countries,0,a--z,,,,,Talismans;Islamic countries,http://id.worldcat.org/fast/1142279;http://id.worldcat.org/fast/1244130,Q4822;Q2810
+Shīʻah--Doctrines--Early works to 1800,0,a--x--v,,,,,Shīʻah--Doctrines;Early works,http://id.worldcat.org/fast/1117948;http://id.worldcat.org/fast/1411636,Q39091;Q300
+Sufis--Doctrines--Early works to 1800,0,a--x--v,,Sufism--Doctrines;Early works,http://id.worldcat.org/fast/1137260;http://id.worldcat.org/fast/1411636,Q11235;Q300,,,
+Islamic ethics,0,a,http://id.loc.gov/authorities/subjects/sh85068451,,,,Islamic ethics,http://id.worldcat.org/fast/979936,Q11320
+Religious life--Islam,0,a--x,http://id.loc.gov/authorities/subjects/sh85112674,,,,Religious life--Islam,http://id.worldcat.org/fast/1094119,Q3634
+"Penmanship, Arabic--14th century",0,a--y,,"Penmanship, Arabic;Fourteenth century",http://id.worldcat.org/fast/1056977;http://id.worldcat.org/fast/933420,Q26943;Q295,,,
+"Writing, Arabic--14th century",0,a--y,,"Writing, Arabic;Fourteenth century",http://id.worldcat.org/fast/1181678;http://id.worldcat.org/fast/933420,Q75956;Q295,,,
+Arabic prose literature,0,a,,,,,Arabic prose literature,http://id.worldcat.org/fast/812549,Q11444
+Codicology,0,a,,,,,Codicology,http://id.worldcat.org/fast/866236,Q55321
+Prose arabe,6,a,,Arabic prose literature,http://id.worldcat.org/fast/812549,Q11444,,,
+Codicologie,6,a,,Codicology,http://id.worldcat.org/fast/866236,Q55321,,,
+Codicology,fast,a,,Codicology,http://id.worldcat.org/fast/866236,Q55321,,,
+"Penmanship, Arabic",fast,a,,,,,"Penmanship, Arabic",http://id.worldcat.org/fast/1056977,Q26943
+"Writing, Arabic",fast,a,,"Writing, Arabic",http://id.worldcat.org/fast/1181678,Q75956,,,
+Islam--Doctrines--History--14th century--Sources,0,a--x--x--y--v,,,,,Islam--Doctrines;History;Fourteenth century;Sources,http://id.worldcat.org/fast/979787;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/933420;http://id.worldcat.org/fast/1423900,Q11301;Q6879;Q295;Q2769
+Islam--Doctrines--History--15th century--Sources,0,a--x--x--y--v,,,,,Islam--Doctrines;History;Fifteenth century;Sources,http://id.worldcat.org/fast/979787;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/923962;http://id.worldcat.org/fast/1423900,Q11301;Q6879;Q154;Q2769
+Islam--Doctrines--Histoire--14e siècle--Sources,6,a--x--x--y--v,,Islam--Doctrines;History;Fourteenth century;Sources,http://id.worldcat.org/fast/979787;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/933420;http://id.worldcat.org/fast/1423900,Q11301;Q6879;Q295;Q2769,,,
+Islam--Doctrines--Histoire--15e siècle--Sources,6,a--x--x--y--v,,,,,Islam--Doctrines;History;Fifteenth century;Sources,http://id.worldcat.org/fast/979787;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/923962;http://id.worldcat.org/fast/1423900,Q11301;Q6879;Q154;Q2769
+1300-1499,fast,a,,,,,Fourteenth century;Fifteenth century,http://id.worldcat.org/fast/933420;http://id.worldcat.org/fast/923962,Q295;Q154
+Islamic ethics--History--12th century--Sources,0,a--x--y--v,,Islamic ethics;History;Twelfth century;Sources,http://id.worldcat.org/fast/979936;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1159791;http://id.worldcat.org/fast/1423900,Q11320;Q6879;Q304;Q2769,,,
+1100-1199,fast,a,,,,,Twelfth century,http://id.worldcat.org/fast/1159791,Q304
+Cosmography,0,a,http://id.loc.gov/authorities/subjects/sh85033167,Cosmography,http://id.worldcat.org/fast/880594,Q321,,,
+"Geography, Arab",0,a,http://id.loc.gov/authorities/subjects/sh85054014,"Geography, Arab",http://id.worldcat.org/fast/940571,Q18341,,,
+"Qiblah--Charts, diagrams, etc.--Specimens",0,a--v--v,,"Qiblah;Charts, diagrams, etc.;Specimens",http://id.worldcat.org/fast/1084840;http://id.worldcat.org/fast/1423732;http://id.worldcat.org/fast/1423861,Q11150;Q38448;Q239,,,
+Horses--Arab countries--Early works to 1800,0,a--z--v,,Horses;Arab countries;Early works,http://id.worldcat.org/fast/960603;http://id.worldcat.org/fast/1240128;http://id.worldcat.org/fast/1411636,Q2783;Q218;Q300,,,
+Horses--Islamic Empire--Early works to 1800,0,a--z--v,,,,,Horses;Islamic Empire;Early works,http://id.worldcat.org/fast/960603;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636,Q2783;Q11211;Q300
+Waqf--Books--History--18th century--Sources,0,a--x--x--y--v,,Waqf;Books;History;Eighteenth century;Sources,http://id.worldcat.org/fast/1170323;http://id.worldcat.org/fast/836401;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/904058;http://id.worldcat.org/fast/1423900,Q11403;Q40000;Q6879;Q3024;Q2769,,,
+Account books,fast,a,,,,,Account books,http://id.worldcat.org/fast/795342,Q38801
+Future life--Islam--Early works to 1800,0,a--x--v,,,,,Future life--Islam;Early works,http://id.worldcat.org/fast/936737;http://id.worldcat.org/fast/1411636,Q11604;Q300
+Judgment Day (Islam)--Early works to 1800,0,a--v,,,,,Judgment Day (Islam);Early works,http://id.worldcat.org/fast/984597;http://id.worldcat.org/fast/1411636,Q11282;Q300
+Islamic cosmology--Early works to 1800,0,a--v,,,,,Islamic cosmology;Early works,http://id.worldcat.org/fast/979918;http://id.worldcat.org/fast/1411636,Q3055;Q300
+Arabs and Islam--Early works to 1800,0,a--v,,Arabs and Islam;Early works,http://id.worldcat.org/fast/812608;http://id.worldcat.org/fast/1411636,Q110415;Q300,,,
+Miracles (Islam)--Early works to 1800,0,a--v,,,,,Miracles (Islam);Early works,http://id.worldcat.org/fast/1023547;http://id.worldcat.org/fast/1411636,Q63817;Q300
+Revelation--Islam--Early works to 1800,0,a--x--v,,Revelation--Islam;Early works,http://id.worldcat.org/fast/1096468;http://id.worldcat.org/fast/1411636,Q11169;Q300,,,
+Travel--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,,,,Travel--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/1155589;http://id.worldcat.org/fast/1411636,Q64191;Q300
+Muslims--Biography--Early works to 1800,0,a--v--v,,,,,Muslims;Biographies;Early works,http://id.worldcat.org/fast/1031029;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q11528;Q3051;Q300
+Egypt--Kings and rulers--Biography,0,a--x--v,,Egypt;Kings and rulers;Biography,http://id.worldcat.org/fast/1208755;http://id.worldcat.org/fast/987694;http://id.worldcat.org/fast/832149,Q11259;Q305;Q27365,,,
+Hejaz (Saudi Arabia)--History--19th century,0,a--x--y,,Saudi Arabia--Hejaz;History;Nineteenth century,http://id.worldcat.org/fast/1291494;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1037841,Q64193;Q6879;Q3538,,,
+Peloponnesus (Greece : Peninsula)--History,0,a--x,,Greece--Peloponnesus (Peninsula);History,http://id.worldcat.org/fast/1800940;http://id.worldcat.org/fast/958235,Q27349;Q6879,,,
+Birth of a person,fast,a,,,,,Birth of a person,http://id.worldcat.org/fast/1185270,Q11147
+Friendship,fast,a,,,,,Friendship,http://id.worldcat.org/fast/935174,Q7117
+Islamic Empire--Biography--Early works to 1800,0,a--v--v,,,,,Islamic Empire;Biographies;Early works,http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q11211;Q3051;Q300
+Malikites--Biography--Early works to 1800,0,a--v--v,,,,,Malikites;Biographies;Early works,http://id.worldcat.org/fast/1006724;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q11210;Q3051;Q300
+Malékites--Biographies--Ouvrages avant 1800,6,a--v--v,,Malikites;Biographies;Early works,http://id.worldcat.org/fast/1006724;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q11210;Q3051;Q300,,,
+Malikites,fast,a,,,,,Malikites,http://id.worldcat.org/fast/1006724,Q11210
+Alids--Genealogy--Early works to 1800,0,a--x--v,,Alids;Genealogy;Early works,http://id.worldcat.org/fast/805047;http://id.worldcat.org/fast/939652;http://id.worldcat.org/fast/1411636,Q48821;Q38912;Q300,,,
+ʻAlides--Généalogies--Ouvrages avant 1800,6,a--x--v,,Alids;Genealogy;Early works,http://id.worldcat.org/fast/805047;http://id.worldcat.org/fast/939652;http://id.worldcat.org/fast/1411636,Q48821;Q38912;Q300,,,
+Muslim women--Biography--Early works to 1800,0,a--v--v,,,,,Muslim women;Biographies;Early works,http://id.worldcat.org/fast/1030996;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q101312;Q3051;Q300
+Musulmanes--Biographies--Ouvrages avant 1800,6,a--v--v,,Muslim women;Biographies;Early works,http://id.worldcat.org/fast/1030996;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q101312;Q3051;Q300,,,
+Muslim women,fast,a,,Muslim women,http://id.worldcat.org/fast/1030996,Q101312,,,
+Ulama--Turkey--Biography--Early works to 1800,0,a--z--v--v,(uri) http://id.loc.gov/authorities/subjects/sh85139423,,,,Ulama;Turkey;Biographies;Early works,http://id.worldcat.org/fast/1160605;http://id.worldcat.org/fast/1208963;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q11355;Q4294;Q3051;Q300
+Ulama,fast,a,(OCoLC)fst01160605,,,,Ulama,http://id.worldcat.org/fast/1160605,Q11355
+Turkey,fast,a,(OCoLC)fst01208963,,,,Turkey,http://id.worldcat.org/fast/1208963,Q4294
+Ulama--Turkey--Biography--Early works to 1800,0,a--z--v--v,,,,,Ulama;Turkey;Biographies;Early works,http://id.worldcat.org/fast/1160605;http://id.worldcat.org/fast/1208963;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q11355;Q4294;Q3051;Q300
+Ulama,fast,a,,,,,Ulama,http://id.worldcat.org/fast/1160605,Q11355
+Turkey,fast,a,,,,,Turkey,http://id.worldcat.org/fast/1208963,Q4294
+Hejaz (Saudi Arabia)--Biography--17th century--Early works to 1800,0,a--v--y--v,,Saudi Arabia--Hejaz;Biographies;Seventeenth century;Early works,http://id.worldcat.org/fast/1291494;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1113663;http://id.worldcat.org/fast/1411636,Q64193;Q3051;Q2771;Q300,,,
+Yemen (Republic)--Biography--17th century--Early works to 1800,0,a--v--y--v,,Yemen (Republic);Biographies;Seventeenth century;Early works,http://id.worldcat.org/fast/1309629;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1113663;http://id.worldcat.org/fast/1411636,Q11522;Q3051;Q2771;Q300,,,
+Yemen (Republic),fast,a,(OCoLC)fst01309629,,,,Yemen (Republic),http://id.worldcat.org/fast/1309629,Q11522
+Muslim scholars--Yemen (Republic)--Biography,0,a--z--v,,Muslim scholars;Yemen (Republic);Biographies,http://id.worldcat.org/fast/1731774;http://id.worldcat.org/fast/1309629;http://id.worldcat.org/fast/1919896,Q11224;Q11522;Q3051,,,
+Savants musulmans--Biographies,6,a--v,,Muslim scholars;Biographies,http://id.worldcat.org/fast/1731774;http://id.worldcat.org/fast/1919896,Q11224;Q3051,,,
+Creation (Islam)--Early works to 1800,0,a--v,,,,,Creation (Islam);Early works,http://id.worldcat.org/fast/882392;http://id.worldcat.org/fast/1411636,Q11434;Q300
+"Prophets, Pre-Islamic--Early works to 1800",0,a--v,,,,,"Prophets, Pre-Islamic;Early works",http://id.worldcat.org/fast/1079226;http://id.worldcat.org/fast/1411636,Q11519;Q300
+Création (Islam)--Ouvrages avant 1800,6,a--v,,,,,Creation (Islam);Early works,http://id.worldcat.org/fast/882392;http://id.worldcat.org/fast/1411636,Q11434;Q300
+Prophètes préislamiques--Ouvrages avant 1800,6,a--v,,,,,"Prophets, Pre-Islamic;Early works",http://id.worldcat.org/fast/1079226;http://id.worldcat.org/fast/1411636,Q11519;Q300
+Creation (Islam),fast,a,,,,,Creation (Islam),http://id.worldcat.org/fast/882392,Q11434
+"Prophets, Pre-Islamic",fast,a,,,,,"Prophets, Pre-Islamic",http://id.worldcat.org/fast/1079226,Q11519
+Egypt--Kings and rulers--Early works to 1800,0,a--x--v,,,,,Egypt;Kings and rulers;Early works,http://id.worldcat.org/fast/1208755;http://id.worldcat.org/fast/987694;http://id.worldcat.org/fast/1411636,Q11259;Q305;Q300
+"Folk literature, Arabic--Early works to 1800",0,a--v,,,,,"Folk literature, Arabic;Early works",http://id.worldcat.org/fast/928918;http://id.worldcat.org/fast/1411636,Q11603;Q300
+Damascus (Syria)--Description and travel--Early works to 1800,0,a--x--v,,,,,Syria--Damascus;Voyages and travels;Early works,http://id.worldcat.org/fast/1207112;http://id.worldcat.org/fast/1169308;http://id.worldcat.org/fast/1411636,Q11409;Q3600;Q300
+"Geography, Medieval--Early works to 1800",0,a--v,,,,,"Geography, Medieval;Early works",http://id.worldcat.org/fast/940573;http://id.worldcat.org/fast/1411636,Q214;Q300
+God (Islam)--Proof--Early works to 1800,0,a--x--v,,,,,God (Islam)--Proof;Early works,http://id.worldcat.org/fast/944150;http://id.worldcat.org/fast/1411636,Q6876;Q300
+Dieu (Islam)--Existence--Ouvrages avant 1800,6,a--x--v,,God (Islam)--Proof;Early works,http://id.worldcat.org/fast/944150;http://id.worldcat.org/fast/1411636,Q6876;Q300,,,
+God (Islam)--Proof,fast,a--x,,God (Islam)--Proof,http://id.worldcat.org/fast/944150,Q6876,,,
+Marriage--Religious aspects--Islam,0,a--x--x,,Marriage--Religious aspects--Islam,http://id.worldcat.org/fast/1010506,Q11189,,,
+Astrologie arabe--Ouvrages avant 1800,6,a--v,,"Astrology, Arab;Early works",http://id.worldcat.org/fast/819451;http://id.worldcat.org/fast/1411636,Q3616;Q300,,,
+"Astrology, Arab--Early works to 1800",0,a--v,(uri) http://id.loc.gov/authorities/subjects/sh85008896,,,,"Astrology, Arab;Early works",http://id.worldcat.org/fast/819451;http://id.worldcat.org/fast/1411636,Q3616;Q300
+"Astrology, Arab",fast,a,(OCoLC)fst00819451,,,,"Astrology, Arab",http://id.worldcat.org/fast/819451,Q3616
+Timekeeping--Early works to 1800,0,a--v,,,,,Timekeeping;Early works,http://id.worldcat.org/fast/1151204;http://id.worldcat.org/fast/1411636,Q11354;Q300
+Personnel--Contrôle de la durée du travail--Ouvrages avant 1800,6,a--x--v,,,,,Timekeeping;Early works,http://id.worldcat.org/fast/1151204;http://id.worldcat.org/fast/1411636,Q11354;Q300
+Timekeeping,fast,a,,,,,Timekeeping,http://id.worldcat.org/fast/1151204,Q11354
+Cosmologie islamique--Ouvrages avant 1800,6,a--v,,,,,Islamic cosmology;Early works,http://id.worldcat.org/fast/979918;http://id.worldcat.org/fast/1411636,Q3055;Q300
+Islamic cosmology,fast,a,,,,,Islamic cosmology,http://id.worldcat.org/fast/979918,Q3055
+Astronomical instruments--Early works to 1800,0,a--v,(uri) http://id.loc.gov/authorities/subjects/sh85008996,,,,Astronomical instruments;Early works,http://id.worldcat.org/fast/819641;http://id.worldcat.org/fast/1411636,Q2809;Q300
+Timekeeping--Early works to 1800,0,a--v,(uri) http://id.loc.gov/authorities/subjects/sh85135438,,,,Timekeeping;Early works,http://id.worldcat.org/fast/1151204;http://id.worldcat.org/fast/1411636,Q11354;Q300
+Astronomical instruments,fast,a,(OCoLC)fst00819641,,,,Astronomical instruments,http://id.worldcat.org/fast/819641,Q2809
+Timekeeping,fast,a,(OCoLC)fst01151204,,,,Timekeeping,http://id.worldcat.org/fast/1151204,Q11354
+Afghans--Genealogy,0,a--x,,Afghans;Genealogy,http://id.worldcat.org/fast/798948;http://id.worldcat.org/fast/939652,Q110463;Q38912,,,
+Syria--History--Early works to 1800,0,a--x--v,,Syria;History;Early works,http://id.worldcat.org/fast/1208757;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q11447;Q6879;Q300,,,
+Palestine--History--638-1917--Early works to 1800,0,a--x--y--v,,Middle East--Palestine;History;Early works,http://id.worldcat.org/fast/1207534;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q7204;Q6879;Q300,,,
+Syrie--Histoire--Ouvrages avant 1800,6,a--x--v,,Syria;History;Early works,http://id.worldcat.org/fast/1208757;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q11447;Q6879;Q300,,,
+Palestine--Histoire--638-1917--Ouvrages avant 1800,6,a--x--y--v,,Middle East--Palestine;History;Early works,http://id.worldcat.org/fast/1207534;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q7204;Q6879;Q300,,,
+Middle East--Palestine,fast,a--z,,,,,Middle East--Palestine,http://id.worldcat.org/fast/1207534,Q7204
+638-1917,fast,a,,,,,,,
+Egypt--Historical geography--Early works to 1800,0,a--x--v,,Egypt;Historical geography;Early works,http://id.worldcat.org/fast/1208755;http://id.worldcat.org/fast/958122;http://id.worldcat.org/fast/1411636,Q11259;Q11325;Q300,,,
+Egypt--History--Early works to 1800,0,a--x--v,,,,,Egypt;History;Early works,http://id.worldcat.org/fast/1208755;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q11259;Q6879;Q300
+Syria--Historical geography--Early works to 1800,0,a--x--v,,Syria;Historical geography;Early works,http://id.worldcat.org/fast/1208757;http://id.worldcat.org/fast/958122;http://id.worldcat.org/fast/1411636,Q11447;Q11325;Q300,,,
+Égypte--Histoire--Ouvrages avant 1800,6,a--x--v,,Egypt;History;Early works,http://id.worldcat.org/fast/1208755;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636,Q11259;Q6879;Q300,,,
+Historical geography,fast,a,,,,,Historical geography,http://id.worldcat.org/fast/958122,Q11325
+Kings and rulers--Duties--Arab countries--Early works to 1800,0,a--x--z--v,,Kings and rulers--Duties;Arab countries;Early works,http://id.worldcat.org/fast/987703;http://id.worldcat.org/fast/1240128;http://id.worldcat.org/fast/1411636,Q339;Q218;Q300,,,
+Islamic calligraphy--Early works to 1800,0,a--v,,Islamic calligraphy;Early works,http://id.worldcat.org/fast/1430565;http://id.worldcat.org/fast/1411636,Q75957;Q300,,,
+Political science--Islamic Empire--13th century,0,a--z--y,,Political science;Islamic Empire;Thirteenth century,http://id.worldcat.org/fast/1069781;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1150138,Q2976;Q11211;Q245,,,
+Islam and politics--Early works to 1800,0,a--v,,,,,Islam and politics;Early works,http://id.worldcat.org/fast/979879;http://id.worldcat.org/fast/1411636,Q11254;Q300
+Islam and politics,fast,a,,,,,Islam and politics,http://id.worldcat.org/fast/979879,Q11254
+Qādirīyah members--Biography--Early works to 1800,0,a--v--v,,,,,Qādirīyah members;Biographies;Early works,http://id.worldcat.org/fast/1086203;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q54948;Q3051;Q300
+Qādirīyah members,fast,a,,Qādirīyah members,http://id.worldcat.org/fast/1086203,Q54948,,,
+Zoology--Islamic empire--14th century,0,a--z--y,,,,,Zoology;Islamic Empire;Fourteenth century,http://id.worldcat.org/fast/1184696;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/933420,Q3009;Q11211;Q295
+Fasting--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,,,,Fasting--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/921734;http://id.worldcat.org/fast/1411636,Q11535;Q300
+Fasts and feasts--Islam--Early works to 1800,0,a--x--v,,,,,Fasts and feasts--Islam;Early works,http://id.worldcat.org/fast/921756;http://id.worldcat.org/fast/1411636,Q64209;Q300
+Jumʻah--Early works to 1800,0,a--v,,,,,Jumʻah;Early works,http://id.worldcat.org/fast/984834;http://id.worldcat.org/fast/1411636,Q11206;Q300
+Muslim pilgrims and pilgrimages--Saudi Arabia--Mecca--Early works to 1800,0,a--z--z--v,,,,,Muslim pilgrims and pilgrimages;Saudi Arabia--Mecca;Early works,http://id.worldcat.org/fast/1030970;http://id.worldcat.org/fast/1204780;http://id.worldcat.org/fast/1411636,Q11313;Q11321;Q300
+Shīʻah--Early works to 1800,0,a--v,,,,,Shīʻah;Early works,http://id.worldcat.org/fast/1117946;http://id.worldcat.org/fast/1411636,Q11431;Q300
+Shīʻah--Rituals--Early works to 1800,0,a--x--v,,,,,Shīʻah--Rituals;Early works,http://id.worldcat.org/fast/1117959;http://id.worldcat.org/fast/1411636,Q103514;Q300
+"Manuscripts, Persian--New Jersey--Princeton",0,a--z--z,(uri) http://id.loc.gov/authorities/subjects/sh85080754,,,,"Manuscripts, Persian;New Jersey--Princeton",http://id.worldcat.org/fast/1008462;http://id.worldcat.org/fast/1204939,Q255;Q11460
+"Manuscripts, Persian",fast,a,(OCoLC)fst01008462,,,,"Manuscripts, Persian",http://id.worldcat.org/fast/1008462,Q255
+Egypt--Kings and rulers,0,a--x,http://id.loc.gov/authorities/subjects/sh85041313,Egypt;Kings and rulers,http://id.worldcat.org/fast/1208755;http://id.worldcat.org/fast/987694,Q11259;Q305,,,
+"Proverbs, Arabic--Early works to 1800",0,a--v,,,,,"Proverbs, Arabic;Early works",http://id.worldcat.org/fast/1080229;http://id.worldcat.org/fast/1411636,Q11252;Q300
+Califes--Biographies--Ouvrages avant 1800,6,a--v--v,,Caliphs;Biographies;Early works,http://id.worldcat.org/fast/844318;http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1411636,Q11342;Q3051;Q300,,,
+Caliphs,fast,a,,,,,Caliphs,http://id.worldcat.org/fast/844318,Q11342
+Kings and rulers,fast,a,,,,,Kings and rulers,http://id.worldcat.org/fast/987694,Q305
+Animals--Religious aspects--Islam--14th century,0,a--x--x--y,,Animals--Religious aspects--Islam;Fourteenth century,http://id.worldcat.org/fast/809532;http://id.worldcat.org/fast/933420,Q48974;Q295,,,
+Muslims--Dietary laws--14th century,0,a--x--y,,Muslims--Dietary laws;Fourteenth century,http://id.worldcat.org/fast/1031040;http://id.worldcat.org/fast/933420,Q11323;Q295,,,
+Muslim scholars--Certification--History--15th century--Sources,0,a--x--x--y--v,,,,,Muslim scholars;History;Fifteenth century;Sources,http://id.worldcat.org/fast/1731774;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/923962;http://id.worldcat.org/fast/1423900,Q11224;Q6879;Q154;Q2769
+Muslim scholars--Certification--Syria--Aleppo--History--15th century--Sources,0,a--x--z--z--x--y--v,,Muslim scholars;Syria--Aleppo;History;Fifteenth century;Sources,http://id.worldcat.org/fast/1731774;http://id.worldcat.org/fast/1213345;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/923962;http://id.worldcat.org/fast/1423900,Q11224;Q54953;Q6879;Q154;Q2769,,,
+Animals--Religious aspects--Islam,fast,a--x--x,,Animals--Religious aspects--Islam,http://id.worldcat.org/fast/809532,Q48974,,,
+Muslims--Dietary laws,fast,a--x,,Muslims--Dietary laws,http://id.worldcat.org/fast/1031040,Q11323,,,
+Syria--Aleppo,fast,a--z,,,,,Syria--Aleppo,http://id.worldcat.org/fast/1213345,Q54953
+Classification of sciences--Islamic empire--13th century,0,a--z--y,,Classification of sciences;Islamic Empire;Thirteenth century,http://id.worldcat.org/fast/863687;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1150138,Q11361;Q11211;Q245,,,
+Classification of sciences--Islamic empire--14th century,0,a--z--y,,Classification of sciences;Islamic Empire;Fourteenth century,http://id.worldcat.org/fast/863687;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/933420,Q11361;Q11211;Q295,,,
+Classification of sciences,fast,a,,,,,Classification of sciences,http://id.worldcat.org/fast/863687,Q11361
+1200-1399,fast,a,,,,,Thirteenth century;Fourteenth century,http://id.worldcat.org/fast/1150138;http://id.worldcat.org/fast/933420,Q245;Q295
+Sufism--Doctrines--12th century,0,a--x--y,,Sufism--Doctrines;Twelfth century,http://id.worldcat.org/fast/1137260;http://id.worldcat.org/fast/1159791,Q11235;Q304,,,
+Muslim saints--Biography--12th century,0,a--x--y,,Muslim saints;Biography;Twelfth century,http://id.worldcat.org/fast/1030977;http://id.worldcat.org/fast/832149;http://id.worldcat.org/fast/1159791,Q11264;Q27365;Q304,,,
+Sufism--Doctrines,0,a--x,http://id.loc.gov/authorities/subjects/sh2008112365,,,,Sufism--Doctrines,http://id.worldcat.org/fast/1137260,Q11235
+Soul--Islam,0,a--x,http://id.loc.gov/authorities/subjects/sh85125354,,,,Soul--Islam,http://id.worldcat.org/fast/1126918,Q11550
+God (Islam),0,a,http://id.loc.gov/authorities/subjects/sh85055570,,,,God (Islam),http://id.worldcat.org/fast/944142,Q11509
+God (Islam),fast,a,(OCoLC)fst00944142,,,,God (Islam),http://id.worldcat.org/fast/944142,Q11509
+Soul--Islam,fast,a--x,(OCoLC)fst01126918,,,,Soul--Islam,http://id.worldcat.org/fast/1126918,Q11550
+Soul--Islam--Early works to 1800,0,a--x--v,,,,,Soul--Islam;Early works,http://id.worldcat.org/fast/1126918;http://id.worldcat.org/fast/1411636,Q11550;Q300
+God (Islam)--Early works to 1800,0,a--v,http://id.loc.gov/authorities/subjects/sh2008118219,,,,God (Islam);Early works,http://id.worldcat.org/fast/944142;http://id.worldcat.org/fast/1411636,Q11509;Q300
+Sufism--Doctrines,0,a--x,,,,,Sufism--Doctrines,http://id.worldcat.org/fast/1137260,Q11235
+Soul--Islam,0,a--x,,,,,Soul--Islam,http://id.worldcat.org/fast/1126918,Q11550
+God (Islam),0,a,,,,,God (Islam),http://id.worldcat.org/fast/944142,Q11509
+Soufisme--Doctrines,6,a--x,,,,,Sufism--Doctrines,http://id.worldcat.org/fast/1137260,Q11235
+Âme--Islam,6,a--x,,,,,Soul--Islam,http://id.worldcat.org/fast/1126918,Q11550
+Dieu (Islam),6,a,,God (Islam),http://id.worldcat.org/fast/944142,Q11509,,,
+God (Islam)--Attributes--Early works to 1800,0,a--x--v,http://id.loc.gov/authorities/subjects/sh2008118218,,,,God (Islam)--Attributes;Early works,http://id.worldcat.org/fast/944143;http://id.worldcat.org/fast/1411636,Q11577;Q300
+God (Islam)--Attributes,fast,a--x,(OCoLC)fst00944143,,,,God (Islam)--Attributes,http://id.worldcat.org/fast/944143,Q11577
+Sufis--Conduct of life--Early works to 1800,0,a--x--v,,,,,Sufis;Conduct of life;Early works,http://id.worldcat.org/fast/1137253;http://id.worldcat.org/fast/874563;http://id.worldcat.org/fast/1411636,Q11475;Q4792;Q300
+God (Islam)--Knowableness--Early works to 1800,0,a--x--v,,God (Islam)--Knowableness;Early works,http://id.worldcat.org/fast/944146;http://id.worldcat.org/fast/1411636,Q110417;Q300,,,
+God (Islam)--Knowableness,fast,a--x,(OCoLC)fst00944146,God (Islam)--Knowableness,http://id.worldcat.org/fast/944146,Q110417,,,
+Dervishes--Customs and practices--Early works to 1800,0,a--x--v,,,,,Dervishes;Sufism--Customs and practices;Early works,http://id.worldcat.org/fast/891104;http://id.worldcat.org/fast/1137259;http://id.worldcat.org/fast/1411636,Q11531;Q48767;Q300
+Dervishes--Conduct of life--Early works to 1800,0,a--x--v,,,,,Dervishes;Conduct of life;Early works,http://id.worldcat.org/fast/891104;http://id.worldcat.org/fast/874563;http://id.worldcat.org/fast/1411636,Q11531;Q4792;Q300
+Sufism--Rituals,fast,a--x,(OCoLC)fst01137268,,,,Sufism--Rituals,http://id.worldcat.org/fast/1137268,Q54934
+Dervishes--Customs and practices,0,a--x,,,,,Dervishes;Sufism--Customs and practices,http://id.worldcat.org/fast/891104;http://id.worldcat.org/fast/1137259,Q11531;Q48767
+Dervishes--Conduct of life,0,a--x,,,,,Dervishes;Conduct of life,http://id.worldcat.org/fast/891104;http://id.worldcat.org/fast/874563,Q11531;Q4792
+Derviches--Coutumes et pratiques,6,a--x,,,,,Dervishes;Sufism--Customs and practices,http://id.worldcat.org/fast/891104;http://id.worldcat.org/fast/1137259,Q11531;Q48767
+Derviches--Morale pratique,6,a--x,,Dervishes;Conduct of life,http://id.worldcat.org/fast/891104;http://id.worldcat.org/fast/874563,Q11531;Q4792,,,
+God (Islam)--Doctrines--Early works to 1800,0,a--x--v,,,,,God (Islam);Islam--Doctrines;Early works,http://id.worldcat.org/fast/944142;http://id.worldcat.org/fast/979787;http://id.worldcat.org/fast/1411636,Q11509;Q11301;Q300
+Dieu (Islam)--Doctrines--Ouvrages avant 1800,6,a--x--v,,God (Islam);Early works,http://id.worldcat.org/fast/944142;http://id.worldcat.org/fast/1411636,Q11509;Q300,,,
+God (Islam)--Attributes--Early works to 1800,0,a--x--v,,,,,God (Islam)--Attributes;Early works,http://id.worldcat.org/fast/944143;http://id.worldcat.org/fast/1411636,Q11577;Q300
+God--Simplicity--Early works to 1800,0,a--x--v,,God--Simplicity;Early works,http://id.worldcat.org/fast/944116;http://id.worldcat.org/fast/1411636,Q110455;Q300,,,
+Dieu (Islam)--Attributs--Ouvrages avant 1800,6,a--x--v,,God (Islam)--Attributes;Early works,http://id.worldcat.org/fast/944143;http://id.worldcat.org/fast/1411636,Q11577;Q300,,,
+Dieu--Simplicité--Ouvrages avant 1800,6,a--x--v,,God--Simplicity;Early works,http://id.worldcat.org/fast/944116;http://id.worldcat.org/fast/1411636,Q110455;Q300,,,
+Coptic language--Grammar,0,a--x,http://id.loc.gov/authorities/subjects/sh2009121873,Coptic language--Grammar,http://id.worldcat.org/fast/878623,Q110456,,,
+Coptic language--Numerals,0,a--x,,Coptic language;Numerals,http://id.worldcat.org/fast/878617;http://id.worldcat.org/fast/1041254,Q27005;Q110464,,,
+Faith (Islam),0,a,http://id.loc.gov/authorities/subjects/sh85046930,,,,Faith (Islam),http://id.worldcat.org/fast/919954,Q11466
+Faith (Islam),fast,a,(OCoLC)fst00919954,,,,Faith (Islam),http://id.worldcat.org/fast/919954,Q11466
+Islam--Doctrines,fast,a--x,(OCoLC)fst00979787,,,,Islam--Doctrines,http://id.worldcat.org/fast/979787,Q11301
+Basmalah--Doctrines,0,a--x,,Basmalah;Islam--Doctrines,http://id.worldcat.org/fast/828309;http://id.worldcat.org/fast/979787,Q11237;Q11301,,,
+Sufism--Prayers and devotions,0,a--v,http://id.loc.gov/authorities/subjects/sh85129661,,,,Sufism;Prayers and devotions,http://id.worldcat.org/fast/1137257;http://id.worldcat.org/fast/1423909,Q11239;Q3052
+Sufism--Rituals,0,a--x,http://id.loc.gov/authorities/subjects/sh86007313,,,,Sufism--Rituals,http://id.worldcat.org/fast/1137268,Q54934
+Sufi chants,0,a,http://id.loc.gov/authorities/subjects/sh86007312,,,,Sufi chants,http://id.worldcat.org/fast/1137202,Q48878
+Sufis--Customs and practices,0,a--x,,Sufis;Sufism--Customs and practices,http://id.worldcat.org/fast/1137253;http://id.worldcat.org/fast/1137259,Q11475;Q48767,,,
+Sufi chants,fast,a,(OCoLC)fst01137202,,,,Sufi chants,http://id.worldcat.org/fast/1137202,Q48878
+Sufism--Prayers and devotions--Early works to 1800,0,a--v--v,,,,,Sufism;Prayers and devotions;Early works,http://id.worldcat.org/fast/1137257;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q11239;Q3052;Q300
+Soufisme--Prières et dévotions--Ouvrages avant 1800,6,a--v--v,,Sufism;Prayers and devotions;Early works,http://id.worldcat.org/fast/1137257;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q11239;Q3052;Q300,,,
+Shādhilīyah,fast,a,,,,,Shādhilīyah,http://id.worldcat.org/fast/1198519,Q11473
+Islamic etiquette--Early works to 1800,0,a--v,,,,,Islamic etiquette;Early works,http://id.worldcat.org/fast/979940;http://id.worldcat.org/fast/1411636,Q11344;Q300
+Muslims--Conduct of life--Early works to 1800,0,a--x--v,http://id.loc.gov/authorities/subjects/sh2010102967,,,,Muslims--Conduct of life;Early works,http://id.worldcat.org/fast/1031037;http://id.worldcat.org/fast/1411636,Q11347;Q300
+Islamic etiquette,fast,a,(OCoLC)fst00979940,,,,Islamic etiquette,http://id.worldcat.org/fast/979940,Q11344
+Spiritual healing--Early works to 1800,0,a--v,,Spiritual healing;Early works,http://id.worldcat.org/fast/1130087;http://id.worldcat.org/fast/1411636,Q110419;Q300,,,
+Healing--Religious aspects--Islam--Early works to 1800,0,a--x--x--v,,Healing--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/952719;http://id.worldcat.org/fast/1411636,Q110418;Q300,,,
+Divination--Islamic countries--Early works to 1800,0,a--z--v,,,,,Divination;Islamic countries;Early works,http://id.worldcat.org/fast/895747;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1411636,Q26839;Q2810;Q300
+Guérison par la foi--Ouvrages avant 1800,6,a--v,,Spiritual healing;Early works,http://id.worldcat.org/fast/1130087;http://id.worldcat.org/fast/1411636,Q110419;Q300,,,
+Guérison--Aspect religieux--Islam--Ouvrages avant 1800,6,a--x--x--v,,Healing--Religious aspects--Islam;Early works,http://id.worldcat.org/fast/952719;http://id.worldcat.org/fast/1411636,Q110418;Q300,,,
+Divination--Pays musulmans--Ouvrages avant 1800,6,a--z--v,,Divination;Islamic countries;Early works,http://id.worldcat.org/fast/895747;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1411636,Q26839;Q2810;Q300,,,
+Divination,fast,a,(OCoLC)fst00895747,,,,Divination,http://id.worldcat.org/fast/895747,Q26839
+Healing--Religious aspects--Islam,fast,a--x--x,(OCoLC)fst00952719,Healing--Religious aspects--Islam,http://id.worldcat.org/fast/952719,Q110418,,,
+Islamic magic,fast,a,(OCoLC)fst01730344,,,,Islamic magic,http://id.worldcat.org/fast/1730344,Q2807
+Spiritual healing,fast,a,(OCoLC)fst01130087,Spiritual healing,http://id.worldcat.org/fast/1130087,Q110419,,,
+Saʻdīyah--Customs and practices,0,a--x,,Saʻdīyah;Sufism--Customs and practices,http://id.worldcat.org/fast/1739487;http://id.worldcat.org/fast/1137259,Q110420;Q48767,,,
+Saʻdīyah--History,0,a--x,,Saʻdīyah;History,http://id.worldcat.org/fast/1739487;http://id.worldcat.org/fast/958235,Q110420;Q6879,,,
+Soufisme--Rituel,6,a--x,,,,,Sufism--Rituals,http://id.worldcat.org/fast/1137268,Q54934
+Saʻdīyah,fast,a,,Saʻdīyah,http://id.worldcat.org/fast/1739487,Q110420,,,
+Ocean travel--Prayers and devotions--Early works to 1800,0,a--v--v,,Ocean travel;Prayers and devotions;Early works,http://id.worldcat.org/fast/1043585;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q110433;Q3052;Q300,,,
+Perfumes--Islamic Empire--Early works to 1800,0,a--z--v,,Perfumes;Islamic Empire;Early works,http://id.worldcat.org/fast/1057972;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636,Q4781;Q11211;Q300,,,
+Parfums--Empire islamique--Ouvrages avant 1800,6,a--z--v,,Perfumes;Islamic Empire;Early works,http://id.worldcat.org/fast/1057972;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1411636,Q4781;Q11211;Q300,,,
+Perfumes,fast,a,,,,,Perfumes,http://id.worldcat.org/fast/1057972,Q4781
+"Islamic magic--Formulae, receipts, prescriptions--11th century",0,a--v--y,,"Islamic magic;Prescriptions, formulae, receipts, etc.;Eleventh century",http://id.worldcat.org/fast/1730344;http://id.worldcat.org/fast/1424054;http://id.worldcat.org/fast/908096,Q2807;Q3042;Q306,,,
+Charms--Islamic Empire--11th century,0,a--z--y,,Charms;Islamic Empire;Eleventh century,http://id.worldcat.org/fast/852494;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/908096,Q48802;Q11211;Q306,,,
+Charms,fast,a,,,,,Charms,http://id.worldcat.org/fast/852494,Q48802
+1000-1099,fast,a,,,,,Eleventh century,http://id.worldcat.org/fast/908096,Q306
