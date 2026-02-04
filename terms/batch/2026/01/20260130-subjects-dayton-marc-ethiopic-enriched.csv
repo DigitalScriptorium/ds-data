@@ -1,0 +1,7 @@
+subject_as_recorded,subfield_codes,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Psalters--Ethiopia,a--z,0,,,,,Psalters;Ethiopia,http://id.worldcat.org/fast/1080778;http://id.worldcat.org/fast/1205830,Q4323;Q11151
+Ethiopic language--Texts,a--v,0,,Ethiopic language;Texts,http://id.worldcat.org/fast/915910;http://id.worldcat.org/fast/1423705,Q67959;Q3066,,,
+"Manuscripts, Ethiopic",a,0,,,,,"Manuscripts, Ethiopic",http://id.worldcat.org/fast/1008334,Q3511
+Psalters--Texts,a--v,0,,,,,Psalters;Texts,http://id.worldcat.org/fast/1080778;http://id.worldcat.org/fast/1423705,Q4323;Q3066
+Manuscripts--Ethiopia,a--z,0,,Manuscripts;Ethiopia,http://id.worldcat.org/fast/1008230;http://id.worldcat.org/fast/1205830,Q38609;Q11151,,,
+Prayers--Texts,a--v,0,,Prayers;Texts,http://id.worldcat.org/fast/1074737;http://id.worldcat.org/fast/1423705,Q153;Q3066,,,
