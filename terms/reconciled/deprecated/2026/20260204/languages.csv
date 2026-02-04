@@ -65,13 +65,12 @@ Arabic and Javanese in Arabic script,,Arabic;Javanese,Q13955;Q33549,Q118;Q38105
 Arabic and Ottoman Turkish,;ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
 Arabic and Persian,,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic and Persian,ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
-Arabic and Syriac,,Arabic;Syriac,Q13955;Q33538,Q118;Q12713
+Arabic or Persian,,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic and Turkish,;ara;ota,Arabic;Turkish,Q13955;Q256,Q118;Q4337
 Arabic and Turkish in Arabic script,,Arabic;Turkish,Q13955;Q256,Q118;Q4337
 Arabic and Urdu,,Arabic;Urdu,Q13955;Q1617,Q118;Q27496
 Arabic hand,,Arabic,Q13955,Q118
 "Arabic headwords, Ottoman definitions",ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
-Arabic or Persian,,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic text with Persian marginalia,ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic with 13 pages in Ottoman Turkish,ara;ota,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
 Arabic with a few notes in Persian,ara,Arabic;Persian,Q13955;Q9168,Q118;Q120
@@ -172,7 +171,6 @@ Coptic,,Coptic,Q36155,Q4335
 Coptic,cop,Coptic,Q36155,Q4335
 "Coptic, Arabic",,Coptic;Arabic,Q36155;Q13955,Q4335;Q118
 "Coptic, Bohairic dialect, with a few notations in Arabic",cop,Coptic;Bohairic;Arabic,Q36155;Q890733;Q13955,Q4335;Q27517;Q118
-Coptic and Arabic,,Coptic;Arabic,Q36155;Q13955,Q4335;Q118
 "Coptic and Arabic, marginal notes in Arabic",,Coptic;Arabic,Q36155;Q13955,Q4335;Q118
 Cyrillic,,Cyrillic script,Q8209,Q48677
 cze,cze,Czech,Q9056,Q3107
@@ -231,8 +229,8 @@ English; Latin,,English;Latin,Q1860;Q397,Q109;Q113
 English; Latin; French,,English;Latin;French,Q1860;Q397;Q150,Q109;Q113;Q111
 English; Old French; Latin,,English;Old French;Latin,Q1860;Q35222;Q397,Q109;Q3106;Q113
 English; Persian,eng;per,English;Persian,Q1860;Q9168,Q109;Q120
-English?,,English,Q1860,Q109
 English.,,English,Q1860,Q109
+English?,,English,Q1860,Q109
 English (Northern dialect),,English;Northern English,Q1860;Q1321639,Q109;Q38094
 English and Latin,,English;Latin,Q1860;Q397,Q109;Q113
 English and Latin,eng;lat,English;Latin,Q1860;Q397,Q109;Q113
@@ -389,7 +387,6 @@ In Arabic,ara,Arabic,Q13955,Q118
 "In Arabic, with Farsi translations of main Arabic text in red beneath each line",,Arabic;Persian,Q13955;Q9168,Q118;Q120
 "In Arabic, with one page in Persian",,Arabic;Persian,Q13955;Q9168,Q118;Q120
 In Arabic; later text (from paper re-use) in Hebrew,,Arabic;Hebrew,Q13955;Q9288,Q118;Q117
-In Arabic; preface also in Ottoman Turkish,,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
 In Arabic.,ara,Arabic,Q13955,Q118
 In Arabic.,,Arabic,Q13955,Q118
 In Arabic (Naskhi script),,Arabic,Q13955,Q118
@@ -789,7 +786,6 @@ In Tamil,tam,Tamil,Q5885,Q27498
 In Thai and Pali,tha;pli,Thai;Pali,Q9217;Q36727,Q27515;Q27511
 "Intro. and entries in Arabic, definitions in Ottoman Turkish",,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
 "In Tzeltal, with marginalia in Spanish and Latin by Ara, and in Spanish by Father Llorente",,Tzeltal;Spanish;Latin,Q36808;Q1321;Q397,Q64220;Q114;Q113
-In Urdu and Persian,,Urdu;Persian,Q1617;Q9168,Q27496;Q120
 In Valencian Catalan,cat,Valencian,Q32641,Q8381
 In vocalized Hebrew and Italian,,Hebrew;Italian,Q9288;Q652,Q117;Q116
 in Yiddish (Judeo-German),,Yiddish,Q8641,Q74791
@@ -1180,7 +1176,6 @@ Main text in Latin; table of contents in French on end flyleaf,,Latin;French,Q39
 Main text in Latin; table of contents in French on end flyleaf.,mul,Latin;French,Q397;Q150,Q113;Q111
 Main text in Latin; table of contents in French on end flyleaf.,,Latin;French,Q397;Q150,Q113;Q111
 mal,mal,Malayalam,Q36236,Q27500
-Malay,,Malay,Q9237,Q39962
 Manuscript in Hebrew,,Hebrew,Q9288,Q117
 "Manuscript in Hebrew, written in various semi-cursive Sephardic hands",,Hebrew,Q9288,Q117
 Manuscript in Hebrew and Yiddish,,Hebrew;Yiddish,Q9288;Q8641,Q117;Q74791
@@ -1561,7 +1556,6 @@ Unvocalized Hebrew,,Hebrew,Q9288,Q117
 urd,urd,Urdu,Q1617,Q27496
 Urdu,,Urdu,Q1617,Q27496
 "Urdu, Arabic, and Persian",,Urdu;Arabic;Persian,Q1617;Q13955;Q9168,Q27496;Q118;Q120
-Urdu and Persian,,Urdu;Persian,Q1617;Q9168,Q27496;Q120
 Vocalized Arabic,,Arabic,Q13955,Q118
 Vocalized Arabic and English,,Arabic;English,Q13955;Q1860,Q118;Q109
 Vocalized Aramaic and Hebrew,,Aramaic;Hebrew,Q28602;Q9288,Q3663;Q117

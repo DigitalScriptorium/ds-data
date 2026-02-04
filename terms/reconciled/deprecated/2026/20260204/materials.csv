@@ -265,7 +265,6 @@ Manuscript on parchment,parchment,http://vocab.getty.edu/aat/300011851,Q33
 "Manuscript on vellum,",parchment,http://vocab.getty.edu/aat/300011851,Q33
 membrane,parchment,http://vocab.getty.edu/aat/300011851,Q33
 Mixed,mixed media,http://vocab.getty.edu/aat/300163347,Q29
-mulberry bark,bark,http://vocab.getty.edu/aat/300011860,Q23
 native paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 nearly complete; shaped around uneven cut of parchment,parchment,http://vocab.getty.edu/aat/300011851,Q33
 non-European laid paper,paper,http://vocab.getty.edu/aat/300014109,Q31
@@ -312,7 +311,6 @@ Paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, ill., illuminations",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, ill., maps, diagrams",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, ill., music",paper,http://vocab.getty.edu/aat/300014109,Q31
-"paper, ill. ; 294 x 210 (250 x 176) mm. bound to 294 x 210 mm",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, ill. (some col.)",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, illuminated",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, illumination",paper,http://vocab.getty.edu/aat/300014109,Q31
@@ -346,7 +344,6 @@ Paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, vellum",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
 paper;,paper,http://vocab.getty.edu/aat/300014109,Q31
 paper ;,paper,http://vocab.getty.edu/aat/300014109,Q31
-paper ; 178 x 112 (156 x 104 and 133 x82) mm. bound to 178 x 120 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
 paper ; 180 x 135 (123-135 x 86-105) mm,paper,http://vocab.getty.edu/aat/300014109,Q31
 paper ; 197 x 115 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
 paper ; 201 x 140 (160 x 95) mm. bound to 202 x 140 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
@@ -357,12 +354,10 @@ paper ; 210 x 154 (150-170 x 92-120) mm bound to 214 x 155 mm,paper,http://vocab
 paper ; 213 x 149 (138 x 60) mm. bound to 210 x 147 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
 paper ; 215 x 155 (135 x 100) mm. bound to 215 x 170 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
 paper ; 216 x 159 (155 x 90) mm. bound to 214 x 167 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
-paper ; 218 x 150 (140 x 98) mm. bound to 217 x 160 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
 paper ; 218 x 165 (140-165 x 75-98) mm,paper,http://vocab.getty.edu/aat/300014109,Q31
 paper ; 220 x 144 (157 x 117) mm. bound to 220 x 144 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
 paper ; 220 x 162 (195 x 125) mm. bound to 220 x 160 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
 paper ; 226 x 158 (167 x 82) mm,paper,http://vocab.getty.edu/aat/300014109,Q31
-paper ; 262 x 177 (177 x 117) mm. bound to 265 x 187 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
 paper ; 314 x 215 (216 x 150 and 267 x 180) mm. bound to 314 x 215 mm,paper,http://vocab.getty.edu/aat/300014109,Q31
 paper ; 39 x 26 cm,paper,http://vocab.getty.edu/aat/300014109,Q31
 paper?,paper,http://vocab.getty.edu/aat/300014109,Q31
@@ -544,7 +539,6 @@ pepar,paper,http://vocab.getty.edu/aat/300014109,Q31
 Polished Paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 rag paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 sanchipat,paper,http://vocab.getty.edu/aat/300014109,Q31
-sandstone block,stone,http://vocab.getty.edu/aat/300011176,Q36
 stone,stone,http://vocab.getty.edu/aat/300011176,Q36
 tempera and gold on vellum,parchment,http://vocab.getty.edu/aat/300011851,Q33
 tinted smooth paper,paper,http://vocab.getty.edu/aat/300014109,Q31
