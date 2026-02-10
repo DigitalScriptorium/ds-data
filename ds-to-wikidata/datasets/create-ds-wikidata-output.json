@@ -1,0 +1,212 @@
+[
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "DSID",
+    "expression": "grel:\"https://search.digital-scriptorium.org/catalog/\"+value",
+    "onError": "set-to-blank",
+    "newColumnName": "searchURL",
+    "columnInsertIndex": 4,
+    "description": "Create column searchURL at index 4 based on column DSID using expression grel:\"https://search.digital-scriptorium.org/catalog/\"+value"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "item",
+    "expression": "grel:value.replace(\"http://www.wikidata.org/entity/\",\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "wikidata",
+    "columnInsertIndex": 1,
+    "description": "Create column wikidata at index 1 based on column item using expression grel:value.replace(\"http://www.wikidata.org/entity/\",\"\")"
+  },
+  {
+    "op": "core/recon-use-values-as-identifiers",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "wikidata",
+    "service": "https://wikidata.reconci.link/en/api",
+    "identifierSpace": "http://www.wikidata.org/entity/",
+    "schemaSpace": "http://www.wikidata.org/prop/direct/",
+    "description": "Use values as reconciliation identifiers in column wikidata"
+  },
+  {
+    "op": "core/extend-reconciled-data",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "wikidata",
+    "endpoint": "https://wikidata.reconci.link/en/api",
+    "identifierSpace": "http://www.wikidata.org/entity/",
+    "schemaSpace": "http://www.wikidata.org/prop/direct/",
+    "extension": {
+      "properties": [
+        {
+          "id": "P973",
+          "name": "described at URL",
+          "settings": {
+            "limit": "1",
+            "rank": "best",
+            "references": "any"
+          }
+        }
+      ]
+    },
+    "columnInsertIndex": 2,
+    "description": "Extend data at index 2 based on column wikidata"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "described at URL",
+    "expression": "grel:value.replace(\"https://catalog.digital-scriptorium.org/entity/\",\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "recordQID",
+    "columnInsertIndex": 3,
+    "description": "Create column recordQID at index 3 based on column described at URL using expression grel:value.replace(\"https://catalog.digital-scriptorium.org/entity/\",\"\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "recordQID",
+    "expression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "recon",
+    "columnInsertIndex": 4,
+    "description": "Create column recon at index 4 based on column recordQID using expression grel:value"
+  },
+  {
+    "op": "core/recon-use-values-as-identifiers",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "service": "http://localhost:8000/en/api",
+    "identifierSpace": "https://catalog.digital-scriptorium.org/entity/",
+    "schemaSpace": "https://catalog.digital-scriptorium.org/prop/direct/",
+    "description": "Use values as reconciliation identifiers in column recon"
+  },
+  {
+    "op": "core/extend-reconciled-data",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "recon",
+    "endpoint": "http://localhost:8000/en/api",
+    "identifierSpace": "https://catalog.digital-scriptorium.org/entity/",
+    "schemaSpace": "https://catalog.digital-scriptorium.org/prop/direct/",
+    "extension": {
+      "properties": [
+        {
+          "id": "P3",
+          "name": "described manuscript"
+        }
+      ]
+    },
+    "columnInsertIndex": 5,
+    "description": "Extend data at index 5 based on column recon"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "described manuscript",
+    "expression": "grel:cell.recon.match.id",
+    "onError": "set-to-blank",
+    "newColumnName": "manuscriptQID",
+    "columnInsertIndex": 6,
+    "description": "Create column manuscriptQID at index 6 based on column described manuscript using expression grel:cell.recon.match.id"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "described at URL",
+    "description": "Remove column described at URL"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "recon",
+    "description": "Remove column recon"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "described manuscript",
+    "description": "Remove column described manuscript"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "manuscriptQID",
+    "index": 4,
+    "description": "Move column manuscriptQID to position 4"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "manuscriptQID",
+    "index": 5,
+    "description": "Move column manuscriptQID to position 5"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "manuscriptQID",
+    "index": 6,
+    "description": "Move column manuscriptQID to position 6"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "manuscriptQID",
+    "index": 7,
+    "description": "Move column manuscriptQID to position 7"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "recordQID",
+    "index": 3,
+    "description": "Move column recordQID to position 3"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "recordQID",
+    "index": 4,
+    "description": "Move column recordQID to position 4"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "recordQID",
+    "index": 5,
+    "description": "Move column recordQID to position 5"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "recordQID",
+    "index": 6,
+    "description": "Move column recordQID to position 6"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "recordQID",
+    "index": 7,
+    "description": "Move column recordQID to position 7"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "wikidata",
+    "description": "Remove column wikidata"
+  }
+]
