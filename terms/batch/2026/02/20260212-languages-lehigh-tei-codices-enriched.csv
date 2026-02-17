@@ -1,0 +1,20 @@
+language_as_recorded,language_code,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Latin,lat,,,,Latin,Q397,Q113
+Middle Dutch (ca. 1050-1350),dum,,,,Middle Dutch,Q178806,Q10833
+Middle English (1100-1500),enm,Middle English,Q36395,Q119,,,
+Italian,ita,,,,Italian,Q652,Q116
+"Latin; Italian; Catalan, Valencian",lat,Latin;Italian;Catalan;Valencian,Q397;Q652;Q7026;Q32641,Q113;Q116;Q1316;Q8381,,,
+Latin; Middle Dutch (ca. 1050-1350),lat,,,,Latin;Middle Dutch,Q397;Q178806,Q113;Q10833
+Latin; Middle French (ca. 1400-1600),lat,,,,Latin;Middle French,Q397;Q1473289,Q113;Q110
+"Latin; Castilian, Spanish",lat,Latin;Spanish,Q397;Q1321,Q113;Q114,,,
+Latin; Italian,lat,,,,Latin;Italian,Q397;Q652,Q113;Q116
+"Castilian, Spanish",spa,,,,Spanish,Q1321,Q114
+Latin; French,lat,,,,Latin;French,Q397;Q150,Q113;Q111
+Primary language: English.,eng,English,Q1860,Q109,,,
+Primary language: English. Secondary language: Spanish; Castilian.,eng,English;Spanish,Q1860;Q1321,Q109;Q114,,,
+"Low German, Low Saxon",nds,Low German;Low Saxon,Q25433;Q168446,Q5013;Q19912,,,
+German,ger,,,,German,Q188,Q112
+Arabic,ara,,,,Arabic,Q13955,Q118
+English,eng,,,,English,Q1860,Q109
+Arabic; Persian,ara,,,,Arabic;Persian,Q13955;Q9168,Q118;Q120
+Coptic; Arabic,cop,Coptic;Arabic,Q36155;Q13955,Q4335;Q118,,,
