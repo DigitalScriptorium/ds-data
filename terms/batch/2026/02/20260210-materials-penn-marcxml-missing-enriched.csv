@@ -1,0 +1,16 @@
+material_as_recorded,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+parchment,,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+paper,,,,paper,http://vocab.getty.edu/aat/300014109,Q31
+"paper, illustrations",,,,paper,http://vocab.getty.edu/aat/300014109,Q31
+"paper, illuminations",,,,paper,http://vocab.getty.edu/aat/300014109,Q31
+"paper, illustration",,,,paper,http://vocab.getty.edu/aat/300014109,Q31
+"parchment, seals",parchment,http://vocab.getty.edu/aat/300011851,Q33,,,
+color illustrations,,,,,,
+"paper, illustrations, illuminations",,,,paper,http://vocab.getty.edu/aat/300014109,Q31
+"paper, color illustrations",,,,paper,http://vocab.getty.edu/aat/300014109,Q31
+"parchment, illuminations, tables",,,,parchment,http://vocab.getty.edu/aat/300011851,Q33
+"paper, illustrations ; 209 x 152 (162 x 80) mm bound to 216 x 155 mm",paper,http://vocab.getty.edu/aat/300014109,Q31,,,
+"laid paper, illuminations",,,,paper,http://vocab.getty.edu/aat/300014109,Q31
+wood,,,,wood,http://vocab.getty.edu/aat/300011914,Q38
+palm leaf,,,,palm leaf,http://vocab.getty.edu/aat/300011894,Q30
+lacquered cloth,cloth,http://vocab.getty.edu/aat/300162391,Q26528,,,
