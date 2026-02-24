@@ -1,0 +1,92 @@
+subject_as_recorded,vocab,subfield_codes,source_authority_uri,ds_qid_add,authorized_label_add,structured_value_add,authorized_label,structured_value,ds_qid
+12th century,openn-keywords,,,,,,Twelfth century,http://id.worldcat.org/fast/1159791,Q304
+Italian,openn-keywords,,,,,,Italian (culture or style),http://vocab.getty.edu/aat/300111198,Q19876
+Fragment,openn-keywords,,,,,,fragments (object portions),http://vocab.getty.edu/aat/300117130,Q222
+Musical notation,openn-keywords,,,,,,Musical notation,http://id.worldcat.org/fast/1030779,Q12609
+Italy,openn-keywords,,,,,,Italy,http://id.worldcat.org/fast/1204565,Q249
+Liturgy,openn-keywords,,,,,,Liturgics,http://id.worldcat.org/fast/1000579,Q207
+Devotion,openn-keywords,,,,,,Prayers and devotions,http://id.worldcat.org/fast/1423909,Q3052
+Document,openn-keywords,,,,,,documents (object genre),http://vocab.getty.edu/aat/300026030,Q19859
+Saint's Life,openn-keywords,,,,,,Hagiography,http://id.worldcat.org/fast/950239,Q7147
+French,openn-keywords,,,,,,French (culture or style),http://vocab.getty.edu/aat/300111188,Q19844
+France,openn-keywords,,,,,,France,http://id.worldcat.org/fast/1204289,Q152
+Theology,openn-keywords,,,,,,Theology,http://id.worldcat.org/fast/1149559,Q4290
+13th century,openn-keywords,,,,,,Thirteenth century,http://id.worldcat.org/fast/1150138,Q245
+Collection of Sermons,openn-keywords,,,,,,Sermons,http://id.worldcat.org/fast/1113216,Q38598
+Philosophy,openn-keywords,,,,,,Philosophy,http://id.worldcat.org/fast/1060777,Q5883
+Drawing,openn-keywords,,,,,,Drawing,http://id.worldcat.org/fast/897725,Q19874
+Illustration,openn-keywords,,,,,,illustrations (layout features),http://vocab.getty.edu/aat/300015578,Q19873
+Miscellany,openn-keywords,,,,,,Miscellanea,http://id.worldcat.org/fast/1353832,Q11293
+14th century,openn-keywords,,,,,,Fourteenth century,http://id.worldcat.org/fast/933420,Q295
+Netherlands,openn-keywords,,,,,,Netherlands,http://id.worldcat.org/fast/1204034,Q5863
+Dutch,openn-keywords,,,,,,Dutch (culture or style),http://vocab.getty.edu/aat/300111175,Q19858
+Church Fathers,openn-keywords,,,,,,Fathers of the church,http://id.worldcat.org/fast/921916,Q19847
+15th century,openn-keywords,,,,,,Fifteenth century,http://id.worldcat.org/fast/923962,Q154
+English,openn-keywords,,,,,,English (culture or style),http://vocab.getty.edu/aat/300111178,Q19855
+England,openn-keywords,,,,,,England,http://id.worldcat.org/fast/1219920,Q320
+Legal,openn-keywords,,,,,,Law,http://id.worldcat.org/fast/993678,Q4186
+Seals,openn-keywords,,,Q16345,Seals,http://id.loc.gov/vocabulary/rbmscv/cv00267,,,
+Chronicle,openn-keywords,,,,,,chronicles,http://vocab.getty.edu/aat/300026361,Q176
+History,openn-keywords,,,,,,History,http://id.worldcat.org/fast/958235,Q6879
+Astrology,openn-keywords,,,,,,Astrology,http://id.worldcat.org/fast/819398,Q258
+Astronomy,openn-keywords,,,,,,Astronomy,http://id.worldcat.org/fast/819673,Q166
+Diagrams,openn-keywords,,,,,,"Charts, diagrams, etc.",http://id.worldcat.org/fast/852545,Q18331
+Treatise,openn-keywords,,,,,,treatises,http://vocab.getty.edu/aat/300026681,Q160
+Alchemy,openn-keywords,,,,,,Alchemy,http://id.worldcat.org/fast/804245,Q3005
+Paper,openn-keywords,,,,,,Paper,http://id.worldcat.org/fast/1052348,Q19842
+Humanistic,openn-keywords,,,,,,humanistic scripts,http://vocab.getty.edu/aat/300210204,Q10824
+Illumination,openn-keywords,,,,,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
+Miniature,openn-keywords,,,,,,miniatures (paintings),http://vocab.getty.edu/aat/300033936,Q262
+Original binding,openn-keywords,,,,,,binding (textile material),http://vocab.getty.edu/aat/300421867,Q19879
+Science -- Medicine,openn-keywords,,,,,,Science;Medicine,http://id.worldcat.org/fast/1108176;http://id.worldcat.org/fast/1014893,Q7409;Q234
+Damage,openn-keywords,,,,,,damage (condition),http://vocab.getty.edu/aat/300068940,Q19870
+Portolan chart,openn-keywords,,,Q12650,Portolan charts,http://id.worldcat.org/fast/1752683,,,
+16th century,openn-keywords,,,,,,Sixteenth century,http://id.worldcat.org/fast/1119851,Q335
+Chart,openn-keywords,,,Q18331,"Charts, diagrams, etc.",http://id.worldcat.org/fast/852545,,,
+Heraldry,openn-keywords,,,,,,Heraldry,http://id.worldcat.org/fast/955273,Q4275
+Medallion,openn-keywords,,,Q110678,Medallions (Decorative arts),http://id.worldcat.org/fast/1013534,,,
+Cartography,openn-keywords,,,Q110670,Cartography,http://id.worldcat.org/fast/848025,,,
+Maritime,openn-keywords,,,,,,,,
+Gloss,openn-keywords,,,,,,glosses (annotations),http://vocab.getty.edu/aat/300211708,Q4260
+Literature -- Poetry,openn-keywords,,,,,,Literature;Poetry,http://id.worldcat.org/fast/999953;http://id.worldcat.org/fast/1067691,Q11485;Q38833
+Book of Hours,openn-keywords,,,,,,Books of hours,http://id.worldcat.org/fast/836484,Q5889
+Christian,openn-keywords,,,,,,Christianity,http://id.worldcat.org/fast/859599,Q5915
+Private devotional text,openn-keywords,,,,,,Devotional literature,http://id.worldcat.org/fast/892015,Q2950
+Latin,openn-keywords,,,Q4170,Latin language,http://id.worldcat.org/fast/993125,,,
+Flemish,openn-keywords,,,,,,Flemish (culture or style),http://vocab.getty.edu/aat/300111184,Q19846
+Flanders,openn-keywords,,,,,,Europe--Flanders,http://id.worldcat.org/fast/1245991,Q4193
+Spain,openn-keywords,,,,,,Spain,http://id.worldcat.org/fast/1204303,Q343
+Spanish,openn-keywords,,,,,,Spanish (culture or style),http://vocab.getty.edu/aat/300111215,Q19880
+Dogale,openn-keywords,,,,,,,,
+Financial records,openn-keywords,,,,,,financial records,http://vocab.getty.edu/aat/300027473,Q4167
+Historiated initial,openn-keywords,,,,,,Historiated initials,http://id.worldcat.org/fast/957716,Q19864
+Gradual,openn-keywords,,,,,,Graduals (Liturgical books),http://id.worldcat.org/fast/945809,Q5831
+Gothic,openn-keywords,,,,,,Gothic (Medieval),http://vocab.getty.edu/aat/300020775,Q19871
+Missing leaves,openn-keywords,,,,,,,,
+Antiphonary,openn-keywords,,,,,,Antiphonaries,http://id.worldcat.org/fast/810657,Q4306
+Colophon,openn-keywords,,,,,,Colophons,http://id.worldcat.org/fast/868495,Q19850
+19th century,openn-keywords,,,,,,Nineteenth century,http://id.worldcat.org/fast/1037841,Q3538
+Forgery,openn-keywords,,,Q2829,Forgery,,,,
+Genealogy,openn-keywords,,,,,,Genealogy,http://id.worldcat.org/fast/939652,Q38912
+Scroll,openn-keywords,,,,,,scrolls (information artifacts),http://vocab.getty.edu/aat/300028629,Q8246
+Male college students,openn-subjects,,,Q110671,Male college students,http://id.worldcat.org/fast/1006618,,,
+"World War, 1914-1918",openn-subjects,,,Q110672,World War (1914-1918),http://id.worldcat.org/fast/1180746,,,
+"Washington Bridge (New York, N.Y.)",openn-subjects,,,,,,,,
+"Philippines--History--Philippine American War, 1899-1902",openn-subjects,,,Q110673;Q6879;Q110674,Philippines;History;Philippine American War (Philippines : 1899-1902),http://id.worldcat.org/fast/1205261;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1353980,,,
+"Spanish-American War, 1898",openn-subjects,,,Q110675,Spanish-American War (1898),http://id.worldcat.org/fast/1128682,,,
+Women,openn-subjects,,,Q8004,Women,http://id.worldcat.org/fast/1176568,,,
+Germany,openn-keywords,,,,,,Germany,http://id.worldcat.org/fast/1210272,Q3032
+Bible,openn-keywords,,,,,,Bible,http://id.worldcat.org/fast/1356024,Q4267
+German,openn-keywords,,,,,,"German (culture, style, period)",http://vocab.getty.edu/aat/300111192,Q19867
+17th century,openn-keywords,,,,,,Seventeenth century,http://id.worldcat.org/fast/1113663,Q2771
+Morocco,openn-keywords,,,Q3567,Morocco,http://id.worldcat.org/fast/1205592,,,
+Moroccan,openn-keywords,,,Q110676,Moroccan,http://vocab.getty.edu/aat/300245255,,,
+11th century,openn-keywords,,,,,,Eleventh century,http://id.worldcat.org/fast/908096,Q306
+18th century,openn-keywords,,,,,,Eighteenth century,http://id.worldcat.org/fast/904058,Q3024
+Persia,openn-keywords,,,Q16384,Iran,http://id.worldcat.org/fast/1204889,,,
+Persian,openn-keywords,,,,,,Persian (culture),http://vocab.getty.edu/aat/300019933,Q20348
+Egypt,openn-keywords,,,,,,Egypt,http://id.worldcat.org/fast/1208755,Q11259
+Egyptian,openn-keywords,,,Q110677,Egyptian (ancient),http://vocab.getty.edu/aat/300020251,,,
+Breviary,openn-keywords,,,,,,Breviaries,http://id.worldcat.org/fast/838495,Q3593
+Gospel Lectionary,openn-keywords,,,,,,Evangeliaries,http://id.worldcat.org/fast/916991,Q4182
+Missal,openn-keywords,,,,,,Missals,http://id.worldcat.org/fast/1023680,Q4233
