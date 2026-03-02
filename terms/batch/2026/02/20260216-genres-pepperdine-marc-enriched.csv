@@ -1,0 +1,26 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Illuminations,aat,,,,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
+manuscripts (documents),aat,,,,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789
+detached leaves,aat,,,,,detached leaves,http://vocab.getty.edu/aat/300379890,Q2954
+antiphonaries,aat,,,,,antiphonaries,http://vocab.getty.edu/aat/300188812,Q6845
+Manuscripts,fast,,,,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
+Antiphons (Music),fast,,,,,Antiphons (Music),http://id.worldcat.org/fast/1920005,Q38426
+Antiphonaries (Service books),fast,,,,,Antiphonaries (Service books),http://id.worldcat.org/fast/1920004,Q4297
+Antiphonaries (Service books),lcgft,,,,,Antiphonaries (Service books),http://id.worldcat.org/fast/1920004,Q4297
+Antiphons (Music),lcgft,,,,,Antiphons (Music),http://id.worldcat.org/fast/1920005,Q38426
+Antiphonaires,rvmgf,,,,,Antiphonaries (Service books),http://id.worldcat.org/fast/1920004,Q4297
+Antiennes,rvmgf,,Antiphons (Music),http://id.worldcat.org/fast/1920005,Q38426,,,
+History,fast,,,,,History,http://id.worldcat.org/fast/1411628,Q279
+Poetry,fast,,,,,Poetry,http://id.worldcat.org/fast/1423828,Q247
+Watermarks,rbbin,,Watermarks,http://id.loc.gov/vocabulary/rbmscv/cv01089,Q5815,,,
+Blind tooled bindings,rbbin,,,,,Blind tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00632,Q5877
+Scrolls,aat,,,,,scrolls (information artifacts),http://vocab.getty.edu/aat/300028629,Q8246
+books of hours,aat,,,,,books of hours,http://vocab.getty.edu/aat/300026457,Q3618
+illuminated manuscripts,aat,,,,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,Q4268
+vellum (parchment),aat,,,,,vellum (parchment),http://vocab.getty.edu/aat/300011852,Q10802
+bookplates,aat,,bookplates,http://vocab.getty.edu/aat/300028731,Q110758,,,
+Gothic scripts,aat,,,,,Gothic scripts,http://vocab.getty.edu/aat/300195226,Q16360
+Prayers and devotions,fast,,,,,Prayers and devotions,http://id.worldcat.org/fast/1423909,Q3052
+Miniatures (Illuminations)--Belgium--15th century,gmgpc,,miniatures (paintings);Belgium;Fifteenth century,http://vocab.getty.edu/aat/300033936;http://id.worldcat.org/fast/1210278;http://id.worldcat.org/fast/923962,Q262;Q16301;Q154,,,
+Devotional calendars,rbgenr,,,,,Devotional calendars,http://id.loc.gov/vocabulary/rbmscv/cv01059,Q55343
+Ex-libris,rvmgf,,Bookplates,http://id.worldcat.org/fast/836346,Q66979,,,
