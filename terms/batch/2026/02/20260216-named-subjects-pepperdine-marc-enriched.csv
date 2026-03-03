@@ -1,0 +1,15 @@
+subject_as_recorded,vocab,subfield_codes,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+"Bible. Pentateuch--Manuscripts, Hebrew",0,a;p--x,,"Bible. Pentateuch;Manuscripts, Hebrew",http://id.worldcat.org/fast/1808093;http://id.worldcat.org/fast/1008360,Q7949;Q150,,,
+Bible. Pentateuch.--Hebrew,0,a;p--l,,,,,Bible. Pentateuch;Hebrew language,http://id.worldcat.org/fast/1808093;http://id.worldcat.org/fast/954191,Q7949;Q38720
+Bible. Pentateuque--Manuscrits hébraïques,6,a;p--x,,"Bible. Pentateuch;Manuscripts, Hebrew",http://id.worldcat.org/fast/1808093;http://id.worldcat.org/fast/1008360,Q7949;Q150,,,
+Bible. Pentateuch,fast,a;p,,,,,Bible. Pentateuch,http://id.worldcat.org/fast/1808093,Q7949
+Catholic Church--Liturgy--Texts--Illustrations,0,a--x--x--v,,Catholic Church;Liturgics;Texts;Illustrated works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1423873,Q310;Q207;Q3066;Q294,,,
+Catholic Church,fast,a,,,,,Catholic Church,http://id.worldcat.org/fast/531720,Q310
+Bible. Esther,0,a;p,,,,,Bible. Esther,http://id.worldcat.org/fast/1892901,Q16347
+Bible. Esther,fast,a;p,(OCoLC)fst01892901,,,,Bible. Esther,http://id.worldcat.org/fast/1892901,Q16347
+Catholic Church--Prayers and devotions--Early works to 1800,0,a--v--v,,,,,Catholic Church;Prayers and devotions;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q310;Q3052;Q300
+Catholic Church--Liturgy--Texts--Early works to 1800,0,a--x--v--v,,,,,Catholic Church;Liturgics;Texts;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636,Q310;Q207;Q3066;Q300
+Catholic Church--Prayers and devotions,0,a--v,,,,,Catholic Church;Prayers and devotions,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1423909,Q310;Q3052
+Église catholique--Prières et dévotions,6,a--v,,,,,Catholic Church;Prayers and devotions,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1423909,Q310;Q3052
+Église catholique--Prières et dévotions--Ouvrages avant 1800,6,a--v--v,,,,,Catholic Church;Prayers and devotions;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1423909;http://id.worldcat.org/fast/1411636,Q310;Q3052;Q300
+Église catholique--Liturgie--Textes--Ouvrages avant 1800,6,a--x--v--v,,,,,Catholic Church;Liturgics;Texts;Early works,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1411636,Q310;Q207;Q3066;Q300
