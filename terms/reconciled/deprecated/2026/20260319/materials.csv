@@ -195,7 +195,6 @@ material_as_recorded,authorized_label,structured_value,ds_qid
 "[""wove paper""]",paper,http://vocab.getty.edu/aat/300014109,Q31
 [],undetermined,http://vocab.getty.edu/aat/300379012,Q38412
 "15 maps, hand col. parchment",parchment,http://vocab.getty.edu/aat/300011851,Q33
-1 wood ark,wood,http://vocab.getty.edu/aat/300011914,Q38
 "24 maps, 3 ill., 6 tables, hand col. parchment",parchment,http://vocab.getty.edu/aat/300011851,Q33
 4 membranes,parchment,http://vocab.getty.edu/aat/300011851,Q33
 "5 hand col. maps, vellum",parchment,http://vocab.getty.edu/aat/300011851,Q33
@@ -244,7 +243,6 @@ illumination on parchment,parchment,http://vocab.getty.edu/aat/300011851,Q33
 "illustrations, parchment",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "illustrations (woodcuts), parchment",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "inset paper, illuminations",paper,http://vocab.getty.edu/aat/300014109,Q31
-lacquered cloth,cloth,http://vocab.getty.edu/aat/300162391,Q26528
 Lacquered color painting framed in wood mounted on metal stand,wood,http://vocab.getty.edu/aat/300011914,Q38
 laid paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 "laid paper, illumination",paper,http://vocab.getty.edu/aat/300014109,Q31
@@ -331,7 +329,6 @@ Paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, illustrations, tables",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, illustrations ;",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, illustrations ; 202 x 142 (135-155 x 67-85) mm. bound to 201 x 138 mm",paper,http://vocab.getty.edu/aat/300014109,Q31
-"paper, illustrations ; 209 x 152 (162 x 80) mm bound to 216 x 155 mm",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, illustrations (some color)",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, map",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, maps",paper,http://vocab.getty.edu/aat/300014109,Q31
@@ -509,12 +506,10 @@ Parchment,parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, penwork initials throughout",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, penwork initials throughout, added s. xiv",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, port.",parchment,http://vocab.getty.edu/aat/300011851,Q33
-"parchment, seals",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, semi-translucent",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment, translucent",parchment,http://vocab.getty.edu/aat/300011851,Q33
 parchment;,parchment,http://vocab.getty.edu/aat/300011851,Q33
 parchment ;,parchment,http://vocab.getty.edu/aat/300011851,Q33
-parchment ; 153 x 216 mm,parchment,http://vocab.getty.edu/aat/300011851,Q33
 parchment :,parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment : diagram, calendar",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "parchment : illustrations, illuminations",parchment,http://vocab.getty.edu/aat/300011851,Q33
@@ -571,7 +566,6 @@ vellum,parchment,http://vocab.getty.edu/aat/300011851,Q33
 "vellum, illustration",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "vellum, illustrations",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "vellum, music",parchment,http://vocab.getty.edu/aat/300011851,Q33
-"vellum, music, illustrations",parchment,http://vocab.getty.edu/aat/300011851,Q33
 "vellum, paper",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 "vellum, paper, ill.",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 "vellum, paper, illuminations",parchment,http://vocab.getty.edu/aat/300011851,Q33
