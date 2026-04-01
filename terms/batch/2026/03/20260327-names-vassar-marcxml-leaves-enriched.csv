@@ -1,0 +1,10 @@
+name_as_recorded,role,name_agr,source_authority_uri,instance_of_add,authorized_label_add,structured_value_add,ds_id_add,ds_qid_add,instance_of,authorized_label,structured_value,ds_qid
+"Philip, the Chancellor, -1236",author,,,human,Philip the Chancellor,Q768555,DSNAME5807,Q42280,,,,
+Servites,former owner,,,organization,Servite Order,Q615923,DSNAME9274,Q114143,,,,
+"Carlo de Blanchis, de Bardano, active 1464",scribe,,,,,,,,,,,
+"Thomas, Aquinas, Saint, 1225?-1274",author,,http://id.loc.gov/authorities/names/n78095790,,,,,,human,Thomas Aquinas,Q9438,Q1919
+Spanish Forger,artist,,,,,,,,human,Spanish Forger,Q3222703,Q2864
+Astuacapov,scribe,,,,,,,,human,Astuacapov,Q137363013,Q108695
+Tēron,scribe,,,,,,,,human,Tēron,Q137363006,Q108696
+"Prato, Giuliano d'Antonio da, active 1450-1460",scribe,,,human,Giuliano d'Antonio da Prato,Q117448251,DSNAME710,Q1945,,,,
+Laurentius,scribe,,,,,,,,human,Laurentius,Q125930831,Q42230
