@@ -63,6 +63,7 @@ Alphabets (symbols),aat,,alphabets (symbols),http://vocab.getty.edu/aat/30025521
 Alum tawed bindings,rbmscv,,Alum tawed bindings,http://id.loc.gov/vocabulary/rbmscv/cv00088,Q66705
 Alum tawed thongs,rbmscv,,Alum tawed thongs (Bindings),http://id.loc.gov/vocabulary/rbmscv/cv00091,Q66755
 Amate paper,aat,,amate paper,http://vocab.getty.edu/aat/300264681,Q66688
+Amate papers,rbmscv,,Amate papers,http://id.loc.gov/vocabulary/rbmscv/cv02190,Q114144
 Ambrosian chants,lcsh,,Ambrosian chants,http://id.worldcat.org/fast/2071598,Q38423
 amulets,openn-form/genre,,amulets,http://vocab.getty.edu/aat/300266585,Q38424
 Amulets,aat,,amulets,http://vocab.getty.edu/aat/300266585,Q38424
@@ -397,6 +398,7 @@ Calendars (documents),aat,,calendars (documents),http://vocab.getty.edu/aat/3000
 Calendars (documents by form),aat,,calendars (documents),http://vocab.getty.edu/aat/300026741,Q2969
 Calendars (documents by form),openn-form/genre,,calendars (documents),http://vocab.getty.edu/aat/300026741,Q2969
 Calendars--14th century,rbgenr,,Calendars;Fourteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01058;http://id.worldcat.org/fast/933420,Q38442;Q295
+calendars of saints,aat,,calendars of saints,http://vocab.getty.edu/aat/300390944,Q114137
 calendrical,ds-genre,,calendars (documents),http://vocab.getty.edu/aat/300026741,Q2969
 Calf bindings,rbmsvc,,Calf bindings,http://id.loc.gov/vocabulary/rbmscv/cv00454,Q12556
 Calf bindings,rbmscv,,Calf bindings,http://id.loc.gov/vocabulary/rbmscv/cv00454,Q12556
@@ -548,6 +550,7 @@ Coats of arms--Spain--16th century,aat,,coats of arms;Spain;Sixteenth century,ht
 Coats of arms--Spain--Valladolid--16th century,aat,,coats of arms;Spain--Valladolid;Sixteenth century,http://vocab.getty.edu/aat/300126352;http://id.worldcat.org/fast/1207327;http://id.worldcat.org/fast/1119851,Q8147;Q38450;Q335
 Code of law,ds-genre,,law codes,http://vocab.getty.edu/aat/300379879,Q75949
 Codes,rbmscv,,Codes (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00231,Q16404
+Codes (Provenance),rbmscv,,Codes (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00231,Q16404
 Codes (Provenances),rbmscv,,Codes (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00231,Q16404
 Codices,aat,,codices (bound manuscripts),http://vocab.getty.edu/aat/300224200,Q168
 Codices,,,codices (bound manuscripts),http://vocab.getty.edu/aat/300224200,Q168
@@ -1532,6 +1535,7 @@ Lacquered bindings--Iran--17th century,rbbin,,Lacquered bindings;Iran;Seventeent
 Lacquered bindings--Islamic countries,rbbin,,Lacquered bindings;Islamic countries,http://id.loc.gov/vocabulary/rbmscv/cv00578;http://id.worldcat.org/fast/1244130,Q27295;Q2810
 Lacquered bindings--Islamic countries--19th century,rbbin,,Lacquered bindings;Islamic countries;Nineteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00578;http://id.worldcat.org/fast/1244130;http://id.worldcat.org/fast/1037841,Q27295;Q2810;Q3538
 Lacquered bindings--Islamic Empire--16th century,rbbin,,Lacquered bindings;Islamic Empire;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00578;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1119851,Q27295;Q11211;Q335
+land grants,aat,,land grants,http://vocab.getty.edu/aat/300027253,Q114136
 Land registers--France--16th century,aat,,land registers;France;Sixteenth century,http://vocab.getty.edu/aat/300027247;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1119851,Q38485;Q152;Q335
 Land surveys,aat,,land surveys,http://vocab.getty.edu/aat/300027257,Q5463
 Latin poetry,ds-genre,,Latin poetry,http://vocab.getty.edu/aat/300417825,Q76230
@@ -1624,6 +1628,7 @@ Linings,lobt,,linings (components),http://w3id.org/lob/concept/2368,Q27253
 Lists,aat,,lists (document genres),http://vocab.getty.edu/aat/300027119,Q7461
 Lists,fast,,Lists,http://id.worldcat.org/fast/1424058,Q7959
 Lists (document genres),aat,,lists (document genres),http://vocab.getty.edu/aat/300027119,Q7461
+Litanies,lcgft,http://id.loc.gov/authorities/genreForms/gf2015026087,Litanies,http://id.worldcat.org/fast/1922454,Q114135
 Litanies,aat,,litanies (prayers),http://vocab.getty.edu/aat/300026470,Q6910
 Litanies (prayers),aat,,litanies (prayers),http://vocab.getty.edu/aat/300026470,Q6910
 literary,ds-genre,,literature (general genre),http://vocab.getty.edu/aat/300417585,Q42403
@@ -2754,6 +2759,7 @@ Manuscripts (documents),aat.,,manuscripts (documents),http://vocab.getty.edu/aat
 Manuscripts (documents),openn-form/genre,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789
 Manuscripts (documents)--1506,aat,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789
 Manuscripts (documents)--15th century,aat,,manuscripts (documents);Fifteenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/923962,Q10789;Q154
+Manuscripts (documents)--1645,aat,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789
 Manuscripts (documents)--1737,aat,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789
 Manuscripts (documents)--1776,aat,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789
 Manuscripts (documents)--1777,aat,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789
@@ -3176,6 +3182,7 @@ Nouvelles,rvmgf,,Short stories,http://id.worldcat.org/fast/1726740,Q48726
 Novellas--Italy--15th century,aat,,novellas;Italy;Fifteenth century,http://vocab.getty.edu/aat/300202569;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/923962,Q38511;Q249;Q154
 Novellas--Italy--15th century,,,novellas;Italy;Fifteenth century,http://vocab.getty.edu/aat/300202569;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/923962,Q38511;Q249;Q154
 Numbers,rbmscv,,Numbers (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00020,Q5864
+Numbers (Provenance),rbmscv,,Numbers (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00020,Q5864
 Numbers (Provenance),rbprov,,Numbers (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00020,Q5864
 Oaths,aat,,oaths,http://vocab.getty.edu/aat/300027206,Q7362
 obituaries,ds-genre,,obituaries,http://vocab.getty.edu/aat/300026443,Q76234
@@ -4411,6 +4418,7 @@ Proverbs,aat,,proverbs,http://vocab.getty.edu/aat/300188783,Q38531
 Psalms,lcgft,http://id.loc.gov/authorities/genreForms/gf2015026079,Psalms,http://id.worldcat.org/fast/1922511,Q108685
 Psalms,aat,,psalms,http://vocab.getty.edu/aat/300379856,Q3641
 Psalms (documents),aat,,psalms,http://vocab.getty.edu/aat/300379856,Q3641
+Psalms (Music),lcgft,http://id.loc.gov/authorities/genreForms/gf2014027023,Psalms (Music),http://id.worldcat.org/fast/1726710,Q114134
 Psalter,aat,,psalters (books),http://vocab.getty.edu/aat/300026477,Q4134
 psalters,ds-genre,,psalters (books),http://vocab.getty.edu/aat/300026477,Q4134
 psalters,lcgft,,Psalters,http://id.worldcat.org/fast/1922512,Q38533
@@ -4543,6 +4551,7 @@ Satires (literary works),aat,,satires (literary genre),http://vocab.getty.edu/aa
 Satires (Visual works),gmgpc,,Satire,http://id.worldcat.org/fast/1726731,Q7143
 Satires--Spain,rbgenr,,Satires;Spain,http://id.loc.gov/vocabulary/rbmscv/cv00917;http://id.worldcat.org/fast/1204303,Q38539;Q343
 satirical,ds-genre,,satires (literary genre),http://vocab.getty.edu/aat/300251297,Q4177
+Satirical drama,lcgft,http://id.loc.gov/authorities/genreForms/gf2023026106,Satirical plays,http://id.worldcat.org/fast/1895294,Q114138
 Satirical literature,fast,(OCoLC)fst01922539,Satirical literature,http://id.worldcat.org/fast/1922539,Q42553
 Satirical literature,lcgft.lcgft,,Satirical literature,http://id.worldcat.org/fast/1922539,Q42553
 Sayings,fast,,Sayings,http://id.worldcat.org/fast/1920779,Q5810
