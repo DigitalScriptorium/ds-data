@@ -250,8 +250,8 @@ English and Romanized Assyrian (Akkadian),,English;Akkadian,Q1860;Q35518,Q109;Q7
 enm,enm,Middle English,Q36395,Q119
 enm;frm,enm;frm,Middle English;Middle French,Q36395;Q1473289,Q119;Q110
 enm;lat,enm;lat,Middle English;Latin,Q36395;Q397,Q119;Q113
-Ethiopic,,Ge'ez,Q35667,Q3664
-Ethiopic,gez,Ge'ez,Q35667,Q3664
+Ethiopic,,Ethiopian Semitic,Q163629,Q114385
+Ethiopic,gez,Ethiopian Semitic,Q163629,Q114385
 Farsi,,Persian,Q9168,Q120
 Flemish,,Flemish,Q34147,Q10832
 Flemish (Belgium Dutch),dut,Flemish;Belgian Dutch,Q34147;Q1404296,Q10832;Q27512
