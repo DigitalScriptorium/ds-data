@@ -1,0 +1,37 @@
+language_as_recorded,language_code,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+lat,,,,,Latin,Q397,Q113
+ita,,,,,Italian,Q652,Q116
+Hebrew,,,,,Hebrew,Q9288,Q117
+In Arabic,,,,,Arabic,Q13955,Q118
+In Latin,,,,,Latin,Q397,Q113
+"In Ethiopic, with later additions in Amharic",,Ethiopian Semitic;Amharic,Q163629;Q28244,Q114385;Q42444,,,
+gre,,,,,Greek,Q9129,Q1318
+spa,,,,,Spanish,Q1321,Q114
+English and Bengali,,English;Bangla,Q1860;Q9610,Q109;Q27506,,,
+fre,,,,,French,Q150,Q111
+Persian,,,,,Persian,Q9168,Q120
+e-uk-en,,English,Q1860,Q109,,,
+n-us-ma,,English,Q1860,Q109,,,
+Arabic,,,,,Arabic,Q13955,Q118
+Sanskrit,,,,,Sanskrit,Q11059,Q27494
+Middle English,,,,,Middle English,Q36395,Q119
+In Toba Batak,,Toba Batak,Q33017,Q114386,,,
+und,,,,,undetermined language,Q22282914,Q12714
+ara,,,,,Arabic,Q13955,Q118
+English,,,,,English,Q1860,Q109
+In Sanskrit,,,,,Sanskrit,Q11059,Q27494
+In Latin and Italian,,,,,Latin;Italian,Q397;Q652,Q113;Q116
+Spanish,,,,,Spanish,Q1321,Q114
+In Italian; Epistolae ad Lucilium translated from the Latin,,,,,Italian;Latin,Q652;Q397,Q116;Q113
+1st work in Latin; 2nd work in Italian,,,,,Latin;Italian,Q397;Q652,Q113;Q116
+Some in modern Greek,,Modern Greek,Q36510,Q38096,,,
+Persian and Arabic,,,,,Persian;Arabic,Q9168;Q13955,Q120;Q118
+Arabic and Farsi,,Arabic;Persian,Q13955;Q9168,Q118;Q120,,,
+In Spanish,,,,,Spanish,Q1321,Q114
+Latin and Italian,,,,,Latin;Italian,Q397;Q652,Q113;Q116
+Telegu,,Telugu,Q8097,Q27503,,,
+In Ge'ez,,,,,Ge'ez,Q35667,Q3664
+Written in Pali,,,,,Pali,Q36727,Q27511
+In Farsi,,,,,Persian,Q9168,Q120
+In Ethiopic and Amharic,,Ethiopian Semitic;Amharic,Q163629;Q28244,Q114385;Q42444,,,
+In Middle Dutch,,,,,Middle Dutch,Q178806,Q10833

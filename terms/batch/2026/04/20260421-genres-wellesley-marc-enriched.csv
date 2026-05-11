@@ -1,0 +1,57 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Books of hours,rbmscv,,,,,Books of hours,http://id.loc.gov/vocabulary/rbmscv/cv01037,Q38439
+Manuscripts,lcgft,,,,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
+Velvet bindings,rbmscv,,,,,Velvet bindings,http://id.loc.gov/vocabulary/rbmscv/cv00708,Q5833
+illuminated manuscripts,aat,,,,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,Q4268
+Armorial bookplates,rbmscv,,,,,Armorial bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00136,Q16277
+Lectionaries,lcgft,,,,,Lectionaries,http://id.worldcat.org/fast/1922449,Q38489
+Prayers,lcgft,https://id.loc.gov/authorities/genreForms/gf2015026049,,,,Prayers,http://id.worldcat.org/fast/1939841,Q38528
+Prayers,fast,https://id.worldcat.org/fast/1939841,,,,Prayers,http://id.worldcat.org/fast/1939841,Q38528
+Devotional literature,lcgft,https://id.loc.gov/authorities/genreForms/gf2015026057,,,,Devotional literature,http://id.worldcat.org/fast/1423773,Q38696
+Devotional literature,fast,https://id.worldcat.org/fast/1423773,,,,Devotional literature,http://id.worldcat.org/fast/1423773,Q38696
+Privileges and immunities,lcgft,,,,,Privileges and immunities,http://id.worldcat.org/fast/1774297,Q3533
+Prayers and devotions,fast,https://id.worldcat.org/fast/1423909,,,,Prayers and devotions,http://id.worldcat.org/fast/1423909,Q3052
+Liturgical books,lcgft,,,,,Liturgical books,http://id.worldcat.org/fast/1922455,Q5822
+Hymns,lcgft,,,,,Hymns,http://id.worldcat.org/fast/1423701,Q6878
+Flap bindings,rbmscv,,,,,Flap bindings,http://id.loc.gov/vocabulary/rbmscv/cv00468,Q5826
+Graduals (Chants),lcgft,,,,,Graduals (Chants),http://id.worldcat.org/fast/1920167,Q66708
+Limp bindings,rbmscv,,,,,Limp bindings,http://id.loc.gov/vocabulary/rbmscv/cv00590,Q16312
+Vellum bindings,rbmscv,,,,,Vellum bindings,http://id.loc.gov/vocabulary/rbmscv/cv00543,Q5878
+seals (marks),aat,,,,,seals (marks),http://vocab.getty.edu/aat/300417667,Q38540
+Account books,lcgft,,,,,Account books,http://id.worldcat.org/fast/1750150,Q42548
+Autobiographies,lcgft,https://id.loc.gov/authorities/genreForms/gf2014026047,,,,Autobiographies,http://id.worldcat.org/fast/1919894,Q42538
+Autobiographies,fast,https://id.worldcat.org/fast/1919894,,,,Autobiographies,http://id.worldcat.org/fast/1919894,Q42538
+naskhī,aat,(CStmoGRI)aatgf300195195,,,,naskhī,http://vocab.getty.edu/aat/300195195,Q3579
+illuminated manuscripts--aat,,,,,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,Q4268
+Poetry,lcgft,,,,,Poetry,http://id.worldcat.org/fast/1423828,Q247
+Handbook,,(DNLM)D020479,,,,handbooks,http://vocab.getty.edu/aat/300311807,Q2951
+Handbooks and manuals,fast,(OCoLC)fst01423877,,,,Handbooks and manuals,http://id.worldcat.org/fast/1423877,Q212
+Specimens,fast,(OCoLC)fst01423861,,,,Specimens,http://id.worldcat.org/fast/1423861,Q239
+Texts,fast,(OCoLC)fst01423705,,,,Texts,http://id.worldcat.org/fast/1423705,Q3066
+Handbooks and manuals,lcgft,,,,,Handbooks and manuals,http://id.worldcat.org/fast/1423877,Q212
+textura (Gothic script),aat,,,,,textura (Gothic script),http://vocab.getty.edu/aat/300202638,Q10787
+poems,aat,(CStmoGRI)aatgf300026451,,,,poems,http://vocab.getty.edu/aat/300026451,Q273
+poetry,aat,(CStmoGRI)aatgf300055931,,,,poetry,http://vocab.getty.edu/aat/300055931,Q11358
+Manuscripts,fast,(OCoLC)fst01424060,,,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
+Poetry,fast,(OCoLC)fst01423828,,,,Poetry,http://id.worldcat.org/fast/1423828,Q247
+Leather bindings,rbmscv,,,,,Leather bindings,http://id.loc.gov/vocabulary/rbmscv/cv00455,Q5843
+Gold tooled bindings,rbmscv,,,,,Gold tooled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00551,Q5859
+Morocco bindings,rbmscv,,,,,Morocco bindings,http://id.loc.gov/vocabulary/rbmscv/cv00548,Q12652
+Biographies,lcgft,,,,,Biographies,http://id.worldcat.org/fast/1919896,Q3051
+Sermons,lcgft,,,,,Sermons,http://id.worldcat.org/fast/1423904,Q180
+Seals,rbmscv,,,,,Seals,http://id.loc.gov/vocabulary/rbmscv/cv00267,Q16345
+Dictionaries,lcgft,https://id.loc.gov/authorities/genreForms/gf2014026086,,,,Dictionaries,http://id.worldcat.org/fast/1423826,Q3041
+Dictionaries,fast,https://id.worldcat.org/fast/1423826,,,,Dictionaries,http://id.worldcat.org/fast/1423826,Q3041
+Tables (documents),aat,https://vocab.getty.edu/aat/300027364,,,,tables (documents),http://vocab.getty.edu/aat/300027364,Q252
+Scientific illustrations (images),aat,https://vocab.getty.edu/aat/300015595,,,,scientific illustrations (images),http://vocab.getty.edu/aat/300015595,Q11377
+Stamps,rbmscv,https://id.loc.gov/vocabulary/rbmscv/cv00142,,,,Stamps,http://id.loc.gov/vocabulary/rbmscv/cv00142,Q3075
+Leather bindings,rbmscv,https://id.loc.gov/vocabulary/rbmscv/cv00455,,,,Leather bindings,http://id.loc.gov/vocabulary/rbmscv/cv00455,Q5843
+Bookplates,rbmscv,,,,,Bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00138,Q5847
+Donors' bookplates,rbmscv,,Donors' bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00227,Q114384,,,
+Sources,fast,https://id.worldcat.org/fast/1423900,,,,Sources,http://id.worldcat.org/fast/1423900,Q2769
+Wooden boards,rbmscv,,,,,Wooden boards,http://id.loc.gov/vocabulary/rbmscv/cv00601,Q5870
+Sheepskin bindings,rbmscv,,Sheepskin bindings,http://id.loc.gov/vocabulary/rbmscv/cv00581,Q42562,,,
+Specimens,fast,https://id.worldcat.org/fast/1423861,,,,Specimens,http://id.worldcat.org/fast/1423861,Q239
+Wills,lcgft,,,,,Wills,http://id.worldcat.org/fast/1774321,Q38554
+account books,aat,,,,,account books,http://vocab.getty.edu/aat/300027483,Q4178
+Lacquered bindings,rbmscv,http://id.loc.gov/vocabulary/rbmscv/cv00578,,,,Lacquered bindings,http://id.loc.gov/vocabulary/rbmscv/cv00578,Q27295
