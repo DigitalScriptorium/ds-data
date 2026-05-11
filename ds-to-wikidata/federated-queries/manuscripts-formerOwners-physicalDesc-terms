@@ -1,0 +1,51 @@
+# query to preview manuscript items in Wikidata and their former owners with SDBM IDs along with metadata from DS Records 
+# declare DS prefixes
+PREFIX dsd: <https://catalog.digital-scriptorium.org/entity/>
+PREFIX dsds: <https://catalog.digital-scriptorium.org/entity/statement/>
+PREFIX dsdv: <https://catalog.digital-scriptorium.org/value/>
+PREFIX dsdt: <https://catalog.digital-scriptorium.org/prop/direct/>
+PREFIX dsp: <https://catalog.digital-scriptorium.org/prop/>
+PREFIX dsps: <https://catalog.digital-scriptorium.org/prop/statement/>
+PREFIX dspq: <https://catalog.digital-scriptorium.org/prop/qualifier/>
+
+SELECT ?msOnWikidata ?msOnWikidataLabel ?collectorOnWikidataLabel ?sdbmLink ?descriptionOnWikidata ?dsRecord ?dsRecordLabel ?dsPhysicalDescription
+(GROUP_CONCAT(DISTINCT ?dsTermLabel;separator="|") as ?dsTerms)
+WHERE {
+  
+  # select additional information on Wikidata
+  ?msOnWikidata wdt:P127 ?collectorOnWikidata.
+  ?collectorOnWikidata schema:description ?descriptionOnWikidata.
+  FILTER (lang(?descriptionOnWikidata)="en")
+  ?collectorOnWikidata wdt:P9756 ?sdbmID .
+  BIND(IRI(CONCAT("https://sdbm.library.upenn.edu/names/",?sdbmID)) as ?sdbmLink)
+  
+  # add labels from Wikidata
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en".
+    ?msOnWikidata rdfs:label ?msOnWikidataLabel.
+    ?collectorOnWikidata rdfs:label ?collectorOnWikidataLabel.
+  }
+  
+  # connect to DS
+  ?msOnWikidata wdt:P13311 ?dsQID.
+  BIND(IRI(CONCAT(STR(dsd:), ?dsQID)) AS ?dsItem)
+  
+  # federated subquery to DS
+  SERVICE <https://catalog.digital-scriptorium.org/query/sparql> {
+    # select additional information on DS
+    ?dsItem ^dsdt:P3 ?dsRecord.
+    ?dsRecord dsdt:P29 ?dsPhysicalDescription;
+              dsp:P18 ?genreStatement.
+    ?genreStatement dspq:P20 ?dsTerm.
+    
+    # add labels from DS (this only works because DS is also a Wikibase)
+    SERVICE wikibase:label {
+      bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en".
+      ?dsItem rdfs:label ?dsItemLabel.
+      ?dsRecord rdfs:label ?dsRecordLabel.
+      ?dsTerm rdfs:label ?dsTermLabel.
+    }
+  }
+}
+GROUP BY ?msOnWikidata ?msOnWikidataLabel ?collectorOnWikidataLabel ?sdbmLink ?descriptionOnWikidata ?dsRecord ?dsRecordLabel ?dsPhysicalDescription
+LIMIT 50
