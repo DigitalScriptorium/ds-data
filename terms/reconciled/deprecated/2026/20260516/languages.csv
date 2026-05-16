@@ -195,7 +195,7 @@ dut,dut,Dutch,Q7411,Q793
 dut;ger,dut;ger,Dutch;German,Q7411;Q188,Q793;Q112
 Dutch,,Dutch,Q7411,Q793
 Dutch,dut,Dutch,Q7411,Q793
-"Dutch, Flemish",dut,Dutch;Flemish Dutch,Q7411;Q34147,Q793;Q10832
+"Dutch, Flemish",dut,Dutch;Flemish,Q7411;Q34147,Q793;Q10832
 "Dutch, with fragment of breviary in Latin",dut,Dutch;Latin,Q7411;Q397,Q793;Q113
 Dutch; Latin,,Dutch;Latin,Q7411;Q397,Q793;Q113
 Dutch; Latin; French,,Dutch;Latin;French,Q7411;Q397;Q150,Q793;Q113;Q111
@@ -253,9 +253,9 @@ enm;lat,enm;lat,Middle English;Latin,Q36395;Q397,Q119;Q113
 Ethiopic,,Ethiopian Semitic,Q163629,Q114385
 Ethiopic,gez,Ethiopian Semitic,Q163629,Q114385
 Farsi,,Persian,Q9168,Q120
-Flemish,,Flemish Dutch,Q34147,Q10832
-Flemish (Belgium Dutch),dut,Flemish Dutch;Belgian Dutch,Q34147;Q1404296,Q10832;Q27512
-Flemish (Belgium Flemish),dut,Flemish Dutch;Belgian Flemish,Q34147;Q138529752,Q10832;Q114392
+Flemish,,Flemish,Q34147,Q10832
+Flemish (Belgium Dutch),dut,Flemish;Belgian Dutch,Q34147;Q1404296,Q10832;Q27512
+Flemish (Belgium Flemish),dut,Flemish,Q34147,Q10832
 fre,,French,Q150,Q111
 fre,fre,French,Q150,Q111
 fre;ger,fre;ger,French;German,Q150;Q188,Q111;Q112
@@ -307,7 +307,7 @@ German,ger,German,Q188,Q112
 "German, with some French on two leaves (f. 153-154)",ger;fre,German;French,Q188;Q150,Q112;Q111
 "German, with some letters in Latin",ger;lat,German;Latin,Q188;Q397,Q112;Q113
 German; cursive Hebrew signature,,German;Hebrew,Q188;Q9288,Q112;Q117
-German; French; Spanish; Flemish; Italian,,German;French;Spanish;Flemish Dutch;Italian,Q188;Q150;Q1321;Q34147;Q652,Q112;Q111;Q114;Q10832;Q116
+German; French; Spanish; Flemish; Italian,,German;French;Spanish;Flemish;Italian,Q188;Q150;Q1321;Q34147;Q652,Q112;Q111;Q114;Q10832;Q116
 German; Italian; Latin,,German;Italian;Latin,Q188;Q652;Q397,Q112;Q116;Q113
 German; Latin,ger;lat,German;Latin,Q188;Q397,Q112;Q113
 German; Latin,,German;Latin,Q188;Q397,Q112;Q113
@@ -472,7 +472,7 @@ In English and Latin,,English;Latin,Q1860;Q397,Q109;Q113
 In English and Marquesan,,English;Marquesan,Q1860;Q33781,Q109;Q38099
 In English and Marquesan.,,English;Marquesan,Q1860;Q33781,Q109;Q38099
 In Farsi,,Persian,Q9168,Q120
-In Flemish,lat,Flemish Dutch,Q34147,Q10832
+In Flemish,lat,Flemish,Q34147,Q10832
 In French,,French,Q150,Q111
 In French,frm,French,Q150,Q111
 In French,fre,French,Q150,Q111
@@ -1072,14 +1072,14 @@ Latin; Czech; German; Arabic; Polish,,Latin;Czech;German;Arabic;Polish,Q397;Q905
 Latin; Czech; German; Hebrew,,Latin;Czech;German;Hebrew,Q397;Q9056;Q188;Q9288,Q113;Q3107;Q112;Q117
 Latin; dedicatory poem in English,,Latin;English,Q397;Q1860,Q113;Q109
 Latin; Dutch,,Latin;Dutch,Q397;Q7411,Q113;Q793
-"Latin; Dutch, Flemish",lat;dut,Latin;Dutch;Flemish Dutch,Q397;Q7411;Q34147,Q113;Q793;Q10832
+"Latin; Dutch, Flemish",lat;dut,Latin;Dutch;Flemish,Q397;Q7411;Q34147,Q113;Q793;Q10832
 Latin; eight poems by Corazini in Italian,,Latin;Italian,Q397;Q652,Q113;Q116
 Latin; English,lat;eng,Latin;English,Q397;Q1860,Q113;Q109
 Latin; English,,Latin;English,Q397;Q1860,Q113;Q109
 Latin; English; Czech,,Latin;English;Czech,Q397;Q1860;Q9056,Q113;Q109;Q3107
 Latin; English; French,,Latin;English;French,Q397;Q1860;Q150,Q113;Q109;Q111
 Latin; English; Welsh,,Latin;English;Welsh,Q397;Q1860;Q9309,Q113;Q109;Q38108
-Latin; Flemish,,Latin;Flemish Dutch,Q397;Q34147,Q113;Q10832
+Latin; Flemish,,Latin;Flemish,Q397;Q34147,Q113;Q10832
 Latin; French,,Latin;French,Q397;Q150,Q113;Q111
 Latin; French,lat;fre,Latin;French,Q397;Q150,Q113;Q111
 Latin; French; Dutch,,Latin;French;Dutch,Q397;Q150;Q7411,Q113;Q111;Q793
@@ -1128,7 +1128,7 @@ Latin; Middle English,,Latin;Middle English,Q397;Q36395,Q113;Q119
 Latin; Middle French,,Latin;Middle French,Q397;Q1473289,Q113;Q110
 Latin; Middle-French,,Latin;Middle French,Q397;Q1473289,Q113;Q110
 Latin; Middle French (ca. 1400-1600),lat;frm,Latin;Middle French,Q397;Q1473289,Q113;Q110
-"Latin; Middle French (ca. 1400-1600); Dutch, Flemish; Dutch, Flemish; German",lat,Latin;Middle French;Dutch;Flemish Dutch;German,Q397;Q1473289;Q7411;Q34147;Q188,Q113;Q110;Q793;Q10832;Q112
+"Latin; Middle French (ca. 1400-1600); Dutch, Flemish; Dutch, Flemish; German",lat,Latin;Middle French;Dutch;Flemish;German,Q397;Q1473289;Q7411;Q34147;Q188,Q113;Q110;Q793;Q10832;Q112
 Latin; Middle French (ca. 1400-1600); French,lat;frm;fre,Latin;Middle French;French,Q397;Q1473289;Q150,Q113;Q110;Q111
 Latin; Middle High German (ca. 1050-1500),lat;gmh,Latin;Middle High German,Q397;Q837985,Q113;Q115
 Latin; Occitan,lat,Latin;Occitan,Q397;Q14185,Q113;Q4338
