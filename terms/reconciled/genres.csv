@@ -460,7 +460,7 @@ catalogs (documents),ds-genre,,catalogs (documents),http://vocab.getty.edu/aat/3
 Catches,rbmscv,,Catches,http://id.loc.gov/vocabulary/rbmscv/cv00459,Q16369
 Catches (Binding),rbbin,,Catches,http://id.loc.gov/vocabulary/rbmscv/cv00459,Q16369
 Catches (Binding)--16th century,rbbin,,Catches;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00459;http://id.worldcat.org/fast/1119851,Q16369;Q335
-Catchplates,lobt,,Catchplates,https://www.ligatus.org.uk/lob/concept/1244,Q17482
+Catchplates,lobt,,catchplates,http://w3id.org/lob/concept/1244,Q17482
 Catchwords,aat,,catchwords,http://vocab.getty.edu/aat/300206217,Q66753
 catechetical,ds-genre,,catechisms,http://vocab.getty.edu/aat/300026460,Q42423
 Catechisms,aat,,catechisms,http://vocab.getty.edu/aat/300026460,Q42423
@@ -485,7 +485,7 @@ charters,lcsh,,Charters and articles of incorporation,http://id.worldcat.org/fas
 Charters,aat,,charters,http://vocab.getty.edu/aat/300027621,Q2793
 Charters,rbgenr,,Charters,http://id.loc.gov/vocabulary/rbmscv/cv01095,Q38447
 Charters and articles of incorporation,fast,(OCoLC)fst01774239,Charters and articles of incorporation,http://id.worldcat.org/fast/1774239,Q27098
-Charters--England--1350-1400,lcsh,,Charters;England,http://id.worldcat.org/fast/1774239;http://id.worldcat.org/fast/1219920,Q27098;Q320
+Charters--England--1350-1400,lcsh,,Charters and articles of incorporation;England,http://id.worldcat.org/fast/1774239;http://id.worldcat.org/fast/1219920,Q27098;Q320
 "Charts, diagrams, etc",fast,(OCoLC)fst01423732,"Charts, diagrams, etc.",http://id.worldcat.org/fast/1423732,Q38448
 "Charts, diagrams, etc",openn-form/genre,,"Charts, diagrams, etc.",http://id.worldcat.org/fast/1423732,Q38448
 Chemises,rbmscv,,Chemises,http://id.loc.gov/vocabulary/rbmscv/cv00732,Q16330
@@ -525,7 +525,7 @@ Clasps (Binding),rbbin,,Clasps,http://id.loc.gov/vocabulary/rbmscv/cv00448,Q1269
 Clasps (Binding)--16th century,rbbin,,Clasps;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00448;http://id.worldcat.org/fast/1119851,Q12690;Q335
 Clasps (Bindings),rbbin,,Clasps,http://id.loc.gov/vocabulary/rbmscv/cv00448,Q12690
 Clasps (components),lobt,,clasps (components),http://w3id.org/lob/concept/1254,Q17511
-Clasp straps,lobt,,Clasp straps,https://www.ligatus.org.uk/lob/concept/2858,Q17503
+Clasp straps,lobt,,clasp straps,http://w3id.org/lob/concept/2858,Q17503
 Cloth bindings,rbmscv,,Cloth bindings,http://id.loc.gov/vocabulary/rbmscv/cv00451,Q11478
 Cloth bindings (Binding),rbbin,,Cloth bindings,http://id.loc.gov/vocabulary/rbmscv/cv00451,Q11478
 Coated papers,rbmscv,,Coated papers,http://id.loc.gov/vocabulary/rbmscv/cv01130,Q66759
@@ -642,7 +642,7 @@ Copybooks (instructional materials),aat,http://vocab.getty.edu/aat/300115825,cop
 Cords,rbmscv,,Cords,http://id.loc.gov/vocabulary/rbmscv/cv00484,Q16353
 Cords,rbbin,,Cords,http://id.loc.gov/vocabulary/rbmscv/cv00484,Q16353
 Cornerpieces (Furniture),rbmscv,,Cornerpieces (Furniture),http://id.loc.gov/vocabulary/rbmscv/cv00466,Q67919
-Corners (furniture),lobt,,Corners (furniture),https://www.ligatus.org.uk/lob/concept/2866,Q17517
+Corners (furniture),lobt,,corners (furniture),http://w3id.org/lob/concept/2866,Q17517
 Correspondence,fast,http://id.worldcat.org/fast/2003288,Correspondence,http://id.worldcat.org/fast/2003288,Q5829
 Correspondence,rbmscv,,Correspondence,http://id.loc.gov/vocabulary/rbmscv/cv01184,Q17494
 Correspondence,aat,,correspondence,http://vocab.getty.edu/aat/300026877,Q7715
@@ -1029,7 +1029,7 @@ Full covers,openn-form/genre,,full covers,http://w3id.org/lob/concept/1348,Q2687
 Furniture,rbbin,,Furniture,http://id.loc.gov/vocabulary/rbmscv/cv00445,Q16323
 Furniture,rbmscv,,Furniture,http://id.loc.gov/vocabulary/rbmscv/cv00445,Q16323
 Furniture (Binding)--Spain--17th century,rbbin,,Furniture,http://id.loc.gov/vocabulary/rbmscv/cv00445,Q16323
-Furniture (components),lobt,,Furniture (components),https://www.ligatus.org.uk/lob/concept/1353,Q17490
+Furniture (components),lobt,,furniture (components),http://w3id.org/lob/concept/1353,Q17490
 Games,rbgnr,,Games,http://id.loc.gov/vocabulary/rbmscv/cv01393,Q55267
 Gatherings (gathered matter components),aat,,gatherings (gathered matter components),http://vocab.getty.edu/aat/300194226,Q2786
 Gatherings (gathered matter components),openn-form/genre,,gatherings (gathered matter components),http://vocab.getty.edu/aat/300194226,Q2786
@@ -1666,7 +1666,7 @@ Macaronic verse,lcgft,,Macaronic verse,http://id.worldcat.org/fast/1922458,Q4253
 Maghribī (script form),aat,,maghribī (script form),http://vocab.getty.edu/aat/300265538,Q66754
 magic scrolls,ds-genre,,magic scrolls,http://vocab.getty.edu/aat/300264705,Q76233
 magic squares,aat,,magic squares,http://vocab.getty.edu/aat/300222283,Q11568
-Mahzorim,aat,http://vocab.getty.edu/aat/300211806,mazhorim,http://vocab.getty.edu/aat/300211806,Q8146
+Mahzorim,aat,http://vocab.getty.edu/aat/300211806,mahzorim,http://vocab.getty.edu/aat/300211806,Q8146
 Manicules,rbmscv,,Manicules,http://id.loc.gov/vocabulary/rbmscv/cv00248,Q5909
 Manicules,rbprov,,Manicules,http://id.loc.gov/vocabulary/rbmscv/cv00248,Q5909
 Manicules (Provenance),rbprov,,Manicules,http://id.loc.gov/vocabulary/rbmscv/cv00248,Q5909
@@ -2474,7 +2474,7 @@ Manuscripts,lcsh,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
 "Manuscripts, Medieval--Italy--1450-1500",aat,,"Manuscripts, Medieval;Italy",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204565,Q325;Q249
 "Manuscripts, Medieval--Italy--1450-1500",lcsh,,"Manuscripts, Medieval;Italy",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204565,Q325;Q249
 "Manuscripts, Medieval--Italy--1450-1500",lsch,,"Manuscripts, Medieval;Italy",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204565,Q325;Q249
-"Manuscripts, Medieval--Italy--1450-1500",,,"Manuscripts, Medieval;Italy",http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1008422,Q249;Q325
+"Manuscripts, Medieval--Italy--1450-1500",,,"Manuscripts, Medieval;Italy",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204565,Q325;Q249
 "Manuscripts, Medieval--Italy--1500-1550",lcsh,,"Manuscripts, Medieval;Italy",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204565,Q325;Q249
 "Manuscripts, Medieval--Italy--1550-1600",lcsh,,"Manuscripts, Medieval;Italy",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1204565,Q325;Q249
 "Manuscripts, Medieval--Massachusetts--Boston",lcsh,,"Manuscripts, Medieval;Massachusetts--Boston",http://id.worldcat.org/fast/1008422;http://id.worldcat.org/fast/1205012,Q325;Q16365
@@ -2896,7 +2896,7 @@ Manuscripts--Italy--Rome--16th century,aat,,manuscripts (documents);Italy--Rome;
 Manuscripts--Italy--Salò--17th century,aat,,manuscripts (documents);Italy--Salò;Seventeenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1225581;http://id.worldcat.org/fast/1113663,Q10789;Q42578;Q2771
 Manuscripts--Italy--Turin--16th century,aat,,manuscripts (documents);Italy--Turin;Sixteenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1205152;http://id.worldcat.org/fast/1119851,Q10789;Q42576;Q335
 Manuscripts--Italy--Tuscany--16th century,aat,,manuscripts (documents);Italy--Tuscany;Sixteenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1204477;http://id.worldcat.org/fast/1119851,Q10789;Q322;Q335
-Manuscripts--Italy--Vicenza--16th century,aat,,manuscripts (documents);Italy--Vincenza;Sixteenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1204960;http://id.worldcat.org/fast/1119851,Q10789;Q4253;Q335
+Manuscripts--Italy--Vicenza--16th century,aat,,manuscripts (documents);Italy--Vicenza;Sixteenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1204960;http://id.worldcat.org/fast/1119851,Q10789;Q4253;Q335
 Manuscripts--Japan--15th century,aat,,manuscripts (documents);Japan;Fifteenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1204082;http://id.worldcat.org/fast/923962,Q10789;Q12622;Q154
 Manuscripts--Japan--17th century,aat,,manuscripts (documents);Japan;Seventeenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1204082;http://id.worldcat.org/fast/1113663,Q10789;Q12622;Q2771
 Manuscripts--Latin,aat,,manuscripts (documents);Latin (Latin Europe),http://vocab.getty.edu/aat/300028569;http://vocab.getty.edu/aat/300386015,Q10789;Q55261
@@ -3097,7 +3097,7 @@ missals,ds-genre,,missals,http://vocab.getty.edu/aat/300026472,Q4244
 Missals,rbmscv,,Missals,http://id.loc.gov/vocabulary/rbmscv/cv01605,Q38504
 Missals,aat,,missals,http://vocab.getty.edu/aat/300026472,Q4244
 Missals,rbgenr,,Missals,http://id.loc.gov/vocabulary/rbmscv/cv01605,Q38504
-Missals,openn-form/genre,https://lccn.loc.gov/sh85086006,Missals,http://id.worldcat.org/fast/1920241,Q8363
+Missals,openn-form/genre,https://lccn.loc.gov/sh85086006,Missals (Service books),http://id.worldcat.org/fast/1920241,Q8363
 Missals (Service books),fast,,Missals (Service books),http://id.worldcat.org/fast/1920241,Q8363
 Missals (Service books),lcgft,http://id.loc.gov/authorities/genreForms/gf2014026941,Missals (Service books),http://id.worldcat.org/fast/1920241,Q8363
 Missals (Service books),lcgft,,Missals (Service books),http://id.worldcat.org/fast/1920241,Q8363
@@ -4751,7 +4751,7 @@ Thumb indexes,rbmscv,,Thumb indexes,http://id.loc.gov/vocabulary/rbmscv/cv00754,
 Ties,rbmscv,,Ties,http://id.loc.gov/vocabulary/rbmscv/cv00463,Q12522
 Ties (Binding),rbbin,,Ties,http://id.loc.gov/vocabulary/rbmscv/cv00463,Q12522
 title pages,aat,,title pages,http://vocab.getty.edu/aat/300055033,Q20371
-Tracts (documents),aat,,tracts (literary works),http://vocab.getty.edu/aat/300027211,Q4956
+Tracts (documents),aat,,tracts (literary genre),http://vocab.getty.edu/aat/300027211,Q4956
 Tragedies,aat,,tragedies,http://vocab.getty.edu/aat/300201026,Q38550
 Transcripts,aat,,transcripts,http://vocab.getty.edu/aat/300027388,Q66745
 Translations,aat,,translations (documents),http://vocab.getty.edu/aat/300027389,Q155
