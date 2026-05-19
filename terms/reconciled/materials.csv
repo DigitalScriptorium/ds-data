@@ -333,6 +333,7 @@ Paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, illustrations ; 202 x 142 (135-155 x 67-85) mm. bound to 201 x 138 mm",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, illustrations ; 209 x 152 (162 x 80) mm bound to 216 x 155 mm",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, illustrations (some color)",paper,http://vocab.getty.edu/aat/300014109,Q31
+Paper (fiber product),paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, map",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, maps",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, music",paper,http://vocab.getty.edu/aat/300014109,Q31
@@ -580,6 +581,7 @@ vellum,parchment,http://vocab.getty.edu/aat/300011851,Q33
 "vellum, paper",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 "vellum, paper, ill.",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 "vellum, paper, illuminations",parchment,http://vocab.getty.edu/aat/300011851,Q33
+Vellum (parchment),parchment,http://vocab.getty.edu/aat/300011851,Q33
 "vellum (manuscript leaf), paper (accompanying letter)",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 vellum & paper,parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 vellum and paper,parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
