@@ -265,6 +265,7 @@ frelat,,French;Latin,Q150;Q397,Q111;Q113
 French,,French,Q150,Q111
 French,frm,French,Q150,Q111
 French,fre,French,Q150,Q111
+"French, Latin",,French;Latin,Q150;Q397,Q111;Q113
 "French, Middle (ca.1300-1600)",,Middle French,Q1473289,Q110
 "French, Middle (ca.1300-1600)",frm,Middle French,Q1473289,Q110
 "French, Middle (ca. 1300-1600), Latin",frm;lat,Middle French;Latin,Q1473289;Q397,Q110;Q113
@@ -958,6 +959,7 @@ Latin,frm,Latin,Q397,Q113
 Latin,ita,Latin,Q397,Q113
 LAtin,,Latin,Q397,Q113
 "Latin, Anglo Norman, and Middle English",lat,Latin;Anglo-Norman;Middle English,Q397;Q35214;Q36395,Q113;Q1315;Q119
+"Latin, Arabic",,Latin;Arabic,Q397;Q13955,Q113;Q118
 "Latin, Catalan",,Latin;Catalan,Q397;Q7026,Q113;Q1316
 "Latin, English",,Latin;English,Q397;Q1860,Q113;Q109
 "Latin, except for one document in Italian",lat;ita,Latin;Italian,Q397;Q652,Q113;Q116
