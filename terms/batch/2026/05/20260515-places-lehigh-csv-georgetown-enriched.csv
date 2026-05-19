@@ -1,0 +1,9 @@
+File,place_as_recorded,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+20260515-places-lehigh-csv-georgetown.csv,NE France,Northeastern France,http://vocab.getty.edu/tgn/7669119,Q38264,,,
+20260515-places-lehigh-csv-georgetown.csv,Germany,,,,Germany,http://vocab.getty.edu/tgn/7000084,Q131
+20260515-places-lehigh-csv-georgetown.csv,England,,,,England,http://vocab.getty.edu/tgn/7002445,Q133
+20260515-places-lehigh-csv-georgetown.csv,France,,,,France,http://vocab.getty.edu/tgn/1000070,Q122
+20260515-places-lehigh-csv-georgetown.csv,Spain,,,,Spain,http://vocab.getty.edu/tgn/1000095,Q129
+20260515-places-lehigh-csv-georgetown.csv,Germany (?Mainz),Germany;Mainz,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/7004449,Q131;Q3082,,,
+20260515-places-lehigh-csv-georgetown.csv,Italy (?),,,,Italy,http://vocab.getty.edu/tgn/1000080,Q134
+20260515-places-lehigh-csv-georgetown.csv,Italy,,,,Italy,http://vocab.getty.edu/tgn/1000080,Q134
