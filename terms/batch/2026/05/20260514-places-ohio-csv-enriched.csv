@@ -1,32 +1,32 @@
-File,place_as_recorded,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
-20260514-places-ohio-csv.csv,Spain,,,,Spain,http://vocab.getty.edu/tgn/1000095,Q129
-20260514-places-ohio-csv.csv,Salamanca,,,,Salamanca,http://vocab.getty.edu/tgn/7008561,Q6987
-20260514-places-ohio-csv.csv,France,,,,France,http://vocab.getty.edu/tgn/1000070,Q122
-20260514-places-ohio-csv.csv,Belgium,,,,Belgium,http://vocab.getty.edu/tgn/1000063,Q1243
-20260514-places-ohio-csv.csv,Netherlands,,,,Netherlands,http://vocab.getty.edu/tgn/7016845,Q651
-20260514-places-ohio-csv.csv,Germany,,,,Germany,http://vocab.getty.edu/tgn/7000084,Q131
-20260514-places-ohio-csv.csv,Netherlands;,,,,Netherlands,http://vocab.getty.edu/tgn/7016845,Q651
-20260514-places-ohio-csv.csv,South Asia,,,,South Asia,http://vocab.getty.edu/tgn/7000208,Q18348
-20260514-places-ohio-csv.csv,Iran,,,,Iran,http://vocab.getty.edu/tgn/7000231,Q2822
-20260514-places-ohio-csv.csv,Italy;Rome,Italy;Rome,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7000874,Q134;Q123,,,
-20260514-places-ohio-csv.csv,Italy,,,,Italy,http://vocab.getty.edu/tgn/1000080,Q134
-20260514-places-ohio-csv.csv,Myanmar,Myanmar,http://vocab.getty.edu/tgn/1000108,Q38257,,,
-20260514-places-ohio-csv.csv,Guatemala,Guatemala,http://vocab.getty.edu/tgn/7005493,Q66885,,,
-20260514-places-ohio-csv.csv,Japan,,,,Japan,http://vocab.getty.edu/tgn/1000120,Q12707
-20260514-places-ohio-csv.csv,West Africa,,,,West Africa,http://vocab.getty.edu/tgn/7032927,Q18344
-20260514-places-ohio-csv.csv,Turkey,,,,Turkey,http://vocab.getty.edu/tgn/1000144,Q3079
-20260514-places-ohio-csv.csv,Indonesia;,,,,Indonesia,http://vocab.getty.edu/tgn/1000116,Q38217
-20260514-places-ohio-csv.csv,India,,,,India,http://vocab.getty.edu/tgn/7000198,Q138
-20260514-places-ohio-csv.csv,Sri Lanka,,,,Sri Lanka,http://vocab.getty.edu/tgn/1000110,Q38302
-20260514-places-ohio-csv.csv,Burma,,,,Myanmar,http://vocab.getty.edu/tgn/1000108,Q38257
-20260514-places-ohio-csv.csv,Afghanistan;Kandahar,Afghanistan;Kandahar,http://vocab.getty.edu/tgn/7016612;http://vocab.getty.edu/tgn/7002248,Q3101;Q38414,,,
-20260514-places-ohio-csv.csv,England;Cambridge,England;Cambridge,http://vocab.getty.edu/tgn/7002445;http://vocab.getty.edu/tgn/7010874,Q133;Q38162,,,
-20260514-places-ohio-csv.csv,France;Paris,France;Paris,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7008038,Q122;Q136,,,
-20260514-places-ohio-csv.csv,England;Oxford,England;Oxford,http://vocab.getty.edu/tgn/7002445;http://vocab.getty.edu/tgn/7011931,Q133;Q3654,,,
-20260514-places-ohio-csv.csv,France;Beauvais,France;Beauvais,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7010570,Q122;Q42079,,,
-20260514-places-ohio-csv.csv,Switzerland,,,,Switzerland,http://vocab.getty.edu/tgn/7011731,Q652
-20260514-places-ohio-csv.csv,England,,,,England,http://vocab.getty.edu/tgn/7002445,Q133
-20260514-places-ohio-csv.csv,Germany;Würzburg,Germany;Würzburg,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/7004335,Q131;Q20355,,,
-20260514-places-ohio-csv.csv,France;Rouen,France;Rouen,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7008929,Q122;Q1244,,,
-20260514-places-ohio-csv.csv,Italy;Florence,Italy;Florence,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7000457,Q134;Q3084,,,
-20260514-places-ohio-csv.csv,France;Limoges,France;Limoges,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7008410,Q122;Q42076,,,
+place_as_recorded,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Spain,,,,Spain,http://vocab.getty.edu/tgn/1000095,Q129
+Salamanca,,,,Salamanca,http://vocab.getty.edu/tgn/7008561,Q6987
+France,,,,France,http://vocab.getty.edu/tgn/1000070,Q122
+Belgium,,,,Belgium,http://vocab.getty.edu/tgn/1000063,Q1243
+Netherlands,,,,Netherlands,http://vocab.getty.edu/tgn/7016845,Q651
+Germany,,,,Germany,http://vocab.getty.edu/tgn/7000084,Q131
+Netherlands;,,,,Netherlands,http://vocab.getty.edu/tgn/7016845,Q651
+South Asia,,,,South Asia,http://vocab.getty.edu/tgn/7000208,Q18348
+Iran,,,,Iran,http://vocab.getty.edu/tgn/7000231,Q2822
+Italy;Rome,Italy;Rome,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7000874,Q134;Q123,,,
+Italy,,,,Italy,http://vocab.getty.edu/tgn/1000080,Q134
+Myanmar,Myanmar,http://vocab.getty.edu/tgn/1000108,Q38257,,,
+Guatemala,Guatemala,http://vocab.getty.edu/tgn/7005493,Q66885,,,
+Japan,,,,Japan,http://vocab.getty.edu/tgn/1000120,Q12707
+West Africa,,,,West Africa,http://vocab.getty.edu/tgn/7032927,Q18344
+Turkey,,,,Turkey,http://vocab.getty.edu/tgn/1000144,Q3079
+Indonesia;,,,,Indonesia,http://vocab.getty.edu/tgn/1000116,Q38217
+India,,,,India,http://vocab.getty.edu/tgn/7000198,Q138
+Sri Lanka,,,,Sri Lanka,http://vocab.getty.edu/tgn/1000110,Q38302
+Burma,,,,Myanmar,http://vocab.getty.edu/tgn/1000108,Q38257
+Afghanistan;Kandahar,Afghanistan;Kandahar,http://vocab.getty.edu/tgn/7016612;http://vocab.getty.edu/tgn/7002248,Q3101;Q38414,,,
+England;Cambridge,England;Cambridge,http://vocab.getty.edu/tgn/7002445;http://vocab.getty.edu/tgn/7010874,Q133;Q38162,,,
+France;Paris,France;Paris,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7008038,Q122;Q136,,,
+England;Oxford,England;Oxford,http://vocab.getty.edu/tgn/7002445;http://vocab.getty.edu/tgn/7011931,Q133;Q3654,,,
+France;Beauvais,France;Beauvais,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7010570,Q122;Q42079,,,
+Switzerland,,,,Switzerland,http://vocab.getty.edu/tgn/7011731,Q652
+England,,,,England,http://vocab.getty.edu/tgn/7002445,Q133
+Germany;Würzburg,Germany;Würzburg,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/7004335,Q131;Q20355,,,
+France;Rouen,France;Rouen,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7008929,Q122;Q1244,,,
+Italy;Florence,Italy;Florence,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7000457,Q134;Q3084,,,
+France;Limoges,France;Limoges,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7008410,Q122;Q42076,,,
