@@ -60,7 +60,6 @@ Arabic; Persian,,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic; some notes in Persian,ara;per,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic and Coptic,ara;cop,Arabic;Coptic,Q13955;Q36155,Q118;Q4335
 Arabic and Coptic,cop;ara,Arabic;Coptic,Q13955;Q36155,Q118;Q4335
-Arabic and Farsi,,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Arabic and Hausa,,Arabic;Hausa,Q13955;Q56475,Q118;Q100835
 Arabic and Javanese,,Arabic;Javanese,Q13955;Q33549,Q118;Q38105
 Arabic and Javanese in Arabic script,,Arabic;Javanese,Q13955;Q33549,Q118;Q38105
@@ -245,7 +244,6 @@ English; Persian,eng;per,English;Persian,Q1860;Q9168,Q109;Q120
 English?,,English,Q1860,Q109
 English.,,English,Q1860,Q109
 English (Northern dialect),,English;Northern English,Q1860;Q1321639,Q109;Q38094
-English and Bengali,,English;Bangla,Q1860;Q9610,Q109;Q27506
 English and Latin,,English;Latin,Q1860;Q397,Q109;Q113
 English and Latin,eng;lat,English;Latin,Q1860;Q397,Q109;Q113
 English and Romanized Assyrian (Akkadian),,English;Akkadian,Q1860;Q35518,Q109;Q74792
@@ -254,7 +252,6 @@ enm;frm,enm;frm,Middle English;Middle French,Q36395;Q1473289,Q119;Q110
 enm;lat,enm;lat,Middle English;Latin,Q36395;Q397,Q119;Q113
 Ethiopic,,Ethiopian Semitic,Q163629,Q114385
 Ethiopic,gez,Ethiopian Semitic,Q163629,Q114385
-e-uk-en,,English,Q1860,Q109
 Farsi,,Persian,Q9168,Q120
 Flemish,,Flemish Dutch,Q34147,Q10832
 Flemish (Belgium Dutch),dut,Flemish Dutch;Belgian Dutch,Q34147;Q1404296,Q10832;Q27512
@@ -475,8 +472,6 @@ In English.,,English,Q1860,Q109
 In English and Latin,,English;Latin,Q1860;Q397,Q109;Q113
 In English and Marquesan,,English;Marquesan,Q1860;Q33781,Q109;Q38099
 In English and Marquesan.,,English;Marquesan,Q1860;Q33781,Q109;Q38099
-"In Ethiopic, with later additions in Amharic",,Ethiopian Semitic;Amharic,Q163629;Q28244,Q114385;Q42444
-In Ethiopic and Amharic,,Ethiopian Semitic;Amharic,Q163629;Q28244,Q114385;Q42444
 In Farsi,,Persian,Q9168,Q120
 In Flemish,lat,Flemish Dutch,Q34147,Q10832
 In French,,French,Q150,Q111
@@ -818,7 +813,6 @@ In Tamil,tam,Tamil,Q5885,Q27498
 In Thai,,Thai,Q9217,Q27515
 "In Thai, with the first line in Khom (f. A01 lower)",,Thai;Khom Thai,Q9217;Q13023788,Q27515;Q110647
 In Thai and Pali,tha;pli,Thai;Pali,Q9217;Q36727,Q27515;Q27511
-In Toba Batak,,Toba Batak,Q33017,Q114386
 "Intro. and entries in Arabic, definitions in Ottoman Turkish",,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
 "In Tzeltal, with marginalia in Spanish and Latin by Ara, and in Spanish by Father Llorente",,Tzeltal;Spanish;Latin,Q36808;Q1321;Q397,Q64220;Q114;Q113
 In Urdu,,Urdu,Q1617,Q27496
@@ -1296,7 +1290,6 @@ nep,nep,Nepali,Q33823,Q27514
 non,non,Old Norse,Q35505,Q38103
 Northern Thai and Pali language in Tham script,,Northern Thai;Pali,Q565110;Q36727,Q42447;Q27511
 no text,,no linguistic content,Q22282939,Q16428
-n-us-ma,,English,Q1860,Q109
 Occitan,,Occitan,Q14185,Q4338
 oci,oci,Occitan,Q14185,Q4338
 Old Church Slavonic,,Old Church Slavonic,Q35499,Q20366
@@ -1451,7 +1444,6 @@ Sicilian,,Sicilian,Q33973,Q6996
 sin,sin,Sinhala,Q13267,Q27509
 Sinhalese script,,Sinhala,Q13267,Q27509
 sla,sla,Slavic,Q23526,Q38119
-Some in modern Greek,,Modern Greek,Q36510,Q38096
 "Some items in Latin, some in Italian",lat;ita,Latin;Italian,Q397;Q652,Q113;Q116
 spa,,Spanish,Q1321,Q114
 spa,spa,Spanish,Q1321,Q114
@@ -1493,7 +1485,6 @@ Tamil,,Tamil,Q5885,Q27498
 Tamil script,,Tamil,Q5885,Q27498
 Tashelhit / Shilha,ber,Tachelhit,Q34152,Q38120
 tel,tel,Telugu,Q8097,Q27503
-Telegu,,Telugu,Q8097,Q27503
 "Text chiefly in Latin, with prayer to the Holy Trinity (fol. 92) in French",,Latin;French,Q397;Q150,Q113;Q111
 Text in Ancient Greek,,Ancient Greek,Q35497,Q3103
 Text in Anglo-Saxon,ang,Old English,Q42365,Q1317

@@ -47,12 +47,10 @@ Aachen,Aachen,http://vocab.getty.edu/tgn/7004799,Q4990
 Abarqūh,Abarkūh,http://vocab.getty.edu/tgn/8881087,Q48704
 "Abbey of Saint-Amand, France",Saint-Amand;France,http://vocab.getty.edu/tgn/7610229;http://vocab.getty.edu/tgn/1000070,Q19887;Q122
 "Abbey of St. Victor (specific unknown), France?",France,http://vocab.getty.edu/tgn/1000070,Q122
-According to note included with the manuscript it was obtained in North Africa near Oran,North Africa;Oran,http://vocab.getty.edu/tgn/7016886;http://vocab.getty.edu/tgn/7001246,Q3652;Q114387
 Ada Pazari,Sakarya,http://vocab.getty.edu/tgn/1085920,Q52682
 Adria,Adria,http://vocab.getty.edu/tgn/7008301,Q76303
 Affi,Affi,http://vocab.getty.edu/tgn/1043111,Q76265
 Afghanistan,Afghanistan,http://vocab.getty.edu/tgn/7016612,Q3101
-Afghanistan;Kandahar,Afghanistan;Kandahar,http://vocab.getty.edu/tgn/7016612;http://vocab.getty.edu/tgn/7002248,Q3101;Q38414
 Africa?,Africa,http://vocab.getty.edu/tgn/7001242,Q66926
 Agadir (Morocco),Agadir;Morocco,http://vocab.getty.edu/tgn/1091336;http://vocab.getty.edu/tgn/1000179,Q42072;Q3657
 Agra,Āgra,http://vocab.getty.edu/tgn/7001493,Q27477
@@ -341,7 +339,6 @@ Burgundy (France),Burgundy;France,http://vocab.getty.edu/tgn/7029372;http://voca
 "Burj, ʻAkkār Lebanon",Aakkâr;Lebanon,http://vocab.getty.edu/tgn/7594637;http://vocab.getty.edu/tgn/1000126,Q11613;Q11611
 "Burj, ʻAkkār Lebanon",Aakkâr;Lebanon,http://vocab.getty.edu/tgn/7594637;http://vocab.getty.edu/tgn/1000126,Q11613;Q11611
 Burma,Myanmar,http://vocab.getty.edu/tgn/1000108,Q38257
-Burma?,Burma,http://id.worldcat.org/fast/1207835,Q26915
 Bursa,Bursa,http://vocab.getty.edu/tgn/7002420,Q11629
 "Bursa, [",Bursa,http://vocab.getty.edu/tgn/7002420,Q11629
 "Burūzhah, [Turkey",Turkey,http://vocab.getty.edu/tgn/1000144,Q3079
@@ -598,11 +595,9 @@ England,England,http://vocab.getty.edu/tgn/7002445,Q133
 "England, Westminster",England;City of Westminster,http://vocab.getty.edu/tgn/7002445;http://vocab.getty.edu/tgn/7018934,Q133;Q17528
 "England, Worcestershire",England;Worcestershire,http://vocab.getty.edu/tgn/7002445;http://vocab.getty.edu/tgn/5000227,Q133;Q1296
 "England, Yorkshire",England;Yorkshire,http://vocab.getty.edu/tgn/7002445;http://vocab.getty.edu/tgn/7008171,Q133;Q38328
-England;Cambridge,England;Cambridge,http://vocab.getty.edu/tgn/7002445;http://vocab.getty.edu/tgn/7010874,Q133;Q38162
 England; France,England;France,http://vocab.getty.edu/tgn/7002445;http://vocab.getty.edu/tgn/1000070,Q133;Q122
 "England; France, England (?); Northern France",England;France;Northern France,http://vocab.getty.edu/tgn/7002445;http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/4004036,Q133;Q122;Q1114
 England; France?,England;France,http://vocab.getty.edu/tgn/7002445;http://vocab.getty.edu/tgn/1000070,Q133;Q122
-England;Oxford,England;Oxford,http://vocab.getty.edu/tgn/7002445;http://vocab.getty.edu/tgn/7011931,Q133;Q3654
 England?,England,http://vocab.getty.edu/tgn/7002445,Q133
 England ?,England,http://vocab.getty.edu/tgn/7002445,Q133
 England? France,England;France,http://vocab.getty.edu/tgn/7002445;http://vocab.getty.edu/tgn/1000070,Q133;Q122
@@ -804,7 +799,6 @@ France,France,http://vocab.getty.edu/tgn/1000070,Q122
 "France, Vivarais*",France;Vivarais,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/1003864,Q122;Q38321
 "France, Western France",France;Western France,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/4004039,Q122;Q38325
 France;,France,http://vocab.getty.edu/tgn/1000070,Q122
-France;Beauvais,France;Beauvais,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7010570,Q122;Q42079
 France; England,France;England,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7002445,Q122;Q133
 France; Germany,France;Germany,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7000084,Q122;Q131
 "France; Germany, France (?) or Germany (?)",France;Germany,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7000084,Q122;Q131
@@ -814,9 +808,6 @@ France; Germany?,France;Germany,http://vocab.getty.edu/tgn/1000070;http://vocab.
 "France; Italy, France or Italy",France;Italy,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/1000080,Q122;Q134
 "France; Italy, France or Italy (?)",France;Italy,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/1000080,Q122;Q134
 "France; Italy, Italy or Southern France",France;Italy;Southern France,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/4004037,Q122;Q134;Q19904
-France;Limoges,France;Limoges,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7008410,Q122;Q42076
-France;Paris,France;Paris,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7008038,Q122;Q136
-France;Rouen,France;Rouen,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/7008929,Q122;Q1244
 "France; Spain, Southern France or Spain",France;Spain;Southern France,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/1000095;http://vocab.getty.edu/tgn/4004037,Q122;Q129;Q19904
 "France; Spain, Spain or Southern France",France;Spain;Southern France,http://vocab.getty.edu/tgn/1000070;http://vocab.getty.edu/tgn/1000095;http://vocab.getty.edu/tgn/4004037,Q122;Q129;Q19904
 France?,France,http://vocab.getty.edu/tgn/1000070,Q122
@@ -988,7 +979,6 @@ Germany,Germany,http://vocab.getty.edu/tgn/7000084,Q131
 "Germany; Italy, Germany and Italy",Germany;Italy,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/1000080,Q131;Q134
 "Germany; Italy, Italy (?) or Germany (?)",Germany;Italy,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/1000080,Q131;Q134
 Germany;Lower Saxony,Germany;Lower Saxony,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/7003676,Q131;Q38234
-Germany;Würzburg,Germany;Würzburg,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/7004335,Q131;Q20355
 Germany?,Germany,http://vocab.getty.edu/tgn/7000084,Q131
 Germany ?,Germany,http://vocab.getty.edu/tgn/7000084,Q131
 Germany? /,Germany,http://vocab.getty.edu/tgn/7000084,Q131
@@ -1004,7 +994,6 @@ Germany/Netherlands,Germany;Netherlands,http://vocab.getty.edu/tgn/7000084;http:
 Germany / Rhineland,Germany;Rhineland,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/7003683,Q131;Q1305
 "Germany., Germany and Austria",Germany;Austria,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/1000062,Q131;Q132
 Germany (?),Germany,http://vocab.getty.edu/tgn/7000084,Q131
-Germany (?Mainz),Germany;Mainz,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/7004449,Q131;Q3082
 Germany (? Mainz),Germany;Mainz,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/7004449,Q131;Q3082
 Germany (central),Germany,http://vocab.getty.edu/tgn/7000084,Q131
 Germany (Nuremberg?),Germany;Nuremberg,http://vocab.getty.edu/tgn/7000084;http://vocab.getty.edu/tgn/7004334,Q131;Q3080
@@ -1069,7 +1058,6 @@ Greek East,Greece,http://vocab.getty.edu/tgn/1000074,Q16421
 Grenoble,Grenoble,http://vocab.getty.edu/tgn/7008759,Q38205
 Gresta (Trent ),Trento (province),http://vocab.getty.edu/tgn/7003158,Q76254
 "Gualdo Tadino, Italy",Gualdo Tadino;Italy,http://vocab.getty.edu/tgn/7005046;http://vocab.getty.edu/tgn/1000080,Q68005;Q134
-Guatemala,Guatemala,http://vocab.getty.edu/tgn/7005493,Q66885
 Guatemala?,,,Q66885
 "Gubbio, Italy",Gubbio;Italy,http://vocab.getty.edu/tgn/7005048;http://vocab.getty.edu/tgn/1000080,Q38206;Q134
 Gulshanʹābād,Gulshanābād,http://vocab.getty.edu/tgn/8053084,Q40038
@@ -1132,7 +1120,6 @@ Iran or Syria,Iran;Syria,http://vocab.getty.edu/tgn/7000231;http://vocab.getty.e
 Iran or Syria?],Iran;Syria,http://vocab.getty.edu/tgn/7000231;http://vocab.getty.edu/tgn/1000140,Q2822;Q3096
 Iran or Turkey,Iran;Turkey,http://vocab.getty.edu/tgn/7000231;http://vocab.getty.edu/tgn/1000144,Q2822;Q3079
 Iran or Turkey?],Iran;Turkey,http://vocab.getty.edu/tgn/7000231;http://vocab.getty.edu/tgn/1000144,Q2822;Q3079
-Iran qajar,Iran;Persia,http://vocab.getty.edu/tgn/7000231;http://vocab.getty.edu/tgn/7024079,Q2822;Q127
 Iraq,Iraq,http://vocab.getty.edu/tgn/1000118,Q3090
 Irbil,Erbil,http://vocab.getty.edu/tgn/7002589,Q106566
 Ireland,Ireland,http://vocab.getty.edu/tgn/1000078,Q17520
@@ -1332,10 +1319,8 @@ Italy,Italy,http://vocab.getty.edu/tgn/1000080,Q134
 "Italy, Vicenza",Italy;Vicenza,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7003204,Q134;Q7215
 "Italy, Vicenza ?",Italy;Vicenza,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7003204,Q134;Q7215
 "Italy; Austria, Northern Italy or Austria",Italy;Austria;Northern Italy,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/1000062;http://vocab.getty.edu/tgn/4005363,Q134;Q132;Q7507
-Italy;Florence,Italy;Florence,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7000457,Q134;Q3084
 Italy; France,Italy;France,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/1000070,Q134;Q122
 "Italy; Netherlands, Northwestern Italy; Netherlands",Italy;Netherlands;Northwestern Italy,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7016845;http://vocab.getty.edu/tgn/4005364,Q134;Q651;Q38268
-Italy;Rome,Italy;Rome,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7000874,Q134;Q123
 Italy; Sicily,Italy;Sicily,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7003122,Q134;Q6993
 "Italy; Switzerland, Northern Italy or Switzerland (?)",Italy;Switzerland;Northern Italy,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7011731;http://vocab.getty.edu/tgn/4005363,Q134;Q652;Q7507
 Italy?,Italy,http://vocab.getty.edu/tgn/1000080,Q134
@@ -1473,7 +1458,6 @@ Lendinara,Lendinara,http://vocab.getty.edu/tgn/1045059,Q76315
 Leon or Estremadura,,,Q38224;Q66900
 "Le-Puy-en-Velay, France",Le Puy;France,http://vocab.getty.edu/tgn/7008205;http://vocab.getty.edu/tgn/1000070,Q108126;Q122
 Lesina,Lesina,http://vocab.getty.edu/tgn/1045071,Q76316
-Levant,Levant,http://vocab.getty.edu/tgn/7001519,Q114394
 Levington,Levington,http://vocab.getty.edu/tgn/7463262,Q26525
 "Liège, Belgium",Liege;Belgium,http://vocab.getty.edu/tgn/7007945;http://vocab.getty.edu/tgn/1000063,Q4992;Q1243
 "Liège, Belgium",Liege;Belgium,http://vocab.getty.edu/tgn/7007945;http://vocab.getty.edu/tgn/1000063,Q4992;Q1243
@@ -1637,7 +1621,6 @@ Muradiye (Turkey),Muradiye;Turkey,http://vocab.getty.edu/tgn/1140822;http://voca
 Murano,Murano,http://vocab.getty.edu/tgn/7003021,Q76320
 Muro (Trent ),Trento (province),http://vocab.getty.edu/tgn/7003158,Q76254
 Murshidābād,Murshidabad,http://vocab.getty.edu/tgn/1076286,Q48710
-Myanmar,Myanmar,http://vocab.getty.edu/tgn/1000108,Q38257
 N. France,Northern France,http://vocab.getty.edu/tgn/4004036,Q1114
 N. France / Flanders,Northern France;Flanders,http://vocab.getty.edu/tgn/4004036;http://vocab.getty.edu/tgn/7024097,Q1114;Q126
 N. France (Arras?),Northern France;Arras,http://vocab.getty.edu/tgn/4004036;http://vocab.getty.edu/tgn/7008468,Q1114;Q7504
@@ -1662,7 +1645,6 @@ Naples and Mirabella,Naples;Mirabella,http://vocab.getty.edu/tgn/7004474;http://
 Neapoli,Naples,http://vocab.getty.edu/tgn/7004474,Q3099
 Near East,Middle East,http://vocab.getty.edu/tgn/7001526,Q38249
 Near East?,Middle East,http://vocab.getty.edu/tgn/7001526,Q38249
-NE France,Northeastern France,http://vocab.getty.edu/tgn/7669119,Q38264
 NE France / Rhineland,Northeastern France;Rhineland,http://vocab.getty.edu/tgn/7669119;http://vocab.getty.edu/tgn/7003683,Q38264;Q1305
 Negrar,Negrar,http://vocab.getty.edu/tgn/7051157,Q76312
 Nervesa,Nervesa della Battaglia,http://vocab.getty.edu/tgn/7003077,Q76310
@@ -1735,7 +1717,6 @@ Northern Italy or Austria?,Northern Italy;Austria,http://vocab.getty.edu/tgn/400
 northern Spain,Spain,http://vocab.getty.edu/tgn/1000095,Q129
 Northern Spain,Spain,http://vocab.getty.edu/tgn/1000095,Q129
 "Northern Spain, near Burgos",Spain;Burgos,http://vocab.getty.edu/tgn/1000095;http://vocab.getty.edu/tgn/7007510,Q129;Q12698
-North India?,India,http://vocab.getty.edu/tgn/7000198,Q138
 Northwestern Italy,Northwestern Italy,http://vocab.getty.edu/tgn/4005364,Q38268
 Northwest Germany,Germany,http://vocab.getty.edu/tgn/7000084,Q131
 Northwest Italy,Northwest Italy,http://vocab.getty.edu/tgn/8725286,Q42084
@@ -1846,8 +1827,6 @@ Poggibonsi (Italy),Poggibonsi;Italy,http://vocab.getty.edu/tgn/7006330;http://vo
 "Poh Mekhnese y.ʻa.E. [Meknès, Morocco",,,Q110663;Q3657
 Poiana,Poiana Maggiore,http://vocab.getty.edu/tgn/7055091,Q76311
 Poiano,Poiano,http://vocab.getty.edu/tgn/7055089,Q76285
-"Poissy, Northern France",Poissy;Northern France,http://vocab.getty.edu/tgn/7008066;http://vocab.getty.edu/tgn/4004036,Q42075;Q1114
-"Poissy?, France",Poissy;France,http://vocab.getty.edu/tgn/7008066;http://vocab.getty.edu/tgn/1000070,Q42075;Q122
 "Poitou?, France",,,Q42077;Q122
 Poland,Poland,http://vocab.getty.edu/tgn/7006366,Q19890
 "Poland, Bohemia",Poland;Bohemia,http://vocab.getty.edu/tgn/7006366;http://vocab.getty.edu/tgn/7006470,Q19890;Q7503
@@ -2014,7 +1993,6 @@ Seville,Seville,http://vocab.getty.edu/tgn/7008676,Q3102
 Shaanxi Sheng,Shaanxi,http://vocab.getty.edu/tgn/7002084,Q12708
 Shīrāz,Shiraz,http://vocab.getty.edu/tgn/7002148,Q27484
 "Shīrāz, [",Shiraz,http://vocab.getty.edu/tgn/7002148,Q27484
-"Shiraz, Iran",Shiraz;Iran,http://vocab.getty.edu/tgn/7002148;http://vocab.getty.edu/tgn/7000231,Q27484;Q2822
 Shiyāpūr [India,India,http://vocab.getty.edu/tgn/7000198,Q138
 "Šibenik, Croatia",Šibenik;Croatia,http://vocab.getty.edu/tgn/7015447;http://vocab.getty.edu/tgn/7006663,Q130;Q137
 "Šibenik, Croatia",Šibenik;Croatia,http://vocab.getty.edu/tgn/7015447;http://vocab.getty.edu/tgn/7006663,Q130;Q137
@@ -2027,7 +2005,6 @@ Siena?,Siena,http://vocab.getty.edu/tgn/7011179,Q3651
 "Siena?, Italy",Siena;Italy,http://vocab.getty.edu/tgn/7011179;http://vocab.getty.edu/tgn/1000080,Q3651;Q134
 Siena and Pavia,Siena;Pavia,http://vocab.getty.edu/tgn/7011179;http://vocab.getty.edu/tgn/7006026,Q3651;Q4995
 Simnān,Semnān,http://vocab.getty.edu/tgn/1001528,Q48688
-"Sinai, Egypt",Sinai;Egypt,http://vocab.getty.edu/tgn/7016814;http://vocab.getty.edu/tgn/7016833,Q114395;Q3086
 Sinigaglia,Senigallia,http://vocab.getty.edu/tgn/7004008,Q38296
 Sinop,Sinop,http://vocab.getty.edu/tgn/7002620,Q52684
 Sīrdān [Iran,Sīrdān;Iran,http://vocab.getty.edu/tgn/1079282;http://vocab.getty.edu/tgn/7000231,Q48681;Q2822
@@ -2055,7 +2032,6 @@ southern France or Spain,Southern France;Spain,http://vocab.getty.edu/tgn/400403
 Southern France or Spain,Southern France;Spain,http://vocab.getty.edu/tgn/4004037;http://vocab.getty.edu/tgn/1000095,Q19904;Q129
 Southern Germany,Southern Germany,http://vocab.getty.edu/tgn/4004316,Q4333
 "Southern Germany, Austria, or Switzerland",Southern Germany;Austria;Switzerland,http://vocab.getty.edu/tgn/4004316;http://vocab.getty.edu/tgn/1000062;http://vocab.getty.edu/tgn/7011731,Q4333;Q132;Q652
-"Southern Germany, perhaps Regensburg",Southern Germany;Regensburg,http://vocab.getty.edu/tgn/4004316;http://vocab.getty.edu/tgn/7013496,Q4333;Q5000
 "Southern Germany, Southern Germany",Southern Germany,http://vocab.getty.edu/tgn/4004316,Q4333
 southern Germany or Austria,Southern Germany;Austria,http://vocab.getty.edu/tgn/4004316;http://vocab.getty.edu/tgn/1000062,Q4333;Q132
 Southern Italy,Southern Italy,http://vocab.getty.edu/tgn/4005365,Q19911
@@ -2286,7 +2262,6 @@ Venice :,Venice,http://vocab.getty.edu/tgn/7018159,Q2823
 Venice?,Venice,http://vocab.getty.edu/tgn/7018159,Q2823
 Venice ?,Venice,http://vocab.getty.edu/tgn/7018159,Q2823
 "Venice?, Italy",Venice;Italy,http://vocab.getty.edu/tgn/7018159;http://vocab.getty.edu/tgn/1000080,Q2823;Q134
-"Venice?, Northeastern Italy",Venice;Northeastern Italy,http://vocab.getty.edu/tgn/7018159;http://vocab.getty.edu/tgn/4005362,Q2823;Q38265
 "Venice or Ferrara?, Italy",Venice;Ferrara;Italy,http://vocab.getty.edu/tgn/7018159;http://vocab.getty.edu/tgn/7004264;http://vocab.getty.edu/tgn/1000080,Q2823;Q1299;Q134
 "Verapaz, Guatemala",Alta Verapaz;Baja Verapaz;Guatemala,http://vocab.getty.edu/tgn/1000495;http://vocab.getty.edu/tgn/1000520;http://vocab.getty.edu/tgn/7005493,Q66888;Q66889;Q66885
 Veroana,Verona,http://vocab.getty.edu/tgn/7003262,Q124

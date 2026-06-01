@@ -8354,6 +8354,7 @@ Bermúdez family,0,a,,Bermúdez family,http://id.worldcat.org/fast/358796,Q66798
 Bhagavadgītā,fast,a,http://id.worldcat.org/fast/1356184,Bhagavadgītā,http://id.worldcat.org/fast/1356184,Q26635
 Bhagavadgītā,0,a,http://id.loc.gov/authorities/names/n79142762,Bhagavadgītā,http://id.worldcat.org/fast/1356184,Q26635
 Bhagavadgītā--Manuscripts,0,a--v,,Bhagavadgītā;Manuscripts,http://id.worldcat.org/fast/1356184;http://id.worldcat.org/fast/1424060,Q26635;Q331
+Bhagavadgītā--Specimens,0,a--v,,Bhagavadgītā;Specimens,http://id.worldcat.org/fast/1356184;http://id.worldcat.org/fast/1423861,Q26635;Q239
 Bhairava (Hindu deity),0,a;c,http://id.loc.gov/authorities/names/n2019244438,Bhairava (Hindu deity),http://id.worldcat.org/fast/831085,Q26863
 Bhairava (Hindu deity),fast,a;c,http://id.worldcat.org/fast/831085,Bhairava (Hindu deity),http://id.worldcat.org/fast/831085,Q26863
 Bhairava (Hindu deity)--Early works to 1800,0,a;c--v,,Bhairava (Hindu deity);Early works,http://id.worldcat.org/fast/831085;http://id.worldcat.org/fast/1411636,Q26863;Q300
@@ -8892,6 +8893,7 @@ Bible--Inspiration--Early works to 1800,0,a--x--v,,Bible;Inspiration;Early works
 "Bible--Language, style--Early works to 1800",0,a--x--v,,Bible;Literary style;Early works,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1136323;http://id.worldcat.org/fast/1411636,Q4267;Q11357;Q300
 Bible--Manuscripts,0,a--x,,Bible;Manuscripts,http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1424060,Q4267;Q331
 "Bible--Manuscripts, Armenian",0,a--x,,"Bible;Manuscripts, Armenian",http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1008290,Q4267;Q2964
+"Bible--Manuscripts, Ethiopic",0,a--x,,"Bible;Manuscripts, Ethiopic",http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1008334,Q4267;Q3511
 "Bible--Manuscripts, Hebrew",0,a--x,,"Bible;Manuscripts, Hebrew",http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1008360,Q4267;Q150
 "Bible--Manuscripts, Latin",0,a--x,,"Bible;Manuscripts, Latin",http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1008395,Q4267;Q210
 "Bible--Manuscripts, Latin",0,a--v,,"Bible;Manuscripts, Latin",http://id.worldcat.org/fast/1356024;http://id.worldcat.org/fast/1008395,Q4267;Q210
@@ -50334,10 +50336,12 @@ Orthodox Eastern Church--Liturgy and ritual.,0,a--x,,Orthodox Eastern Church;Lit
 Orthodox Eastern Church--Liturgy and ritual. Menologion,0,a--x;t,,Menologion (Orthodox Eastern Church);Liturgics,http://id.worldcat.org/fast/1368712;http://id.worldcat.org/fast/1000579,Q67945;Q207
 Orthodox Eastern Church--Liturgy--Manuscripts,0,a--x--x,,Orthodox Eastern Church;Liturgics;Manuscripts,http://id.worldcat.org/fast/510210;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1008230,Q4266;Q207;Q38609
 Orthodox Eastern Church--Liturgy--Texts,0,a--x--v,,Orthodox Eastern Church;Liturgics;Texts,http://id.worldcat.org/fast/510210;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705,Q4266;Q207;Q3066
+Orthodox Eastern Church--Liturgy--Texts--Manuscripts,0,a--x--v--v,,Orthodox Eastern Church;Liturgics;Texts;Manuscripts,http://id.worldcat.org/fast/510210;http://id.worldcat.org/fast/1000579;http://id.worldcat.org/fast/1423705;http://id.worldcat.org/fast/1424060,Q4266;Q207;Q3066;Q331
 Orthodox Eastern Church--Liturgy--Texts--Manuscripts,0,a--x--x--x,,Orthodox Eastern Church;Liturgics--Texts;Manuscripts,http://id.worldcat.org/fast/510210;http://id.worldcat.org/fast/1353585;http://id.worldcat.org/fast/1424060,Q4266;Q48418;Q331
 Orthodox Eastern Church--Liturgy--Texts--Manuscripts.,0,a--x--x--x,,Orthodox Eastern Church;Liturgics--Texts;Manuscripts,http://id.worldcat.org/fast/510210;http://id.worldcat.org/fast/1353585;http://id.worldcat.org/fast/1424060,Q4266;Q48418;Q331
 Orthodox Eastern Church--Prayers and devotions,0,a--v,,Orthodox Eastern Church;Prayers and devotions,http://id.worldcat.org/fast/510210;http://id.worldcat.org/fast/1423909,Q4266;Q3052
 Orthodox Eastern Church--Prayers and devotions.,0,a--v,,Orthodox Eastern Church;Prayers and devotions,http://id.worldcat.org/fast/510210;http://id.worldcat.org/fast/1423909,Q4266;Q3052
+Orthodox Eastern Church--Sermons--Manuscripts,0,a--x--x,,Orthodox Eastern Church;Sermons;Manuscripts,http://id.worldcat.org/fast/510210;http://id.worldcat.org/fast/1113216;http://id.worldcat.org/fast/1008230,Q4266;Q38598;Q38609
 Orthodox Eastern Church--Syria--History,0,a--z--x,,Orthodox Eastern Church;Syria;History,http://id.worldcat.org/fast/510210;http://id.worldcat.org/fast/1208757;http://id.worldcat.org/fast/958235,Q4266;Q11447;Q6879
 "Ortiz Campoy, Juan, active 1600-1620--Family",0,a;d--x,,Families,http://id.worldcat.org/fast/1728849,Q5939
 Ortiz family,0,a,,Ortiz family,http://id.worldcat.org/fast/217200,Q66801
@@ -50649,6 +50653,7 @@ Quadruple-Alliance (1718),6,a;d,,"Quadruple Alliance, 1718",http://id.worldcat.o
 "Qudūrī, Aḥmad ibn Muḥammad, 972 or 973-1037. Mukhtaṣar al-Qudūrī",0,a;d;t,,"Mukhtaṣar al-Qudūrī (Qudūrī, Aḥmad ibn Muḥammad)",http://id.worldcat.org/fast/1377526,Q63782
 Quintilian. Institutiones oratoriae,0,a;t,http://id.loc.gov/authorities/names/n81101868,Institutiones oratoriae (Quintilian),http://id.worldcat.org/fast/1356357,Q4955
 Quintilian. Institutiones oratoriae.,0,a;t,http://id.loc.gov/authorities/names/n81101868,Institutiones oratoriae (Quintilian),http://id.worldcat.org/fast/1356357,Q4955
+Qur'an--Manuscripts--19th century--Specimens,0,a--x--y--v,,Qurʼan;Manuscripts;Nineteenth century;Specimens,http://id.worldcat.org/fast/1842877;http://id.worldcat.org/fast/1008230;http://id.worldcat.org/fast/1037841;http://id.worldcat.org/fast/1423861,Q11441;Q38609;Q3538;Q239
 Qurʼan,0,a,,Qurʼan,http://id.worldcat.org/fast/1842877,Q11441
 Qurʼan,fast,a,(OCoLC)fst01842877,Qurʼan,http://id.worldcat.org/fast/1842877,Q11441
 Qurʼan.,fast,a,(OCoLC)fst01842877,Qurʼan,http://id.worldcat.org/fast/1842877,Q11441
