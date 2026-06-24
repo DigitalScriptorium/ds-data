@@ -1,0 +1,9 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Early works to 1800,ds-genre,,Early works,http://id.worldcat.org/fast/1411636,Q300,,,
+Manuscripts (documents),ds-genre,,,,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789
+decrees,ds-genre,,decrees,http://vocab.getty.edu/aat/300026925,Q2789,,,
+Deeds,ds-genre,,deeds,http://vocab.getty.edu/aat/300027249,Q283,,,
+receipts (financial records),ds-genre,,receipts (financial records),http://vocab.getty.edu/aat/300027573,Q219,,,
+manuscripts (documents),ds-genre,,,,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789
+illuminations (paintings),ds-genre,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225,,,
+books of hours,ds-genre,,,,,books of hours,http://vocab.getty.edu/aat/300026457,Q3618

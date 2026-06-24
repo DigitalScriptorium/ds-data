@@ -1,0 +1,18 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Antiphonaries,rbgenr,,,,,Antiphonaries,http://id.loc.gov/vocabulary/rbmscv/cv00118,Q10815
+Wooden boards (binding),rbbin,,,,,Wooden boards,http://id.loc.gov/vocabulary/rbmscv/cv00601,Q5870
+Clasps (binding),rbbin,,,,,Clasps,http://id.loc.gov/vocabulary/rbmscv/cv00448,Q12690
+Bosses (binding),rbbin,,,,,Bosses (Bindings),http://id.loc.gov/vocabulary/rbmscv/cv00444,Q12679
+Insect damage,aat,,insect damage,http://vocab.getty.edu/aat/300230031,Q114873,,,
+Legal instruments--France--16th century,rbgenr,,Legal instruments;France;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00057;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1119851,Q16322;Q152;Q335,,,
+Manuscripts--France--16th century,aat,,,,,manuscripts (documents);France;Sixteenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1119851,Q10789;Q152;Q335
+Vellum bindings (Binding)--France--16th century,rbbin,,Vellum bindings;France;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00543;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1119851,Q5878;Q152;Q335,,,
+Seals (Provenance),rbprov,,Seals,http://id.loc.gov/vocabulary/rbmscv/cv00267,Q16345,,,
+Manuscripts (documents),aat,,,,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789
+Vellum (parchment),aat,,,,,vellum (parchment),http://vocab.getty.edu/aat/300011852,Q10802
+Decorated initials--16th century,aat,,decorated initials;Sixteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1119851,Q10807;Q335,,,
+Books of hours,rbgenr,,,,,Books of hours,http://id.loc.gov/vocabulary/rbmscv/cv01037,Q38439
+Genealogical notes--France--16th century,rbprov,,Genealogical notes;France;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01397;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1119851,Q66733;Q152;Q335,,,
+manuscripts,aat,,,,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789
+decorated initials,aat,,,,,decorated initials,http://vocab.getty.edu/aat/300417548,Q10807
+pilgrim badges,aat,,,,,pilgrim badges,http://vocab.getty.edu/aat/300265066,Q38524
