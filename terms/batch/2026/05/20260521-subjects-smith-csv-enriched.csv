@@ -1,0 +1,12 @@
+File,subject_as_recorded,vocab,subfield_codes,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+20260521-subjects-smith-csv.csv,"Manuscripts, Spanish",ds-subject,,,"Manuscripts, Spanish",http://id.worldcat.org/fast/1008500,Q202,,,
+20260521-subjects-smith-csv.csv,Galicia (Spain : Region)--History--To 1500,ds-subject,,,Spain--Galicia (Region);History,http://id.worldcat.org/fast/1330488;http://id.worldcat.org/fast/958235,Q48188;Q6879,,,
+20260521-subjects-smith-csv.csv,Galicia (Spain : Region)--History--Sources,ds-subject,,,Spain--Galicia (Region);History;Sources,http://id.worldcat.org/fast/1330488;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1423900,Q48188;Q6879;Q2769,,,
+20260521-subjects-smith-csv.csv,"Manuscripts, French",ds-subject,,,"Manuscripts, French",http://id.worldcat.org/fast/1008338,Q319,,,
+20260521-subjects-smith-csv.csv,Deeds Real property,ds-subject,,,Deeds;Real property,http://id.worldcat.org/fast/889460;http://id.worldcat.org/fast/1091096,Q38803;Q161,,,
+20260521-subjects-smith-csv.csv,Real property--France,ds-subject,,,Real property;France,http://id.worldcat.org/fast/1091096;http://id.worldcat.org/fast/1204289,Q161;Q152,,,
+20260521-subjects-smith-csv.csv,Receipts (Acknowledgments),ds-subject,,,Receipts (Acknowledgments),http://id.worldcat.org/fast/1091333,Q26997,,,
+20260521-subjects-smith-csv.csv,"Manuscripts, Latin",ds-subject,,,,,,"Manuscripts, Latin",http://id.worldcat.org/fast/1008395,Q210
+20260521-subjects-smith-csv.csv,Real property--England,ds-subject,,,Real property;England,http://id.worldcat.org/fast/1091096;http://id.worldcat.org/fast/1219920,Q161;Q320,,,
+20260521-subjects-smith-csv.csv,Catholic Church--Prayers and devotions,ds-subject,,,Catholic Church;Prayers and devotions,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1935484,Q310;Q48394,,,
+20260521-subjects-smith-csv.csv,Books of hours -- Early works to 1800,ds-subject,,,Books of hours;Early works,http://id.worldcat.org/fast/836484;http://id.worldcat.org/fast/1411636,Q5889;Q300,,,
