@@ -1,0 +1,6 @@
+name_as_recorded,role,name_agr,source_authority_uri,instance_of_add,authorized_label_add,structured_value_add,ds_id_add,ds_qid_add,instance_of,authorized_label,structured_value,ds_qid
+"Isabella I, Queen of Spain, 1451-1504",author,,,human,Isabella I of Castile,Q45859,DSNAME5727,Q42200,,,,
+"Ferdinand V, King of Spain, 1452-1516",author,,,,,,,,human,Ferdinand II of Aragon,Q12860,Q7042
+Fernán d'Alva (Fernand Alvarez),scribe,,,,,,,,,,,
+Claude Vidal,scribe,,,,,,,,,,,
+Catholic Church.,author,,,,,,,,organization,Catholic Church,Q9592,Q425
