@@ -375,6 +375,7 @@ Breviaries--Spain--16th century,aat,,breviaries;Spain;Sixteenth century,http://v
 Breviaries--Switzerland--14th century,aat,,breviaries;Switzerland;Fourteenth century,http://vocab.getty.edu/aat/300026459;http://id.worldcat.org/fast/1205401;http://id.worldcat.org/fast/933420,Q4135;Q4281;Q295
 Broadsides,rbmscv,,Broadsides,http://id.loc.gov/vocabulary/rbmscv/cv00912,Q16265
 Brocade bindings (Binding),rbbin,,Brocade bindings,http://id.loc.gov/vocabulary/rbmscv/cv00449,Q5937
+Brocade papers,rbmscv,,Brocade papers,http://id.loc.gov/vocabulary/rbmscv/cv01049,Q114875
 Bullae (seals),aat,,bullae (seals),http://vocab.getty.edu/aat/300266223,Q8139
 Bulls,aat,,bulls (papal records),http://vocab.getty.edu/aat/300152044,Q4158
 Bulls (papal records),aat,,bulls (papal records),http://vocab.getty.edu/aat/300152044,Q4158
@@ -680,6 +681,7 @@ decorated initials,ds-genre,,decorated initials,http://vocab.getty.edu/aat/30041
 Decorated initials,aat,,decorated initials,http://vocab.getty.edu/aat/300417548,Q10807
 Decorated initials,aat,http://vocab.getty.edu/aat/300417548,decorated initials,http://vocab.getty.edu/aat/300417548,Q10807
 Decorated initials (Layout features)--Spain--16th century,aat,,decorated initials;Spain;Sixteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/1119851,Q10807;Q343;Q335
+Decorated initials--16th century,aat,,decorated initials;Sixteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1119851,Q10807;Q335
 Decorated initials--Czech Republic--15th century,aat,,decorated initials;Czech Republic;Fifteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1256743;http://id.worldcat.org/fast/923962,Q10807;Q19848;Q154
 Decorated initials--England--13th century,aat,,decorated initials;England;Thirteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/1150138,Q10807;Q320;Q245
 Decorated initials--England--14th century,aat,,decorated initials;England;Fourteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/933420,Q10807;Q320;Q295
@@ -699,9 +701,11 @@ Decorated initials--Netherlands--13th century,aat,,decorated initials;Netherland
 Decorated initials--Netherlands--15th century,aat,,decorated initials;Netherlands;Fifteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1204034;http://id.worldcat.org/fast/923962,Q10807;Q5863;Q154
 Decorated initialszSpain--16th century,aat,,decorated initials;Spain;Sixteenth century,http://vocab.getty.edu/aat/300417548;http://id.worldcat.org/fast/1204303;http://id.worldcat.org/fast/1119851,Q10807;Q343;Q335
 Decorated paper bindings (Binding),rbbin,,Decorated paper bindings,http://id.loc.gov/vocabulary/rbmscv/cv00493,Q75545
+decrees,ds-genre,,decrees,http://vocab.getty.edu/aat/300026925,Q2789
 Decrees,aat,,decrees,http://vocab.getty.edu/aat/300026925,Q2789
 Decretals,aat,,decretals,http://vocab.getty.edu/aat/300026927,Q241
 deeds,aat,,deeds,http://vocab.getty.edu/aat/300027249,Q283
+Deeds,ds-genre,,deeds,http://vocab.getty.edu/aat/300027249,Q283
 Deeds,aat,,deeds,http://vocab.getty.edu/aat/300027249,Q283
 Deeds,fast,,Deeds,http://id.worldcat.org/fast/1774263,Q38455
 Deeds,lcgft,http://id.loc.gov/authorities/genreForms/gf2011026193,Deeds,http://id.worldcat.org/fast/1774263,Q38455
@@ -876,6 +880,7 @@ Early works,fast,(OCoLC)fst01411636,Early works,http://id.worldcat.org/fast/1411
 Early works,fast,,Early works,http://id.worldcat.org/fast/1411636,Q300
 Early works,openn-form/genre,,Early works,http://id.worldcat.org/fast/1411636,Q300
 Early works.--Illinois--Chicago,fast,"(OCoLC)fst01411636650 0Manuscripts, Latin",Early works;Illinois--Chicago,http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1204048,Q300;Q67920
+Early works to 1800,ds-genre,,Early works,http://id.worldcat.org/fast/1411636,Q300
 Early works to 1800,local,,Early works,http://id.worldcat.org/fast/1411636,Q300
 Early works to 1800,,,Early works,http://id.worldcat.org/fast/1411636,Q300
 Eastertide,ds-genre,,Eastertide,http://id.worldcat.org/fast/901191,Q75942
@@ -1041,6 +1046,7 @@ Gauffered edges (Binding),rbbin,,Gauffered edges,http://id.loc.gov/vocabulary/rb
 Ge'ez--Ethiopia--20th century,aat,,Geez (language);Ethiopia;Twentieth century,http://vocab.getty.edu/aat/300388341;http://id.worldcat.org/fast/1205830;http://id.worldcat.org/fast/1159810,Q38475;Q11151;Q5942
 genealogical,ds-genre,,genealogy (discipline),http://vocab.getty.edu/aat/300054387,Q42416
 Genealogical notes,rbmscv,,Genealogical notes,http://id.loc.gov/vocabulary/rbmscv/cv01397,Q66733
+Genealogical notes--France--16th century,rbprov,,Genealogical notes;France;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01397;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1119851,Q66733;Q152;Q335
 Genealogical tables,aat,,genealogical tables,http://vocab.getty.edu/aat/300027016,Q8160
 Genealogical tables,openn-form/genre,,genealogical tables,http://vocab.getty.edu/aat/300027016,Q8160
 Genealogical tables--England--14th century,aat,,genealogical tables;England;Fourteenth century,http://vocab.getty.edu/aat/300027016;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/933420,Q8160;Q320;Q295
@@ -1400,6 +1406,7 @@ Illuminations,,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q
 illuminations (painting),aat,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
 Illuminations (painting),aat,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
 Illuminations (painting),openn-form/genre,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
+illuminations (paintings),ds-genre,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
 illuminations (paintings),aat,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
 Illuminations (paintings),aat,http://vocab.getty.edu/aat/300264522,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
 Illuminations (paintings),openn-form/genre,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
@@ -1485,6 +1492,7 @@ Inscriptions,gmgpc,,Inscriptions,http://id.worldcat.org/fast/1424057,Q55259
 Inscriptions,rbmscv,,Inscriptions,http://id.loc.gov/vocabulary/rbmscv/cv00180,Q5875
 "Inscriptions, Sabaean",lcsh,,"Inscriptions, Sabaean",http://id.worldcat.org/fast/973952,Q110371
 Inscriptions (Provenance),rbprov,,Inscriptions,http://id.loc.gov/vocabulary/rbmscv/cv00180,Q5875
+Insect damage,aat,,insect damage,http://vocab.getty.edu/aat/300230031,Q114873
 Insertions,rbmscv,,Insertions (Production),http://id.loc.gov/vocabulary/rbmscv/cv00768,Q16308
 Insertions (Provenance),rbprov,,Insertions (Provenance),http://id.loc.gov/vocabulary/rbmscv/cv00243,Q26941
 Installation sermons,rbgenr,,Installation sermons,http://id.loc.gov/vocabulary/rbmscv/cv01470,Q75553
@@ -1591,6 +1599,7 @@ Legal instruments,fast,(OCoLC)fst01774279,Legal instruments,http://id.worldcat.o
 Legal instruments,lcgft,,Legal instruments,http://id.worldcat.org/fast/1774279,Q27390
 Legal instruments,rbgenr,,Legal instruments,http://id.loc.gov/vocabulary/rbmscv/cv00057,Q16322
 Legal instruments,rbmscv,,Legal instruments,http://id.loc.gov/vocabulary/rbmscv/cv00057,Q16322
+Legal instruments--France--16th century,rbgenr,,Legal instruments;France;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00057;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1119851,Q16322;Q152;Q335
 Legal petitions,fast,(OCoLC)fst01774282,Legal petitions,http://id.worldcat.org/fast/1774282,Q42546
 Legal petitions,lcgft,,Legal petitions,http://id.worldcat.org/fast/1774282,Q42546
 Legends,fast,(OCoLC)fst01423803,Legends,http://id.worldcat.org/fast/1423803,Q5895
@@ -3001,6 +3010,7 @@ Marriage licenses--Italy--16th century,aat,,marriage licenses;Italy;Sixteenth ce
 Martyrologies,lcgft,,Martyrologies,http://id.worldcat.org/fast/1922463,Q66749
 Martyrologies,aat,http://vocab.getty.edu/aat/300026471,martyrologies,http://vocab.getty.edu/aat/300026471,Q38502
 Martyrologies--Germany--15th century,aat,,martyrologies;Germany;Fifteenth century,http://vocab.getty.edu/aat/300026471;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/923962,Q38502;Q3032;Q154
+Masnavis,rvmgf,,Masnavis,http://id.worldcat.org/fast/1922465,Q12520
 Masnavis,lcgft,,Masnavis,http://id.worldcat.org/fast/1922465,Q12520
 Masses,lcgft,,Masses,http://id.worldcat.org/fast/1726667,Q67933
 Maxims,aat,,maxims,http://vocab.getty.edu/aat/300264591,Q7785
@@ -3014,6 +3024,7 @@ menologions,aat,,menologions,http://vocab.getty.edu/aat/300185338,Q42555
 Menus,aat,,menus,http://vocab.getty.edu/aat/300027191,Q3557
 Merchandise inventories,aat,http://vocab.getty.edu/aat/300027146,merchandise inventories,http://vocab.getty.edu/aat/300027146,Q26999
 Merovingian scripts,aat,,Merovingian scripts,http://vocab.getty.edu/aat/300210049,Q66714
+Messes,rvmgf,,Masses,http://id.worldcat.org/fast/1726667,Q67933
 Metal clasps,rbmscv,,Metal clasps,http://id.loc.gov/vocabulary/rbmscv/cv00602,Q16297
 Metal clasps (Binding),rbbin,,Metal clasps,http://id.loc.gov/vocabulary/rbmscv/cv00602,Q16297
 Metal cuts,aat,,metal cuts,http://vocab.getty.edu/aat/300041396,Q6940
@@ -3193,6 +3204,7 @@ Occasional poems,rbmscv,,Occasional poems,http://id.loc.gov/vocabulary/rbmscv/cv
 Occasional verse,lcgft,,Occasional verse,http://id.worldcat.org/fast/1921726,Q66732
 Odes,lcgft,,Odes,http://id.worldcat.org/fast/1922491,Q66726
 Offertories,ds-genre,,Offertories (Music),http://id.worldcat.org/fast/1920265,Q75945
+Office divin (Musique),rvmgf,,Divine Office (Music),http://id.worldcat.org/fast/1920110,Q55345
 Onlays,lobt,,onlays (decorative components),http://w3id.org/lob/concept/1462,Q3046
 Onlays (decoration),lobt,,onlays (decorative components),http://w3id.org/lob/concept/1462,Q3046
 Onlays (decoration),openn-form/genre,,onlays (decorative components),http://w3id.org/lob/concept/1462,Q3046
@@ -4474,6 +4486,7 @@ Reading lists,aat,,reading lists,http://vocab.getty.edu/aat/300027166,Q4325
 Rebacking,rbmscv,,Rebacking,http://id.loc.gov/vocabulary/rbmscv/cv01807,Q67923
 Rebacking (Binding),rbbin,,Rebacking,http://id.loc.gov/vocabulary/rbmscv/cv01807,Q67923
 Receipts,aat,,receipts (financial records),http://vocab.getty.edu/aat/300027573,Q219
+receipts (financial records),ds-genre,,receipts (financial records),http://vocab.getty.edu/aat/300027573,Q219
 Receipts (financial records),aat,,receipts (financial records),http://vocab.getty.edu/aat/300027573,Q219
 Recessed sewing supports,lobt,,recessed sewing supports,http://w3id.org/lob/concept/2527,Q27454
 Recipes,aat,,recipes,http://vocab.getty.edu/aat/300027043,Q151
@@ -4601,6 +4614,7 @@ Seals (artifacts),aat,,seals (artifacts),http://vocab.getty.edu/aat/300028877,Q2
 Seals (artifacts)--France--14th century,aat,,seals (marks);France;Fourteenth century,http://vocab.getty.edu/aat/300417667;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/933420,Q38540;Q152;Q295
 Seals (marks),aat,,seals (marks),http://vocab.getty.edu/aat/300417667,Q38540
 Seals (Numismatics),lcsh,,Seals (Numismatics),http://id.worldcat.org/fast/1110321,Q27407
+Seals (Provenance),rbprov,,Seals,http://id.loc.gov/vocabulary/rbmscv/cv00267,Q16345
 Seals (Provenance),rbmscv,,Seals,http://id.loc.gov/vocabulary/rbmscv/cv00267,Q16345
 Sealskin bindings (Binding),rbbin,,Sealskin bindings,http://id.loc.gov/vocabulary/rbmscv/cv00694,Q67926
 Secondary sewing (endband techniques),lobt,,secondary sewing (endband techniques),http://w3id.org/lob/concept/2536,Q27432
@@ -4806,6 +4820,7 @@ Vellum bindings (Binding)--21st century,rbbin,,Vellum bindings,http://id.loc.gov
 Vellum bindings (Binding)--England--15th century,rbbin,,Vellum bindings;England;Fifteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00543;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/923962,Q5878;Q320;Q154
 Vellum bindings (Binding)--England--16th century,rbbin,,Vellum bindings;England;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00543;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/1119851,Q5878;Q320;Q335
 Vellum bindings (Binding)--England--17th century,rbbin,,Vellum bindings;England;Seventeenth century,http://id.loc.gov/vocabulary/rbmscv/cv00543;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/1113663,Q5878;Q320;Q2771
+Vellum bindings (Binding)--France--16th century,rbbin,,Vellum bindings;France;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00543;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/1119851,Q5878;Q152;Q335
 Vellum bindings (Binding)--Germany--15th century,rbbin,,Vellum bindings;Germany;Fifteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00543;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/923962,Q5878;Q3032;Q154
 Vellum bindings (Binding)--Germany--16th cent,rbbin,,Vellum bindings;Germany;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00543;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/1119851,Q5878;Q3032;Q335
 Vellum bindings (Binding)--Germany--16th century,rbbin,,Vellum bindings;Germany;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv00543;http://id.worldcat.org/fast/1210272;http://id.worldcat.org/fast/1119851,Q5878;Q3032;Q335
@@ -4898,6 +4913,7 @@ Wooden boards (Bindings),rbbin,,Wooden boards,http://id.loc.gov/vocabulary/rbmsc
 World maps,lcgft,,World maps,http://id.worldcat.org/fast/1726779,Q7403
 World maps,aat,,world maps,http://vocab.getty.edu/aat/300028442,Q2794
 World maps--17th century,aat,,world maps;Seventeenth century,http://vocab.getty.edu/aat/300028442;http://id.worldcat.org/fast/1113663,Q2794;Q2771
+wove paper,aat,,wove paper,http://vocab.getty.edu/aat/300014187,Q114874
 Wrappers,rbmscv,,Wrappers,http://id.loc.gov/vocabulary/rbmscv/cv00477,Q27360
 Wrappers (Binding)--Spain--1500,rbbin,,Wrappers,http://id.loc.gov/vocabulary/rbmscv/cv00477,Q27360
 Writing books--16th century,rbgenr,,Writing books;Sixteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01178;http://id.worldcat.org/fast/1119851,Q38555;Q335

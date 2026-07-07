@@ -150,6 +150,7 @@ Chiefly Arabic with some Persian,ara,Arabic;Persian,Q13955;Q9168,Q118;Q120
 Chiefly Arabic with some Samaritan Aramaic,ara,Arabic;Samaritan Aramaic,Q13955;Q56612,Q118;Q6995
 Chiefly in Arabic with 1 text in Ottoman Turkish,,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
 Chiefly in Arabic with a couple of texts in Ottoman Turkish,,Arabic;Ottoman Turkish,Q13955;Q36730,Q118;Q3104
+"Chiefly in Italian; explicits an d""Nota de Laura"" in Latin",,Italian;Latin,Q652;Q397,Q116;Q113
 "Chiefly in Latin, often lapsing into the vernacular. One piece, dated 1497, is entirely in Catalan",,Latin;Catalan,Q397;Q7026,Q113;Q1316
 "Chiefly in Latin, with a few documents in Spanish or Catalan",,Latin;Spanish,Q397;Q1321,Q113;Q114
 "Chiefly in Latin, with one document in Catalan",,Latin;Catalan,Q397;Q7026,Q113;Q1316
@@ -571,6 +572,7 @@ In Japanese,eng,Japanese,Q5287,Q12711
 In Japanese.,,Japanese,Q5287,Q12711
 In Japanese.,jpn,Japanese,Q5287,Q12711
 In Japanese.,eng,Japanese,Q5287,Q12711
+In Japanese katakana and Chinese characters,,Japanese;Chinese,Q5287;Q7850,Q12711;Q12715
 In Judeo-Arabic,,Judeo-Arabic,Q37733,Q38106
 In Judeo-Spanish (Ladino),,Judaeo-Spanish,Q36196,Q7217
 "In Kanbun, without typical Japanese reading marks",,Kanbun,Q7901319,Q67914
@@ -1401,6 +1403,7 @@ Portuguese; Latin,,Portuguese;Latin,Q5146;Q397,Q38114;Q113
 Portuguese and Latin,,Portuguese;Latin,Q5146;Q397,Q38114;Q113
 Portuguese with laid-in map of Mexico City in Spanish,por,Portuguese;Spanish,Q5146;Q1321,Q38114;Q114
 pra,pra,Prakrit,Q192170,Q27516
+Prayers are in Latin; calendar and rubrics are in French,,Latin;French,Q397;Q150,Q113;Q111
 "Predominant work in Hebrew (p. 19-234), with shorter works in Judeo-Arabic",heb;jrb,Hebrew;Judeo-Arabic,Q9288;Q37733,Q117;Q38106
 "Primarily in German; includes some French, Latin, and Greek text",,German;French;Latin;Greek,Q188;Q150;Q397;Q9129,Q112;Q111;Q113;Q1318
 "Primarily in German; some entries in Latin, French, or Hungarian",,German;Latin;French;Hungarian,Q188;Q397;Q150;Q9067,Q112;Q113;Q111;Q4336
