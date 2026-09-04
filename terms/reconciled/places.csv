@@ -586,6 +586,7 @@ England,England,http://vocab.getty.edu/tgn/7002445,Q133
 "England, Oxford (?)",England;Oxford,http://vocab.getty.edu/tgn/7002445;http://vocab.getty.edu/tgn/7011931,Q133;Q3654
 "England, Possibly south-east",England,http://vocab.getty.edu/tgn/7002445,Q133
 "England, Possibly south-east.",England,http://vocab.getty.edu/tgn/7002445,Q133
+"England, probably Oxford",England;Oxford,http://vocab.getty.edu/tgn/7002445;http://vocab.getty.edu/tgn/7011931,Q133;Q3654
 "England, South East England",England,http://vocab.getty.edu/tgn/7002445,Q133
 "England, Southern Lincolnshire",England;Lincolnshire,http://vocab.getty.edu/tgn/7002445;http://vocab.getty.edu/tgn/7008157,Q133;Q38229
 "England, Staffordshire",England;Staffordshire,http://vocab.getty.edu/tgn/7002445;http://vocab.getty.edu/tgn/7008174,Q133;Q1309
@@ -672,6 +673,7 @@ Flanders (Belgium),Flanders (region);Belgium,http://vocab.getty.edu/tgn/7018236;
 "Flanders (France), Flanders (?)",Flanders;France,http://vocab.getty.edu/tgn/7024097;http://vocab.getty.edu/tgn/1000070,Q126;Q122
 Flanders (possibly Ghent),Flanders;Ghent,http://vocab.getty.edu/tgn/7024097;http://vocab.getty.edu/tgn/7007887,Q126;Q16408
 Flanders or France,Flanders;France,http://vocab.getty.edu/tgn/7024097;http://vocab.getty.edu/tgn/1000070,Q126;Q122
+Flanders or Italy,Flanders;Italy,http://vocab.getty.edu/tgn/7024097;http://vocab.getty.edu/tgn/1000080,Q126;Q134
 Florence,Florence,http://vocab.getty.edu/tgn/7000457,Q3084
 "Florence, Italy",Florence;Italy,http://vocab.getty.edu/tgn/7000457;http://vocab.getty.edu/tgn/1000080,Q3084;Q134
 "Florence, Italy?",Florence;Italy,http://vocab.getty.edu/tgn/7000457;http://vocab.getty.edu/tgn/1000080,Q3084;Q134
@@ -1301,6 +1303,7 @@ Italy,Italy,http://vocab.getty.edu/tgn/1000080,Q134
 "Italy, Southern Italy",Italy;Southern Italy,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/4005365,Q134;Q19911
 "Italy, Southern Italy or eastern Meditteranean (?)",Italy;Southern Italy;Eastern Mediterranean,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/4005365;http://vocab.getty.edu/tgn/7593196,Q134;Q19911;Q3658
 "Italy, South Italy or Sicily",Italy;Southern Italy;Sicily,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/4005365;http://vocab.getty.edu/tgn/7003122,Q134;Q19911;Q6993
+"Italy, Spain, or France",Italy;Spain;France,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/1000095;http://vocab.getty.edu/tgn/1000070,Q134;Q129;Q122
 "Italy, Spilimbergo (Frioul)","Italy;Spilimbergo;Frioul, Port du",http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7005532;http://vocab.getty.edu/tgn/7645514,Q134;Q38301;Q38332
 "Italy, St. Cecilia, Rome",Italy;Rome,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7000874,Q134;Q123
 "Italy, Tivoli",Italy;Tivoli,http://vocab.getty.edu/tgn/1000080;http://vocab.getty.edu/tgn/7006968,Q134;Q38310
@@ -2233,6 +2236,7 @@ Turkey or the Balkans?],Turkey;Balkan Peninsula,http://vocab.getty.edu/tgn/10001
 Tuscany,Tuscany,http://vocab.getty.edu/tgn/7009760,Q860
 "Tuscany, Florence?, Italy",Tuscany;Florence;Italy,http://vocab.getty.edu/tgn/7009760;http://vocab.getty.edu/tgn/7000457;http://vocab.getty.edu/tgn/1000080,Q860;Q3084;Q134
 "Tuscany, Italy",Tuscany;Italy,http://vocab.getty.edu/tgn/7009760;http://vocab.getty.edu/tgn/1000080,Q860;Q134
+"Tuscany, Italy?",Tuscany;Italy,http://vocab.getty.edu/tgn/7009760;http://vocab.getty.edu/tgn/1000080,Q860;Q134
 "Tuscany, Siena?, Italy",Tuscany;Siena;Italy,http://vocab.getty.edu/tgn/7009760;http://vocab.getty.edu/tgn/7011179;http://vocab.getty.edu/tgn/1000080,Q860;Q3651;Q134
 Tuscany?,Tuscany,http://vocab.getty.edu/tgn/7009760,Q860
 "Tuscany?, Italy",Tuscany;Italy,http://vocab.getty.edu/tgn/7009760;http://vocab.getty.edu/tgn/1000080,Q860;Q134
