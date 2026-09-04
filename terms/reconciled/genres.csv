@@ -86,7 +86,7 @@ Annotations,rbmscv,,Annotations,http://id.loc.gov/vocabulary/rbmscv/cv00102,Q298
 Annotations,aat,,annotations,http://vocab.getty.edu/aat/300026100,Q251
 Annotations (Provenance),rbmscv,,Annotations,http://id.loc.gov/vocabulary/rbmscv/cv00102,Q2982
 Annotations (Provenance),aat,,annotations,http://vocab.getty.edu/aat/300026100,Q251
-Annotations (Provenance),openn-form/genre,,Annotations,http://id.loc.gov/vocabulary/rbmscv/cv00102,Q2982
+Annotations (Provenance),openn-form/genre,,annotations,http://vocab.getty.edu/aat/300026100,Q251
 Annotations (Provenance),rbprov,,Annotations,http://id.loc.gov/vocabulary/rbmscv/cv00102,Q2982
 anthologies,aat,,anthologies,http://vocab.getty.edu/aat/300026037,Q341
 Anthologies,aat,,anthologies,http://vocab.getty.edu/aat/300026037,Q341
@@ -293,7 +293,7 @@ Book of hours,aat,,books of hours,http://vocab.getty.edu/aat/300026457,Q3618
 Book of hours,ds-genre,,books of hours,http://vocab.getty.edu/aat/300026457,Q3618
 bookplates,aat,,bookplates,http://vocab.getty.edu/aat/300028731,Q110758
 Bookplates,rbmscv,,Bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00138,Q5847
-Bookplates (Provenance),openn-form/genre,,Bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00138,Q5847
+Bookplates (Provenance),openn-form/genre,,bookplates,http://vocab.getty.edu/aat/300028731,Q110758
 Bookplates (Provenance),rbprov,,Bookplates,http://id.loc.gov/vocabulary/rbmscv/cv00138,Q5847
 Bookplates (Provenance)--Denmark--20th century,rbprov,,Bookplates;Denmark;Twentieth century,http://id.loc.gov/vocabulary/rbmscv/cv00138;http://id.worldcat.org/fast/1204558;http://id.worldcat.org/fast/1159810,Q5847;Q5848;Q5942
 Bookplates (Provenance)--United States--20th century,rbprov,,Bookplates;United States;Twentieth century,http://id.loc.gov/vocabulary/rbmscv/cv00138;http://id.worldcat.org/fast/1204155;http://id.worldcat.org/fast/1159810,Q5847;Q5856;Q5942
