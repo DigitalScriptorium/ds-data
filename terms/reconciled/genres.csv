@@ -908,7 +908,7 @@ Enamel bindings (Binding)--Great Britain--16th century,rbbin,,Enamel bindings;Gr
 encyclopedias,ds-genre,,encyclopedias,http://vocab.getty.edu/aat/300129439,Q303
 Encyclopedias,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026092,Encyclopedias,http://id.worldcat.org/fast/1423798,Q38469
 Encyclopedias,aat,,encyclopedias,http://vocab.getty.edu/aat/300129439,Q303
-Encyclopedias,local,,Encyclopedias,http://id.worldcat.org/fast/1423798,Q38469
+Encyclopedias,local,,encyclopedias,http://vocab.getty.edu/aat/300129439,Q303
 "Encyclopedias and dictionaries, Arabic--15th century",lcsh,,"Encyclopedias and dictionaries, Arabic;Fifteenth century",http://id.worldcat.org/fast/909551;http://id.worldcat.org/fast/923962,Q101303;Q154
 Encyclopedias--China--16th century,aat,,encyclopedias;China;Sixteenth century,http://vocab.getty.edu/aat/300129439;http://id.worldcat.org/fast/1206073;http://id.worldcat.org/fast/1119851,Q303;Q12627;Q335
 Encyclopedias--Islamic Empire--13th century,rbgenr,,Encyclopedias;Islamic Empire;Thirteenth century,http://id.loc.gov/vocabulary/rbmscv/cv01290;http://id.worldcat.org/fast/1244134;http://id.worldcat.org/fast/1150138,Q48747;Q11211;Q245
@@ -1571,7 +1571,7 @@ Leather doublures,rbmscv,,Leather doublures,http://id.loc.gov/vocabulary/rbmscv/
 Leather doublures (Binding),rbbin,,Leather doublures,http://id.loc.gov/vocabulary/rbmscv/cv00583,Q11348
 Leaves--England--14th century,aat,,leaves (gathered matter);England;Fourteenth century,http://vocab.getty.edu/aat/300115833;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/933420,Q38487;Q320;Q295
 Leaves--France--14th century,aat,,leaves (gathered matter);France;Fourteenth century,http://vocab.getty.edu/aat/300115833;http://id.worldcat.org/fast/1204289;http://id.worldcat.org/fast/933420,Q38487;Q152;Q295
-Leaves from manuscripts,local,,Leaves,http://id.loc.gov/vocabulary/rbmscv/cv01515,Q38488
+Leaves from manuscripts,local,,leaves (gathered matter),http://vocab.getty.edu/aat/300115833,Q38487
 lectionaries,ds-genre,,lectionaries,http://vocab.getty.edu/aat/300026464,Q4274
 Lectionaries,aat,,lectionaries,http://vocab.getty.edu/aat/300026464,Q4274
 Lectionaries,fast,,Lectionaries,http://id.worldcat.org/fast/1922449,Q38489
@@ -3283,7 +3283,7 @@ Pastoral poetry,lcgft,http://id.loc.gov/authorities/genreForms/gf2014026476,Past
 Peciae,aat,,peciae,http://vocab.getty.edu/aat/300207627,Q38520
 Peciae--Italy--13th century,aat,,peciae;Italy;Thirteenth century,http://vocab.getty.edu/aat/300207627;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1150138,Q38520;Q249;Q245
 Peciae--Italy--14th century,aat,,peciae;Italy;Fourteenth century,http://vocab.getty.edu/aat/300207627;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/933420,Q38520;Q249;Q295
-Peciae marks,local,,Pecia,http://id.worldcat.org/fast/1056311,Q38521
+Peciae marks,local,,peciae,http://vocab.getty.edu/aat/300207627,Q38520
 pen and ink drawings,aat,http://vocab.getty.edu/aat/300404676,pen and ink drawings,http://vocab.getty.edu/aat/300404676,Q110656
 Pen and wash drawings,aat,,pen and wash drawings,http://vocab.getty.edu/aat/300266219,Q3053
 Penitentials,aat,,penitentials,http://vocab.getty.edu/aat/300211673,Q7093
