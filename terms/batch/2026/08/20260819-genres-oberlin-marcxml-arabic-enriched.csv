@@ -1,0 +1,10 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Manuscripts,lcgft,,,,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
+Illuminated manuscripts,aat,,,,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,Q4268
+Manuscripts,fast,,,,,Manuscripts,http://id.worldcat.org/fast/1424060,Q331
+charms (amulets),aat,,charms (amulets),http://vocab.getty.edu/aat/300422992,Q115048,,,
+Qur'ans,aat,,,,,Qur'ans,http://vocab.getty.edu/aat/300265128,Q3532
+illuminated manuscripts,aat,,,,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,Q4268
+Biographical dictionaries,lcgft,,Biographies;Dictionaries,http://id.worldcat.org/fast/1919896;http://id.worldcat.org/fast/1423826,Q3051;Q3041,,,
+fragments (object portions),aat,,,,,fragments (object portions),http://vocab.getty.edu/aat/300117130,Q222
+illuminated manuscript,aat,,illuminated manuscripts,http://vocab.getty.edu/aat/300265483,Q4268,,,
