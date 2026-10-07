@@ -1,0 +1,135 @@
+File,subject_as_recorded,vocab,subfield_codes,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+20260803-subjects-folger-tei.csv,Treatise,openn-keywords,,,,,,treatises,http://vocab.getty.edu/aat/300026681,Q160
+20260803-subjects-folger-tei.csv,15th century,openn-keywords,,,,,,Fifteenth century,http://id.worldcat.org/fast/923962,Q154
+20260803-subjects-folger-tei.csv,Italian,openn-keywords,,,,,,Italian (culture or style),http://vocab.getty.edu/aat/300111198,Q19876
+20260803-subjects-folger-tei.csv,Italy,openn-keywords,,,,,,Italy,http://id.worldcat.org/fast/1204565,Q249
+20260803-subjects-folger-tei.csv,Geography,openn-keywords,,,,,,Geography,http://id.worldcat.org/fast/940469,Q191
+20260803-subjects-folger-tei.csv,Grammar,openn-keywords,,,,,,"Grammar, Comparative and general",http://id.worldcat.org/fast/946126,Q19872
+20260803-subjects-folger-tei.csv,History,openn-keywords,,,,,,History,http://id.worldcat.org/fast/958235,Q6879
+20260803-subjects-folger-tei.csv,Rhetoric --Early works to 1800 --Manuscripts,openn-subjects,,,Rhetoric;Early works;Manuscripts,http://id.worldcat.org/fast/1096948;http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1008230,Q4915;Q300;Q38609,,,
+20260803-subjects-folger-tei.csv,Latin language --Punctuation --Early works to 1800 --Manuscripts,openn-subjects,,,Latin language--Punctuation;Early works;Manuscripts,http://id.worldcat.org/fast/993224;http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1008230,Q115107;Q300;Q38609,,,
+20260803-subjects-folger-tei.csv,Latin language --Terms and phrases --Early works to 1800 --Manuscripts,openn-subjects,,,Latin language;Terms and phrases;Early works;Manuscripts,http://id.worldcat.org/fast/993125;http://id.worldcat.org/fast/1147938;http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1008230,Q4170;Q106615;Q300;Q38609,,,
+20260803-subjects-folger-tei.csv,"Geography, Ancient --Early works to 1800 --Manuscripts",openn-subjects,,,"Geography, Ancient;Early works;Manuscripts",http://id.worldcat.org/fast/940567;http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1008230,Q3610;Q300;Q38609,,,
+20260803-subjects-folger-tei.csv,Italy --Description and travel --Early works to 1800 --Manuscripts,openn-subjects,,,Italy;Voyages and travels;Early works;Manuscripts,http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1169308;http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1008230,Q249;Q3600;Q300;Q38609,,,
+20260803-subjects-folger-tei.csv,Italy --Verona,openn-subjects,,,Italy--Verona,http://id.worldcat.org/fast/1204568,Q3599,,,
+20260803-subjects-folger-tei.csv,"Schioppo, Cristoforo, of Verona, scribe",openn-subjects,,,,,,,,
+20260803-subjects-folger-tei.csv,"Chilliat, R. P. active early 19th-century, binder",openn-subjects,,,,,,,,
+20260803-subjects-folger-tei.csv,Philosophy,openn-keywords,,,,,,Philosophy,http://id.worldcat.org/fast/1060777,Q5883
+20260803-subjects-folger-tei.csv,"Cicero, Marcus Tullius --Spurious and doubtful works --Manuscripts",openn-subjects,,,"Cicero, Marcus Tullius;Spurious and doubtful works;Manuscripts",http://id.worldcat.org/fast/32861;http://id.worldcat.org/fast/1423886;http://id.worldcat.org/fast/1008230,Q7943;Q7481;Q38609,,,
+20260803-subjects-folger-tei.csv,"Lasco, Antonio, active 1400 --Correspondence --Manuscripts",openn-subjects,,,Correspondence;Manuscripts,http://id.worldcat.org/fast/2003288;http://id.worldcat.org/fast/1008230,Q5829;Q38609,,,
+20260803-subjects-folger-tei.csv,"Seneca, Lucius Annaeus, approximately 4 B.C.-65 A.D. --Spurious and doubtful works --Manuscripts",openn-subjects,,,"Seneca, Lucius Annaeus, approximately 4 B.C.-65 A.D.;Spurious and doubtful works;Manuscripts",http://id.worldcat.org/fast/1846771;http://id.worldcat.org/fast/1423886;http://id.worldcat.org/fast/1008230,Q6948;Q7481;Q38609,,,
+20260803-subjects-folger-tei.csv,Aristotle. Eudemian ethics --Manuscripts,openn-subjects,,,Eudemian ethics (Aristotle);Manuscripts,http://id.worldcat.org/fast/1357093;http://id.worldcat.org/fast/1008230,Q7184;Q38609,,,
+20260803-subjects-folger-tei.csv,"Paul, the Apostle, Saint --Spurious and doubtful works --Manuscripts",openn-subjects,,,"Paul, the Apostle, Saint;Spurious and doubtful works;Manuscripts",http://id.worldcat.org/fast/37330;http://id.worldcat.org/fast/1423886;http://id.worldcat.org/fast/1008230,Q10818;Q7481;Q38609,,,
+20260803-subjects-folger-tei.csv,"Lasco, Antonio, active 1400, recipient",openn-subjects,,,,,,,,
+20260803-subjects-folger-tei.csv,"Ricasoli, Galeotto, active 1425",openn-subjects,,,,,,,,
+20260803-subjects-folger-tei.csv,Collection of Sermons,openn-keywords,,,,,,Sermons,http://id.worldcat.org/fast/1113216,Q38598
+20260803-subjects-folger-tei.csv,Literature -- Poetry,openn-keywords,,,,,,Literature;Poetry,http://id.worldcat.org/fast/999953;http://id.worldcat.org/fast/1067691,Q11485;Q38833
+20260803-subjects-folger-tei.csv,Catholic Church. Pope (1458-1464 : Pius II),openn-subjects,,,"Catholic Church. Pope;Pius II, Pope, 1405-1464",http://id.worldcat.org/fast/540752;http://id.worldcat.org/fast/19686,Q66850;Q4248,,,
+20260803-subjects-folger-tei.csv,Italy,openn-subjects,,,,,,Italy,http://id.worldcat.org/fast/1204565,Q249
+20260803-subjects-folger-tei.csv,"Botini, Paul, active 15th century, scribe",openn-subjects,,,,,,,,
+20260803-subjects-folger-tei.csv,"Fiano, Francesco da, -1421",openn-subjects,,,,,,,,
+20260803-subjects-folger-tei.csv,14th century,openn-keywords,,,,,,Fourteenth century,http://id.worldcat.org/fast/933420,Q295
+20260803-subjects-folger-tei.csv,"Justinus, Marcus Junianus. Historiae Philippicae. Books 11-12",openn-subjects,,,"Historiae Philippicae (Justinus, Marcus Junianus)",http://id.worldcat.org/fast/1357970,Q115080,,,
+20260803-subjects-folger-tei.csv,"Alexander, the Great, 356 B.C.-323 B.C. --Manuscripts",openn-subjects,,,"Alexander, the Great, 356 B.C.-323 B.C.;Manuscripts",http://id.worldcat.org/fast/1800513;http://id.worldcat.org/fast/1008230,Q3018;Q38609,,,
+20260803-subjects-folger-tei.csv,English,openn-keywords,,,,,,English (culture or style),http://vocab.getty.edu/aat/300111178,Q19855
+20260803-subjects-folger-tei.csv,England,openn-keywords,,,,,,England,http://id.worldcat.org/fast/1219920,Q320
+20260803-subjects-folger-tei.csv,"Cicero, Marcus Tullius. De officiis",openn-subjects,,,"De officiis (Cicero, Marcus Tullius)",http://id.worldcat.org/fast/1357636,Q115081,,,
+20260803-subjects-folger-tei.csv,"Cicero, Marcus Tullius. De fato",openn-subjects,,,"De fato (Cicero, Marcus Tullius)",http://id.worldcat.org/fast/1358545,Q115082,,,
+20260803-subjects-folger-tei.csv,"Cicero, Marcus Tullius. Paradoxa",openn-subjects,,,"Paradoxa (Cicero, Marcus Tullius)",http://id.worldcat.org/fast/1366183,Q115083,,,
+20260803-subjects-folger-tei.csv,"Cicero, Marcus Tullius. Somnium Scipionis",openn-subjects,,,"Somnium Scipionis (Cicero, Marcus Tullius)",http://id.worldcat.org/fast/1358303,Q115084,,,
+20260803-subjects-folger-tei.csv,"Cicero, Marcus Tullius. Laelius de amicitia",openn-subjects,,,"Laelius de amicitia (Cicero, Marcus Tullius)",http://id.worldcat.org/fast/1358210,Q115085,,,
+20260803-subjects-folger-tei.csv,"Cicero, Marcus Tullius. Cato maior de senectute",openn-subjects,,,"Cato maior de senectute (Cicero, Marcus Tullius)",http://id.worldcat.org/fast/1356319,Q115086,,,
+20260803-subjects-folger-tei.csv,"Cicero, Marcus Tullius. In Catilinam",openn-subjects,,,"In Catilinam (Cicero, Marcus Tullius)",http://id.worldcat.org/fast/1364770,Q115087,,,
+20260803-subjects-folger-tei.csv,"Tacitus, Cornelius. Annales. Selections",openn-subjects,,,"Annales (Tacitus, Cornelius)",http://id.worldcat.org/fast/1357318,Q115088,,,
+20260803-subjects-folger-tei.csv,Pseudo-Sallust. Invectiva in Ciceronem,openn-subjects,,,Invectiva in Ciceronem (Pseudo-Sallust),http://id.worldcat.org/fast/1784799,Q115089,,,
+20260803-subjects-folger-tei.csv,"Macrobius, Ambrosius Aurelius Theodosius. Commentarii in Somnium Scipionis --Manuscripts",openn-subjects,,,"Commentarii in Somnium Scipionis (Macrobius, Ambrosius Aurelius Theodosius);Manuscripts",http://id.worldcat.org/fast/1358095;http://id.worldcat.org/fast/1008230,Q115094;Q38609,,,
+20260803-subjects-folger-tei.csv,"Aeschines, Socraticus, active 4th century B.C. --Spurious and doubtful works --Manuscripts",openn-subjects,,,"Aeschines, Socraticus, active 4th century B.C.;Spurious and doubtful works;Manuscripts",http://id.worldcat.org/fast/1803489;http://id.worldcat.org/fast/1423886;http://id.worldcat.org/fast/1008230,Q115096;Q7481;Q38609,,,
+20260803-subjects-folger-tei.csv,Demosthenes --Spurious and doubtful works --Manuscripts,openn-subjects,,,Demosthenes;Spurious and doubtful works;Manuscripts,http://id.worldcat.org/fast/37144;http://id.worldcat.org/fast/1423886;http://id.worldcat.org/fast/1008230,Q66838;Q7481;Q38609,,,
+20260803-subjects-folger-tei.csv,"Marcellus, Marcus Claudius, -45 B.C. --Manuscripts",openn-subjects,,,"Marcellus, Marcus Claudius, -45 B.C.;Manuscripts",http://id.worldcat.org/fast/1832822;http://id.worldcat.org/fast/1008230,Q115097;Q38609,,,
+20260803-subjects-folger-tei.csv,"Sallust, 86 B.C.-34 B.C. --Spurious and doubtful works --Manuscripts",openn-subjects,,,"Sallust, 86 B.C.-34 B.C.;Spurious and doubtful works;Manuscripts",http://id.worldcat.org/fast/1845526;http://id.worldcat.org/fast/1423886;http://id.worldcat.org/fast/1008230,Q115098;Q7481;Q38609,,,
+20260803-subjects-folger-tei.csv,"Catiline, approximately 108 B.C.-62 B.C. --Spurious and doubtful works --Manuscripts",openn-subjects,,,"Catiline, approximately 108 B.C.-62 B.C.;Spurious and doubtful works;Manuscripts",http://id.worldcat.org/fast/1811802;http://id.worldcat.org/fast/1423886;http://id.worldcat.org/fast/1008230,Q4245;Q7481;Q38609,,,
+20260803-subjects-folger-tei.csv,"Demades, approximately 380 B.C.-319 B.C. --Spurious and doubtful works --Manuscripts",openn-subjects,,,"Demades, approximately 380 B.C.-319 B.C.;Spurious and doubtful works;Manuscripts",http://id.worldcat.org/fast/1815472;http://id.worldcat.org/fast/1423886;http://id.worldcat.org/fast/1008230,Q115099;Q7481;Q38609,,,
+20260803-subjects-folger-tei.csv,Flemish,openn-keywords,,,,,,Flemish (culture or style),http://vocab.getty.edu/aat/300111184,Q19846
+20260803-subjects-folger-tei.csv,Flanders,openn-keywords,,,,,,Europe--Flanders,http://id.worldcat.org/fast/1245991,Q4193
+20260803-subjects-folger-tei.csv,Paper,openn-keywords,,,,,,Paper,http://id.worldcat.org/fast/1052348,Q19842
+20260803-subjects-folger-tei.csv,"Augustine, Saint, Bishop of Hippo --Spurious and doubtful works --Manuscripts",openn-subjects,,,"Augustine, of Hippo, Saint, 354-430;Spurious and doubtful works;Manuscripts",http://id.worldcat.org/fast/61554;http://id.worldcat.org/fast/1423886;http://id.worldcat.org/fast/1008230,Q7397;Q7481;Q38609,,,
+20260803-subjects-folger-tei.csv,"Basil, Saint, Bishop of Caesarea, approximately 329-379. Correspondence --Manuscripts",openn-subjects,,,"Correspondence (Basil, Saint, Bishop of Caesarea);Manuscripts",http://id.worldcat.org/fast/1779667;http://id.worldcat.org/fast/1008230,Q115095;Q38609,,,
+20260803-subjects-folger-tei.csv,"Gregory, of Nazianzus, Saint. Correspondence --Manuscripts",openn-subjects,,,"Gregory, of Nazianzus, Saint;Correspondence;Manuscripts",http://id.worldcat.org/fast/19795;http://id.worldcat.org/fast/2003288;http://id.worldcat.org/fast/1008230,Q67963;Q5829;Q38609,,,
+20260803-subjects-folger-tei.csv,Eugippius --Spurious and doubtful works --Manuscripts,openn-subjects,,,Eugippius;Spurious and doubtful works;Manuscripts,http://id.worldcat.org/fast/1423886;http://id.worldcat.org/fast/1008230,Q1528;Q7481;Q38609,,,
+20260803-subjects-folger-tei.csv,Catholic Church --Doctrines --Early works to 1800 --Manuscripts,openn-subjects,,,Catholic Church;Early works;Manuscripts,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1008230,Q310;Q300;Q38609,,,
+20260803-subjects-folger-tei.csv,"Monasticism and religious orders --History --Middle Ages, 600-1500 --Manuscripts",openn-subjects,,,Monasticism and religious orders;History;Middle Ages;500-1500;Manuscripts,http://id.worldcat.org/fast/1025128;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1020301;http://id.worldcat.org/fast/1355938;http://id.worldcat.org/fast/1008230,Q4208;Q6879;Q39011;Q4252;Q38609,,,
+20260803-subjects-folger-tei.csv,Crusades --Early works to 1800 --Manuscripts,openn-subjects,,,Crusades;Early works;Manuscripts,http://id.worldcat.org/fast/884401;http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1008230,Q7405;Q300;Q38609,,,
+20260803-subjects-folger-tei.csv,Palestine --Description and travel --Early works to 1800 --Manuscripts,openn-subjects,,,Middle East--Palestine;Voyages and travels;Early works;Manuscripts,http://id.worldcat.org/fast/1207534;http://id.worldcat.org/fast/1169308;http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1008230,Q7204;Q3600;Q300;Q38609,,,
+20260803-subjects-folger-tei.csv,Jerusalem --History --Early works to 1800 --Manuscripts,openn-subjects,,,Middle East--Jerusalem;History;Early works;Manuscripts,http://id.worldcat.org/fast/1216276;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1008230,Q7086;Q6879;Q300;Q38609,,,
+20260803-subjects-folger-tei.csv,"Fretellus, Rorgo, active 12th century. Descriptio Terre Sancte",openn-subjects,,,,,,,,
+20260803-subjects-folger-tei.csv,"Basil, Saint, Bishop of Caesarea, approximately 329-379. Laus eremiticae vitae",openn-subjects,,,,,,,,
+20260803-subjects-folger-tei.csv,De miseria carnis,openn-subjects,,,,,,,,
+20260803-subjects-folger-tei.csv,Tractatus de distantiis locorum Terrae Sanctae,openn-subjects,,,,,,,,
+20260803-subjects-folger-tei.csv,"Basil, Saint, Bishop of Caesarea, approximately 329-379, correspondent",openn-subjects,,,"Basil, Saint, Bishop of Caesarea, approximately 329-379",http://id.worldcat.org/fast/1806981,Q66842,,,
+20260803-subjects-folger-tei.csv,"Gregory, of Nazianzus, Saint, recipient",openn-subjects,,,"Gregory, of Nazianzus, Saint",http://id.worldcat.org/fast/19795,Q67963,,,
+20260803-subjects-folger-tei.csv,Church Fathers,openn-keywords,,,,,,Fathers of the church,http://id.worldcat.org/fast/921916,Q19847
+20260803-subjects-folger-tei.csv,"Bede, the Venerable, Saint, 673-735. Historia ecclesiastica gentis Anglorum",openn-subjects,,,"Historia ecclesiastica gentis Anglorum (Bede, the Venerable, Saint)",http://id.worldcat.org/fast/1357137,Q115090,,,
+20260803-subjects-folger-tei.csv,"Nechtan mac Derile, King of the Picts, -732 --Correspondence --Manuscripts",openn-subjects,,,"Nechtan mac Derile, King of the Picts, -732;Correspondence;Manuscripts",http://id.worldcat.org/fast/2075541;http://id.worldcat.org/fast/2003288;http://id.worldcat.org/fast/1008230,Q115102;Q5829;Q38609,,,
+20260803-subjects-folger-tei.csv,"Ceolfrid, of Wearmouth, Saint, 642-716 --Correspondence --Manuscripts",openn-subjects,,,"Ceolfrid, of Wearmouth, Saint, 642-716;Correspondence;Manuscripts",http://id.worldcat.org/fast/338691;http://id.worldcat.org/fast/2003288;http://id.worldcat.org/fast/1008230,Q115100;Q5829;Q38609,,,
+20260803-subjects-folger-tei.csv,Easter --Early works to 1800 --Manuscripts,openn-subjects,,,Easter;Early works;Manuscripts,http://id.worldcat.org/fast/901099;http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1008230,Q3061;Q300;Q38609,,,
+20260803-subjects-folger-tei.csv,"Nechtan mac Derile, King of the Picts, -732, associated name",openn-subjects,,,"Nechtan mac Derile, King of the Picts, -732",http://id.worldcat.org/fast/2075541,Q115102,,,
+20260803-subjects-folger-tei.csv,Book of Hours,openn-keywords,,,,,,Books of hours,http://id.worldcat.org/fast/836484,Q5889
+20260803-subjects-folger-tei.csv,Devotion,openn-keywords,,,,,,Prayers and devotions,http://id.worldcat.org/fast/1423909,Q3052
+20260803-subjects-folger-tei.csv,Historiated initial,openn-keywords,,,,,,Historiated initials,http://id.worldcat.org/fast/957716,Q19864
+20260803-subjects-folger-tei.csv,Illumination,openn-keywords,,,,,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225
+20260803-subjects-folger-tei.csv,"Wakefield, Thomas, -1575 --Family --Manuscripts",openn-subjects,,,Families;Manuscripts,http://id.worldcat.org/fast/1728849;http://id.worldcat.org/fast/1008230,Q5939;Q38609,,,
+20260803-subjects-folger-tei.csv,Books of hours --Early works to 1800 --Manuscripts,openn-subjects,,,Books of hours;Early works;Manuscripts,http://id.worldcat.org/fast/836484;http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1008230,Q5889;Q300;Q38609,,,
+20260803-subjects-folger-tei.csv,Legal,openn-keywords,,,,,,Law,http://id.worldcat.org/fast/993678,Q4186
+20260803-subjects-folger-tei.csv,Law --England --14th century --Manuscripts,openn-subjects,,,Law;England;Fourteenth century;Manuscripts,http://id.worldcat.org/fast/993678;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/933420;http://id.worldcat.org/fast/1008230,Q4186;Q320;Q295;Q38609,,,
+20260803-subjects-folger-tei.csv,Great Britain --England,openn-subjects,,,Great Britain;England,http://id.worldcat.org/fast/1204623;http://id.worldcat.org/fast/1219920,Q179;Q320,,,
+20260803-subjects-folger-tei.csv,"Shakespeare, William, 1564-1616 --Friends and associates --Manuscripts",openn-subjects,,,"Shakespeare, William, 1564-1616;Friends and associates;Manuscripts",http://id.worldcat.org/fast/29048;http://id.worldcat.org/fast/1353140;http://id.worldcat.org/fast/1008230,Q115101;Q11488;Q38609,,,
+20260803-subjects-folger-tei.csv,Spiritual life --Early works to 1800 --Manuscripts,openn-subjects,,,Spiritual life;Early works;Manuscripts,http://id.worldcat.org/fast/1130100;http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1008230,Q7088;Q300;Q38609,,,
+20260803-subjects-folger-tei.csv,"Heinrich, von Langenstein, approximately 1325-1397. Speculum animae. Chapters 2-15",openn-subjects,,,,,,,,
+20260803-subjects-folger-tei.csv,Dutch,openn-keywords,,,,,,Dutch (culture or style),http://vocab.getty.edu/aat/300111175,Q19858
+20260803-subjects-folger-tei.csv,Netherlands,openn-keywords,,,,,,Netherlands,http://id.worldcat.org/fast/1204034,Q5863
+20260803-subjects-folger-tei.csv,Netherlands,openn-subjects,,,Netherlands,http://id.worldcat.org/fast/1204034,Q5863,,,
+20260803-subjects-folger-tei.csv,Apollonius of Tyre (Fictitious character)--Manuscripts,openn-subjects,,,"Apollonius, of Tyre (Fictitious character);Manuscripts",http://id.worldcat.org/fast/811447;http://id.worldcat.org/fast/1008230,Q115103;Q38609,,,
+20260803-subjects-folger-tei.csv,"Cockerell, Sydney Carlyle,--Sir,--1867-1962--Correspondence--Manuscripts",openn-subjects,,,"Cockerell, Sydney Carlyle, Sir, 1867-1962;Correspondence;Manuscripts",http://id.worldcat.org/fast/10810;http://id.worldcat.org/fast/2003288;http://id.worldcat.org/fast/1008230,Q115104;Q5829;Q38609,,,
+20260803-subjects-folger-tei.csv,"Butler, Charles,--1821-1910--Correspondence--Manuscripts",openn-subjects,,,"Butler, Charles, 1821-1910;Correspondence;Manuscripts",http://id.worldcat.org/fast/247392;http://id.worldcat.org/fast/2003288;http://id.worldcat.org/fast/1008230,Q115105;Q5829;Q38609,,,
+20260803-subjects-folger-tei.csv,Literature -- Prose,openn-keywords,,,,,,Prose literature,http://id.worldcat.org/fast/1079302,Q19843
+20260803-subjects-folger-tei.csv,Feudalism --Early works to 1800 --Manuscripts,openn-subjects,,,Feudalism;Early works;Manuscripts,http://id.worldcat.org/fast/923488;http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1008230,Q4857;Q300;Q38609,,,
+20260803-subjects-folger-tei.csv,"Birds, depicted",openn-subjects,,,Birds,http://id.worldcat.org/fast/832970,Q26998,,,
+20260803-subjects-folger-tei.csv,Theology,openn-keywords,,,,,,Theology,http://id.worldcat.org/fast/1149559,Q4290
+20260803-subjects-folger-tei.csv,16th century,openn-keywords,,,,,,Sixteenth century,http://id.worldcat.org/fast/1119851,Q335
+20260803-subjects-folger-tei.csv,Apologetics --Early works to 1800 --Manuscripts,openn-subjects,,,Apologetics;Early works;Manuscripts,http://id.worldcat.org/fast/811449;http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1008230,Q5940;Q300;Q38609,,,
+20260803-subjects-folger-tei.csv,Great Britain --England --London,openn-subjects,,,Great Britain;England--London,http://id.worldcat.org/fast/1204623;http://id.worldcat.org/fast/1204271,Q179;Q38890,,,
+20260803-subjects-folger-tei.csv,"Meghen, Pierre, 1466 or 1467-1540, scribe",openn-subjects,,,,,,,,
+20260803-subjects-folger-tei.csv,"Rufinus, of Aquileia, 345-410",openn-subjects,,,"Rufinus, of Aquileia, 345-410",http://id.worldcat.org/fast/106776,Q115091,,,
+20260803-subjects-folger-tei.csv,"Maximus, of Turin, Saint, active 4th-5th century",openn-subjects,,,"Maximus, of Turin, Saint, active 4th century-5th century",http://id.worldcat.org/fast/1833687,Q5813,,,
+20260803-subjects-folger-tei.csv,"Irenaeus, Saint, Bishop of Lyon, recipient",openn-subjects,,,"Irenaeus, Saint, Bishop of Lyon",http://id.worldcat.org/fast/49926,Q115092,,,
+20260803-subjects-folger-tei.csv,"Ambrose, Saint, Bishop of Milan, -397, correspondent",openn-subjects,,,"Ambrose, Saint, Bishop of Milan, -397",http://id.worldcat.org/fast/1804362,Q7690,,,
+20260803-subjects-folger-tei.csv,Italy --Ferrara (Province),openn-subjects,,,Italy--Ferrara (Province),http://id.worldcat.org/fast/1330849,Q115049,,,
+20260803-subjects-folger-tei.csv,Chronicle,openn-keywords,,,,,,chronicles,http://vocab.getty.edu/aat/300026361,Q176
+20260803-subjects-folger-tei.csv,Great Britain --History --1066-1687 --Manuscripts,openn-subjects,,,Great Britain;History;Manuscripts,http://id.worldcat.org/fast/1204623;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1008230,Q179;Q6879;Q38609,,,
+20260803-subjects-folger-tei.csv,Poetry,openn-keywords,,,Poetry,http://id.worldcat.org/fast/1067691,Q38833,,,
+20260803-subjects-folger-tei.csv,Fragment,openn-keywords,,,,,,fragments (object portions),http://vocab.getty.edu/aat/300117130,Q222
+20260803-subjects-folger-tei.csv,Binding,openn-keywords,,,,,,binding (textile material),http://vocab.getty.edu/aat/300421867,Q19879
+20260803-subjects-folger-tei.csv,"Christian poetry, English (Middle) --Manuscripts",openn-subjects,,,"Christian poetry, English (Middle);Manuscripts",http://id.worldcat.org/fast/859417;http://id.worldcat.org/fast/1008230,Q7182;Q38609,,,
+20260803-subjects-folger-tei.csv,"Love poetry, English (Middle) --Manuscripts",openn-subjects,,,"Love poetry, English (Middle);Manuscripts",http://id.worldcat.org/fast/1002865;http://id.worldcat.org/fast/1008230,Q12638;Q38609,,,
+20260803-subjects-folger-tei.csv,Christian ethics --Poetry --Early works to 1800 --Manuscripts,openn-subjects,,,Christian ethics;Poetry;Early works;Manuscripts,http://id.worldcat.org/fast/859107;http://id.worldcat.org/fast/1067691;http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1008230,Q4278;Q38833;Q300;Q38609,,,
+20260803-subjects-folger-tei.csv,Courtly love --Poetry --Early works to 1800 --Manuscripts,openn-subjects,,,Courtly love;Poetry;Early works;Manuscripts,http://id.worldcat.org/fast/881740;http://id.worldcat.org/fast/1067691;http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1008230,Q12621;Q38833;Q300;Q38609,,,
+20260803-subjects-folger-tei.csv,13th century,openn-keywords,,,,,,Thirteenth century,http://id.worldcat.org/fast/1150138,Q245
+20260803-subjects-folger-tei.csv,Science,openn-keywords,,,,,,Science,http://id.worldcat.org/fast/1108176,Q7409
+20260803-subjects-folger-tei.csv,Dictionary,openn-keywords,,,,,,Encyclopedias and dictionaries,http://id.worldcat.org/fast/909533,Q175
+20260803-subjects-folger-tei.csv,"Shakespeare, William, 1564-1616 --Authorship --Baconian theory --Manuscripts",openn-subjects,,,"Shakespeare, William, 1564-1616;Authorship;Manuscripts",http://id.worldcat.org/fast/29048;http://id.worldcat.org/fast/822442;http://id.worldcat.org/fast/1008230,Q115101;Q48276;Q38609,,,
+20260803-subjects-folger-tei.csv,"Kinship --Early works to 1800, depicted",openn-subjects,,,Kinship;Early works,http://id.worldcat.org/fast/987769;http://id.worldcat.org/fast/1411636,Q115106;Q300,,,
+20260803-subjects-folger-tei.csv,France,openn-keywords,,,,,,France,http://id.worldcat.org/fast/1204289,Q152
+20260803-subjects-folger-tei.csv,Aristotle --Spurious and doubtful works --Manuscripts,openn-subjects,,,Aristotle;Spurious and doubtful works;Manuscripts,http://id.worldcat.org/fast/29885;http://id.worldcat.org/fast/1423886;http://id.worldcat.org/fast/1008230,Q296;Q7481;Q38609,,,
+20260803-subjects-folger-tei.csv,Emperors --Rome --Early works to 1800 --Manuscripts,openn-subjects,,,Emperors;Rome (Empire);Early works;Manuscripts,http://id.worldcat.org/fast/908898;http://id.worldcat.org/fast/1204885;http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1008230,Q5835;Q3038;Q300;Q38609,,,
+20260803-subjects-folger-tei.csv,"Rome --History --Empire, 30 B.C.-284 A.D. --Early works to 1800 --Manuscripts",openn-subjects,,,Rome (Empire);History;30 B.C.-476 A.D.;Early works;Manuscripts,http://id.worldcat.org/fast/1204885;http://id.worldcat.org/fast/958235;http://id.worldcat.org/fast/1355908;http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1008230,Q3038;Q6879;Q39068;Q300;Q38609,,,
+20260803-subjects-folger-tei.csv,"Ausonius, Decimus Magnus",openn-subjects,,,"Ausonius, Decimus Magnus",http://id.worldcat.org/fast/61738,Q115093,,,
+20260803-subjects-folger-tei.csv,German,openn-keywords,,,,,,"German (culture, style, period)",http://vocab.getty.edu/aat/300111192,Q19867
+20260803-subjects-folger-tei.csv,Germany,openn-keywords,,,,,,Germany,http://id.worldcat.org/fast/1210272,Q3032
+20260803-subjects-folger-tei.csv,Catholic Church. Decretales Gregorii IX --Manuscripts,openn-subjects,,,Decretales Gregorii IX (Catholic Church);Manuscripts,http://id.worldcat.org/fast/1361356;http://id.worldcat.org/fast/1008230,Q10793;Q38609,,,
+20260803-subjects-folger-tei.csv,Canon law --Early works to 1800 --Manuscripts,openn-subjects,,,Canon law;Early works;Manuscripts,http://id.worldcat.org/fast/845910;http://id.worldcat.org/fast/1411636;http://id.worldcat.org/fast/1008230,Q204;Q300;Q38609,,,
+20260803-subjects-folger-tei.csv,Germany,openn-subjects,,,Germany,http://id.worldcat.org/fast/1210272,Q3032,,,
+20260803-subjects-folger-tei.csv,French,openn-keywords,,,,,,French (culture or style),http://vocab.getty.edu/aat/300111188,Q19844
+20260803-subjects-folger-tei.csv,Binding waste,openn-keywords,,,,,,waste,http://vocab.getty.edu/aat/300253876,Q55356
+20260803-subjects-folger-tei.csv,France,openn-subjects,,,,,,France,http://id.worldcat.org/fast/1204289,Q152
+20260803-subjects-folger-tei.csv,Catholic Church. Pope (1227-1241 : Gregory IX),openn-subjects,,,"Catholic Church. Pope;Gregory IX, Pope, approximately 1170-1241",http://id.worldcat.org/fast/540752;http://id.worldcat.org/fast/1821696,Q66850;Q67957,,,
+20260803-subjects-folger-tei.csv,"Bonner, Edmund, 1500?-1569. Homelies",openn-subjects,,,,,,,,

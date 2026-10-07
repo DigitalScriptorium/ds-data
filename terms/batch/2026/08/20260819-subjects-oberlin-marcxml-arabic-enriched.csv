@@ -1,0 +1,7 @@
+File,subject_as_recorded,vocab,subfield_codes,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+20260819-subjects-oberlin-marcxml-arabic.csv,"Manuscripts, Arabic",0,a,,,,,"Manuscripts, Arabic",http://id.worldcat.org/fast/1008278,Q256
+20260819-subjects-oberlin-marcxml-arabic.csv,"Manuscripts, Persian",0,a,,,,,"Manuscripts, Persian",http://id.worldcat.org/fast/1008462,Q255
+20260819-subjects-oberlin-marcxml-arabic.csv,Persian poetry--1500-1796,0,a--y,,,,,Persian poetry,http://id.worldcat.org/fast/1058542,Q3582
+20260819-subjects-oberlin-marcxml-arabic.csv,Islam--Prayers and devotions,0,a--x,,,,,Islam--Prayers and devotions,http://id.worldcat.org/fast/979821,Q3036
+20260819-subjects-oberlin-marcxml-arabic.csv,Persian poetry--747-1500,0,a--y,,,,,Persian poetry,http://id.worldcat.org/fast/1058542,Q3582
+20260819-subjects-oberlin-marcxml-arabic.csv,"Poets, Persian--Biography",0,a--x,,"Poets, Persian--Biography",http://id.worldcat.org/fast/1426258,Q26802,,,
