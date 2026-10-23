@@ -1,0 +1,11 @@
+genre_as_recorded,vocab,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+"Manuscripts, Arabic",ds-genre,,"Manuscripts, Arabic",http://id.worldcat.org/fast/1008278,Q256,,,
+"Manuscripts, 19th century",ds-genre,,Manuscripts;Nineteenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/1037841,Q331;Q3538,,,
+Codices (bound manuscripts),ds-genre,,Codices (bound manuscripts),http://vocab.getty.edu/aat/300224200,Q168,,,
+Manuscripts (documents),ds-genre,,,,,manuscripts (documents),http://vocab.getty.edu/aat/300028569,Q10789
+Illuminations (painting),ds-genre,,illuminations (paintings),http://vocab.getty.edu/aat/300264522,Q225,,,
+Envelope flaps (features),ds-genre,,envelope flaps (features),http://w3id.org/lob/concept/1343,Q3541,,,
+Onlays (decorative components),ds-genre,,onlays (decorative components),http://w3id.org/lob/concept/1462,Q3046,,,
+"Manuscripts, Dutch",ds-genre,,"Manuscripts, Dutch",http://id.worldcat.org/fast/1008323,Q5931,,,
+"Manuscripts, 15th century",ds-genre,,Manuscripts;Fifteenth century,http://vocab.getty.edu/aat/300028569;http://id.worldcat.org/fast/923962,Q331;Q154,,,
+Decorated initials,ds-genre,,,,,decorated initials,http://vocab.getty.edu/aat/300417548,Q10807
