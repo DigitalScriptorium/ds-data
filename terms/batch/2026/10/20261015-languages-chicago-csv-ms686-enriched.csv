@@ -1,0 +1,12 @@
+language_as_recorded,language_code,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+Latin,,,,,Latin,Q397,Q113
+"Italian, Latin",,,,,Italian;Latin,Q652;Q397,Q116;Q113
+German,,,,,German,Q188,Q112
+Middle Dutch,,,,,Middle Dutch,Q178806,Q10833
+German and Latin,,,,,German;Latin,Q188;Q397,Q112;Q113
+Middle Dutch.,,,,,Middle Dutch,Q178806,Q10833
+German with some Latin,,,,,German;Latin,Q188;Q397,Q112;Q113
+Low German,,,,,Low German,Q25433,Q5013
+Dutch,,,,,Dutch,Q7411,Q793
+Latin and English,,,,,Latin;English,Q397;Q1860,Q113;Q109
+Italian or Venetian,,Italian;Venetian,Q652;Q32724,Q116;Q3662,,,
