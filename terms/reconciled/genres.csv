@@ -809,10 +809,10 @@ Dialogues,rbgenr,,Dialogues,http://id.loc.gov/vocabulary/rbmscv/cv00936,Q42559
 Dialogues (Literature),fast,(OCoLC)fst01921627,Dialogues (Literature),http://id.worldcat.org/fast/1921627,Q42534
 Dialogues (Literature),lcgft,,Dialogues (Literature),http://id.worldcat.org/fast/1921627,Q42534
 Dialogues (Littérature),rvmgf,,Dialogues (Literature),http://id.worldcat.org/fast/1921627,Q42534
-Diaries,aat,,diaries,http://vocab.getty.edu/aat/300027112,Q7960
-Diaries,openn-form/genre,http://id.loc.gov/authorities/sj96005295#concept,diaries,http://vocab.getty.edu/aat/300027112,Q7960
-Diaries,rbgenr,,Diaries,http://id.loc.gov/vocabulary/rbmscv/cv01150,Q17515
-Diaries--Italy--16th century,aat,,diaries;Italy;Sixteenth century,http://vocab.getty.edu/aat/300027112;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1119851,Q7960;Q249;Q335
+Diaries,aat,,Diaries,http://vocab.getty.edu/aat/300027112,Q7960
+Diaries,openn-form/genre,http://id.loc.gov/authorities/sj96005295#concept,Diaries,http://vocab.getty.edu/aat/300027112,Q7960
+Diaries,rbgenr,,Diaries,http://id.loc.gov/vocabulary/rbmscv/cv01150,Q7960
+Diaries--Italy--16th century,aat,,Diaries;Italy;Sixteenth century,http://vocab.getty.edu/aat/300027112;http://id.worldcat.org/fast/1204565;http://id.worldcat.org/fast/1119851,Q7960;Q249;Q335
 Diced leather bindings (Binding),rbbin,,Diced leather bindings,http://id.loc.gov/vocabulary/rbmscv/cv00507,Q5868
 dictionaries,aat,,Dictionaries,http://vocab.getty.edu/aat/300026186,Q2970
 Dictionaries,rbmscv,,Dictionaries,http://id.loc.gov/vocabulary/rbmscv/cv01241,Q2970
@@ -1547,7 +1547,7 @@ Japanese sewing,aat,,Japanese sewing,http://vocab.getty.edu/aat/300234836,Q67922
 Jataka stories,lcgft,,Jataka stories,http://id.worldcat.org/fast/1921697,Q110649
 Jeweled binding (Bindings),rbbin,,Jewelled bindings,http://id.loc.gov/vocabulary/rbmscv/cv00573,Q38484
 Jews--Netherlands--Amsterdam--Early works to 1800,lcsh,,Jews;Netherlands--Amsterdam;Early works,http://id.worldcat.org/fast/983135;http://id.worldcat.org/fast/1204180;http://id.worldcat.org/fast/1411636,Q323;Q75299;Q300
-Journals,rbgenr,,Diaries,http://id.loc.gov/vocabulary/rbmscv/cv01150,Q17515
+Journals,rbgenr,,Diaries,http://id.loc.gov/vocabulary/rbmscv/cv01150,Q7960
 Journals (accounts),aat,http://vocab.getty.edu/aat/300027087,journals (accounts),http://vocab.getty.edu/aat/300027087,Q18328
 Judicial records,aat,,judicial records,http://vocab.getty.edu/aat/300027850,Q3643
 Judicial records--England--15th century,aat,,judicial records;England;Fifteenth century,http://vocab.getty.edu/aat/300027850;http://id.worldcat.org/fast/1219920;http://id.worldcat.org/fast/923962,Q3643;Q320;Q154
