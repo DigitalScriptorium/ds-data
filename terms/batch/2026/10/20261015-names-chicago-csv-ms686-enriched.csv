@@ -1,0 +1,17 @@
+File,name_as_recorded,role,name_agr,source_authority_uri,instance_of_add,authorized_label_add,structured_value_add,ds_id_add,ds_qid_add,instance_of,authorized_label,structured_value,ds_qid
+20261015-names-chicago-csv-ms686.csv,"Wandel, Sigurd, 1875-2014",former owner,,,,,,,,human,Sigurd Wandel,Q18716256,Q6099
+20261015-names-chicago-csv-ms686.csv,"Wandel, Gudrun, 1882-1976",former owner,,,,,,,,human,Gudrun Wandel,Q120442590,Q6098
+20261015-names-chicago-csv-ms686.csv,Petrus Comestor,author,,,,,,,,human,Petrus Comestor,Q785250,Q1586
+20261015-names-chicago-csv-ms686.csv,"Didymus of Alexandria, translated by Jerome",author,,,human,Didymus the Blind,Q188232,DSNAME4088,Q40533,,,,
+20261015-names-chicago-csv-ms686.csv,Petrus Cantor,author,,,human,Peter Cantor,Q1231596,DSNAME5003,Q41448,,,,
+20261015-names-chicago-csv-ms686.csv,Gregory the Great,author,,,,,,,,human,Gregory I,Q42827,Q889
+20261015-names-chicago-csv-ms686.csv,Gratianus,author,,,,,,,,human,Gratian,Q549041,Q1588
+20261015-names-chicago-csv-ms686.csv,Augustine,author,,,,,,,,human,Augustine of Hippo,Q8018,Q1515
+20261015-names-chicago-csv-ms686.csv,Haimo of Halberstadt,author,,,,,,,,human,Haymo of Halberstadt,Q472833,Q1917
+20261015-names-chicago-csv-ms686.csv,Isidore of Seville,author,,,,,,,,human,Isidore of Seville,Q166876,Q428
+20261015-names-chicago-csv-ms686.csv,Boethius,author,,,,,,,,human,Boethius,Q102851,Q398
+20261015-names-chicago-csv-ms686.csv,Augustine of Hippo,author,,,,,,,,human,Augustine of Hippo,Q8018,Q1515
+20261015-names-chicago-csv-ms686.csv,Peter the Lombard,author,,,,,,,,human,Peter Lombard,Q315347,Q1124
+20261015-names-chicago-csv-ms686.csv,Jerome,author,,,,,,,,human,Jerome,Q44248,Q898
+20261015-names-chicago-csv-ms686.csv,Priscianus,author,,,,,,,,human,Priscian,Q356433,Q1555
+20261015-names-chicago-csv-ms686.csv,Bernard of Pavia,author,,,,,,,,human,Bernardus Papiensis,Q826333,Q40278
