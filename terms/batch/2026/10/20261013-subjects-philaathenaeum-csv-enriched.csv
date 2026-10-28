@@ -1,0 +1,5 @@
+File,subject_as_recorded,vocab,subfield_codes,type-check,source_authority_uri,authorized_label_add,structured_value_add,ds_qid_add,authorized_label,structured_value,ds_qid
+20261013-subjects-philaathenaeum-csv.csv,"Mary, Blessed Virgin, Saint--Prayer-books and devotions--Dutch",ds-subject,,,,"Mary, Blessed Virgin, Saint;Prayers and devotions;Dutch language",http://id.worldcat.org/fast/68107;http://id.worldcat.org/fast/1935484;http://id.worldcat.org/fast/899732,Q244;Q3052;Q39048,,,
+20261013-subjects-philaathenaeum-csv.csv,Mary,ds-subject,,,,"Mary, Blessed Virgin, Saint",http://id.worldcat.org/fast/68107,Q244,,,
+20261013-subjects-philaathenaeum-csv.csv,Catholic Church--Liturgy,ds-subject,,,,Catholic Church;Liturgics,http://id.worldcat.org/fast/531720;http://id.worldcat.org/fast/1000579,Q310;Q207,,,
+20261013-subjects-philaathenaeum-csv.csv,Catholic Church,ds-subject,,,,,,,Catholic Church,http://id.worldcat.org/fast/531720,Q310
