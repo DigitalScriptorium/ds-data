@@ -216,6 +216,7 @@ embroidered silk over parchment,silk;parchment,http://vocab.getty.edu/aat/300014
 European laid paper with watermarks,paper,http://vocab.getty.edu/aat/300014109,Q31
 "European watermarked paper, illuminations",paper,http://vocab.getty.edu/aat/300014109,Q31
 fine vellum,parchment,http://vocab.getty.edu/aat/300011851,Q33
+fine white vellum,parchment,http://vocab.getty.edu/aat/300011851,Q33
 "folded widthwise; 1v left blank (according to Halper, ""2 paper leaves"" : ""originally it seems to have been one sheet, upon one side of which (not folded) was a letter in Arabic character, the lines being written lengthwise ... Some time later the letter was folded int two, and upon 1a was copied part of the burial service [...] in a Yemenite square hand"")",paper,http://vocab.getty.edu/aat/300014109,Q31
 glazed paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 "hand col., parchment",parchment,http://vocab.getty.edu/aat/300011851,Q33
@@ -258,6 +259,7 @@ laid paper with watermark,paper,http://vocab.getty.edu/aat/300014109,Q31
 laid paper with watermarks,paper,http://vocab.getty.edu/aat/300014109,Q31
 "Laid paper with watermarks, illuminations",paper,http://vocab.getty.edu/aat/300014109,Q31
 leather,leather,http://vocab.getty.edu/aat/300011845,Q27
+Leather scroll,leather,http://vocab.getty.edu/aat/300011845,Q27
 "light brown paper, glazed and watermarked with letters V. G.",paper,http://vocab.getty.edu/aat/300014109,Q31
 lontar,palm leaf,http://vocab.getty.edu/aat/300011894,Q30
 machine-made wove paper,paper,http://vocab.getty.edu/aat/300014109,Q31
@@ -333,7 +335,6 @@ Paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, illustrations ; 202 x 142 (135-155 x 67-85) mm. bound to 201 x 138 mm",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, illustrations ; 209 x 152 (162 x 80) mm bound to 216 x 155 mm",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, illustrations (some color)",paper,http://vocab.getty.edu/aat/300014109,Q31
-Paper (fiber product),paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, map",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, maps",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper, music",paper,http://vocab.getty.edu/aat/300014109,Q31
@@ -377,6 +378,7 @@ paper (2 leaves parchment),paper;parchment,http://vocab.getty.edu/aat/300014109;
 "paper (except f. 145, which is parchment)",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
 "paper (except ff. 1, 5, 6, 10, 11, 20, with are parchment)",paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
 paper (ff. 1-4) and vellum (ff. 5-10),paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
+Paper (fiber product),paper,http://vocab.getty.edu/aat/300014109,Q31
 paper (palimpsest),paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper (silked), ill.",paper,http://vocab.getty.edu/aat/300014109,Q31
 paper & vellum,paper;parchment,http://vocab.getty.edu/aat/300014109;http://vocab.getty.edu/aat/300011851,Q31;Q33
@@ -401,6 +403,7 @@ paper illustrations,paper,http://vocab.getty.edu/aat/300014109,Q31
 "Paper is laid and blue, no glazing",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper on card, illuminations",paper,http://vocab.getty.edu/aat/300014109,Q31
 "paper reinforced by card, color illustrations",paper,http://vocab.getty.edu/aat/300014109,Q31
+paper roll,paper,http://vocab.getty.edu/aat/300014109,Q31
 papyrus,papyrus,http://vocab.getty.edu/aat/300014127,Q32
 parchement,parchment,http://vocab.getty.edu/aat/300011851,Q33
 parchemnt,parchment,http://vocab.getty.edu/aat/300011851,Q33
@@ -555,6 +558,7 @@ parchmetn,parchment,http://vocab.getty.edu/aat/300011851,Q33
 pepar,paper,http://vocab.getty.edu/aat/300014109,Q31
 Polished Paper,paper,http://vocab.getty.edu/aat/300014109,Q31
 rag paper,paper,http://vocab.getty.edu/aat/300014109,Q31
+Roll of brown leather,leather,http://vocab.getty.edu/aat/300011845,Q27
 sanchipat,paper,http://vocab.getty.edu/aat/300014109,Q31
 sandstone block,stone,http://vocab.getty.edu/aat/300011176,Q36
 stone,stone,http://vocab.getty.edu/aat/300011176,Q36
@@ -583,8 +587,8 @@ vellum,parchment,http://vocab.getty.edu/aat/300011851,Q33
 "vellum, paper",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 "vellum, paper, ill.",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 "vellum, paper, illuminations",parchment,http://vocab.getty.edu/aat/300011851,Q33
-Vellum (parchment),parchment,http://vocab.getty.edu/aat/300011851,Q33
 "vellum (manuscript leaf), paper (accompanying letter)",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
+Vellum (parchment),parchment,http://vocab.getty.edu/aat/300011851,Q33
 vellum & paper,parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 vellum and paper,parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
 "vellum and paper, ill.",parchment;paper,http://vocab.getty.edu/aat/300011851;http://vocab.getty.edu/aat/300014109,Q33;Q31
